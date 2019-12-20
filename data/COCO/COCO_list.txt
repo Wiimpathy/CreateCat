@@ -1,0 +1,262 @@
+140825|3d Brick Away|3d Brick Away|||||||
+129433|3d Brickaway|3d Brickaway||||||Avalon Hill|
+129434|666 The Haunted House|666 The Haunted House|||||||
+129435|7 Card Stud|7 Card Stud|||||||
+140826|8-ball|8-ball|||||||
+129436|A Mazing World Of Malcom Mortar|A Mazing World Of Malcom Mortar||||||ZCT Systems|
+129437|Adventures In Mythology|Adventures In Mythology|||||||
+140814|Airline|Airline|||||||
+129438|Android Attack|Android Attack||Shooter,|||Spectral Associates|Spectral Associates|1982
+129439|Androne|Androne||||||Robert Arnstein|1983
+140815|Apples|Apples|||||||
+129440|Arena Of Skill|Arena Of Skill|||||||
+140816|Arex|Arex|Argo|,Software|||||
+129441|Arkanoid|Arkanoid||Action,|||Taito Corporation|Tandy|1989
+129442|Armchair Admiral|Armchair Admiral|||||||
+129443|Art Gallery|Art Gallery||||||Robert G. Kilgus|1981
+129444|Asimov Awards|Asimov Awards|||||||
+129445|Astroblast|Astroblast|||||Mark Data Products|Mark Data Products|
+129446|Atom|Atom||,Software||||Tandy|1983
+129447|Audio Spectrum Analyzer (1981) (26-3156) Steve Bjork|Audio Spectrum Analyzer (1981) (26-3156) Steve Bjork|||||||1981
+129448|Bagitman|Bagitman||Action,|1|||Aardvark Software|1983
+129449|Barbarian Quest|Barbarian Quest|||||||
+129450|Bc Bill|Bc Bill|||||Imagine Software|Imagine Software|
+129451|Beanstalker|Beanstalker||Action,|||Micro Vision Software|Micro Vision Software|1986
+129452|Bedlam|Bedlam|||||||
+129453|Bingo Math|Bingo Math||||||Tandy|1980
+129454|Blackbeard's Island|Blackbeard's Island|||||||
+129455|Blochead|Blochead||Action,|1|||Computerware|1983
+129456|Bridge Tutor I|Bridge Tutor I|||||||
+129457|Bustout|Bustout||||||Tandy|1981
+129458|Buzzard Bait|Buzzard Bait||Action,|2||Rugby Circle|Tom Mix|1983
+129459|Caladuril 2 - Weatherstone's End|Caladuril 2 - Weatherstone's End|||||||
+129460|Caladuril - Flame Of Light|Caladuril - Flame Of Light|||||||
+129461|Calixto Island|Calixto Island||Adventure,|||Mark Data Products|Mark Data Products|1983
+129462|Canyon Climber|Canyon Climber||||||Datasoft|1982
+140817|Cashman|Cashman|Hangman|,Puzzle|||||
+129463|Castle Guard|Castle Guard|||||||
+129464|Castle Of Tharoggad|Castle Of Tharoggad||||||Tandy|
+140818|Catalyst|Catalyst|||||||
+129465|Catch 'em|Catch 'em|Catch|Action,Wrestling|1|||Aardvark Software|1982
+129466|Cave Walker|Cave Walker||Puzzle,|1||Spectral Associates|Tandy|1986
+129467|Caves Of The Unwashed Heathen|Caves Of The Unwashed Heathen|||||||
+140819|Chamelion|Chamelion|||||||
+129468|Checker King|Checker King|||||||
+129469|Checkers|Checkers|Roman Checkers|,Chess|||||
+129470|Chess|Chess|Eggs|,Chess|||||
+129471|Chessd|Chessd|||||||
+140820|Chopper Strike|Chopper Strike|||||||
+129472|Classic Solitaire|Classic Solitaire|||||||
+129473|Clowns And Balloons|Clowns And Balloons|||||Datasoft, Inc.|Tandy|
+129474|Cocopro! Solitaire|Cocopro! Solitaire|||||||
+129475|Color Backgammon|Color Backgammon||Traditional,|2|||Tandy|1981
+129476|Color Baseball|Color Baseball||||||Dale A. Lear|1980
+129477|Color Computer Clue|Color Computer Clue|||||||
+129478|Color Computer Disk Basic For Fd502|Color Computer Disk Basic For Fd502||||||Tandy|
+129479|Color Computer Disk Basic V1.1|Color Computer Disk Basic V1.1||||||Tandy|
+129480|Color Cubes|Color Cubes|||||||
+129481|Color File|Color File||||||Tandy|1981
+129482|Color Forth|Color Forth||||||Microworks|1981
+140821|Color Invaders|Color Invaders|||||||
+129483|Color Logo|Color Logo||||||Larry Kheriaty & George Gerhold|1983
+129484|Color Meteoroids|Color Meteoroids||Shooter,|1||Spectral Associates|Spectral Associates|1981
+140822|Color Outhouse|Color Outhouse|||||||
+129485|Color Scripsit|Color Scripsit||||||Robert G. Kilgus|1981
+129486|Color Scripsit 2|Color Scripsit 2||||||Dale Lear|1986
+129487|Color Space Invaders|Color Space Invaders||Shooter,|1||Spectral Associates|Spectral Associates|1981
+140823|Colorbowl Football|Colorbowl Football|||||||
+129488|Conquering Armies|Conquering Armies|||||||
+140824|Crowley Manor|Crowley Manor|||||||
+129489|Crystle Castles|Crystle Castles||Action,|2||Thundervision|Thundervision|1984
+129490|Cuthbert Goes Digging|Cuthbert Goes Digging||Action,|1||Microdeal|Tandy|1983
+129491|Cuthbert Goes Walkabout|Cuthbert Goes Walkabout||Action,|1||Microdeal|Microdeal|1983
+129492|Cuthbert In The Mines|Cuthbert In The Mines|||||Microdeal|Tandy|
+129493|Cyrus|Cyrus||Traditional,|2|||Intelligent Chess Software|1982
+129494|Cyrus Chess|Cyrus Chess|||||||
+129495|Cyrus Wodl Class Chess|Cyrus Wodl Class Chess||||||Tandy|1983
+129496|Dallas Quest|Dallas Quest||Adventure,|||Datasoft, Inc.|Datasoft, Inc.|1899
+129497|Deluxe Rs-232 Program Pak|Deluxe Rs-232 Program Pak||||||Tandy|
+129498|Demolition Derby|Demolition Derby||||||Spectral Associates|1984
+129499|Demon Attack|Demon Attack||Shooter,|1||Imagic|Tandy|1984
+140827|Desert Patrol|Desert Patrol|||||||
+129500|Desert Rider|Desert Rider|||||||
+129501|Devil Assault|Devil Assault||Shooter,|1|||Tom Mix|1983
+129502|Diagnostics|Diagnostics||||||Tandy|1980
+129503|Diagnostics V2.0|Diagnostics V2.0||||||Tandy|1982
+129504|Dino Wars|Dino Wars||||||Robert G. Kilgus|1981
+129505|Direct Connect Modem Pak|Direct Connect Modem Pak||||||Tandy|1985
+129510|Don-pan|Don-pan||||||Tandy|1984
+129506|Donald Duck's Playground|Donald Duck's Playground||Educational,|||Sierra On-Line|Sierra On-Line|1984
+129507|Donkey King|Donkey King||Action,|2||Tom Mix|Tom Mix|1982
+129508|Donkey Kong|Donkey Kong||Action,|1||Nintendo|Personal Software|2007
+129509|Donkey Monkey|Donkey Monkey|||||||
+129511|Donut Dilemma|Donut Dilemma|||||||
+129512|Doodle Bug|Doodle Bug||Action,|2|||Computerware|1982
+129513|Doodle Bug 2|Doodle Bug 2||||||Computerware|1982
+129514|Doodle Bug 3|Doodle Bug 3||||||Computerware|1982
+129515|Doubleback|Doubleback||||||Dale A. Lear|1982
+129516|Downland|Downland||Puzzle,|||Spectral Associates|Spectral Associates|1983
+129517|Downland V1.0|Downland V1.0||||||Tandy|1983
+129518|Downland V1.1|Downland V1.1||||||Tandy|1983
+129519|Dr. J And Larry Bird Go One On One|Dr. J And Larry Bird Go One On One|||||Electronic Arts, Inc.|Electronic Arts, Inc.|
+129520|Dragonfire|Dragonfire||Action,|1||Imagic|Tandy|1984
+129521|Dungeons Of Daggorath|Dungeons Of Daggorath|||||DynaMicro|Tandy|
+129522|Dunkey Munkey|Dunkey Munkey||Action,|1||Intellectronics|Intellectronics|1982
+140828|Earth Quake San Franciso 1906|Earth Quake San Franciso 1906|||||||
+129523|Edtasm+|Edtasm+||||||Tandy|
+140829|El Diablero|El Diablero|||||||
+140830|Eliminator|Eliminator|||||||
+129524|Facemaker|Facemaker|||||Spinnaker Software|Tandy|1984
+140831|Fire Copter|Fire Copter|||||||
+129525|Flight Simulator 2|Flight Simulator 2||Shooter,|1||SubLogic|SubLogic|1987
+129526|Flight Simulator I|Flight Simulator I|||||||
+129527|Flight Simulator 2|Flight Simulator 2||Shooter,|1||||1987
+140832|Foodwar|Foodwar|||||||
+129528|Football|Football||Sports,||||Tandy|
+140833|Force, The|Force, The|||||||
+129529|Fraction Fever|Fraction Fever||||||Spinnaker|1984
+129530|Frogger|Frogger||Action,Arcade|||Konami|Sega Inc.|1983
+140834|Fury|Fury|||||||
+129531|Galatic Attack|Galatic Attack|||||||
+129532|Galax Attax|Galax Attax||Shooter,|1|||Spectral Associates|1982
+129533|Gfl Championship Football 2|Gfl Championship Football 2||||||ZCT Systems|
+129534|Gfl Championship Football 2|Gfl Championship Football 2|||||||
+129535|Ghana Bwana|Ghana Bwana|||||||
+129536|Gin Champion|Gin Champion|||||Philidor Software|Philidor Software|
+129537|Glaxxons|Glaxxons||Shooter,|2||Mark Data Products|Mark Data Products|1983
+129538|Gold Runner 2000|Gold Runner 2000||Puzzle,|1||MediaLink Development|MediaLink Development|1997
+129539|Gomoku-renju|Gomoku-renju||||||Intelligent Software Ltd|
+140858|Graphic Mars|Graphic Mars|||||||
+140859|Graphic Pyramid|Graphic Pyramid|||||||
+140835|Ice Master|Ice Master||Action,|1||Arcade Animation|Arcade Animation|1983
+129540|Jdos V1.08|Jdos V1.08||||||J&M Systems|
+129541|Jdos V1.10|Jdos V1.10||||||J&M Systems|
+129542|Jdos V1.23|Jdos V1.23||||||J&M Systems|
+140836|Jungle Queen|Jungle Queen|||||||
+129543|Jungle Quest|Jungle Quest||Educational,|||Parachute Press|Scholastic|1984
+129544|Junior's Revenge|Junior's Revenge||Action,|1||Computerware|Computerware|1983
+129545|Kids On Keys|Kids On Keys|||||Spinnaker Software|Tandy|
+129546|Kindercomp|Kindercomp||Educational,|1||Spinnaker Software|Tandy|1984
+129547|King's Quest 3 - To Heir Is Human|King's Quest 3 - To Heir Is Human|||||Sierra On-Line|Sierra On-Line|
+129548|Klendathu|Klendathu|||||Leo Christopherson|Tandy Corporation|
+129549|Koronis Rift|Koronis Rift||Shooter,|||LucasArts / LucasFilm|Epyx, Inc.|1987
+140837|Labryrinth|Labryrinth|||||||
+129550|Leisure Suit Larry In The Land Of The Lounge Lizards|Leisure Suit Larry In The Land Of The Lounge Lizards|||||Sierra On-Line|Sierra On-Line|
+129551|Lunar Rover Patrol|Lunar Rover Patrol||Racing,|1|||Spectral Associates|1983
+129552|Madness And The Minotaur|Madness And The Minotaur|||||Spectral Associates|Tandy|
+140838|Marathon|Marathon|||||||
+129553|Mega-bug|Mega-bug||||||Steve Bjork|
+129554|Mickey's Space Adventure|Mickey's Space Adventure||Puzzle,|1||Sierra On-Line|Tandy|1986
+129555|Micro Chess V2.0|Micro Chess V2.0||||||Personal Software|1980
+129556|Micro Painter|Micro Painter||||||Datasoft|1982
+129557|Microbes|Microbes|||||Spectral Associates|Ta|
+129558|Microchess|Microchess||Traditional,|||Micro-Ware|Personal Software|1980
+140839|Midway|Midway|||||||
+129559|Mind Roll|Mind Roll||Puzzle,|1||Thalamus|Epyx, Inc.|1988
+129560|Mind-roll|Mind-roll|||||||
+129561|Monkey Kong|Monkey Kong||Action,|2||Med Systems Software|Med Systems Software|1983
+129562|Monster Maze|Monster Maze||||||Tandy|
+129563|Moon Hopper|Moon Hopper||Shooter,|1|||Computerware|1983
+129564|Moon Shuttle|Moon Shuttle||Shooter,|1||Nichibutsu|Datasoft, Inc.|1983
+140840|Mt Doom|Mt Doom|||||||
+129565|Ninja Warrior|Ninja Warrior||Fighting,|6||Programmer's Guild|Programmer's Guild|1983
+129566|One On One|One On One|||||||
+129567|Orchestra 90-cc|Orchestra 90-cc||||||Tandy|
+129568|Pac Droids|Pac Droids||Action,|4|||Programmer's Guild|1982
+129569|Panic Button|Panic Button||Puzzle,|||First Star Software|Tandy|1983
+129570|Pegasus And The Phantom Riders|Pegasus And The Phantom Riders|||||||
+129571|Pengon|Pengon|Argo|Puzzle,|1||MegaSoft Entertainment|Spectral Associates|1983
+129572|Personal Finance|Personal Finance||||||Tandy|1980
+129573|Personal Finance 2|Personal Finance 2||||||Tandy|1983
+129574|Phantom Slayer|Phantom Slayer||Adventure,|1|||Med Systems Software|1982
+129575|Pinball|Pinball||||||Tandy|
+129576|Pitfall 2 - Lost Caverns|Pitfall 2 - Lost Caverns|||||Activision|Tandy|
+129577|Pitstop 2|Pitstop 2||Racing,|2||Epyx, Inc.|Epyx, Inc.|1985
+140841|Planet Raider|Planet Raider|||||||
+129578|Polaris|Polaris||||||Tandy|
+129579|Poltergeist|Poltergeist||||||Tandy|
+129580|Pooyan|Pooyan|Groan|Action,Board game|2||Konami|Datasoft, Inc.|1983
+129581|Popcorn|Popcorn||,Cards|||Datasoft, Inc.|Tandy|
+140842|Predator|Predator|||||||
+129582|Project Nebula|Project Nebula|||||Robert Arnstein|Tandy|
+129583|Protector 2|Protector 2||Shooter,|1||Synapse Software|Synapse Software|1983
+129584|Pyramid 2000|Pyramid 2000|||||||
+140843|Pyramix|Pyramix|||||||
+129585|Quasar Commander|Quasar Commander|||||Robert G. Kilgus|Robert G. Kilgus|
+140844|Quest|Quest|Eggs|,Arcade|||||
+140845|Quix|Quix|||||||
+129586|Raaka-tu|Raaka-tu|||||||
+129587|Rad Warrior|Rad Warrior||Action,Platform,|||Palace Software|Epyx, Inc.|1988
+129588|Radio Ball|Radio Ball|||||||
+129589|Rampage|Rampage||Action,|||Bally Manufacturing Corporation|Activision|1989
+129590|Reactoid|Reactoid||||||Robert Arnstein|
+129591|Rear Guard|Rear Guard||Action,|2||Adventure International|Adventure International|1983
+129592|Rescue On Fractalus!|Rescue On Fractalus!|||||LucasArts / LucasFilm|Epyx, Inc.|
+129593|Robocop|Robocop||Action,|1||Data East Corporation|Tandy|1989
+129594|Robot Odyssey|Robot Odyssey||Puzzle,|||Learning Company, The|Learning Company, The|1984
+129595|Rogue - The Adventure Game|Rogue - The Adventure Game|||||Artificial Intelligence Design|Epyx, Inc.|
+129596|Roman Checkers|Roman Checkers||||||Image Producers|1981
+129597|Rommel-3d|Rommel-3d|||||||
+129598|Rupert Rythm|Rupert Rythm|||||||
+140846|Saigon|Saigon|Argo|,Software|||||
+129599|Sands Of Egypt|Sands Of Egypt|||||||
+129600|Sea Dragon|Sea Dragon||Shooter,|2||Adventure International|Adventure International|1983
+129601|Shamus|Shamus||Arcade,|1||Synapse Software|Tandy|1983
+129602|Shanghai|Shanghai||Traditional,|||Activision|Activision|1987
+129603|Shock Trooper|Shock Trooper||Action,|1||Mark Data Products|Mark Data Products|1985
+129604|Shooting Gallery|Shooting Gallery|||||James Garon|Datasoft|
+129605|Silpheed|Silpheed||Shooter,|||Game Arts|Sierra On-Line|1988
+129606|Skiing|Skiing|||||Robert G. Kilgus|Robert G. Kilgus|
+129607|Skramble|Skramble||Shooter,|2||Microdeal|Tom Mix|1983
+129608|Slay The Nereis|Slay The Nereis|||||Spectral Associates|Spectral Associates|
+129609|Smash!|Smash!|||||||
+129611|Soko-ban|Soko-ban|||||||
+129610|Sokoban|Sokoban||Puzzle,|||Thinking Rabbit|Tandy|1988
+129612|Space Assault|Space Assault||||||Tandy Corporation|
+129613|Space Intruders|Space Intruders|||||||
+129614|Spectaculator|Spectaculator|||||||
+129615|Spidercide|Spidercide||||||Tandy|1983
+129616|Springster|Springster||||||Spectral Associates|1987
+129617|Sr-71|Sr-71|||||||
+129618|Star Blaze|Star Blaze|||||||
+140847|Star Fighter|Star Fighter|||||||
+140848|Star Trader|Star Trader|||||||
+129619|Star Trap|Star Trap|||||||
+129620|Starblaze|Starblaze|||||Greg Zumwalt|Greg Zumwalt|
+129621|Stellar Life Line|Stellar Life Line|||||||
+129622|Stellar Lifeline|Stellar Lifeline||||||Tandy|1983
+140849|Stronghold|Stronghold|||||||
+129623|Sub Battle Simulator|Sub Battle Simulator||Simulation,|1||Epyx, Inc.|Tandy|1988
+140850|Sub Polaris|Sub Polaris|||||||
+129624|Super Bustout|Super Bustout|||||||
+129625|Super Pitfall|Super Pitfall||Action,|2||SRB Software|Tandy|1988
+129626|Temple Of Rom|Temple Of Rom||||||Rick Adams|
+129627|Tennis|Tennis||Sports / Tennis,Sports,||||Tandy|
+129628|Tetris|Tetris||Puzzle,|1||AcademySoft|Tandy|1987
+129629|Andrea Coco, The|Andrea Coco, The|||||||
+129630|Thexder|Thexder||Shooter,|1||Game Arts|Sierra On-Line|1988
+129631|Time Bandit|Time Bandit||Action,|1|||Computer Shack|1983
+129632|Tower Of Fear|Tower Of Fear||||||Programmer's Guild|
+129633|Trapfall|Trapfall||Action,|1|||Tom Mix|1983
+129634|Treasury Pak|Treasury Pak|||||||
+140851|Trek 3|Trek 3|||||||
+140852|Tube-frenzy|Tube-frenzy|||||||
+140853|Tutankam|Tutankam|||||||
+129635|Typemate|Typemate||||||ZCT Systems|
+129636|Typing Tutor|Typing Tutor||||||Leah R. O'Connor|1980
+129637|Varloc|Varloc|Argo|,Software|||||
+140854|Venturer|Venturer|||||||
+129638|Videotex V1.1|Videotex V1.1||||||Tandy|1981
+129639|Videotex V1.2|Videotex V1.2||||||Tandy|1981
+140855|Viet Cong|Viet Cong|||||||
+129640|Voyager|Voyager||Strategy,|1|||Avalon Hill|1983
+140856|Wacky Food|Wacky Food|||||||
+129641|Warlocks Revenge, A|Warlocks Revenge, A|||||||
+129642|Where In The World Is Carmen Sandiego|Where In The World Is Carmen Sandiego|||||||
+129643|Wildcatting|Wildcatting|||||Image Producers|Tandy|
+129644|Wizard's Castle|Wizard's Castle|||||||
+129645|Worlds Of Flight|Worlds Of Flight|||||||
+129646|Z-89|Z-89||Shooter,|2||SRB Software|SRB Software|1989
+129647|Zaxxon|Zaxxon||Shooter,|2||Sega Inc.|Tandy|1983
+140857|Zeus|Zeus|Eggs|,Arcade|||||
+129648|Zone Runner|Zone Runner|||||||

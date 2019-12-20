@@ -1,0 +1,511 @@
+113421|1000 Bornes|1000 Bornes||,Cards|||J.Y. Boucrot|Free Game Blot|1985
+119095|1789|1789|||||Yves Laurisse, Vincent Balvet, Laurent-Pierre Gilliard|Infogrames|1986
+113423|1815|1815|||||Alain Savetier|CobraSoft|1985
+113424|20000 Avant J.c.|20000 Avant J.c.||||||Chip|1987
+113425|3d Fight|3d Fight|||||Jean-Christophe Bandini|Loriciels|1986
+113426|3d Sub|3d Sub||,Action||||Loriciels|1985
+113730|Air Attack|Air Attack||,Aerial fighting|||M. Béziat, E. Grassiano|Microïds|1985
+113428|Airbus|Airbus|Aire|,Management|||Christian Colongo, J.H. LLareus|Vifi-Nathan|1984
+113732|Alienator|Alienator|Eliminator|,Shooter|||Daniel Dochez L, Daniel Provenier|Ubisoft|1989
+113429|America's Cup|America's Cup|||||J. Pierre|Free Game Blot|1986
+113430|Androïdes + Editeur|Androïdes + Editeur|||||William Hennebois|Infogrames|1985
+113431|Aquanaute|Aquanaute|||||Bruno Ouachée|FIL|1987
+113432|Araignées|Araignées|||||Dominique Hedon|Microtom #2|1985
+119096|Arcade 1|Arcade 1|||||||
+113433|Arkanoid|Arkanoid||,Breakout|||James Higgins|FIL|1987
+113434|Armada|Armada|||||J. Salon|Langage et Informatique|1984
+113435|Arsène Lapin|Arsène Lapin||||||Infogrames|1985
+113738|Astérix Chez Rahazade|Astérix Chez Rahazade||||||Coktel Vision|1987
+113739|Astérix Et La Potion Magique|Astérix Et La Potion Magique||||||Coktel Vision|1987
+119097|Asteroides|Asteroides|Androides|,Arcade|||||
+119066|Astromus|Astromus||,Music||||Logimus|1984
+113437|Atlantis|Atlantis|||||Serge Querné|CobraSoft|1985
+113740|Atomik|Atomik||,Breakout|||Aldo Madur|FIL|1987
+119098|Atomium|Atomium|Atomik|,Breakout||||Vifi-Nathan|1982
+113741|Au Nom De L'hermine|Au Nom De L'hermine|||||Edith Perrinet, Anne Durand|Coktel Vision|
+113742|Aux Origines De La Vie|Aux Origines De La Vie||||||Carraz|
+113439|Avenger|Avenger||,Action|||C.Kerry, P.Harrap, S.Hollingworth, G.Holmes|FIL|1986
+113744|Backgammon|Backgammon||,Puzzle|||Philippe Barreau, Pierre Mauvigner|Nathan|1984
+113745|Bactron|Bactron|||1||Vincent Baillet, C. Akrich|Loriciels|1986
+113746|Balade En Ballon|Balade En Ballon|||||Gilbert Bérot|Sprites|1985
+113747|Ball Trap|Ball Trap||||||Sprites|1985
+113748|Balthazar|Balthazar||,Action|||Alain Fernandes|Titus|1987
+119103|Banque|Banque||||||Huet, Sylvain|
+113445|Barry Mc Guigan Championship Boxing|Barry Mc Guigan Championship Boxing|||||Troy Lindon, Activision|Loriciels|1986
+113446|Beach Head|Beach Head||,Strategy|||Access Games|FIL|1985
+113750|Bidul|Bidul|Aire|,Management|||Antoine Leca, Eric Canton|Infogrames|1984
+113751|Bivouac|Bivouac|||||Alain Vialon, Philippe Nottoli, Dominique Girou|Infogrames|1987
+119102|Black Bart|Black Bart||||||Huet, Sylvain|
+113450|Blitz Krieg|Blitz Krieg|Blitzkrieg|,Shooter|||Francis Malard|Malard, Francis|
+113449|Blitz!|Blitz|||||Richard Lang|Intelligent Software|1984
+113753|Blue Star|Blue Star|||||L. Giacinti|Free Game Blot|1987
+113754|Blue War|Blue War|||||Alain Guiri|Free Game Blot|1986
+113755|Blue War 2|Blue War 2|||||Alain Guiri|Free Game Blot|
+113756|Blueberry|Blueberry|||||Muriel Tramis|Coktel Vision|1987
+113453|Bob Morane Chevalerie 1|Bob Morane Chevalerie 1|||||Tuan Do Cao, Najib El Maadani, Philippe Nottoli, Pascal Burel|Infogrames|1987
+113454|Bob Morane Jungle 1|Bob Morane Jungle 1|||||Kamel Bala, Daniel Charpy, Pascal Burel, Laurent Salmeron|Infogrames|1987
+113455|Bob Morane Science Fiction 1|Bob Morane Science Fiction 1|||||William Hennebois, Richard Bottet, Yves Lamoureux|Infogrames|1987
+113760|Bob Winner|Bob Winner|||1||B. Auré, B. Masson|Loriciels|1987
+113456|Bobo|Bobo|FBI|,Action|||Kamel Bala, William Hennebois, Laurent Salmeron, Alain Vialon, Sylvain Tintillier|Infogrames|1988
+119101|Bombardier|Bombardier|||||||
+113457|Bomber|Bomber|Conte|,Software|||Alain Riboud|Hebdogiciel|1986
+113458|Boufy|Boufy|Golf|,Golf|||Ronan Mérien|Ronan, Merien|
+113459|Bowling Fou|Bowling Fou|||||Bruno Laurence|Hebdogiciel #104|1985
+113762|Brain Power|Brain Power||||||Softbook|1987
+113763|Breaker|Breaker|||||F. Arnaud|Free Game Blot|
+113764|Brigade Du Feu|Brigade Du Feu|||||Alain Mosnier|Coktel Vision|1985
+119100|Bubul|Bubul||||||Huet, Sylvain|
+113462|Buds|Buds|FBI|,Puzzle|||Marie-Francoise Doutre|Totek|1984
+113765|Bugs Buster|Bugs Buster|||||C. Hugel, P. Davin|Free Game Blot|
+113463|Bus|Bus|FBI|,Action|||Javier Marco|Marco Rubio, Javier|1986
+113464|Business+|Business+||||||FIL|1986
+113465|Cap Horn|Cap Horn||,Sports|||Fréderic Bessard, Philippe Reynaud|Coktel Vision|
+113466|Cap Sur Dakar|Cap Sur Dakar||,Puzzle||||Coktel Vision|1985
+113467|Captain Blood|Captain Blood|||||Didier Bouchon, Nicolas Massonnat|Ere Informatique|1988
+113468|Cartoon Maker|Cartoon Maker||||||Free Game Blot|1985
+113469|Cassebrique|Cassebrique|||||Christophe Vaillant|Hebdogiciel #140|1986
+113470|Catapulte|Catapulte|||||Paul Adorno|Hebdogiciel #38|1984
+113471|Categoric|Categoric|||||J.M. Cruells|No Man's Land|1984
+113769|Challenge (Coktelvision)|Challenge (Coktelvision)|||||Patrick Princ|Coktel Vision|1984
+170098|Challenge (Minipuce)|Challenge (Minipuce)|||||||
+113472|Challenge Voile|Challenge Voile|||||Philippe Darmagnac|Loriciels|1984
+113771|Chasseur Omega|Chasseur Omega|||||Grégory Ruck, Sylvain Karpf|Infogrames|1983
+113474|Château Noir Et Dragons Rouges|Château Noir Et Dragons Rouges|||||F. Leiritz|Vifi-Nathan|1985
+119106|Chenille|Chenille||||||Huet, Sylvain|
+113475|Chicago 90|Chicago 90||||||Microïds|1989
+119108|Choplifter|Choplifter||||||To Tek|1982
+155299|Classiques Volume 1|Classiques Volume 1|||||||
+155300|Classiques Volume 2|Classiques Volume 2|||||||
+155301|Classiques Volume 3|Classiques Volume 3|||||||
+155302|Classiques Volume 4|Classiques Volume 4|||||||
+119109|Cobra|Cobra|Cible|,Strategy||||Loriciels|1987
+119068|Cocotte|Cocotte|Conte|,Software||||FIL|1985
+119110|Coffret Cadeau|Coffret Cadeau||||||FIL|1986
+113774|Coliseum|Coliseum||,Action|||Louis-Marie Rocques|Loriciels|1985
+113775|Coloric|Coloric|Prologic|,Puzzle|||J. Dirani|Free Game Blot|1984
+119111|Compilation Disk|Compilation Disk||||||Pukall, Alexandre|1988
+119191|Compilation Disk 03|Compilation Disk 03|||||||
+119192|Compilation Disk 04|Compilation Disk 04|||||||
+119193|Compilation Disk Num 01|Compilation Disk Num 01|||||||
+119194|Compilation Disk Num 03|Compilation Disk Num 03|||||||
+119195|Compilation Disk Num 08|Compilation Disk Num 08|||||||
+119196|Compilation Disk Num 11|Compilation Disk Num 11|||||||
+119197|Compilation Disk Num 14|Compilation Disk Num 14|||||||
+119198|Compilation Disk Num 18|Compilation Disk Num 18|||||||
+119199|Compilation Jeux 14|Compilation Jeux 14|||||||
+113776|Connexion|Connexion||||||Mipso|
+113478|Contrôle Aérien|Controle Aerien|||||G. Claustre, C. de Stanski, M. Faraut, A. Mousset|Vifi-Nathan|1984
+113479|Coq Inn|Coq Inn||,Arcade|||Alain Fernandes|Nathan|1984
+113777|Crazy Cars|Crazy Cars|||||Eric Caen|Titus|1987
+113480|Crocky 2|Crocky 2||,Arcade|||Carlo Perconti|Loriciels|1984
+113778|Crucial Test|Crucial Test|||||Dominique Taccoen|Tomahawk|
+119112|Crypto|Crypto||||||Vifi-Nathan|1982
+113481|Crystann, Le Donjon De Diamant|Crystann, Le Donjon De Diamant||||||Novasoft|1985
+113780|Cyberlab|Cyberlab|||||Philippe Descamps, Marc Rolin|Totek|1984
+119069|Cyprien Dans La Course Aux Lettres|Cyprien Dans La Course Aux Lettres||||||Loriciels|1984
+113781|Cyrus Echecs|Cyrus Echecs|||||Richard Lang|Intelligent Software|1984
+119113|D And a - Donjon Et Aventure|D And a - Donjon Et Aventure||||||Huet, Sylvain|
+113782|Dakar 4x4|Dakar 4x4||,Racing||||Coktel Vision|1987
+113783|Dakar Moto|Dakar Moto|Dakar 4x4|,Racing||||Coktel Vision|1987
+119114|Dca|Dca|Defi|,Software|||||
+113784|Défi Au Tarot|Défi Au Tarot||||||Coktel Vision|
+119070|Delos Attack|Delos Attack||,Shooter||||Lesur, Christophe|1989
+113485|Démineur|Demineur|||||Michel Saint-Briant|ASCI|1992
+113785|Des Chiffres Et Des Lettres|Des Chiffres Et Des Lettres|||||Jean-Marie Caron|Nathan|1984
+119071|Devant Derriere|Devant Derriere||,Software||||Monnet, Francoise|
+113487|Dianne, Mission Rubidiums|Dianne, Mission Rubidiums|||||Novasoft|Loriciels - Novasoft|1985
+113786|Dom Camillo|Dom Camillo||||||Free Game Blot|
+113488|Dossier Boerhaave|Dossier Boerhaave|||||Pierre Bayle, Roger Granier|Infogrames|1986
+113489|Draughts|Draughts||||||FIL|1987
+119072|Dribble|Dribble|Cible|,Software||||FIL|1985
+113788|Duel 2000|Duel 2000||||||Coktel Vision|
+113789|Duel Au Colorado|Duel Au Colorado||,Adventure|||André Rocques|Chip|1986
+119115|Dungeons And Dragons|Dungeons & Dragons||||||Huet, Sylvain|
+113491|Echecs 3.7|Echecs 3.7|Echec v3.7|,Chess|||Heink Heijnen|CobraSoft|1985
+113492|Einstein 1|Einstein 1|||||Daniel Mavrakis, Marie-Pierre Olivier|Soft & Micro|1984
+113493|Eliminator|Eliminator||,Shooter|||Pascal Pellier|Loriciels|1984
+113793|Empire|Empire|Aire|,Management|||Philippe Darmagnac|Loriciels|1985
+113794|Enduro Racer|Enduro Racer||,Moto racing|2||David Fernandes, Olivier Corviole|FIL|1988
+113496|Energic|Energic||,Management|||Guy Dechelette|Hebdogiciel #94|1985
+113497|Enigmatika 1ère Série|Enigmatika 1ère Série||||||Answare|1984
+113498|Enigmatika 2e Série|Enigmatika 2e Série||||||Answare|1984
+113499|Enigmatika 4e Série|Enigmatika 4e Série||||||Answare|1984
+113500|Enigmatika 5e Série|Enigmatika 5e Série||||||Answare|1984
+113799|Entropie|Entropie|||||William Hennebois|Infogrames|1987
+113501|Erébus|Erebus|||||Eric Zmiro, Jean-Charles Meyrignac|EH Services|1986
+113502|Extra-mission|Extra-mission|||||Philippe Baroin|Shift-Edition|1985
+113504|F.b.i.|F.b.i.|||||Philippe Nottoli|Infogrames|1984
+113503|F15 Strike Eagle|F15 Strike Eagle||,Aerial fighting|||MicroProse|FIL|1987
+113802|Fantôme City|Fantôme City||||||Coktel Vision|
+113505|Félonies|Félonies|Felonies|,Adventure|||Guy Bec, Pascal Bacoux|Ere Informatique|1986
+119117|Fire|Fire|Aire|,Management||||Huet, Sylvain|
+113804|Fish|Fish|Aire|,Management|||Pascal Bacoux|Becbac inc|
+113506|Flash Point|Flash Point|||||L.F. Lonsdale, Ocean Software|FIL|1987
+119118|Flight|Flight||,Flight simulator||||Huet, Sylvain|
+113507|Flipper|Flipper||,Pinball|||Francois Bertrand|Loriciels|1984
+113508|Football|Football||||||Infogrames|1987
+113509|Formule 1|Formule 1||,F1 racing|||David C Bowler|FIL|1987
+119119|Formule 1 And Sorcery And Arkanoid And Game Over|Formule 1 And Sorcery And Arkanoid And Game Over||||||FIL|1987
+113809|Fox|Fox|FBI|,Arcade|||Florent Cogneaux|Shift Editions|1985
+113511|Galaxie Perdue|Galaxie Perdue||||||Sprites|1985
+113512|GameOver|GameOver|Game Over|,Action|||James Higgins|FIL|1987
+113812|Garden Party|Garden Party||||||Free Game Blot|
+119120|Gasp 8x8|Gasp 8x8||||||Huet, Sylvain|
+119121|Gemini|Gemini|Defi|,Software||||Vifi-Nathan|1982
+113514|Géodyssée|Géodyssée|||||Patrick Bideau, Vincent Caradec, Sylvie Renaud|Coktel Vision|1985
+119073|Ghostbusters|Ghostbusters|Ghostbuster|,Action||||Lesur, Christophe|1989
+113515|Glouton|Glouton|||||Patrick Abbati|Hebdogiciel|1986
+113813|Glouton Titus|Glouton Titus|||||Eric Caen|Titus|
+119122|Gobeur|Gobeur|Golf|,Golf||||Huet, Sylvain|
+113516|Graal|Graal|Golf|,Golf|||Eric et Isabelle Gurgey|Free Game Blot|1986
+113815|Grand Prix 500cc|Grand Prix 500cc|||||Elliot Grassiano|Microïds|1986
+113816|Grand Siècle|Grand Siècle|||||Eric et Isabelle Gurgey|Free Game Blot|1986
+113519|Gravitron, Valse Galactique|Gravitron, Valse Galactique||||||FIL|1985
+113520|Green Beret|Green Beret|Green Berret|,Action|||James Higgins|FIL|1986
+113521|Gulpy La Chenille Gourmande|Gulpy La Chenille Gourmande|||||Gérard Guiheneuf|Microtom #8|1986
+113522|Hacker|Hacker|Jauge|,Software|||Steve Cartwright (Activision), Alain Fernandes|Loriciels|1986
+119124|Helico|Helico|Defi|,Software||||Huet, Sylvain|
+119125|Helico 4|Helico 4||||||Huet, Sylvain|
+113820|Histoire De Theatre|Histoire De Theatre|||||A. Leonard, P. Davin|Free Game Blot|1985
+113523|Hms Cobra - Convois Pour Mourmansk|Hms Cobra - Convois Pour Mourmansk|||||Bertrand Brocard, Roland Morla|CobraSoft|1987
+113524|I.l. L'intrus|I.l. L'intrus|||||Sylvain Karpf|Infogrames|1984
+119075|Imperialis|Imperialis||,Software||||Coktel Vision|1986
+119076|In Ex|In Ex||||||Monnet, Francoise|
+113525|Indiana|Indiana|||||Jean Philippe Eimer, Laurent Eimer|Hebdogiciel #71|1985
+113526|Indiana Thom|Indiana Thom||||||Sprites|1985
+113527|Infierno|Infierno|||||Javier Marco|Rubio, Javier Marco & Escudero, Angelines Rubio|1986
+119077|Initiation Aux Echecs|Initiation Aux Echecs||,Chess||||Vifi-Nathan|1984
+113528|Inspecteur Gadget|Inspecteur Gadget|||||Kheireddine Chouaki|Vifi-Nathan|1984
+113529|Intox Et Zoe|Intox Et Zoe|||||Louis-Marie Rocques, Pascal Pellier|Loriciels - TF01|1984
+119078|Intrigue à Paris|Intrigue à Paris||||||Infogrames|1986
+113825|Invasion|Invasion|||||William Hennebois|Infogrames|1985
+113531|Isabelle Et Le Dragon|Isabelle et le Dragon||||||Hebdogiciel|1985
+113532|Island|Island||,Adventure|||Eleonor Rice|Micro Application - Informatics|1984
+113533|Iznogoud|Iznogoud||||||Infogrames|1987
+119127|Jack-pot|Jack-Pot||||||Wolff, Y.|
+113534|Jeu De Dames|Jeu De Dames||,Puzzle|||Vincent Baillet|Loriciels|1984
+119133|Jeu Du Dictionnaire|Jeu Du Dictionnaire||||||Boulanger, Emmanuel|
+113828|Jeu Guinness Des Records|Jeu Guinness Des Records||||||Ediciel|
+113535|Jeu Météo|Jeu Météo|||||||
+113829|Jeu Mondial Des Inventions|Jeu Mondial Des Inventions||||||Ediciel|
+135997|Jeu Vi 6|Jeu VI|||||||
+135999|Jeu Viii 8|Jeu VIII|||||||
+135998|Jeux 1|Jeux 1|||||||
+155303|Jeux Basic De Magazines|Jeux Basic De Magazines|||||||
+119132|Jeux Emmanuel Boulanger|Jeux Emmanuel Boulanger||||||Boulanger, Emmanuel|2000
+119131|Jeux Free Game Blot And Titus|Jeux Free Game Blot & Titus|||||||
+136000|Jeux N26|Jeux N26|||||||
+119129|Jeux To8|Jeux To8||||||FIL|
+119128|Jeux To9|Jeux TO9||||||FIL|1986
+113830|Judoka|Judoka|||||Philippe Matet, Michel Calmet|Nathan|1985
+113831|Jump For Survival|Jump For Survival|||||Reiner Ost|Free Game Blot|1986
+119130|Jumpman|Jumpman||||||Pukall, Alexandre|1986
+113832|Jungle Hero|Jungle Hero||,Arcade||||Softbook|2016
+113539|Kandy Krush Java|Kandy Krush Java|||||Daniel Coulom|DCSoft|2016
+113834|Kanicula|Kanicula||,Arcade||||Totek|1984
+113541|Karaté|Karate|||||Eric Mottet|Infogrames|1985
+113542|Keep Yourself Alive|Keep Yourself Alive|||||Yves Ada|Loriciels|1988
+119134|Keykong|Keykong||||||Huet, Sylvain|
+113543|Khronos|Khronos||,Adventure|||Benoit Gaborit, Philippe Maincon, Fred Trancart|Coktel Vision|1986
+119137|Kidkit|Kidkit|||||||
+119135|Kingkong|Kingkong||||||Huet, Sylvain|
+113544|Krakout|Krakout||,Breakout|1||Wayne Maw|FIL|1987
+113545|Kung Fou|Kung Fou|||2|||Softbook|1987
+113546|L'affaire Sydney|L'affaire Sydney|||||Gilles Blancon|Infogrames|1986
+113547|L'affaire Véra Cruz|L'affaire Véra Cruz|||||Gilles Blancon|Infogrames|1986
+113548|L'aigle D'or|L'aigle D'or|||||Louis-Marie Rocques|Loriciels|1985
+113549|L'albatros|L'albatros|||||||
+113550|L'evadé De Tapiocatraz|L'evadé De Tapiocatraz|||||André Rocques|Ere Informatique|1986
+119126|L'helicoptere|L'helicoptere|||||||
+119074|L'heritage|L'heritage||||||Infogrames|1986
+113551|L'héritage 2|L'héritage 2|||||Pierre Bayle|Infogrames|1986
+113552|L'usine Infernale|L'usine Infernale|||||Philippe Baroin|Shift-Edition|1985
+119067|Carte D'europe|Carte D'europe||||||Vifi-Nathan|1985
+113553|La Geste D'artillac|La Geste D'artillac|||||Francois Léger, Philippe Rabergeau, Thierry Souques|Infogrames|1985
+113554|La Grignote 2|La Grignote 2|||||Rémi Coulom|DCSoft|1985
+113555|La Maison Hantée|La Maison Hantée|||||Lilian Pigallio|Pigallio, Lilian|
+113556|La Malédiction De Thaar|La Malédiction De Thaar||||||Coktel Vision|1986
+113846|La Marque Jaune|La Marque Jaune|||||Bertrand Brocard, Roland Morla|CobraSoft|1988
+113847|La Mascotte|La Mascotte||||||Coktel Vision|1988
+113557|La Mine Aux Diamants|La Mine Aux Diamants|||||Philippe Bruneel, Christian Lemaire|Infogrames|1986
+113558|La Nuit Des Templiers|La Nuit Des Templiers|||||Coktel Vision|FIL|1986
+113850|La Planète Bleue|La Planète Bleue|||||Jériko|CFCF|
+113559|La Planète Inconnue|La Planète Inconnue|||||Coktel Vision|FIL|1985
+113852|La Princesse Riim|La Princesse Riim||||||Logimicro|
+119092|La Securite Social - En Jeu|La Securite Social - En Jeu|||||||
+113853|La Trilogie Du Temple D'apshai|La Trilogie Du Temple D'apshai|||||Xavier Cador, Antoine Mahieu|Epyx|
+119139|Laby|Laby|FBI|,Puzzle||||Huet, Sylvain|
+113560|Labyrinthe|Labyrinthe||,Puzzle|||Daniel Coulom|DCSoft|1986
+119138|Labyrinthe|Labyrinthe||,Puzzle||||Huet, Sylvain|
+119140|Labyrinthe Semi 3d|Labyrinthe Semi 3d||||||Huet, Sylvain|
+113854|Labyrinthe Survie|Labyrinthe Survie||,Puzzle|||Alain Rigolot|Nathan|1984
+113855|Las Vegas|Las Vegas|||||Pierre Bayle, Roger Granier|Infogrames|1985
+113856|Le 5ème Axe|5eme Axe|||||Didier Guillon, Olivier Guillion|Loriciels|1985
+113857|Le Bagh Chal (tigre Et Chèvres)|Le Bagh Chal (tigre Et Chèvres)|||||Th. Eveilleau|Free Game Blot|1985
+113565|Le Château De La Mort|Le Château De La Mort||||||CobraSoft|1985
+119105|Le Chateau Des Sphinx|Le Chateau Des Sphinx||||||Huet, Sylvain|
+113566|Le Compte Est Rond|Le Compte Est Rond||||||Hatier|1984
+113860|Le Crépuscule Du Naja|Le Crépuscule Du Naja||||||Chip|
+113568|Le Général|Le Général|||||André Rocques|Loriciels|
+119079|James Debug - Le Grand Saut|James Debug - Le Grand Saut|||||Marianne Rougeulle|Coktel Vision|1987
+113862|Le Jeu Des Marelles|Le Jeu Des Marelles|||||Reiner Ost|Free Game Blot|1987
+113863|Le Jeu Des Petits Chevaux|Le Jeu Des Petits Chevaux|||||Vincent Brévart|Edil|
+113864|Le Maléfice Des Atlantes|Le Malefice des Atlantes||||||Chip|1987
+113573|Le Masque Du Graille|Le Masque Du Graille|||||||
+113574|Le Métallurgiste|Le Métallurgiste|||||||
+113575|Le Millionnaire|Le Millionnaire|||||M. de Guilhermier|Ere Informatique|1984
+113865|Le Mystère De L'ile Perdue|Le Mystère De L'ile Perdue|||||Marianne Rougeulle|Coktel Vision|
+113576|Le Mystère De Ming-fonko|Le Mystère De Ming-fonko|||||Yves Kreicher|Hebdogiciel #121|1986
+113866|Le Mystère De Paris|Le Mystère De Paris|||||Marianne Rougeulle|Coktel Vision|1988
+119164|Le Pirate Gogol|Le Pirate Gogol||||||Maniac Soft|
+119088|Le Plus Beau Puzzle|Le Plus Beau Puzzle||||||Cedic-Nathan|1985
+113867|Le Talisman D'osiris|Le Talisman D'osiris||||||Chip|1986
+113579|Le Temple De Quauhtli|Le Temple De Quauhtli|||||Louis-Marie Rocques|Loriciels|1986
+119180|Le Temps D'une Histoire|Le Temps D'une Histoire||||||Infogrames|
+113869|Le Trésor Des Baskerville|Le Trésor Des Baskerville|||||André Rocques|Chip|
+113580|Le Trésor Des Rats D'egout|Le Trésor Des Rats D'egout||||||Nathan|1986
+113581|Le Trésor Du Pirate|Le Trésor Du Pirate|||||G. Laurent|Free Game Blot|1984
+113871|Légende|Légende|||||Laurent et Alain Fillion|FIL|
+113872|Lemmings|Lemmings|||||Yoann Riou|YRprod|
+113582|Les 7 Magiciens|Les 7 Magiciens|||||Philippe Baroin|Totek|1984
+119099|Les Athletes|Les Athletes||||||Infogrames|
+119104|Les Cartes Du Temps|Les Cartes Du Temps||||||Les Vagabonds du Temps|
+113583|Les Cavernes De Thénébé|Les Cavernes De Thénébé||||||Softbook|1987
+119107|Les Chevaliers|Les Chevaliers||||||Infogrames|1988
+113875|Les Chevaliers De L'an Mil|Les Chevaliers De L'an Mil|||||Laurent Freres|Ubisoft|
+113584|Les Contes De Monte-crypto|Les Contes De Monte-crypto|||||M. Perraut|Infogrames|1988
+113877|Les Dieux De La Glisse|Les Dieux De La Glisse|||||Kamel Bala, Alain Vialon|Infogrames|1986
+113878|Les Dieux De La Mer|Les Dieux De La Mer|||||Pascal Burel, Yves Lamoureux, Pierre Bayle, William Hennebois|Infogrames|1987
+113587|Les Dieux Du Stade|Les Dieux Du Stade|||||William Hennebois|Infogrames|1988
+113588|Les Dieux Du Stade 2|Les Dieux Du Stade 2|||||Kamel Bala, Emile Nguyen, Josyane Girard|Infogrames|1986
+113881|Les Enquêtes De Monsieur Théophile|Les Enquêtes De Monsieur Théophile|||||A. Benoiston|Hatier|1984
+113882|Les Mutants|Les Mutants|||||Laurent et Alain Fillion|FIL|
+113590|Les Passagers Du Vent|Les Passagers Du Vent|||||Daniel Charpy, Richard Bottet, Gerard Courouble, Tuan Do Cao|Infogrames|1986
+113884|Les Passagers Du Vent 2|Les Passagers Du Vent 2|||||Daniel Charpy, Richard Bottet, Gerard Courouble, Tuan Do Cao|Infogrames|1987
+113885|Les Placements D'epargne|Les Placements D'epargne||||||Answare|
+113886|Les Ripoux|Les Ripoux|||||Hervé Masson, Gilles Bertin|Infogrames|1987
+119141|Longueur|Longueur||||||Huet, Sylvain|
+113591|Lorann|Lorann||,Arcade|||Novasoft|Loriciels|1985
+113888|Loto|Loto|Conte|,Software|||Alain Guiri|Free Game Blot|
+113889|Lucky Luke - Nitroglycérine|Lucky Luke - Nitroglycérine||||||Coktel Vision|1987
+113593|Macadam Bumper|Macadam Bumper|||||Remi Herbulot, Sylvain Huet|Ere Informatique|1989
+113891|Mach 3|Mach 3|||1||Vincent Baillet|Loriciels|1987
+113892|Maddog|Maddog|||||Alain Fernandes|EH Services|1986
+113893|Magic|Magic|Defi|,Software||||Titus|1987
+119142|Maison Du Pr. Folibus|Maison Du Pr. Folibus||||||Huet, Sylvain|
+113597|Mandragore|Mandragore|||||Marc Cecchi, Christian Ballandras|Infogrames|1984
+113598|Marathon Cosmique|Marathon Cosmique|||||Julien Campagne|Hebdogiciel|1985
+113599|Marche À L'ombre|Marche À L'ombre|||||Kamel Bala, Gérard Courouble|Infogrames|1987
+113896|Masque +|Masque +|||||Philippe Baumard, Ates Omer|Ubisoft|1989
+113897|Maxi Bourse International|Maxi Bourse International|||||Bertrand Brocard, Jacky Adolphe|CobraSoft|
+113600|Mégawatt|Mégawatt|Megawatt|,Management||||Softbook|1987
+113601|Mélimémot|Mélimémot||||||Vifi-Nathan|1983
+119081|Melodia|Melodia|Melodimus|,Music||||Vifi-Nathan|1982
+113602|Mémo7|Mémo7|||||Jean-Yves Le Friec|Vifi-Nathan|1983
+113603|Mémory|Mémory|||||Daniel Coulom|DCSoft|1985
+113899|Menace Sur L'arctique|Menace Sur L'arctique||||||Chip|1987
+113605|Mes Premiers Mots Croisés|Mes Premiers Mots Croisés|||||Bernard Delarue, Jean-Paul Dupré|Vifi-Nathan|1983
+113606|Météo 7|Météo 7|||||Eric Mottet|Infogrames|1984
+113902|Météorisque|Météorisque|||||J.J. Bouet, G. Armand|Ludia|
+113607|Métro|Métro||||||Logimicro|1984
+113608|Meurtre À Grande Vitesse|Meurtre À Grande Vitesse|||||Bertrand Brocard|CobraSoft|1985
+113904|Meurtres En Série|Meurtres En Série|||||Bertrand Brocard|CobraSoft|1987
+113609|Meurtres Sur L'atlantique|Meurtres Sur L'atlantique|||||Bertrand Brocard|CobraSoft|1986
+113906|Mewilo|Mewilo|Defi|,Software|||Muriel Tramis|Coktel Vision|
+119082|Mgt|MGT|FBI|,Action||||Loriciels|
+119143|Mgt And Sapiens And 5eme Axe|MGT & Sapiens & 5eme Axe|||||||
+113907|Micro-scrabble|Micro-scrabble|Micro scrabble|,Puzzle||||FIL|1985
+113908|Microjeux - Cocktail 1|Microjeux - Cocktail 1|||||A. Deledicq, J. Delcourt, J.P. Duclos, J.B. Touchard, S. Pouts Lajus|Nathan|
+113909|Microjeux - Cocktail 2|Microjeux - Cocktail 2|||||A. Deledicq, J. Delcourt, J.P. Duclos, J.B. Touchard, S. Pouts Lajus|Nathan|
+113910|Microjeux - Cocktail 3|Microjeux - Cocktail 3|||||A. Deledicq, J. Delcourt, J.P. Duclos, J.B. Touchard, S. Pouts Lajus|Nathan|
+113911|Miner 2049er|Miner 2049er|||||Bill Hogue|FIL|1985
+113912|Mini-bridge|Mini-bridge|||||Vincent Brévart|Edil|1986
+113612|Minotaure 3d|Minotaure 3d||,Action|||D. Guillonnet|Loriciels|1985
+119145|Missiles|Missiles|||||||
+113914|Mission|Mission||,Aerial fighting|||Pascal Jarry|Loriciels|1987
+113614|Mission Delta|Mission Delta|||||Marc-André Rampon|Ere Informatique|1984
+113615|Mission Pas Possible|Mission Pas Possible||,Adventure|||Grégory Ruck, Pierre Micottis|Infogrames|1984
+113915|Mission Très Spéciale|Mission Très Spéciale||||||Free Game Blot|
+113616|Mission U-72|Mission U72|||||Olivier Andr|Hebdogiciel|1986
+113617|Missions En Rafale|Missions En Rafale|Mission en Rafale|,Aerial fighting|||Christian Colongo|FIL|1987
+113618|Monopolic|Monopolic||,Board game||||Free Game Blot|1984
+113619|Monopoly|Monopoly|Monopolic|,Board game||||FIL|1986
+113620|Monster Mine|Monster Mine||||||FIL|1986
+113621|Monte-carlo|Monte-carlo|Monte Carlo|,Casino|||A. Saint-Benoit|Loriciels|1984
+135995|Mur7300|Mur7300|||||||
+119146|Mur De Briques|Mur De Briques||||||Huet, Sylvain|
+119156|Naval|Naval|Navire|,Arcade||||Huet, Sylvain|
+113622|Night Flight|Night Flight|||||||
+113920|Numéro 10|Numéro 10|||||Albert Loridan, Bruno Duriez, Joël Sana|FIL|1985
+113624|Numéro 10 Mexico 86|Numéro 10 Mexico 86|||||Albert Loridan, Bruno Duriez, Joël Sana|FIL|1985
+113625|Océania|Océania|||||Patrick Le Nestour|Microïds|1985
+113922|Octogonus|Octogonus|||||Pierre Berloquin|Totek|1984
+113923|Ok Cowboy|OK Cowboy|||||Pierre Bayle, Roger Granier|Infogrames|1987
+119157|Olympic|Olympic||||||Huet, Sylvain|
+113627|Oméga Planète Invisible|Oméga Planète Invisible|||||Marc Cecchi|Infogrames|1985
+113628|Opération Némo|Opération Némo||||||Coktel Vision|1986
+119083|Orbital Mission|Orbital Mission||||||Coktel Vision|1986
+119158|Oth-a|Oth-a||||||Huet, Sylvain|
+113925|Othello|Othello|||||Michel Piquemal|Huet, Sylvain|
+113629|Oxphar|Oxphar|||||Pascal Bacoux|Ere Informatique|1987
+119085|Pac-man|Pac-man||,Arcade||||Theophile|1986
+119160|Pack Succes|Pack Succes|||||||
+113630|Pacman 2|Pacman 2|||||Daniel Coulom|DCSoft|1998
+113631|Pancho|Pancho|||||Olivier Barthélémy|Micro Application|1984
+113927|Panique Atomique Chez Novasprites|Panique Atomique Chez Novasprites|Panique Atomique chez Novasprite|,Arcade|||Softbook|Novasoft|1985
+113928|Pépito Log'1|Pépito Log'1||||||Hyperlog|
+113929|Peter Pan|Peter Pan||||||Coktel Vision|
+119161|Pilonnage|Pilonnage|||||||
+113632|Pilot|Pilot|Aire|,Flight simulator|||Gilles Blanchard|Infogrames|1984
+119162|Pilote|Pilote||||||Huet, Sylvain|
+155304|Pilote And Pingo|Pilote And Pingo|||||||
+119163|Ping-pong|Ping-pong|||||||
+113931|Pingo|Pingo|Aire|,Flight simulator|||Hugues Sézille de Mazancourt|Infogrames|1983
+119087|Piramide|Piramide||||||Rubio, Javier Marco|1987
+113932|Planète Morte|Planète Morte|||||J.F. Vassard|Minipuce|
+113933|Plymouth-newport|Plymouth-newport|||||Pascal Pommier|Sprites|1985
+113934|Pock|Pock|FBI|,Action|||Laurent Hiriart||
+119165|Poke And Pac - Jeu|Poke And Pac - Jeu||||||Huet, Sylvain|
+113935|Poker|Poker|Aire|,Management|||Pascal Bacoux|Gasoline Software|1986
+113936|Politik Poker|Politik Poker|||||Roger Granier, Pierre Bayle|Infogrames|1986
+113637|Politique Economique|Politique Economique||,Management|||Alain Stérin|Answare|1984
+113638|Pop Pop|Pop Pop|||||Eric Szymkowiak|Minipuce|1985
+119086|Popeye|Popeye|Repere|,Software||||Lesur, Christophe|1986
+113939|Poséïdon|Poséïdon||||||Coktel Vision|1985
+113640|Pour 20 Millions De Dollars|Pour 20 Millions De Dollars||||||Softbook|1987
+113941|Poussball|Poussball|||||Philippe Descamps, Marc Rolin|Totek|1984
+113942|Pousspan|Pousspan|||||Philippe Descamps|Totek|1983
+113642|Pouvoir|Pouvoir|||||Philippe Darmagnac|Loriciels|1986
+113643|Prohibition|Prohibition|||||William Hennebois|Infogrames|1987
+119166|Pucman|Pucman|Pac-Man|,Arcade||||Huet, Sylvain|
+113644|Puissance 4|Puissance 4|||||Rémi Coulom|DCSoft|1985
+113945|Pulsar 2|Pulsar 2|||||Pascal Pellier|Loriciels|1984
+113646|Pv 2000|Pv 2000|||||Philippe Descamps, Marc Rolin|Totek|1983
+119090|Qrisp|Qrisp|Frises|,Software||||Ere Informatique|
+113647|Quad|Quad|FBI|,Software|||Elliot Grassiano, B. Masson, A. Bonsignore|Microïds|1987
+119089|Quadrille|Quadrille||,Software||||Monnet, Francoise|
+113648|Quaero|Quaero|||||Frederic Vaysse, Jean-Louis Lamarque|Hebdogiciel #94-97|1985
+113947|Quest|Quest|Sauts|,Puzzle||||Nathan|
+113649|Quiliquili|Quiliquili|||||Alain Gless|Clap 54|1986
+113948|Raid Sur La Manche|Raid Sur La Manche|||||Laurent et Alain Fillion|FIL|1987
+113650|Raid Sur Tenere|Raid Sur Tenere|||||Michel Denajar|Coktel Vision|1985
+113950|Ranger 3|Ranger 3|||||Pierre-Yves Glaize, Sébastien Pierron, Fabien Collin|Loriciels|
+119167|Raquette|Raquette|||||||
+113951|Régates|Régates|||||Jean-Christophe Ninet|Nathan|1985
+113952|Renegade|Renegade||,Fighter|||David C Bowler|FIL|1988
+113953|Réussites|Réussites||||||FIL|
+113954|Reverse|Reverse|Repere|,Software|||Sylvain Huet|Huet, Sylvain - Gasoline Software|
+113654|Révolution|Révolution|||||Eric et Isabelle Gurgey|Free Game Blot|1986
+113955|Risk|Risk|Aire|,Management|||Quan & Hoang Le Luu Minh|Hebdogiciel|1986
+113956|Road Killer|Road Killer||||||Softbook|1987
+113957|Robinson Crusoe|Robinson Crusoe||||||Coktel Vision|
+113958|Rodéo|Rodéo||||||Microïds|1986
+113959|Roger Et Paulo|Roger Et Paulo|||||Christophe Sapet|Infogrames|1984
+113960|Romulus, Rome Et Moi|Romulus, Rome Et Moi|||||A. Vernay, L. Giacinti|Free Game Blot|
+113961|Rotorwar|Rotorwar|||||Laurent Vigneron, Benoît Lecuppe|Nathan|1984
+113659|Runway|Runway||,Racing|||Pierre Morel-Fourrier|FIL|1986
+113660|Runway 2|Runway 2||,Racing|||Pierre Morel-Fourrier|FIL|1986
+113661|San Pablo|San Pablo||||||Coktel Vision|1985
+113662|Saphir + Editeur|Saphir + Editeur|||||Eric Szymkowiak|Infogrames|1986
+113663|Sapiens|Sapiens|Satel|,Arcade|||Didier Guillon, Olivier Guillion|Loriciels|1986
+119091|Sauts|Sauts|Jauge|,Puzzle||||Monnet, Francoise|
+113967|Scalextric|Scalextric||||||Leisure Genius|1987
+113664|Scarfinger - La Moto Infernale|Scarfinger - La Moto Infernale||||||Nice Ideas|1985
+119168|Scotland|Scotland||||||Huet, Sylvain|
+113665|Scrontch|Scrontch|||||Pierre Mauvigner, Philippe Barreau|Vifi-Nathan|1984
+119169|Scrunch|Scrunch||||||Huet, Sylvain|
+119170|Shotgun|Shotgun||||||Boulanger, Emmanuel|
+113666|Silent Service|Silent Service|||||Joël Sana|FIL|1987
+119171|Simulateur De Vol|Simulateur De Vol||||||Huet, Sylvain|
+119172|Slalom|Slalom||||||Huet, Sylvain|
+119173|Slalom 2|Slalom 2||||||Huet, Sylvain|
+113667|Slap Fight|Slap Fight|Slap Fighter|,Shooter|||David C Bowler|FIL|1987
+113668|Snaky|Snaky|Spix|,Arcade|||||1990
+113972|Sokoban|Sokoban|||||John Breaker||
+113669|Soleil Noir|Soleil Noir||||||Microïds|1985
+113670|Sorcery|Sorcery|||||Virgin|FIL|1986
+113671|Sorcière|Sorcière|||||||
+113672|Sortilèges|Sortileges|||||William Hennebois, Alain Vialon, Laurent Droulez|Infogrames|1986
+113673|Sos Space|Sos Space|||||E. Marquis|Minipuce|
+113977|Space Game|Space Game||||||Free Game Blot|
+113674|Space Racer|Space Racer|||||Pascal Jarry|Loriciels|1988
+113675|Space Shuttle Simulator|Space Shuttle Simulator|||||G. Elliot|Loriciels|1984
+113980|Space Tunnel|Space Tunnel||||||Softbook|
+119174|Space600|Space600||||||Huet, Sylvain|
+113676|Speedway|Speedway|||||Reiner Ost|Free Game Blot|1986
+113982|Spindizzy|Spindizzy||||||Loriciels|
+113677|Spix|Spix|Defi|,Arcade|||Patrick Princ|Infogrames|1984
+113678|Sports D'eté|Sports D'eté|||||Wise Owl Software|FIL|1988
+113679|Stanley|Stanley|Dianne|,Arcade|||Carlo Perconti|Loriciels|1984
+119175|Star Maze|Star Maze||||||Les Aventuriers des Etoiles|
+119176|Star-trek|Star-Trek|||||||
+119093|Starwar|Starwar|||||||
+119177|Stock-car|Stock-car|||||||
+113680|Stone Zone|Stone Zone||,Arcade|||Novasoft|Softbook|1983
+113986|Stratac|Stratac|||||Henri Diguet|Totek|1983
+113681|Stress|Stress|Aire|,Management|||Jean-Louis Roux|CobraSoft|1984
+113682|Strip 21|Strip 21|||||Patrick Lahbib|Lahbib, Patrick|
+113988|Super Androïdes|Super Androïdes|||||William Hennebois|Infogrames|1986
+113989|Super Business|Super Business||||||FIL|1986
+113990|Super Flippard|Super Flippard|||||D. Arnaud|Free Game Blot|
+113683|Super Jimmie|Super Jimmie|||||Christian Lemaire|Minipuce & Microstory|1985
+113684|Super Ski|Super Ski|||||C. Bertrand, Elliot Grassiano|Microïds|1987
+113685|Super Tennis Answare|Super Tennis Answare|||||D&L Research|Answare|1985
+113686|Super Tennis Fil|Super Tennis Fil|Super Tennis|,Tennis||||FIL|1986
+113687|Sympuz|Sympuz||||||No Man's Land|1984
+114001|T.n.t.|T.N.T.|||||Najib El Maadani, Dominique Girou|Infogrames|1986
+113688|Taquin|Taquin|Taquin+|,Puzzle|||Pierre Berloquin|Totek|1984
+113689|Tarot|Tarot|Aire|,Management|||Daniel Coulom|DCSoft|1986
+113690|Télédomino|Télédomino|||||Jean Palay|Microtom|1986
+113691|Télérama N1|Télérama N°1|||||André Deledicq, Jean Delcourt, Jean-Pascal Duclos, Serge Pouts Lajus, Jean-Baptiste Touchard|Vifi-Nathan|1984
+113692|Télérama N2|Télérama N°2|||||Alain Rigolot|Nathan|1984
+113693|Tetris Gd|Tetris Gd|||||Gilles Daurat|Daurat, Gilles|1989
+113997|Tetris Jb|Tetris Jb|||||John Breaker||
+113998|Tetris Yr|Tetris Yr|||||Yoann Riou|YRprod|
+119123|Greatest Collection, The|Greatest Collection, The||||||Free Game Blot|1987
+113694|Way of the Tiger, The|Way of the Tiger, The|||||P. Harrop, S. Hollingworth, C. Kerry|FIL|1986
+113695|Théogiciels Loisir 1|Théogiciels Loisir 1|||||Barbara Tissen, Mathieu Le Brun|Theoreme|1984
+113696|Thésaurus|Thésaurus||||||Minipuce|1984
+113697|Thom-puzz|Thom-puzz||||||No Man's Land|1984
+119181|Threshold|Threshold||||||To Tek|1984
+113698|Tic-tac|Tic-tac|||||Jean-Michel Nguyen|Loriciels|1984
+119182|Tir|Tir|Aire|,Management||||Huet, Sylvain|
+119189|Titus Compilation|Unknown Titus Compilation|||||||
+113700|Top Chrono|Top Chrono||,Racing|||Gérard Banel|Loriciels|1985
+119183|Top Gun|Top Gun||,Aerial fighting|||Wayne Maw, David C. Bowler|FIL|1987
+113702|Torann Mission Blue 5|Torann Mission Blue 5||||||Loriciels|
+119184|Tours De Hanoi|Tours De Hanoi||||||CNDP|
+113703|Tout Schuss|Tout Schuss||||||FIL|1987
+113704|Toutankhamon|Toutankhamon||,Action|||Laurent et Alain Fillion|No Man's Land|1985
+113705|Traitement Bzzz|Traitement Bzzz||||||Chip|1987
+113706|Trap|Trap|Aire|,Management||||Vifi-Nathan|1982
+119186|Tridi444|Tridi444||||||Vifi-Nathan|1982
+114005|Triple Seven|Triple Seven|||||Yoann Riou|YRprod|
+114006|Trivial Pursuit|Trivial Pursuit||||||Ubisoft|1983
+113708|Troff|Troff|Golf|,Golf|||Grégory Ruck|Infogrames|1983
+119187|Tron|Tron|Aire|,Arcade||||Huet, Sylvain|
+114008|Troubadours|Troubadours|||||Alain Laurent, Paul Maurier, Bernard Domenge|Lankhor|
+113709|Turbo Cup|Turbo Cup|||1||Vincent Baillet|Loriciels|1988
+114010|Turlogh Le Rôdeur|Turlogh de Penroth|||||Jean-Michel Baudequin|CobraSoft|1988
+113710|Tyrann|Tyrann|Lorann|,Arcade||||Norsoft|1985
+113711|Une Affaire En Or|Une Affaire En Or||||||Free Game Blot|1987
+119159|Pack Infogrames|Infogrames||||||Infogrames|
+114013|Vampir Action|Vampir Action|||||C. Couasnard|Tilt|1987
+113712|Vampire|Vampire|Navire|,Action|||Alain Vialon, Philippe Nottoli, Dominique Girou|Infogrames|1986
+119190|Vie Et Mort Des Dinosaures|Vie Et Mort Des Dinosaures|||||Pierre Grosbois, Emmanuel Forsans|Infogrames|1986
+113714|Vision|Vision||,Software|||Jean-Michel Nguyen|Loriciels|1984
+113715|Vol Solo|Vol Solo||,Flight simulator|||Joël Sana|FIL|1985
+113716|Votez Pour Moi|Votez Pour Moi||,Software||||Answare|1985
+113717|Voyage Au Coeur Du Mo5|Voyage Au Coeur Du Mo5|||||Bruno Bonhomme, Michaël Escoffier|Hebdogiciel #108-109|1985
+114016|War Game|War Game|||||G. Besnier|Free Game Blot|
+113718|Westbank|Westbank|||||Javier Marco|Rubio, Javier Marco - Escudero, Angelines Rubio|1986
+113719|Wild Boy|Wild Boy|||||||
+113720|Wizball|Wizball||,Action|||David C Bowler|FIL|1988
+113721|World War 3|World War 3||||||Free Game Blot|1984
+114019|Wormy|Wormy|Aire|,Management|||G. Nacam|Hatier|1984
+114020|X-ray|X-ray|Aire|,Management|||M Beziat|Microïds|1986
+119094|Y|Y|FBI|,Boxing||||Fetis, G.|1988
+113724|Yahtzee|Yahtzee|||||Patrick Lahbib|Hebdogiciel|1985
+113725|Yéti|Yéti|Yeti|,Arcade|||Pascal Pellier|Loriciels|1984
+113726|Yie Ar Kung Fu 2|Yie Ar Kung Fu 2||,Action|||James Higgins|FIL|1986
+114023|Zaptrak|Zaptrak|||||Philippe Descamps, Marc Rolin|Totek|

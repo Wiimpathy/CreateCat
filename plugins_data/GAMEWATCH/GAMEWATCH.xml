@@ -1,0 +1,2315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+  <WiiTDB version="201912091402" games="68"/>
+  <game name="Game Name">
+    <id>Game ID</id>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Armor Battle">
+    <id>88045</id>
+    <locale lang="EN">
+      <title>Armor Battle</title>
+      <synopsis>You are on a dangerous tank mission. To reach and destroy your assigned target, you must maneuver through a field filled with enemy mines. Although these are hidden, the mine detection equipment in your tank warns you of their presence by producing a buzzing sound. This is your signal to change course on route to your target. If you should stumble into a mine, your tank will be "destroyed" and returned to its original starting position. If you get through the minefield and successfully engage the target, the built-in computer will automatically set up another challenge with a new starting position, target location, and minefield.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Se encuentra en una peligrosa misión a bordo de un tanque. Para alcanzar y destruir el objetivo asignado, debe maniobrar a través de un campo lleno de minas enemigas. Aunque éstas están ocultas, el equipo de detección de minas en su tanque le advierte de su presencia mediante un zumbido. Ésta es la señal para cambiar de rumbo en la ruta hacia su objetivo. Si usted tropieza con una mina, el tanque será "destruido" y vuelve a su posición de partida original. Si consigue atravesar el campo minado y atacar exitosamente al objetivo, la computadora incorporada generará de forma automática otro reto con una nueva posición de partida, objetivo, y localización de las minas.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Vous opérez a bord d'un tank sur une mission dangereuse.
+Pour atteindre et détruire votre cible, vous devez manoeuvrer à travers un champ rempli de mines ennemies.
+L'équipement de détection des mines dans votre réservoir vous avertit de leur présence en produisant un bruit de ronflement.
+C'est votre signal pour changer de cap vers votre cible.
+Si vous touchez une mine, votre réservoir sera détruit et vous retournerez au point de départ.
+Si vous engager votre cible avec succès, l'ordinateur intégré vous offrira un autre défi en modifiant votre position de départ, l'emplacement de votre cible et la disposition du champ de mines.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Mattel Electronics</developer>
+    <publisher>Mattel Electronics</publisher>
+    <date year="1978" month="1978" day="1978"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Banana">
+    <id>88046</id>
+    <locale lang="EN">
+      <title>Banana</title>
+      <synopsis>Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends.
+1 point is scored for each safe pedestrian.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Mueve a un basurero por la calle para limpiar las pieles de plátano. Obtendrás puntos positivos cuando los peatones estén a salvo y negativos cuando se resbalen con ellas.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Déplacer un éboueur dans la rue pour nettoyer les peaux de banane.
+Lorsqu'un piéton tombe sur une peau de banane, un mauvais point est s'affiche. Cinq mauvais points et le jeu se termine.
+1 bon point est marqué pour chaque piéton en sécurité.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1981" month="1981" day="1981"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Baseball">
+    <id>88047</id>
+    <locale lang="EN">
+      <title>Baseball</title>
+      <synopsis>Train baseball by playing with your coach. Move the player left and right to get all balls. When a ball falls to the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Practica Beisbol moviendo al bateador a izquierda y derecha para golpear las pelotas. Cuando una caiga al suelo harás un strike; con tres strikes se acaba el juego. Sumarás 10 puntos cada vez que golpees una pelota. Se concede un breve periodo de descanso cada 1000 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Entraînez vous au Baseball en jouant avec votre coach.
+Déplacer le frappeur à gauche et à droite pour frapper toutes les balles.
+Quand une balle tombe sur le sol, vous perdez un essaie.
+Trois échecs et le jeu se termine.
+10 points sont marqués chaque fois qu'une balle est frappée.
+Un court temps de repos est attribué tous les 1000 points.
+Le plus gros score affichable est est 9990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Bomb Fight">
+    <id>88048</id>
+    <locale lang="EN">
+      <title>Bomb Fight</title>
+      <synopsis>An angry lion is throwing bombs to a peaceful elephant. Playing the elephant, you have to spit water to bombs to defuse them before they explode. Misses: one miss per exploded bomb. Three misses and game ends. 10 points are awarded when the elephant successfully defuses a bomb. All bombs are cleared at every 1000 points. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Un león enfadado lanza bombas sobre un elefante. Usted, con el elefante, deberá escupir agua para desactivar las bombas antes de que exploten. Se suman 10 puntos por cada bomba desctivada. Se perderá una vida cada vez que explote una bomba. Tras la tercera vida perdida se acaba la partida.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un lion en colère jette des bombes sur un éléphant.
+Vous Jouez l'éléphant et devez cracher de l'eau pour désamorcer les bombes avant qu'elles n'explosent.
+Vous perdez un essaie si une bombe explose
+Au bout de trois essaies la partie se termine.
+10 points sont attribués lorsque l'éléphant désamorce avec succès une bombe.
+Tout les 1000 points un temps mort est accordé et les bombes sont supprimées.
+Le score maximal affichable est de 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Caccia Al Ladro">
+    <id>88049</id>
+    <locale lang="EN">
+      <title>Caccia Al Ladro</title>
+      <synopsis>Help Heathcliff the cat to prevent Sonja's fish to be stolen by a thief, or she'll shout at him in anger. Spike the dog disturbs Heathcliff's action. Misses: one miss per cleared dish of fish. Three misses and game ends. 10 points are awarded when Heathcliff successfully attacks a thief. All fish are restored at every 1000 points. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Ayuda al gato Isidoro a evitar que un ladrón robe los peces de Sonia, o esta le gritará enfadada. El perro Spike intentará interferir en las acciones de Isidoro. Faltas: Una falta por cada plato sin pescados. Tres faltas y el juego terminará. Se otorgan 10 puntos cuando Isidoro ataca con éxito a un ladrón. Todos los peces son restaurados cada 1000 puntos. La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Aide Heathcliff le chat pour empêcher les poissons de Sonja d'être volés, sinon elle va se mettre en colère et lui crier dessus.
+Spike le chien te perturbera dans cette tache.
+
+Vous perdez un essaie pour chaque plat dont les poissons ont été volés
+Trois échecs et le jeu se termine.
+10 points sont attribués lorsque Heathcliff attaque avec succès un voleur.
+Tous les poissons sont restaurés à 1000 points.
+Le plus gros score affichable est est 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Camelot">
+    <id>143953</id>
+    <locale lang="EN">
+      <title>Camelot</title>
+    </locale>
+    <date year="1981" month="1981" day="1981"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Cessate Il Fuoco">
+    <id>88050</id>
+    <locale lang="EN">
+      <title>Cessate Il Fuoco</title>
+      <synopsis>Help Heathcliff the cat to prevent Sonja's flowers from being burned by flaming sticks thrown by an enemy cat. Spike the dog watches from behind the fence. Misses: one miss per burnt flower. Three misses and game ends. 10 points are awarded when Heathcliff successfully extinguishes a flame. All flames are cleared at every 1000 points. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Ayuda al gato Isidoro a evitar que las flores de Sonia sean quemadas por las antorchas llameantes lanzadas por un gato enemigo. El perro Spike mira desde detrás de la cerca. Faltas: Una falta por flor quemada. Tres faltas y el juego terminará. Se otorgan 10 puntos cuando Isidoro extingue con éxito una llama. Todas las llamas se borran cada 1000 puntos. La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Aide Heathcliff le chat pour empêcher les fleurs de Sonja d'être brûlé par des bâtons enflammés jetés par un chat ennemi.
+Spike le chien regarde la scène derrière la clôture.
+Un essaie de perdu par fleur brûlée.
+Trois échecs et le jeu se termine.
+10 points sont attribués lorsque Heathcliff éteint avec succès un bâton.
+Tout les 1000 points, l'ensemble des flammes sont éteintes.
+Le plus gros score affichable est est 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Chicky Woggy (time And Fun)">
+    <id>88051</id>
+    <locale lang="EN">
+      <title>Chicky Woggy (time And Fun)</title>
+      <synopsis>Help Chicky Woggy fill the labyrinth with eggs, while wolves chase her. Chicky Woggy can move across bridges, subways and tunnels to escape wolves. As soon as Chicky Woggy eats magic worms, she can chase and defeat wolves for a short period of time. When the labyrinth is full of eggs, Chicky Woggy moves to a new empty labyrinth. Three misses and game ends. 10 points are scored each time an egg is laid. 50 points are scored each time a worm is eaten. 200 to 400 points are scored each time a wolf is defeated. Bonus life is awarded at 2000 points. Maximum displayed score is 99990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Ayuda a Chicky Woggy a completar el laberinto llevando los huevos, pero cuidado con los lobos.
+Chicky Woggy puede moverse a través de puentes, túneles y pasos subterráneos para escapar de los lobos que le siguen. Cuando cmoas gusanos mágicos, podrás cazar y derrotar a los lobos por un corto periodo de tiempo. Cuando el laberinto se encuentra lleno de huevos podrás visitar un nuevo labrerinto. Al tercer fallo el juego se termina. Sumarás 10 puntos cada vez que coloques un huevo, 50 cada vez que comas un gusano másgico y de 200 a 400 cada vez que derrotes a un lobo. Se otorga una prueba extra cada 2.000 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Aide Chicky Woggy à remplir le labyrinthe avec des ?ufs, mais attention aux loups.
+Chicky Woggy peut se déplacer à travers des ponts, des souterrains et des tunnels pour échapper aux loups qui la poursuive.
+Dès que Chicky Woggy mange des vers magiques, elle peut chasser et vaincre les loups pendant un court laps de temps.
+Lorsque le labyrinthe est plein d'?ufs, Chicky Woggy se rend dans un nouveau labyrinthe vide.
+Trois échecs et jeu se termine.
+10 points sont marqués chaque fois qu'un oeuf est pondu.
+50 points sont marqués à chaque fois un ver est mangé.
+200 à 400 points sont marqués chaque fois qu'un loup est vaincu.
+Un essaie bonus est attribué à 2000 points.
+Le plus gros score affichable est est 99990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1982" month="1982" day="1982"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Chicky Woggy (tini-arcade)">
+    <id>88097</id>
+    <locale lang="EN">
+      <title>Chicky Woggy (tini-arcade)</title>
+      <synopsis>Help Chicky Woggy fill the labyrinth with eggs, while wolves chase her. Chicky Woggy can move across bridges, subways and tunnels to escape wolves. As soon as Chicky Woggy eats magic worms, she can chase and defeat wolves for a short period of time. When the labyrinth is full of eggs, Chicky Woggy moves to a new empty labyrinth. Three misses and game ends. 10 points are scored each time an egg is laid. 50 points are scored each time a worm is eaten. 200 to 400 points are scored each time a wolf is defeated. Bonus life is awarded at 2000 points. Maximum displayed score is 99990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Ayuda a Chicky Woggy a llenar el laberinto de huevos, mientras los lobos la persiguen. Chicky Woggy puede moverse a través de puentes, subterráneos y túneles para escapar de los lobos. Tan pronto como Chicky Woggy coma gusanos mágicos podrá perseguir y derrotar a los lobos por un corto período de tiempo. Cuando el laberinto esté lleno de huevos Chicky Woggy spodrá pasar a un nuevo laberinto. Con tres fallos el juego termina. Consigue 10 puntos cada vez que se coloca un huevo, 50 cada vez que se come un gusano y de 200 a 400 puntos cuando un lobo es derrotado. Se otroga una vida extra cada 2000 puntos. La puntuación máxima es de 99990 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Aide Chicky Woggy à remplir le labyrinthe avec des oeufs, mais attention aux loups. Chicky Woggy peut se déplacer à travers des ponts, des souterrains et des tunnels pour échapper aux loups qui la poursuive. Dès que Chicky Woggy mange des vers magiques, elle peut chasser et vaincre les loups pendant un court laps de temps. Lorsque le labyrinthe est plein d'oeufs, Chicky Woggy se rend dans un nouveau labyrinthe vide. Trois échecs et jeu se termine. 10 points sont marqués chaque fois qu'un oeuf est pondu. 50 points sont marqués à chaque fois un ver est mangé. 200 à 400 points sont marqués chaque fois qu'un loup est vaincu. Un essaie bonus est attribué à 2000 points. Le plus gros score affichable est est 99990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Circus Circus">
+    <id>143954</id>
+    <locale lang="EN">
+      <title>Circus Circus</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Climber">
+    <id>143407</id>
+    <locale lang="EN">
+      <title>Climber</title>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Climber est un jeu électronique à cristaux liquide sorti en juillet 1986 en version Crystal Screen. C'est la version Game and Watch du jeu Ice Climber, et dont la version Nintendo 64 fut annulée.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Condor">
+    <id>88052</id>
+    <locale lang="EN">
+      <title>Condor</title>
+      <synopsis>Move a caveman to prevent condors from stealing his food, then entrap them. When a condor gets a piece of food, one miss is scored. Five misses and game ends. 1 point is scored each time you entrap a condor. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Mueve un hombre de las cavernas para evitar que los cóndores roben su comida para atraparlos a continuación. Cuando un cóndor roba un pedazo de comida se anota una falta. Cinco fallos y el juego acaba. Se anota 1 punto cada vez que atrapa un cóndor. La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Déplacez un homme des cavernes pour empêcher des condors de voler sa nourriture, et puis tendez-leur un piège.
+Quand un condor obtient un morceau de nourriture , vous perdez un essai.
+Apres 5 essais le jeu se termine.
+1 point est marqué chaque fois que vous piégez un condor.
+Le plus gros score affichable est 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Crazy Chewy">
+    <id>88053</id>
+    <locale lang="EN">
+      <title>Crazy Chewy</title>
+      <synopsis>You are in a deep-sea maze. Your task is to outwit the deadly sea monsters. Every step you take you absorb a power atom giving you the energy to continue and score points. Your aim is to clear the maze completely. The monsters will try to protect the territory and chase you. If you are captured you loose a life. You have three lives. If you manage to absorb a "marine energizer" you can chase and destroy the monsters scoring bonus points. There are many power atoms, marine energizers and two bonus stars - which flash on and off. If you manage to clear the maze, a new full maze will appear, allowing you to continue your greedy rampage. There are two secret tunnels in the maze. Both Chewy and the monsters can enter them. The tunnels are indicated by arrows on the screen. 10 points are scored each time a power atom is absorbed. 200 points are scored each time a sea monster is defeated. 2000 points are scored each time a bonus star is absorbed. Bonus life is awarded at 20000 points. Maximum displayed score is 99990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Te encuentras en un laberinto de aguas profundas. Tu tarea es superar a los monstruos marinos. En cada movimiento absorverá un punto de energía para continuar y anotar puntos. Su objetivo es limpiar el laberinto completamente. 
+
+Los monstruos tratarán de proteger el territorio y perseguirte. Si eres capturado perderás una vida de tus tres vidas. Si logras absorber un "energizador marino" podrás perseguir y destruir a los monstruos marinos obteniendo puntos extra. Hay muchos átomos de energía, energizantes marinos y dos estrellas de bonificación (que parpadean y se apagan). Si logras limpiar el laberinto por completo podrás pasar de fase. Hay dos túneles secretos dentro del laberinto por lo que tanto Chewy como los monstruos podrán pasar. Los túneles se indican mediante flechas en la pantalla. Conseguirás 10 puntos cada vez que absorbas un átomo de energía, 200 cuando un monstruo marino sea derrotado y 2000 cada vez que absrovas una estrella de bonificación. Cada 20000 puntos se consigue una vida extra. La puntuación máxima es de 99990 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Vous êtes dans un labyrinthe.
+Votre tâche est de parcourir complètement le labyrinthe et d'absorber les atomes de puissance mais attention aux monstres.
+Si vous êtes capturé vous perdez une vie.
+Vous avez trois vies.
+Si vous parvenez à absorber une "energizer marine" vous pouvez chasser et détruire les monstres tout en marquant des points bonus.
+Si vous parvenez à parcourir entierrement le labyrinthe, un nouveau labyrinthe apparaît, vous permettant de continuer votre progression.
+Il y a deux tunnels secrets dans le labyrinthe, les deux Chewy et les monstres peuvent les utiliser.
+Les tunnels sont indiquées par des flèches sur l'écran.
+10 points sont marqués à chaque fois qu'un atome d'énergie est absorbée.
+200 points sont marqués chaque fois qu'un monstre de mer est vaincu.
+2000 points sont marqués chaque fois qu'une étoile bonus est absorbé.
+Une vie bonus est attribué à 20000 points.
+Le plus gros score affichable est est 99990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Defendo">
+    <id>88054</id>
+    <locale lang="EN">
+      <title>Defendo</title>
+      <synopsis>Enemy soldiers continuously move towards your camp from three paths, trying to steal your Army's gold. Move the brave soldier to prevent soldiers from reaching the camp. When an enemy successfully reaches the camp, a chance is missed. Five misses and game ends. 1 point is scored each time an enemy soldier is hit. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Des soldats ennemis se déplacent continuellement vers votre camp avec pour objectif de voler l'or de votre armée.
+Déplacez votre personnage pour empêcher les soldats d'atteindre le camp.
+Quand un ennemi atteint avec succès le camp, vous perdez un essai.
+Cinq échecs et le jeu se termine.
+1 point est marqué chaque fois qu'un soldat ennemi est touché.
+Le plus gros score affichable est 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Donkey Angler">
+    <id>99467</id>
+    <locale lang="EN">
+      <title>Donkey Angler</title>
+      <synopsis>Following a bait, fishes will successively appear from the bottom of the sea. If a fish is on a hook, quickly bring it up! Losing a fish or fishing line cut by crab (appearance at game B) are errors. When you make the error three times, the game is over. 1 point per fish brought up. 1 point per crab brought up (game B only). Maximum displayed score is 999 points.</synopsis>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Una vez que el cebo está en el agua, los peces aparecerán sucesivamente desde el fondo del mar.nn¡Si un pez muerde el cebo, sube rápidamente!nnObtendrás una falta por cada pez que se escape y cada vez que un cangrejo corte la caña de pescar (Modo de juego B solamente).nnDespués de 3 faltas, el juego termina.nnGanas 1 punto por cada pez capturado.nnGanas 1 punto por cada cangrejo pescado (solo en el modo B del juego).nnLa mayor puntuación visualizable es 999.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Une fois l'appât dans l'eau, les poissons apparaîtront successivement à partir du fond de la mer.
+Si un poisson mort à l'hameçon remontez le vite!
+Vous perdrez un essai pour chaque poisson qui s'échappe et à chaque fois que la ligne de la canne à pêche est coupée par un crabe (mode de jeu B uniquement).
+Au bout de 3 essais la partie se termine.
+Vous gagné 1 point par poisson pêché.
+Vous gagné 1 point par crabe pêché (mode de jeu B uniquement).
+Le plus gros score affichable est 999.</synopsis>
+    </locale>
+    <developer>Gakken</developer>
+    <publisher>Gakken</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Donkey Kong">
+    <id>99463</id>
+    <locale lang="EN">
+      <title>Donkey Kong</title>
+      <synopsis>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</synopsis>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Mueve a Mario para rescatar a su novia, secuestrada por Donkey Kong. En los niveles impares Donkey Kong lanzará barriles a Mario. Muévelo por la parte superior del edificio evitanado los barriles. En los niveles pares mueve a Mario para eliminar todos los remaches de las vigas. Hay bolas de fuego colgantes, asegúrate de que Mario no las toque.nnInformación adicional: no dejes que Mario se mueva demasiado a la izquierda o a la derecha de las vigas o se caerá. La escalera de la izquierda en la segunda viga es una "posición segura" para que no te alcancen los barriles. Maro puede andar, pero no saltar por encima de la reja eléctrica que proteje a Donkey Kong.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Déplacez Mario pour l'aider à sauver sa petite amie, kidnappée par Donkey Kong.
+Dans les niveaux impairs, Donkey Kong jette des barils à Mario.
+Mario doit éviter les barils pour atteindre le sommet de l'édifice.
+Dans les autres niveaux, Mario doit casser les rivets des poutres en marchant dessus.
+Attention de ne pas toucher les boules de feu et de ne pas tomber des poutres
+L'échelle à gauche sur la deuxième poutre est une "position de sécurité" sans barils.
+Mario peut marcher, mais ne peut pas sauter à travers la clôture électrique.</synopsis>
+    </locale>
+    <developer>Coleco Industries, Inc.</developer>
+    <publisher>Coleco Industries, Inc.</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Donkey Kong (multi Screen)">
+    <id>88055</id>
+    <locale lang="EN">
+      <title>Donkey Kong (multi Screen)</title>
+      <synopsis>Mario must reach the top of the structure, activate a lever which will put a crane in his reach. Then he must jump for the crane and demolish little by little the structure on which Donkey Kong is standing in order to rescue Pauline.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Mario debe alcanzar la parte superior de la estructura y activar una palanca que pondrá una grúa a su alcance. Entonces deberá saltar a la grúa y demoler poco a poco la estructura sobre la que Donkey Kong está parado y así poder rescatar a Pauline.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Mario doit atteindre le sommet de la structure et activer un levier qui va mettre une grue à sa portée.
+Ensuite, il doit sauter de la grue et démolir peu à peu la structure sur laquelle Donkey Kong se trouve afin de sauver Pauline.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1982" month="06" day="03"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Donkey Kong Circus">
+    <id>99461</id>
+    <locale lang="EN">
+      <title>Donkey Kong Circus</title>
+      <synopsis>Donkey Kong juggles pineapples while balancing on a barrel. Catch the pineapples, but beware of fireballs. Donkey Kong will automatically toss the pineapples he catches. Mario watches his juggling performance. Lives are lost either if a pineapple falls on the floor or if Donkey Kong touches a fireball. Mario laughs at Donkey Kong as he misses. Three misses and game ends. 1 point for each pineapple Donkey Kong catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per pineapple caught) until a miss is made.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Donkey Kong hace juegos malabares con piñas mientras se balancea en un barril. Coge las piñas, pero ten cuidado con las bolas de fuego. Donkey Kong lanzará automáticamente la piña que capture. Las vidas se pierden cuando una piña cae en el suelo o si Donkey Kong toca una bola de fuego. Mario se reirá de Donkey Kong cuando este falle. Tres fallos y el juego termina. Recibirás 1 punto por cada piña que Donkey Kong coja y lanze. La puntuación máxima es de 999 puntos. A los 300 puntos sonrarán fanfarrias y todas los fallos serán cancelados. Cuando se alcanzan los 300 puntos el juego entra en "Chance-Time" y todos los puntos tienen doble valor (2 puntos por piña capturadas) hasta que se cometa un fallo.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Donkey Kong jongle avec des ananas tout en étant en équilibrant sur un baril.
+Attrapez les ananas, mais méfiez-vous des boules de feu.
+Des vies sont perdues, si un ananas tombe sur le sol ou si Donkey Kong touche une boule de feu.
+Quand toutes les vies sont utilisées le jeu se termine.
+Vous gagnez 1 point pour chaque ananas rattrapé.
+Le plus gros score affichable est 999.
+Au bout de 300 points tous les accidents sont annulés.
+Si il n'y a pas eut de vie de perdue au bout de 300 points, le jeu passe en "Chance-Time": tous les points sont attribués au double de la valeur (2 points par ananas rattrapé) jusqu'à ce que vous perdiez une vie.</synopsis>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1984" month="09" day="06"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Donkey Kong 2">
+    <id>88056</id>
+    <locale lang="EN">
+      <title>Donkey Kong II</title>
+      <synopsis>A continuation of the famous Donkey Kong Story. Now Mario has chained Donkey Kong. Donkey Kong Junior braves snapjaws, sparks and birds, throwing the key which will open Donkey Kong's locks, up to where his papa is held prisoner. Avoid sparks overhead and make Junior jump and throw key to upper screen. When a snapjaw attacks, make Junior jump without hitting overhead spark. When Junior reaches the upper screen, he has to jump to get the key he threw again. The key jumps to one of the four locks.
+- Press top of "PLUS" button when on top of chain. A lock opens.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Una continuación del famoso Donkey Kong. Ahora Mario ha encadenado a Donkey Kong y Junior deberá evitar chispas y pájaros, lanzando la llave que abrirá los candados de Donkey Kong. Evite las chispas y haga que Junior salte y lance la llave a la pantalla superior. Cuando un pájaro ataque, haga que Junior salte sin tocar las chispas. Cuando Junior llege a la pantalla superior, tiene que saltar para conseguir la llave que lanzó y abrirá uno de los cuatro candados.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>La suite de la célèbre histoire de Donkey Kong.
+Mario à enchaîné Donkey Kong, vous devez le délivrer.
+Déplacez Donkey Kong junior jusqu'à l'endroit où son papa est retenu prisonnier.
+Sur le chemin récupéré la clé d'un des cadenas et faite attention aux alligators, étincelles, oiseaux.
+
+Lorsque Donkey Kong junior atteint l'écran supérieur avec la clé, il doit choisir quel cadenas ouvrir.
+Une fois prés du verrou en haut de la chaine appuyez sur la touche "plus" pour l'ouvrir</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1983" month="03" day="07"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Donkey Kong Jr.">
+    <id>88057</id>
+    <locale lang="EN">
+      <title>Donkey Kong Jr.</title>
+      <synopsis>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Donkey Kong ha sido capturado por Mario.
+Donkey Kong Jr. tiene que liberarlo de sus cadenas.
+En el camino, Donkey Kong Jr. será atacado por pájaros.
+Usa sombrillas y globos para saltar desde las alturas y alcanzar los candados.
+Cuando abras los 4 candados, liberarás a Donkey Kong.
+Cada vez que abre un candado, Donkey Kong Jr. tiene que empezar desde cero para recuperar la llave, y luego volver para liberar a su padre.
+Después de tres intentos, el juego termina.
+La mayor puntuación visualizable es 999 puntos.
+Después de 999 puntos conseguidos, el juego se reanuda desde cero a una velocidad mayor.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <title>Donkey Kong Jr.</title>
+      <synopsis>Donkey Kong a été capturé par Mario.
+Donkey Kong Jr. doit le libérer de ses chaînes.
+Sur le chemin Donkey Kong Jr. est  attaqué par des oiseaux.
+Il utilise des parapluies et des ballons pour sauter depuis les hauteurs, et  atteindre les cadenas.
+Quand il ouvre les 4 cadenas, Donkey Kong est libre.
+Chaque fois qu'il ouvre une serrure, Donkey Kong Jr. doit recommencer du début pour récupérer la clé, puis repart libérer son père.
+Au bout de trois essaies, le jeu se termine.
+Le plus gros score affichable est de 999 points.
+Au bout de 999 points marqué le jeux reprend de zéro à une vitesse plus élevée.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Coleco Industries, Inc.</developer>
+    <publisher>Coleco Industries, Inc.</publisher>
+    <date year="1982" month="06" day="26"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Donkey Kong Jr. (panorama Screen)">
+    <id>88098</id>
+    <locale lang="EN">
+      <title>Donkey Kong Jr. (panorama Screen)</title>
+      <synopsis>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Donkey Kong ha sido capturado por Mario.
+Donkey Kong Jr. tiene que liberarlo de sus cadenas.
+En el camino, Donkey Kong Jr. será atacado por pájaros.
+Usa sombrillas y globos para saltar desde las alturas y alcanzar los candados.
+Cuando abras los 4 candados, liberarás a Donkey Kong.
+Cada vez que abre un candado, Donkey Kong Jr. tiene que empezar desde cero para recuperar la llave, y luego volver para liberar a su padre.
+Después de tres intentos, el juego termina.
+La mayor puntuación visualizable es 999 puntos.
+Después de 999 puntos conseguidos, el juego se reanuda desde cero a una velocidad mayor.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Donkey Kong a été capturé par Mario.
+Donkey Kong Jr. doit le libérer de ses chaînes.
+Sur le chemin Donkey Kong Jr. est  attaqué par des oiseaux.
+Il utilise des parapluies et des ballons pour sauter depuis les hauteurs, et  atteindre les cadenas.
+Quand il ouvre les 4 cadenas, Donkey Kong est libre.
+Chaque fois qu'il ouvre une serrure, Donkey Kong Jr. doit recommencer du début pour récupérer la clé, puis repart libérer son père.
+Au bout de trois essaies, le jeu se termine.
+Le plus gros score affichable est de 999 points.
+Au bout de 999 points marqué le jeux reprend de zéro à une vitesse plus élevée.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Donkey Kong Jr. (table Top)">
+    <id>88099</id>
+    <locale lang="EN">
+      <title>Donkey Kong Jr. (table Top)</title>
+      <synopsis>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Donkey Kong ha sido capturado por Mario.
+Donkey Kong Jr. tiene que liberarlo de sus cadenas.
+En el camino, Donkey Kong Jr. será atacado por pájaros.
+Usa sombrillas y globos para saltar desde las alturas y alcanzar los candados.
+Cuando abras los 4 candados, liberarás a Donkey Kong.
+Cada vez que abre un candado, Donkey Kong Jr. tiene que empezar desde cero para recuperar la llave, y luego volver para liberar a su padre.
+Después de tres intentos, el juego termina.
+La mayor puntuación visualizable es 999 puntos.
+Después de 999 puntos conseguidos, el juego se reanuda desde cero a una velocidad mayor.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Donkey Kong a été capturé par Mario.
+Donkey Kong Jr. doit le libérer de ses chaînes.
+Sur le chemin Donkey Kong Jr. est  attaqué par des oiseaux.
+Il utilise des parapluies et des ballons pour sauter depuis les hauteurs, et  atteindre les cadenas.
+Quand il ouvre les 4 cadenas, Donkey Kong est libre.
+Chaque fois qu'il ouvre une serrure, Donkey Kong Jr. doit recommencer du début pour récupérer la clé, puis repart libérer son père.
+Au bout de trois essaies, le jeu se termine.
+Le plus gros score affichable est de 999 points.
+Au bout de 999 points marqué le jeux reprend de zéro à une vitesse plus élevée.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Dungeons And Dragons Computer Fantasy Game">
+    <id>88058</id>
+    <locale lang="EN">
+      <title>Dungeons &amp; Dragons Computer Fantasy Game</title>
+      <synopsis>Press ATTACK button to get out of demo mode; screen shows L1, for skill level 1. Press MOVE button 1 or 2 times, to select skill level 2 or 3. Press it again and you go back to level 1. Level 1: warrior possesses magic rope at start of game. Level 2: magic rope is hidden randomly and must be found to be used. Level 3: there is no magic rope. You see score ONLY when you slay the dragon. You score 1 point per each 5 seconds of spent time. Maximum number of points possible is 99 (then game is over). The lowest score is the best score! Click on the Attack button after game ends to start a new game, or hold it for 5 seconds to put the game in demo mode.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Pulsa el botón "ATTACK" para salir del modo de demostración; la pantalla muestra L1, para nivel de dificultad 1.
+Pulsa el botón "MOVE" 1 o 2 veces para seleccionar el nivel de dificultad 1, 2 o 3.
+Nivel 1: El guerrero tiene la cuerda mágica al comienzo del juego.
+Nivel 2: La cuerda mágica está escondida al azar y se debe encontrar para ser utilizada.
+Nivel 3: No hay una cuerda mágica.
+Consigues 1 punto cada 5 segundos.
+El número máximo de puntos que se pueden mostrar es 99.
+La puntuación más baja es el mejor puntaje, el puntaje 99 significa el final del juego.
+Haz clic en el botón de ataque al final del juego para reiniciarlo, o manten presionado el botón de ataque durante 5 segundos para poner el juego en modo demostración.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Appuyez sur le bouton "ATTACK" pour sortir du mode démo; l'écran affiche L1 , pour le niveau de difficulté 1.
+Appuyez sur le bouton "MOVE" 1 ou 2 fois, pour sélectionner le niveau de difficulté 1, 2 ou 3.
+Niveau 1: Le guerrier possède la corde magique au début du jeu. 
+Niveau 2: la corde magique est cachée au hasard et doit être trouvée pour être utilisé.
+Niveau 3: il n'y a pas de corde magique.
+Vous marquez 1 point toute les 5 secondes.
+Le nombre maximum de points affichable est de 99.
+Le score le plus bas est le meilleur score, le score 99 signifie la fin de la partie!
+Cliquez sur le bouton d'attaque à la fin de la partie pour relance le jeu, ou maintenir le bouton d'attaque 5 secondes pour mettre le jeu en mode démo.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Mattel Electronics</developer>
+    <publisher>Mattel Electronics</publisher>
+    <date year="1981" month="1981" day="1981"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Egg">
+    <id>99462</id>
+    <locale lang="EN">
+      <title>Egg</title>
+      <synopsis>Chickens lay eggs. Control the wolf so that he catches them in his cap. When the wolf drops an egg, one miss is scored. The cock appears/disappears at every five seconds. When the cock appears while egg falls, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point per caught egg. At 200 and 500 points, if there are one or more misses, fanfare sounds and all misses are canceled.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Las gallinas pondrán huevos.
+Controla al lobo para que los atrape con su sombrero.
+Cuando el lobo deja caer un huevo, no anotas un punto.
+El gallo aparece y desaparece cada cinco segundos.
+Cuando el gallo aparece mientras el huevo cae, pierdes una oportunidad.
+Después de tres intentos, el juego termina.
+Ganarás 1 punto por cada huevo recogido.
+A los 200 y 500 puntos, sonará una fanfarria y se borrarán los fallos acumulados.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Les poulets pondent des oeufs.
+Contrôlez le loup afin qu'il les attrape dans son chapeau.
+Quand le loup laisse tomber un oeuf, vous ne marquez pas de point.
+Le coq apparaît/disparaît toutes les cinq secondes.
+Lorsque le coq apparaît alors que l'oeuf tombe, vous perdez un essai.
+Au bout de trois essai, le jeu se termine.
+Vous gagnez 1 point par oeuf dans le chapeau.
+A 200 et 500 points, une musique retentit et vous regagnez les essais perdus.</synopsis>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1981" month="10" day="09"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Ball">
+    <id>143408</id>
+    <locale lang="EN">
+      <title>Electronic Toss-Up</title>
+      <synopsis>"Ball" was the very first "Game &amp; Watch" handheld game ever made by Nintendo on April 28,1980. It was part of the "Silver" series, which later spawned the popular "Gold" series.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ball est un jeu où vous incarnez un jongleur et où le but est donc de jongler . Le jeu utilise deux mode de jeux : facile jongler avec 2 balles , difficile jongler avec 3 balles.</synopsis>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1980" month="04" day="28"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Engine Room">
+    <id>88059</id>
+    <locale lang="EN">
+      <title>Engine Room</title>
+      <synopsis>The love boat engine needs coal, or it'll stop cruising across the ocean. Move a busy worker in order to throw coal continuously into the furnace. When a lot of coal is not supplied, a chance is missed. A mate appears occasionally, bringing some tea to our character (game B only). Three misses and game ends. 10 points are scored each time a lot of coal is thrown into the furnace. 50 points are scored each time the worker drinks some tea. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>El motor del barco necesita combustible, o no podrá continuar su crucero por el océano.
+Depende de ti echar carbón continuamente en la caldera.
+Si pones muy poco carbón, se te anotará una falta.
+Un amigo aparece de vez en cuando para traerte un poco de té (juego B solamente).
+El juego termina después de tres faltas.
+Obtienes 10 puntos por cada carbón arrojado en el horno.
+Obtienes 50 puntos cada vez que bebes té.
+Se concede una pausa cada 1000 puntos.
+El mayor puntaje visualizable es 9990.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le moteur du bateau à besoin de combustible, ou il ne va pas pouvoir continuer sa croisière à travers l'océan.
+C'est à vous de jeter le charbon en continu dans le four.
+Si vous mettez trop peu de charbon, vous perdez un essai.
+Un ami apparaît occasionnellement, pour vous apporter un peu de thé ( jeu B uniquement).
+Le jeu se termine au bout de trois essais.
+Vous marquez 10 points pour chaque charbon jeté dans le four.
+Vous marquez 50 points chaque fois que vous buvez du thé.
+Un temps mort est accordé tous les 1000 points.
+Le plus gros score affichable est de 9990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Escape">
+    <id>88060</id>
+    <locale lang="EN">
+      <title>Escape</title>
+      <synopsis>Manipulate the motion of the prisoner so as to avoid being caught by the guards appearing in the upper and lower rows, and to escape through the gate as soon as it's open. When the prisoner is spotted by a guard, he will be caught, meaning a miss. Five misses and game ends. 1 point is awarded when a prisoner successfully leaves the jail. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Controla el movimiento del prisionero para evitar ser atrapado por los guardias.
+Escapa a través de la puerta tan pronto como esta se abra.
+Cuando el prisionero es descubierto por un guardia, será atrapado, lo que significa 1 falta.
+5 faltas y el juego terminará.
+Se otorga 1 punto cuando un prisionero sale exitosamente de la cárcel.
+La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Contrôler les déplacements du prisonnier de manière à ne pas être attrapé par les gardes qui apparaissent dans les rangées supérieures et inférieures, échappez-vous par la porte dès qu'elle sera ouverte. Lorsque le prisonnier est repéré par un gardien, il est attrapé. Cinq arrestations et le jeu se termine. 1 point est accordé lorsqu'un prisonnier quitte la prison avec succès. Le score maximum affichable est de 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Explorers Of Space">
+    <id>88061</id>
+    <locale lang="EN">
+      <title>Explorers Of Space</title>
+      <synopsis>Press Game A button to play game A (easy). Press Game B button to play game B (hard). Press Game A + Game B buttons to play game A+B (different).
+* Instructions (games A and B):
+Your ship has landed on a hostile planet. Enemy ships attack your ship by shooting homing missiles against it. Move your ship's energy shield to destroy enemy missiles. Misses: one miss is scored per each enemy missile that hits your ship. If your mothership (the large one on top of screen) is on screen while missile hits your ship, half a miss is scored; miss marks blinks. If your mothership is not on screen while missile hits your ship, a full miss is scored; miss marks appears. 1 point per destroyed enemy missile.
+* Instructions (game A + B):
+Shoot missiles from the screen corners to the ship in the center of the screen. Computer controls the ship's energy shield. You have 300 missiles available. 1 point per missile hitting the ship.
+At 200 and 500 points, if there are one or more misses, fanfare sounds play and all misses are canceled (games A and B only). Maximum displayed score is 999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Pulsa el botón A para jugar el modo A (fácil).
+Pulsa el botón B para jugar al modo B (difícil).
+Pulsa los botones A + B para jugar el juego A + B (diferente).
+* Instrucciones (juegos A y B):
+Tu nave ha aterrizado en un planeta hostil. Las naves enemigas atacan tu nave disparando misiles dirigidos contra ella. Mueve el escudo de energía de tu nave para detener los misiles enemigos. Faltas: se marca una falta por cada misil enemigo que impacte en tu nave. Si su nave nodriza (la más grande en la parte superior de la pantalla) está en la pantalla mientras el misil golpea su nave, se anota la mitad de una falta; las marcas de error parpadean. Si su nave nodriza no está en la pantalla mientras el misil impacta tu nave, se anota una falta completa; Las marcas de falta parpadearán. 1 punto por misil enemigo detenido.
+* Instrucciones (juego A + B):
+Dispara misiles desde las esquinas de la pantalla a la nave del centro de la pantalla. La computadora controla el escudo de energía de la nave. Tienes 300 misiles disponibles. 1 punto por misil impactado en la nave.
+A los 200 y 500 puntos, si hay uno o más faltas, suena una fanfarria y se borran todas las faltas (juegos A y B solamente).
+La puntuación máxima visualizada es de 999 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Appuyez sur le bouton A pour le mode facile. Appuyez sur le bouton B pour le mode difficile. Appuyez sur les boutons A et B pour un mixe des deux.
+Votre vaisseau a atterri sur une planète hostile. Les navires ennemis attaquent votre appareil en lui tirant dessus des missiles à tête chercheuse. Protégez-vous en déplaçant le bouclier d'énergie pour détruire les missiles ennemis. Un point est perdu dès qu'un missile frappe votre vaisseau. Si votre vaisseau-mère (le plus grand en haut de l'écran) apparaît à l'écran pendant que le missile frappe votre appareil, un demi-point est perdu.
+Tirez des missiles depuis les bords de l'écran vers le vaisseau au centre de l'écran. L'ordinateur contrôle le bouclier énergétique de l'appareil. Vous avez 300 missiles disponibles. 1 point est attribué par missile qui frappe le vaisseau ennemi.
+Le score maximum affiché est de 999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Elektronika</developer>
+    <publisher>Elektronika</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Flagman">
+    <id>143955</id>
+    <locale lang="EN">
+      <title>Flagman</title>
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Flagman est un jeu électronique à cristaux liquides Game and Watch sorti en 1980. Il ressort le 15 juillet 2009 sous la forme de jeux en téléchargement (200 Nintendo Points) dans un compilation de jeux Game and Watch sur Nintendo DSi.
+
+Jeu de mémoire et de réflexes, deux modes de jeu existent :
+
+Dans le mode Game A, il faut lever les drapeaux dans l'ordre indiqué par Flagman, et cela dans la limite du temps imparti.
+Dans le mode Game B, il faut lever les drapeaux correspondant aux numéros indiqués, un seul à la fois.
+Règles communes aux deux modes:
+
+Le joueur commence avec trois vies.
+Plus le joueur avance dans le jeu, plus celui-ci devient difficile.
+S'il appuie sur le mauvais bouton, il perd une vie.
+Le jeu s'arrête une fois les trois vies perdues.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Nintendo EAD</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1980" month="" day=""/>
+  </game>
+  <game name="Fowling">
+    <id>88062</id>
+    <locale lang="EN">
+      <title>Fowling</title>
+      <synopsis>Hunt as many birds as possible by placing the gun in the correct direction as birds fly away. Misses: one miss is scored per each missed bird. If dragon is on screen while bird flies away, half a miss is scored; miss mark blinks. If dragon is not on screen bird flies away, a full miss is scored; miss mark appears. 1 point per killed bird. At 200 and 500 points, if there are one or more misses, fanfare sounds play and all misses are canceled. Maximum displayed score is 999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Caza la mayor cantidad de pájaros posible colocando el arma en la dirección correcta mientras los pájaros vuelan.
+Faltas: se marca una falta por cada ave perdida.
+Si el perro de la parte superior está en la pantalla mientras el pájaro se va volando, se anota media falta; La marca de miss parpadea.
+Si el perro no está en la pantalla, y el pájaro se va volando, se marca una falla completa; aparece la marca de la falta.
+1 punto por ave muerta.
+A los 200 y 500 puntos, si hay uno o más faltas, suena una fanfarria y se eliminan todas las faltass.
+La puntuación máxima visualizada es de 999 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Chassez autant d'oiseaux que possible en plaçant le pistolet dans la bonne direction au fur et à mesure qu'ils s'envolent. Un raté est marqué pour chaque oiseau manqué. Si le dragon est à l'écran pendant que l'oiseau s'envole, un demi-raté est marqué. 1 point par oiseau tué est attribué.
+Le score maximum affiché est de 999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>Jagd so viele Vögel wie möglich durch die platzierung der Pistole in die richtigen Richtung. Für jeden verpassten Vogel wird ein Miss gewertet. Wenn der Drache auf dem Bildschirm erscheint, während der Vogel davonfliegt, wird ein halber Fehlschuss erzielt. Wenn der Drache nicht auf dem Bildschirm ist und der Vogel fliegt weg wird ein voller Fehlschuss gewertet. 1 Punkt pro getötetem Vogel. Bei 200 und 500 Punkten werden bei einem oder mehreren Fehlern Fanfaren-Sounds abgespielt und alle Fehler werden storniert. Die maximal angezeigte Punktzahl beträgt 999 Punkte.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <developer>Elektronika</developer>
+    <publisher>Elektronika</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Frog Boaster">
+    <id>88063</id>
+    <locale lang="EN">
+      <title>Frog Boaster</title>
+      <synopsis>Move a frog to catch butterflies. When a butterfly escapes, a miss is scored. The chicken appears/disappears at every five seconds. When the cock appears while butterfly escapes, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point is scored for each butterfly caught by frog. At 200 and 500 points, if there are one or more misses, fanfare sounds play and all misses are canceled. Maximum displayed score is 999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Mueve a la rana para atrapar las mariposas.
+Cuando una mariposa escapa, se anota una falta.
+El pollo aparece y desaparece cada cinco segundos.
+Si el pollo está en pantalla mientras las mariposa escapan, se anota la mitad de la falta
+Tres faltas completas y el juego habrá terminado.
+Se anota 1 punto por cada mariposa atrapada por la rana.
+A los 200 y 500 puntos, si hay una o más faltas, sonará una fanfarria y se cancelarán todas las faltas.
+La puntuación máxima visualizada es de 999 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Déplacez une grenouille pour attraper des papillons. Lorsqu'un papillon s'échappe, vous perdez un point. Un poulet apparaît / disparaît toutes les cinq secondes. Lorsque un coq apparaît pendant que le papillon s'échappe, un demi-point est perdu. Trois points perdus et la partie est terminée. 1 point est marqué pour chaque papillon capturé par la grenouille. Le score maximum affiché est de 999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Elektronika</developer>
+    <publisher>Elektronika</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Galaxy 2">
+    <id>88064</id>
+    <locale lang="EN">
+      <title>Galaxy II</title>
+      <synopsis>Game is divided into four phases. In Phase 1, you must destroy a squadron of fighters that attack in two different patterns: a zigzag and a backward-forward motion. In Phase 2, another squadron attacks, this time in a circular formation. In Phase 3, the enemy command ships are vulnerable but watch out for their barrage of missiles! In Phase 4, you are challenged to complete a difficult docking maneuver. Your earth ship launches a space shuttle and the countdown begins. Five misses and game ends (in phases 1 to 3). In Phase 1, enemy warships on top rows are worth 10 or 20 points each. In Phase 1, enemy warships moving down are worth 40 or 50 points each. In Phase 2, enemy warships are worth 70 points each. In Phase 3, enemy command ships are worth 100 points each. In Phase 4, you score bonus points. The amount of points depend on how much time you spend to complete the docking maneuver. Maximum displayed score is 10000.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>El juego se divide en cuatro fases. 
+En la Fase 1 debes destruir un escuadrón de luchadores que atacan de dos formas distintas: un zigzag y un movimiento hacia atrás.
+En la Fase 2 ataca un nuevo escuadrón, esta vez en una formación circular. 
+En la Fase 3 los buques de enemigos son vulnerables, pero ten cuidado con su aluvión lanza misiles! 
+En la Fase 4 se le desafía a completar una difícil maniobra de acoplamiento. Su nave terrestre lanza un transbordador espacial y comienza la cuenta atrás. 
+Cinco fallos y se acabará juego (fases 1 a 3). En la Fase 1, los barcos de guerra enemigos de las filas superiores valen 10 o 20 puntos cada uno. En la Fase 1 los buques de guerra enemigos que se mueven hacia abajo valen 40 o 50 puntos cada uno. En la Fase 2 los buques de guerra enemigos valen 70 puntos cada uno. En la Fase 3 los barcos de mando enemigos valen 100 puntos cada uno. En la Fase 4, obtendrás puntos de bonificación. La cantidad de puntos depende de cuánto tiempo necesites para completar la maniobra de acoplamiento. La puntuación máxima es de 10000 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le jeu est divisé en quatre phases. Dans la phase 1, vous devez détruire un escadron de combattants qui attaquent selon deux schémas différents : en zigzag et en mouvement arrière. Dans la phase 2, un autre escadron attaque, cette fois de façon circulaire. Dans la phase 3, les vaisseaux de commandement ennemis sont vulnérables, mais faites attention à leur barrière de missiles ! Au cours de la phase 4, vous êtes mis à défi de mener une man?uvre d'accostage. Cinq erreurs et c'est la fin de la partie (dans les phases 1 à 3). Dans la phase 1, les vaisseaux de guerre ennemis situés dans les rangs supérieurs valent 10 ou 20 points chacun et les vaisseaux qui descendent valent chacun 40 ou 50 points. En phase 2, les vaisseaux ennemis valent 70 points chacun. En phase 3, les vaisseaux de commandement ennemis valent 100 points chacun. En phase 4, vous gagnez des points bonus. Le nombre de points dépend du temps que vous passez à effectuer la man?uvre d'accostage. Le score maximum affiché est 10000.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Epoch</developer>
+    <publisher>Epoch</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Grab Man">
+    <id>88066</id>
+    <locale lang="EN">
+      <title>Grab Man</title>
+      <synopsis>Same as Pac Man - do you really need instructions? Notice: Grab Man can eat pills when walking from right to left only! Pill: 5 points. Power pill: 100 points. Ghosts: 200 to 800 points. Apple: 200 to 2000 points (depending on game stage). Apples appear whenever Grab Man eats 8 pills (maximum 2 cherries per stage). Bonus points (1000) are given at level 6 and at every 5 levels. A bonus life is awarded at 5000 and at every 20000 points (just in case you have less than 3 lives left).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Igual que Pac Man: ¿realmente necesitas instrucciones?
+Aviso: ¡Grab Man solo puede comer píldoras cuando camina de derecha a izquierda!
+Píldora: 5 puntos.
+Píldora de energía: 100 puntos.
+Fantasmas: 200 a 800 puntos.
+Manzana: 200 a 2000 puntos (dependiendo de la fase del juego). Las manzanas aparecen cada vez que Grab Man come 8 píldoras
+Los puntos de bonificación (1000) se dan en el nivel 6 y en cada 5 niveles.
+Se otorga una vida extra a los 5000 y cada 20000 puntos (en caso de que te queden menos de 3 vidas).</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Comme pour Pac Man, avez-vous vraiment besoin d'instructions ?nnGrab Man peut manger des pilules en se déplaçant de droite à gauche seulement ! Une pilule donne 5 points. Une pilule de pouvoir donne 100 points. Un fantômes mangé donne 200 à 800 points. Une pomme donne 200 à 2000 points (en fonction du niveau du jeu). Des pommes apparaissent chaque fois que Grab Man mange 8 pilules (maximum 2 fruits par level). Des points bonus (1000) sont attribués au niveau 6 et tous les 5 niveaux suivants. Un bonus de vie est attribué à 5000 points et à tous les 20000 points suivants.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>unknown manufacturer</developer>
+    <publisher>unknown manufacturer</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
+    </input>
+  </game>
+  <game name="Hippo Teeth (mini Time And Fun)">
+    <id>88067</id>
+    <locale lang="EN">
+      <title>Hippo Teeth (mini Time And Fun)</title>
+      <synopsis>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Ayuda al dentista a evitar que las caries se coman los dientes del hipopótamo. Cuando una caries se come un diente se marca una falta. Tres fallos y el juego termina. Obtendrás 10 puntos por cada uno de las caries muertas. Todos los dientes se restauran cada 1000 puntos anotados. La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Aidez le dentiste à empêcher que les caries n'attaquent les dents de l'hippopotame. Quand une carie attaque une dent, il s'agit d'un échec. Trois échecs et le jeu se termine. Vous obtiendrez 10 points pour chaque carie éliminée. Toutes les dents sont restaurées tous les 1000 points gagnés. Le score maximum affiché est de 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Hippo Teeth (sporty Time And Fun)">
+    <id>88068</id>
+    <locale lang="EN">
+      <title>Hippo Teeth (sporty Time And Fun)</title>
+      <synopsis>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Ayuda al dentista a evitar que las caries se coman los dientes del hipopótamo. Cuando una caries se come un diente se marca una falta. Tres fallos y el juego termina. Obtendrás 10 puntos por cada uno de las caries muertas. Todos los dientes se restauran cada 1000 puntos anotados. La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Aidez le dentiste à empêcher que les caries n'attaquent les dents de l'hippopotame. Quand une carie attaque une dent, il s'agit d'un échec. Trois échecs et le jeu se termine. Vous obtiendrez 10 points pour chaque carie éliminée. Toutes les dents sont restaurées tous les 1000 points gagnés. Le score maximum affiché est de 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Hot Line (mini Time And Fun)">
+    <id>88069</id>
+    <locale lang="EN">
+      <title>Hot Line (mini Time And Fun)</title>
+      <synopsis>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Un empleado tiene la tarea de contestar llamadas telefónicas muy rápidamente. Mueve al empleado a izquierda y derecha para contestar llamadas telefónicas. Cuando no se contesta una llamada se provoca un fallo. El secretario aparece ocasionalmente esperando le firmes algunos documentos (juego B solamente). Tres fallos y el juego termina. Se anotan 10 puntos cada vez que se responde a una llamada telefónica, 50 cada vez que se firma un documento. Cada 1000 puntos se concede un descanso rápido. La puntuación máxima es de 9990 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un employé a pour tâche de répondre aux appels téléphoniques très rapidement. Déplacez la main du personnage à gauche et à droite pour répondre aux appels. En l'absence de réponse à un appel, c'est un échec. La secrétaire apparaît de temps en temps pour faire signer des documents (mode B uniquement). Trois échecs et le jeu se termine. 10 points sont donnés à appel téléphonique décroché, 50 à chaque signature de document. Une reprise de tempo plus lente est accordée tous les 1000 points. Le score maximum est de 9 990 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Hot Line (sporty Time And Fun)">
+    <id>88070</id>
+    <locale lang="EN">
+      <title>Hot Line (sporty Time And Fun)</title>
+      <synopsis>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Un empleado tiene la tarea de contestar llamadas telefónicas muy rápidamente. Mueve al empleado a izquierda y derecha para contestar llamadas telefónicas. Cuando no se contesta una llamada se provoca un fallo. El secretario aparece ocasionalmente esperando le firmes algunos documentos (juego B solamente). Tres fallos y el juego termina. Se anotan 10 puntos cada vez que se responde a una llamada telefónica, 50 cada vez que se firma un documento. Cada 1000 puntos se concede un descanso rápido. La puntuación máxima es de 9990 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un employé a pour tâche de répondre aux appels téléphoniques très rapidement. Déplacez la main du personnage à gauche et à droite pour répondre aux appels. En l'absence de réponse à un appel, c'est un échec. La secrétaire apparaît de temps en temps pour faire signer des documents (mode B uniquement). Trois échecs et le jeu se termine. 10 points sont donnés à appel téléphonique décroché, 50 à chaque signature de document. Une reprise de tempo plus lente est accordée tous les 1000 points. Le score maximum est de 9 990 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Las Vegas">
+    <id>88071</id>
+    <locale lang="EN">
+      <title>Las Vegas</title>
+      <synopsis>Your hero is very poor because he lost all his money playing the slot-machines. There are a few luckier gamblers than he, whose coins fall from the slot-machines. Your hero tries to get all of the coins falling from their slot-machines. When he collects 100 coins, he plays the slot-machine and attempts to win some more money. Gambling game starts whenever he scores 1000 points. 10 points are scored when your hero grabs a falling coin. 100 points are scored when your hero scores 111 at the slot machine. 200 points are scored when your hero scores 333 at the slot machine. 500 points are scored when your hero scores 777 at the slot machine. A money bag is awarded when your hero scores 777 at the slot machine. A money bag is lost when your hero scores a miss at the gambling game.</synopsis>
+      <genre>Action,Casino</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Tu héroe es muy pobre porque perdió todo su dinero jugando a las máquinas tragaperras. Hay algunos jugadores más afortunados que él cuyas monedas se caen de las máquinas y tu héroe intenta recogerlas. Cuando recoja 100 monedas, jugará a la máquina tragaperras y tratará de ganar algo más de dinero. El juego de azar comienza cada vez que alcanzas 1000 puntos. Conseguirás 10 puntos cuando tu héroe consiga una moneda que cae, 100 puntos cuando tu héroe consigue un "111" en la máquina tragaperras, 200 cuando tu héroe marca "333" y 500 cuando tu héroe marca "777" en la máquina tragaperras. Perderás una bolsa de dinero cuando tu héroe marque una falta en el juego de azar.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le héros a perdu tout son argent dans des machines à sous. Des joueurs plus chanceux que lui font tomber des pièces des machines et le héros doit essayer de les collecter. Lorsque vous collectez 100 pièces, vous pouvez jouer à la machine à sous et tenter de gagner un peu plus de pièces. Le jeu d'argent débute chaque fois que vous atteignez 1000 points. Vous obtiendrez 10 points lorsque le héros attrape une pièce, 100 points lorsque le héros obtiendra "111" dans la machine à sous, 200 points lorsque le héros obtiendra "333" et 500 points lorsque le héros obtiendra "777" dans la machine à sous. Vous perdrez un sac d'argent lorsque le héros commettra une erreur au jeu d'argent.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Bandai</developer>
+    <publisher>Bandai</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Lifeboat">
+    <id>88072</id>
+    <locale lang="EN">
+      <title>Lifeboat</title>
+      <synopsis>A fire breaks out on a luxury liner; passengers jump from the ship. Put lifeboat in position for catching passengers. Each lifeboat holds up to four passengers. There is a shore on the left and right of the screen. When a lifeboat reaches shore, passengers will unload automatically. 1 point per person caught. 1 point per person unloaded to shore. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value (2 points per passenger caught or unloaded to shore) until a miss is made.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Se provoca un incendio en un barco de lujo. y los pasajeros están saltando por la borda. Coloque el bote salvavidas para poder atrapar a los pasajeros. El bote salvavidas tiene capacidad para cuatro pasajeros que deberá descargar en las orillas a izquierda y derecha de la pantalla.
+
+Gana 1 punto por cada persona atrapada y 1 punto por persona descargada en la orilla. La puntuación máxima es de 999 puntos. Cada 300 puntos sonarán fanfarrias y todas las caídas serán canceladas. Cuando se alcanzan los 300 puntos, el juego entra en "Chance-Time": la puntuación parpadea y todos los puntos que se otorgan tienen valor doble hasta que se produce un fallo.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un incendie éclate sur un bateau de luxe; Les passagers sautent du navire. Il faut mettre l'embarcation de sauvetage en position pour attraper les passagers. Chaque embarcation de sauvetage peut accueillir jusqu'à quatre passagers. Il ya un rivage à gauche et à droite de l'écran. Lorsqu'un canot de sauvetage atteint la rive, les passagers se déchargent automatiquement. 1 point par personne. 1 point par personne déchargé au rivage. Le score maximum affiché est de 999. A 300 points, les sons de fanfare et tous les misses sont annulés; S'il n'y a pas de points manqués lorsque 300 points sont atteints, le jeu se déroule dans «Chance-Time»: le score clignote et tous les points sont attribués à la double valeur (2 points par passager pris ou déchargé au rivage)</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1983" month="10" day="16"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mario Bros.">
+    <id>88073</id>
+    <locale lang="EN">
+      <title>Mario Bros.</title>
+      <synopsis>Mario is back in action with his brother Luigi, working in a bottling plant, loading cases on a belt conveyor. The conveyor carries the cases up for loading onto trucks. Operate Mario and Luigi up and down ladders in order to get cases. When a case is dropped, the foreman get angry and a miss is scored. Three misses and game is over 1 point per case loaded on a conveyor. 10 points per truck loaded with 8 cases. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached, game goes into "CHANCE TIME". Score flashes and all points are awarded at double value until a miss is made. Maximum displayed score is 999 points.</synopsis>
+      <genre>Action,Platform</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Mario vuelve a la acción con su hermano Luigi, trabajando en una planta embotelladora, cargando cajas en una cinta transportadora.
+El transportador lleva las cajas hacia arriba para cargarlas en camiones.
+Controla a Mario y Luigi escaleras arriba y abajo para coger cajas.
+Cuando se cae una caja, el capataz se enfada y te marca una falta.
+Tres errores y juego se acabará.
+Te darán 1 punto por cada caja cargada en una cinta transportadora.
+Te darán 10 puntos por camión cargado con 8 cajas.
+A los 300 puntos sonará una fanfarria y todas las faltas se retirarán; si no hay errores cuando se alcanzan los 300 puntos, el juego entra en "TIEMPO DE OCASIÓN".
+El marcador parpaderá y todos los puntos valdrán el doble hasta que cometas un error.
+La puntuación máxima visualizada es de 999 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Mario est de retour en action avec son frère Luigi, travaillant dans une usine d'embouteillage, le chargement des caisses sur un tapis roulant. Le convoyeur transporte les caisses pour le chargement sur les camions. Exploite Mario et Luigi en haut et en bas des échelles afin d'obtenir des caisses. Quand une caisses est abandonné, le contremaître se met en colère et un misse est marqué. Trois misses et le jeu est terminé .  1 point par carton chargé sur un convoyeur. 10 points par camion chargé de 8 caisses. À 300 points fanfare sonne et tous les misses sont annulés; S'il n'y a pas de manquer quand 300 points sont atteints, le jeu entre dans "CHANCE TIME". Score clignote et tous les points sont attribués à la double valeur jusqu'à ce que l'erreur soit faite. Le score maximum affiché est de 999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1983" month="" day=""/>
+  </game>
+  <game name="Mario's Bombs Away">
+    <id>88074</id>
+    <locale lang="EN">
+      <title>Mario's Bombs Away</title>
+      <synopsis>Mario is in the jungle, fighting against an enemy army. His aim is to take five bombs on the right side of the jungle. Mario's companion on the right side places bombs close to enemies. When all five bombs are in place, they detonate and enemy army is beaten. Enemies try to light Mario's bomb; lift/lower Mario's bomb to keep it safe. If enemies torches reach Mario's bomb, all progress (bombs already placed) is lost. Three misses and game ends. 1 point when Mario steps forward. 5 points when Mario places a bomb. 10 points when Mario places the 5th bomb. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Mario está en la jungla, luchando contra un ejército enemigo.
+Tu objetivo es llevar cinco bombas al lado derecho de la jungla. El acompañante de Mario en el lado derecho coloca las bombas cerca de los enemigos.
+Cuando las cinco bombas están en su lugar, detonan y el ejército enemigo es derrotado.
+Los enemigos intentan encender la bomba de Mario; levanta / baja la bomba para mantenerlo a salvo.
+Si las antorchas enemigas alcanzan la bomba de Mario, todo el progreso (bombas ya colocadas) se pierde.
+Tres fallos y el juego termina.
+1 punto cuando Mario da un paso adelante.
+5 puntos cuando Mario entrega una bomba.
+10 puntos cuando Mario entrega la quinta bomba.
+a los 300 puntos sonará una fanfárria y se cancelan todas las fallos; si no hay fallos en el momento de alcanzar los 300 puntos, el juego entra en "Chance-Time": el marcador parpadea y todos los puntos se otorgan al doble valor hasta que se comete una falta.
+La puntuación máxima visualizada es de 999 puntos.
+A los 999 puntos la puntuación se restablece y el juego comienza de nuevo (a mayor velocidad.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Mario est dans la jungle et se bat contre une armée ennemie.nnLe but est de déposer cinq bombes sur le côté droit de la jungle. Lorsque les cinq bombes sont en place, elles explosent et l'armée ennemie est vaincue.nnLes ennemis essaient d'allumer la bombe. Soulevez / baissez la bombe pour la garder en sécurité.nnSi les torches de l'ennemi atteignent la bombe, tous les progrès (les bombes déjà placées) sont perdus.nnTrois échecs et le jeu se termine.nnVous obtenez 1 point quand Mario fait un pas en avant, 5 points quand Mario livre une bombe, 10 points lorsque Mario livre la cinquième bombe.nnUne fanfare retentit à 300 points et toutes les erreurs sont annulées - s'il n'y a pas eu d'erreur alors le jeu entre en "Chance-Time", le marqueur clignote et tous les points attribués ont une valeur double jusqu'à ce qu'une faute soit commise.nnLe score maximum affiché est de 999 points.nnÀ 999 points, le score est réinitialisé et la partie reprend (à une vitesse supérieure).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1983" month="" day=""/>
+  </game>
+  <game name="Mickey Mouse (panorama Screen)">
+    <id>88075</id>
+    <locale lang="EN">
+      <title>Mickey Mouse (panorama Screen)</title>
+      <synopsis>Mickey Mouse performs baton acrobatics while balancing on a ball in a circus. Donald Duck watches his acrobatic feats. Move Mickey Mouse left and right to catch the batons, but beware of the flaming torches. One miss is scored when Mickey Mouse fails to catch a baton, or when he catches a flaming torch. Three misses and game ends. 1 point for each baton Mickey Mouse catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per baton caught) until a miss is made.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Mickey Mouse realiza acrobacias con bastones mientras se balancea sobre una pelota en un circo.
+El pato Donald observa sus hazañas acrobáticas.
+Mueve a Mickey hacia la izquierda y hacia la derecha para atrapar los bastones, pero ten cuidado con las antorchas encendidas.
+Se anota una fallo cuando Mickey no puede atrapar un bastón, o cuando atrapa una antorcha encendida.
+Tres fallos y el juego termina.
+1 punto por cada bastón que Mickey atrapa y arroja.
+La puntuación máxima visualizada es 999.
+A los 300 puntos suena la fanfarria y se cancelan todos los fallos.
+Si no se producen fallos cuando se alcanzan los 300 puntos, el juego entra en "Chance-Time": todos los puntos se otorgan al doble valor (2 puntos por bastón atrapado) hasta que se comete un fallo.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Mickey Mouse effectue des acrobaties avec des baguettes tout en se balançant sur une balle dans un cirque. Donald Duck surveille les exploits. Déplacez Mickey à gauche et à droite pour attraper les baguettes, mais méfiez-vous des torches enflammées. Une erreur est enregistrée lorsque Mickey ne parvient pas à attraper une baguette ou lorsqu'il attrape une torche enflammée. Trois erreurs et le jeu se termine. 1 point est donné pour chaque baguette attrapée. Le score maximum affiché est de 999. À 300 points, la fanfare retentit et toutes les erreurs sont annulées. S'il n'y a pas eu d'erreur, le jeu passe en "Chance-Time", tous les points attribués ont une valeur double jusqu'à la première erreur.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mickey Mouse (wide Screen)">
+    <id>88076</id>
+    <locale lang="EN">
+      <title>Mickey Mouse (wide Screen)</title>
+      <synopsis>Chickens lay eggs. Control Mickey Mouse so that he catches them in his basket. When Mickey Mouse drops an egg, one miss is scored. Minnie Mouse appears/disappears at every five seconds. When Minnie Mouse appears while egg falls, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point per caught egg. At 200 and 500 points, if there are one or more misses, fanfare sounds and all misses are canceled. Maximum displayed score is 999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Las gallinas podrán huevos.
+Controla a Mickey Mouse para que los atrape en su cesta.
+Si se cae un huevo al suelo, se marca un fallo.
+Minnie Mouse aparece/desaparece cada cinco segundos.
+Cuando aparece Minnie mientras el huevo cae, se marca media falta (la marca de error parpadea).
+Tres errores completos y el juego ha terminado.
+1 punto por cada huevo atrapado.
+A los 200 y 500 puntos, sonará una fanfarria y si hay fallos en ese momento, estos serán cancelados.
+La puntuación máxima visualizada es de 999 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Les poules pondent des oeufs. Contrôle Mickey Mouse de sorte qu'il les attrape dans son panier. Quand Mickey Mouse laisse tomber un oeuf, un miss est marqué. Minnie apparaît / disparaît toutes les cinq secondes. Lorsque Minnie apparaît alors que l'oeuf tombe, la moitié de miss est marquée (la marque manquante clignote). Trois miss complets et le jeu est terminé. 1 point par oeuf pris. À 200 et 500 points, s'il y a un ou plusieurs ratés, les sons de fanfare et tous les miss sont annulés. Le score maximum affiché est de 999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1981" month="10" day="09"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Monkey">
+    <id>88077</id>
+    <locale lang="EN">
+      <title>Monkey</title>
+      <synopsis>Monkeys continuously climb the trees to steal coconuts. You should try your best to avoid the coconuts being stolen. When a monkey successfully reaches a coconut, a missed is scored. Five misses and game ends. 1 point is scored each time a monkey is hit. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Los monos suben continuamente a los árboles para robar cocos.
+Debes intentar evitar que los cocos sean robados.
+Cuando un mono alcanza con éxito un coco, se anota un fallo.
+Cinco falloss y el juego terminará.
+Se anota 1 punto cada vez que golpeas a un mono.
+La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Vous incarnez un homme qui doit traverser le royaume des singes , en évitant les pièges tendus par les singes , à vous de jouer !</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Monkey Jump">
+    <id>88078</id>
+    <locale lang="EN">
+      <title>Monkey Jump</title>
+      <synopsis>A Kong kidnapped a very nice girl and took her to the mysterious jungle. She's waiting for you to save her. Now it's up to you to make your way to her. You can escape the Kong by jumping the tires he's throwing at you. You may want to rest for a while on short benches placed here and there. There's four items on the left side of the tree. The purse and the shoe on floors 1 and 3 award you with bonus points. The magic cakes on floors 2 and 4 make you invincible for a short time. You can smash tires by simply hitting them, and they're worth bonus points. When you save the girl, she awards you with a kiss. But beware of the Kong, he will kidnap her again! At every 4 completed stages, Kong falls down from tree tree, then game starts again at increased difficulty. If time runs out, or you get hurt by a tire, a life is lost. When all lives are lost, game ends. 10 points are scored when jumping a tire 100 points are scored when getting a bonus item 100 points are scored when smashing a tire 300 to 500 points awarded when completing level (depending on remaining time). Bonus life is awarded when completing level 2 and at every 4 levels. Maximum displayed score is 99990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Kong a secuestrado a una chica muy guapa y la llevó a la misteriosa jungla.
+Ella está esperando que la salves. Ahora depende de ti llegar hasta ella.
+Puedes escapar saltando los neumáticos que te lanza Kong.
+Es posible que desees descansar por un tiempo en tocones colocados aquí y allá.
+Hay cuatro elementos en el lado izquierdo del árbol. El bolso y el zapato en los pisos 1 y 3 te otorgan puntos de bonificación.
+Los pasteles mágicos en los pisos 2 y 4 te hacen invencible por un corto tiempo.
+Puedes aplastar neumáticos simplemente golpeándolos, y otorgan puntos de bonificación.
+Cuando salvas a la chica, ella te premia con un beso.
+Pero ten cuidado con Kong, ¡él la secuestrará de nuevo!
+Cada 4 etapas completadas, Kong cae del árbol, luego el juego comienza de nuevo con mayor dificultad.
+Si se acaba el tiempo, o te golpea un neumático, perderás una vida.
+Cuando todas las vidas se pierden, el juego termina.
+Se anotan 10 puntos al saltar un neumático.
+Se anotan 100 puntos al obtener un elemento de bonificación.
+Se anotan 100 puntos al romper un neumático.
+Se anotan 300 y 500 puntos al completar el nivel (dependiendo del tiempo restante).
+Una vida extra se otorga al completar el nivel 2 y cada 4 niveles.
+La puntuación máxima mostrada es 99990.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un gorille a enlevé une fille innocente et l'a emmenée dans la jungle. Elle attend son sauveur ! Vous devez sauter au dessus des pneus que le gorille vous jette. Vous pouvez vous reposer sur des troncs d'arbres placés ici et là. Il y a quatre éléments sur le côté gauche de l'arbre. Le sac à main et la chaussure vous donnent des points bonus. Les gâteaux magiques vous rendent invincible pendant une courte période. Vous pouvez casser des pneus en les frappant et ils valent des points bonus. Lorsque vous sauvez la fille, elle vous accorde un baiser. Wow, quelle chance ! Mais méfiez-vous du gorille, il va la kidnapper à nouveau ! Tous les 4 niveaux terminés, le gorille tombe de l'arbre et le jeu reprend avec une difficulté accrue. S'il ne reste plus beaucoup de temps ou si vous êtes touché par un pneu, vous perdez une vie. Quand toutes les vies sont perdues, le jeu se termine. 10 points sont gagnés en sautant par dessus un pneu, 100 points sont gagnés en obtenant un élément bonus, 100 points sont gagnés en détruisant un pneu, 300 à 500 points sont attribués en terminant le niveau (en fonction du temps restant). Une vie supplémentaire est offerte à la fin du niveau 2 et tous les 4 niveaux suivants. Le score maximum affiché est 99990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Motor Cross">
+    <id>88079</id>
+    <locale lang="EN">
+      <title>Motor Cross</title>
+      <synopsis>Your aim is to overtake as many bikers as possible before running out of fuel and crashing your bike. As soon as you score a fixed amount of points on the current track, a new track will be made available for you to race. At the beginning of the track, you'll have a new bike with full fuel tank. Sometimes a fuel pump or a spanner will appear on the left or right sides of the road. You can fill your fuel tank or restore your bike by moving close to them and then pressing Start to collect them. When game is over you can continue the game by pressing Start before the "CON" writing fades (10 seconds). You'll run the same track and your score will be reset zero. 100 points per every overtaken bike, (slow speed). 200 points per every overtaken bike, (medium speed). 300 points per every overtaken bike, (fast speed). Maximum displayed score is 199900 points, then score resets to 0.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Tu objetivo es adelantar a tantos motoristas como sea posible antes de quedarte sin combustible o estrellar tu moto.
+Tan pronto como ganes una cantidad fija de puntos en la pista actual, una nueva pista estará disponible para que puedas competir.
+Al comienzo de la pista, tendrás una moto nueva con tanque de combustible lleno.
+Algunas veces, aparecen una bomba de combustible o una llave inglesa en el lado izquierdo o derecho de la carretera.
+Puedes llenar tu tanque de combustible o reparar tu moto moviéndote cerca de ellos y luego presionando Start para recogerlos.
+Cuando termines el juego, puedes continuar pulsando Inicio antes de que la palabra "CON" se desvanezca (10 segundos).
+Ejecutará la misma pista y tu puntuación se reiniciará a cero. 100 puntos por cada moto adelantada, (velocidad lenta).
+200 puntos por cada moto adelantada, (velocidad media).
+300 puntos por cada moto adelantada, (velocidad rápida).
+La puntuación máxima visualizada es 199900 puntos, luego la puntuación se restablece a 0.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Votre objectif est de dépasser autant de motards que possible avant de tomber en panne d'essence ou de vous écraser. Dès que vous obtenez un nombre déterminé de points, une nouvelle course pourra débuter. Au début de la course, vous aurez une moto avec le plein de carburant. Parfois, une pompe à essence ou une clé apparaît sur un des côtés de la route. Vous pouvez remplir votre réservoir de carburant ou réparer votre moto. Appuyez sur le bouton "Start" pour les récupérer. 100 points sont attribués par motos dépassées à une vitesse lente. 200 points par motos dépassées à une vitesse moyenne. 300 points par motos dépassées à une vitesse rapide. Le score maximum affiché est 199900 points, puis le score est réinitialisé.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Queentex</developer>
+    <publisher>Queentex</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pac Man">
+    <id>88080</id>
+    <locale lang="EN">
+      <title>Pac Man</title>
+      <synopsis>Do you really need instructions about the Pac Man videogame ? :-) Notice: Pac Man can eat pills when walking from right to left only! Amateur game becomes automatically Professional game at level 4 (this means that there will be three ghosts in the maze instead of two). Bait: 2 points. Power star: 50 points. Ghost: 100 to 400 points. Cherry: 100 to 400 points (depending on game stage). Cherries appear whenever Pac Man eats 8 pills (maximum 2 cherries per stage). A bonus life is awarded at 2000 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>¿Realmente necesita instrucciones para Pac Man? :-) Aviso: Pac Man sólo puede comer píldoras al caminar de derecha a izquierda! El juego en modo fácil pasa automáticamente a profesional en el nivel 4 (esto significa que habrá tres fantasmas en el laberinto en lugar de dos). Los puntos se repartirán de la siguiente manera: píldoras 2 puntos, estrella 50, fantasmas de 100 a 400 puntos y cereza de 100 a 400 puntos (dependiendo de la etapa del juego). Las cerezas aparecen cuando Pac Man come 8 píldoras (máximo 2 cerezas por etapa). Se consigue una vida extra a los 2.000 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Pac Man peut manger des pilules en se déplaçant de droite à gauche. Le jeu devient automatiquement difficile à partir du niveau 4, avec trois fantômes par labyrinthe au lieu des deux au départ.
+Chaque pillule donne 2 points, une étoile vaut 50 points, un fantôme dévoré donne 100 à 400 points, une cerise mangée donne 100 à 400 points (en fonction du niveau). Les cerises apparaissent chaque fois que Pac Man mange 8 pillules (maximum 2 cerises par niveau). Un bonus de vie est attribué à 2000 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Tomytronic</developer>
+    <publisher>Tomytronic</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Pancake">
+    <id>88081</id>
+    <locale lang="EN">
+      <title>Pancake</title>
+      <synopsis>Move a busy waiter around the restaurant to bring pancakes from cook to a hungry customer. When a pancake falls to ground, one miss is scored. Five misses and game ends. 1 point is scored for each pancake successfully delivered. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Mueve al ocupado camarero por el restaurante para llevar pancakes del cocinero al hambriento cliente.
+Cuando un pancake cae al suelo, se marca una fallo.
+Cinco falloss y el juego terminará.
+Se otorga 1 punto por cada pancake entregado con éxito.
+La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Déplacez un serveur dans un restaurant pour apporter les crêpes du cuisinier jusqu'à un client affamé. Quand une crêpe tombe par terre, c'est une erreur. Cinq erreurs et le jeu se termine. 1 point est donné pour chaque crêpe livrée. Le score maximum affiché est de 9999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Parachute">
+    <id>88082</id>
+    <locale lang="EN">
+      <title>Parachute</title>
+      <synopsis>Skydivers come parachuting down over shark-infested waters. Lifeboat tries to catch them. Try to catch skydivers. Move boat left or right by pressing corresponding control buttons. When a skydiver falls into the ocean he is attacked by sharks. Three misses and game ends. 1 point is scored for each skydiver caught by lifeboat. Maximum displayed score is 999. When the score reaches a bonus score (200 or 500 points), any miss marks indicated at the time are erased with a fanfare and game continues.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Los paracaidistas descienden sobre aguas infestadas de tiburones.
+El bote salvavidas trata de rescatarlos.
+Intenta recoger a los paracaidistas moviendo el bote hacia la izquierda o hacia la derecha.
+Cuando un paracaidista cae al agua es atacado por tiburones.
+Tres fallos y el juego terminará.
+Se otorga 1 punto por cada paracaidista rescatado.
+La puntuación máxima visualizada es 999.
+Cada 200 o 500 puntos, sonará una fanfarria y se eliminarán los fallos anotados hasta ese momento.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un hélicoptère largue des parachutistes. Le joueur, qui contrôle un rameur dans une barque grâce aux 2 boutons (gauche et droite), doit rattraper le parachutiste avant qu'il ne tombe à l'eau et se fasse dévorer par les requins.
+Chaque parachutiste récupéré vaut 1 point mais chaque parachutiste qui va à la mer donne un malus matérialisé par une tête de requin. Au bout de 3 malus, la partie est terminée. Si le joueur atteint 200 points puis 500 points, les malus sont supprimés et une petite musique retenti.
+Il existe 2 type de jeu (type A et type B). La seule différence du jeu en type B est que les parachutistes peuvent ou non rester accrochés à un palmier et se décrochent de façon aléatoire ce qui augmente la difficulté du jeu.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1981" month="06" day="19"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Penguin Land">
+    <id>99468</id>
+    <locale lang="EN">
+      <title>Penguin Land</title>
+      <synopsis>Press Select button to select mode (1 or 2 players). * If one-player mode is selected: Press Penguin's Start/Attack button to play Penguin versus CPU (easy). Press Seal's Start/Attack button to play Seal versus CPU (hard). Your opponent will be controlled by CPU (Artificial Intelligence). * If two-players mode is selected: Press either Penguin's or Seal's Start/Attack button to start game. This is a real battle for survival! A penguin and a seal teams are battling to win some fish which stands over an iceberg. The iceberg stands between the teams. * Rules for the war: A vulture throws two bombs into the playground. The vulture cycles through the playgrounds. You must catch bombs before they fall on the floor and explode. If a team lets a bomb fall on the floor, that team will lose one point. You can keep one only bomb in your hands. You can keep it as much time as you wish. Press the Start/Attack button to throw the bomb back to your opponent. Both the penguin and the seal standing over the iceberg will send the bomb. back immediately. They move randomly. If the vulture catches a flying bomb, he will throw it into the opposite playground. Sometimes an ice block comes from the sea; you will collect it by catching it (move on it and then press the Start/Attack button) and then taking it to the opposite side of the playground. By collecting three ice blocks your team will be able to reach the fish over the iceberg and eat some of it. This will cost two points to your opponent team. If you're bombed while keeping an ice block in your hands, you'll lose it. * Aim of the game: you win the game by decreasing your opponent's score to 0. 1 point - bombing your opponent. 2 points - collecting three ice blocks.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Mueve el interruptor "Select" para seleccionar el modo (1 o 2 jugadores).
+*Modo 1 jugador:
+-Pulsa el botón "Start/Attack" de la pantalla "Penguin" para jugar con el pingüino contra la CPU (fácil).
+-Pulsa el botón "Start/Attack" de la pantalla "Seal" para jugar con la foca contra la CPU (difícil).
+En ambos casos tu oponente será controlado por CPU (Inteligencia Artificial).
+*Modo 2 jugadores: Pulsa "Start/Attack" de las pabtallas "Penguin" o "Seal" para comenzar el juego.
+¡Esta es una verdadera batalla por la supervivencia!
+Un pingüino y un equipo de focas luchan para conseguir un pez que se encuentra sobre un iceberg.
+El iceberg se interpone entre los equipos.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Appuyez sur "Select" pour choisir le mode 1 ou 2 joueurs.
+Dans le mode 1 joueur, appuyez sur le bouton "Start / Attack" sur l'écran 'Penguin Pingouin" pour jouer avec le pingouin contre l'ordinateur en mode facile. 
+Appuyer sur le bouton "Start / Attack" sur l'écran "Seal Phoque" pour jouer avec le phoque contre l'ordinateur en mode difficile.
+Dans le mode 2 joueurs, appuyez sur "Start / Attack" sur les deux écrans pour lancer le jeu.
+C'est une vraie bataille pour la survie!
+Un pingouin et une équipe de phoques s'affrontent pour obtenir un poisson qui repose sur un iceberg.
+L'iceberg se situe entre les deux équipes.</synopsis>
+    </locale>
+    <developer>Bandai</developer>
+    <publisher>Bandai</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1-2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1983" month="" day=""/>
+  </game>
+  <game name="Pirate">
+    <id>88083</id>
+    <locale lang="EN">
+      <title>Pirate</title>
+      <synopsis>Pirates continuously climb up to embark your ship from three paths, to steal your gold. Move the captain to prevent pirates from reaching the deck. When a pirate successfully reaches the deck, a chance is missed. Five misses and game ends. 1 point is scored each time a pirate is hit. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Los piratas suben continuamente por 3 escalerillas para abordar a el barco y robar tu oro.
+Mueva al capitán para evitar que los piratas lleguen a la parte superior de la nave.
+Cuando un pirata aborda el barco con éxito, se anotará un fallo.
+Cinco falloss y el juego terminará.
+Se otorga 1 punto cada vez que se golpea a un pirata.
+La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Les pirates grimpent sur 3 échelles pour embarquer à bord du navire et voler votre or.
+Déplacez le capitaine pour empêcher les pirates d'atteindre le haut du navire.
+Lorsqu'un pirate monte à bord du navire, il s'agit d'un échec. Cinq échecs et le jeu se termine. Un point est attribué à chaque fois qu'un pirate est repoussé.
+Le score maximum affichable est de 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Q*bert">
+    <id>150193</id>
+    <locale lang="EN">
+      <title>Q*bert</title>
+      <synopsis>A 35-year-old Electronic Game (Tabletop)
+
+Q?Bert © 1983 Parker Bros.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Jeu d'arcade réalisé en version tabletop en 1983 par Parker Brothers, il a su donner beaucoup de plaisir aux joueurs du jeu d'arcade avec ses yeux expressifs et son joli petit saut. il vous est maintenant proposé dans cette amusante version du jeu original. Voici Q*bert tabletop !</synopsis>
+    </locale>
+    <date year="1983" month="1983" day="1983"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Roller Coaster">
+    <id>88084</id>
+    <locale lang="EN">
+      <title>Roller Coaster</title>
+      <synopsis>Roller Coaster needs maintenance: there are three holes on the railway. Move a busy worker around the rails to fill holes and prevent cars from falling. When a car falls into a hole, one miss is scored. Five misses and game ends. 1 point is scored for each safe car. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Roller Coaster necesita mantenimiento. Existen tres agujeros en la montaña rusa. Mueva a un trabajador de mantenimiento alrededor de los rieles para llenar agujeros e impedir que los vagones se caigan. Cuando un vagón cae en un agujero se pierde una vida. Cinco fallos y el juego termina. Se anota 1 punto por cada vagón que llegue seguro. La puntuación máxima es de 9999 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le grand huit a besoin d'entretien : il y a trois trous sur les rails. Déplacez un mécanicien autour des rails pour les combler et ainsi empêcher les voitures de tomber. Quand une voiture tombe dans un trou, c'est une erreur. Cinq erreurs et le jeu se termine. 1 point est attribué pour chaque voiture sécurisée. Le score maximum affiché est de 9999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Safari">
+    <id>88085</id>
+    <locale lang="EN">
+      <title>Safari</title>
+      <synopsis>The barbarians continuously wander around. Control the position of the hunter so as to keep out of sight from the barbarians and to reach the rescue helicopter. If the hunter is spotted by the barbarian, he will be caught, meaning a miss. A hunter will appear in the upper right corner of the screen at each miss. Five misses and game ends. 1 point is awarded when the hunter successfully reaches the ladder of the helicopter. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Los aborígenes deambulan continuamente.
+Controla la posición del cazador para mantenerlo alejado de los guerreros y llegar al helicóptero de rescate.
+Si el cazador es descubierto por el guerrero, será atrapado, lo que significa una fallo.
+Un cazador aparecerá en la esquina superior derecha de la pantalla por cada fallo.
+Cinco fallos y el juego terminará.
+Se otorga 1 punto cuando el cazador alcanza con éxito la escalera del helicóptero.
+La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Les indigènes sont aux aguets. Un hélicoptère récupère des chasseurs. Contrôler la position du chasseur afin de rester à l'abri du regards des indigènes et atteindre ainsi l'hélicoptère sain et sauf. Si l'indigène voit le chasseur, il sera attrapé, ce qui signifie une erreur. Cinq erreurs et le jeu se termine. 1 point est attribué lorsque le chasseur atteint l'échelle de l'hélicoptère. Le score maximum affiché est de 9999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Sleep Walker">
+    <id>88087</id>
+    <locale lang="EN">
+      <title>Sleep Walker</title>
+      <synopsis>Move a busy man in pyjamas around the house to save sleepwalkers. When a sleepwalker gets awaken, one miss is scored. Five misses and game ends. 1 point is scored for each safe sleepwalker. Maximum displayed score is 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Controla a un atareado hombre en pijama alrededor de la casa para salvar a los sonámbulos.
+Cuando un sonámbulo se despierta, se marca un fallo.
+Cinco fallos y el juego terminará.
+Se otorga 1 punto por cada sonámbulo salvado.
+La puntuación máxima visualizada es 9999.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Déplacez un homme en pyjama autour de la maison pour sauver des somnambules. Quand un somnambule se réveille, c'est une erreur. Cinq erreurs et le jeu se termine. 1 point est attribué pour chaque somnambule sauvé. Le score maximum affichable est de 9999.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snoopy (panorama Screen)">
+    <id>88088</id>
+    <locale lang="EN">
+      <title>Snoopy (panorama Screen)</title>
+      <synopsis>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Shroeder está tocando su piano.
+Las notas vuelan por el aire hasta donde Emilio está durmiendo. Controla a Snoopy a izquierda y derecha para derribar las notas con su martillo para que Emilio pueda dormir tranquilo.
+Si una nota llega a cualquier nido, se marcará un fallo; tres fallos y el juego terminará.
+Juego A: 3 líneas de notas.
+Juego B: 4 líneas de notas.
+1 punto por cada nota derribada.
+a los 300 puntos sonará una fanfarria y se cancelarán todos los fallos; si no hay errores cuando se alcanzan los 300 puntos, el juego entra en "Chance-Time": el marcador parpadea y todos los puntos se otorgan al doble valor hasta que se comete un fallo.
+La puntuación máxima de la pantalla es de 999 puntos.
+A los 999 puntos el marcador se pondrá a cero y el juego comienza de nuevo (a mayor velocidad).</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Shroeder joue de son piano. Les notes volent dans l'air jusqu'à l'endroit où Woodstock dort. Orienter Snoopy à gauche et à droite pour frapper les notes avec son marteau afin que Woodstock puisse dormir en paix. Si une note arrive jusqu'à lui, une erreur se produit. Trois erreurs et la partie est terminée. Jeu A: 3 lignes de notes. Jeu B: 4 lignes de notes. 1 point pour chaque note abattue. A 300 points, une musique est jouée et toutes les erreurs sont annulées. S'il n'y a pas eu d'erreur quand les 300 points sont atteints, le jeu passe en "Chance-Time", le score clignote et tous les points ont une valeur double jusqu'à ce qu'une erreur soit commise. Le score affichable maximum est de 999 points. À 999 points, le score est réinitialisé et le jeu recommence (à une vitesse supérieure).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snoopy (table Top)">
+    <id>88089</id>
+    <locale lang="EN">
+      <title>Snoopy (table Top)</title>
+      <synopsis>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Shroeder está tocando su piano.
+Las notas vuelan por el aire hasta donde Emilio está durmiendo. Controla a Snoopy a izquierda y derecha para derribar las notas con su martillo para que Emilio pueda dormir tranquilo.
+Si una nota llega a cualquier nido, se marcará un fallo; tres fallos y el juego terminará.
+Juego A: 3 líneas de notas.
+Juego B: 4 líneas de notas.
+1 punto por cada nota derribada.
+a los 300 puntos sonará una fanfarria y se cancelarán todos los fallos; si no hay errores cuando se alcanzan los 300 puntos, el juego entra en "Chance-Time": el marcador parpadea y todos los puntos se otorgan al doble valor hasta que se comete un fallo.
+La puntuación máxima de la pantalla es de 999 puntos.
+A los 999 puntos el marcador se pondrá a cero y el juego comienza de nuevo (a mayor velocidad).</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Shroeder joue de son piano. Les notes volent dans l'air jusqu'à l'endroit où Woodstock dort. Orienter Snoopy à gauche et à droite pour frapper les notes avec son marteau afin que Woodstock puisse dormir en paix. Si une note arrive jusqu'à lui, une erreur se produit. Trois erreurs et la partie est terminée. Jeu A: 3 lignes de notes. Jeu B: 4 lignes de notes. 1 point pour chaque note abattue. A 300 points, une musique est jouée et toutes les erreurs sont annulées. S'il n'y a pas eu d'erreur quand les 300 points sont atteints, le jeu passe en "Chance-Time", le score clignote et tous les points ont une valeur double jusqu'à ce qu'une erreur soit commise. Le score affichable maximum est de 999 points. À 999 points, le score est réinitialisé et le jeu recommence (à une vitesse supérieure).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snoopy Tennis">
+    <id>88090</id>
+    <locale lang="EN">
+      <title>Snoopy Tennis</title>
+      <synopsis>Charlie Brown and Snoopy are playing tennis. Snoopy has to climb the tree to receive Charlie Brown's serve. Lucy keeps butting in, intercepts the ball from snoopy and returns it. Pressing when ball is just in front of Snoopy's face is good timing.  When Snoopy swings and misses, he can not move until his racket returns to original position. When Snoopy misses, ball continues on, followed by sound of broken bottles. CRASH mark appears. Snoopy pretends innocence, fakes sleep. Charlie Brown throws racket down in despair. 2 points when returning Charlie Brown's ball. 3 points when returning Lucy's ball. Bonus scores are those with 200 or 500 points (200, 500, 1200, 1500, ... to 9500). When each bonus score is reached, fanfare sounds and all misses are canceled. When a bonus score is reached and there are no misses registered, game goes into "Chance time" for 50 to 70 seconds. Score flashes on and off, returning Charlie Brown's ball score 5 points, Lucy's ball score 6 points. Maximum display score is 9999 points.</synopsis>
+      <genre>Action,Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Charlie Brown y Snoopy están jugando al tenis.
+Snoopy tiene que trepar al árbol para recibir el servicio de Charlie Brown.
+Si Lucy entra en escena, interceptará la pelota de snoopy y la devolverá.
+Pulsa el botón "hit" cuando la pelota está justo en frente de la cara de Snoopy.
+Cuando Snoopy da un raquetazo y falla, no puede moverse hasta que su raqueta regrese a su posición original.
+2 puntos al devolver la pelota de Charlie Brown.
+3 puntos al devolver la pelota de Lucy.
+Los puntajes de bonificación son cada 200 o 500 puntos (200, 500, 1200, 1500, ... a 9500).
+Cuando se alcanza cada puntaje de bonificación, suena una fanfarria y se cancelan todas los fallos.
+Cuando se alcanza un puntaje de bonificación y no se registran errores, el juego entra en "Chance time" durante 50 a 70 segundos.
+En ese momento el marcador parpadeará, devolviendo la pelota de Charlie Brown obtendrás 5 puntos, la pelota de Lucy anota 6 puntos.
+La puntuación máxima de pantalla es de 9999 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Charlie Brown et Snoopy jouent au tennis. Snoopy doit grimper à l'arbre pour recevoir le service de Charlie Brown. Lucy ne cesse d intercepte la balle de snoopy et de la renvoie . Presser lorsque la balle est juste en face du visage Snoopy. Lorsque Snoopy bascule et manque, il ne peut pas bouger jusqu'à ce que sa raquette retourne à sa position d'origine. Quand Snoopy manque, la balle continue sur, suivie par le son des bouteilles cassées. La marque CRASH apparaît. Snoopy fait semblant de dormir. Charlie Brown lance une raquette dans le désespoir. 2 points lors du retour de la balle de Charlie Brown. 3 points lors du retour de la balle de Lucy. Les scores de bonus sont ceux avec 200 ou 500 points (200, 500, 1200, 1500, ... à 9500). Lorsque chaque score bonus est atteint, fanfare sons et tous les misses sont annulés. Quand un score de bonus est atteint et qu'il n'y a pas de misses enregistrées, le jeu entre dans le "Chance time" pour 50 à 70 secondes. Score clignote sur et en dehors, en revenant la balle de Charlie Brown 5 points, la balle de Lucy marque 6 points. Le score maximal d'affichage est de 9999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1982" month="04" day="28"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Soldier Fighter Simulator">
+    <id>152823</id>
+    <locale lang="EN">
+      <title>Soldier Fighter Simulator</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Sub Chase">
+    <id>88091</id>
+    <locale lang="EN">
+      <title>Sub Chase</title>
+      <synopsis>Computer controls submarine attack. Turn power on: single (bright red) dot appears: that's your ship. Use cursor keys to steer ship within range of invisible submarine. "Sonar" single beep means submarine is nearby. "Sonar" frequent beeps mean submarine is very near or under your ship. Fire depth charge by using control key. You have 30 on board to sink as many submarines as you can. Sink one and computer programs another submarine. Watch out for torpedoes (moving line of dots). If submarine sinks your ship, game is over. Game is also over when you have no more depth charges on board. 1 to 5 points per submarine sunk (score depends on how many charges you shot). Scores over 100 will be displayed by code, I.E.: 100-109 hits by "A0-A9", 110-119 by "B0-B9", 120-129 by "C0-C9", 130-139 by "D0-D9", 140-149 by "E0-E9".</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>La computadora controla el ataque submarino.
+Encienda el equipo: aparece un punto único (rojo brillante): ese es tu barco.
+Usa las teclas del cursor para dirigir la nave dentro del alcance del submarino invisible.
+Un único sonido "Sonar" significa que el submarino está cerca. Los sonidos frecuentes de "Sonar" significan que el submarino está muy cerca o debajo de su nave.
+Usa la carga de profundidad usando el botón de acción.
+Tienes 30 cargas a bordo para hundir tantos submarinos como puedas.
+Tras hundir un submarino, la computadora pondrá otro en distinta posición.
+Cuidado con los torpedos (línea de puntos en movimiento).
+Si el submarino hunde tu nave, el juego termina.
+El juego también termina cuando no tienes más cargas de profundidad a bordo.
+1 a 5 puntos por cada submarino hundido (la puntuación depende de la cantidad de cargas que disparas).
+Las puntuaciones de más de 100 se mostrarán por código, es decir: 100-109 aciertos por "A0-A9", 110-119 por "B0-B9", 120-129 por "C0-C9", 130-139 por "D0-D9 ", 140-149 por" E0-E9 ".</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>L'ordinateur contrôle l'attaque du sous-marin. Un point rouge apparaît, c'est votre navire. Utilisez les touches fléchées pour diriger le navire à portée du sous-marin invisible. Un bip unique signifie que le sous-marin est à proximité. Des bips répétés signifient que le sous-marin est très proche ou sous votre navire. Charger la mise à feu en utilisant la clé de contrôle. Vous avez 30 bombes à bord pour couler autant de sous-marins que possible. Coulez-en un et un autre sous-marin apparaît à une nouvelle position secrète. Attention aux torpilles (lignes pointillées en mouvement). Si le sous-marin coule votre navire, la partie est terminée. Le jeu est également terminé lorsque vous n'avez plus de bombes à larguer. Sont attribués 1 à 5 points par sous-marin coulé (le score dépend du nombre de charges que vous avez tirées). Les scores supérieurs à 100 seront affichés par code, à savoir : 100-109 réponses de "A0-A9", 110-119 de "B0-B9", 120-129 de "C0-C9", 130-139 de "D0-D9", 140-149 de "E0-E9".</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Mattel Electronics</developer>
+    <publisher>Mattel Electronics</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Tennis Menace">
+    <id>88092</id>
+    <locale lang="EN">
+      <title>Tennis Menace</title>
+      <synopsis>Train tennis by playing with your coach. Move the player left and right to get all balls. When a ball falls on the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. a quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Entrena al tenis jugando con tu entrenador. Mueve el jugador a izquierda y derecha para devolver todas las bolas. Cuando una bola cae en al suelo se produce un fallo. Tres fallos y el juego termina. Se anotan 10 puntos cada vez que se golpea una pelota. Se otorga un descanso rápido cada 1000 puntos. La puntuación máxima es de 9990 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Pratiquez le tennis en jouant avec l'entraîneur. Déplacez le joueur à gauche et à droite pour renvoyer les balles. Quand une balle touche le sol, c'est est erreur. Trois erreurs et le jeu se termine. 10 points sont marqués chaque fois qu'une balle est renvoyée. Tous les 1000 points, un rythme moins rapide prend place. Le score maximum affichable est de 9990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Tetris">
+    <id>143406</id>
+    <locale lang="EN">
+      <title>Tetris</title>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Tetris est principalement composé d'un champ de jeu où des pièces de formes différentes, appelées « tétriminos », descendent du haut de l'écran. Durant cette descente le joueur peut uniquement déplacer les pièces latéralement et leur faire effectuer une rotation sur elles-mêmes jusqu'à ce qu'elles touchent le bas du champ de jeu ou une pièce déjà placée.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Tom And Jerry Popper">
+    <id>99469</id>
+    <locale lang="EN">
+      <title>Tom And Jerry Popper</title>
+      <synopsis>Press left arrow key to play game A (easy). Press right arrow key to play game B (hard). Tom is flying balloon bombs! Break them quickly by the saber. It's Jerry's mistake when you failed to break balloons or the saber was taken by the magnet (in game B only). The game ends when you make 3 mistakes. 1 point per broken balloon 1 point per broken magnet (game B only) Maximum display score is 999 points.</synopsis>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Pulsa la tecla de flecha izquierda para jugar el juego A (fácil).
+Pulsa la tecla de la flecha hacia la derecha para jugar al juego B (difícil).
+¡Tom está lanzando globos explosivos voladores! Rómpelos rápidamente por el sable.
+Se anotará un fallo cuando Jerry no explote los globos o el imán atrae un sable (solo en el juego B).
+El juego termina cuando cometes 3 errores.
+1 punto por globo explotado.
+1 punto por imán roto (juego B solamente).
+La puntuación máxima mostrada en pantalla es 999 puntos.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Appuyez sur la flèche gauche pour jouer au jeu A (facile). Appuyez sur la flèche droite pour jouer au jeu B (difficile). Tom lance des ballons explosifs volants ! Brisez-les rapidement au sabre. C'est un échec de Jerry lorsque vous n'avez pas réussi à briser des ballons ou lorsque le sabre a été attiré par l'aimant (dans le jeu B uniquement). Le jeu se termine après 3 erreurs. 1 point par ballon brisé est attribué et 1 point par aimant brisé (jeu B uniquement). Le score d'affichage maximal est de 999 points.</synopsis>
+    </locale>
+    <developer>Gakken</developer>
+    <publisher>Gakken</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Towering Rescue">
+    <id>88093</id>
+    <locale lang="EN">
+      <title>Towering Rescue</title>
+      <synopsis>A large scale earthquake occurred! Rescue refugees on the top of the buildings by helicopter. If the helicopter collides against red building or tower on either side, the game is over. Also if you fail to rescue 2 refugees the game is over. In game A, helicopter can carry one only refugee at one time. In game B, helicopter can carry up to two refugees at the same time. 10 points per each refugee taken to the safety building (on the right side of the screen). Maximum display score is 9990 points. At 9990 points the game is over automatically.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>¡Se ha producido un terremoto a gran escala!
+Rescata a los refugiados de la parte superior de los edificios en helicóptero.
+Si el helicóptero choca contra un edificio o una torre, el juego termina.
+Además, si no rescatas a 2 refugiados, el juego habrá terminado. En el juego A, el helicóptero puede transportar a un solo refugiado a la vez.
+En el juego B, un helicóptero puede transportar hasta dos refugiados a la vez.
+10 puntos por cada refugiado llevado al edificio de seguridad (en el lado derecho de la pantalla).
+La puntuación máxima de pantalla es de 9990 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un séisme de grande ampleur s'est produit ! Sauvez les réfugiés du haut des bâtiments par hélicoptère. Si l'hélicoptère s'écrase dans un bâtiment ou une tour, le jeu se termine. De plus, si vous ne parvenez pas à sauver 2 réfugiés, la partie est terminée. Dans le jeu A, l'hélicoptère ne peut transporter qu'un réfugié à la fois. Dans le jeu B, l'hélicoptère peut accueillir jusqu'à deux réfugiés en même temps. 10 points sont attribués par réfugié amené au bâtiment de sécurité (à droite de l'écran). Le score d'affichage maximal est de 9990 points. À 9990 points, la partie est terminée automatiquement.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Gakken</developer>
+    <publisher>Gakken</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Tron">
+    <id>88094</id>
+    <locale lang="EN">
+      <title>Tron</title>
+      <synopsis>You must destroy your enemy: Sark and the MCP (Master Control Program) by making the Enemy Light Cycle crash and by destroying Sark's Rings and finally by penetrating the MCP barrier and destroying the MCP. *Level 1: The Light Cycle Game. Two Light Cycles appear: Tron's (the blue one) Sark's (the red one). As both Cycles travel across the screen they create a wall behind them. You must try to destroy the enemy's Cycle by causing it to crash into a wall while avoiding crashing into a wall or the enemy Cycle. Press the "Speed/Shoot" button to accelerate. 5 points for moving ahead and creating five Tron wall bars. 100 points for destroying each enemy Light Cycle. * Level 2: The Ring Game. Tron is on the left and Sark is on the right. The green bars beneath each figure represent the four Rings each player begins with. Move Tron up and down to catch the Disc as Sark throws it; then position Tron and press the "Speed/Shoot" button to throw the Disc where Sark can't catch it. If either one misses it they lose one Ring below them. 5 points for catching a Disc. 20 points for destroying the enemy's Ring. 200 points for destroying all Rings. * Level 3: the MCP Game. Tron is on the left on a stationary position. Below him are bars that act as timers: the number of bars equals the number of Tron's remaining Rings from the Ring Game. Press the "Speed/Shoot" button to throw one Disc at the MCP Barrier; the Barrier will begin to move up and down. Try to pick the correct timing to press the "Speed/Shoot" button again and release a Disc to penetrate the Barrier and destroy the MCP; then game starts again with the Light Cycle Game - at higher speed! If the Disc fails to penetrate the Barrier you must release another Disc and aim for the correct timing again. If all bars below Tron disappear, a miss is scored. 200 points for destroying the MCP. Bonus 50 points x the number or remaining timing bars. The highest score that can be recorded is 1,995 points; anything over 2,000 points appear as a green bar on the top of the screen when your total score is shown. The highest possible score is 15,995 points, shown as seven bars plus 1,995. Bonus life is given at every 2,000 points scored (maximum five lives at one time).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>* Nivel 1: El juego de la moto de luz. Aparecen dos motos de luz: Tron (el azul) Sark (el rojo).
+A medida que ambas motos se mueven por la pantalla crean una pared detrás de ellos.
+Debes tratar de destruir la moto del enemigo haciendo que se estrelle contra una pared mientras tu intentas evitar lo mismo. Pulsa el botón "Speed/Shoot" para acelerar.
+5 puntos por seguir adelante y crear cinco barras de pared.
+100 puntos por destruir cada moto de Luz enemiga.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Lorsque les deux véhicules se déplacent autour de l'écran, ils créent derrière eux un mur lumineux.
+Vous devez essayer de détruire le véhicule ennemi en le faisant s'écraser contre un mur lumineux pendant que vous tentez d'éviter la même chose.
+Appuyez sur le bouton "Speed / Shoot" pour accélérer.
+5 points sont attribués en se déplaçant et en créant cinq barres murales.
+100 points sont attribués pour la destruction de chaque moto ennemie.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Tomytronic</developer>
+    <publisher>Tomytronic</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Turtle Bridge">
+    <id>88095</id>
+    <locale lang="EN">
+      <title>Turtle Bridge</title>
+      <synopsis>Tourists attempt to cross a lake from left bank to right bank with their luggage by stepping on the backs of turtles. When tourist reaches other side he hands his baggage to other tourist then crosses back again. When turtle sees a fish rising to the surface, it dives down into the water. When the tourist is on a turtle that dives, score one miss; miss mark appears on screen; three misses and game ends. Once tourist leaves the left bank, he can not climb back without his baggage to other tourist. Fishes do not rise from the center of screen in Game A. If tourist remains in center area for more than 2 minutes, fish begins rising from center also. 3 points each time tourist hand over a piece of baggage. Extra points are scored each time tourist returns to left bank. The faster the tourist makes the round trip, the higher the score (Max. points: 12. Min. points: 2). When player reaches a bonus score (successive units of 200 or 500), any miss marks indicated at the time are erased with a fanfare and game continues. If a bonus score is reached with no misses, game goes into Chance time for 20 to 40 seconds. Turtles do not move and fishes do not appear. Maximum display score is 9999 points.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Los turistas intentan cruzar un lago con su equipaje saltando sobre los caparazones de las tortugas. Cuando el turista llega al otro lado, entrega su equipaje a otro y vuelve a por uno nuevo. Cuando la tortuga ve un pez saliendo a la superficie, se sumerge en el agua para cazarlo. Si el turista salta sobre una tortuga que se sumerge, comete un fallo. 
+Tres fallos y termina el juego. Una vez que el turista sale de la orilla izquierda, no puede volver sin entregar su equipaje. Los peces no emergen del centro de la pantalla en el juego A. Si el turista permanece en el área central durante más de 2 minutos, el pescado comienzará a emerger desde el centro también. Se anotan 3 puntos cada vez que el turista entrega un equipaje. Se anotarán puntos adicionales cada vez que el turista vuelve a la orilla izquierda. Cuanto más rápido el turista haga el viaje de ida y vuelta, mayor será la puntuación obtenida (Máximo de puntos: 12. Puntos mínimos: 2). Cuando el jugador alcanza una puntuación de bonificación (200 o 500), cualquier fallo anotado se borra y el juego continúa. Si se logra una puntuación de bonificación sin cometer nigún fallo el juego entra en el "Chance time" y las tortugas no se mueven y los peces no aparecen durante 20 o 40 segundos. La puntuación máxima es de 9999 puntos.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Votre personnage tente de convoyer des paquets de la rive gauche à la rive droite d'un lac en traversant sur le dos de tortues. Une fois la traversée effectuée, il retourne sur l'autre berge.
+Quand une tortue voit un poisson remonter à la surface, elle plonge dans l'eau. Si votre personnage saute sur une tortue en plongée, c'est raté. La partie se termine après 3 échecs.
+En mode de jeu A, la tortue du milieu ne plonge pas (sauf si le personnage reste trop longtemps sur son dos).
+3 points sont attribués à chaque fois qu'un paquet est transmis et des points supplémentaires sont accordés au retour sur la berge d'en-face. Plus la traversée est rapide, plus le nombre de points augmente.
+Lorsque le joueur atteint un score bonus, tous les échecs sont effacés en fanfare et le jeu continue. Si ce score bonus est atteint sans aucun échec, les tortues ne bougeront plus pendant quelques dizaines de secondes.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1982" month="02" day="01"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Wild Man Jump">
+    <id>88096</id>
+    <locale lang="EN">
+      <title>Wild Man Jump</title>
+      <synopsis>A Kong kidnapped a very nice girl and took her to the mysterious jungle. She's waiting for you to save her. Now it's up to you to make your way to her. You can escape the Kong by jumping the tires he's throwing at you. You may want to rest for a while on short benches placed here and there. There's four items on the left side of the tree. The purse and the shoe on floors 1 and 3 award you with bonus points. The magic cakes on floors 2 and 4 make you invincible for a short time. You can smash tires by simply hitting them, and they're worth bonus points. When you save the girl, she awards you with a kiss. But beware of the Kong, he will kidnap her again! At every 4 completed stages, Kong falls down from tree tree, then game starts again at increased difficulty. If time runs out, or you get hurt by a tire, a life is lost. When all lives are lost, game ends. 10 points are scored when jumping a tire 100 points are scored when getting a bonus item 100 points are scored when smashing a tire 300 to 500 points awarded when completing level (depending on remaining time). Bonus life is awarded when completing level 2 and at every 4 levels. Maximum displayed score is 99990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Kong a secuestrado a una chica muy guapa y la llevó a la misteriosa jungla.
+Ella está esperando que la salves. Ahora depende de ti llegar hasta ella.
+Puedes escapar saltando los neumáticos que te lanza Kong.
+Es posible que desees descansar por un tiempo en tocones colocados aquí y allá.
+Hay cuatro elementos en el lado izquierdo del árbol. El bolso y el zapato en los pisos 1 y 3 te otorgan puntos de bonificación.
+Los pasteles mágicos en los pisos 2 y 4 te hacen invencible por un corto tiempo.
+Puedes aplastar neumáticos simplemente golpeándolos, y otorgan puntos de bonificación.
+Cuando salvas a la chica, ella te premia con un beso.
+Pero ten cuidado con Kong, ¡él la secuestrará de nuevo!
+Cada 4 etapas completadas, Kong cae del árbol, luego el juego comienza de nuevo con mayor dificultad.
+Si se acaba el tiempo, o te golpea un neumático, perderás una vida.
+Cuando todas las vidas se pierden, el juego termina.
+Se anotan 10 puntos al saltar un neumático.
+Se anotan 100 puntos al obtener un elemento de bonificación.
+Se anotan 100 puntos al romper un neumático.
+Se anotan 300 y 500 puntos al completar el nivel (dependiendo del tiempo restante).
+Una vida extra se otorga al completar el nivel 2 y cada 4 niveles.
+La puntuación máxima mostrada es 99990.</synopsis>
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un singe à kidnapper une jolie fille.
+C'est a vous de vous rendre dans la jungle pour la sauver.
+Pour échapper au singe sautez par dessus les pneus qu'il vous lance.
+N'oubliez pas de prendre un peu de repos sur les bancs placés ici et là.
+Il y'a quatre éléments sur le côté gauche de l'arbre.
+Le sac et la chaussure aux étages 1 et 3 vous décernent des points bonus.
+Les gâteaux magiques aux étages 2 et 4 vous rendent invincible pour une courte période.
+Vous pouvez détruire les pneus en les frappant, ils vous apporterons des points bonus.
+Une fois la fille sauvé elle vous donne un baiser mais se fait enlever a nouveau!
+Tout les 4 tours le jeu recommence avec une difficulté accrue.
+Vous perdez une vie si le temps est écoulé ou si si vous êtes blessé par un pneu.
+Quand vous n'avez plus de vie le jeu se termine.
+10 points sont marqués lorsque vous évitez un pneu, 100 points sont marqués lorsque vous obtenez un bonus, 100 points sont marqués lorsque vous détruisez un pneu et 300 à 500 points attribués lorsque vous finissez le niveau (selon le temps restant).
+Une vie bonus est accordée a chaque niveau.
+Le plus gros score affichable est est 99990.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+</datafile>

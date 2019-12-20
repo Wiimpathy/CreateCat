@@ -1,0 +1,223 @@
+0LDSK00L Demo|0ldsk00l Demo by Manu|||
+2D Narrow Escape|Narrow Escape (2D Version by Fred Taft)||Narrow Escape 2-D|
+3D Crazy Coaster|3-D Crazy Coaster|3-D Crazy Coaster|3-D Crazy Coaster|
+3D Demo|3-D Demo by Chris||3-D Demo|
+3D Mine Storm|3-D Mine Storm|3-D Mine Storm|3-D Mine Storm|
+3D Narrow Escape|3-D Narrow Escape|3-D Narrow Escape|3-D Narrow Escape|
+3-D Scrolling Demo|3-D Scrolling Demo by Christopher Tumber||3-D Scrolling Demo|
+4-D Rotating Cube Demo|4-D Rotating Cube Demo||4-D Rotating Cube|
+7 Demos (A.K.A. 3D Demo 7)|3D Demo 7|||
+8 Ball|8Ball by Christopher Tumber|||
+Abyss Demo|Abyss Demo||Abyss|
+All Good Things|All Good Things by John Dondzila||All Good Things|
+All Your Base Demo|All Your Base Demo by Manu|||
+Alpha Test Demo|Alpha Demo||Alpha Test|
+AnimAction: Advanced Animation|Animaction|AnimAction - Advanced Animation|Animaction|
+Animation Demo|Animation Demo by Manu|||
+Armor Attack|Armor Attack|Armor..Attack|Armor Attack|
+Arsek|Arsek by Marq||Arsek|
+Art Master|Art Master|Art Master|Art Master|
+Battle Earth Terror Hazard & Vecsports Boxing|Battle Earth Terror Hazard & Vecsports Boxing||Battle Earth Terror Hazard & Vecsports Boxing|
+Battle Earth Terror Hazard (Version 1)|Battle Earth Terror Hazard V1 by Manu||Battle Earth Terror Hazard v1|
+Battle Earth Terror Hazard (Version 2)|Battle Earth Terror Hazard V2 by Manu||Battle Earth Terror Hazard v2|
+Battle Earth Terror Hazard (Version 3)|Battle Earth Terror Hazard V3 by Manu||Battle Earth Terror Hazard v3|
+Battle Earth Terror Hazard (Version 4)|Battle Earth Terror Hazard V4 by Manu||Battle Earth Terror Hazard v4|
+Battlezone Demo|Battlezone Demo by Christopher Tumber||Battlezone|
+BB2 Demo|BB2 Demo by Manu|||
+BCor-FTS Demo|BCor-FTS Demo by Clay Cowgill||BCOR-FTS|
+Bedlam|Bedlam|Bedlam|Bedlam|
+Berzerk|Berzerk|Berzerk|Berzerk|
+Berzerk (Prototype) (Fixed)|Berzerk Debugged|Berzerk Debugged||
+Birds of Prey|Birds of Prey by John Dondzila||Birds of Prey|
+Blitz! Action Football|Blitz! - Action Football|Blitz! - Action Football|Blitz! - Action Football|
+Bubble Bobble (Diamond Room)|Bubble Bobble (Diamond Room) by Chris Salomon|||
+Calibration Demo|Calibration Demo||Calibration Demo|
+CGM Example|CGM Example by Marq||CGM Example|
+Clean Sweep|Clean Sweep|Clean Sweep|Clean Sweep|
+Clean Sweep: Mr. Boston Version|Clean Sweep (Mr Boston Version) (1982)||Clean Sweep - Mr. Boston Version|
+Collision Test|Collision Test by Manu||Collision Test|
+Cosmic Chasm|Cosmic Chasm|Cosmic Chasm|Cosmic Chasm|
+Curved Lines Demo|Curved Lines Demo||Curved Lines|
+Dark Tower|Dark Tower|Dark Tower|Dark Tower|
+Disc Duel Demo|Disc Duel Demo||Disc Duel|
+Dr. Who Theme|Dr. Who Theme by Chris Salomon|||
+Dual Vectrex Test #1|Dual Vectrex Test #1||Dual Vectrex Test #1|
+Dual Vectrex Test #2|Dual Vectrex Test #2||Dual Vectrex Test #2|
+Engine Analyzer|Engine Analyzer|Engine Analyzer|Engine Analyzer|
+Etch-a-Sketch|Etch-a-Sketch by Jeff Woolsey||Etch-a-Sketch|
+Exec Rom Dumper|Exec Rom Dumper||Exec Rom Dumper|
+Fortress of Narzod|Fortress of Narzod|Fortress of Narzod|Fortress of Narzod|
+GCE Game Pack #1|||GCE Game Pack 1|
+GCE Game Pack #2|||ZZZ-UNK-VecFlash - Game Packs 4k 2_01|
+Gravitrex|Gravitrex by John Dondzila||Gravitrex|
+Great Giana Sisters (Bonus) by Chris Salomon|Great Giana Sisters (Bonus) by Chris Salomon|||
+Great Giana Sisters (Ingame) by Chris Salomon|Great Giana Sisters (Ingame) by Chris Salomon|||
+Great Giana Sisters (Title) by Chris Salomon|Great Giana Sisters (Title) by Chris Salomon|||
+Heads Up: Action Soccer|Heads Up - Action Soccer|Heads-Up - Action Soccer|Heads Up - Action Soccer|
+Hyperchase|Hyperchase|HyperChase - Auto Race|Hyperchase|
+Joystick Demo|Joystick Demo by Manu||Joystick Test|
+Labyrinth (Version 1)|Labyrinth Rev 1 by Chris Salomon||Labyrinth Rev 1|
+Labyrinth (Version 2)|Labyrinth Rev 2 by Chris Salomon||Labyrinth Rev 2|
+Labyrinth (Version 3)|Labyrinth Rev 3 by Chris Salomon||Labyrinth Rev 3|
+Labyrinth (Version 4) Vector Rouge|Labyrinth Rev 4 (Vector Rouge) by Chris Salomon||Labyrinth Rev 4 - Vector Rouge|
+Line Demo|Line Demo||Line Demo|
+Lines & Digitized Sounds Demo|Lines and Digitized Sounds Demo|||
+Lunar Lander|Lunar Lander Demo by Thomas Landspurg||Lunar Lander|
+Mad Planetoids Demo|Mad Planetoids Demo by John Dondzila|||
+Mail Plane||Mail Plane|Mail Plane|
+Manu's Boxer: Animated Training|||Manu's Boxer - Animated training|
+Manu's Incomplete Game: Volume 1: Nonagalf|||Manu's Incomplete Games - Volume 1 - Nonagalf|
+Manu's Incomplete Game: Volume 2: VecSports Kingpin|||Manu's Incomplete Games - Volume 2 - VecSports Kingpin|
+Manu's Incomplete Game: Volume 3: B.E.T.H.|||Manu's Incomplete Games - Volume 3 - B.E.T.H.|
+Manu's Incomplete Game: Volume 4: Yoehl|||Manu's Incomplete Games - Volume 4 - Yoehl - Saga of Pathrk|
+Manu's Incomplete Game: Volume 5: Ztagger|||Manu's Incomplete Games - Volume 5 - Ztagger|
+Melody Master: Music Composition and Entertainment|Melody Master|Melody Master - Music Composition and Entertainment|Melody Master|
+Mike's Molecules Demo|Mike's Molecules Demo by Mike Blackwell||Mike's Molecules|
+Mine Storm II|Mine Storm II|Mine Storm II|Mine Storm II|
+Mine Storm|Mine Storm|Mine Storm|Mine Storm|
+Missile Lords|Missile Lords by Christopher Tumber||Missile Lords|
+Moon Lander|Moon Lander Demo by Clay Cowgill||Moon Lander|
+MP: Need Real Demo|||ZZZ-UNK-MP|
+Name|GoodName|NoIntro|TOSEC|ReDump
+Nebula Commander|||Nebula Commander|
+Nona 3 Demo|Nona3 by Manu||Nonagalf|
+Omega Chase|Omega Chase by Christopher Tumber||Omega Chase|
+Paratroopers|||Paratroopers|
+Patriots III: BALListics Busters|Patriots III - BALListics Busters by John Dondzila||Patriots III - BALListics Busters|
+Patriots|Patriots by John Dondzila||Patriots|
+Patriots ||: Remix|Patriots Remix by John Dondzila||Patriots Remix|
+Philly Classic 3 Demo|Philly Classic 3 Demo|||
+Pitcher's Duel||Pitcher's Duel||
+Pokémon Demo #1|Pokemon Demo 1 by Manu||Pokemon Demo 1|
+Pokémon Demo #2|Pokemon Demo 2 by Manu||Pokemon Demo 2|
+Pokémon Demo #3|Pokemon Demo 3 by Manu and Marq||Pokemon Demo 3|
+Pokémon Demo #4: Psyduck's Eyes|Pokemon Demo 4 - Psyduck's Eyes by Manu||Pokemon Demo 4 - Psyduck's Eyes|
+Polar Rescue|Polar Rescue|Polar Rescue|Polar Rescue|
+Pole Position|Pole Position|Pole Position|Pole Position|
+POP Demo|POP Demo by Christopher Tumber||Pop|
+Pythagorian Theorem|Pythagorian Theorem by Rob Mitchell||Pythagorian Theorem|
+Repulse|Repulse by John Dondzila||Repulse|
+Rip-Off|Rip-Off|Rip Off|Rip-Off|
+Rockaroids Remix: 3rd Rock|Rockaroids||Rockaroids Remix - 3rd Rock|
+Rocket Sledge|Rocket Sledge Demo||Rocket Sledge|
+Ronen's Game Cart|Ronen's Game Cart|||
+Rotation Demo|Rotation Demo by Manu||Rotation|
+Rounders|Rounders by Ronen Habot||Rounders|
+SAW Gallery #1|SAW Gallery 1 by Christopher Tumber|||
+SAW Gallery #2|SAW Gallery 2 by Christopher Tumber|||
+SAW Gallery #3|SAW Gallery 3 by Christopher Tumber|||
+Scorefont 3|Scorefont 3 by Manu||Scorefont|
+Scramble|Scramble|Scramble|Scramble|
+Sledge 3D||Sledge 3D||
+Solar Quest|Solar Quest|Solar Quest|Solar Quest|
+Song Demo|Song Demo by Christopher Tumber|||
+Sound 1 Demo|Sound1 Demo|||
+Sound: Arkanoid: Revenge of DOH|Arkanoid - Revenge of DOH Sound by Chris Salomon|||
+Sound: Axel F: Beverly Hills Cop|Axel F - Beverly Hills Cop by Chris Salomon|||
+Sound: Bach Prelude #1|Bach Prelude #1 by Jeff Woolsey|||
+Sound: Bebop Demo|Bebop Sound by Chris Salomon|||
+Sound: Bebop Demo (Best Version)|Bebop Best Sound by Chris Salomon|||
+Sound: Bubble Bobble #0|Bubble Bobble Sound 0 by Chris Salomon|||
+Sound: Bubble Bobble #1|Bubble Bobble Sound 1 by Chris Salomon|||
+Sound: Bubble Bobble #2 (Best Version)|Bubble Bobble Sound 2best by Chris Salomon|||
+Sound: Bubble Bobble #2|Bubble Bobble Sound 2 by Chris Salomon|||
+Sound: Bubble Bobble #3|Bubble Bobble Sound 3 by Chris Salomon|||
+Sound: Commando: High Score|Commando - High Score Sound by Chris Salomon|||
+Sound: Count 05|Count05 Sound by Chris Salomon|||
+Sound: Fast Food #1|Fast Food Sound 1 by Chris Salomon|||
+Sound: Fast Food #2|Fast Food Sound 2 by Chris Salomon|||
+Sound: Ghosts 'n' Goblins #7|Ghosts 'n' Goblins Sound 7 by Chris Salomon|||
+Sound: Ghosts 'n' Goblins #8|Ghosts 'n' Goblins Sound 8 by Chris Salomon|||
+Sound: Ghosts 'n' Goblins #9 (Best Version)|Ghosts 'n' Goblins Sound 9best by Chris Salomon|||
+Sound: Ghosts 'n' Goblins #9|Ghosts 'n' Goblins Sound 9 by Chris Salomon|||
+Sound: Ghouls 'n' Ghosts|Ghouls 'n' Ghosts Sound by Chris Salomon|||
+Sound: Hey, Music Lover|Hey, Music Lover Sound by Chris Salomon|||
+Sound: Horror Zombies From The Crypt|Zombies from the Crypt Music by Chris Salomon|||
+Sound: Jaws Theme|Jaws Theme Music by Chris Salomon|||
+Sound: Klax (Level Begin)|Klax (Level Begin) Sound by Chris Salomon|||
+Sound: Madonna -  Get Into the Groove|Madonna's Get Into the Groove by Chris Salomon|||
+Sound: Misfits|Misfits 1 Music by Chris Salomon|||
+Sound: Monty on the Run (High Score)|Monty on the Run HiScore Sound by Chris Salomon|||
+Sound: Monty on the Run|Monty on the Run Sound by Chris Salomon|||
+Sound: Music Test  Demo|Music Demo|||
+Sound: My Bonnie Lies Over The Ocean|My Bonnie Lies Over The Ocean by Jeff Woolsey|||
+Sound: 'NO' Demo|'NO' Sound by Chris Salomon|||
+Sound: Pac-Mania #1|Pac-Mania Sound 1 by Chris Salomon|||
+Sound: Pac-Mania #2|Pac-Mania Sound 2 by Chris Salomon|||
+Sound: Pac-Mania #4|Pac-Mania Sound 4 by Chris Salomon|||
+Sound: Rainbow Islands|Rainbow Islands Sound by Chris Salomon|||
+Sound: Real Ghostbusters|Real Ghostbusters Sound by Chris Salomon|||
+Sound: Robin Hood Sound|Robin Hood Sound by Chris Salomon|||
+Sound: ROM Music Demo|ROM Music Demo by Manu|||
+Sound: Song Demo|Song Demo by Christopher Tumber|||
+Sound: Star Spangles Banner|Star Spangles Banner Music Demo by Jeff Woolsey|||
+Sound: Star Wars|Star Wars Sound by Chris Salomon|||
+Sound: Star Wars Theme|Star Wars Theme by Chris Salomon|||
+Sound: Turrican #1|Turrican 1 Sound by Chris Salomon|||
+Sound: Turrican #2|Turrican 2 Sound by Chris Salomon|||
+Sound: We Wish You a Merry Christmas|We Wish You a Merry Christmas by J. Woolsey|||
+Sound: YM001|YM001 Sound by Chris Salomon|||
+Space16 Demo|Space16 Demo by Manu||Space16|
+Space Wars|Space Wars|Space Wars|Space Wars|
+Spectrum I+ Stress Tester|Spectrum I+ Demo|RA+A Spectrum I+ Stress Tester|Spectrum I+|
+Spike Goes Skiing|Spike Goes Skiing||Spike Goes Skiing|
+Spike Goes Skiing (Version 0.3)|Spike Goes Skiing Demo V.03||Spike Goes Skiing v.03|
+Spike Hoppin'|Spike Hoppin' by John Dondzila||Spike Hoppin'|
+Spike|Spike|Spike|Spike|
+Spike's Slam Pit|Spike's Slam Pit Demo by Gauze||Spike's Slam Pit|
+Spike's Water Balloons|Spike's Water Balloons (Analog)  by John Dondzila||Spike's Water Balloons|
+Spin Ball|Spinball|Spin ball|Spinball|
+Star Castle|Star Castle|Star Castle|Star Castle|
+Star Fire Spirits|Star Fire Spirits by John Dondzila||Star Fire Spirits|
+Starhawk|Star Hawk|StarHawk|Star Hawk|
+Star Seige|Star Seige by John Dondzila||Star Wars Clone|
+Star Ship|Star Ship|Star Ship|ZZZ-UNK-Star Ship|
+Star Trek: The Motion Picture (Fixed)|Star Trek - The Motion Picture (1982) (controller hack) [h1]|Star Trek Debugged (USA)|Star Trek - The Motion Picture (1982)(GCE)[h][controller hack]|
+Star Trek: The Motion Picture|Star Trek - The Motion Picture|Star Trek - The Motion Picture|Star Trek - The Motion Picture|
+Tank Demo #1|Tank Demo 1||Tank Demo 1|
+Tank Demo #2|Tank Demo 2||Tank Demo 2|
+Taulukko Demo|Taulukko Demo by Manu||Taulukko|
+Test Cartridge (Revision 4)|Test Rev. 4|Test Cartridge|Test rev4|
+Text Demo|Text Demo||Text Demo|
+This is Just a Non-Playable Demo|This is Just a Non-Playable Demo||This is Just a Non-Playable Demo|
+Thrust|||Thrust|
+Tono Demo|Tono Demo by Marq & Antti||Tono Demo|
+Tour de France|Tour De France|Tour De France|Tour De France|
+Tsunami|Tsunami by Christopher Tumber||Tsunami|
+Unknown: PDM|||ZZZ-UNK-PDM|
+Unknown: SFPD beta|||ZZZ-UNK-SFPD beta|
+Unknown: tsu-dl|||ZZZ-UNK-tsu-dl|
+Unknown: vix-dl|||ZZZ-UNK-vix-dl|
+Vaboom!|Vaboom! by Ronen Habot||Vaboom!|
+Vaboom! + Vecrace|||Vaboom! + Vectrace|
+VecFlash: Memory|||VecFLASH - Memory|
+Vecmania: Part 1|Vecmania Part 1||Vecmania Part 1|
+Vecmania: Part 2|Vecmania Part 2||Vecmania Part 2|
+Vecsports Boxing|Vecsports Boxing Demo by Manu||Vecsports Boxing|
+VecSports Kingpin Bowling (Demo)|VecSports Kingpin Bowling Demo by Manu|||
+VecSports Kingpin Bowling|VecSports Kingpin Bowling by Manu||VecSports Kingpin Bowling|
+Vectopia|Vectopia by John Dondzila||Vectopia|
+Vector Vaders Remix|Vector Vaders Remix by John Dondzila||Vector Vaders Remix|
+Vector Vaders|Vector Vaders by John Dondzila||Vector Vaders|
+Vectrace|Vectrace||Vectrace|
+Vectrex BIOS|Vectrex BIOS|[BIOS] GCE Vectrex|Vectrex BIOS|
+Vectrex Bootstrap Loader|Vectrex Bootstrap Loader by Jeff Woolsey||Vectrex Bootstrap Loader|
+Vectrex Demo #1|Vectrex Demo 1 by Manu||Vectrex Demo 1|
+Vectrex Demo #2|Vectrex Demo 2 by Manu||Vectrex Demo 2|
+Vectrex Demo #3|Vectrex Demo 3 by Manu||Vectrex Demo 3|
+Vectrexians|Vectrexians||Vectrexians|
+Vectrex Maze|Vectrex Maze by Chris Salomon||Vectrex Maze|
+Vectrex Pong|Vectrex Pong||Vectrex Pong|
+VecVoice Demo|VecVoice Demo by Richard Hutchinson|||
+Verzerk|Verzerk by Alex Herbert||ZZZ-UNK-Verzerk by Alex Herbert|
+Vexperience: B.E.T.H. & Vecsports Boxing by Manu|Vexperience - B.E.T.H. & Vecsports Boxing by Manu|||
+V-Frogger (New Sound)|V-Frogger by Chris Salomon, Sound by Kurt Woloch|||V-Frogger (New Sound)
+V-Frogger|V-Frogger by Chris Salomon||V-Frogger|
+Vimpula|Vimpula by Manu|||
+VIX|Version Nine by Christopher Tumber||Vix|
+War of the Robots: Bow to the Queen Edition|||War of the Robots - Bow to the Queen|
+War of the Robots|||War of the Robots|
+Web Warp|Web Warp|Web Warp|Web Warp|
+Web Wars|Web Wars|WebWars|Web Wars|
+Wormhole|Wormhole by John Dondzila||Wormhole|
+ZZAP: Scrolling Space Game Demo|ZZAP - Scrolling Space Game Demo||ZZAP - Scrolling Space Game|

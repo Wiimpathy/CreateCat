@@ -1,0 +1,135 @@
+47055A|Baseball Stars|Baseball Stars|Baseball Stars Color|Sports,Sports / Baseball,|2||Saurus Co., Ltd.|SNK|1998
+47057A|King Of Fighters R-1|King of Fighters R-1||Fight,|2||SNK|SNK|1998
+47058A|Melon-chan No Seichou Nikki|Melon-chan no Seichou Nikki||Simulation,|1||ADK|ADK|1998
+47059A|Neo Cherry Master - Real Casino Series|Neo Cherry Master - Real Casino Series||Casino,|1||Dyna|Dyna|1998
+47060A|Neo Geo Cup '98|Neo Geo Cup '98|NeoGeo Cup '98 Plus|Sports,|2||SNK Corporation|SNK|1998
+47066A|Pocket Tennis - Pocket Sports Series|Pocket Tennis - Pocket Sports Series||Sports / Tennis,Sports,|2||Yumekobo Co., Ltd.|Yumekobo|1998
+47061A|Renketsu Puzzle Tsunagete Pon!|Renketsu Puzzle Tsunagete Pon!|Puzzle Tsunagete Pon Color|Puzzle-Game,|2||Yumekobo|SNK|1998
+47067A|Samurai Shodown! - Pocket Fighting Series|Samurai Shodown! - Pocket Fighting Series||Fight,|2||SNK|SNK|1998
+47062A|Shougi No Tatsujin|Shougi no Tatsujin|Master of Syougi Color|Strategy,|2||ADK Corporation|SNK|1998
+124418|Adventures of Gus and Rob, The|Adventures of Gus and Rob, The|Adventures of Gus and Rob V1, The by Mickey McMurray|Demo,||||McMurray, Mickey|2002
+124419|Another Day In Hell|Another Day in Hell|Another Day in Hell by Thor & Iceman|Demo,||||Iceman - Thor|2005
+124420|Barbarian - The Ultimate Warrior|Barbarian - The Ultimate Warrior||||||Julien, Loic|
+124421|Barbarian Invaders|Barbarian Invaders|Barbarian by Loic Julien|Action,|1||Chris Ahchay|Ahchay, Chris|2002
+47070A|Baseball Stars Color|Baseball Stars Color||Sports,|2||SNK|Saurus - SNK|1999
+47071A|Big Bang Pro Wrestling|Big Bang Pro Wrestling||Sports,|2||S-Neo|SNK|2000
+51150A|Bikkuriman 2000 - Viva! Pocket Festiva!|Bikkuriman 2000 - Viva! Pocket Festiva!||Action,|1||Sega|Sega|2000
+47025A|Bio Motor Unitron|Bio Motor Unitron|Biomotor Unitron|Role playing games,|2||Yumekobo Co., Ltd.|SNK Corporation of America|1999
+87600A|Bio Motor Unitron 2|Bio Motor Unitron 2||Role playing games,|2||Yumekobo|SNK|2000
+124422|Blocks|Blocks||Demo,|||Public Domain|Mackintosh, Ivan|2001
+124423|Bomberman|Bomberman|Bomberman V1.1 by Thor|Demo,||||Thor|2004
+87588A|Puzzle Bobble Mini|Bust-A-Move Pocket||Action,Strategy,|2||Taito|SNK - Taito|1999
+124424|Centipede|Centipede||||||Bacon, Roger|2001
+109076|Chaos 89|Chaos 89||Demo,|||Public Domain|Public Domain|
+109077|Columns By Thor|Columns||Demo,||||Thor|2001
+51140A|Cool Boarders Pocket|Cool Boarders Pocket||Sports,|1||UEP Systems|SNK|2000
+51139A|Cool Cool Jam|Cool Cool Jam||Rhythm,Music and Dance,|2||SNK|SNK|2000
+47027A|Crush Roller|Crush Roller||Action,Arcade|2||ADK|SNK Corporation of America|1999
+47028A|Dark Arms - Beast Buster 1999|Dark Arms: Beast Buster 1999||Role playing games,Action,|2||Noise Factory|SNK Corporation of America|1999
+51151A|Delta Warp|Delta Warp||Puzzle-Game,|2||Iosys|SNK|2000
+47029A|Densetsu No Ogre Battle - Zenobia No Ouji|Densetsu no Ogre Battle: Zenobia no Ouji||Strategy,Role playing games,|2||Quest|Quest - SNK|2000
+47030A|Densha De Go! 2|Densha de Go! 2||Simulation,|2||Taito GM R&D Sect. #2|Taito - SNK|1999
+87554A|Dive Alert - Matt's Version|Dive Alert - Matt's Version||Role playing games,|2||Sacnoth|SNK|1999
+47031A|Dive Alert - Becky's Version|Dive Alert: Becky's Version||Role playing games,|2||Sacnoth|SNK|1999
+87555A|Doko Demo Mahjong|Doko Demo Mahjong|Dokodemo Mahjong|,Mahjong|||ADK|ADK|1999
+124428|Dynamate|DynaMate|Dynamate V1.1 by Thor|Demo,|||Public Domain|Thor|2003
+87556A|Dynamite Slugger|Dynamite Slugger|Dynamate V1.1 by Thor|Sports,|2||ADK|SNK|2000
+47032A|Evolution - Eternal Dungeon|Evolution: Eternal Dungeon|Evolution - Eternal Dungeons|Role playing games,|2||ESP|ESP - Sega|2000
+47033A|Fantastic Night Dreams - Cotton|Fantastic Night Dreams: Cotton||Action,|1||Success Corp.|SNK Europe Ltd.|2000
+124429|Fantasy World Dizzy Pocket|Fantasy World Dizzy Pocket|Magical Drop Pocket|Demo,||||Soft'n Fuzzy|2004
+47034A|Faselei!|Faselei!||Strategy,|1||Sacnoth|SNK|1999
+47035A|Fatal Fury - First Contact|Fatal Fury: First Contact||Fight,|2||SNK|SNK|1999
+124431|Flight Of Ares|Flight of Ares|Flight of Ares by Drakonite|Demo,||||Soldan, Jeffrey|2005
+124432|Fuztris|Fuztris||Demo,|||Public Domain|Soft'n Fuzzy|2004
+124433|Game And Watch|Game and Watch||||||Torlus|2004
+47036A|Ganbare Neo Poke-kun|Ganbare Neo Poke-kun|Ganbare NeoPoke Kun|Action,Breeding|2||SNK|SNK|2000
+87557A|Infinity Cure|Infinity Cure||Adventure,|1||KID Corp.|KID Corp.|2000
+124434|Invader|Invader|Barbarian by Loic Julien|Demo,|||Public Domain|Slanina, Tomasz|2000
+124435|Jim Bagley's Ngpc Game Pack|Jim Bagley's NGPC Game Pack||Demo,|||Public Domain|Bagley, Jim|
+124437|Joust|Joust||||||Ahchay, Chris|2003
+124436|Jumpy!|Jumpy!||Demo,|||Public Domain|Monkey Heeded Software|2001
+124438|Juno First|Juno First||Demo,|||Public Domain|Ahchay, Chris|2002
+47038A|King Of Fighters R-2|King of Fighters R-2||Action,Fighting|2||SNK|SNK|1999
+87559A|Koi Koi Mahjong|Koi Koi Mahjong|Dokodemo Mahjong|,Mahjong|||Visco|Visco|2000
+47064A|Last Blade - Beyond the Destiny|The Last Blade - Beyond the Destiny||Fight,Action,|2||Saurus|SNK|2000
+87560A|Magical Drop Pocket|Magical Drop Pocket||Puzzle-Game,|2||SAS Sakata|SNK|1999
+109075|Manic Miner By Lindon Dodd|Manic Miner Starring Miner Willy||||||Dodd, Lindon|2001
+124440|Maze|Maze||Demo,|||Public Domain|Siebold, Jeff|2000
+87561A|Memories Off - Pure|Memories Off - Pure|Memories Off Pure|Adventure,|||Kid|Kid|2000
+47040A|Metal Slug 1st Mission|Metal Slug 1st Mission|Metal Slug - 1st Mission|Action,|1||Ukiyotei Company, Ltd.|SNK|1999
+47041A|Metal Slug 2nd Mission|Metal Slug 2nd Mission|Metal Slug - 2nd Mission|Action,|1||Ukiyotei Company, Ltd.|SNK|2000
+87562A|Mezase! Kanji Ou|Mezase! Kanji Ou||Educational,|||SNK|SNK|2000
+124441|Mine|Mine|Mainreg Test|Demo,||||Mackintosh, Ivan|2000
+87563A|Mizuki Shigeru No Youkai Shashinkan|Mizuki Shigeru no Youkai Shashinkan|Mizuki Shigeru Youkai Shashin Kan||||Ukiyotei|SNK|1999
+124442|Mr. Do!|Mr. Do!||||||Mackintosh, Ivan|
+109079|Multi Game Menu|Multi Game Menu||Demo,|||Public Domain|Bagley, Jim - Mackintosh, Ivan|2000
+87564A|Neo 21 - Real Casino Series|Neo 21 - Real Casino Series||Casino,|2||Dyna Corp.|Dyna Corp|1999
+87565A|Neo Baccarat - Real Casino Series|Neo Baccarat - Real Casino Series||Casino,Casino / Cards,|||Dyna Corp.|Dyna Corp.|2000
+87566A|Neo Cherry Master Color - Real Casino Series|Neo Cherry Master Color - Real Casino Series||Casino,|2||Dyna Corp.|SNK|1999
+87567A|Neo Derby Champ Daiyosou|Neo Derby Champ Daiyosou|Neo DerbyChamp|||||Dyna|1999
+87568A|Neo Dragon's Wild - Real Casino Series|Neo Dragon's Wild - Real Casino Series||Casino,|1|||SNK|1999
+124443|Neo Fantasy|Neo Fantasy||Demo,|||Public Domain|Davis, Darek J.|2003
+87569A|Neo Mystery Bonus - Real Casino Series|Neo Mystery Bonus - Real Casino Series||Casino,|1|||SNK|1999
+87570A|Neo Poke Pro Yakyuu|Neo Poke Pro Yakyuu||,Baseball|||SNK|SNK|1999
+47043A|Neo Turf Masters|Neo Turf Masters||Sports,Action,|2||SNK|SNK|1999
+124444|Neo Yahtzee|Neo Yahtzee||Demo,|||Public Domain|Davis, Darek J.|
+124445|Neodaleks!|NeoDaleks!||Demo,|||Public Domain|Dodgson, Harry|2003
+47042A|Neogeo Cup '98 Plus|NeoGeo Cup '98 Plus|NeoGeo Clock Demo|Sports,|1||SNK|SNK Corporation of America|1999
+124446|Neotris|Neotris||Demo,|||Public Domain|Julien, Loic|
+124447|Neotris - The Grand Carnage|Neotris - The Grand Carnage||||||Sleipnir|
+124448|Ngpc War|NGPC War||Demo,|||Public Domain|Public Domain|
+87571A|Nigeronpa|Nigeronpa|Nige-ron-pa|Role-Playing,|||SNK|Dennou Eizou|2000
+124449|Olaf|Olaf||Demo,|||Public Domain|Julien, Loic|2004
+47044A|Pac-man|Pac-Man||Action,Arcade|1||Namco|Namco - SNK|1999
+87573A|Pachi-slot Aruze Oukoku Pocket - Azteca|Pachi-Slot Aruze Oukoku Pocket - Azteca|Pachisuro Azuze Oogoku Pocket - Azteca|||||Aruze|2000
+87574A|Pachi-slot Aruze Oukoku Pocket - Dekahel 2|Pachi-Slot Aruze Oukoku Pocket - Dekahel 2|Pachisuro Aruze Oogoku Pocket - Dekahel|||||Aruze|2000
+87575A|Pachi-slot Aruze Oukoku Pocket - Delsol 2|Pachi-Slot Aruze Oukoku Pocket - Delsol 2|Pachisuro Aruze Oogoku Pocket - Oelsol|||||Aruze|2000
+87576A|Pachi-slot Aruze Oukoku Pocket - E-cup|Pachi-Slot Aruze Oukoku Pocket - e-Cup|Pachisuro Aruze Oogoku Pocket - E-Cup|||||Aruze|2001
+87577A|Pachi-slot Aruze Oukoku Pocket - Hanabi|Pachi-Slot Aruze Oukoku Pocket - Hanabi|Pachisuro Aruze Oogoku Pocket - Hanabi|||||Aruze|1999
+87578A|Pachi-slot Aruze Oukoku Pocket - Oohanabi|Pachi-Slot Aruze Oukoku Pocket - Oohanabi|Pachisuro Aruze Oogoku Pocket - Ohanabi|||||Aruze|2000
+87579A|Pachi-slot Aruze Oukoku Pocket - Porcano 2|Pachi-Slot Aruze Oukoku Pocket - Porcano 2|Pachi-slot Aruze Oukoku Porcano 2|||||Aruze|2000
+87580A|Pachi-slot Aruze Oukoku Pocket - Ward Of Lights|Pachi-Slot Aruze Oukoku Pocket - Ward of Lights|Pachisuro Aruze Oogoku Pocket - Ward of Lights|||||Aruze|2000
+87581A|Pachinko Hisshou Guide - Pocket Parlor|Pachinko Hisshou Guide - Pocket Parlor|Pachinko Hissyou Guide Pocket Parlor|,Slot machine||||Sankyo|1999
+87582A|Party Mail|Party Mail||,Cards||||ADK|1999
+87572A|Oekaki Puzzle|Picture Puzzle|Oekaki|Puzzle-Game,|1||Success|SNK|2000
+124451|Plink!|Plink!||Demo,|||Public Domain|Soft'n Fuzzy|2004
+87583A|Pocket Love If|Pocket Love if|Neo Geo Pocket Color BIOS|,Other||||Kid|1999
+87584A|Pocket Reversi|Pocket Reversi||,Puzzle|1||Success|SNK|2000
+87585A|Pocket Tennis Color - Pocket Sports Series|Pocket Tennis Color - Pocket Sports Series||Sports / Tennis,Sports,|1||Yumekobo|SNK|1999
+124452|Pocketrace|PocketRace|Pocket Reversi|Demo,|||Public Domain|Thor|2002
+124453|Pocketron|Pocketron||Demo,|||Public Domain|Torlus|2004
+87586A|Prize Game - Pp-aa01 Pusher Program|Prize Game - PP-AA01 Pusher Program|||||||
+87587A|Puyo Pop|Puyo Pop||Puzzle-Game,|1||Compile|SNK|1999
+124454|Puzzle Gems|Puzzle Gems|Puzzle Link|Demo,||||Thor|2003
+47046A|Puzzle Link|Puzzle Link||Puzzle-Game,|1||Yumekobo Co., Ltd.|SNK|1999
+47047A|Puzzle Link 2|Puzzle Link 2||Puzzle-Game,|1||Yumekobo Co., Ltd.|SNK|1999
+87589A|Renketsu Puzzle Tsunagete Pon! Color|Renketsu Puzzle Tsunagete Pon! Color|Puzzle Tsunagete Pon Color||||||
+124455|Robotron - 2084|Robotron - 2084|||||||
+87590A|Rockman Battle And Fighters|RockMan Battle & Fighters||Fight,|1||Capcom|Capcom|2000
+124456|Same Game|Same Game||Demo,|||||
+47048A|Samurai Shodown 2|Samurai Shodown II||Action,|2||SNK|SNK|1999
+47049A|Shanghai Mini|Shanghai Mini||Strategy,|2||SNK|SNK|1999
+87591A|Shinki Sekai Evolution - Hateshinai Dungeon|Shinki Sekai Evolution - Hateshinai Dungeon|Evolution - Eternal Dungeons|||||ESP - Sega|2000
+87592A|Shougi No Tatsujin Color|Shougi no Tatsujin Color|Master of Syougi Color|||||ADK|1999
+109080|Shufflepuck Cafe By Loic Julien|Shufflepuck Cafe Beta 2||Demo,||||Julien, Loic|2002
+109081|Snake By Ivan Mackintosh|Snake||Demo,|||Public Domain|Mackintosh, Ivan|2000
+47050A|Snk Gals Fighters|SNK Gals Fighters|Gals Fighters|Action,|2||Yumekobo Co., Ltd.|SNK|2000
+87593A|Snk Vs. Capcom - Card Fighters 2 - Expand Edition|SNK vs. Capcom - Card Fighters 2 - Expand Edition|SNK Vs. Capcom - Card Fighters Clash 2 - Expand Edition|||||Capcom - Moto Kikaku - SNK|2001
+87594A|Snk Vs. Capcom - Gekitotsu Card Fighters|SNK vs. Capcom - Gekitotsu Card Fighters|SNK Vs. Capcom - Card Fighters Clash - Capcom Version||||||
+87595A|Snk Vs. Capcom - Gekitotsu Card Fighters - Snk Supporter Version|SNK vs. Capcom - Gekitotsu Card Fighters - SNK Sup|SNK Vs. Capcom - Card Fighters Clash - SNK Version|||||Capcom - Moto Kikaku - SNK|1999
+47051A|Snk Vs. Capcom - Card Fighter's Clash - Capcom Version|SNK vs. Capcom: Card Fighter's Clash - Capcom Vers||Strategy,Role playing games,|2||SNK|Capcom - Moto Kikaku - SNK|1999
+47052A|Snk Vs. Capcom - Card Fighter's Clash - Snk Version|SNK vs. Capcom: Card Fighter's Clash - SNK Version||Strategy,Role playing games,|2||SNK|Capcom - Moto Kikaku - SNK|1999
+47053A|Snk Vs. Capcom - The Match Of The Millennium|SNK vs. Capcom: The Match of the Millennium||Action,|2||Capcom|Capcom - SNK|1999
+124457|Sod Chess|SOD Chess||||||Thor|2002
+124458|Solitaire|Solitaire||Demo,|||Public Domain|Mackintosh, Ivan|2000
+47054A|Sonic The Hedgehog - Pocket Adventure|Sonic the Hedgehog : Pocket Adventure||Action,Platform|2||SNK|SNK|1999
+87596A|Soreike!! Hanafuda Doujou|Soreike!! Hanafuda Doujou|Soreike! Hanafuda Doujyou|,Puzzle||||Dyna|1999
+109082|Spacies By Jim Bagley|Space Invaders||Demo,|||Public Domain|Bagley, Jim|2000
+109084|Squall|Squall||Demo,|||Public Domain|Public Domain|
+109086|Super 12 In 1 [p1][!]|Super 12 in 1||||||Unknown|
+87597A|Super Real Mahjong - Premium Collection|Super Real Mahjong - Premium Collection|Super Real Mahjong|||||Seta - SNK|2001
+124459|Sykowar|Sykowar||Demo,|||Public Domain|Kasprzak, Mike|2001
+87558A|King of Fighters - Battle de Paradise, The|The King of Fighters - Battle de Paradise||Board game,|2|||SNK|2000
+109087|Thieves By Ivan Mackintosh|Thieves||Demo,|||Public Domain|Mackintosh, Ivan|2000
+109348|Tpaint|Tpaint|||||||
+87598A|Tsunagete Pon! 2|Tsunagete Pon! 2|Puzzle Tsunagete Pon 2||||||

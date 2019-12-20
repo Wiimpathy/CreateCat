@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+	<WiiTDB version="201812050837" games="14"/>
+	<game name="F-1 Spirit 3D Special">
+		<id>185936</id>
+	<locale lang="EN">
+	<title>F-1 Spirit 3D Special</title>
+	<synopsis>This 3D racing game featuring Formula 1 cars and circuits. Besides F1 grand prix championship racing you can also choose to practice a specific race track. There is a two player mode, called the battle mode. The difficulty level can be set, and the number of laps is variable and you can select the F1 race track you want to race. Cars are custom made (you can select the body of the car, the engine, the tires, the suspension, the brakes, the gear and the wings).</synopsis>
+	</locale>
+		<developer>Konami Industry Co. Ltd.</developer>
+		<publisher>Panasoft</publisher>
+		<date year="1988" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Galf Streem">
+		<id>185924</id>
+	<locale lang="EN">
+	<title>Galf Streem</title>
+	</locale>
+		<developer>XAIN Soft / Zainsoft</developer>
+		<publisher>XAIN Soft / Zainsoft</publisher>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Gladius">
+		<id>185923</id>
+	<locale lang="EN">
+	<title>Gladius</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Laydock 2 - Last Attack">
+		<id>185925</id>
+	<locale lang="EN">
+	<title>Laydock 2 - Last Attack</title>
+	<synopsis>Sequel to the successful shoot 'm up Laydock. Again two jet fighters go on a joint mission, each space ship managed and controlled by a different player. The ships can be docked side-by-side or end-to-end for greater fire and fighting power. When docked one player is the pilot and the other is the weapons officer.
+But this game can also be played by a single player. When you progress in the game you can select more advance weapons systems to fight the over 50 different enemy characters. Compared with its predecessor there is not much changed only better graphics, more detailed backgrounds and inter level animations.</synopsis>
+	</locale>
+		<developer>T&amp;E Soft, Inc.</developer>
+		<publisher>T&amp;E Soft, Inc.</publisher>
+		<date year="1988" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Lubeck">
+		<id>185926</id>
+	<locale lang="EN">
+	<title>Lubeck</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Megadoom">
+		<id>185927</id>
+	<locale lang="EN">
+	<title>Megadoom</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Playboy Strippoker">
+		<id>185928</id>
+	<locale lang="EN">
+	<title>Playboy Strippoker</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Quinpl">
+		<id>185929</id>
+	<locale lang="EN">
+	<title>Quinpl</title>
+	<synopsis>Quinpl is a japanese puzzle game of the King's Valley II and Eggerland Mystery variety. The main objective is to reach a exit door by jumping over and destroying blocks and monsters. The player's character can shoot stakes that kill the monsters and stick to the blocks (he can jump on these stakes and eventually break those blocks, clearing the path to the exit door). If he touches any of the monsters or dangerous environments, he transforms into a blue frog and the player loses one life. There are several items that can be collected: some of them are immobile, some randomly float around the screen.
+
+On the top of the screen there are a inventory of collected items, a timer and the number of lives. Both the cartridge and disk versions allow saving the game between levels.</synopsis>
+	</locale>
+		<developer>Bit²</developer>
+		<publisher>Bit²</publisher>
+		<date year="1988" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Sea Sardine">
+		<id>185930</id>
+	<locale lang="EN">
+	<title>Sea Sardine</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Twinkle Star">
+		<id>185931</id>
+	<locale lang="EN">
+	<title>Twinkle Star</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Twinkle Star II">
+		<id>185932</id>
+	<locale lang="EN">
+	<title>Twinkle Star II</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Wig, The">
+		<id>185933</id>
+	<locale lang="EN">
+	<title>Wig, The</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Witch Iz, The">
+		<id>185934</id>
+	<locale lang="EN">
+	<title>Witch Iz, The</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Yoshida Kensetsu. Super Zelixer">
+		<id>185935</id>
+	<locale lang="EN">
+	<title>Yoshida Kensetsu. Super Zelixer</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+</datafile>

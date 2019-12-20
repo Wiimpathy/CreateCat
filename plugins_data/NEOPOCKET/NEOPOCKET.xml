@@ -1,0 +1,3540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+  <WiiTDB version="201812050837" games="9"/>
+  <game name="Baseball Stars">
+    <id>47055A</id>
+    <locale lang="EN">
+      <title>Baseball Stars</title>
+      <synopsis>Baseball Stars is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics, like stamina.</synopsis>
+      <genre>Sports,Sports / Baseball</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Baseball Stars es un juego de deportes sobre el béisbol. El juego es similar a las Baseball Stars de NES, pero tiene personajes con un estilo menos realistas. Manejas tu propio equipo de béisbol y juegas en series de partidos. El juego tiene reglas típicas de béisbol: un jugador lanza la pelota, el segundo la golpea, alguien más la toma, etc. Cada personaje tiene sus propias estadísticas, como la resistencia.</synopsis>
+      <genre>Deportes,Deportes / Béisbol</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Baseball Stars est un jeu de sport sur le baseball. Le jeu est similaire à Baseball Stars sur NES mais avec des personnages moins réalistes et son propre gameplay. Vous gérez votre propre équipe de baseball et jouez une série de matchs. Le jeu a les règles de baseball typiques - un joueur lance la balle, le deuxième la frappe, quelqu'un d'autre la saisit, etc... Chaque personnage a ses propres statistiques, comme l'endurance.</synopsis>
+      <genre>Sport,Sport / Baseball</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport,Sport / Baseball</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Esporte,Esporte / Baseball</genre>
+    </locale>
+    <developer>Saurus Co., Ltd.</developer>
+    <publisher>SNK</publisher>
+    <date year="1998" month="01" day="28"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="King Of Fighters R-1">
+    <id>47057A</id>
+    <locale lang="EN">
+      <title>King of Fighters R-1</title>
+      <synopsis>The King of Fighters: R1 marks SNK's first time bringing the KOF series onto a handheld... and what better system than their own Neo Geo Pocket to do just that? 14 of the most well known KOF characters make their appearance in KOF: R-1, along with some recognizable backgrounds and gameplay features based on The King of Fighters '97. Players can choose from "Extra" &amp; "Advance" play modes similar to KOF '97, and most characters play closely to their original versions.</synopsis>
+      <genre>Fight</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>The King of Fighters: R1 marca la primera vez que SNK lleva la serie KOF a una consola portátil, y ¿qué mejor sistema que su propio Neo Geo Pocket para hacer eso? 14 de los personajes más conocidos de KOF hacen su aparición en KOF: R-1, junto con algunos fondos reconocibles y características de juego basadas en The King of Fighters '97. Los jugadores pueden elegir modos de juego "Extra" y "Avanzado" similares a KOF '97, y la mayoría de los personajes juegan de cerca a sus versiones originales.</synopsis>
+      <genre>Combate</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>SNK transporte pour la première fois la série KOF sur un console portable... et quel meilleur système que la Neo Geo pocket pour le faire? 14 des personnages de KOF parmis les plus connus font leur apparition dans KOF: R-1, avec quelques arrière-plans reconnaissables et des fonctionnalités de jeu basées sur The King of Fighters '97. Les joueurs peuvent choisir entre les modes de jeu "Extra" et "Advance", similaires à ceux de KOF '97, et la plupart des personnages sont jouables comme dans la version originale.</synopsis>
+      <genre>Combat</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Kampf</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Melon-chan No Seichou Nikki">
+    <id>47058A</id>
+    <locale lang="EN">
+      <title>Melon-chan no Seichou Nikki</title>
+      <synopsis>Melon Chan's Growth Diary (Japan: Melon-chan no Seichouki) is a Life simulation game it is comparable to Tamagotchi and other virtual life simulations. In Melon Chan's Growth Diary the player raises and nurtures little girl Melon Chan. The games was only released in Japan and was one of the earliest titles released for the Neo Geo Pocket.
+
+The game was released for the Neo Geo Pocket and features monochrome graphics; however the Neo Geo Pocket Color is backwards compatible with the game.</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Melon-chan no Seichouki es un juego de simulación de vida similar al Tamagotchi y otros juegos de simulación de vida virtual. En este juego, el jugador cría y alimenta a la niña Melon Chan. El juego fue lanzado solo en Japón y fue uno de los primeros títulos que se lanzaron en el Neo Geo Pocket.nnnn</synopsis>
+      <genre>Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Melon-chan no Seichouki est un jeu de simulation de vie comparable à Tamagotchi et à d'autres jeux de simulations de vie virtuelle. Dans ce jeu, le joueur élève et nourrit la petite fille Melon Chan. Le jeu est sorti seulement au Japon et était l'un des premiers titres à sortir sur la Neo Geo Pocket.
+
+Le jeu est sorti pour la première fois sur la Neo Geo pocket et comporte des graphiques monochromes, cependant, la Neo Geo Pocket Color est rétrocompatible avec le jeu.</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Melon Chan no Seichou Nikki</title>
+    </locale>
+    <developer>ADK</developer>
+    <publisher>ADK</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Neo Cherry Master - Real Casino Series">
+    <id>47059A</id>
+    <locale lang="EN">
+      <title>Neo Cherry Master - Real Casino Series</title>
+      <synopsis>Neo Cherry Master is a virtual slot machine simulator for the Neo Geo Pocket. The game simulates the old fashioned fruit-matching slots (infamously known as one-armed bandits), where the player simply "pulls the lever" and leaves the rest up to chance. The game features two modes, Simple and Original mode, with the only difference being that the latter allows for name entry and the ability to save high scores.</synopsis>
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Neo Cherry master es un juego de casino en el que el jugador inserta fichas virtuales</synopsis>
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Neo Cherry master est un jeu de casino dans lequel le joueur insère des jetons virtuels...
+
+Intérêt limité.</synopsis>
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Neo Cherry Master</title>
+    </locale>
+    <publisher>Dyna</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Dyna</developer>
+  </game>
+  <game name="Neo Geo Cup '98">
+    <id>47060A</id>
+    <locale lang="EN">
+      <title>Neo Geo Cup '98</title>
+      <synopsis>Neo Geo Cup '98: The Road to the Victory is a soccer video game based on the FIFA World Cup 1998, despite being released after the 1998 FIFA World Cup. It features 73 teams' countries. Each team enters a "Regional Qualifying Round Final" where it plays a team it actually played in the 1998 FIFA World Cup qualification. For example: Spain would face Yugoslavia, an opponent it actually faced in its qualifying group. Or Italy would face Russia, an opponent Italy faced in the UEFA play-offs. If the player beats the opponent, it goes to a group much like the real life World Cup. In fact, the team faces opponents that were actually in its group. For example: Mexico would face the Netherlands, Belgium and South Korea. It is a re-make of Super Sidekicks 3. However, animations and designs were exactly the same. The only difference is teams to reflect the World Cup, kits again to reflect the World Cup, and players to resemble squads from the World Cup (teams that did not qualify use line-ups from friendly games and qualifiers). Its slogan is "We got the kick".</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>En el modo historia, eliges uno de los mejores equipos del mundo con el objetivo de ganar la famosa Copa Neo Geo. Esto no es fácil, sin embargo, ganar el título requerirá largas horas de intensa competencia.
+Cada reunión le dará derecho a una cierta cantidad de puntos que luego se pueden usar en la tienda, lo que agrega un pequeño RPG lateral no despreciable. Comprar pantalones cortos, crampones, jerseys y muchos otros artículos de una selección seleccionada aumentará las habilidades de tu equipo de acuerdo con varios criterios y hará que tus jugadores sean más rápidos o más hábiles frente a la portería.</synopsis>
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans le mode story vous choisissez une équipe parmi les meilleures au monde avec l'objectif de remporter la fameuse Neo Geo Cup. Cela n'est toutefois pas de tout repos et remporter le titre demandera de longues heures de match intense.
+Chaque rencontre vous donnera droit a un certain nombre de points qui pourront ensuite êtres utilisés dans la boutique, ce qui ajoute un petit côté RPG non négligeable. Acheter des shorts, crampons, maillots et plein d'autre objets parmi une sélection donnée augmenteront les capacités de votre équipe selon plusieurs critères et rendra vos joueurs plus rapides ou adroits devant le but. 
+
+Le jeu est également disponible sur Neo Geo Pocket.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="JA">
+      <title>NeoGeo Cup '98</title>
+    </locale>
+    <publisher>SNK</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>SNK Corporation</developer>
+  </game>
+  <game name="Pocket Tennis - Pocket Sports Series">
+    <id>47066A</id>
+    <locale lang="EN">
+      <title>Pocket Tennis - Pocket Sports Series</title>
+      <synopsis>Pocket Tennis a simple tennis game with two play modes: Exhibition and Tournament.
+
+Exhibition is a single match against computer or human opponent (requires link cable). There do exist eight player characters with different skills (human player must select one of those eight characters too) and four (five in the color version) different courts. Also amount of sets per game can be selected (1, 3 or 5).
+
+Tournament is only against computer. Human player can pick his/her character but not the computer opponent. Also selection of courts and amount of sets is missing. Three games will be played: quarter and semifinals and of course the final.</synopsis>
+      <genre>Sports / Tennis,Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Pocket Tennis dispone de dos modos: Exposición y Torneo.
+
+Exposición es un solo partido contra computadora o oponente humano (requiere cable de enlace). Existen ocho personajes jugadores con diferentes habilidades (el jugador humano también debe seleccionar uno de esos ocho personajes) y cuatro (cinco en la versión en color) diferentes. También se puede seleccionar la cantidad de juegos por juego (1, 3 o 5).
+
+El torneo es solo en contra de la computadora. El jugador humano puede elegir su personaje pero no el oponente de la computadora. Además, falta la selección de cantidades pequeñas y cortas. Se jugarán tres juegos: cuarto y semifinales y carrera final.</synopsis>
+      <genre>Deportes / Tenis,Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Pocket Tennis un jeu de tennis basique avec deux modes de jeu: Exposition et tournoi.
+
+Exposition est un match unique contre l'ordinateur ou un autre adversaire (nécessite un câble de liaison). Il existe huit personnages avec des compétences différentes et quatre différents terrains (cinq dans la version en couleur). La durée des matchs peut également être sélectionnée (1, 3 ou 5).
+
+Le tournoi se joue seulement contre l'ordinateur. Le joueur peut choisir son personnage mais pas son adversaire. Trois matchs seront disputés: quart de finale, demi-finales et bien sûr la finale.</synopsis>
+      <genre>Sport / Tennis,Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport / Tennis,Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Esporte / Tênis,Esporte</genre>
+    </locale>
+    <publisher>Yumekobo</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Yumekobo Co., Ltd.</developer>
+  </game>
+  <game name="Renketsu Puzzle Tsunagete Pon!">
+    <id>47061A</id>
+    <locale lang="EN">
+      <title>Renketsu Puzzle Tsunagete Pon!</title>
+      <synopsis>Renketsu Puzzle Tsunagete Pon! is a game where blocks  have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Renketsu Puzzle Tsunagete Pon! es un juego donde los bloques deben ser disueltos. Nuevos bloques que se desplazan constantemente a través de la pantalla desde la parte superior.</synopsis>
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Renketsu Puzzle Tsunagete Pon! est un jeu où les blocs doivent être dissous. Les nouveaux blocs défilent constamment dans l'écran par le haut. La partie se termine lorsque les premiers blocs atteignent le bas de l'écran.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Renketsu Puzzle Tsunagete Pon!</title>
+    </locale>
+    <developer>Yumekobo</developer>
+    <publisher>SNK</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Samurai Shodown! - Pocket Fighting Series">
+    <id>47067A</id>
+    <locale lang="EN">
+      <title>Samurai Shodown! - Pocket Fighting Series</title>
+      <synopsis>Samurai Shodown! Pocket is essentially a "pocket sized" version of Samurai Shodown 4. Much like the rest of the fighting games on the Neo Geo Pocket, the characters are drawn in super-deformed chibi style (big heads and tiny bodies). This title was also one of the first games for the Neo Geo Pocket, so the game was only in black &amp; white... ironically suiting for a "samurai" game. The art style is definitely on the "cutesy" side and much different than any Samurai Shodown game before it, but it can grow on you if you give it a chance.
+
+The classic Samurai Shodown gameplay made the jump to the handheld layout fairly well, but it's not nearly as smooth as Neo Geo arcade classic. The gameplay is particularly slower and very simplified in this version. Characters retain most of their specials and super moves but the deeper gameplay strategies from the arcade iterations are pretty much gone. It's basically a new game all together and it's nothing spectacular, but it's fun for a handheld title.</synopsis>
+      <genre>Fight</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Samurai Shodown! Pocket es esencialmente una versión "de bolsillo" de Samurai Shodown 4. Al igual que el resto de los juegos de lucha en el Neo Geo Pocket, los personajes se dibujan en estilo chibi súper-deformado (cabezas grandes y cuerpos pequeños). Este título es también uno de los primeros juegos para el Neo Geo Pocket, por lo que el juego fue solo en blanco y negro ... irónicamente apto para un juego "samurai". El estilo de arte está definitivamente en el lado "cursi" y es muy diferente a cualquier otro juego de Samurai Shodown anterior, pero puede crecer en ti si le das una oportunidad.
+
+El clásico juego de Samurai Shodown dio el salto al diseño de la computadora de mano bastante bien, pero no es tan suave como el clásico de Neo Geo. El juego es particularmente más lento y muy simplificado en esta versión. Los personajes conservan su juego y el juego se ha ido mucho. Básicamente es un juego nuevo, no es nada espectacular, pero es divertido para un título portátil.</synopsis>
+      <genre>Combate</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Samouraï Shodown! Pocket est essentiellement une version "portable" de Samurai Shodown 4. Tout comme les autres jeux de combat sur la Neo Geo Pocket, les personnages sont dessinés en style chibi Super Déformé (grosses têtes et corps minuscules). Ce titre était aussi l'un des premiers jeux pour la Neo Geo Pocket, alors le jeu n'était qu'en noir et blanc...
+
+Le gameplay de Samurai Shodown est assez bien adapté dans la version de poche, mais il n'est pas aussi agréable que le classique de la Neo Geo. Le gameplay est très simplifié dans cette version. Les personnages conservent la plupart de leurs coups spéciaux et de leurs mouvements, mais les stratégies profondes propres à l'arcade ont quasiment disparues. C'est fondamentalement un nouveau jeu qui même s'il n'est en rien spectaculaire, est amusant.</synopsis>
+      <genre>Combat</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Kampf</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Shougi No Tatsujin">
+    <id>47062A</id>
+    <locale lang="EN">
+      <title>Shougi no Tatsujin</title>
+      <synopsis>Shogi is the Japanese equivalent of chess. Indeed, as in chess, the goal of the game is to subdue the opposing king! Nevertheless, there are several differences between the Shogi and our chess game, be it in the nature of the pieces, their positions or their movements.</synopsis>
+      <genre>Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Shogi es el equivalente japonés de ajedrez. De hecho, como en el ajedrez, ¡el objetivo del juego es someter al rey enemigo! Sin embargo, hay varias diferencias entre el Shogi y nuestro juego de ajedrez, ya sea en la naturaleza de las piezas, sus posiciones o sus movimientos.</synopsis>
+      <genre>Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le Shogi est l'équivalent japonais du jeu d'échecs. En effet, comme dans le jeu d'échecs, le but du jeu est de mater le roi adverse ! Néanmoins, il y a plusieurs différences entre le Shogi et notre jeu d'échecs, que ce soit au niveau de la nature pièces, de leurs positions ou de leurs déplacements.</synopsis>
+      <genre>Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Master of Syougi</title>
+    </locale>
+    <publisher>SNK</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>ADK Corporation</developer>
+  </game>
+  <game name="Adventures of Gus and Rob, The">
+    <id>124418</id>
+    <locale lang="EN">
+      <title>Adventures of Gus and Rob, The</title>
+Demo
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>McMurray, Mickey</publisher>
+    <date year="2002" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+Public Domain
+  </game>
+  <game name="Another Day In Hell">
+    <id>124419</id>
+    <locale lang="EN">
+      <title>Another Day in Hell</title>
+Demo
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Iceman - Thor</publisher>
+    <date year="2005" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+Public Domain
+  </game>
+  <game name="Barbarian - The Ultimate Warrior">
+    <id>124420</id>
+    <locale lang="EN">
+      <title>Barbarian - The Ultimate Warrior</title>
+    </locale>
+    <publisher>Julien, Loic</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Barbarian Invaders">
+    <id>124421</id>
+    <locale lang="EN">
+      <title>Barbarian Invaders</title>
+      <genre>Action</genre>
+      <synopsis>Barbarian Invaders is a Space Invaders clone.</synopsis>
+    </locale>
+    <publisher>Ahchay, Chris</publisher>
+    <date year="2002" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Chris Ahchay</developer>
+  </game>
+  <game name="Baseball Stars Color">
+    <id>47070A</id>
+    <locale lang="EN">
+      <title>Baseball Stars Color</title>
+      <synopsis>Baseball Stars Color is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Baseball Stars Color est un jeu de sport sur le baseball. Le jeu est semblable à Baseball Stars de NES mais a des personnages et un gameplay moins réalistes. Vous gérez votre propre équipe de baseball et jouez des série de matchs. Le jeu a les règles typiques du baseball - un joueur jette le ballon, le deuxième frappe la balle, quelqu'un l'attrape, etc. Chaque personnage a ses propres statistiques.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>Saurus - SNK</publisher>
+    <date year="1999" month="03" day="19"/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Big Bang Pro Wrestling">
+    <id>47071A</id>
+    <locale lang="EN">
+      <title>Big Bang Pro Wrestling</title>
+      <synopsis>Only a handful of top wrestlers can be show their face on the TV for their fans at home. In the I.E.W mat, this rule is no exception. In an event practiced for 300 years, only the best performances are in demand. This year, the great king of the I.E.W, Joseph Steel, returns to defend his throne. The story of eight top wrestlers competing for the greatest prize on the ring, the I.E.W champion belt, is about to begin...</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Big Bang Pro Wrestling est un jeu developpé par SNK et S-NEO, pour la NGPC. C'est l'un des rare jeu destiné au marché japonais à inclure une optaion de langue "Anglaise".
+4 modes de jeu sont disponible. L'habituel "Story Mode", ou le joueur doit battre 7 autres catcheurs avant d'affronter Joseph.
+Le "one Match" et le '"Tournament Mode", qui permet des affrontements contre l'IA avec diverses options de modification comme la limite de temps, les couleurs du ring, la difficulté, etc...
+Et enfin le "VS mode" possible entre 2 possesseurs de NGPC.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Big Bang Pro Wrestling</title>
+    </locale>
+    <developer>S-Neo</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="11" day="23"/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Bikkuriman 2000 - Viva! Pocket Festiva!">
+    <id>51150A</id>
+    <locale lang="EN">
+      <title>Bikkuriman 2000 - Viva! Pocket Festiva!</title>
+      <synopsis>The game is a collection of mini-games. 
+The player selects Sei Tenshi Takeru or Tenjo P?chi (Takeru only in the NeoGeo Pocket Color version) to move around a park and play the attractions. 
+One of the mini-games is free and can be used to gain coins, with other attractions requiring coins to participate. 
+The player gains more coins according to their score in the games, and in some attractions a rare seal can be obtained. 
+Besides being used to participate in mini-games, the coins can be spent in slot machines to obtain seals from the Bug Akuma vs. Giga Tenshi Seal series, which can later be seen in a museum. 
+At first only a few mini-games are available, with more being unlocked by completing objectives.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ce jeu est collection de Mini-jeux, de plus en plus nombreux à force de les debloquer via l'atteinte d'objectifs/challenge.
+Le joueur l'un des 2 personnage : Sei Tenshi Takeru ou Tenjo P?chi (Takeru n'etant disponible que NeoGeo Pocket Color) et se ballade a l'interieur d'un park d'attractions.
+L'un des mini-jeux est "gratuit" et permet de gagner de la monnaie pour utiliser tous les autres mini-jeux.
+Plus le score est elevé, plus les gains de pieces sont important, et dans quelques jeux des "Artwork speciaux" peuvent etre obtenues.
+En dehors de leur utilisation principale les pieces peuvent servir à jouer dans des machines-a-sous pour tenter d'obtenir des "Artwork" de la serie "Bug Akuma vs. Giga Tenshi Seal", que l'on pourra par la suite revoir dans un musée (in game).</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Bikkuriman 2000 Viva!</title>
+    </locale>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <date year="2000" month="03" day="16"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Bio Motor Unitron">
+    <id>47025A</id>
+    <locale lang="EN">
+      <title>Bio Motor Unitron</title>
+      <synopsis>Biomotor Unitron is a RPG for the Neo Geo Pocket Color.
+
+After a meteor brings a new source of energy to the world, the construction of giant robots begins. These robots are used for entertainment and fight in arena fights against one-another for the title Master of Masters. You play a duo of characters that participates in these gladiator battles. You can control both characters and have to explore and perform quests to earn money and items to upgrade your Unitron robot with. You can talk to inhabitants of the city and buy new items at stores.
+
+The Unitron changes visibly when you apply upgrades and a great deal of upgrades are at hand. Over two hundred different weapon configurations are possible. Each weapon and part has a certain material and element. Fire weapons will work better against wooden robots than water-based robots.
+
+Beneath the city there are large dungeons where most quests will have to be solved and most items will be found.
+
+The battles are like in Pokémon, completely menu based. You pick whatever powers you want to use from a drop-down list.</synopsis>
+      <genre>Role playing games</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de rol</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Suite à la chute d'une météorite et l?avènement d'une nouvelle source d?énergie, la construction de Robots Géant s'est démocratisé à travers le monde.
+Ces robots sont utilisés dans l'organisation de combats d?arènes, pour obtenir le titre suprême de "Master of Masters".
+Le joueur incarne un duo de personnages qui participent justement dans ces combats de gladiateurs moderne. On peut avoir le contrôle sur les 2 protagonistes, le but premier étant de gagner de l'argent et de l?équipement pour améliorer notre Unitron.
+On dénombre plus de 200 combinaisons d'armement possible, chaque armes ayant des forces et faiblesses.
+Les combats sont comme beaucoup de J-RPG de l?époque, a base de menu dans lequel on sélectionne l'action voulu.</synopsis>
+      <genre>Jeu de rôles</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rollenspiele</genre>
+    </locale>
+    <developer>Yumekobo Co., Ltd.</developer>
+    <publisher>SNK Corporation of America</publisher>
+    <date year="1999" month="04" day="15"/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Bio Motor Unitron 2">
+    <id>87600A</id>
+    <locale lang="EN">
+      <title>Bio Motor Unitron 2</title>
+      <synopsis>Kikou Seiki Unitron (English: Armor Chronicles Unitron) is the sequel to Biomotor Unitron. 
+It was only released in Japan.
+The game takes place 400 years after Biomotor Unitron. 
+Kikou Seiki Unitron plays similar to Biomotor Unitron with top down dungeons and menu-based combat. 
+The game requires the player to upgrade their unitron robot with various weapons and accessories to compete against various enemies within the dungeon areas. 
+Using a link cable two players can pit their unitrons against each other in a head-to-head battle.</synopsis>
+      <genre>Role playing games</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de rol</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Kikou Seiki Unitron (En anglais: Armor Chronicles Unitron) est  une sequel à Bio-Motor Unitron sorti plus tot et uniquement réservé au marché japonnais.
+L'histoire nous amène 400 ans après les événements de Bio-Motor Unitron. Le gameplay reste inchangé au 1er opus à savoir l'amélioration de son Unitron en parcourant Donjons et Villes, et des combats à base de menus.
+L'utilisation du câble Link NGPC permet des affrontements d'Unitrons entre amis.</synopsis>
+      <genre>Jeu de rôles</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rollenspiele</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Kikou Seiki Unitron</title>
+    </locale>
+    <developer>Yumekobo</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="01" day="20"/>
+    <rating type="NOTE" value="17">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Blocks">
+    <id>124422</id>
+    <locale lang="EN">
+      <title>Blocks</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Mackintosh, Ivan</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Bomberman">
+    <id>124423</id>
+    <locale lang="EN">
+      <title>Bomberman</title>
+      <genre>Demo</genre>
+    </locale>
+    <publisher>Thor</publisher>
+    <date year="2004" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Puzzle Bobble Mini">
+    <id>87588A</id>
+    <locale lang="EN">
+      <title>Bust-A-Move Pocket</title>
+      <synopsis>The classic game Bubble Bobble is the ancestor of Puzzle Bobble. Your aim in each stage is to break all the bubbles, by breaking 3 or more of the same color.  The game contains a two-player mode where each player tries to break all bubbles first.</synopsis>
+      <genre>Action,Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción,Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Puzzle Bobble Mini (aussi appelé Bust-A-Move Pocket) est une version NGPC de la license Puzzle Bobble.
+On se rapproche beaucoup de Puzzle Bobble 2 sorti sur Playstation.
+3 modes de jeu sont disponible :
+- Puzzle Mode, ou l'on doit nettoyer l'ecran le plus rapidement possible (les scores peuvent meme etre sauvegardés)
+- Survivor Mode, ou l'on doit reussir a tenir le plus longtemps possible sans que les bulles ne touchent le bas de l'ecran.
+- vs CPU Mode, ou l'on peut jouer contre un des 8 personnages disponible, dirigé par l'IA</synopsis>
+      <genre>Action,Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action,Strategie</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Ação,Estratégia</genre>
+    </locale>
+    <developer>Taito</developer>
+    <publisher>SNK - Taito</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Centipede">
+    <id>124424</id>
+    <locale lang="EN">
+      <title>Centipede</title>
+    </locale>
+    <publisher>Bacon, Roger</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Chaos 89">
+    <id>109076</id>
+    <locale lang="EN">
+      <title>Chaos 89</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+    <publisher>Public Domain</publisher>
+  </game>
+  <game name="Columns By Thor">
+    <id>109077</id>
+    <locale lang="EN">
+      <title>Columns</title>
+      <genre>Demo</genre>
+    </locale>
+    <publisher>Thor</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Cool Boarders Pocket">
+    <id>51140A</id>
+    <locale lang="EN">
+      <title>Cool Boarders Pocket</title>
+      <synopsis>Cool Boarders Pocket differs to other games in the Cool Boarders series. It features an isometric (overhead) view instead of a third-person perspective. The game features two play modes a free-ride mode where the player navigates an obstacle course with no restrictions until he/she reaches the goal, and a survival mode where the player snowboards through the obstacle course until they run out of health. The game allows the player to choose one of two characters; a female or male snowboarder.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Cool Boarders Pocket diffère des autres jeux de la série Cool Boarders. Il comporte une vue isométrique (aérienne) au lieu d'une perspective à la troisième personne. Le jeu dispose de deux modes de jeu un mode free-ride où le joueur surf sur un parcours d'obstacles sans restrictions jusqu'à ce qu'il atteigne l'objectif, et un mode de survie où le joueur surf à travers la course d'obstacles jusqu'à ce qu'ils manquent de santé. Le jeu permet au joueur de choisir l'un des deux caractères; Un snowboardeur féminin ou masculin.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>UEP Systems</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="02" day="24"/>
+    <rating type="NOTE" value="9">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Cool Cool Jam">
+    <id>51139A</id>
+    <locale lang="EN">
+      <title>Cool Cool Jam</title>
+      <synopsis>Cool Cool Jam is a rhythm video game which appeared on the Neo Geo Pocket Color in 2000. Cool Cool Jam is comparable in gameplay to other rhythm games such as: PaRappa the Rapper, Donkey Konga or Beatmania.
+
+The storyline involves a boy and a girl who are transported 1,000 years into the future. To return home they must form a successful and popular music band.
+
+The game can be played by one or two players. In two player mode the game plays like a duet; the players take it in turn to play tune and receive a message after completion. The game also features a single player storymode which has adventure game elements. Various instruments can be played in the game. Each instrument has a different playing style. The instruments include:
+
+Clapping to a beat - a bar moves across the screen the player taps a button when they see a red dot. If successful the dot glows.
+
+Violin - The player taps either the A or B when a red light (button A) or a green light (button B) appears. The power can be altered by moving the joystick up and down.
+
+Bluesharp - The player moves the joystick to coincide with the position of the lights. The player then pushes A or B depending whether a red or green light appears.
+
+Guitar - The player pushes A or B to play the strings and the joystick controls the pick.
+
+Saxophone - The player moves the joystick and the buttons to control the pitch as the symbols appear on screen.
+
+Trumpet - The player moves the joystick in four directions to change the pitch to coincide with the coloured symbols. The player then pushes A or B when the marker appears. A bar indicates air pressure.
+
+Guitar 2 - Plays the same as the previous Guitar game only upside down.</synopsis>
+      <genre>Rhythm,Music and Dance</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rítmico,Música y Baile</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Rhythme,Musique et Dance</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rythmus,Musik und Tanz</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Rítmico,Música e dança</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Cool Cool Jam</title>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="08" day="10"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Crush Roller">
+    <id>47027A</id>
+    <locale lang="EN">
+      <title>Crush Roller</title>
+      <synopsis>Crush Roller is a game for the Neo Geo Pocket Color based on the 1981 arcade game Make Trax, which was released as Crush Roller in Europe and Asia.
+
+The object of the game is to color the entire maze-like playing field with a paint brush. While you paint, two enemies walk around in the maze, when they hit you, you lose a life.
+
+A level has rollers which you can push forward with your paint brush. If you capture an enemy in the path of the roller he dies and is temporarily taken out of the game. This scores you extra points. Each subsequent enemy rolled over is worth more points.
+
+Every once in a while another creature will pop up, it will run around leaving behind track marks in your paint. Painting over this creature removes it from the game and scores you additional points. His tracks have to be repainted.
+
+When the entire maze is painted you win the level. Unlike the original arcade version the Neo Geo Pocket Color version has multiple levels.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Crush Roller est un jeu pour le Neo Geo Pocket Color basé sur le jeu d'arcade de 1981 Make Trax, qui a été publié comme Crush Roller en Europe et en Asie.
+
+Le but du jeu est de colorer l'ensemble du labyrinthe avec un pinceau. Pendant que vous peignez, deux ennemis se promènent dans le labyrinthe, quand ils vous frappent, vous perdez une vie.
+
+Un niveau a des rouleaux que vous pouvez pousser vers l'avant avec votre pinceau. Si vous capturez un ennemi , il meurt et est temporairement sorti du jeu. Cela vous marque des points supplémentaires. 
+
+De temps en temps, une autre créature apparaîtra, elle fonctionnera en laissant derrière vous des marques de pas dans votre peinture.
+
+Lorsque le labyrinthe entier est complètement peint, vous gagnez. Contrairement à la version arcade, la version Neo Geo Pocket Color a plusieurs niveaux.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>ADK</developer>
+    <publisher>SNK Corporation of America</publisher>
+    <date year="1999" month="04" day="15"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Dark Arms - Beast Buster 1999">
+    <id>47028A</id>
+    <locale lang="EN">
+      <title>Dark Arms: Beast Buster 1999</title>
+      <synopsis>Dark Arms: Beast Buster 1999 is a RPG for the Neo Geo Pocket Color. It's a spin-off from the arcade game Beast Busters.
+
+Parallel to our world we find the Dark Realm. As the player, you find access to this parallel dimension after signing a pact with the Master of the Dark Realm. In his realm, you are supposed to catch monsters. These can be fed to your biological weapons: Dark Arms. You weapons gain abilities from consumed monsters and can evolve into more powerful equipment. You can also find seeds in the Dark Realm that turn into new weapons.
+
+The game features puzzles that have to be solved and a wide array of undead monsters that can be fed to your Dark Arms.</synopsis>
+      <genre>Role playing games,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de rol,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dark Arms: Beast Buster 1999 est un RPG pour la Neo Geo Pocket Color. C'est un spin-off du jeu d'arcade Beast Busters.
+
+Parallèlement à notre monde, nous trouvons le Royaume des Ténèbres. En tant que joueur, vous avez accès à cette dimension parallèle après avoir signé un pacte avec le Maître du Royaume des Ténèbres. Dans son royaume, vous êtes censé attraper des monstres. Ceux-ci servent à  alimentés à vos armes biologiques: Dark Arms. Vos armes gagnent en capacités à chaque monstre consommé et peuvent évoluer en un équipement plus puissant. Vous pouvez également trouver des graines dans le Royaume des Ténèbres qui se transforment en nouvelles armes.
+
+Le jeu dispose de puzzles qui doivent être résolus et un large éventail de monstres / morts-vivants.</synopsis>
+      <genre>Jeu de rôles,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rollenspiele,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre> Jogos de RPG,Ação</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Beast Busters: Yami no Seitai Heiki</title>
+    </locale>
+    <developer>Noise Factory</developer>
+    <publisher>SNK Corporation of America</publisher>
+    <date year="1999" month="10" day="21"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Delta Warp">
+    <id>51151A</id>
+    <locale lang="EN">
+      <title>Delta Warp</title>
+      <synopsis>Delta Warp is a puzzle game released in 2000 for the Neo Geo Pocket Color. The game involves the player moving triangular shaped tiles across a board whilst avoiding hazards such as ice. Delta Warp was released only in Japan but features English text menus and the simple gameplay style means it can be played by non-Japanese readers.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Delta Warp</title>
+    </locale>
+    <developer>Iosys</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Densetsu No Ogre Battle - Zenobia No Ouji">
+    <id>47029A</id>
+    <locale lang="EN">
+      <title>Densetsu no Ogre Battle: Zenobia no Ouji</title>
+      <synopsis>A side story to the original Ogre Battle game for the SNES, Zenobia no Ouji's side-story takes place during the fourteenth chapter ("The Capital of Milano") of the original game.
+
+Much like its predecessor, the game is a unique blend of traditional RPG and strategy gameplay. As the hero of the game, you lead a growing army of troops as you progress through the game in a series of pivotal battles. Before each battle you are given the option to setup your army into distinct groups. Then you are given a mission on the map and you can then set your army out to do your bidding. As your unit groups travel along the map on the way to their given objective, they'll happen along enemy unit groups. When they meet, the game switches to an isometric-view of the automated turn-based battle that ensues.</synopsis>
+      <genre>Strategy,Role playing games</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Estrategia,Juegos de rol</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ogre Battle: Legend of the Zenobia Prince (Densetsu no Oga Batoru Gaiden Zenobia no Oji, Sidestory to Legendary Ogre Battle: The Zenobia Prince) est un Tactical RPG developpé par Quest et SNK pour la NGPC.
+C'est le seul titre de la serie "Ogre Battle" exclusif au marché japonais, du a un arret de la commercialisation de la NGPC en dehors du Japon.
+Le jeu nous permet de suivre une parallele au titre Ogre Battle : March of the Black Queen, et prend place lors de la quete du Prince Tristan.
+En dehors des zones de jeu et des nouvelles classes, le gameplay et le style graphique sont quasi identique au titre original Ogre Battle : March of the Black Queen.</synopsis>
+      <genre>Stratégie,Jeu de rôles</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie,Rollenspiele</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Estratégia, Jogos de RPG</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Densetsu no Ogre Battle Gaiden - Zenobia no Ouji</title>
+    </locale>
+    <developer>Quest</developer>
+    <publisher>Quest - SNK</publisher>
+    <date year="2000" month="06" day="22"/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Densha De Go! 2">
+    <id>47030A</id>
+    <locale lang="EN">
+      <title>Densha de Go! 2</title>
+      <synopsis>The 1998 sequel of the popular Japanese train driving game by Taito has once again been ported to various home systems. For the first time on the PlayStation, it is possible to drive through the snow, and take a seat in the cockpit of a Shinkansen bullet train.
+
+The gameplay is more arcade than simulation. The focus is on stopping at the stations at the perfect moment and position, keeping up with the schedule, obeying signals and speed limits, and ensuring the safety and comfort of the passengers. Mistakes result in points being deducted from a counter. If it reaches 0, the game is over.
+
+The following routes are available:
+
+1. Hokuhoku Line from Naoetsu to Uragawara
+2. Tohoku Shinkansen from Morioka to Shin-Hanamaki
+3. Akita Shinkansen from Akita to Omagari
+4. Keihin-Tohoku Line from Shinagawa to Ueno
+5. Osaka Loop Line from Osaka to Tennoji (not in the Arcade original)
+6. Kagoshima Main Line from Hakata to Kokura (only in PlayStation and Windows versions)</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Densha de GO! 2 est le portage NGPC de la version Arcade.
+Simulation de train, qui sur tous les autres support quasiment, necessite un controleur adapté, surprend par son originalité et la fidelité du gameplay!
+A savoir, emmener votre train d'une station à une autre en respectant le a durée du trajet et les arrets!
+Parfaitement pensé pour le support, on se retrouve avec 2 mode de jeu :
+- Le mode Arcade, avec la modelisation de 6 routes de train réelles Japonaise a la difficultés croissante
+- Le mode Original avec une route aleatoire et surtout des conditions de circulations aléatoire affectant grandement la conduite (Brouillard, pluie, neige, etc...)
+La rejouabilité est donc très bonne, car chaque route necessite une attention differente selon les conditions météo.</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Densha de GO! 2</title>
+    </locale>
+    <developer>Taito GM R&amp;D Sect. #2</developer>
+    <publisher>Taito - SNK</publisher>
+    <date year="1999" month="10" day="21"/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Dive Alert - Matt's Version">
+    <id>87554A</id>
+    <locale lang="EN">
+      <title>Dive Alert - Matt's Version</title>
+      <synopsis>The player takes control of a character named Matt. The game is set in the future and the world is primarily surrounded by water. The only small patch of land called is called Terra. The player must show their worth to be accepted on to Terra by proving their skill as a submarine commander and destroying enemy vessels.
+
+Matt's version features different characters, items and boats to Becky's version. These are logged in a device similar to a Pokédex. The battles take place against other ships. A radar view is used to help players guide torpedoes against the enemy. A large part of the game is text based with animated cutscenes. Two players can link-up with the cable to battle, exchange ships and accumulate other data.</synopsis>
+      <genre>Role playing games</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de rol</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dive Alert - Matt's Version est un RPG. Il existe une autre version de Dive Alert appelée Dive Alert: Becky's Version. Les deux jeux sont plutôt comme la série des Pokemon (Rouge / Bleu, etc) où ils sont sensiblement le même jeu avec de petites différences. 
+
+Le joueur prend le contrôle d'un personnage nommé Matt. Le jeu a lieu dans le futur et le monde est principalement entouré par de l'eau. La seule terre est un petit endroit appelé Terra. Le joueur doit prouver sa valeur pour être accepté sur Terra en montrant ses compétence en tant que commandant de sous-marin et détruire tous les navires ennemis.</synopsis>
+      <genre>Jeu de rôles</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rollenspiele</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Dive Alert - Burn Hen</title>
+    </locale>
+    <developer>Sacnoth</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="08" day="19"/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Dive Alert - Becky's Version">
+    <id>47031A</id>
+    <locale lang="EN">
+      <title>Dive Alert: Becky's Version</title>
+      <synopsis>Dive Alert: Becky's Version is an RPG for the Neo Geo Pocket Color. There is another version of Dive Alert called Dive Alert: Matt's Version. The two games are rather like joint Pokemon releases (Red/Blue, etc) wherein they are overall the same game with a variety of smaller differences.
+
+The player takes control of a character named Becky. The game takes place in the future and the world is primarily surrounded by water. The only land is a small patch called Terra. The player must prove their worth to be accepted on to Terra by proving their skill as a submarine commander and destroying enemy vessels.
+
+Becky's version features different characters, items and boats from Matt's Version. These are logged in a device similar to a Pokédex (from Pokemon). Battles take place against enemy ships and a radar view is used to help the player guide torpedoes towards the enemy vessels. Much of the game is text-based with animated cutscenes. 
+
+The game features the ability for two players to link up Neo Geo Pocket Color units to exchanges ships and data, and to battle one on one.  The game also features battery back-up and a training mode.</synopsis>
+      <genre>Role playing games</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de rol</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dive Alert - Becky's Version est un RPG. Il existe une autre version de Dive Alert appelée Dive Alert: Matt's Version. Les deux jeux sont plutôt comme la série des Pokemon (Rouge / Bleu, etc) où ils sont sensiblement le même jeu avec de petites différences.
+
+Le joueur prend le contrôle d'un personnage nommé Becky. Le jeu a lieu dans le futur et le monde est principalement entouré par de l'eau. La seule terre est un petit endroit appelé Terra. Le joueur doit prouver sa valeur pour être accepté sur Terra en montrant ses compétence en tant que commandant de sous-marin et détruire tous les navires ennemis.</synopsis>
+      <genre>Jeu de rôles</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rollenspiele</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Dive Alert: Rebecca Hen</title>
+    </locale>
+    <developer>Sacnoth</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="08" day="19"/>
+    <rating type="NOTE" value="11">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Doko Demo Mahjong">
+    <id>87555A</id>
+    <locale lang="EN">
+      <title>Doko Demo Mahjong</title>
+    </locale>
+    <locale lang="ES">
+      <genre>Mahjong,Juegos de mesa asiático</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Jeu de Mahjong ou l'on prend part à des parties de 4 joueurs, et ou l'on joue de l'argent.
+La partie se termine une fois notre cave de depart epuisé.</synopsis>
+      <genre>Mahjong,Jeu de societe asiatique</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Mahjong,Asiatische Brettspiele</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Mahjong,Jogo de tabuleiro Asiático</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Dokodemo Mahjong</title>
+    </locale>
+    <developer>ADK</developer>
+    <publisher>ADK</publisher>
+    <date year="1999" month="04" day="29"/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Dynamate">
+    <id>124428</id>
+    <locale lang="EN">
+      <title>DynaMate</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Thor</publisher>
+    <date year="2003" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Dynamite Slugger">
+    <id>87556A</id>
+    <locale lang="EN">
+      <title>Dynamite Slugger</title>
+      <synopsis>Dynamite Slugger is a video game. It was released in 2000 for the Neo Geo Pocket Color handheld game console. The game is similar to other Baseball videogames on the Neo Geo Pocket Color such as Baseball Stars and Baseball Stars Color. Due to Dynamite Slugger being the latest baseball videogame to be released for the Neo Geo Pocket Color it features better graphics than other sports titles.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dynamite Slugger a été publié en 2000 pour la console de jeux portables Neo Geo Pocket Color. Le jeu est similaire à d'autres jeux de baseball tels que Baseball Stars et Baseball Stars Color.
+Dynamite Slugger étant le dernier jeu de baseball à être publié pour le Neo Geo Pocket Color, il dispose de meilleurs graphismes que les autres titres sportifs.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>ADK</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="05" day="25"/>
+    <rating type="NOTE" value="9">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Evolution - Eternal Dungeon">
+    <id>47032A</id>
+    <locale lang="EN">
+      <title>Evolution: Eternal Dungeon</title>
+      <synopsis>A portable version of Evolution: The World of Sacred Device. Eternal Dungeon tells the story of the young explorer Mag Launcher and his quest for the fabled Evolutia, an item of immense power.
+
+The basic premise of the game is to take quests in the town and then assemble your party and attempt to clear out the many dungeons in the game, grinding your characters and getting the loot and experience needed to advance the plot and buy items, equipment, and upgrades for your Cy-frame, a robotic attachment that enables Mag to enhance his combat abilities.
+
+As expected for a portable version, the gameplay has been significantly downgraded from its original Dreamcast version. Town navigation is menu-driven and all graphics are now top-down 2D sprites, with all dungeons being pre-designed instead of randomly generated. Combat is turn-based using a menu system from which you select your actions for each party member (up to 3) and execute them, but otherwise remains unchanged.</synopsis>
+      <genre>Role playing games</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de rol</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Jeu de rôles</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rollenspiele</genre>
+    </locale>
+    <developer>ESP</developer>
+    <publisher>ESP - Sega</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Fantastic Night Dreams - Cotton">
+    <id>47033A</id>
+    <locale lang="EN">
+      <title>Fantastic Night Dreams: Cotton</title>
+      <synopsis>Fantastic Night Dreams: Cotton is a 2D side-scrolling shooter in which the player takes the role of the young witch Cotton, who sets out on her magical broom on a quest to get her favorite candy. Fortunately for us her obsession gets her in the way of several world-threatening terrors that she must destroy in standard shooter fare.
+
+The game features an experience-earning system in which the more enemies the player kills the more he can upgrade his weapon by collecting power crystals. Players can also charge their weapon for special attacks and enlist the aid of Silk, Cotton's magical fairy friend who can form up in different "option" configurations.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Fantastic Night Dreams Cotton est un jeu de tir en 2D à défilement latéral dans lequel le joueur prend le rôle de la jeune sorcière Cotton, qui se lance sur son balai magique dans une quête pour obtenir ses bonbons préférés. Heureusement pour nous, son obsession la met dans la voie de plusieurs terreurs menaçantes qu'elle doit détruire.
+
+Le jeu dispose d'un système d'expérience dans lequel plus le joueur tue d'ennemis plus il peut améliorer son arme avec les cristaux de puissance recueillis. Le joueur peut également charger ses armes pour des attaques spéciales.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Success Corp.</developer>
+    <publisher>SNK Europe Ltd.</publisher>
+    <date year="2000" month="03" day="23"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Fantasy World Dizzy Pocket">
+    <id>124429</id>
+    <locale lang="EN">
+      <title>Fantasy World Dizzy Pocket</title>
+Demo
+      <genre>Demo</genre>
+    </locale>
+    <publisher>Soft'n Fuzzy</publisher>
+    <date year="2004" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+Public Domain
+  </game>
+  <game name="Faselei!">
+    <id>47034A</id>
+    <locale lang="EN">
+      <title>Faselei!</title>
+      <synopsis>Faselei! is one of the last titles to be released for the Neo Geo Pocket Color and even features digitised lyrics to the game's main theme. Heavily story driven, this strategy RPG takes place in a time when mechs known as TS are the weapon of choice for combat. Gameplay revolves around the battles and customising your TS between those battles.
+
+Battles are part turn based and part realtime. The player inputs their actions at the beginning of the turn. The amount of actions they can input is dependant on their type of TS. Once they have finished their selection everything is played out in realtime for the duration of the turn. This makes thinking about what your opponents and allies will do in advance essential before taking your turn.</synopsis>
+      <genre>Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Faselei! est un Tactical RPG developpé par Sacnoth et publié par SNK pour la NGPC.
+Ce jeu est l'un des rare titres sur NGPC à beneficier d'un theme musical comprenant des voix.
+En terme de gameplay, on est sur un mix d'elements RPG et de simulation Tactique de bataille.
+Le joueur control le mecha "Toy Solider" de Sho, à l'aide de commandes predeterminés sur un terrain quadrillé.
+Les actions sont en 2 temps, une partie en tours par tours pour la selection des actions, puis une seconde partie en temps reel pour l'accomplissement des differentes actions.
+Plusieurs options et possibilités d'optimisation sont disponible et necessitent une preparation minutieuse en fonction des combats à venir.
+Les differentes bases (equivalent des villes) permettent d'accomplir des quetes annexes, d'acheter des items et surtout de sauvegarder.</synopsis>
+      <genre>Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie</genre>
+    </locale>
+    <developer>Sacnoth</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="12" day="22"/>
+    <rating type="NOTE" value="17">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Fatal Fury - First Contact">
+    <id>47035A</id>
+    <locale lang="EN">
+      <title>Fatal Fury: First Contact</title>
+      <synopsis>Using the world-famous Japanese "SD" (Super-Deformed) artwork style, this is the only title of the Fatal Fury series to be released on SNK's color handheld.
+
+The game is based on its arcade/console counterpart Real Bout Fatal Fury 2: The Newcomers, and has its main characteristics, like the possibility of execute special moves while blocking (a.k.a. Breakshots), the execution of high-strength blows (a.k.a. S. Power and P. Power moves) and the starring of two new combatants (Li Xiangfei and Rick Strowd).
+
+Due to NGPC hardware limitations, some characters have been removed from the main cast (as well as the background/foreground battle plane system). With this, the fighters initially available for this contest are: Andy Bogard, Terry Bogard, Joe Higashi, Mai Shiranui, Kim Kaphwan, Ryuji Yamazaki, Rick Strowd, Li Xiangfei, Billy Kane, Wolfgang Krauser and Geese Howard.</synopsis>
+      <genre>Fight</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Combate</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Fatal Fury: First Contact est un "Pocket-Remix" de Real Bout Fatal Fury 2, gardant quasiment l'integralité du gameplay original, les personnages et les decors.
+First Contact inclu aussi un personnage unique : Lao (Le combattant qui essui une defaite contre Xiangfei et Rick dans l'animation d'intro de RBFF2), jouable uniquement en mode VS.
+C'est le 2eme jeu de combat à etre porté specifiquement pour la NGP et nous gratifie d'une qualité graphique avec un "chibi-style" impressionant, tant au niveau des sprites que des artworks.
+SNK nous fourni ici un excellent travail de conversion car on garde les memes sensations de jeu qu'avec RBFF2, les personnalités et coups des protagonistes sont quasi intactes et le passage en mode "chibi" est reussi.</synopsis>
+      <genre>Combat</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Kampf</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="04" day="30"/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Flight Of Ares">
+    <id>124431</id>
+    <locale lang="EN">
+      <title>Flight of Ares</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Soldan, Jeffrey</publisher>
+    <date year="2005" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Fuztris">
+    <id>124432</id>
+    <locale lang="EN">
+      <title>Fuztris</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Soft'n Fuzzy</publisher>
+    <date year="2004" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Game And Watch">
+    <id>124433</id>
+    <locale lang="EN">
+      <title>Game and Watch</title>
+    </locale>
+    <publisher>Torlus</publisher>
+    <date year="2004" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Ganbare Neo Poke-kun">
+    <id>47036A</id>
+    <locale lang="EN">
+      <title>Ganbare Neo Poke-kun</title>
+      <synopsis>In this unique game you keep watch on the wacky Neo Poke-kun, a cartoony programmer...thing that lives locked in his small Tokyo apartment. You don't have direct control of his actions but instead interact with him indirectly by switching stuff in his apartment on and off, which triggers different reactions from him. More importantly you can invite different characters to visit Neo Poke-kun, which will also trigger different reactions from him. Depending on the time of day and the visitor you may get different reactions from Poke-kun, and if you make him happy enough he'll get to work and code a mini-game for you.
+
+These collection of 30 games form the bulk of the gameplay, and include different clones of other games, shooters, short platformers, and compact puzzle challenges similar to Wario Ware
+
+The game has a distinctly bizarre sense of humor with tons of wacky animations played whenever something happens to your Poke-kun, and while some games use basic vector graphics, most use 2D sprites.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ganbare Neo Poke-Kun est un jeu de simulation, reservé au marché japonais et developpé pour la NGPC. Il est directement inspiré de l'histoire videoludique.
+On a 2 modes de jeu bien distinct. L' "Observation Mode" qui consiste essentiellement à observer Neo Poke-Kun dans son studio (reference à "Little Computer People", qui inspira bien plus tard "les Sims"), lui amener des visiteurs et le distraire en lui jetant des objets sur la tete.
+Le second mode, quand a lui, propose de jouer à plusieurs mini-jeux inventés par Neo Poke-Kun (souvent des parodies de jeux existant comme "Pong" ou "Breakout") tant que celui est heureux.
+Les jeux, simples et rapides au depart, se complexifies rapidement pour parcourir tous les genres (combats, shoot, simulation, etc...). Le jeu utilise l'horloge interne de la console pour reguler le rythme de Neo Poke-Kun (Sa phase de sommeil, de travail, etc...)</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Ganbare Neo Poke Kun</title>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Infinity Cure">
+    <id>87557A</id>
+    <locale lang="EN">
+      <title>Infinity Cure</title>
+      <synopsis>A port of the visual novel "Infinity" for the Neo-Geo Pocket Color</synopsis>
+      <genre>Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>"Infinity Cure" est le port NGPC du jeu "Never 7: The End of Infinity" sorti initialement sur Playstation le 23 mars 2000 sous le nom d'"Infinity".
+Dans ce jeu nous suivons Makoto, un des nombreux etudiants present dans le pavillon qui sert de decor et qui utilise son 6e sens pour prevenir de desastres.</synopsis>
+      <genre>Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Abenteuer</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Infinity Cure</title>
+    </locale>
+    <developer>KID Corp.</developer>
+    <publisher>KID Corp.</publisher>
+    <date year="2000" month="11" day="23"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Invader">
+    <id>124434</id>
+    <locale lang="EN">
+      <title>Invader</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Slanina, Tomasz</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Jim Bagley's Ngpc Game Pack">
+    <id>124435</id>
+    <locale lang="EN">
+      <title>Jim Bagley's NGPC Game Pack</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Bagley, Jim</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Joust">
+    <id>124437</id>
+    <locale lang="EN">
+      <title>Joust</title>
+    </locale>
+    <publisher>Ahchay, Chris</publisher>
+    <date year="2003" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Jumpy!">
+    <id>124436</id>
+    <locale lang="EN">
+      <title>Jumpy!</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Monkey Heeded Software</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Juno First">
+    <id>124438</id>
+    <locale lang="EN">
+      <title>Juno First</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Ahchay, Chris</publisher>
+    <date year="2002" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="King Of Fighters R-2">
+    <id>47038A</id>
+    <locale lang="EN">
+      <title>King of Fighters R-2</title>
+      <synopsis>Using again the Japanese "SD" (Super-Deformed) artwork style (now reworked), the KOF Series makes your debut in the new SNK's color handheld. The title brings the same gameplay characteristics present in its arcade/console counter-part The King of Fighters '98, like the possibility of choose between two game modes (Advanced or Extra), an identical adaptation of the battle stages, the addition of "Advantage System" (directly related to the power gauges) and the chance to battle with a powered version of the "franchise boss", Rugal Bernstein.
+
+Unlike the previous game (The King of Fighters R-1), this sequence doesn't have a defined storyline, but it's implicit that Rugal is still alive and returns once again to try conquer the world and satisfy his evil ambitions.
+
+The teams included in the game were slightly reformulated and now are the following ones (this time, Leona Heidern and Iori Yagami are single entries):
+
+1. Team Kusanagi (Kyo Kusanagi, Saisyu Kusanagi and Shingo Yabuki)Super Babe Team (Athena Asamiya, Yuri Sakazaki and Kasumi Todo)
+2. New Southtown Team (Ryo Sakazaki, Mai Shiranui and Terry Bogard)
+3. Orochi Team (Yashiro Nanakase, Shermie and Chris)</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>En utilisant à nouveau le style japonais "SD" (Super-Deformed) (amélioré), la série KOF fait ses débuts sur la nouvelle console portable de SNK. Le titre apporte les mêmes caractéristiques de gameplay que son homologue arcade / console The King of Fighters '98, comme la possibilité de choisir entre deux modes de jeu (Advanced ou Extra), une adaptation identique des étapes de combats, l'ajout de " Advantage System "(directement lié aux jauges de puissance) et la chance de se battre avec une version motorisée du "franchise boss", Rugal Bernstein.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Koi Koi Mahjong">
+    <id>87559A</id>
+    <locale lang="EN">
+      <title>Koi Koi Mahjong</title>
+    </locale>
+    <locale lang="ES">
+      <genre>Mahjong,Juegos de mesa asiático</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>"Koi Koi Mahjong" est une simulation de Mahjong, reservé au marché japonnais.
+Le joueur peux choisir entre 4 protagonistes et 3 modes de jeu.</synopsis>
+      <genre>Mahjong,Jeu de societe asiatique</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Mahjong,Asiatische Brettspiele</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Mahjong,Jogo de tabuleiro Asiático</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Koi Koi Mahjong</title>
+    </locale>
+    <developer>Visco</developer>
+    <publisher>Visco</publisher>
+    <date year="2000" month="03" day="09"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Last Blade - Beyond the Destiny">
+    <id>47064A</id>
+    <locale lang="EN">
+      <title>The Last Blade - Beyond the Destiny</title>
+      <synopsis>1863. History's hidden secret is revealed. During the age known as "Bakumatsu", 135 years ago, chaos rules! It's all yours: A new type of weapon fighting game in which Power and Speed weapons, in addition to various Repel moves can be used to experience a new sensation in video game thrills!</synopsis>
+      <genre>Fight,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Combate,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>A la premiere prise en main, on a l'impression d'etre avec une adaptation du 1er "The Last Blade" porté sur NGPC. Puis à l'instar de "SNK vs Capcom" le joueur gagne des points qui peuvent etre depensé pour debloquer d'autres personnages, des mini-jeux, des fin alternatives, etc...
+Grace a ces differents bonus, on se retrouve tres rapidement avec un "nouveau" jeu et une rejouabilité accru!
+De plus le jeu a reussi a garder, de maniere quasi intact, le gameplay specifique a la serie des "The Last Blade" sur AES/MVS.</synopsis>
+      <genre>Combat,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Kampf,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Luta,Ação</genre>
+    </locale>
+    <developer>Saurus</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="03" day="16"/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Magical Drop Pocket">
+    <id>87560A</id>
+    <locale lang="EN">
+      <title>Magical Drop Pocket</title>
+      <synopsis>Magical Drop Pocket's core mechanics are similar to those of Magical Drop III. The only exception is that that the battlefield consists of six columns instead of seven, akin to the Super Famicom ports of the first two Magical Drop games.
+
+The game features Story, Self Challenge and Friend Challenge; these correspond to the standard 1P VS Com, Solo, and 2P VS modes featured in other Magical Drop games. Story features five difficulty modes while Self Challenge features three.
+
+Like many other handheld puzzle games of the time, Story does not feature a "true" AI opponent; instead, the player attempts to fill a gauge by creating chains. While the player attempts to fill this gauge, the AI attacks at random intervals.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Magical Drop Pocket est un jeu de réflexion, développé par SAS Sakata et publié par Data East au Japon en 1999.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <developer>SAS Sakata</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="06" day="24"/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Manic Miner By Lindon Dodd">
+    <id>109075</id>
+    <locale lang="EN">
+      <title>Manic Miner Starring Miner Willy</title>
+    </locale>
+    <publisher>Dodd, Lindon</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Maze">
+    <id>124440</id>
+    <locale lang="EN">
+      <title>Maze</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Siebold, Jeff</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Memories Off - Pure">
+    <id>87561A</id>
+    <locale lang="EN">
+      <title>Memories Off - Pure</title>
+      <synopsis>Memories Off: Pure game takes place a few years prior to the events in Memories Off. (a Visual Novel released in 1999 on Playstation) 
+Tomoya and Ayaka are neighbors who communicate with each other through their bedroom windows and who attend the same junior high school with Yue. 
+One playthrough of Pure takes about 3-4 hours, but it has replay value through a pair of endings and during subsequent runthroughs to re-experience second-half scenarios from Ayaka's and Yue's points of view.</synopsis>
+      <genre>Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Memories Off: Pure est une prequel aux evennement present dans Memorie Off. (Un "Visual Novel" sorti en 1999 sur Playstation)
+On suit les relations de Tomoya et Ayaka, des voisins, qui communique ensemble atravers leur fenetre de chambre. De plus ils sont dans la meme ecole que Yue (3eme protagoniste)
+L'histoire principale de Pure prend entre 3 et 4 heures de jeu, mais la rejouabilité est mise en avant par le biais de fins alternatives et portion d'histoire vus par d'autres personnage (Ayaka et Yue)</synopsis>
+      <genre>Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Abenteuer</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Memories Off - Pure</title>
+    </locale>
+    <developer>Kid</developer>
+    <publisher>Kid</publisher>
+    <date year="2000" month="04" day="27"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Metal Slug 1st Mission">
+    <id>47040A</id>
+    <locale lang="EN">
+      <title>Metal Slug 1st Mission</title>
+      <synopsis>As a member of the elite forces squad "Peregrine Falcons," your mission is to eliminate the evil Colonel Bildegaarn. Using the Metal Slug multifunction tank and the Slug Flyer as well as your wits and handgun blast through up to 17 missions in your quest to make the world safe from tyranny. Multiple stage progressions and a gameplay ranking system give reason to play through more than once. In-game save lets the player on the go turn off the Neo Geo Pocket and not lose progress.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>En tant que membre de l'Unité des Forces d'Elites "Peregrine Falcons", vous avez le devoir d'eliminer le diabolique Colonel Bildegaarn.
+C'est avec l'aide du tank multitache "Metal Slug" ainsi que du "Slug Flyer", de votre Blaster et de votre dexterite que vous pourrez vous frayer un chemin au travers des 17 missions qui vous permettrons de sauvez le monde de la tyrannie.
+La contruction des stages et le gameplay invite a la rejouabilité par le biais d'une progression echelonné et de "ranking"
+La sauvegarde en jeu laisse la possibilité au joueur d'eteindre la console et de reprendre sa partie sans perdre ses acquis.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Ukiyotei Company, Ltd.</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="05" day="27"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Metal Slug 2nd Mission">
+    <id>47041A</id>
+    <locale lang="EN">
+      <title>Metal Slug 2nd Mission</title>
+      <synopsis>Take control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force "Phantom." Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Prenez le contrôle du réservoir Metal Slug sur le NGPC une fois de plus, cette fois pour vaincre la force de frappe rebelle "Phantom". Voyagez à travers 38 champs de batailles non-linéaire pour vaincre les troupes ennemies et sauver les otages. Pilotez le tank Metal Slug, le jet de combat Slug Flyer et le sous-marin Slug Sub et tirez à la mitrailleuse lourde, le lance-roquettes et le canon.
+Une liste d'otages sauvés et un mode time attack ajoutent de la profondeur à cette version.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Ukiyotei Company, Ltd.</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="03" day="09"/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mezase! Kanji Ou">
+    <id>87562A</id>
+    <locale lang="EN">
+      <title>Mezase! Kanji Ou</title>
+      <synopsis>A kanji-study game with a quiz-like approach.</synopsis>
+      <genre>Educational</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Un juego de aprendizaje de kanji, en un estilo de test de preguntas y respuestas</synopsis>
+      <genre>Educacional</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Jeu educatif de Kanji composé uniquement de questions avec 4 choix de reponses.</synopsis>
+      <genre>Ludo-Educatif</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Lernspiel</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="01" day="20"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mine">
+    <id>124441</id>
+    <locale lang="EN">
+      <title>Mine</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Mackintosh, Ivan</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mizuki Shigeru No Youkai Shashinkan">
+    <id>87563A</id>
+    <locale lang="EN">
+      <title>Mizuki Shigeru no Youkai Shashinkan</title>
+      <synopsis>This is an RPG based on the works of the famous manga artist Shigeru Mizuki, known in Japan for his knowledge of youkai (supernatural ghosts of Japanese folklore). In this game, you explore various areas of Japan, taking pictures of youkai, and using these pictures in card battles. This is a very popular game among Japanese NGPC enthusiasts.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>RPG avec comme toile de fond les travaux du celebre mangaka Shigeru Mizuki, renommé au Japon pour ses connaissances en Youkai (Fantome du folklore japonais).
+Dans ce jeu, le hero parcours le Japon pour prendre les Youkai en photo et les utiliser dans des batailles de cartes.
+Ce jeu fut tres populaire au sein des pocesseurs de la NGPC.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>Mizuki Shigeru no Youkai Shashinkan</title>
+    </locale>
+    <developer>Ukiyotei</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="12" day="29"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mr. Do!">
+    <id>124442</id>
+    <locale lang="EN">
+      <title>Mr. Do!</title>
+    </locale>
+    <publisher>Mackintosh, Ivan</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Multi Game Menu">
+    <id>109079</id>
+    <locale lang="EN">
+      <title>Multi Game Menu</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Bagley, Jim - Mackintosh, Ivan</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Neo 21 - Real Casino Series">
+    <id>87564A</id>
+    <locale lang="EN">
+      <title>Neo 21 - Real Casino Series</title>
+      <synopsis>Neo 21 is a casino-style blackjack game that offers three modes of play: Casino Mode, Original Mode, and Versus mode. As a casino style game, it supports all the actions that players sitting at a casino blackjack table can perform.
+
+Blackjack, also known as "twenty-one," is a card game where players attempt to put together a hand that adds up to as close to 21 in total points without going over. Aces count for one or eleven, face cards count for ten, and the other cards count as their respective values.
+
+At the beginning of each hand, the dealer deals each player, including the dealer, two cards. Each round players can opt to hit, stand, split or double down. When a player calls for a hit, the dealer deals another card. A player who stands is dealt no more cards for the rest of the hand. Players who get dealt two cards of the same value can split them, put another wager down and play both as individual hands. Doubling down is the act of calling for one last hit, and doubling your wager at the same time. Any player who goes over 21 in value busts and loses.
+
+In Neo 21, players engage in a one-on-one match against a CPU dealer, or in the Versus Mode, two players can compete via the link cable, with one acting as the dealer.</synopsis>
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Neo 21 est un jeu de casino axé exclusivement sur le Blackjack.
+3 modes de jeu sont disponible : Casino Mode, Original Mode et VS Mode.
+Le jeu gere correctement toutes les actions permises au Blackjack.
+Le but du jeu est d'etre le plus proche de 21 sans pour autant depasser ce score (l'As vaut 1 ou 11, les figures 10 et le reste la valeur indiqué)
+Le gameplay est une partie de Blackjack avec toutes les options disponible (Tirer une carte "hit", Passer "Stand", Doubler la mise "double down" et Partager "split")
+
+Les partie sont soit en 1 contre 1 soit contre l'IA qui joue le croupier, soit contre un joueur a l'aide du cable link NGP, avec l'un des joueur en croupier.</synopsis>
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Casino</genre>
+    </locale>
+    <developer>Dyna Corp.</developer>
+    <publisher>Dyna Corp</publisher>
+    <date year="1999" month="12" day="29"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Neo Baccarat - Real Casino Series">
+    <id>87565A</id>
+    <locale lang="EN">
+      <title>Neo Baccarat - Real Casino Series</title>
+      <synopsis>Experience the Thrills of NEO BACCARAT, the New Game in the Pocket Casino Series!
+
+Will the House win? Or maybe the Player? Guess on the winner and place your bets! "Baccarat" is the hottest game in the casino. And now you can find all its pulse-pounding excitement on NEOGEO POCKET COLOR! The Pocket Casino Series: NEO BACCARAT. Are you up for the challenge?!
+
+Thrill to the fun of "Original Mode" and "Casino Mode" in Single-Player Games!
+Use the NEOGEO POCKET LINK CABLE for 2-Player Showdowns!
+Be it American- or European-Style Baccarat, NEOGEO POCKET's got it!
+
+To see explanations of game rules, select the "Game Explanation" item in the Option Menu.</synopsis>
+      <genre>Casino,Casino / Cards</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Casino,Casino / Cartas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Goutez aux sensations forte avec NEO BACCARAT, le nouveau jeu de la serie "Pocket Casino Series!"
+Devinez le gagnant entre la Banque et le Joueur et placez vos paris! "Baccarat" le jeu elitiste du casino est maintenant sur NGPC. Etes vous pret à relever le defi?
+3 modes de jeu disponible : Original, Casino et Versus (a l'aide du cable link)
+Les styles Americain et Europeen du Baccarat sont tous 2 representés!
+
+Les regles peuvent etre consultés dans le Menu d'option sous l'appelation : "Game Explanation"</synopsis>
+      <genre>Casino,Casino / Cartes</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Casino,Casino / Karten</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Cassino,Cassino / Cartas</genre>
+    </locale>
+    <developer>Dyna Corp.</developer>
+    <publisher>Dyna Corp.</publisher>
+    <date year="2000" month="06" day="16"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Neo Cherry Master Color - Real Casino Series">
+    <id>87566A</id>
+    <locale lang="EN">
+      <title>Neo Cherry Master Color - Real Casino Series</title>
+      <synopsis>Experience the play of actual casino gaming! Feel the fun of ultra-real slot machine game simulation!!
+	
+"Cherry Master", the slot machine popular in casinos throughout the world becomes part of the NEOGEO POCKET COLOR. With the vivid screen and the system of no different from the real thing, making for real, adult gaming entertainment!
+
+Includes 2 modes for that tantalizing taste of slot machine gaming! (Original mode for professionals / Simple Mode for beginners)</synopsis>
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Neo Cherry Master Color est un jeux de casino, de Bandit Manchot pour etre precis, de la serie de jeux "Real Casino Serie" pour NGPC.
+1 seule machine de disponible, en 3 slots. Quelques mini jeux permettent de changer les symboles qui apparaissent sur les slots.
+Le but du jeu est de passer de 99 credits (la mise de base) a 9999 credits!</synopsis>
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Casino</genre>
+    </locale>
+    <developer>Dyna Corp.</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="03" day="19"/>
+    <rating type="NOTE" value="20">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Neo Derby Champ Daiyosou">
+    <id>87567A</id>
+    <locale lang="EN">
+      <title>Neo Derby Champ Daiyosou</title>
+      <synopsis>Neo Derby Champ Daiyosou is a Sports game, developed and published by Dyna Corporation, which was released in Japan in 1999.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Neo Derby Champ Daiyosou est un jeu de course de chevaux, developpé et publié par Dyna Corporation et sorti en 1999 au Japon</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>Neo Derby Champ Daiyosou</title>
+    </locale>
+    <publisher>Dyna</publisher>
+    <date year="1999" month="04" day="22"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Neo Dragon's Wild - Real Casino Series">
+    <id>87568A</id>
+    <locale lang="EN">
+      <title>Neo Dragon's Wild - Real Casino Series</title>
+      <synopsis>The super authentic Poker game simulation!!
+
+The popular casino poker game for NEOGEO POCKET! This system can be enjoyed by everyone: from enthusiasts who enjoy casino game realism, to casino game novices. Now you can enjoy true game excitement with Neo Dragon's Wild - the new pocket casino game!
+
+Beginners can select Simple Mode for easier game settings.
+Skilled players can choose Original Mode to enjoy real poker with authentic feel.</synopsis>
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Casino</genre>
+    </locale>
+    <publisher>SNK</publisher>
+    <date year="1999" month="03" day="19"/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Neo Fantasy">
+    <id>124443</id>
+    <locale lang="EN">
+      <title>Neo Fantasy</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Davis, Darek J.</publisher>
+    <date year="2003" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Neo Mystery Bonus - Real Casino Series">
+    <id>87569A</id>
+    <locale lang="EN">
+      <title>Neo Mystery Bonus - Real Casino Series</title>
+      <synopsis>Neo Mystery Bonus, while not the most fully featured slots game around, is quick and simple to get into. Like most other slots games You start by placing your bet then spin the slots and test your luck. The graphics are plain and depict the different icons on the machine very clearly. There are no extra modes in the game, just basic slots.</synopsis>
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Casino</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Casino</genre>
+    </locale>
+    <publisher>SNK</publisher>
+    <date year="1999" month="03" day="19"/>
+    <rating type="NOTE" value="19">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Neo Poke Pro Yakyuu">
+    <id>87570A</id>
+    <locale lang="EN">
+      <title>Neo Poke Pro Yakyuu</title>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes / Béisbol,Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Sport / Baseball,Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport / Baseball,Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Esporte / Baseball,Esporte</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Neo Poke Pro Yakyuu</title>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="05" day="27"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Neo Turf Masters">
+    <id>47043A</id>
+    <locale lang="EN">
+      <title>Neo Turf Masters</title>
+      <synopsis>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</synopsis>
+      <genre>Sports,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Neo Turf Masters est un jeu de golf, Le joueur choisit l'un des six golfeurs disponibles et participe à un certain nombre de parcours de golf à travers le monde, y compris le Japon (Fujiyama Oriental Golf Club), l'Amérique (Grand Canyon Golf Course), l'Australie (Blue Lagoon Golf Course) et l'Allemagne (Baden Golf Cours). Le jeu comporte deux modes de jeu. Le premier est le Stroke Play, dans lequel le joueur tente d'obtenir le meilleur score en jouant les 18 trous. La deuxième est Match Play, dans lequel deux joueurs concourent pour voir qui peut gagner plus des 18 trous.</synopsis>
+      <genre>Sport,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Esporte,Ação</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="17">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Neo Yahtzee">
+    <id>124444</id>
+    <locale lang="EN">
+      <title>Neo Yahtzee</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Davis, Darek J.</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Neodaleks!">
+    <id>124445</id>
+    <locale lang="EN">
+      <title>NeoDaleks!</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Dodgson, Harry</publisher>
+    <date year="2003" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Neogeo Cup '98 Plus">
+    <id>47042A</id>
+    <locale lang="EN">
+      <title>NeoGeo Cup '98 Plus</title>
+      <synopsis>Neo Geo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans le mode story vous choisissez une équipe parmi les meilleures au monde avec l'objectif de remporter la fameuse Neo Geo Cup. Cela n'est toutefois pas de tout repos et remporter le titre demandera de longues heures de match intense.nnChaque rencontre vous donnera droit a un certain nombre de points qui pourront ensuite êtres utilisés dans la boutique, ce qui ajoute un petit côté RPG non négligeable. Acheter des shorts, crampons, maillots et plein d'autre objets parmi une sélection donnée augmenteront les capacités de votre équipe selon plusieurs critères et rendra vos joueurs plus rapides ou adroits devant le but.
+
+Le jeu est également disponible sur Neo Geo Pocket.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK Corporation of America</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Neotris">
+    <id>124446</id>
+    <locale lang="EN">
+      <title>Neotris</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Julien, Loic</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Neotris - The Grand Carnage">
+    <id>124447</id>
+    <locale lang="EN">
+      <title>Neotris - The Grand Carnage</title>
+    </locale>
+    <publisher>Sleipnir</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Ngpc War">
+    <id>124448</id>
+    <locale lang="EN">
+      <title>NGPC War</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+    <publisher>Public Domain</publisher>
+  </game>
+  <game name="Nigeronpa">
+    <id>87571A</id>
+    <locale lang="EN">
+      <title>Nigeronpa</title>
+      <genre>Role-Playing</genre>
+      <synopsis>Nigeronpa is an RPG for the Neo-geo Pocket Color. Set in the magical world of Nigeronpa, where humans and devilmen coexist, you, as the player, must attract and hire party members in order to survive.
+
+Nigeronpa is set on the rather appropriately named world of Nigeronpa, a place inhabited by magical humans and devilmen. The game features a high degree of customizability, as at the beginning of each game, the player is required to build their own character. Whatever they end up constructing will have a direct impact on the game, which uses a system of reputation points to determine just who can be added to the player's party. The more reputation points, the more likely it is that additional characters can be hired; if confidence in the player dips too low, they may leave the party.</synopsis>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de rol</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Jeu de rôles</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rollenspiele</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Nige-ron-pa</title>
+    </locale>
+    <publisher>Dennou Eizou</publisher>
+    <date year="2000" month="11" day="23"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>SNK</developer>
+  </game>
+  <game name="Olaf">
+    <id>124449</id>
+    <locale lang="EN">
+      <title>Olaf</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Julien, Loic</publisher>
+    <date year="2004" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Pac-man">
+    <id>47044A</id>
+    <locale lang="EN">
+      <title>Pac-Man</title>
+      <synopsis>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+
+Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.
+
+Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
+
+Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Namco</developer>
+    <publisher>Namco - SNK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pachi-slot Aruze Oukoku Pocket - Azteca">
+    <id>87573A</id>
+    <locale lang="EN">
+      <title>Pachi-Slot Aruze Oukoku Pocket - Azteca</title>
+    </locale>
+    <locale lang="JA">
+      <title>Pachisuro Aruze Oogkoku Pocket - Azteca</title>
+    </locale>
+    <publisher>Aruze</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pachi-slot Aruze Oukoku Pocket - Dekahel 2">
+    <id>87574A</id>
+    <locale lang="EN">
+      <title>Pachi-Slot Aruze Oukoku Pocket - Dekahel 2</title>
+    </locale>
+    <locale lang="JA">
+      <title>Pachisuro Aruze Oogkoku Pocket - Dekahel</title>
+    </locale>
+    <publisher>Aruze</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pachi-slot Aruze Oukoku Pocket - Delsol 2">
+    <id>87575A</id>
+    <locale lang="EN">
+      <title>Pachi-Slot Aruze Oukoku Pocket - Delsol 2</title>
+    </locale>
+    <locale lang="JA">
+      <title>Pachisuro Aruze Oogkoku Pocket - Oelsol</title>
+    </locale>
+    <publisher>Aruze</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pachi-slot Aruze Oukoku Pocket - E-cup">
+    <id>87576A</id>
+    <locale lang="EN">
+      <title>Pachi-Slot Aruze Oukoku Pocket - e-Cup</title>
+    </locale>
+    <locale lang="JA">
+      <title>Pachisuro Aruze Oogkoku Pocket - e-Cup</title>
+    </locale>
+    <publisher>Aruze</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pachi-slot Aruze Oukoku Pocket - Hanabi">
+    <id>87577A</id>
+    <locale lang="EN">
+      <title>Pachi-Slot Aruze Oukoku Pocket - Hanabi</title>
+    </locale>
+    <locale lang="JA">
+      <title>Pachisuro Aruze Oogkoku Pocket - Hanabi</title>
+    </locale>
+    <publisher>Aruze</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pachi-slot Aruze Oukoku Pocket - Oohanabi">
+    <id>87578A</id>
+    <locale lang="EN">
+      <title>Pachi-Slot Aruze Oukoku Pocket - Oohanabi</title>
+    </locale>
+    <locale lang="JA">
+      <title>Pachisuro Aruze Oogkoku Pocket - Oohanabi</title>
+    </locale>
+    <publisher>Aruze</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pachi-slot Aruze Oukoku Pocket - Porcano 2">
+    <id>87579A</id>
+    <locale lang="EN">
+      <title>Pachi-Slot Aruze Oukoku Pocket - Porcano 2</title>
+    </locale>
+    <locale lang="JA">
+      <title>Pachisuro Aruze Oogkoku Pocket - Adventure of Porc</title>
+    </locale>
+    <publisher>Aruze</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pachi-slot Aruze Oukoku Pocket - Ward Of Lights">
+    <id>87580A</id>
+    <locale lang="EN">
+      <title>Pachi-Slot Aruze Oukoku Pocket - Ward of Lights</title>
+    </locale>
+    <locale lang="JA">
+      <title>Pachisuro Aruze Oogkoku Pocket - Ward of Lights</title>
+    </locale>
+    <publisher>Aruze</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pachinko Hisshou Guide - Pocket Parlor">
+    <id>87581A</id>
+    <locale lang="EN">
+      <title>Pachinko Hisshou Guide - Pocket Parlor</title>
+    </locale>
+    <locale lang="JA">
+      <title>Pachinko Hissyou Guide Pocket Parlor</title>
+    </locale>
+    <publisher>Sankyo</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Party Mail">
+    <id>87582A</id>
+    <locale lang="EN">
+      <title>Party Mail</title>
+    </locale>
+    <locale lang="JA">
+      <title>Party Mail</title>
+    </locale>
+    <publisher>ADK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Oekaki Puzzle">
+    <id>87572A</id>
+    <locale lang="EN">
+      <title>Picture Puzzle</title>
+      <synopsis>Picture Puzzle (Oekaki Puzzle in Japan) is a paint-by-numbers puzzle game developed by Success for the Neo Geo Pocket Color. The game plays identical to Nintendo's Picross series. Picture Puzzle offers a total of 200 puzzles: 20 5x5 puzzles, 105 10x10's, and 75 15x15's. This is biased towards smaller puzzles because the grids in anything larger would be incredibly tiny on the NGPC's screen. Also, larger puzzles take much longer to solve; smaller puzzles allows you to pick up the Pocket for 10-20 minutes at a time and, on a good day, solve a complete puzzle.
+
+Upon completion of a puzzle, the game replaces it with a colored version of the same grid and gives it a title. Especially with the smaller puzzles, this is helpful in that it is sometimes otherwise unclear as to what exactly the completed picture is supposed to be. Because it colorizes them, the game requires the Neo Geo Pocket Color, i.e, it won't run on a monochrome Neo Geo Pocket.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Oekaki Pazuru</title>
+    </locale>
+    <developer>Success</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="06" day="16"/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Plink!">
+    <id>124451</id>
+    <locale lang="EN">
+      <title>Plink!</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Soft'n Fuzzy</publisher>
+    <date year="2004" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Pocket Love If">
+    <id>87583A</id>
+    <locale lang="EN">
+      <title>Pocket Love if</title>
+    </locale>
+    <locale lang="JA">
+      <title>Pocket Love - If</title>
+    </locale>
+    <publisher>Kid</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pocket Reversi">
+    <id>87584A</id>
+    <locale lang="EN">
+      <title>Pocket Reversi</title>
+      <synopsis>Pocket Reversi is a Miscellaneous game, developed and published by Success, which was released in Japan in 2000.</synopsis>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Pocket Reversi</title>
+    </locale>
+    <developer>Success</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="01" day="27"/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pocket Tennis Color - Pocket Sports Series">
+    <id>87585A</id>
+    <locale lang="EN">
+      <title>Pocket Tennis Color - Pocket Sports Series</title>
+      <synopsis>This sports favorite boasts eight playable characters and enough tennis action to keep any fan happy. Enjoy realistic play that gives you complete array of shots, including lobs, high-speed smashes and more. Exhibition mode sets up a single match against the computer, or, with the NeoGeo Cable Link (sold separately), a friend. Tournament mode pits you against stiff competition to see if you've got what it takes to earn the title. Save your match results so you can brag later. Record mode lets you relax and enjoy your on-court accomplishments by viewing your records and trophies.</synopsis>
+      <genre>Sports / Tennis,Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes / Tenis,Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Pocket Tennis un jeu de tennis basique avec deux modes de jeu: Exposition et tournoi.
+
+Exposition est un match unique contre l'ordinateur ou un autre adversaire (nécessite un câble de liaison). Il existe huit personnages avec des compétences différentes et quatre différents terrains (cinq dans la version en couleur). La durée des matchs peut également être sélectionnée (1, 3 ou 5).
+
+Le tournoi se joue seulement contre l'ordinateur. Le joueur peut choisir son personnage mais pas son adversaire. Trois matchs seront disputés: quart de finale, demi-finales et bien sûr la finale.</synopsis>
+      <genre>Sport / Tennis,Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport / Tennis,Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Esporte / Tênis,Esporte</genre>
+    </locale>
+    <developer>Yumekobo</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="04" day="30"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pocketrace">
+    <id>124452</id>
+    <locale lang="EN">
+      <title>PocketRace</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Thor</publisher>
+    <date year="2002" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Pocketron">
+    <id>124453</id>
+    <locale lang="EN">
+      <title>Pocketron</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Torlus</publisher>
+    <date year="2004" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Prize Game - Pp-aa01 Pusher Program">
+    <id>87586A</id>
+    <locale lang="EN">
+      <title>Prize Game - PP-AA01 Pusher Program</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Puyo Pop">
+    <id>87587A</id>
+    <locale lang="EN">
+      <title>Puyo Pop</title>
+      <synopsis>The object of this head-to-head puzzle game is to clear your grid of falling patterns called puyos by forming chains of four or more same-colored puyos in a straight line or one of several geometric patterns. What makes this a challenging two-player contest is the fact that when you clear a chain of puyos from your grid, it drops a random piece of filler onto your opponent's grid. The more puyos you clear, the more you fill your opponent's grid, and if you can clutter up his grid enough to fill it to the top, you've won the game.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <developer>Compile</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="09" day="30"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Puzzle Gems">
+    <id>124454</id>
+    <locale lang="EN">
+      <title>Puzzle Gems</title>
+Demo
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Thor</publisher>
+    <date year="2003" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+Public Domain
+  </game>
+  <game name="Puzzle Link">
+    <id>47046A</id>
+    <locale lang="EN">
+      <title>Puzzle Link</title>
+      <synopsis>Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.
+
+There are three different modes: In "Normal" you have to link two special blocks that appear after some time. If you manage to finish the level within the time limit you will unlock one of 50 collectible cards. In "Clear Mode" you have to clear a given constellation of blocks. "Battle Mode" is a two player link-cable mode.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <developer>Yumekobo Co., Ltd.</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="09" day="30"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Puzzle Link 2">
+    <id>47047A</id>
+    <locale lang="EN">
+      <title>Puzzle Link 2</title>
+      <synopsis>The gameplay of Puzzle Link 2 is generally identical to the first game: Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.
+
+There are new modes in Puzzle Link 2. Like the original, there are the standard challenge and puzzle rounds. But new to the series is the marathon-style game where you continue eliminating pieces as the game gradually increases speed. In this mode, more power-ups appear as the player performs faster. Here, you get three shots that will eliminate the same color tile from the board. The game also has link cable support for two players.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <developer>Yumekobo Co., Ltd.</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Renketsu Puzzle Tsunagete Pon! Color">
+    <id>87589A</id>
+    <locale lang="EN">
+      <title>Renketsu Puzzle Tsunagete Pon! Color</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Robotron - 2084">
+    <id>124455</id>
+    <locale lang="EN">
+      <title>Robotron - 2084</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Rockman Battle And Fighters">
+    <id>87590A</id>
+    <locale lang="EN">
+      <title>RockMan Battle &amp; Fighters</title>
+      <synopsis>Rockman Battle &amp; Fighters is a fighting game similar to the two arcade titles Mega Man: The Power Battle, and Mega Man 2: The Power Fighters. 
+Playing as one of four characters (Mega Man, Proto Man, Bass, and Duo), the player chooses between three sets of boss battles with various Robot Masters from the series.
+The battles are fought linearly in any order, and after each boss is defeated, a special weapon is added to the player's arsenal. 
+Each boss is weak to one specific weapon, so the player is encouraged to strategize the order in which the bosses are faced. 
+Two players can use a link cable to transfer database information between systems, but no co-op or versus play is supported.</synopsis>
+      <genre>Fight</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Combate</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Rockman Battle &amp; Fighters est un jeu de combat qui reprend le gameplay des 2 titres de la serie sortie sur arcade, Mega Man: The Power Battle et Mega Man 2: The Power Fighters.
+On choisi l'un des 4 protagonistes disponible (Mega Man, Proto Man, Bass, and Duo), puis l'un des 3 regroupements de Boss provenant des divers jeux de la serie Mega Man. 
+On enchaine les combats de Boss dans l'ordre choisi, chaque victoire donnant droit à une arme speciale, utilisable lors des prochains combats.
+Chaque adversaire est doté d'une faiblesse à une arme en particulier, donc l'ordre des combats est à reflechir consciencieusement au préalable.
+Le transfert d'information est possible entre 2 NGPC et le cable adecquat, mais pas de mode de jeu pour 2 joueurs.</synopsis>
+      <genre>Combat</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Kampf</genre>
+    </locale>
+    <locale lang="JA">
+      <title>Rockman - Battle &amp; Fighters</title>
+    </locale>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <date year="2000" month="07" day="06"/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Same Game">
+    <id>124456</id>
+    <locale lang="EN">
+      <title>Same Game</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Samurai Shodown 2">
+    <id>47048A</id>
+    <locale lang="EN">
+      <title>Samurai Shodown II</title>
+      <synopsis>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Shanghai Mini">
+    <id>47049A</id>
+    <locale lang="EN">
+      <title>Shanghai Mini</title>
+      <synopsis>Shanghai Mini is a release for one more platform in the for ever continuing series of Activision's tile matching game. 
+
+Included are classic, tournament and dynasty modes. Classic is normal game with six different board layouts. In tournament game player challenges the Tower of Shanghai and tries to beat the Shanghai Master by solving different board layouts within time limit. Dynasty is two player competition - against computer or human (requires link cable) opponent.</synopsis>
+      <genre>Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Shinki Sekai Evolution - Hateshinai Dungeon">
+    <id>87591A</id>
+    <locale lang="EN">
+      <title>Shinki Sekai Evolution - Hateshinai Dungeon</title>
+    </locale>
+    <locale lang="JA">
+      <title>Shinki Sekai Evolution - Hateshinai Dungeon</title>
+    </locale>
+    <publisher>ESP - Sega</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Shougi No Tatsujin Color">
+    <id>87592A</id>
+    <locale lang="EN">
+      <title>Shougi no Tatsujin Color</title>
+    </locale>
+    <locale lang="JA">
+      <title>Master of Syougi Color</title>
+    </locale>
+    <publisher>ADK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Shufflepuck Cafe By Loic Julien">
+    <id>109080</id>
+    <locale lang="EN">
+      <title>Shufflepuck Cafe Beta 2</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Julien, Loic</publisher>
+    <date year="2002" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snake By Ivan Mackintosh">
+    <id>109081</id>
+    <locale lang="EN">
+      <title>Snake</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Mackintosh, Ivan</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Snk Gals Fighters">
+    <id>47050A</id>
+    <locale lang="EN">
+      <title>SNK Gals Fighters</title>
+      <synopsis>Organized and sponsored by a mysterious fighter nicknamed as "Miss X", the first Queen of Fighters Tournament is officially open, but this competition differs of the others for allowing ONLY women as participants. Meanwhile, after have passed for several and tough fights (including a final showdown with Miss X), the winner will be rewarded with a mystical artifact known as the "K Talisman", that has the capacity to grant any wish. With this rare-unique possibility of accomplish their pessoal dreams and ambitions, 8 powerful femme fatale fighters were invited to face the biggest combat of their lives...
+
+Behind this simple storyline, the title brings a cast of 8 all-female characters taken from SNK's fighting series The King of Fighters (Mai Shiranui, Yuri Sakazaki, Athena Asamiya, Leona Heidern, Shermie), The Last Blade (Akari Ichijyou) and Samurai Shodown (Shiki, Nakoruru); all with the same blows (parodied or not) of their origin games.
+
+The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run commands), but without SDMs. To increase the replay factor, a power-up mode was included: depending on your combat performance, you'll be favored with several random items (e.g. Start with full MAX gauge, Speed Up etc.) that can be used to improve your character for a while.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ce jeu est une exclusivité Neo Geo Pocket Color et par conséquent est destiné à une niche de joueurs. Si l'idée de base est plutôt osée mais sympa (un jeu de combats composé uniquement des personnages féminnins les plus célèbres de la firme), elle n'est malheureusement pas bien exploitée à cause d'un roster beaucoup trop faible (seulement dix personnages) et donc d'une durée de vie très limitée. Où sont donc passées Blue Mary, Vice, Mature, Jenet, Hotaru, King, Kasumi, Vanessa, Chizuru, Cham Cham, Yuki, Rosa, Benimaru, Charlotte (cherchez l'erreur)?... En clair, c'est un petit jeu sans prétention, vraiment dispensable mais qui a le mérite d'être original. Mais préférez-lui tout de même SNK vs Capcom sur la même console si vous avez le choix car il est bien plus complet et intéressant.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Yumekobo Co., Ltd.</developer>
+    <publisher>SNK</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snk Vs. Capcom - Card Fighters 2 - Expand Edition">
+    <id>87593A</id>
+    <locale lang="EN">
+      <title>SNK vs. Capcom - Card Fighters 2 - Expand Edition</title>
+      <synopsis>SNK vs. Capcom: Card Fighter's Clash 2 Expand Edition continues the mascot packed trading card game action that began with the original.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>SNK vs. Capcom - Card Fighters Clash 2 - Expand Ed</title>
+    </locale>
+    <publisher>Capcom - Moto Kikaku - SNK</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snk Vs. Capcom - Gekitotsu Card Fighters">
+    <id>87594A</id>
+    <locale lang="EN">
+      <title>SNK vs. Capcom - Gekitotsu Card Fighters</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snk Vs. Capcom - Gekitotsu Card Fighters - Snk Supporter Version">
+    <id>87595A</id>
+    <locale lang="EN">
+      <title>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Sup</title>
+    </locale>
+    <locale lang="JA">
+      <title>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Ver</title>
+    </locale>
+    <publisher>Capcom - Moto Kikaku - SNK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snk Vs. Capcom - Card Fighter's Clash - Capcom Version">
+    <id>47051A</id>
+    <locale lang="EN">
+      <title>SNK vs. Capcom: Card Fighter's Clash - Capcom Vers</title>
+      <synopsis>Compete in the SC Card Fighters' Clash tournament with your Capcom deck in this NGPC card game. Collect the 300 cards from both SNK and Capcom franchises and duel and trade with your friends using the extensive link mode. With mechanics similar to CCGs such as Yu-Gi-Oh and popular characters from both SNK and Capcom, Card Fighters clash offers both collection and strategy gameplay. This game also allows linking with SNK vs. Capcom: Match of the Millennium to transfer collectible points.</synopsis>
+      <genre>Strategy,Role playing games</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Estrategia,Juegos de rol</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Stratégie,Jeu de rôles</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie,Rollenspiele</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Estratégia, Jogos de RPG</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>Capcom - Moto Kikaku - SNK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snk Vs. Capcom - Card Fighter's Clash - Snk Version">
+    <id>47052A</id>
+    <locale lang="EN">
+      <title>SNK vs. Capcom: Card Fighter's Clash - SNK Version</title>
+      <synopsis>Compete in the SC Card Fighters' Clash tournament with your SNK deck in this NGPC card game. Collect the 300 cards from both SNK and Capcom franchises and duel and trade with your friends using the extensive link mode. With mechanics similar to CCGs such as Yu-Gi-Oh and popular characters from both SNK and Capcom, Card Fighters clash offers both collection and strategy gameplay. This game also allows linking with SNK vs. Capcom: Match of the Millennium to transfer collectible points.</synopsis>
+      <genre>Strategy,Role playing games</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Estrategia,Juegos de rol</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Stratégie,Jeu de rôles</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie,Rollenspiele</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Estratégia, Jogos de RPG</genre>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>Capcom - Moto Kikaku - SNK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snk Vs. Capcom - The Match Of The Millennium">
+    <id>47053A</id>
+    <locale lang="EN">
+      <title>SNK vs. Capcom: The Match of the Millennium</title>
+      <synopsis>With 18 starting characters (26 total after unlocking), numerous battle modes and varied minigames, this may be the largest fighting game for the Neo Geo Pocket Color. Choose the fighting style that suits you from the available Single, Tag and Team modes. The SC Olympic mode grants access to minigames from a music game featuring Felicia to a whack-a-mole style game with Jubei. The Olympic mode also allows players to compete for gold, silver and bronze medals in various fighting challenges. Link features include NGPC-to-NGPC battles and NGPC-to-Dreamcast data exchange with other SNK titles.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>SNK vs. Capcom : The Match of the Millennium est un jeu de combat sur Neo Geo Pocket Color. Il permet de choisir entre 18 combattants de SNK ou de Capcom dans une version "super deformed", sachant que 8 autres sont accessibles en finissant le mode solo. D'autres options de jeu sont disponibles, permettant de jouer à deux en mode Tag ou encore de prendre part à des mini-jeux appelés Olympics.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Capcom</developer>
+    <publisher>Capcom - SNK</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Sod Chess">
+    <id>124457</id>
+    <locale lang="EN">
+      <title>SOD Chess</title>
+    </locale>
+    <publisher>Thor</publisher>
+    <date year="2002" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Solitaire">
+    <id>124458</id>
+    <locale lang="EN">
+      <title>Solitaire</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Mackintosh, Ivan</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Sonic The Hedgehog - Pocket Adventure">
+    <id>47054A</id>
+    <locale lang="EN">
+      <title>Sonic the Hedgehog : Pocket Adventure</title>
+      <synopsis>Sonic the Hedgehog Pocket Adventure, or Sonic Pocket Adventure for short, is a 1999 platform video game in the Sonic the Hedgehog series developed by SNK. It was released in December 1999 in North America, and May 2000 in Japan, exclusively for the Neo Geo Pocket Color handheld game console. It is also only the second game of the Sonic series ever to be released on a non-Sega video game console, the first being Sonic Jam on the Game.com. The game was praised by critics, receiving perfect scores from multiple reviews.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Sonic the Hedgehog : Pocket Adventure est la première apparition du hérisson bleu sur une plate-forme autre que SEGA, et cela se passe sur Neo Geo Pocket Color. Comme à l'accoutumée, Eggman veut s'emparer des Chaos Emeralds pour dominer le monde, à vous de l'en empêcher à travers les niveaux inspirés des toutes premières aventures du hérisson sur Megadrive, mais reprenant aussi le look des Sonic Adventure.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Assuma o controle de Sonic pelo caminho com Sonic Pocket Adventure. Percorra 9 zonas atacando robôs e coletando anéis. Além da jogabilidade tradicional do Sonic, este cartucho possui os modos Trial Room, Duel Room e Puzzle Room. No Puzzle Room, o jogador pode organizar "peças de quebra-cabeça" coletadas através das fases e desbloquear imagens ocultas. Para facilitar a jogabilidade no portátil, você pode reiniciar seu jogo em qualquer zona desbloqueada ou ato. Da mesma forma este jogo apresenta vários níveis de dificuldade e a opção de desativar o limite padrão de tempo de 10 minutos em cada fase.</synopsis>
+    </locale>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <date year="1999" month="11" day="30"/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Soreike!! Hanafuda Doujou">
+    <id>87596A</id>
+    <locale lang="EN">
+      <title>Soreike!! Hanafuda Doujou</title>
+    </locale>
+    <locale lang="JA">
+      <title>Soreike!! Hanafuda Doujou</title>
+    </locale>
+    <publisher>Dyna</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Spacies By Jim Bagley">
+    <id>109082</id>
+    <locale lang="EN">
+      <title>Space Invaders</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Bagley, Jim</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Squall">
+    <id>109084</id>
+    <locale lang="EN">
+      <title>Squall</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+    <publisher>Public Domain</publisher>
+  </game>
+  <game name="Super 12 In 1 [p1][!]">
+    <id>109086</id>
+    <locale lang="EN">
+      <title>Super 12 in 1</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <publisher>Unknown</publisher>
+  </game>
+  <game name="Super Real Mahjong - Premium Collection">
+    <id>87597A</id>
+    <locale lang="EN">
+      <title>Super Real Mahjong - Premium Collection</title>
+    </locale>
+    <locale lang="JA">
+      <title>Super Real Mahjong - Premium Collection</title>
+    </locale>
+    <publisher>Seta - SNK</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Sykowar">
+    <id>124459</id>
+    <locale lang="EN">
+      <title>Sykowar</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Kasprzak, Mike</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="King of Fighters - Battle de Paradise, The">
+    <id>87558A</id>
+    <locale lang="EN">
+      <title>The King of Fighters - Battle de Paradise</title>
+      <synopsis>The King of Fighters: Battle De Paradise is a board based, two player party game that plays in a similar manner as sugoroku. The player can either link with another user to play or challenge the CPU. Each side choose one of four original characters to represent their place on the board as well as an accompanying Striker character (the Extra Strikers from The King of Fighters '99: Evolution). If they're unsatisfied with their avatar's name, an option to rename their character is also given.
+
+Players roll a dice and move along the board with various squares. Specially marked squares can trigger one of many mini-games for the player's striker to participate in for coins. Mini-games themselves are a collection of memory games, dodging contests, quiz challenges, and other games common to the genre. Some of these mini-games refer to SNK's older games such as T.A.N.K or previous King of Fighters titles. The main goal of the game is to gather coins to buy stars; the player with the most stars wins.</synopsis>
+      <genre>Board game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de mesa</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>"The King of Fighters: Battle de Paradise", plus generalement appele "KOF: Battle de Paradise", est une simulation de jeu de plateau. On retrouve le meme style graphique que pour SNK vs. Capcom: Card Fighters Clash.
+Le jeu est pour 2 joueurs (VS CPU ou VS Player avec 2 NGPC reliés) et se joue a la maniere d'un "sugoroku" (equivalent du Backgammon).
+On selectionne d'abord son Hero parmi les 4 proposés et un Striker (les meme que ceux present dans KOF '99 : Evolution sur Dreamcast)
+Les joueurs jettent un dé et deplacent differents pions sur le plateau. Les pions "speciaux" permettent de declancher des mini-jeux qui font souvent reference à de vieilles licences SNK.
+Le but du jeu est de gagner un maximum d'etoiles (que l'on peut acheter grace a la monnaie gagné dans le jeu)
+On peut aussi gagner des points en utilisant des cartes speciales qui affectent le deroulement du jeu.</synopsis>
+      <genre>Jeu de societe / plateau</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Brettspiele</genre>
+    </locale>
+    <locale lang="JA">
+      <title>The King of Fighters - Battle de Paradise</title>
+    </locale>
+    <publisher>SNK</publisher>
+    <date year="2000" month="07" day="06"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Thieves By Ivan Mackintosh">
+    <id>109087</id>
+    <locale lang="EN">
+      <title>Thieves</title>
+      <genre>Demo</genre>
+      <synopsis>This is a homebrew demo.</synopsis>
+    </locale>
+    <publisher>Mackintosh, Ivan</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Public Domain</developer>
+  </game>
+  <game name="Tpaint">
+    <id>109348</id>
+    <locale lang="EN">
+      <title>Tpaint</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Tsunagete Pon! 2">
+    <id>87598A</id>
+    <locale lang="EN">
+      <title>Tsunagete Pon! 2</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+</datafile>

@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+	<WiiTDB version="201812061554" games="36"/>
+	<game name="1941 - Counter Attack">
+		<id>39873A</id>
+	<locale lang="EN">
+	<title>1941: Counter Attack</title>
+	<synopsis>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>La precuela de "1942", al igual que los otros juegos de la saga "194x", es un shooter de arriba hacia abajo situado en la Segunda Guerra Mundial. Uno o dos jugadores controlan un P-38 (para el jugador 1) o un Mosquito (para el jugador 2), disparando aviones enemigos y naves. Al igual que en los juegos anteriores, un botón dispara el arma del avión (que es ampliable mediante la recopilación de power-ups que dejan los enemigos) y el otro lanza el ataque especial del avión, destruyendo todo en la pantalla (o causar daño adicional a los jefes, situados al final de cada nivel). La munición regular es infinita, mientras que las armas mejoradas tienen munición limitada. Cuando se mantiene pulsado el botón de disparo, una barra en la parte inferior de la pantalla se carga y un tiro especial puede ser puesto en libertad, que varía en vigor del arma que estés empleando. El avión tiene una barra de vida que se inicia con tres puntos. Cada disparo recibido o ataque especial utilizado consumirá un punto de vida. El jugador ganará nuevos puntos de vida al final de los niveles o recogiendo algunos power-ups. Otros power-ups disponibles son la invocación de aviones auxiliares y aviones fantasmas. Tres continues se pueden utilizar, y un punto se añade a la puntuación cuando se utiliza uno de ellos (una característica introducida por primera vez por este juego y luego copiada por otros shoot-em-ups).</synopsis>
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>1941 est la suite directe de 1943 sorti sur la génération précédente de borne. Sur cps1, capcom nous livre un joli lifting de son shoot à scroling vertical. les graphismes n'ont pas vieilli, la variété est au rendez-vous, les décors se renouvelle tout au long des niveaux. 
+6 petits niveaux seulement, c'est là son principal défaut, le titre se fini assez rapidement, la difficulté n'est pas énorme pour les habitué de schumps. On y revient volontiers le temps d'une petite partie quand on a une vingtaine de minute libre.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up / Vertikal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>O objetivo é derrubar aviões inimigos e coletar power-ups de armas (POW). Só é capaz de executar três loops por nível e um bônus é concedido no final do nível para loops não utilizados.
+O Jogador 1 usa um P-38 Relâmpago e o Jogador 2 usa um Mosquito MkIV. O jogo muda da configuração original da Pacific Front com a da Western Front.
+O jogo consiste em seis níveis.
+Foi o primeiro shoot 'em up para adicionar +1 ao placar quando um continue é usado.</synopsis>
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1990" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Adventure Quiz Capcom World 2">
+		<id>40781A</id>
+	<locale lang="EN">
+	<title>Adventure Quiz Capcom World 2</title>
+	<synopsis>Capcom World 2 - Adventure Quiz is a Japanese quiz game.</synopsis>
+	<genre>Quiz,Quiz / Japanese</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Juego de preguntas con el mundo Capcom como tema. nnTiras un dado, pisas un plato, respondes preguntas, ganas dinero si respondes bien, pierdes una oportunidad si cometes un error. nnEl juego es en japonés, totalmente imposible para los que no hablan japonés.</synopsis>
+	<genre>Quiz,Quiz / Japonés</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Une espèce de jeu de l'oie ayant pour thème le monde de Capcom. 
+On lance un dès, on avance sur un plateau, on répond à des question, on empoche de l'argent si on réponds bien, on perd une chance si on se trompe. 
+Le jeu est en japonais, totalement injouable pour ceux ou celles qui ne maîtrisent pas cette langue.</synopsis>
+	<genre>Quiz,Quiz / Japonnais</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Quiz,Quiz / Japanisch</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Adventure Quiz: Capcom World 2 é um jogo de perguntas lançado exclusivamente no Japão pela Capcom em 1992 como um videogame operado por moedas. Foi o vigésimo jogo lançado pela Capcom para o seu hardware CP System, bem como o quinto jogo de perguntas da Capcom para o arcade</synopsis>
+	<genre>Quiz,Quiz / Japonês</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Capcom World 2</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1992" month="" day=""/>
+		<rating type="NOTE" value="10">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Cadillacs And Dinosaurs">
+		<id>37360A</id>
+	<locale lang="EN">
+	<title>Cadillacs and Dinosaurs</title>
+	<synopsis>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Cadillacs and Dinosaurs (conocido en Japón como Cadillacs Kyouryuu Shin Seiki) es un videojuego arcade de 1992 editado por Capcom. Es un beat 'em up basado en el cómic Xenozoic Tales creado por Mark Schultz durante los 80. Tras el juego se produjo una serie de televisión, aunque no tuvo demasiado éxito. Además el videojuego de Capcom no tiene ninguna relación con dicha serie ya que se basa enteramente en los cómics
+
+La jugabilidad es similar a otros beat'em up de scroll lateral, como Streets Of Rage o Final Fight. Una característica de este juego es el frecuente uso de armas de fuego, raramente vistas en juegos de este tipo, en los que se suelen ver únicamente armas como botellas o cuchillos. También destaca el nivel en el que debemos manejar a nuestro personaje conduciendo un vehículo.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Cadillacs and Dinosaurs se joue comme beaucoup de titres du genre, le joueur progresse en faisant face à des vagues successives d'ennemis composées de truands et de dinosaures. Pour se défendre chaque personnage possède une palette de coups et de projections qui lui est propre ainsi qu'une attaque spéciale puisant dans la jauge de vie. De nombreuses armes sont disponibles, celles-ci allant de la simple planche en bois aux armes à feu.Il existe également des passages où le joueur se retrouve au volant d'une Cadillac et dont le but est de renverser un maximum d'ennemis tout en évitant divers obstacles.</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Cadillacs and Dinosaurs é um jogo de beat 'em up para arcade lançado em 1993 pela Capcom e baseado nos quadrinhos Xenozoic Tales de Mark Schultz. 
+Após inúmeros desastres naturais causados pela poluição, a humanidade entra em colapso e os sobreviventes são obrigados a viver por séculos em cidades subterrâneas. Ao voltar para a superfície, no ano de 2513, os humanos descobrem que a Terra foi repovoada por dinossauros, que a princípio eram dóceis e conviviam de forma pacífica com os humanos, até que começaram a sofrer ataques de uma gangue chamada Black Marketers, que caçavam os dinossauros e cometiam outras atrocidades sem motivo aparente. Isso fez com que os dinossauros se tornassem hostis com os humanos e começassem a atacar povoados. A fim de colocar as coisas em ordem novamente, Jack Tenrec, Hannah Dundee, Mustapha Cairo e Mess O'Bradovich decidem juntar-se contra as ações dos Black Marketers e iniciam uma busca aos membros da gangue e seus líderes.</synopsis>
+	</locale>
+	<locale lang="JA">
+	<title>Cadillacs Kyouryuu-Shinseiki</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1993" month="" day=""/>
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="3">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Captain Commando">
+		<id>37358A</id>
+	<locale lang="EN">
+	<title>Captain Commando</title>
+	<synopsis>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>El Capitán Comando se encuentra en un futuro lleno de crímenes en el año 2026, donde un superhéroe llamado Capitán Comando, asistido por sus tres fieles Compañeros de Comando, se levanta para proteger la Tierra y toda la Galaxia de una pandilla de criminales superpoderosos.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>A la belle époque du système CPS-1, Capcom nous a souvent servi des beat them all à la sauce Final Fight avec une licence de Comics célèbre. Et Captain Commando est un de ceux-là. Pas de réel storyboard ni d 'adaptation précise (un super méchant veux régner sur le monde et notre super héros vient à la rescousse), ce jeu est surtout un défouloir très soigné au niveau de la réalisation accompagné d un gameplay bien rodé (Capcom n'étant pas un novice dans le genre du beat them all).</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Captain Commando se passa em futuro assustador no ano de 2026, onde um super-herói chamado Capitão Comando, auxiliado por seus três companheiros de comando, se levanta para proteger a Terra e toda a Galáxia de um bando de criminosos superpotentes.</synopsis>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1991" month="" day=""/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="4">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Carrier Air Wing">
+		<id>37359A</id>
+	<locale lang="EN">
+	<title>Carrier Air Wing</title>
+	<synopsis>Carrier Air Wing / U.S. Navy is a horizontally-scrolling shoot-em-up for one or two players set in the 1990s, a decade of great change marked by growing friendships between old enemies and never before seen levels of co-operation between powerful nations of the world. However, in 1997, using new weapons designed in secrecy, the Middle Eastern country of 'Rabu' threatens to destroy this new and fragile peace. 
+
+Players chose to pilot any one of three different jet fighters and must battle their way through ten enemy-packed stages. Each fighter has a fuel bar which is full at the start of each stage but gradually decreases, additional fuel is lost each time the fighter takes damage from an enemy.</synopsis>
+	<genre>Shoot'em up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Carrier Air Wing / U. S. Navy es un juego de disparos de desplazamiento horizontal para uno o dos jugadores establecido en los años 90, una década de grandes cambios marcados por la amistad creciente entre viejos enemigos y niveles nunca antes vistos de cooperación entre las naciones poderosas del mundo. Sin embargo, en 1997, utilizando nuevas armas diseñadas en secreto, el país de Oriente Medio de "Rabu" amenaza con destruir esta paz nueva y frágil. nnnnLos jugadores optaron por pilotar cualquiera de los tres aviones de caza diferentes y deben luchar su camino a través de diez etapas repletas de enemigos. Cada luchador tiene una barra de combustible que está llena al principio de cada etapa pero disminuye gradualmente, se pierde combustible adicional cada vez que el luchador recibe daño de un enemigo.</synopsis>
+	<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Carrier Airwing est né d'une époque bénie de l'Arcade. Capcom n'a presque jamais raté de jeu sur ses bornes CPS et CPS2, d'une part parce que les mêmes routines étaient tout le temps utilisées ? tous les titres tournant sur ces systèmes partagent une apparence graphique et un style sonore très similaires ? mais aussi grâce au talent incontestable du développeur dans le domaine de l'action pure et dure.
+Au premier coup d'?il, cette suite de U.N Squadron / Area 88 a l'aspect d'un shoot'em up à scrolling horizontal tout à fait ordinaire. On ne se rendra pleinement compte de son intérêt qu'à une seule condition : ne s'autoriser qu'un seul crédit par partie, seule méthode efficace pour retrouver le stress inhérent à la jouabilité de cette époque. Le niveau de difficulté minimal, par défaut celui de M.A.M.E, est abordable. Le plus élevé est humainement impossible, mais il y a suffisamment de degrés intermédiaires pour trouver challenge à sa mesure.</synopsis>
+	<genre>Shoot'em up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>A década de 1990 foi uma década de grande mudança marcada por amizades crescentes entre antigos inimigos e um nível de cooperação nunca antes visto entre as nações poderosas do mundo. No entanto, em 1997, usando novas armas projetadas em segredo, um país do Oriente Médio chamado Rabu ameaçou destruir esta frágil paz. O objetivo de Rabu, junto com seus aliados, é expurgar o mundo do pecado e forçar uma nova moralidade. Rabu rapidamente reivindicou o Oriente Médio, então espalhou-se tanto no sul da Ásia e partes da Europa. Seu armamento é terrivelmente eficiente na manufatura da morte. Eles pareciam imparáveis. Quando eles intoxicaram Tóquio com gás em 1999, a intervenção dos EUA tornou-se inevitável. Se Rabu conseguir utilizar as fábricas do Japão, não haverá fim para o pesadelo. Esperando proteger a paz mundial, o USS Carl Vinson (CVN-70) dirige-se para o mar.</synopsis>
+	<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="JA">
+	<title>U.S. Navy</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1990" month="" day=""/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Dynasty Wars">
+		<id>41078A</id>
+	<locale lang="EN">
+	<title>Dynasty Wars</title>
+	<synopsis>This game is a side-scrolling beat-em-up based on Japanese manga books of the same name and is a re-enactment of the historical battles between the Kingdom of Shu and the Yellow Turban rebels. Up to two players assume the roles of one of the four Chinese generals riding on horseback whose goal is to wipe out the 'Huang Ching', the organization responsible for the unrest of the Han Dynasty, and to eventually defeat the tyrant, Dong Zhuo.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Este es un juego de desplazamiento lateral basado en un manga japones del mismo nombre y es una representación de las batallas históricas entre el reino de Shu y los rebeldes del Turbante Amarillo. Hasta dos jugadores asumen el papel de uno de los cuatro generales chinos que cabalgaban a caballo, cuyo objetivo es acabar con el "Huang Ching", la organización responsable de los disturbios de la dinastía Han, y acabar derrotando al tirano Dong Zhuo.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>La Chine Impériale.... L'épée est tranchante et le sang ne cesse de couler.La dynastie des Han a été renversée par les seigneurs de la guerre et ces derniers ne connaissent que la violence. Quatre courageux guerriers ont uni leurs forces pour défier ces rebelles barbares dans leur quête vers la suprématie. Sélectionnez un guerrier, sautez sur votre cheval, et préparez vous à galoper tout au long de 8 niveaux d'action frénétique... Et devenez le héros du chapitre le plus sanglant de l'histoire...</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>O objetivo dos jogadores é acabar com o Huang Ching, a organização responsável pela preocupação da Dinastia Han, e até dois jogadores podem lutar lado a lado para alcançar este objetivo. Este jogo sempre rola para a direita. Os jogadores devem ser capazes de sobreviver às hordas rebeldes para alcançar e matar o general rebelde em cada fase para libertar a província.</synopsis>
+	</locale>
+	<locale lang="JA">
+	<title>Tenchi wo Kurau</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1989" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Final Fight">
+		<id>37362A</id>
+	<locale lang="EN">
+	<title>Final Fight</title>
+	<synopsis>Final Crash is a bootleg of Capcom's "Final Fight"</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Final Fight es un videojuego  beat-em-up de 1989 desarrollado por Capcom. Es el primero de la serie de Final Fight.La historia se desarrolla en Metro City, una ciudad asolada por el crimen organizado en los años noventa. Su alcalde Mike Haggar, un antiguo Street Fighter, recibe una llamada misteriosa, que le anuncia que su hija Jessica ha sido secuestrada, y le pide que encienda la televisión. Haggar la enciende y descubre que se trata de Damnd, un cabecilla de la banda de Mad Gear. Ayudado por Guy y Cody Travers, amigos de la infancia de su hija, se dirigen a los suburbios, al Oeste de la Ciudad, donde se encuentra Damnd con Jessica, bloqueándose la entrada, junto con unos esbirros, y unos barriles de metal. Los dos personajes realizan su ataque especial para romper los obstáculos y empiezan el juego. pueden jugar   uno o dos jugadores.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Dans les années 1990, Metro City est rongée par le crime et la violence. Nouvellement élu maire, l'ancien catcheur professionnel Mike Haggar est décidé à éliminer les gangs qui font régner la terreur sur sa ville. Afin de l'en empêcher, Mad Gear, une puissante organisation criminelle, enlève sa fille Jessica et tente de le corrompre.Haggar n'étant pas si facilement impressionnable, il contacte alors Cody, le petit ami de Jessica, et Guy, tous deux rompus aux arts martiaux et au combat de rue. Les trois hommes décident de se faire justice eux-mêmes, et s'enfoncent dans les bas quartiers de Metro City à la recherche de Jessica. Tout comme Street Fighter II qui révolutionnera, deux ans plus tard, le genre du jeu de combat, Final Fight devient à sa sortie en 1989 le nouveau mètre étalon du beat them all, au détriment de la série Double Dragon.Le système de jeu est basé sur deux boutons : un pour les coups, l'autre pour le saut. En appuyant simultanément sur les deux boutons, le personnage effectue un coup spécial qui lui permet de se débarrasser d'un grand nombre d'ennemis à la fois, au prix d'une légère perte d'énergie. La progression dans les niveaux se fait de gauche à droite, mais également en profondeur. Chaque niveau se termine par un inévitable boss. Il est également possible de ramasser des armes (couteau, tuyau et katana), mais aucune arme à feu n'est disponible, bien que certains boss en soient équipés.Le jeu propose un mode multi-joueurs à deux joueurs en simultané.</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Final Fight pode ser jogado por até dois jogadores simultaneamente, com cada jogador controlando um personagem diferente. Antes do jogo começar, o jogador escolhe entre os três personagens principais, Guy, Cody e Haggar, cada um com seu próprio estilo de luta e atributos. Guy é o mais fraco, mas tem ataques mais rápidos, Haggar é o mais forte, mas também o mais lento, e Cody tem todos os atributos.
+
+Final Fight consiste em seis etapas ou "rodadas", bem como duas rodadas de bônus. Cada rodada tem lugar em uma seção diferente de Metro City, como as favelas e do metrô, com a maioria das rodadas com mais de um nível. No final de cada rodada, o jogador enfrentará um personagem de chefe exclusivo dessa rodada.</synopsis>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1989" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Forgotten Worlds">
+		<id>37363A</id>
+	<locale lang="EN">
+	<title>Forgotten Worlds</title>
+	<synopsis>The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!</synopsis>
+	<genre>Shoot'em Up,Shoot'em up / Horizontal</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>El planeta solía ser hermoso, con hermosas ciudades y deslumbrantes paisajes. ¡Hasta que los alienígenas atacaron! ¡Con fuego, bombas y napalm devastaron el mundo! Hicieron al planeta tan abominable que se convirtió en un paria en el universo - el Mundo Olvidado. Hasta que tú, el Sin Nombre, aparezcas. Eres un súper guerrero de increíble poder y energía. Tú haces que sea tu responsabilidad reclamar el planeta para sus legítimos dueños, los seres humanos!</synopsis>
+	<genre>Shoot'em Up,Shoot'em Up / Horizontal</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>le jeu se déroule dans un futur lointain, un dieu maléfique connu sous le nom d'Empereur Bios a détruit en quasi-totalité la terre, la transformant ainsi en une étendue désolée connue sous le nom de Dust World (Le Monde de Poussière). Deux super-soldats sans identité sont créés par le peuple pour vaincre Bios et les huit dieux maléfiques qui le servent. Forgotten Worlds se joue à un ou deux joueurs. À l'exception du dernier niveau, vertical, tout le jeu suit un scrolling horizontal. Chaque joueur est dans la peau d'un soldat du futur capable de flotter dans les airs. L'originalité du titre provient du fait que les deux « Sans-Nom » peuvent tirer sur 360 ° autour d'eux et sont équipés d'un satellite indestructible à armement évolutif, qui leur sert à la fois de protection et surtout d'arme secondaire. En fonction des bonus ramassés ou achetés entre deux niveaux, les satellites peuvent être équipés de lasers plus puissants, d'un lance-flammes ou encore de missiles à tête chercheuse.Pour la sortie du jeu sur la console PC-Engine, une manette spéciale à trois boutons fut produite pour l'occasion : L'Avenue Pad 3. Le troisième bouton est tout simplement un second bouton "select" ou "run", au choix. Le jeu reste donc jouable avec les manettes standards à deux boutons.</synopsis>
+	<genre>Shoot'em Up,Shoot'em up / Horizontal</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up,Shoot'em Up / Horizontal</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Forgotten Worlds, é um jogo de rolagem lateral de atirar e correr lançado pela Capcom em 1988. É notável por ser o primeiro Título liberado por Capcom para seu hardware do jogo de arcade do sistema do CP. O jogo levou dois anos para se desenvolver, com um orçamento de produção de US $ 5 milhões.
+
+Situado em um futuro distante, um deus maligno conhecido como Imperador BIOS destruiu a maior parte da Terra, transformando-a em um deserto abandonado conhecido como o "Mundo de Poeira". Dois super-soldados sem nome são criados pelo povo para derrotar BIOS e os oito deuses malignos que o servem.</synopsis>
+	<genre>Shoot'em Up,Shoot'em Up / Horizontal</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Lost Worlds</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1988" month="06" day="01"/>
+		<rating type="NOTE" value="13">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Frog Feast">
+		<id>122981</id>
+	<locale lang="EN">
+	<title>Frog Feast</title>
+	<synopsis>Home Made game. Frog Feast is an adaptation of the Intellvision game "Frog Bog".
+The game concept is pretty simple: 2 Frogs who have to eat as much insects as possible in a limited time.</synopsis>
+	<genre>Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Frog Feast es una adaptación del juego de Intellivision "Frog Bog". El concepto del juego es bastante simple: 2 ranas que tienen que comer tantos insectos como sea posible en un tiempo limitado.</synopsis>
+	<genre>Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>jeu Amateur. Frog Feast est une adaptation d'un jeu intellvision, Frog Bog. le concept est assez simple puisqu'il s'agit de deux grenouilles devant manger le plus d'insectes en un temps imparti.</synopsis>
+	<genre>Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Frog Feast é um jogo caseiro e uma adaptação do jogo para Intellivision "Frog Bog".nnO conceito do jogo é bem simples: 2 rãs que precisam comer o máximo de insetos possível em um tempo limitado.</synopsis>
+	</locale>
+		<developer>Rastersoft</developer>
+		<publisher>Rastersoft</publisher>
+		<date year="2006" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Ganbare! Marine Kun">
+		<id>41385A</id>
+	<locale lang="EN">
+	<title>Ganbare! Marine Kun</title>
+	<synopsis>Ganbare Marin-kun is the final and probably rarest game released on CPS1. I don't know anyone who had even heard of it until it showed up for sale. It's a medal game but along with Tobikose Jumpman and Alien, the best of them I have seen. The music rips off several things including the Indiana Jones theme song.</synopsis>
+	<genre>Shooter,Shooter / 3rd person</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>En Ganbare Marin-kun estás en un submarino y debes eliminar objetivos en la superficie, pero junto con Tobikose Jumpman y Alien, el mejor de ellos que he visto. La música destripa varias canciones incluyendo el tema de Indiana Jones.</synopsis>
+	<genre>Tiro,Tiro / Tiro 3ª persona</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Ganbare Marin-kun est issue d'une borne assez rare de chez Capcom. Vous êtes dans un sous-marin et devez éliminer les cibles en surface.</synopsis>
+	<genre>Tir,Tir / 3eme Personne</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shooter,Shooter / 3rd Pers.</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Ganbare Marin-kun é o último e provavelmente mais raro jogo lançado no CPS1. Eu não conheço ninguém que tenha ouvido falar até que ele apareceu para venda. É um jogo de medalhas, mas junto com Tobikose Jumpman e Alien, os melhores que eu já vi. A música copia várias coisas, incluindo a música tema do Indiana Jones.</synopsis>
+	<genre>Tiro,Tiro / Tiro em 3ª pessoa</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="2000" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Ghouls'n Ghosts">
+		<id>41441A</id>
+	<locale lang="EN">
+	<title>Ghouls'n Ghosts</title>
+	<synopsis>Three years have passed since the events of "Makaimura" and Arthur the knight once again finds himself battling against the hideous creatures of Demon World. The demons have now seized the kingdom and Arthur returns home to witness the castle's lone survivor, his beloved Gunievere, murdered by the king of the demons, Lucifer. Arthur once again embarks on a one-man quest to destroy the demonic invaders and save Gunievere's mortal soul. </synopsis>
+	<genre>Platform,Plateform / Fighter Scrolling</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Han pasado tres años desde los acontecimientos de "Makaimura" y Arthur el caballero una vez más se encuentra luchando contra las horribles criaturas de Demon World. Los demonios ahora se apoderaron del reino y Arthur vuelve a casa para presenciar al único superviviente del castillo, su amado Gunievere, asesinado por el rey de los demonios, Lucifer. Arthur una vez más se embarca en una misión de un solo hombre para destruir a los invasores demoníacos y salvar el alma mortal de Gunievere.</synopsis>
+	<genre>Plataforma,Plataforma / Combate con desplazamiento</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Trois années ont passé depuis les événements de "Ghosts'n Goblins" et le chevalier Arthur se retrouve une fois encore à affronter les horribles créatures de Demon World. Les démons ont cette fois-ci envahi le royaume et à son retour, Arthur est le seul survivant, sa bien-aimé Genièvre ayant été tuée par Lucifer. Arthur embarque une fois de plus dans une quète pour détuire les envahisseurs démoniaques et sauver l'âme de Genièvre.</synopsis>
+	<genre>Plateforme,Plateforme / Fighter Scrolling</genre>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Als Arthur, der beste Schwertkämpfer des ganzes Landes, genießt Du ein hohes Ansehen bei Allen, die Dich kennen. Als jedoch eine ruchlose Kreatur die Prinzessin Guinevere entführt, nimmst Du dies als persönliche Herausforderung an und und schwörst, die holde Maid aus den Fängen des schändlichen Monsters zu befreien und fürchterliche Rache auf all Jene regnen zu lassen, die sich Dir in den Weg stellen.</synopsis>
+	<genre>Plattform,Plattform / Kampf Scrolling</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>O tempo é o passado, quando cavaleiros percorreriam o campo em busca do Santo Graal, defendendo a honra de donzelas e lutando uma batalha sem fim contra as forças desenfreadas do mal. Jogado para este caos, é o corajoso Sir Arthur. Um cavaleiro vitorioso com a incrível tarefa de penetrar o Castelo do Demônio para pulverizar o Príncipe das Trevas.
+Ele pode fazer isso? Você decide.
+Você percorrerá perigosamente o Local de Execução, a Aldeia de Decadência, a Cidade de Fogo ea Floresta de Cristal com um arsenal de armas ao seu lado. E quando você está realmente com sua sorte em baixa, lutas mágicas podem acabar com resultados poderosos. O único problema? Você terá que aprender a usá-laso. E evitá-las. Porque sua magia tem o poder de transformá-lo em um pato indefeso, entre outras coisas. Mas não há muito tempo. Vidas dependem de você. Portanto brande sua espada e faça pedacinhos de seus inimigos.</synopsis>
+	<genre>Plataforma,Plataforma / Combate com rolagem</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Dai Makai-Mura</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1988" month="12" day="01"/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="King Of Dragons, The">
+		<id>37366A</id>
+	<locale lang="EN">
+	<title>The King Of Dragons</title>
+	<synopsis>The King of Dragons is a 1991 side-scrolling hack and slash video game by Capcom that allows players to choose from five characters (Elf, Wizard, Fighter, Cleric, and Dwarf) in order to travel through the kingdom of Malus and defeat the monsters that have taken over, as well as their leader, the red dragon Gildiss. Like Capcom's Knights of the Round, it features a level advancement system, allowing character attributes to be upgraded as players progress through the game. The setting is very similar to that of Dungeons &amp; Dragons and other medieval fantasy worlds, with familiar monsters such as Orcs, Gnolls, Harpies, Wyverns, Cyclopes, and Minotaurs.
+
+The game was ported to the Super NES and released in 1994. An emulated version of the game was released as part of Capcom Classics Collection Vol. 2 and Capcom Classics Collection: Reloaded.</synopsis>
+	<genre>Beat'em Up,Fight / 2.5D,Fight</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>The King of Dragons es un juego de 1991 que permite a los jugadores elegir entre cinco personajes (Elfo, Mago, Luchador, Clérigo y Enano) para viajar por el reino de Malus y derrotar a los monstruos que han asumido el control, así como su líder, el dragón rojo Gildiss. Al igual que Knights of the Round de Capcom, cuenta con un sistema de avance de nivel, permitiendo que los atributos de los personajes sean actualizados a medida que los jugadores avanzan a través del juego. El escenario es muy similar al de Dungeons &amp; Dragons y otros mundos de fantasía medieval, con monstruos familiares como Orcos, Gnomos, Arpías, Wyverns, Cíclopes y Minotauros. El juego fue portado a Super NES y lanzado en 1994. Una versión emulada del juego fue lanzada como parte de Capcom Classics Collection Vol. 2 y Capcom Classics Colección: Reloaded.</synopsis>
+	<genre>Beat'em Up,Combate / 2.5D,Combate</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>The King of Dragons est un beat'em all original qui reprend les éléments classiques de l'heroic fantasy. Le Grand Royaume est en très mauvaise posture : Gildiss, un dragon rouge, ancien et très maléfique, a décidé de l'envahir. Heureusement, une équipe de 5 héros se décide à l'affronter : le rapide elfe et son arc magique, le puissant mage et ses sortilèges, le chevalier tout en force, le prête-guerrier qui progresse vite en puissance et enfin le nain rapide muni de sa fidèle hache. The King of Dragons rappelle fortement Golden Axe ! Il faut dire que le thème du jeu (l'heroic fantasy) et la vue de trois quarts y sont pour beaucoup. Pour changer, les tableaux de The King of Dragons ne sont pas très longs, mais cela est compensé par la difficulté posée par les habituels monstres de fin de niveau. Ces derniers ne sont d'ailleurs pas loin d'être plus nombreux que les monstres que l'on rencontre durant le jeu ! Rappelons qu'il y a 16 niveaux, donc 16 gros monstres !</synopsis>
+	<genre>Beat'em All,Combat / 2.5D,Combat</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up,Kampf / 2.5D,Kampf</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>The King of Dragons é um jogo de 1991, que permite aos jogadores escolher entre cinco personagens (Elfo, Mago, Lutador, Clérigo e Anão) para viajar pelo reino de Malus e derrotar os monstros que assumiram, assim como seu líder, o dragão vermelho Gildiss. Como os Cavaleiros da Távola da Capcom, ele possui um sistema de avanço de nível, permitindo que os atributos de caráter sejam atualizados à medida que os jogadores progridem no jogo. A configuração é muito semelhante à de Dungeons &amp; Dragons e outros mundos de fantasia medieval, com monstros familiares como Orcs, Gnolls, Harpies, Wyverns, Cyclopes e Minotaurs.
+O jogo foi portado para o Super NES e lançado em 1994. Uma versão emulada do jogo foi lançado como parte da Capcom Classics Collection Vol. 2 e Capcom Classics Coleção: Reloaded.</synopsis>
+	<genre>Briga de rua,Luta / 2.5D,Luta</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1991" month="" day=""/>
+		<rating type="NOTE" value="12">
+		</rating>
+		<input players="3">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Knights Of The Round">
+		<id>42020A</id>
+	<locale lang="EN">
+	<title>Knights of the Round</title>
+	<synopsis>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Knights of the Round es un juego de arcade lanzado por Capcom en 1991. Un beat 'em up de desplazamiento lateral basado libremente en la leyenda del Rey Arturo y los Caballeros de la Mesa Redonda, el juego presenta un nivel similar al de un videojuego de rol. sistema de avance, con luchadores que obtienen nuevas armas y armaduras a medida que avanzan en el juego; sin embargo, el jugador no puede elegir cómo actualizar su personaje: el sistema de subir de nivel es estático.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Dans ce beat'em up médiéval, vous pouvez incarner Lancelot, Arthur ou Perceval (jusqu'à trois players simultanés). Nos trois chevaliers devront parcourir plusieurs niveaux d'une beauté rare remplis d'ennemis aussi laids que bien faits. La jouabilité est de mise dans ce jeu, et vous risquez de rester longtemps devant votre écran rien que pour le plaisir des yeux.
+A ne pas manquer !!!</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Knights of the Round é um jogo de arcade lançado pela Capcom em 1991. Um side-scrolling beat 'em up baseado livremente sobre a lenda do Rei Arthur e os Cavaleiros da Tábula Redonda, o jogo apresenta um sistema avançado de melhorias no estilo RPG, com os lutadores obtendo novas armas e armaduras confome avançam através do jogo, no entanto, o jogador não pode escolher como atualizar seu personagem - sistema de melhorias é estático.</synopsis>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1991" month="" day=""/>
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="3">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Magic Sword - Heroic Fantasy">
+		<id>57920A</id>
+	<locale lang="EN">
+	<title>Magic Sword: Heroic Fantasy</title>
+	<synopsis>The land has been cast in darkness by Drokmar, who has been corrupted by the Black Orb; an artefact that promises immortality to anyone who comes under the influence of the orb's powerful sorcery. Tw</synopsis>
+	<genre>Plateform / Fighter Scrolling,Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Magic Sword: Heroic Fantasy, es un juego arcade de fantasía de desplazamiento lateral lanzado por Capcom en 1990. El jugador puede usar una espada, hacha o magia, y también puede rescatar y reclutar aliados potenciales de varias clases de personajes, cada uno de los cuales tiene sus propias habilidades especiales. Tres años antes, Capcom había lanzado el Black Tiger similar en 1987.</synopsis>
+	<genre>Plataforma / Combate con desplazamiento,Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>C'est un jeu à défilement horizontal où vous devez combattre (avec votre épée ou de la magie) des monstres divers pour finir chaque niveau et passer à l'étage supérieur. Vous n'aurez que deux boutons à utiliser : un pour attaquer, l'autre pour sauter. Vous trouverez de nombreux coffres dans lesquels se cachent des objets magiques, de l'énergie, des pièces d'or, des pièges ou encore des clés. Ces dernières vous permettront de libérer des personnages qui vous suivront ensuite (mais seulement un seul à la fois). Et ces personnages (huit différents, la plupart empruntés à l'heroic fantasy) auront leur propre barre d'énergie, leurs propres armes et leur propre expérience. Dans la version console, vous aurez le choix de commencer à différents étages (mais pas plus haut que le 33e) car il n'existe pas de système de sauvegarde. Ce jeu a deux fins : après avoir battu Drokmar, vous décidez, soit de prendre la sphère noire pour diriger le monde, soit de la détruire pour le sauver.</synopsis>
+	<genre>Plateforme / Fighter Scrolling,Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform / Kampf Scrolling,Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Magic Sword: Heroic Fantasy, é um jogo arcade de fantasia de rolagem lateral lançado pela Capcom em 1990. O jogador pode usar uma espada, machado ou magia, e também pode resgatar e recrutar aliados potenciais de várias classes de personagens, cada um dos quais tem suas próprias habilidades especiais. Três anos antes, a Capcom havia lançado o Black Tiger semelhante em 1987.
+
+Magic Sword se passe em um mundo sem nome, que está sendo ameaçado pelo senhor das trevas Drokmar, que tem controle sobre um cristal maligno conhecido como o "Orbe Negro", que lhe permitiria governar o mundo. Para evitar que isso aconteça, o herói, conhecido como o Bravo, deve escalar o topo da torre de 50 andares em que reside Drokmar, conhecido como Dragon Keep.
+No final do jogo, quando Drokmar é derrotado, o jogador tem a opção de duas terminações: Destrua o Orbe Negro, ou assumir o controle dele, tornando-se o novo Senhor das Trevas.</synopsis>
+	<genre>Plataforma / Combate com rolagem,Plataforma</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Magic Sword</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1990" month="" day=""/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mega Man - The Power Battle">
+		<id>78892A</id>
+	<locale lang="EN">
+	<title>Mega Man: The Power Battle</title>
+	<synopsis>Have you ever pictured a Rockman or Megaman game that allows to skip all the platform elements and just grapple against the bosses? That's pretty much the main idea in this game! Choose from Rockman/Megaman, Protoman or Bass and battle against classic bosses in the series. Features great 2-D graphics, solid control, and a nice use of strategy (since the right order of weapons will rid you of specific enemies in no time!).</synopsis>
+	<genre>Fight /  Co-op,Fight</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>¿Alguna vez te has imaginado un juego Rockman o Megaman que permita saltar todos los elementos de la plataforma y luchar contra los jefes? Esa es la idea principal en este juego! Elige entre Rockman/Megaman, Protoman o Bass y lucha contra los jefes clásicos de la serie. Ofrece grandes gráficos 2-D, control sólido, y un buen uso de la estrategia (ya que el orden correcto de las armas te librará de enemigos específicos en poco tiempo!).</synopsis>
+	<genre>Combate / Versus Co-op,Combate</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Une fois de plus, le professeur Wily fait des siennes et c'est à Mega Man, Protoman et même Bass d'arrêter le savant fou.
+
+À la différence des épisodes plus conventionnels de la série, Mega Man: The Power Battle se concentre exclusivement sur les duels contre les robots de Wily. Il en résulte ainsi un jeu hybride, à mi-chemin entre le beat'em all et le Mega Man traditionnel.
+
+Face aux multiples adversaires proposés, tous issus de la série classique, le joueur a accès à trois personnages : Mega Man, Protoman et Bass. Comme dans tout bon Mega Man, le joueur peut récupérer les armes des robots vaincus et les utiliser pour faciliter sa progression.
+
+À l'instar de la plupart des jeux d'arcade, Mega Man: The Power Battle peut se jouer à deux.</synopsis>
+	<genre>Combat / Versus Co-op,Combat</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf / Versus Ko-Op,Kampf</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Mega Man: The Power Battle, é um jogo arcade e um título spin-off para a série Mega Man.
+A história do jogo é simplista; O maléfico Doutor Wily reconstruiu alguns de seus Robot Masters, com os quais ele está tentando dominar o mundo, forçando os heróis a detê-lo.
+Foi lançado no Japão em 1995 e foi seguido por uma sequela, Mega Man 2: The Power Fighters, no ano seguinte. Ambos os jogos foram portados para consoles domésticos na América do Norte em 2004 como parte da Mega Man Anniversary Collection para PlayStation 2, Nintendo GameCube e Xbox.
+Uma adaptação de ambos os jogos para o Neo Geo Pocket Color, intitulado Rockman: Battle &amp; Fighters, também foi feita.</synopsis>
+	<genre>Luta / Versus Co-op,Luta</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Rockman: The Power Battle</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1995" month="" day=""/>
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mega Twins">
+		<id>37371A</id>
+	<locale lang="EN">
+	<title>Mega Twins</title>
+	<synopsis>The game features two twins who are attempting to re-take control of their land, Alurea, after a monster unexpectedly attacks, destroying everything in its path. The people of Alurea have lived in peace for a thousand years and have forgotten how to fight, yet the land's only survivors, the twin sons of the king, must take up the challenge and return their kingdom to its former glory. The two twins, aged around 15 at the time the game takes place, venture forth in search of a legendary stone known as "Dragon Blue Eyes", which is rumored to be able to put everything back to rights.</synopsis>
+	<genre>Plateform / Fighter Scrolling,Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Alurea era un lugar muy pacífico hasta que un horripilante payaso decidió tomar posesión de él. Reunió a sus detestables compinches y ataco Alurea. Ahora, las tierras están llenas de monstruos de todo tipo. Ha llegado el momento de que los Chiki Chiki Boys recuperen Alurea ¡A por ellos muchachos!</synopsis>
+	<genre>Plataforma / Combate con desplazamiento,Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Le scénario met en scène deux jumeaux qui tentent de reprendre le contrôle de leur pays, dévasté après une attaque de monstre. Sortie en Arcade en 1990 par le manufacturer "Capcom" sous le titre "Mega Twins". Mega Twins (Chiki Chiki Boys au Japon) a d'abord été un jeu d'arcade de Capcom, sorti en 1990.U.S. Gold a ensuite sorti Mega twins sur ST et Amiga en 1991. Les portages sur C64, Spectrum et CPC n'ont jamais été édité.</synopsis>
+	<genre>Plateforme / Fighter Scrolling,Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform / Kampf Scrolling,Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Mega Twins, também conhecido como Chiki Chiki Boys, é um jogo de ação de rolagem lateral lançado para os arcades pela Capcom em 1990. Foi o décimo jogo lançado para o hardware do Sistema CP.
+O jogo conta com dois gêmeos que estão tentando retomar o controle de sua terra, Alurea, depois que um monstro inesperadamente ataca, destruindo tudo em seu caminho. O povo de Alurea viveu em paz por mil anos e esqueceu-se de lutar, mas os únicos sobreviventes da terra, os filhos gêmeos do rei, devem assumir o desafio e devolver o seu reino à sua antiga glória. Os dois gêmeos, com cerca de 15 anos no momento em que o jogo acontece, se aventurar em busca de uma pedra lendária conhecida como "Dragon Blue Eyes", as quais existem rumores de serem capaz de colocar tudo de volta ao lugar.</synopsis>
+	<genre>Plataforma / Combate com rolagem,Plataforma</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Chiki Chiki Boys</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1990" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mercs">
+		<id>78903A</id>
+	<locale lang="EN">
+	<title>Mercs</title>
+	<synopsis>The US faces a grave crisis! The former president has been kidnapped by a group of revolutionaries while on a trip on Central Africa meant to promote world peace. Take control of three highly skilled anti-terrorist soldiers and venture through enemy lines to save the former president &amp; annihilate the rebel army in the process. Features solid graphics &amp; sound, plenty of weapons &amp; vehicles to use and hulking bosses to defeat.</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Estados Unidos se enfrenta a una grave crisis! El ex presidente ha sido secuestrado por un grupo de revolucionarios mientras viajaba por África Central para promover la paz mundial. Toma el control de tres soldados antiterroristas altamente cualificados y aventúrate a través de líneas enemigas para salvar al ex presidente y aniquilar al ejército rebelde en el proceso. Ofrece gráficos sólidos y sonido, un montón de armas y vehículos para usar y jefes de grandes dimensiones para derrotar.</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Incarnez les membres d'une unité anti-terroriste secrète, connue sous le nom de « Wolf Force ». Dans six missions, plus une finale, délivrez le président du Zutula, pour cela vous aurez accès à un arsenal de mitrailleuses, lance-flammes et autres lance-grenades. Soyez également aider par quelques véhicules jouables.</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Mercs, originalmente lançado como Senj? no ?kami II, é um jogo arcade de 1990 do tipo correr e atirar desenvolvido e publicado pela Capcom para as arcadas. É uma continuação ao 1985 Commando. Foi seguido por Wolf of the Battlefield: Commando 3 em 2008, um jogo para download.
+A versão arcade do jogo tem até três jogadores disponíveis para jogar. Os jogadores são membros de uma equipe secreta e mercenária conhecida como a "Força Lobo". A equipe é composta por Joseph Gibson (jogador 1 em azul), Howard Powell (jogador 2 em vermelho) e Thomas Clarke (jogador 3 em amarelo). Seu objetivo é resgatar um ex-presidente de rebeldes no país ficcional africano de Zutula, que é administrado por um governo de apartheid. O jogo tem seis níveis, mais o nível final, onde o objetivo é resgatar o presidente do Hercules Transporte.</synopsis>
+	</locale>
+	<locale lang="JA">
+	<title>Senjo no Okami II</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1990" month="" day=""/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="3">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+			<control type="coop" required="true"/>
+		</input>
+	</game>
+	<game name="Muscle Bomber Duo - Ultimate Team Battle">
+		<id>37367A</id>
+	<locale lang="EN">
+	<title>Muscle Bomber Duo : Ultimate Team Battle</title>
+	<synopsis>Professional wrestling experienced a sudden increase in popularity during the early 1980s, where many professional wrestling organizations were started all over the world. A severe rivalry existed among the organizations.
+
+In order to resolve this conflict, 8 organizations combined to form the Capcom Professional Wrestling Association (CPWA), led by Victor Ortega, the CPWA?s first champion.
+
+One day, Ortega suddenly vanished. He was considered to be the axis of the sport and his unexpected disappearance caused the CPWA to enter an age of confusion and disorder. The BPWA, a dark underground wrestling organization, chose to take advantage of this opportunity and began moving. With "Fighters of Muscle Bomber = Destiny" as the theme, the CPWA chief executives decided to hold a world tour called the ?Crash Carnival,? to decide the new king of the CPWA.
+
+The gong that determines the new ?Master of Muscle Bomber? is sounded?</synopsis>
+	<genre>Sports / Wrestling,Sports</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Un día, Ortega desapareció repentinamente. Se le consideraba el eje del deporte y su inesperada desaparición hizo que el CPWA entrara en una era de confusión y desorden. La BPWA, una oscura organización de lucha clandestina, eligió aprovechar esta oportunidad y comenzó a moverse. Con "Fighters of Muscle Bomber = Destiny" como tema, los jefes ejecutivos de CPWA decidieron llevar a cabo una gira mundial llamada "Crash Carnival,? para decidir el nuevo rey de la CPWA. nn</synopsis>
+	<genre>Deportes / Lucha libre,Deportes</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Muscle Bomber Duo: Ultimate Team Battle (Muscle Bomber Duo: Heat Up Warriors au Japon) est un jeu vidéo de catch développé et édité par Capcom, sorti uniquement en arcade sur CP System [Dash] en décembre 1993</synopsis>
+	<genre>Sport / Lutte,Sport</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Sport / Wrestling,Sport</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Muscle Bomber Duo: Ultimate Team Battle, é uma versão atualizada do Slam Masters original que elimina o modo Single Match do jogo original, concentrando-se apenas na equipe de dois contra dois Modo de batalha. O mesmo personagem pode agora ser escolhido por mais de um jogador e cada lutador agora tem dois movimentos especiais adicionais: um ataque lateral duplo e um movimento de vácuo. Duo é o único jogo da série a manter o título Muscle Bomber para seus lançamentos internacionais. 
+
+Embora os jogadores possam escolher sua equipe como quiser, existem cinco combinações "oficiais" que o jogo reconhecerá e dará um nome. As equipes de tags oficiais são as seguintes: 
+Hyper Cannons (Biff and Gunloc) 
+Exotic Warriors (Rasta and Oni) 
+Deadly Brothers (Titan and Stingray) 
+Knuckle Busters (Haggar and Grater) 
+Silent Assassins (Scorpion and Jumbo)</synopsis>
+	<genre>Esporte / Luta Livre,Esporte</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Muscle Bomber Duo: Heat Up Warriors</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1993" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="4">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Nemo">
+		<id>37372A</id>
+	<locale lang="EN">
+	<title>Nemo</title>
+	<synopsis>One night, as Nemo sleeps, he is visited in a dream by the King of Slumberland, who invites Nemo to come and play with the King's daughter, the Princess. Nemo finds himself unable to find the Princess however, so he and 'Flip', a strange companion who also turns up in the dream, decide to explore Slumberland and find the king.
+
+Nemo is a colourful and abstract platform shoot-em-up set in the dream world of Slumberland, a surreal world in which childrens' toys are running amok and must be destroyed. Nemo is armed with a magical staff that emits a burst of magic to destroy the many enemies, some of which require multiple hits. A number of power-ups also appear at regular intervals to aid Nemo in his quest through seven tough stages.</synopsis>
+	<genre>Platform,Plateform / Fighter Scrolling</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Una noche, mientras Nemo duerme, es visitado en un sueño por el rey de Slumberland, que invita a Nemo a jugar con la hija del rey, la princesa. Sin embargo, Nemo se encuentra incapaz de encontrar a la princesa, por lo que él y' Flip', un extraño compañero que también aparece en el sueño, deciden explorar Slumberland y encontrar al rey.nnnnNemo es un shoot-em-up abstracto en el mundo de ensueño de Slumberland, un mundo surrealista en el que los juguetes de los niños corren como locos y deben ser destruidos. Nemo está armado con un bastón mágico que emite una explosión de magia para destruir a los diferentes enemigos, algunos de los cuales requieren múltiples golpes. Varios power-ups también aparecen a intervalos regulares para ayudar a Nemo en su búsqueda a través de siete difíciles etapas.</synopsis>
+	<genre>Plataforma,Plataforma / Combate con desplazamiento</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Ce petit jeu de plates-formes, développé par Capcom en 1990 sous le titre original Nemo : Pajama Hero, a su miser sur des idées de gameplay novatrices pour se démarquer habilement de ses concurrents tout en conservant l'esprit naïf et enchanteur du long métrage qui l'a inspiré. Les compositions sont signées Junko Tamiya (Bionic Commando, Strider). Aujourd'hui encore, nombreux sont les nostalgiques qui aimeraient le redécouvrir en HD, à l'instar d'un DuckTales Remastered ou d'un Castle of Illusion starring Mickey Mouse. On peut toujours rêver ! N'oublions pas que Little Nemo in Slumberland est, à l'origine, une bande dessinée, et plus exactement un comic strip créé par Winsor McCay en 1905 pour un hebdomadaire américain. Mondialement reconnue, cette oeuvre fut publiée jusqu'en 1914 et a influencé de nombreux dessinateurs de talent, comme Moebius et Miyazaki. Ses histoires relatent les aventures surréalistes du petit Nemo alors qu'il voyage à l'intérieur de son subconscient dans les contrées de Slumberland. Chaque nuit, ses rêves l'entraînent vers des destinations fantaisistes à la rencontre de personnages tous plus improbables les uns que les autres.</synopsis>
+	<genre>Plateforme,Plateforme / Fighter Scrolling</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform,Plattform / Kampf Scrolling</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Uma noite, enquanto Nemo dorme, ele é visitado em um sonho pelo rei de Slumberland, que convida Nemo a vir brincar com a filha do rei, a princesa. Nemo encontra-se incapaz de encontrar a princesa no entanto, assim ele e 'Flip', um companheiro estranho que também aparece no sonho, decidem explorar Slumberland e encontrar o rei. Nemo é um jogo shoot-em-up de colorido e abstrato dentro do mundo dos sonhos de Slumberland, um mundo surreal em que os brinquedos das crianças são malvados e devem ser destruído. Nemo está armado com uma coisas mágicas que emitem uma explosão de magia para destruir os muitos inimigos, alguns dos quais exigem vários acertos. Uma série de power-ups também aparecem em intervalos regulares para ajudar Nemo em sua busca através de sete estágios difíceis.</synopsis>
+	<genre>Plataforma,Plataforma / Combate com rolagem</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1990" month="" day=""/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Pang! 3">
+		<id>37373A</id>
+	<locale lang="EN">
+	<title>Pang! 3</title>
+	<synopsis>Pang! 3 is the second sequel to the superb 1989 original, Pang! 3 retains the same gameplay of its predecessors but adds vastly improved graphics and a choice of three difficulty levels; Beginner, Normal and Panic. On both the 'Normal' and 'Panic' skill levels, players can choose from 4 different playable characters; each possessing different strengths and weaknesses, such as a double harpoon or quick shots. On the beginner level, players can only use the Mexican character.
+
+Another notable difference is in the game's use of backdrops: instead of the world landmarks of the first two games, Pang! 3 features classical works of art in the form of paintings and sculptures.</synopsis>
+	<genre>Puzzle-Game</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Se trata de una nueva secuela del éxito original de 1989. Continúa con el mismo sistema de juego de sus antecesores, pero mejorando gráficos así como la elección de varios niveles de dificultad.</synopsis>
+	<genre>Rompecabezas</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Le joueur dirige un personnage confiné dans un tableau de la taille de l'écran dans lequel des boules géantes rebondissent, menaçant le personnage. Celui-ci peut seulement se déplacer à gauche et à droite et lancer des grappins vers le haut à la perpendiculaire pour faire éclater les boules. Lorsqu'une grosse boule est touchée, elle se divise en deux autres boules de taille intermédiaire, qui elles-mêmes se divisent ensuite en deux petites boules, lesquelles peuvent être détruites pour de bon. Plus une boule est petite, plus son rebond est faible d'amplitude et plus le timing pour passer dessous la boule est serrée. Le but du jeu est de détruire les boules avant la fin du temps imparti sans être touché. Pour y parvenir, le joueur doit constamment anticiper la trajectoire et assimiler le timing des boules, lesquelles tendent fatalement à être de plus en plus nombreuses au fil de la partie. La difficulté de jeu est moins de viser juste que de trouver les emplacements qui laissent le temps de tirer. Si le personnage est touché par une boule, le joueur perd une vie et recommence le niveau. Le joueur passe au tableau suivant dès qu'il parvient à détruire toutes les boules. Un bonus de temps vient gonfler le score.Au fil du temps, les tableaux présentent des éléments tiers, parfois destructibles, de plus en plus complexes. Ces éléments viennent perturber la trajectoire des boules et réduire les positions de tirs, transformant le challenge en véritable casse-tête. Le personnage a parfois la possibilité de se hisser sur des plates-formes en grimpant à des échelles. Cela est parfois utile pour atteindre certaines boules mais peut aussi constituer une échappatoire à double tranchant (il faut ensuite pouvoir redescendre pour détruire les plus petites boules).</synopsis>
+	<genre>Puzzle-Game</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Puzzle</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Pang! 3, também conhecido como Buster Buddies, é um jogo de arcade de 1995 desenvolvido pela Capcom e publicado pela Mitchell Corp. Pinturas famosas são usadas como cenários para a ação.
+
+Ajude os dois personagens individuais a usarem as suas habilidades especiais para superar os obstáculos e estourar os balões! Assuma o controle de Don Tacos e use sua capacidade de atirar duas barreiras em direções separadas, ou Pirate Hog e sua habilidade incrível de enganchar barreiras sobre os níveis no topo da área também! Há também o Pink Leopard e Sheila the Thief para ajudar as missões! Com seus personagens escolhidos você deve percorrer os níveis para estourar todas os balões no menor número de acertos e tempo possível.</synopsis>
+	</locale>
+		<developer>Mitchell</developer>
+		<publisher>Capcom</publisher>
+		<date year="1995" month="" day=""/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Pnickies">
+		<id>37374A</id>
+	<locale lang="EN">
+	<title>Pnickies</title>
+	<synopsis>A falling blocks game released only to arcades. Like-colored blocks merge together and more points are awarded for larger masses.</synopsis>
+	<genre>Puzzle-Game,Puzzle-Game / Fall</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Un juego de bloques en caída liberado sólo para arcades. Al igual que los bloques de colores se fusionan y se otorgan más puntos para las masas más grandes.</synopsis>
+	<genre>Rompecabezas,Rompecabezas / Caída</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Plus qu'un clone de Tetris, Pnickies est surtout une copie carbone de Puyo-Puyo. Ceci n'a d'ailleurs rien de très étonnant puisque même si le jeu est distribué par Capcom, il a surtout été développé par Compile, les papas de Puyo-Puyo. Considérons donc Pnickies comme un fils caché de cette grande famille.
+
+Comme ça se passe, alors ? Vous allez voir que c'est d'une simplicité à couper le souffle. L'écran est séparé en deux parties identiques. Si vous jouez en solo, vous n'utiliserez que la partie de gauche, mais si vous jouez à deux vous utiliserez l'intégralité de l'écran.
+
+Chaque moitié d'écran est une sorte de vasque dans laquelle vont s'empiler des bulles de couleurs différentes. La vasque fait six carrés de large pour douze de haut, et peut donc contenir soixante-douze bulles, appelées Pnickies. Ces derniers tombent à intervalle régulier (de plus en plus vite à mesure que vous avancez dans les niveaux) du haut de la vasque, par groupe de deux. Tout ce que vous pouvez faire, c'est les déplacer latéralement en inclinant le stick sur la droite ou la gauche, les faire descendre plus vite en appuyant vers le bas, et les faire pivoter sur eux-mêmes en pressant le bouton.
+
+Il faudra donc agencer vos Pnickies de manière à les détruire. Pour ce faire, il faut composer un groupe de même couleur. Il ne peut pas y avoir d'espaces vides comme dans Tetris : s'il y a un trou en dessous d'une bulle, elle se désolidarise de celle à laquelle elle était rattachée et tombe jusqu'à atteindre une surface solide.</synopsis>
+	<genre>Puzzle-Game,Puzzle-Game / Tomber</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Puzzle,Puzzle / Fallen</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Um jogo de queda de blocos lançado apenas para arcades. Os blocos da mesma cor combinam-se junto e mais pontos são concedidos por combos maiores.</synopsis>
+	<genre>Quebra-cabeças,Quebra-cabeças / Queda</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1994" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Pokonyan! Balloon">
+		<id>120706</id>
+	<locale lang="EN">
+	<title>Pokonyan! Balloon</title>
+	<synopsis>Pokonyan! Balloon is a rare Capcom Game from Kids Amusement park, you are in a balloon, droping flower and catching other ballon.</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>¡Pokonyan! Balloon es un raro juego de Capcom de Kids Amusement park, tu estas en un globo, arrojando flores y cogiendo otro globo.</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>ce jeu Capcom vraisemblablement daté de 1994 est basé sur la série animée Pokonyan! diffusée entre 1993 et 1996 et surfant sur la mode des tanuki au Japon. Il s'apparente à une sorte de shoot'em up dans lequel les deux actions possibles sont d'effectuer une vrille et de larguer des fleurs au sol?</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Pokonyan! Balloon é um raro jogo da Capcom do Kids Amusement Park.nnVocê está em um balão, soltando flores e pegando outro balão.</synopsis>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1994" month="" day=""/>
+		<rating type="NOTE" value="11">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Punisher, The">
+		<id>37375A</id>
+	<locale lang="EN">
+	<title>The Punisher</title>
+	<synopsis>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Un juego de arcade de Capcom, similar a juegos como Double Dragon con el personaje de Marvel The Punisher. Nick Fury es también un personaje que se puede jugar en este juego.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>The punisher est un beat them all très beau graphiquement avec de nombreux coups de nombreuses armes ( batte de base ball ; pistolet ; lance flamme ; etc... ) avec un décor déstructible un nombre important d'ennemis ce jeu sert a se défouler à coup de poing ,de grenades et j'en passe, donc ce jeu est à telecharger pour les amateurs du genre les fans de "the punisher" où les personnages sont très bien modélisé est à ceux qui ont les nerfs et qui aimeré ce lacher un peu sur un jeu.</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>The Punisher é um jogo arcade, beat 'em up,desenvolvido e lançado pela Capcom em 1993. Ele estrela o anti-herói da Marvel Comics o Punisher e co-estrela da S.H.I.E.L.D., o Agente Nick Fury, como o personagem do segundo jogador juntos embarcam em uma missão para matar o senhor do crime o Kingpin e derrubar sua organização. Apesar de seguir a mesma fórmula geral que o anterior beat 'em ups da Capcom, o jogo tem uma gama de armas utilizáveis ??e uma apresentação em estilo de quadrinhos</synopsis>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1993" month="" day=""/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Quiz And Dragons - Capcom Quiz Game">
+		<id>42583A</id>
+	<locale lang="EN">
+	<title>Quiz &amp; Dragons: Capcom Quiz Game</title>
+	<synopsis>The game plays similar to a board game, where the player is given a predetermined dice roll that moves the player up to six spaces on the board; however, if the player is so given the choice, he can move to a space of his choosing if there is a fork in the road. After landing on a space, the player is given a series of questions (the amount of questions needed to be answered increase as the game progresses) in order to proceed back to the board for another dice roll. The player is given a time limit to answer the question, with points given that vary based on how fast the player answered the question correctly. If the player is successful in answering a question, one of the orbs above the enemy's portrait will light up, indicating a correct answer. If the player answers a question incorrectly, he will lose a life point. if the player loses all life points, the player must continue within the time limit or else the game is over.</synopsis>
+	<genre>Quiz,Quiz / English</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Se juega similar a un juego de mesa, donde se le da al jugador una tirada de dados predeterminada que mueve al jugador hasta seis espacios en el tablero; sin embargo, si al jugador se le da la opción, puede moverse a un espacio de su elección si hay una bifurcación en el camino. Después de aterrizar en un espacio, al jugador se le da una serie de preguntas (la cantidad de preguntas necesarias para ser contestadas aumenta a medida que el juego progresa) para proceder de nuevo al tablero para otro tiro de dados. Al jugador se le da un límite de tiempo para responder la pregunta, con puntos dados que varían en función de la velocidad con la que el jugador contestó la pregunta correctamente. Si el jugador tiene éxito en contestar una pregunta, uno de los orbes arriba del retrato del enemigo se encenderá, indicando una respuesta correcta. Si el jugador responde una pregunta incorrectamente, perderá un punto de vida. si el jugador pierde todos los puntos de vida, el jugador debe continuar dentro del límite de tiempo o si no, la partida ha terminado.</synopsis>
+	<genre>Quiz,Quiz / Inglés</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Quiz and Dragons: Capcom Quiz Game est un jeu vidéo de quiz qui s'inspire fortement de l'ambiance de jeux de rôle du genre fantasy.
+
+Le joueur choisit un des quatre aventuriers entre le guerrier, le ninja, l'amazone et le magicien, et doit répondre correctement aux questions pour tenter d'arrêter la destruction du royaume par le sorcier malfaisant Gordion.</synopsis>
+	<genre>Quiz,Quiz / Anglais</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Quiz,Quiz / Englisch</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>O jogo é semelhante a um jogo de tabuleiro, onde o jogador recebe um lance de dados predeterminado que move o jogador até seis casas no tabuleiro; no entanto, se o jogador tiver essa opção, ele poderá se mover para um espaço de sua escolha se houver uma bifurcação na estrada. Depois de aterrissar em um espaço, o jogador recebe uma série de perguntas (a quantidade de perguntas que precisam ser respondidas aumentam à medida que o jogo avança) para voltar ao tabuleiro para outro teste de dados. O jogador recebe um limite de tempo para responder à pergunta, com pontos que variam de acordo com a rapidez com que o jogador respondeu à pergunta corretamente. Se o jogador for bem sucedido em responder a uma pergunta, um dos orbes acima do retrato do inimigo se acenderá, indicando uma resposta correta. Se o jogador responder uma pergunta incorretamente, ele perderá um ponto de vida. Se o jogador perder todos os pontos de vida, o jogador deve continuar dentro do limite de tempo ou então o jogo termina.</synopsis>
+	<genre>Quiz,Quiz / Inglês</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1992" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Quiz Tonosama No Yabou 2 - Zenkoku-ban">
+		<id>42606A</id>
+	<locale lang="EN">
+	<title>Quiz Tonosama no Yabou 2: Zenkoku-ban</title>
+	<synopsis>Quiz Tonosama no Yabou 2 - Zenkoku-ban is a feudal Japanese quiz game from Capcom.</synopsis>
+	<genre>Quiz,Quiz / Japanese</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Quiz Tonosama no Yabou 2 - Zenkoku-ban es un juego de preguntas del Japón feudal de Capcom.</synopsis>
+	<genre>Quiz,Quiz / Japonés</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Quiz Tonosama no Yabou 2: Zenkoku-ban est un jeu de quiz dans un univers féodal japonais.</synopsis>
+	<genre>Quiz,Quiz / Japonnais</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Quiz,Quiz / Japanisch</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Quiz Tonosama no Yabou 2 - Zenkoku-ban é um jogo de perguntas feudal japonês da Capcom.</synopsis>
+	<genre>Quiz,Quiz / Japonês</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1995" month="" day=""/>
+		<rating type="NOTE" value="10">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Saturday Night Slam Masters">
+		<id>37379A</id>
+	<locale lang="EN">
+	<title>Saturday Night Slam Masters</title>
+	<synopsis>A 1-on-1 fighting game in which players choose from 10 different wrestlers and take to the ring to try and defeat their larger-than-life opponents. Each wrestler has an assortment of moves, including his own special 'super slam'. The object of the game is to win and defend the championship by pinning or putting a submission hold on your opponent.</synopsis>
+	<genre>Sports,Sports / Wrestling</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Un juego de lucha 1 a 1 en el que los jugadores eligen entre 10 luchadores diferentes y van al ring para tratar de derrotar a sus oponentes más poderosos. Cada luchador tiene una variedad de movimientos, incluyendo su propio "super slam" especial. El objetivo del juego es ganar y defender el campeonato colocando un bloqueo de sumisión en tu oponente.</synopsis>
+	<genre>Deportes,Deportes / Lucha libre</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis> Saturday Night Slam Masters est un jeu de combat se déroulant dans le monde du catch. Dix lutteurs peuvent être sélectionnés, chacun avec son style bien à lui et différentes combinaisons de boutons permettent d'amocher son adversaire. Il est possible de quitter le ring un court instant et de se servir d'éléments du décor comme armes. Un mode Death Match est également présent où tous les coups sont permis.</synopsis>
+	<genre>Sport,Sport / Lutte</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Sport,Sport / Wrestling</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Saturday Night Slam Masters - Lançado em 13 de Julho de 1993 nos Arcades, é um jogo de wrestling profissional com personagens fictícios criados pelo mangaká Tetsuo Hara, famoso pela série Hokuto no Ken. Ele também desenhou todas as artworks do jogo.
+O jogo foi seguido de um upgrade chamado "Muscle Bomber Duo: Ultimate Team Battle" em Dezembro de 1993.</synopsis>
+	<genre>Esporte,Esporte / Luta Livre</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1993" month="" day=""/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="4">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Street Fighter 2 - Hyper Fighting">
+		<id>37378A</id>
+	<locale lang="EN">
+	<title>Street Fighter II : Hyper Fighting</title>
+	<synopsis>Street Fighter II' - Hyper Fighting is the second SFII follow-up. Here's what's new: 
+Gameplay is SIGNIFICANTLY sped up to intensify the pace of the game. 
+More special moves (ie. Chun Li's fireball, Dhalsim's Yoga Teleport) are added for each character except for M. Bison. 
+New color schemes are added for each character (but the color schemes for the stage backgrounds are still the same as they were for Champion Edition). 
+The addition of mid-air special moves for Chun Li, Ryu and Ken are introduced. 
+Platform graphics (resembling the medal ceremonies in the Olympics) are added to each character's ending, featuring the character you completed the game with at the first-place platform, M. Bison at the second-place platform, and Sagat at the third-place platform. The musical setting for this display is the music from the home stage of the character standing on the 1st-place platform (If you completed the game with Sagat or M. Bison, the one you used stands on the 1st-place platform, the other one on the 2nd-place platform, and Vega occupies the 3rd-place platform).</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Street Fighter II': Hyper Fighting es la segunda mejora de la serie Street Fighter II después de Street Fighter II': Champion Edition. Esta es una simple modificación del juego realizada por Capcom USA (James Goddard) para tratar de contrarrestar la proliferación de muchos hacks no oficiales disponibles en ese momento, e incorporar en el juego oficial algunas de las mejoras más populares aportadas por ellos, incluyendo la velocidad de ataque y nuevas opciones en algunos ganchos.</synopsis>
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Street Fighter II': Hyper Fighting (Street Fighter II' Turbo: Hyper Fighting au Japon) est la deuxième amélioration de la série Street Fighter II après Street Fighter II': Champion Edition. Il s'agit d'une simple modification du jeu effectuée par Capcom USA (James Goddard), pour tenter de contrer la prolifération des nombreux hacks non officiels disponibles à l'époque, et d'incorporer dans le jeu officiel certaines des améliorations les plus populaires apportées par ceux-ci , notamment la vitesse d'attaque et de nouvelles palettes sur certains hacks.
+La vitesse du jeu a été grandement augmentée (d'où le Turbo sur le portage consoles du jeu) ; et de nouveaux coups spéciaux sont à la disposition de certains personnages, rendant les combats bien plus stratégiques :</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Street Fighter II: Hyper Fighting é um jogo de luta competitivo lançado para as arcadas pela Capcom em 1992. É o terceiro jogo da série Street Fighter II que é uma sub-série de Street Fighter. Lançado menos de um ano após a edição anterior, o Hyper Fighting introduziu uma velocidade de reprodução mais rápida e novos movimentos especiais para determinados personagens, bem como refinamento adicional para o equilíbrio de personagens.
+
+Hyper Fighting é o ultimo jogo da série a utilizar o hardware original do CP System. Ele foi distribuído como um kit de atualização projetado para ser instalado em placas de circuito impresso Champion Edition.</synopsis>
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Street Fighter II' Turbo: Hyper Fighting</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1992" month="12" day="01"/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Street Fighter 2 - The World Warrior">
+		<id>42982A</id>
+	<locale lang="EN">
+	<title>Street Fighter II: The World Warrior</title>
+	<synopsis>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Street Fighter II: The World Warrior es un videojuego de lucha competitiva, lanzado originalmente para las máquinas arcade en 1991. Es el segundo juego de la serie Street Fighter y la secuela del juego original, lanzado en 1987. Fue el decimocuarto título de Capcom, utilizar un hardware de sistema de CP. Street Fighter II ha mejorado muchos de los conceptos introducidos en el primer juego, incluyendo el uso de movimientos especiales basados ??en comandos, una configuración de seis botones, al tiempo que ofrecía a los jugadores una selección múltiple de personajes jugables, cada uno con su propio estilo de juego luchar. Street Fighter II también introdujo el sistema de combos? y el combate "frente a frente" entre dos jugadores.</synopsis>
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Est-il bien nécessaire de presenter ce jeu mythique ? Street Fighter 2 est, à l'instar de Double Dragon pour le beat'em up, LE classique du jeu de combat qui a influencé des centaines d'autres production.
+
+Un grand choix de combattants ayant chacun une technique propre, une grande variété de prises et de coups spéciaux, et voilà une nouvelle catégorie de jeux vidéo !
+
+Un jeu indispensable, qui est toujours, depuis sa sortie en 1991, l'archétype de tout ce que l'on peut voir aujourd'hui.</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Street Fighter II: The World Warrior é um videojogo de luta competitivo, lançado originalmente para as máquinas arcade em 1991. É o segundo jogo da série Street Fighter e a sequela do jogo original, lançado em 1987. Foi o décimo quarto título da Capcom a usar um hardware CP System. Street Fighter II melhorou muitos dos conceitos introduzidos no primeiro jogo, incluindo o uso de movimentos especiais baseados em comandos, uma configuração de seis botões, ao mesmo tempo que oferecia aos jogadores uma seleção múltipla de personagens jogáveis, cada um com o seu próprio estilo de luta. Street Fighter II também introduziu o sistema de ?combos? e o combate "frente-a-frente" entre dois jogadores.</synopsis>
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1991" month="" day=""/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Street Fighter 2' - Champion Edition">
+		<id>37377A</id>
+	<locale lang="EN">
+	<title>Street Fighter II' : Champion Edition</title>
+	<synopsis>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Desde los rincones del globo vienen doce de los luchadores más duros para merodear por las calles. Elige a tu campeón y entra en la arena como uno de los ocho desafíos originales o como uno de los cuatro Grandes Maestros! Golpea a tu oponente como Balrog y noquéalo para el marcador. Sube por encima de tu presa como Sagat y déjala aturdida con tu increíble Tiger Shot. Corta a tu oponente con la garra de Vega y haz que corran a cubierto. O infunde miedo en tus enemigos como M. Bison, el Gran Maestre más grande de todos ellos!</synopsis>
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Une année déjà s'est écoulée, presque jour pour jour, depuis la sortie du légendaire Street Fighter II: nous sommes donc en Mars 1992 lorsque Capcom publie la première séquelle de son méga-hit, rebaptisée "Champion Edition". Et l'éditeur réalise tout simplement le rêve de l'ensemble des fans du premier épisode: les quatre Boss du jeu sont désormais jouables! Et je peux vous dire qu'à l'époque, dans les salles d'arcade, ce fût une incommensurable jouissance vidéo-ludique (oui, c'est dégueulasse). C'était bien la première fois que la suite d'une production aussi connue exauçait le souhait de millions de joueurs. Disposant désormais d'un roster de douze personnages, la saga de Capcom conserve sa position de leader dans ce domaine sur le marché du jeu vidéo. Des concurrents redoutables on vu le jour, mais Street Fighter II' Champion Edition de Capcom a de l'avance et semble pouvoir rester le roi sur son trône encore un moment.</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Dos cantos do globo vêm doze dos lutadores mais durões, vindo das ruas. Escolha o seu campeão e entre na arena como um dos oito desafiadores originais ou como um dos quatro Grandes Mestres! Soque seu oponente e nocautei-os até a abertura da contagem, como Balrog. Proteja-se de sua presa como Sagat e em seguida os atordoe com seu impressionante tiro Tiger. Fatie seu oponente com garra de Vega e enviá-los correndo para casa. Ou golpeie o medo em seus inimigos como o M. Bison, o grande mestre de tudo!</synopsis>
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1992" month="03" day="01"/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Street Fighter Zero">
+		<id>64254A</id>
+	<locale lang="EN">
+	<title>Street Fighter Alpha: Warriors' Dreams</title>
+	<synopsis>The game introduces several new features, expanding on the Super Combo system previously featured in Super Street Fighter II Turbo, with graphics drawn in the same cartoonish style Capcom employed in Darkstalkers and X-Men: Children of the Atom.[2][3] The plot of Street Fighter Alpha is set after the original Street Fighter but before Street Fighter II and thus the game features younger versions of established characters, as well as characters from the original Street Fighter and Final Fight, and a few who are new to the series.</synopsis>
+	<genre>Fight,Fight / 2D</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>El juego presenta varias características nuevas, ampliando en el sistema Super Combo anteriormente presentado en Super Street Fighter II Turbo, con gráficos dibujados en el mismo estilo caricaturesco de Capcom empleado en Darkstalkers y X-Men: Children of the Atom. La trama de Street Fighter Alpha se desarrolla después del Street Fighter original pero antes de Street Fighter II y, por lo tanto, el juego incluye versiones más jóvenes de personajes establecidos, así como personajes del Street Fighter original y Final Fight, y algunos que son nuevos en la serie.</synopsis>
+	<genre>Combate,Combate / 2D</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Cet épisode est un renouveau dans la franchise : pour la première fois depuis Street Fighter II: The World Warrior (sorti en 1991) malgré les multiples versions sorties, les graphismes ont été entièrement refaits : les personnages comme Ryu, Ken, Chun-Li, Sagat et Bison voyant leurs corps et tenues redessinés ; et le jeu accueille des nouveautés de gameplay : apparition des furies à 3 niveaux de puissance, maniabilité améliorée, nouveaux personnages et retour d'anciens du premier Street Fighter.</synopsis>
+	<genre>Combat,Combat / 2D</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / 2D</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Street Fighter Zero (Street Fighter Alpha: Warriors' Dreams nos EUA) é um jogo de luta de 1995 da Capcom lançado originalmente para os arcades. Foi o primeiro jogo totalmente novo de Street Fighter produzido pela Capcom desde o lançamento do Street Fighter II em 1991. O título de trabalho para o jogo foi Street Fighter Legends.nnO jogo apresenta vários novos recursos, expandindo o sistema Super Combo anteriormente apresentado no Super Street Fighter II Turbo, com gráficos desenhados em um estilo caricatural semelhante ao que a Capcom emprega em Darkstalkers e X-Men: Children of the Atom.nnO enredo de Street Fighter Alpha é situado após o Street Fighter original, mas antes de Street Fighter II e, portanto, o jogo apresenta versões mais jovens de personagens já estabelecidos, bem como personagens do Street Fighter e Final Fight originais, e alguns que são novos para a série.</synopsis>
+	<genre>Luta,Luta / 2D</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Street Fighter Zero</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1995" month="" day=""/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Strider">
+		<id>37380A</id>
+	<locale lang="EN">
+	<title>Strider</title>
+	<synopsis>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. 
+
+Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race. </synopsis>
+	<genre>Platform,Plateform / Fighter Scrolling</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>En 2048, un Hiryu Strider llamado Hiryu viaja por el mundo en busca del misterioso Meio, que reina en la Tierra desde su base lunar, y controla a Hiryu, armado con su espada Falchion, a través de cinco niveles que van desde la Unión Soviética hasta la selva tropical. Hiryu tiene la particularidad de ser capaz de colgarse en las paredes gracias a un gancho de metal, y también puede ser ayudado por dos animales robóticos (un halcón y un tigre).</synopsis>
+	<genre>Plataforma,Plataforma / Combate con desplazamiento</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>En 2048, un Strider nommé Hiryu parcourt le monde à la recherche du mystérieux Meio, qui règne sur la Terre depuis sa base lunaire.Le joueur contrôle Hiryu, armé de son sabre Falchion, à travers cinq niveaux allant de l'Union Soviétique à la forêt vierge. Hiryu a la particularité de pouvoir s'accrocher aux parois grâce à un crochet métallique, et peut également se faire aider de deux animaux robotiques (un faucon et un tigre) appelés Options.</synopsis>
+	<genre>Plateforme,Plateforme / Fighter Scrolling</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform,Plattform / Kampf Scrolling</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Strider é um jogo de videogame da Capcom, lançado em 1989 o enredo do jogo é este: Em 2048, a Terra está sob ameaça de Grandmaster Meio, um ser de outra galáxia, que intenciona dominar o nosso planeta. Para tanto, Meio construirá uma estação estelar, localizada entre a Terra e a Lua, denominada de "Third Moon" (trad: Terceira Lua).
+Todavia, Hiryu, um valente guerreiro Strider, armado com sua poderosa espada cypher, decide opor-se a Meio, combatendo suas forças invasoras. Sozinho nesta luta, Hiryu receberá apenas a ajuda dos "Options" (pequenos robôs, ou ainda animais mecânicos, como uma águia e uma pantera) que ele, eventualmente, venha a encontrar pelo seu caminho.</synopsis>
+	<genre>Plataforma,Plataforma / Combate com rolagem</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Strider Hiryu</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1989" month="" day=""/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Warriors Of Fate">
+		<id>44111A</id>
+	<locale lang="EN">
+	<title>Tenchi wo Kurau II: Sekiheki no Tatakai</title>
+	<synopsis>Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Warriors of Fate es un beat' em up de desplazamiento lateral producido por Capcom, lanzado por primera vez como un juego de arcade operado por monedas en 1992 y que más tarde se adaptó a Sega Saturn y Sony PlayStation. Es el tercer juego de Capcom basado en el manga Tenchi wo Kurau, tras Dynasty Wars y Destiny of an Emperor.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Un beat' em up qui vous plonge dans la Chine médiévale.
+
+L'action n'est pas très rapide mais le nombre d'ennemis est suffisament important pour rendre le jeu intense et fun.
+
+Sympa.</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Warriors of Fate é um beat 'em up horizontal produzido pela Capcom, lançado pela primeira vez como um jogo de arcade operado por moedas em 1992 e depois portado para o Sega Saturn e Sony PlayStation. É o terceiro jogo da Capcom baseado no mangá Tenchi wo Kurau, seguindo Dynasty Wars e Destiny of a Emperor.</synopsis>
+	</locale>
+	<locale lang="JA">
+	<title>Tenchi wo Kurau II: Sekiheki no Tatakai</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1992" month="09" day="01"/>
+		<rating type="NOTE" value="12">
+		</rating>
+		<input players="3">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Three Wonders">
+		<id>37357A</id>
+	<locale lang="EN">
+	<title>Three Wonders</title>
+	<synopsis>The main character of the Chariot and Midnight Wanderers games Lou, was used as an assist only character for Marvel vs Capcom he also had the option character from Midnight Wanderers known as Firestorm with him. His sprite is like an enlarged version of his sprites from Midnight Wanderers, he shares the same position stance, his trademark jump in which he holds his hand on his hat, and also the same shooting animation. The sprites are recoloured in a more vibrant cartoon-esque style, as opposed to the washed out effect from the games, to match the style of the Marvel vs Capcom series. If two players get Lou, then the second player's pallette is Green, and is most likely based on Siva's color clothing from the Midnight Wanderers game. Player two's firestorm is colored orange.
+
+Lou's Companion Siva, has a character based on him as a tribute, featuring on Capcom's Cannon Spike game. The character is called Shiba Shintaro.</synopsis>
+	<genre>Platform,Compilation</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Three Wonders es uno de esos juegos que han sido injustamente olvidados por la historia. Después de casi pasar desapercibido cuando salió, desde entonces ha permanecido en las sombras. Publicado por Capcom en 1991, Three Wonders tiene la particularidad de ser una serie de tres juegos, jugables en el mismo soporte. Se llaman Midnight Wanderers (plataformas), Chariot ( shoot 'em up) y Don' t Pull(puzle). Si el segundo es una continuación del primero, el tercero no tiene ninguna conexión con sus "compañeros de cuarto".</synopsis>
+	<genre>Plataforma,Compilación</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Three Wonders fait partie de ces jeux qui ont été injustement oubliés par l'Histoire. Passé quasiment inaperçu à sa sortie, il est depuis demeuré dans l'ombre. C'est pour réparer cette injustice que je prends la plume des temps modernes afin de faire (re)découvrir cette merveille. Ou plutôt, comme son nom l'indique, ces trois merveilles. Edité par Capcom en 1991, Three Wonders a cette particularité d'être en fait une série de trois jeux, jouables sur la même borne. Ils ont pour titre Midnight Wanderers, Chariot et Don't Pull. Si le second est la suite du premier, le troisième n'a aucun lien avec ses "colocataires".</synopsis>
+	<genre>Plateforme,Compilation</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform,Sammlung</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Three Wonders, é um jogo de arcade feito pela Capcom em 1991 usando a plataforma Capcom Play System (CPS1). Ele continha três jogos dos quais um jogador pode escolher:
+
+Midnight Wanderers: Quest for the Chariot - Um jogo de plataforma que vê o jogador controlar um hobbit chamado Lou e seu companheiro de viagem, Siva, para correr, escalar e atirar em inimigos;
+Chariot: Aventura através do céu - Um shoot 'em up jogo com os personagens de Midnight Wanderers, mas em um jogo do tipo Gradius e;
+Don't Pull- Um jogo de quebra-cabeça semelhante a jogos como a série Eggerland, Pengo e Capcom próprio jogo de puzzle Navio Pirata Higemaru que envolve empurrar blocos para esmagar monstros.</synopsis>
+	<genre>Plataforma,Compilação</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1991" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="U.n. Squadron">
+		<id>43837A</id>
+	<locale lang="EN">
+	<title>U.N. Squadron</title>
+	<synopsis>U.N. Squadron / Area 88 is a horizontally-scrolling shoot-em-up and is based on the Manga series of the same name. The game features characters from the original Manga and their mission is to battle their way through enemy-packed levels to stop a terrorist group known as 'Project 4'.</synopsis>
+	<genre>Shoot'em Up,Shoot'em up / Horizontal</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>U.N. escuadrón es shoot'em up. Puedes jugar como uno de los tres pilotos disponibles: Shin Kazama, Micky Schymon o Greg Gates. Tu misión es repeler al enemigo desde el espacio aéreo del área 88. El jugador comienza con un F8E Crusader, el avión más débil del juego, pero a medida que las misiones progresan, ganará suficiente dinero para mejorar su equipo.</synopsis>
+	<genre>Shoot'em Up,Shoot'em Up / Horizontal</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>U.N. Squadron est un shoot'em up. Le joueur peut incarner au choix l'un des trois pilotes disponibles : Shin Kazama, Micky Schymon ou Greg Gates. Votre mission est de repousser l'ennemi de l'espace aérien de la Zone 88. Le joueur débute avec un F8E Crusader, l'avion le plus faible du jeu, mais au fur et à mesure des missions, il gagnera assez d'argent pour améliorer son équipement.</synopsis>
+	<genre>Shoot'em Up,Shoot'em up / Horizontal</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up,Shoot'em Up / Horizontal</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>O jogador pode escolher entre três pilotos mercenários: Shin Kazama, Mickey Simon e Greg Gates. Cada piloto voa um avião específico e tem capacidades ligeiramente diferentes.
+
+Shin Kazama: Shin voa um F-20 Tigershark; As armas em seu avião atiram apenas para a frente, mas em um ritmo rápido. Shin e seu avião são a combinação mais equilibrada disponível.
+Mickey Simon: Mickey voa um F-14 Tomcat; As armas em seu avião também atiram para a frente apenas, mas também são maiores (embora mais lento), infligindo mais dano do que o avião Shins.
+Greg Gates: Greg voa um A-10 Thunderbolt; Este avião tem menor poder de fogo para frente do que os aviões de Shin ou Mickey, porém também dispara um segundo fluxo para baixo em um ângulo de 45 ° a partir da corrente de disparo para a frente</synopsis>
+	<genre>Shoot'em Up,Shoot'em Up / Horizontal</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Area 88</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1989" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Varth - Operation Thunderstorm">
+		<id>37382A</id>
+	<locale lang="EN">
+	<title>Varth: Operation Thunderstorm</title>
+	<synopsis>Varth: Operation Thunderstorm is an arcade game in the vertical scrolling shooter genre, published in 1992. The game did not see a console port following its initial release, but 14 years later Digital Eclipse Software would port the game onto the PlayStation 2, PSP and Xbox as part of the Capcom Classics Collection Vol. 2.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>La historia se desarrolla en el planeta Varth, perdido en el culo del universo. Allí, los seres vivos viven bajo la férula del superordenador Delta-7 que gobierna sus vidas y piensa por ellos. Todo estaría bien en el mejor de todos los mundos si no fuera por DUD, un programa malicioso que parasita el ordenador y lo controla. A partir de entonces, es un desastre: el Delta-7 ordena a la humanidad que se destroce entre sí, provocando que el 60% de la población desaparezca, y luego lanza una armada de vehículos de guerra para reprimir a los supervivientes. Afortunadamente, dos viejas naves, Saber y Scimitar, no responden a la llamada. En su lugar, sus pilotos liderarán el asalto a las máquinas locas: así es como comienza la Operación Tormenta Eléctrica.</synopsis>
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>L'histoire se déroule sur la planète Varth, perdue au fin fond du trou du cul de l'univers. Là, les êtres vivants vivent sous la férule du super-calculateur Delta-7 qui régit leur vie et pense pour eux. Tout irait pour le mieux dans le meilleur des mondes (si tant est que la vie en tant que mouton soit un bien) si ce n'était DUD, un programme malveillant qui va parasiter l'ordinateur et en prendre le contrôle. À partir de là, c'est le bordel : Delta-7 intime l'ordre à l'humanité de s'entre-déchirer, causant la disparition de 60% de la population, puis lance une armada de véhicules de guerre pour supprimer les survivants. Heureusement, deux vieux coucous d'ancienne génération, Saber et Scimitar, ne répondent pas à l'appel. Au lieu de cela, leurs pilotes vont mener l'assaut contre les machines devenues folles : c'est ainsi que débute l'opération Thunderstorm.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up / Vertikal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Varth: Operation Thunderstorm é um jogo de arcade no gênero de tiro com rolagem vertical, publicado em 1992. O jogo não viu um port para consoles após seu lançamento inicial, mas 14 anos depois o Digital Eclipse Software colocaria o jogo no PlayStation 2, PSP e Xbox como parte da coleção Capcom Classics Vol. 2</synopsis>
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1992" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Willow">
+		<id>37383A</id>
+	<locale lang="EN">
+	<title>Willow</title>
+	<synopsis>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
+
+The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</synopsis>
+	<genre>Platform,Plateform / Shooter Scrolling</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Willow es un juego de disparos de plataforma de desplazamiento lateral basado en la película del mismo nombre. Los jugadores asumen el papel de uno de los dos personajes: Willow Ufgood o Madmartigan. La misión del héroe es rescatar a la bebé Elora Danan de la malvada reina Bavmorda y traerla de vuelta sana y salva. Si la búsqueda fracasa, la Reina hundirá al mundo en la oscuridad y el caos. 
+
+El juego consta de 6 niveles, cada uno representando una escena de la película. Los enemigos derrotados tiran monedas de oro que pueden ser recogidas por el jugador. Además, cada nivel está plagado de cofres cerrados con llave que se pueden abrir a tiros. El oro se puede utilizar para comprar un número de armas y power-ups del carácter de una tienda cercana (representado en la pantalla por un viejo sabio). Todos los power-ups permanecerán con el jugador hasta que se pierdan todas las vidas y el juego haya terminado.</synopsis>
+	<genre>Plataforma,Plataforma / Tirador con deslizamiento</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Beau et varié.Les graphismes sont soignés et superbes. Aujourd'hui encore, Willow fait grandement plaisir aux mirettes des joueurs aimant la 2D. Les décors sont assez variés et leur construction vraiment bien pensée pour ne pas s'ennuyer. Cinq niveaux vous attendent et la difficulté est assez progressive, même si je vous souhaite bien du courage à la fin face à Bavmorda. Bien sûr, on répète un peu les mêmes actions d'un niveau à l'autre mais le fun est immédiat et le jeu pas bien long. C'est un jeu d'arcade pur et dur qui s'assume comme tel. Le jeu vous propose d'incarner Willow et le chevalier Madmartigan (Val Kilmer dans le film) pour mener à bien votre quête. En revanche, impossible de choisir son personnage. </synopsis>
+	<genre>Plateforme,Plateforme / Shooter Scrolling</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform,Plattform / Shooter Scrolling</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Willow é o nome do jogo baseado no filme de 1988 do mesmo nome.
+
+Dois jogos diferentes foram lançados pela Capcom para arcades e Nintendo Entertainment System em 1989. A versão arcade é um jogo de plataforma, enquanto a versão NES é um RPG de ação.
+
+Jogos de Willow não relacionados também foram lançados para o Amiga, Atari ST, Commodore 64 e MS-DOS em 1988-89.
+Enredo
+A bruxa malvada rainha Bavmorda está atrás do bebê santo das terras, Elora Danan, com a intenção de destruí-la. Um jovem assistente chamado Willow Ufgood foi selecionado para proteger Elora. Mais tarde, um bravo guerreiro chamado Madmartigan se junta a Willow para lutar contra o rival rival Geral Kael.</synopsis>
+	<genre>Plataforma,Plataforma / Tiro com rolagem</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Lucasfilm</publisher>
+		<date year="1989" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+</datafile>

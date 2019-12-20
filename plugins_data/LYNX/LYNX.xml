@@ -1,0 +1,2957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+  <WiiTDB version="201812061243" games="105"/>
+  <game name="Alien Vs Predator">
+    <id>58770A</id>
+    <locale lang="EN">
+      <title>Alien vs Predator</title>
+      <synopsis>Choose your weapon and brawl with the notorious warriors of the big screen! Commission the Colonial Marine and use your weapons and your wits to destroy the base--and survive. Be an Alien and use your voracious instincts to defend the hive and rescure your Queen. Or play a Predator and use your grisly arsenal to acquire the ultimate trophy...the skull of the Alien Queen.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Alien vs Predator est un jeu vidéo inédit qui devait être publié par Atari pour l' Atari Lynx en 1994 mais a été annulé avant la fin
+Choisissez votre personnage dans ce jeu de Tir a la premiere personne! Commandez la Marine Coloniale et utilisez vos armes et votre intelligence pour survivre. Soyez un extraterrestre et utilisez vos instincts voraces pour défendre la ruche et sauver votre reine. Ou jouer un Predator et utiliser votre arsenal macabre pour acquérir le trophée ultime ... le crâne de la Reine Alien.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Rebellion Developments</developer>
+    <publisher>Atari</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1993" month="" day=""/>
+  </game>
+  <game name="Apb">
+    <id>14215A</id>
+    <locale lang="EN">
+      <title>APB</title>
+      <synopsis>You are police officer Bob, whose aim is to apprehend a certain quota of criminals (litterbugs, speeders and the like) each day. This is done by chasing them and sounding your siren at them - in some cases they will need ramming off the road.  There are also hardened criminals to catch - if you can get one of these to confess, your day's work is considered done.
+
+The game's action is presented with an overhead view of your squad car. Car upgrades are available, to be brought from your reward money. You earn Demerits by crashing, wrongly arresting innocents, or failing to meet your quota. Too many demerits and it is game over.</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>APB est un jeu de courses sur Lynx dans lequel vous incarnez l'officier de police Bob, et vous devez rechercher et arrêter tous les voyous qui sèment la terreur dans la ville. Ainsi, vous patrouillez dans les rues à bord de votre voiture de fonction tout en essayant d'éviter les passants et les autres véhicules.</synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>Tengen</developer>
+    <publisher>QuickSilver</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="13">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Awesome Golf">
+    <id>14243A</id>
+    <locale lang="EN">
+      <title>Awesome Golf</title>
+      <synopsis>Awesome Golf is as the name suggests, a golf simulator. There are 3 courses to play one in the U.K one in the U.S and the third one in Japan. The gameplay involves you lining up your shot via an overhead view which when set up switches to a third person view. Whilst in this view you need to swing the club and stop it at the desired power and then stop it on the correct symbol to get the perfect hit. If you don't get it right you will either miss the ball or hit the earth. There are 14 clubs at your disposal, 8 irons, 3 woods 2 wedges and a putter which are selected by moving the hand cursor over you Golf bag and selecting the desired club.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Awesome Golf est un jeu de sport sur Lynx. Vous l'avez compris, votre objectif sera de rentrer la balle de golf dans le trou en moins de coups possible. Le jeu vous procure les sensations de la compétition au fil des niveaux et propose un mode multi de 1 à 4 joueurs.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>Hand Made Software, Ltd</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Baseball Heroes">
+    <id>14254A</id>
+    <locale lang="EN">
+      <title>Baseball Heroes</title>
+      <synopsis>Hit, run, dive, jump, catch and throw. Pitch for the strikeout record and swing for the fences! Play baseball against the Lynx or take on a friend. Four different games with super graphics!</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Baseball Heroes est un jeu de base-ball sur Lynx. Vous devez sélectionner une équipe parmi les 16 qui sont proposées. Le soft ne reprend pas les équipes multimillionnaires actuelles mais plutôt les meilleures équipes qui ont fait l'histoire du sport.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Basketbrawl">
+    <id>14253A</id>
+    <locale lang="EN">
+      <title>Basketbrawl</title>
+      <synopsis>In a desperate attempt to stop inner-city gang wars, the city leaders organized a basketball league.  The league is scheduled to play on three courts: a street, a junkyard, and a rooftop.  The mayor figured that a friendly game of hoops would be a much more peaceful way to settle disputes. He was wrong.
+
+You can choose 1-on-1 or 2-on-2 game modes. There are six characters to choose from (ten in Atari Lynx version); each with their own health, speed, and power attributes. Each player without the ball can jump to block a shot or punch there opponent to get the ball. There's also an option to perform a power throw on an opposing player. Players with the ball can shoot or pass. Power ups appear on the court at random instances. These power up one attribute for the player. For example, the lightning power up increases the player's speed. 
+
+The referee does not call fouls, but does hurl knives at the players.</synopsis>
+      <genre>Beat'em Up,Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Beat'em Up,Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Basketbrawl est un jeu de sport très musclé sur Lynx. Il s'agit d'une simulation de basket combiné à un beat'em all. Le but du jeu est de marquer le plus de points à votre adversaire, soit en marquant des points au basket soit en les frappant.</synopsis>
+      <genre>Beat'em All,Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Beat'em Up,Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Briga de rua,Esporte</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
+    </input>
+  </game>
+  <game name="Batman Returns">
+    <id>14212A</id>
+    <locale lang="EN">
+      <title>Batman Returns</title>
+      <synopsis>Atari themselves adapted the 1992 superhero sequel Batman Returns for their Lynx handheld as a side-scrolling beat'em'up.
+
+Batman must move through four levels on his quest to stop the Penguin and Catwoman. Enemies trying to stop him include circus clowns on the streets, policemen (whom Catwoman put on his trail) on the roofs of Gotham City, and penguin commandos in the sewers and the Penguin's lair.
+Batman can beat them up with his fists or destroy them using Batarangs and acid vials (which must be collected first). Several of the levels end in boss encounters with the two main villains, while in the last level, Batman must also save industrialist Max Shreck from the Penguin's wrath before finishing him off.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans Batman Returns sur Lynx, vous défendez Gotham City et tentez de faire échouer les plans du Pingouin et ses hommes. Vous évoluez sur terre ainsi que dans les airs grâce aux gadgets que vous assignez à la ceinture de Batman.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="11">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Battle Wheels">
+    <id>14268A</id>
+    <locale lang="EN">
+      <title>Battle Wheels</title>
+      <synopsis>In the year 2019, Humankind turned to more and more dangerous games for its entertainment. Fight in high-tech cars armed with missiles, machine guns, flame-throwers, and more through dead cities and desert wastelands; a sixteen arena battle royal! Fight as a team or go solo! Custom build your car from the ground up or buy one from the Bodyshop. You can even go in on foot! Fast paced 3-D six player action like you've never seen before!
+
+Welcome to the World of BattleWheels.</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Battle Wheels est un jeu de course/action sur Lynx. En 2019, le genre humain invente de plus en plus de jeux dangereux pour son divertissement. Ainsi, vous devez participer à des courses de folie avec des voitures high-tech armées de missiles, de mitrailleuses, de lance-flames et bien d'autres armes surpuissantes.</synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Beyond Games</publisher>
+    <date year="1993" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="6">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Battlezone 2000">
+    <id>14255A</id>
+    <locale lang="EN">
+      <title>BattleZone 2000</title>
+      <synopsis>In this game you play the role of a tank commander who is fighting in a future war in the 21st century. The game is an update on the classic arcade game Battlezone and stays true to the original in terms of gameplay. The gameplay involves you driving round a landscape destroying enemy tanks and U.F.O.s  whilst trying not to run out of fuel and also not getting destroyed yourself though luckily there are fuel pick-ups and power-ups to collect. You can also use the credits earned for completing missions to upgrade your tank. There are also a few different tanks to choose from including the Rhino which is heavily armoured but runs out of fuel faster than the other tanks.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>BattleZone 2000 est un jeu d'action sur Lynx. En 2005, un virus destructeur a infecté le Super-Tank, un ordinateur ultra-sophistiqué. Ce virus fait se retourner toutes les armes de destruction du Super-Tank contre leurs créateurs. L'humanité est sur le chemin de l'extinction et vous devez libérer la zone de combat de ce fléau robotique.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Hand Made Software, Ltd</developer>
+    <publisher>Atari</publisher>
+    <date year="1994" month="" day=""/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Bill And Ted's Excellent Adventure">
+    <id>14248A</id>
+    <locale lang="EN">
+      <title>Bill &amp; Ted's Excellent Adventure</title>
+      <synopsis>The Lynx title based on the Keanu Reeves/Alex Winter film franchise actually takes place after the second film, Bill and Ted's Bogus Journey. Out for revenge after being humiliated by the high-school duo, Death kidnaps their "medieval babe" girlfriends from the first film, and drags them throughout history.  Luckily, the girls are able to leave behind pages of the band's latest song as a trail for Bill and Ted to follow.
+
+Playing as either Bill or Ted (with a friend able to take control of the other character over ComLynx), the player must search historical periods in an overhead perspective and collect enough musical notes to open travel to a new area. Along the way, they can encounter historical figures who will offer assistance in return for a favor.  Bad guys do populate the levels, but can be pacified with a rippin' guitar solo.  If Bill or Ted are defeated, they simply reappear back at the last checkpoint.
+
+Other items can be found and collected in an inventory. The Lynx title makes use of the series' interesting take on the time continuum, allowing the player to leave items for themselves in the past to collect and use in the future.  Likewise, if the player happens upon a sudden fortuitous item that "they" left, they must remember to go and leave the item in the past themselves to avoid creating a time paradox. This quirky view of time forms the basis of many of the game's puzzles.
+
+A password system is constantly updated (viewable at the pause screen) to save the player's progress.</synopsis>
+      <genre>Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Bill &amp; Ted's Excellent Adventure est un jeu d'aventure sur Lynx. Joanna et Elisabeth, deux jolies jeunes filles de l'Angleterre du Moyen Age, ont été kidnappées par le méchant Grim Reaper. Avec Bill et Ted vous embarquez dans des aventures spatio-temporelles pour tenter de sauver les jeunes demoiselles.</synopsis>
+      <genre>Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Abenteuer</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Block Out">
+    <id>14232A</id>
+    <locale lang="EN">
+      <title>Block Out</title>
+      <synopsis>Block Out is a Tetris variant with an added twist: it's in 3D. The player can rotate the blocks in 3D in order to fit them into the pit they are being guided into. Advanced users can play this game with odd three-dimensional pieces, or change the size of the pit, for depth of between 6 and 18 piles, and width and length of between 3 and 7.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Block Out est un puzzle-game sur Lynx s'inspirant du concept de Tetris mais transposé en 3D. Avec une vue du dessus, vous devez tourner les blocs dans tous les sens pour qu'ils s'emboîtent sans laisser d'espaces vides. Pour rehausser la difficulté, tout est paramétrable (taille du puits, vitesse, rangées etc...) dans les options.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <developer>LDW Inc.</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Blue Lightning">
+    <id>14213A</id>
+    <locale lang="EN">
+      <title>Blue Lightning</title>
+      <synopsis>The insanely evil General Drako is spreading his own special blend of spite and chaos around the globe.  You are a top fighter pilot for the UN's Blue Lightning squad.  You have to travel from continent to continent, and end Drako's plans at each stop using your awesome flight skills.
+
+Blue Lightning is a 3D flight game featuring 7 real-life fighter jets.  There are several types of missions, including dogfights, ground targets, and escorts. Your arsenal consists of various cannons, missiles, and special bombs.  The game can be played either from a behind-the-plane perspective, or an in-cockpit perspective.</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Blue Lightning est un jeu d'action sur Lynx. Le diabolique général Drako répand le chaos dans le monde entier. Vous êtes un super combattant de l'air et devez voler de continent en continent pour détruire les forces du mal.</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Simulation</genre>
+    </locale>
+    <developer>Epyx</developer>
+    <publisher>Atari</publisher>
+    <date year="1989" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Bubble Trouble">
+    <id>14233A</id>
+    <locale lang="EN">
+      <title>Bubble Trouble</title>
+      <synopsis>You are Travis, a scientist doing experiments with dense matter for the creation of artificial black holes for interstellar travel. While testing a piece of equipment, you are transported into a bubble world. Fortunately, a friendly denizen decides to help you. You must locate the correct type of radioactive particles to move from world to world and finally home, before the hostile denizens of these worlds burst your bubble.
+
+You move your bubble by pushing in the desired direction. Be advised that you do not stop easily and can bounce out of control if you are not careful. Pushing the A button fires a bubble shot that will ricochet around. You can use this action to bounce shots at enemies that are around a corner. Pressing B drops a bubble bomb straight down. Pressing Option 1 switches options on the screen, including the suicidal "Burst!!!", that are then activated by pressing Option 2. The one you will use most is "Use scanner". This will bring up the scanner that looks like a radar screen and will show you the approximate location of your needed particles. Once you locate and gather all the particles needed in the level, you move on to the next level. After you finish five levels, you win the game.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Bubble Trouble est un jeu d'action sur Lynx. Le soft est centré sur un chercheur scientifique nommé Travis qui travaille dans un institut de recherche. Malheureusement une expérience tourne mal et notre ami Travis est piégé dans un monde parallèle. Vous devez parcourir les 5 sections qui composent ce monde pour trouver une porte de sortie.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Lore Design Limited</developer>
+    <publisher>Telegames</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="California Games">
+    <id>14218A</id>
+    <locale lang="EN">
+      <title>California Games</title>
+      <synopsis>California Games was the original "Extreme Games"  what today's generation might call "X-Games in the sun".  Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX.  The surfing event is ranked by judges, which give a score to help the players improve their routine.
+
+The Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Avec California Games sur Lynx revivez les années 80 avec ce jeu de sport multi-épreuves (ou "jeu de sport à plusieurs séries d'épreuves"). Exercez-vous au surf, au skateboard, au roller, au lancer de disque et à bien d'autres activités, seul ou contre vos amis (sept maximum). De quoi vous amuser pendant un moment !</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>Epyx</developer>
+    <publisher>Atari</publisher>
+    <date year="1989" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Centipede">
+    <id>58771A</id>
+    <locale lang="EN">
+      <title>Centipede</title>
+      <synopsis>Hundreds and thousands of them. Creepy ones. Crawly ones. Buzzing ones. Swarming ones. And they're all trying to get you. Before you get them.</synopsis>
+      <genre>Lightgun Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro con accesorios</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Tir avec accessoire</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Lightgun Shooter</genre>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Shadowsoft</developer>
+    <publisher>Never Published (Prototype)</publisher>
+  </game>
+  <game name="Checkered Flag">
+    <id>14238A</id>
+    <locale lang="EN">
+      <title>Checkered Flag</title>
+      <synopsis>Checkered Flag for the Jaguar is a 3D F1-style racing game. The racing game staples are here: single race, practice, and tournament. You can choose to set up a variety of options for each race, also.  You can choose various weather conditions.  Or, you can set up your car to change it's handling characteristics.  There are 10 different tracks on which to race, each with a different theme.  Some take place on sunny beaches, others take place in the arctic.</synopsis>
+      <genre>Race, Driving,Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción,Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Checkered Flag est un jeu de courses sur Lynx dans lequel vous prenez les commandes d'une Formule 1. Vous devez battre vos adversaires sur 18 circuits différents. Grâce au Comlynx, vous pouvez jouer à 6 et profiter du mode multijoueur.</synopsis>
+      <genre>Course, Conduite,Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren,Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Corrida, Pilotagem,Esporte</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="20">
+		</rating>
+    <input players="6">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Chip's Challenge">
+    <id>14222A</id>
+    <locale lang="EN">
+      <title>Chip's Challenge</title>
+      <synopsis>Nerdy Chip desperately wants to join the "Bit Busters" computer club, led by Melinda the Mental Marvel.  However, before she'll let him in, he must prove his intelligence by passing the initiation test.  149 increasingly difficult levels, including a few hidden ones, await Chip in this tile-based puzzle game.  Use tools such as keys, and special shoes to bypass obstacles.  Manipulate switches to and use dirt blocks to build bridges across waterways.  Avoid enemy creatures, grab all the computer chips in the level, and hurry to the exit: On top of everything else, there's a time limit!</synopsis>
+      <genre>Puzzle-Game,Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas,Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Chip's Challenge est un puzzle-game sur Lynx dans lequel votre but est de récolter un maximum de "chips", des processeurs, en somme, et ensuite d'atteindre la sortie. Le soft comporte plus de 60 stages tous plus difficiles les uns que les autres.</synopsis>
+      <genre>Puzzle-Game,Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle,Strategie</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Quebra-cabeças,Estratégia</genre>
+    </locale>
+    <developer>Epyx</developer>
+    <publisher>Atari</publisher>
+    <date year="1989" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Circle Tunnel">
+    <id>141576</id>
+    <locale lang="EN">
+      <title>Circle Tunnel</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Clicks!">
+    <id>141577</id>
+    <locale lang="EN">
+      <title>Clicks!</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Conquest Of Zow">
+    <id>108859</id>
+    <locale lang="EN">
+      <title>Conquest Of Zow</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Crystal Mines 2 - Buried Treasure">
+    <id>14267A</id>
+    <locale lang="EN">
+      <title>Crystal Mines II : Buried Treasure</title>
+      <synopsis>Great treasure still lies deep in the abandoned Crystal Mines. But over the years, underground demons have made them deadly. Guide your robot through the mines, destroying demons and gathering great wealth. Or fail, and become history.</synopsis>
+      <genre>Puzzle-Game,Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas,Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Crystal Mines II est un jeu de réflexion sur Lynx. Un fabuleux trésor est profondément enfoui dans la mine abandonnée de Crystal. Ainsi vous devez contrôler un robot à travers les mines et récolter un maximum de richesses. Attention de ne pas tomber entre les mains des démons ! Cette version Buried Treasure contient à la fois le jeu original auquel viennent s'ajouter 125 nouveaux niveaux.</synopsis>
+      <genre>Puzzle-Game,Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle,Puzzle</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Quebra-cabeças,Quebra-cabeças</genre>
+    </locale>
+    <developer>Songbird Productions</developer>
+    <publisher>Color Dreams</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="17">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Daemonsgate">
+    <id>58773A</id>
+    <locale lang="EN">
+      <title>Daemonsgate</title>
+      <synopsis>Daemonsgate is a Role-Playing game, published by Electronic Innovative Design, which was cancelled before it was released.</synopsis>
+      <genre>Role-Playing</genre>
+    </locale>
+    <publisher>Never Published (Prototype)</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Imagitec</developer>
+  </game>
+  <game name="Desert Strike - Return To The Gulf">
+    <id>14211A</id>
+    <locale lang="EN">
+      <title>Desert Strike : Return to the Gulf</title>
+      <synopsis>The first game in the Strike series. A year after the Gulf War, a self-styled general named Kilbaba (Muababa in the GBA version) takes over an Arab Emirate and threatens to start World War III against his western enemy, the United States. The whole world holds its breath as the President has chosen you to destroy Kilbaba and his terrorist army before he launches a nuclear attack on the world!
+
+You must fly a specially designed AH-64A Apache on a series of missions to rescue missing-in-action characters, destroy power plants, blow apart SCUD missiles, etc. to take out the enemy defense while trying to find out Kilbaba's plans.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Desert Strike : Return to the Gulf sur Linx est le premier jeu de la série Strike. L'histoire prend place un an après la guerre du Golf alors qu'un général tyrannique menace le Moyen-Orient et les Etats-Unis. Le président vous charge d'abattre le général Kilbaba et ses terroristes, avant qu'ils n'engagent un conflit nucléaire mondial. Vous pilotez un hélicoptère Apache et vos objectifs sont divers : porter secours, détruire des objectifs, détourner des missiles...</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Telegames</developer>
+    <publisher>Teque Software</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Dinolympics">
+    <id>14270A</id>
+    <locale lang="EN">
+      <title>Dinolympics</title>
+      <synopsis>Come back to the dawn of history in this combination of puzzling problems, awesome adventures, and mind-bending mazes. The survival of your race is at stake!</synopsis>
+      <genre>Puzzle-Game,Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas,Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans Dinolympics sur Lynx, vous devez guider une tribu d'hommes préhistoriques dans leur évolution. A chaque niveau, vous devez accomplir des tâches en un temps limité avec un certain nombre de membres de la tribu. Des animations humoristiques entrecoupent les passages entre les niveaux. Vous dirigez les hommes un par un et pouvez leur demander de faire plusieurs actions différentes en fonction des objets à disposition.</synopsis>
+      <genre>Puzzle-Game,Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle,Strategie</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Quebra-cabeças,Estratégia</genre>
+    </locale>
+    <developer>Imagitec Design</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="13">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Dirty Larry - Renegade Cop">
+    <id>14234A</id>
+    <locale lang="EN">
+      <title>Dirty Larry : Renegade Cop</title>
+      <synopsis>He's the baddest of the good guys. He's Dirty Larry - Renegade Cop. Mr. Big's Gang is determined to end his career for good--if his own Captain doesn't do it first! So take to the streets in a hurry. It's time for a little house cleaning!</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dirty Larry : Renegade Cop est un jeu d'action sur Lynx. Le gang de Mr Big est bien décidé à mettre définitivement fin à votre carrière si ce n'est pas votre propre Capitaine qui s'en charge lui-même ! Disparaissez dans la rue. Le temps est venu d'effectuer un bon petit nettoyage de la maison du gang !</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="12" day="30"/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Double Dragon">
+    <id>14210A</id>
+    <locale lang="EN">
+      <title>Double Dragon</title>
+      <synopsis>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.
+
+Using whatever techniques they have at their disposal, from the basic punches and kicks to the invulnerable elbow strike, as well any weapon that comes into their hands, the Lee brothers must pursue the gang through the city slum, industrial area and the forest before reaching their hideout to confront the big boss, Willy.</synopsis>
+      <genre>Beat'em Up,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Beat'em Up,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Double Dragon sur Lynx est un beat'em all se déroulant dans un New York chaotique, au coeur des années 90. Seul ou à 2, vous incarnez Billy et Jim Lee, deux frères enseignant les arts martiaux. L'histoire débute lorsque la petite amie de Billy est kidnappée par un gang urbain. Les deux frères décident alors d'aller directement en découdre avec la bande adverse.</synopsis>
+      <genre>Beat'em All,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Beat'em Up,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Briga de rua,Ação</genre>
+    </locale>
+    <developer>Tecmo</developer>
+    <publisher>Telegames</publisher>
+    <date year="1993" month="" day=""/>
+    <rating type="NOTE" value="13">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Dracula The Undead">
+    <id>14244A</id>
+    <locale lang="EN">
+      <title>Dracula the Undead</title>
+      <synopsis>In this game you play the role of Jonathan Harker, an Estate Agent who has visited Dracula's castle to conduct some business. The gameplay is a point and click style adventure except it has been tweaked to accommodate the Lynx controls. To interact with an object you move Jonathan next to the object with the D-Pad and then its name will pop up in the interaction bar. You then need to select an action such as Open, Close examine e.t.c.. The main idea of the game is to explore Dracula's castle while he is away and try to gather information that will prove he is a very serious threat to the mortal world. there are also other character in the game to interact with and Bram Stoker (the writer of Dracula which this game is based on) is in the game in digital form to narrate the story.</synopsis>
+      <genre>Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dracula the Undead est un jeu d'aventure sur Lynx. Vous devez explorer le sinistre château de Dracula dans le but de trouver l'hôte des lieux et de le tuer. Mais, attention ! Si vous échouez, vous servez de dîner à toute la famille du vampire.</synopsis>
+      <genre>Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Abenteuer</genre>
+    </locale>
+    <developer>Hand Made Software, Ltd</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="19">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Dungeon, The">
+    <id>141563</id>
+    <locale lang="EN">
+      <title>Dungeon, The</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Electrocop">
+    <id>14269A</id>
+    <locale lang="EN">
+      <title>Electrocop</title>
+      <synopsis>Today, if a daughter of the President goes missing, I would look in the nearest bar. However, in the near future, the explanation is that she's been kidnapped by a Criminal Brain robot, and held in a booby-trapped lair. As the advanced hybrid Electrocop, your task is to rescue her within an hour.
+
+Gameplay involves working your way through the complex warehouse maze, unlocking coded door along the way. Extra weapons can be collected to help dealing with the drones. There are also computer terminals to buy new weapons - these also have simple subgames built in. What makes the game unique, and intended as a showpiece for the Lynx hardware, is that full 3D is used, so that the character walks in and out of the screen as well as across it.</synopsis>
+      <genre>Puzzle-Game,Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas,Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Electrocop est un jeu d'action/réflexion sur Lynx. Aujourd'hui, la fille du Président est portée disparue. Elle a été capturée par le méchant robot Criminal Brain. Seul vous, en tant que robot hybride, Electrocop, pouvez la ramener.</synopsis>
+      <genre>Puzzle-Game,Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle,Abenteuer</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Quebra-cabeças,Aventura</genre>
+    </locale>
+    <developer>Epyx</developer>
+    <publisher>Atari</publisher>
+    <date year="1989" month="" day=""/>
+    <rating type="NOTE" value="8">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="European Soccer Challenge">
+    <id>14272A</id>
+    <locale lang="EN">
+      <title>European Soccer Challenge</title>
+      <synopsis>European Soccer Challenge gives you all the excitement and tension of the European Challenge Cup in this action packed version of the world's most popular game featuring over 170 teams from 32 countries. Has your team got what it takes?</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>European Soccer Challenge est un jeu de football sur Lynx. Retrouvez les équipes officielles ainsi que les noms et les statistiques des joueurs de la saison. Mettez en place une bonne tactique pour que votre équipe pousse le ballon au fond des filets.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>Telegames</developer>
+    <publisher>Telegames</publisher>
+    <date year="1993" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Eye Of The Beholder">
+    <id>58774A</id>
+    <locale lang="EN">
+      <title>Eye of the Beholder</title>
+      <synopsis>Put your best fighters up front. Battle Axe wielding Skeletons are among the first horrors you'll encounter in 13 levels of mayhem. Will they be the last? These flinds aren't your friends. And they like to hunt in packs! Ever met a Kuo-Toa? It's an electrifying experience. Even more shocking is The Beholder himself, if you survive long enough to meet him. Don't forget to look behind you! Giant spiders like to watch you pass, then strike.</synopsis>
+      <genre>Role-Playing</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le jeu est très similaire à Dungeon Master, à savoir un jeu de rôle dont la progression est fondée sur l'exploration de souterrains de plus en plus profonds, mais il utilise les règles de Donjons et Dragons. Le jeu se caractérise par des combats en temps réel et une vue subjective</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>NuFX, Inc.</developer>
+    <publisher>Atari Inc.</publisher>
+    <date year="1990" month="" day=""/>
+  </game>
+  <game name="Fat Bobby">
+    <id>14273A</id>
+    <locale lang="EN">
+      <title>Fat Bobby</title>
+      <synopsis>Fat Bobby, the lead guitar player, has nnhad his musical group kidnapped by the nnevil Dr. Mephisto. nnnnYou guide Bobby thru a multitude of nnlevels in this classic platform hopper. nnnnCollect notes and hints, as you nnencounter the henchmen of Dr. nnMephisto. nnnnThat guitar can "strum" more than just nnnotes!</synopsis>
+      <genre>Platform</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Plataforma</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Fat Bobby est un jeu de plates-formes en deux dimensions sur Lynx. Vous incarnez le rockeur Bobby et vous devez vous échapper de la masse d'ennemis qui veulent vous stopper ! Utilisez votre guitare pour fracasser des crânes et vous tailler un chemin à travers les niveaux du jeu !</synopsis>
+      <genre>Plateforme</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Plattform</genre>
+    </locale>
+    <developer>Telegames</developer>
+    <publisher>Telegames</publisher>
+    <date year="1997" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Fidelity Ultimate Chess Challenge">
+    <id>14256A</id>
+    <locale lang="EN">
+      <title>Fidelity Ultimate Chess Challenge</title>
+      <synopsis>On your own against the Fidelity Ultimate Chess Challenge - the world's most powerful hand-held chess game - or against a friend, the stunning 3D graphics and advanced technology of this latest game from Telegames has to be played to be believed.
+The Fidelity Ultimate Chess Challenge uses the most powerful chess playing technology from the laboratories of Fidelity - the premier manufacturers of dedicated chess computers are developers of the world's only USCF certified Master rated (2325) chess program.
+Switch from 3D to overhead view for the final attack - or use one of the many options available to review the game to date.
+Full on-screen statistics giving score, times, moves etc. and many other features on this the world's fastest color hand-held chess game.</synopsis>
+      <genre>Puzzle-Game,Board game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas,Juegos de mesa</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Fidelity Ultimate Chess Challenge est un jeu de société sur Lynx. Vous êtes face à un plateau d'échecs entièrement réalisé en 3D. Les statistiques des scores, du temps et des mouvements vous sont indiquées sur l'écran.</synopsis>
+      <genre>Puzzle-Game,Jeu de societe / plateau</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle,Brettspiele</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Quebra-cabeças,Jogo de tabuleiro</genre>
+    </locale>
+    <developer>Telegames</developer>
+    <publisher>Telegames</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Gates Of Zendocon">
+    <id>14257A</id>
+    <locale lang="EN">
+      <title>Gates of Zendocon</title>
+      <synopsis>The evil spider Zendocon has trapped you in its web of universes.  Your mission is to defeat Zendocon's droids and brave the 51 universes to fight Zendocon itself to the death!
+
+Gates of Zendocon is a side-scrolling shooter very similar to the original arcade shooter of this type, Scramble.  Unlike Scramble, there are 51 game areas in total, but the player fights through a subset of them through branches, choosing the next area to visit.  
+
+Some aliens will join you when shot (power-ups).  Alien bases in each area allow you to repair your weapons and shield, but landing at the wrong time will cause your ship to explode and lose all power-ups.</synopsis>
+      <genre>Shoot'em Up,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>La araña malvada Zendocon te ha atrapado en su red de universos. Tu misión es derrotar a los androides de Zendocon y atravesar los 51 universos para luchar contra Zendocon ¡a muerte!nnnnGates of Zendocon es un shooter de desplazamiento lateral muy similar al arcade original de este tipo, Scramble. A diferencia de Scramble, hay 51 áreas de juego en total, pero el jugador lucha a través de un subconjunto de ellos, podiendo elegir la siguiente área para visitar.nnnnAlgunos alienígenas se unirán a ti cuando les dispares (power-ups). Las bases alienígenas en cada área te permitiran reparar las armas y el escudo, pero aterrizar en el momento equivocado hará que tu nave explote y pierdas todos los power-ups.</synopsis>
+      <genre>Shoot'em Up,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Gates of Zendocon est un shoot'em up sur Lynx. La maléfique araignée Zendocon vous a piégé dans sa toile. Votre mission si vous l'acceptez est de la vaincre, elle et ses courageux droïdes, aux travers des 51 univers du jeu.</synopsis>
+      <genre>Shoot'em Up,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shoot'em Up,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Shoot'em Up,Ação</genre>
+    </locale>
+    <developer>Epyx</developer>
+    <publisher>Atari</publisher>
+    <date year="1989" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Gauntlet - The Third Encounter">
+    <id>14227A</id>
+    <locale lang="EN">
+      <title>Gauntlet : The Third Encounter</title>
+      <synopsis>Gauntlet: The Third Encounter is an arcade-style action game by Atari, that was released on the Atari Lynx handheld in 1990. The game can be played by one to four players simultaneously. It introduced new character classes like ?Nerd? or ?Punkrocker? and was one of a few games that used the ?vertical mode? of the Atari Lynx, another being the port of Klax. The story: a crystal falls from the sky and lands in a castle, and it must be retrieved from within its 40 mazes type area. A year later U.S. Gold and Tengen would release another completely different game called Gauntlet III: The Final Quest.</synopsis>
+      <genre>Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Gauntlet : The Third Encounter est un jeu d'action/aventure sur Lynx. Une étoile magique nommée Gem a été capturée puis retenue prisonnière dans les catacombes d'une forteresse. Avec vos amis, vous devez libérer l'étoile ainsi que votre pays.</synopsis>
+      <genre>Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Abenteuer</genre>
+    </locale>
+    <developer>Tengen</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Gordo 106">
+    <id>14274A</id>
+    <locale lang="EN">
+      <title>Gordo 106</title>
+      <synopsis>You are a monkey named Gordo, resident of N. Human Labs cage 106, a laboratory experimenting with animals.  One day Gordo accidentally ingests a nuclear spiked banana, causing his brain to become larger and become more human and thought and figures out what is going on.  He gets loose and is now on a mission to free his animal friends and escape the evil clutches of the N. Human Laboratory.
+
+Banana's are your only health pick up and you use apples to fight off enemies.  Gordo is very agile and can swing from chains that hang from the ceiling to avoid the many pits that litter the floor.</synopsis>
+      <genre>Platform,Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Plataforma,Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le jeu Gordo 106 tire son nom de son héros : un singe de laboratoire nommé Gordo occupant la cage 106. Après avoir avalé une banane radioactive, Gordo prend conscience de son état et décide de s'évader. Dans sa fuite, il compte bien libérer aussi tous les autres animaux du laboratoire. Aidez-le dans sa quête de liberté dans ce jeu de plates-formes sur Lynx.</synopsis>
+      <genre>Plateforme,Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Plattform,Abenteuer</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Plataforma,Aventura</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1993" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Hard Drivin'">
+    <id>14275A</id>
+    <locale lang="EN">
+      <title>Hard Drivin'</title>
+      <synopsis>Hard Drivin' is a 3D arcade hit from Atari Games. You are in control of a high-performance sports car. Your objective is to race around the course as fast as possible and hit as many checkpoints as possible. If you hit a checkpoint you gain extra time to go farther. You will see traffic on the road both in your direction and coming down the opposite direction, so be careful when you pass... 
+
+The course has two sections: speed track, and stunt track. Speed track is longer, but you can usually achieve higher speeds. Stunt track requires you to perform several stunts such as jumping bridges, driving through a loop, and so on. 
+
+Crashing the car has no serious consequences and indeed shows a replay of your crash from a cinematic angle. Admire your crash head-on into the cement truck, or clipping the minivan, or flying off the bridge in the wrong angle... You lose several seconds as your car is "reset" and you get up to speed again. 
+
+The home conversions retain most of the then-advanced 3D graphics but lack the force-feedback that was in the arcade version.</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Hard Drivin' est un jeu de courses en 3D sur Lynx. Vous êtes au volant d'une voiture de sport et le but est de conduire en passant le plus de points de contrôle possibles. Chaque point de contrôle vous offre un bonus de temps supplémentaire pour aller plus loin. Certains circuits sont propices aux cascades (sauter à travers un anneau, sauter un pont...) et vous pouvez regarder votre performance grâce à un ralenti.</synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Hockey">
+    <id>14258A</id>
+    <locale lang="EN">
+      <title>Hockey</title>
+      <synopsis>This game, as the name suggests, is a hockey simulation which is very similar to Mario Lemieux Hockey. There are 22 teams to choose from which are based on the NHL 91 line up though they can be changed if the player wishes. You control 1 player at a time and the CPU controls the rest of your team though you can switch to a different player at any time if the need arises. There is also a fight penalty system where you have to continually punch the an opponent in order to proceed. The game is viewed from an isometric perspective as if you were sat in one of the crowd seats.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Hockey est un jeu de sport sur Lynx. Vos patins glissent sur la patinoire, et vous lancez le palet à toute vitesse dans le but adverse : voilà ce qui vous attend dans le soft. Mettez en place la tactique de votre équipe, gérez au mieux vos changements et vous voici parti pour un match de folie !</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Hydra">
+    <id>14276A</id>
+    <locale lang="EN">
+      <title>Hydra</title>
+      <synopsis>If being the best speedboat racer in the world were all there was to life, you'd live on easy street.  But when the government of Hydra has asked for your help in defeating Hydra's enemies by couriering parts to a secret weapon, and those enemies know you're coming... well then, life gets interesting.
+
+Race down narrow swamp lanes to deliver parts of a secret weapon to bases at the finish of each section.  Enemies will be shooting at you, but you can shoot back with Uzi Cannons and Nukes.  Collect crystals along the way to boost your speed or shields.</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Hydra est un jeu d'action/courses sur Lynx. A bord de votre bateau super sophistiqué, vous devez délivrer des équipements militaires ultra-secrets aux quatre coins du monde. Mais attention, de nombreux pièges vous attendent.</synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Ishido - The Way Of Stones">
+    <id>14245A</id>
+    <locale lang="EN">
+      <title>Ishido : The Way of Stones</title>
+      <synopsis>Introducing Ishido, the ancient and intricate Game of the Stones. You must place stones on the game board, matching colors and patterns according to centuries-old rules. It requires great skill and concentration--but if you can unlock the secret of the Oracle, its wisdom will help you!</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ishido : The Way of Stones est un jeu de réflexion sur Lynx. Il s'agit d'une reproduction du jeu de plateau Solitaire et le but est de placer les différentes pièces dans le bon ordre pour marquer des points. Un grand nombre de plateaux différents sont disponibles et un mode construction permet de créer ses propres designs.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Apresentando Ishido, o antigo e intrincado Game of the Stones. Você deve colocar pedras no tabuleiro do jogo, combinando cores e padrões de acordo com regras seculares. Isso exige grande habilidade e concentração - mas se você pode desbloquear o segredo do Oracle, sua sabedoria irá ajudá-lo!</synopsis>
+    </locale>
+    <developer>Software Resources International</developer>
+    <publisher>Publishing International</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Jimmy Connors' Tennis">
+    <id>58775A</id>
+    <locale lang="EN">
+      <title>Jimmy Connors' Tennis</title>
+      <synopsis>Jimmy Connors' Tennis is a Sports game, published by Atari, which was released in 1993.</synopsis>
+      <genre>Sports,Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes,Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans Great Courts sur Lynx, apprenez à jouer au tennis avec l'un des plus grands tennismen de tous les temps. Après avoir choisi un coach parmi les cinq proposés, vous pouvez enrôler Jimmy Connors et parcourir les cours du Monde entier. Les compétitions les plus importantes sont jouables, y compris les quatre tournois du Grand Chelem. Il est donc possible de jouer sur surface dure mais aussi sur terre battue et gazon.</synopsis>
+      <genre>Sport,Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport,Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Esporte,Esporte</genre>
+    </locale>
+    <developer>Hand Made Software, Ltd</developer>
+    <publisher>Atari</publisher>
+    <date year="1993" month="" day=""/>
+    <rating type="NOTE" value="9">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Joust">
+    <id>14240A</id>
+    <locale lang="EN">
+      <title>Joust</title>
+      <synopsis>In Joust, players take control of a knight with a lance who rides their flying ostrich (or stork, for Player 2) to do battle against computer-controlled evil knights who ride atop vultures.
+
+Players must flap their steed's wings to hit the enemy from a higher jousting point to destroy the vulture and its rider. Once the enemy has been hit, an egg falls to one of the platforms below. The heroic knights must destroy the eggs before they hatch and release new and increasingly more difficult knights. The three strengths of enemy knights are Bounder (red knight), Hunter (white knight), and Shadow Lord (blue knight). These enemy knights are not the only challenge to be found in the game. Players must also contend with crumbling platforms, lava trolls who attempt to pull knights into the fire, and the dreaded "unbeatable"(?) pterodactyl.
+
+The game was novel for its time for being one of the few two-player simultaneous games in the arcade.</synopsis>
+      <genre>Platform,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Plataforma,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Montez votre noble autruche et engagez le combat dans le jeu d'arcade classique Joust sur Lynx. Si vous jouez avec un ami, une cigogne sera sa monture. Ensemble, combattez trois types de chevaliers ennemis : les goujats rouges, les chasseurs argents et les Seigneurs des ténèbres bleu foncé. Alors que ces méchants volent à travers les caves à dos de véloces busards, frappez-les du dessus à coups de lance.</synopsis>
+      <genre>Plateforme,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Plattform,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Plataforma,Ação</genre>
+    </locale>
+    <developer>Shadowsoft</developer>
+    <publisher>Williams Electronics</publisher>
+    <date year="1993" month="" day=""/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Klax">
+    <id>14249A</id>
+    <locale lang="EN">
+      <title>Klax</title>
+      <synopsis>An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number of colors as the game progresses.</synopsis>
+      <genre>Puzzle-Game,Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas,Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Klax sur Lynx est un puzzle-game dans lequel il vous faut disposer des blocs de couleur arrivant sur un tapis, de manière précise afin de les éliminer. Ils disparaissent par groupe de 3 minimum, et ce verticalement, horizontalement, et en diagonale. Plus vous avancez dans le jeu, plus le nombre de blocs de couleur différents s'accroît.</synopsis>
+      <genre>Puzzle-Game,Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle,Strategie</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Quebra-cabeças,Estratégia</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Krazy Ace Miniature Golf">
+    <id>14230A</id>
+    <locale lang="EN">
+      <title>Krazy Ace Miniature Golf</title>
+      <synopsis>Krazy Ace Miniature Golf is a miniature golf game for one to four players. You must hit the golf ball into the hole in the fewest shots while avoiding obstacles and traps. Try to get a better score than your opponent(s) or at least get within the number of shots per hole (par).</synopsis>
+      <genre>Sports,Sports / Golf</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes,Deportes / Golf</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Krazy Ace Miniature Golf est un jeu de sport sur Lynx. Nous voici en présence d'un jeu de golf miniature jouable de 1 à 4 joueurs. Vous devez donc placer la balle dans le trou en moins de coups possible tout en évitant les pièges et les obstacles.</synopsis>
+      <genre>Sport,Sport / Golf</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport,Sport / Golf</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Esporte,Esporte / Golfe</genre>
+    </locale>
+    <developer>Telegames</developer>
+    <publisher>Telegames</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="13">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Kung Food">
+    <id>14250A</id>
+    <locale lang="EN">
+      <title>Kung Food</title>
+      <synopsis>The ultimate food fight!  Mutant munchies from your freezer invade your kitchen, your life and your world.  Speed and your martial arts skills are required to overcome the vicious veggies!</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Kung Food est un jeu d'action sur Lynx. Des Munchies mutants sortent de votre réfrigérateur et envahissent votre cuisine. Pour vaincre ces êtres vicieux, vous aurez besoin de beaucoup de rapidité et d'adresse. L'ultime combat de la nourriture a commencé.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Lemmings">
+    <id>14208A</id>
+    <locale lang="EN">
+      <title>Lemmings</title>
+      <synopsis>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.
+
+You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</synopsis>
+      <genre>Puzzle-Game,Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas,Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Votre tâche dans Lemmings sur Lynx est de secourir les petites créatures aux cheveux verts sur 120 niveaux. Un pourcentage d'individus à maintenir en vie vous est indiqué pour chaque mission. A vous de vous adapter à la configuration du terrain de jeu en assignant des tâches telles que creuser, construire un escalier ou encore bloquer le passage dans l'optique de ramener à bon port vos infatigables Lemmings.</synopsis>
+      <genre>Puzzle-Game,Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle,Strategie</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Quebra-cabeças,Estratégia</genre>
+    </locale>
+    <developer>DMA Design</developer>
+    <publisher>Psygnosis</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Lexis">
+    <id>58776A</id>
+    <locale lang="EN">
+      <title>Lexis</title>
+      <synopsis>This is much like the game Tetris but instead of falling blocks, you have to make words out of falling letters. Some words will give you cheats or unlock a bonus game. Keep going until the letters reach the top of the screen, at which point the game is over. Words can be formed horizontally, vertically, forwards or backwards.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>C'est un peu  Tetris, mais au lieu de des blocs, ce sont des lettres qui tombent et vous devez former des mots. Certains mots vous donneront des bonus. Continuez jusqu'à ce que les lettres atteignent le haut de l'écran.Les mots peuvent être formés horizontalement, verticalement, en avant ou en arrière.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <developer>Shadowsoft</developer>
+    <publisher>Songbird Productions</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Lite">
+    <id>141589</id>
+    <locale lang="EN">
+      <title>Lite</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Lode Runner">
+    <id>124349</id>
+    <locale lang="EN">
+      <title>Lode Runner</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Loopz">
+    <id>58777A</id>
+    <locale lang="EN">
+      <title>Loopz</title>
+      <synopsis>A puzzle game where the main goal is to make loops! Random pieces are presented over a board, including simple lines and corners as well as S bends and other warped shapes, of varying sizes. It is up to the player to link them up in a loop form, then moving on to the next level. Pieces can be placed on any empty space on the grid, and rotated into one of the four main compass directions.
+
+Any pieces which are not part of the finished loop when a level is completed are left on the screen, so there is value in playing towards 2 distinct loops, to ensure that you have options depending on which pieces are drawn - unlike Pipe Dream there are no clues as to which pieces are coming next.
+
+Three play modes are available, two of which can be played with two players. Game A is freestyle - simply make loops, gaining extra points for size and style. 
+
+Game B is about unlocking bonus boards of the game by reaching a certain score. and uses a bonus multiplier method depending on loop difficulty.
+
+The third mode of play begins with an already made loop and then removes random pieces of it, so the player has to put them back in when they appear again. It is essentially a memory test and logic puzzle of fitting the pieces back as one remembers - although placing a piece where it seems to fit is also often effective.</synopsis>
+      <genre>Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le but du jeu est de faire disparaître les pièces en les disposant de manière à former des boucles (loop en anglais), c'est-à-dire des circuits fermés.</synopsis>
+      <genre>Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie</genre>
+    </locale>
+    <developer>Audiogenic</developer>
+    <publisher>Songbird Productions</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Lynx Casino">
+    <id>14251A</id>
+    <locale lang="EN">
+      <title>Lynx Casino</title>
+      <synopsis>This game is a collection of casino games which are accessed by moving the player around the casino and selecting the preferred game table or machine to play that game. You start off with $1,000 to gamble with though you can get two loans of $500 if needed from the dealers. Once all your money has been gambled away it is game over.
+
+The 5 games available are:
+
+1. Blackjack
+2. Craps
+3. Roulette
+4. Slot Machines (Fruit Machines)
+5. Video Poker</synopsis>
+      <genre>Board game,Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de mesa,Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Lynx Casino est un jeu de société sur Lynx. Si vous avez déjà rêvé de gagner des milliers de dollars à Las Vegas, ce soft va réaliser vos souhaits. Cinq des principaux jeux de casino sont présents sur la cartouche.</synopsis>
+      <genre>Jeu de societe / plateau,Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Brettspiele,Simulation</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Jogo de tabuleiro,Simulação</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="13">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Malibu Bikini Volleyball">
+    <id>14229A</id>
+    <locale lang="EN">
+      <title>Malibu Bikini Volleyball</title>
+      <synopsis>Welcome to Malibu: Volleyball capital of the world. This is where the best come to play--and show off their tans. If you want in, sign up. But keep your eyes on the ball...there'll be plenty of time for bikini-watching after the match!</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Bienvenido a Malibu: Capital del mundo del voleibol. Aquí es donde los mejores vienen a jugar - y mostrar su bronceado. Si quieres, regístrate. Pero mantener los ojos en la bola ... habrá mucho tiempo para ver bikinis después del partido!</synopsis>
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Malibu Bikini Volleyball est un jeu de sport sur Lynx. Vous êtes aux commandes d'une équipe de jolies filles assez dénudées qui luttent courageusement pour le titre de championnes de volley. Mais attention, ne vous laissez pas distraire par des Bikinis et concentrez-vous plûtot sur votre seul objectif : la victoire !</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>Hand Made Software, Ltd</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mandelbrot">
+    <id>141579</id>
+    <locale lang="EN">
+      <title>Mandelbrot</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Marble Madness">
+    <id>108861</id>
+    <locale lang="EN">
+      <title>Marble Madness</title>
+    </locale>
+    <developer>Matthias Domin</developer>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Marlboro Go!">
+    <id>58779A</id>
+    <locale lang="EN">
+      <title>Marlboro Go!</title>
+      <synopsis>Prototype.  Never released.</synopsis>
+      <genre>Racing</genre>
+    </locale>
+    <publisher>Never Published (Prototype)</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Digital Image</developer>
+  </game>
+  <game name="Ms. Pac-man">
+    <id>14223A</id>
+    <locale lang="EN">
+      <title>Ms. Pac-Man</title>
+      <synopsis>In 1982, a sequel to the  incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man.  This sequel continued on the "eat the dots/avoid the ghosts" gameplay of the original game, but added new features to keep the title fresh.
+
+Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit  while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics.  One touch from any of these ghosts means a loss of life for Ms. Pac-Man.
+
+Ms. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points (ranging from 200, 400, 800 and 1600, progressively). The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.
+
+Survive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of "Junior".</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ms. Pac-Man sur Lynx est un jeu d'arcade dans lequel vous dirigez une petite boule jaune dans un labyrinthe infesté de fantômes à votre poursuite. A vous de leur échapper tout en ramassant les pac-gommes sur votre chemin. Attrapez des bonus afin de pourchasser les fantômes à votre tour et de les dévorer pendant un court laps de temps. Mais attention à leur course aléatoire !</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Namco</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Nfl Football">
+    <id>14246A</id>
+    <locale lang="EN">
+      <title>NFL Football</title>
+      <synopsis>NFL Football is an officially licensed NFL Americal football game. The game is played by holding the Lynx vertically and sports zooming and scaling graphical features, with an overhead, top-down view. Games last for four 15-minute quarters and it contains circa 25 offensive plays. Passing is done by holding down the B button and then moving a cross-hair to an open receiver, and then releasing the button to throw. Strategies can be changed in real-time. Two players can compete head-to-head with the ComLynx cable.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans NFL Football, vous vivez l'intégralité de la saison de football américain du championnat NFL sur votre Lynx. Comme le jeu possède la licence officielle, les 28 équipes et tous les joueurs sont réels. Lors des matches, la vue est horizontale, sauf pour la mise en jeu. Il faut déterminer la stratégie avant chaque phase d'attaque et de défense.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="8">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Ninja Gaiden">
+    <id>14224A</id>
+    <locale lang="EN">
+      <title>Ninja Gaiden</title>
+      <synopsis>Ninja Gaiden begins with a cinematic animation in which 2 ninjas duel to the death; one goes down. It is revealed that the doomed ninja is the father of Ryu Hayabusa. When Ryu learns of this, he embarks on a quest to find out who killed his father and why. This quest takes him to America to find an archaeologist with whom Ryu's father was working. From there, Ryu becomes embroiled in an evil, supernatural conspiracy involving a villain named Jaquio who has plans to use an ancient castle and some relics to unleash a terrifying evil upon the world.
+
+Ninja Gaiden is a side scrolling game where Ryu the ninja can run, jump, and slash with his ninja sword. He can also attach to any vertical surface. Powerups are littered throughout the landscape that allow Ryu to toss fireballs and ninja stars, and perform other feats.
+
+Ryu will battle through urban city settings, forests, jungles, snow covered castles, underground railroads, and ancient castles. A major feature in Ninja Gaiden are the cinematic scenes -- sometimes fullscreen -- through which the storyline unfolds.</synopsis>
+      <genre>Beat'em Up,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Beat'em Up,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ninja Gaiden (Shadow Warriors sur d'autres supports) est un beat'em all sorti sur Lynx. Vous êtes Ryu, un ninja moderne, et vous devez partir en Amérique pour découvrir qui a tué votre père. Vos recherches vous conduiront dans un scénario surnaturel.</synopsis>
+      <genre>Beat'em All,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Beat'em Up,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Briga de rua,Ação</genre>
+    </locale>
+    <developer>Tecmo</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Ninja Gaiden 3 - The Ancient Ship Of Doom">
+    <id>14221A</id>
+    <locale lang="EN">
+      <title>Ninja Gaiden III : The Ancient Ship of Doom</title>
+      <synopsis>Immerse yourself in action-acked Ninja adventure as you help Ryu through his greatest challenge. Battle the hideous ancient forces of darkness to save mankind, with the epic adventure unfolding as you complete each level.</synopsis>
+      <genre>Beat'em Up</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Beat'em Up</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ninja Gaiden III : The Ancient Ship of Doom est un beat'em all sur Lynx. Vous incarnez le héros Ryu Haybusa. Ainsi vous parcourez les différents niveaux à la recherche des énigmes qui entourent le "Plan Biohazard".</synopsis>
+      <genre>Beat'em All</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Beat'em Up</genre>
+    </locale>
+    <developer>Tecmo</developer>
+    <publisher>Tecmo</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pac-land">
+    <id>14220A</id>
+    <locale lang="EN">
+      <title>Pac-Land</title>
+      <synopsis>Pac-Land is a side-scrolling 1-2 player game with a cartoony feel to it. Now equipped with arms, face, and legs, Pac must guide a fairy back to her home in Fairy Land, but this task will not be easy because Inky, Blinky, Pinky, Clyde, and Sue will pursue Pac-Man as he travels through Pac-Land. When he finally transports the fairy back to her home, Pac is given some magic shoes, which will help him get to his own home, where he will be greeted by his family: Ms. Pac-Man, Baby Pac-Man, Chomp Chomp, and Sourpuss. 
+
+There are sixteen rounds to complete, with four trips each. During each round, he can grab a power pellet, which cause ghosts to turn blue, allowing Pac-Man to eat them for points. Points are also awarded by collecting fruit that appear, like cherries and strawberries. In some rounds, Pac must use a springboard to jump over a lake. He must also make it to the end of each round before time runs out, otherwise a ghost will chase him.</synopsis>
+      <genre>Platform,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Plataforma,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Pac-Land est un jeu de plates-formes sur Lynx. Contrairement à la tradition, ce jeu Pac-Man est en vue de profil. Le héros doit rapporter une fée à Fairy-Land puis revenir chez lui. Mais les fantômes ne l'entendent pas de cette oreille et feront tout pour arrêter la boule jaune dans son périple. Le jeu comporte 16 niveaux et peut être pratiqué à deux joueurs.</synopsis>
+      <genre>Plateforme,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Plattform,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Plataforma,Ação</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="11">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Paperboy">
+    <id>14214A</id>
+    <locale lang="EN">
+      <title>Paperboy</title>
+      <synopsis>Based on the arcade game, the object of Paperboy is to deliver papers to your customers while inflicting as much damage as possible to the houses of your non-customers. To make things more difficult, numerous obstacles get in your way including construction workers, rogue tires, skateboarders, dogs and cats, cars, and even the occasional tornado.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Paperboy sur Lynx est l'adaptation du succès arcade du même nom. Vous incarnez un jeune livreur de journaux à vélo et devez effectuer votre tâche le plus rapidement possible. Prenez garde tout de même aux divers obstacles, à savoir les automobilistes, chiens, skaters et autres trous dans la chaussée.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Para Lemi!">
+    <id>141564</id>
+    <locale lang="EN">
+      <title>Para Lemi!</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pinball Jam">
+    <id>14277A</id>
+    <locale lang="EN">
+      <title>Pinball Jam</title>
+      <synopsis>Pinball Jam is a Lynx conversion of two pinball tables:  "Elvira and the Party Monsters" (Midway, 1989), and "Police Force" (Williams, 1989).  Both feature authentic table layouts, targets, and bonuses; the conversion of Elvira and the Party Monsters also features digitzed sound effects, including the voice of Cassandra Peterson (Elvira).
+
+Each table scrolls up and down during gameplay (as opposed to just "snapping" to a new area as the ball reaches it).</synopsis>
+      <genre>Pinball,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Pinball,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Pinball Jam est un jeu de flipper sur Lynx. Vous pouvez choisir entre le décor de flipper "Elvira and the Party Monsters" ou "Police Force". Il ne vous reste plus qu'à tirer, secouer et frapper la bille. Le but étant bien sûr de réaliser le plus grand score possible.</synopsis>
+      <genre>Flipper,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Flipper,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Pinball,Ação</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pit-fighter">
+    <id>14219A</id>
+    <locale lang="EN">
+      <title>Pit-Fighter</title>
+      <synopsis>Pit-Fighter is a 3rd-person fight game that features digitized graphics of real fighters and zooming effects.  Players select one of three fighters (Buzz, Ty or Kato) to take on anyone who dares. At the conclusion of a match, players are individually awarded a Knockout Bonus, Brutality Bonus, and a Fight Purse. Every third match is a Grudge Match where players test the skills of each other. The last man standing is the winner of this three-knockdown match. Players fight their way to the Elimination Match to decide who wins the opportunity to dethrone the champion, the Masked Warrior.</synopsis>
+      <genre>Fight,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Combate,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Choisissez parmi les trois personnages disponibles (Buzz, Ty ou Kato) et lancez-vous dans les combats de rue de Pit-Fighter sur Lynx. Le combattant qui reste debout l'emporte et il faut vaincre tous ses adversaires pour arriver à détrôner le grand champion : the Masked Warrior.</synopsis>
+      <genre>Combat,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Kampf,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Luta,Ação</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="4">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pong 5">
+    <id>124350</id>
+    <locale lang="EN">
+      <title>Pong 5</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Power Factor">
+    <id>14252A</id>
+    <locale lang="EN">
+      <title>Power Factor</title>
+      <synopsis>Power Factor is an action-platformer starring the single campily-named hero, Redd Ace, fighting alien creatures known as the Ceegarians from the Ceeg dimension.  Of course, aliens being played out, the Ceegarians are actually referred to as "transdimensional intruders," and the Ceegarian creatures the player faces off against are referred to as evil invading "Sinlendo Techmods."  
+
+The primary goal of the game is to work through stages and bosses essentially to build a bomb to destroy the Ceegarians. Pertaining to the bomb, there are six components.  The entire game takes place within, as the box refers to it, "our dimension's reactor."  As such, the environments of the game are aimed to look like the inside of a machine.  To further convolute the storyline, the instruction manual actually refers to the game itself as a Virtual Reality simulation the player is experiencing in the future, based on the exploits of Redd Ace, and youre meandering through this simulator on the famous Atarian Leisure Moon.  
+
+Stages are fairly small, but designed like a maze à la Metroid.  However, unlike Metroid, completed areas cannot be revisited.  Each stage ends with a boss battle showcasing enemy characters that are often two screens high.
+
+Redd Ace is armed with a multi-use weapon known as the "Tmat MOW."  Tmat MOW is intended to be short for TRANSMAT Multi-Ordinance Weapon.  Four different weapons may be acquired and used for both the A and B buttons, with eight total weapons in the game, and one gun as a standard.  Other weapons include lasers, a flame thrower, missiles, bombs, and the like.  Weapons must be picked up through playing the stages and collecting various weapon icons.  Once the ammunition is used, the weapon is gone and must be recollected.  As such, weapon pick-ups must be used sparingly, especially since most contain very small numbers of ammunition, often as low as two shots.  Choosing weapons is awkwardly assigned to the Directional-pad, which is also where character movement is assigned.  Tapping the D-pad allows the player to select different weapons, while holding it down moves Redd.
+
+Controlling Redd Ace is somewhat different from a typical platformer of the era. There is no jump button, as both the A and B buttons have weapons assigned to them.  Instead, our hero is also armed with a levitation pack on his back, which allows flight.  Tapping "up" on the D-Pad allows Redd to jump, while holding "up" activates the levitator and allows Redd to fly.  Aside from a health bar, there is also a fuel bar showing that flight isn't a luxury to be wasted.  When crouching, Redd automatically aims upwards at a 45-degree angle, rather than straight ahead.
+
+Pressing the "Option 2" button allows the player to see a menu with information about the bomb pieces the player is collecting, as well as details on the various weapons.  If the player is standing in front of a computer monitor when Option 2 is pressed, the menu shows a map of the current area, and information on enemy characters.
+
+The player starts with three lives, and there are no continues.  There are, however, three difficulty modes--Easy, Normal, and Hardwhich may be selected prior to gameplay.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Power Factor est un jeu d'action sur Lynx. Des extraterrestres venus de la dimension Ceeg ont envahi l'univers. Vous incarnez Redd Ace, qui est le seul homme à pouvoir stopper ces étrangers. Pour ce faire, vous devez découvrir les six éléments qui composent la bombe nécessaire pour détruire les Ceegarians.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Hand Made Software, Ltd</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Puzzler 2000">
+    <id>141594</id>
+    <locale lang="EN">
+      <title>Puzzler 2000</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Qix">
+    <id>14260A</id>
+    <locale lang="EN">
+      <title>Qix</title>
+      <synopsis>In this game, you guide a marker which must draw rectangles and other weird objects in order to claim your territory, and you can either draw these rectangles fast or slow. Drawing the rectangles using the "slow" method awards you the most points. Once a rectangle has been made, it will be colored in to show that you have claimed your territory. While drawing the rectangles, you need to watch out for Qix (pronounced "kicks"), a series of colored lines that crawl the screen. In addition to Qix, you also need to avoid the Sparks who travel around the border, as well as any lines that you have made, as well as The Fuse, who travels along the line that you are drawing. Once you have claimed enough territory, you proceed to the next level.</synopsis>
+      <genre>Puzzle-Game,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Rompecabezas,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans le puzzle-game Qix sur Lynx, vous devez guider un marqueur pour grignoter petit à petit l'écran. Lorsque le marqueur s'aventure au centre de l'écran, il laisse un trait derrière lui. Chaque zone fermée que vous aurez dessinée sera alors validée. Votre but est de valider un certain pourcentage de l'écran. Mais attention, des ennemis rôdent ! Faites donc attention à ce qu'ils ne touchent ni votre marqueur ni votre ligne pour ne pas perdre de vie.</synopsis>
+      <genre>Puzzle-Game,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Quebra-cabeças,Ação</genre>
+    </locale>
+    <developer>Telegames</developer>
+    <publisher>Taito</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="13">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Raiden">
+    <id>14231A</id>
+    <locale lang="EN">
+      <title>Raiden</title>
+      <synopsis>In the year 2090, Earth is invaded by extra-terrestrials. The World Alliance of Nations has developed a supersonic attack fighter, Raiden, to defend the Earth. A pilot must take control of the experimental fighter to destroy the alien warships that just happen to look like odd variations of typical military tanks and planes with gadgets attached to them. 
+
+Raiden (called Raiden Trad on the Genesis and SNES) is an over-head vertical-scrolling shooter, based on an arcade game of the same title. It features two forms of weapon upgrades and two types of missiles (normal or homing). You start the game with several bombs which you can use to destroy most enemies on the screen to get yourself out of a jam. Each level ends with a large boss or bosses.</synopsis>
+      <genre>Shoot'em Up,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Shoot'em Up,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Raiden est un shoot'em up sur Lynx. En l'an 2090, la Terre est à la merci de puissants extraterrestres et le vaisseau supersonique Raiden est le seul espoir de l'humanité. Vous avez été choisi pour en être le pilote et il faut à tout prix détruire les forces ennemies à travers plusieurs niveaux se terminant tous par un énorme boss.</synopsis>
+      <genre>Shoot'em Up,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shoot'em Up,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Shoot'em Up,Ação</genre>
+    </locale>
+    <developer>Fabtek</developer>
+    <publisher>Atari</publisher>
+    <date year="1997" month="" day=""/>
+    <rating type="NOTE" value="9">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Rampage">
+    <id>14235A</id>
+    <locale lang="EN">
+      <title>Rampage</title>
+      <synopsis>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.
+
+Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Rampage sur Lynx est un jeu d'action ou à proprement parler un véritable défouloir. Le joueur incarne l'une des trois créatures géantes au choix (gorille, lézard ou loup garou). L'objectif est de mettre une ville à sac en rasant les immeubles et en piétinant les forces de l'ordre qui osent se mettre sur votre chemin. Bon carnage.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Midway</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Rampart">
+    <id>14266A</id>
+    <locale lang="EN">
+      <title>Rampart</title>
+      <synopsis>Tetris meets shoot-'em-up, Rampart was originally a one or two-player arcade game combining strategy and artillery action. Build your castle from Tetris-style pieces, place your cannons, bombard the enemy, try to repair, do it all over again. Later arcade revisions incorporated 3-player,  and the PC conversion does as well, making it a faithful, entertaining classic for multiple players on the same PC.</synopsis>
+      <genre>Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Rampart est l'adaptation sur Lynx du jeu de stratégie sorti sur borne d'arcade en 1990. Après avoir choisi un emplacement pour votre château parmi les quatre possibilités, vous placez des canons pour vous défendre contre les bateaux qui vous bombardent. Après chaque bataille, vous disposez de quelques secondes pour reconstruire vos remparts avant une nouvelle attaque. Pour cela, des blocs de plusieurs formes apparaissent, façon Tetris, et vous devez les combiner sans laisser de vide.</synopsis>
+      <genre>Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Tengen Inc.</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Raw">
+    <id>141623</id>
+    <locale lang="EN">
+      <title>Raw</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Raycast Corridor">
+    <id>141595</id>
+    <locale lang="EN">
+      <title>Raycast Corridor</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Remnant Planar Wars 3d">
+    <id>141596</id>
+    <locale lang="EN">
+      <title>Remnant Planar Wars 3d</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Road Riot 4wd">
+    <id>58780A</id>
+    <locale lang="EN">
+      <title>Road Riot 4WD</title>
+      <synopsis>Road Riot 4WD is a Driving game, developed and published by Tengen, which was cancelled before it was released.</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le joueur contrôle un buggy équipé d'armes. Après avoir remporté la première course, le joueur a le choix entre 11 pistes supplémentaires afin de gagner le championnat. Il y a trois véhicules à éliminer pour gagner la course. Une quantité illimitée de missiles est disponible pour éjecter les adversaires hors de la piste.</synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>Tengen Ltd</developer>
+    <publisher>Never Published (Prototype)</publisher>
+    <date year="1994" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Roadblasters">
+    <id>14259A</id>
+    <locale lang="EN">
+      <title>RoadBlasters</title>
+      <synopsis>RoadBlasters is a futuristic racing action game. The goal is to reach the finish line in one piece throughout each of 50 levels. Numerous enemies are out on the road to try and stop you, including armored cars, motorcycles, canons on the side of the road, landmines, and more. 
+
+Your vehicle is equipped with a machine gun to help you out, and occasionally a weapons plane will fly in and drop additional power ups that can be collected. Some of these are the U.Z. canon, cruise missiles, and speed boost. Your car has a very limited amount of fuel, however more can be picked up along the way by crossing the halfway point of a level, or by collecting the red and green fuel spheres that appear in the road or after destroying certain enemies.  On many levels collecting fuel is critical otherwise you won't be able to reach the finish line.</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>RoadBlasters est un jeu de courses sur Lynx disposant d'une bonne dose d'action. Le but est de franchir la ligne d'arrivée en un seul morceau au cours des cinquante niveaux du jeu. De nombreux ennemis vous attendent sur la route et feront tout pour vous arrêter. Heureusement vous disposez de plusieurs armes pour riposter et d'autres bonus peuvent également être ramassés sur le parcours.</synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Robo-squash">
+    <id>14278A</id>
+    <locale lang="EN">
+      <title>Robo-Squash</title>
+      <synopsis>Experience the Ultimate Zero-G Futuresport.
+
+Take the challenge of multi-dimensional competition. Control and aim your racquet to deflect the ball as it comes at you. Hit exploding bricks and special items for power ups. Miss the ball and you'll be splattered!
+
+You and a friend can "Lynx up" for an awesome two player challenge.
+
+- Two player "Comlynx" Capability!</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Robo-Squash est un jeu d'action sorti sur Lynx. Ce casse-briques spatial vous enjoint à détruire toutes sortes de briques dans la stratosphère, y compris en multijoueur.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="6">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Robotron - 2084">
+    <id>14247A</id>
+    <locale lang="EN">
+      <title>Robotron : 2084</title>
+      <synopsis>In 2084, man creates a species of super-advanced cyborgs known as Robotrons. Recognizing the imperfect nature of their creators, the Robotrons conclude that the inefficient human race must be exterminated. Only you and a single family of clones remain. If mankind is to survive, you must destroy the Grunts, Brains, Enforcers, and Tanks - but avoid the indestructible Hulks at all cost. Can you withstand wave after wave of android invasion... before it's too late?</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans Robotron : 2084 sur Lynx, vous jouez un mutant qui doit sauver l'humanité de l'invasion des Robotron. Dans ce jeu d'action, vous êtes envoyé dans une succession de salles remplies d'ennemis à détruire et d'humains à sauver. Vous pouvez vous déplacer et tirer dans huit directions différentes. Notez que vous n'êtes pas obligé de tirer droit devant vous puisque le héros peut envoyer un rayon dans toutes les directions souhaitées.</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>Shadowsoft</developer>
+    <publisher>Williams Electronics</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="17">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Rygar">
+    <id>14225A</id>
+    <locale lang="EN">
+      <title>Rygar</title>
+      <synopsis>An evil being known as Ligar is about to conquer the land of Argool. Such is his power that no living creature dares to cross paths with him. But the legendary warrior Rygar rises from his grave to restore peace and justice. Armed with his famed weapon Diskarmor, Rygar begins to traverse the vast lands that lead to the lair of the demon, as his minions are trying in vain to stop him...
+
+Originally released on the arcades, Rygar is a side-scrolling action game. The player controls the titular hero, advancing through stages populated by hostile creatures. Beside the Diskarmor, a weapon that looks like a shield with a chain attached to it, the hero can use a variety of other weapons, including projectiles that can be fired in four directions. Various "powers" are scattered through the levels and can be collected. The effects of these powers include increasing the fire power of the equipped weapon, adding time to the clock, temporary invisibility, extra points, etc.</synopsis>
+      <genre>Platform,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Plataforma,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le monde d'Argool a besoin d'un héros pour chasser les forces du mal et restaurer la paix. Etes-vous l'élu, celui que tout le monde attend ? Rygar sur Lynx vous apporte la réponse. Ce jeu combinant action et aventure alterne entre vue de profil durant les scènes d'action et une vue en hauteur lors des phases transitoires.</synopsis>
+      <genre>Plateforme,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Plattform,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Plataforma,Ação</genre>
+    </locale>
+    <developer>Tecmo</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="13">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="S.t.u.n. Runner">
+    <id>14236A</id>
+    <locale lang="EN">
+      <title>S.T.U.N. Runner</title>
+      <synopsis>Based on the 1989 Atari Games (not to be confused with Atari Corporation, producers of the Lynx) coin-op by Ed Rotberg.  It's 2492 and you must pilot your Sub-Terranean Underground Network (S.T.U.N.) craft at speeds over 900 miles per hour through a series of courses to retain your title as S.T.U.N. Runner, completing each course before time runs out.
+
+There are also enemies on each course, such as cycles, indestructible armored drones, and flying bird-like craft.  Shoot or avoid them.  If you hit them, you lose one of your shields (your craft has six total) and are slowed down temporarily.  The more shields you have at the finish line, the more bonus points you get.  Getting hit with no shields does not kill you, however.  There are no lives in this game.  The only way to lose is to fail to cross the finish line.
+
+Along the way you'll encounter Boost Pads that temporarily speed you up to incredible speeds and make you indestructible.  By running over enough green stars on each course, you can also earn Shockwaves, which destroy all enemies in your path.
+
+Note that there is no accelerator in this game.  Your craft always goes full speed, unless you hit something.  Then you will slow down, but quickly accelerate back to full speed.  Other than that, you cannot slow down and the only way to speed up is to run over a Boost Pad.  Your only controls are steering left and right and aiming the gun on top of your craft up and down.</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>S.T.U.N. Runner est un jeu d'action sur Lynx. Le soft vous plonge directement au coeur du 25ème siècle, où des ennemis menacent d'envahir la Terre. Ainsi, vous devez vous débarrasser de tous les adversaires. Des bonus vous attendent pour augmenter votre vitesse et puissance de feu.</synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>Tengen</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Scrapyard Dog">
+    <id>14228A</id>
+    <locale lang="EN">
+      <title>Scrapyard Dog</title>
+      <synopsis>In Scrapyard Dog you play the role of Louie, the junkyard guy, who's companion Scraps has been dognapped by the dastardly Mr. Big. Louie has bombs and cans at his disposal to use against the enemies, which include gangsters, rats, and mice. He can also use shields to protect himself on route to the sixteen checkpoints in the game. Louie must reach each checkpoint in a certain amount of time in order to save Scraps.</synopsis>
+      <genre>Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Scrapyard Dog est un jeu d'action/aventure sur Lynx. Un gang a décidé de kidnapper le chien de notre ami Louis pour demander une rançon. Ainsi, vous devez aider Louis à vaincre les divers dangers des 15 niveaux qui l'attendent pour retrouver son animal préféré.</synopsis>
+      <genre>Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Abenteuer</genre>
+    </locale>
+    <developer>CSD</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="11">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Shadow Of The Beast">
+    <id>14226A</id>
+    <locale lang="EN">
+      <title>Shadow of the Beast</title>
+      <synopsis>While very young, Aarbron was kidnapped and enslaved by the Priests of the Beast Lord. He grew up on drugs made to destroy his own will and turn him into the Beast Messenger, a powerful creature serving Maletoth, The Beast Lord himself. He did his job, until one day he noticed a man about to be sacrificed in a ritual, his face triggering ancient memories... and as the sacrificial knife descended into the man's body, Aarbron recognizes the face. Of his father.
+As his father dies in the altar, memories of his childhood and tormented past at the hands of the Beast Lord emerged, and as feelings of hate over his captors took over him, he swore revenge and fled the temple, knowing the road to avenge his father and redemption would be hard.
+
+Shadow of the Beast, one of Psygnosis most popular titles during the 16-bit computer era is a side-scrolling platformer best known for the use of parallax scrolling along lush graphics, a musical score  by David Whittaker, a iconic cover by Roger Dean and what many consider to be unforgiving gameplay, balancing between the "very challenging" and the "impossible". The player has to navigate through several areas filled with enemies and traps, collecting keys and activating triggers than open new areas or give Aarbron the means to overcome a sub-boss. The number of moves the player has at disposal is limited: duck, jump and only two attacks: punch and a flying kick. While most enemies die with just one hit, the player must time each attack accurately. However, there are also traps of objects that cannot be destroyed, and these require the player to jump, duck or move according the sequence. The player has only one life with 12 hit points that can be replenished by collecting some objects hidden in the level (like an off-route location or a under a megalith), which also contributes to the difficulty level.</synopsis>
+      <genre>Beat'em Up,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Beat'em Up,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Shadow of the Beast sur Lynx est un jeu mélangeant beat'em all, plates-formes et exploration. Le joueur incarne Aarbron, un personnage mi-homme, mi-bête qui se rend à Maletoh pour se venger du Beast Lord. Réflexes et précision sont de mise pour éviter ou détruire les ennemis provenant de toute part. Soyez sur vos gardes, le joueur ne dispose que d'une seule vie.</synopsis>
+      <genre>Beat'em All,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Beat'em Up,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Briga de rua,Ação</genre>
+    </locale>
+    <developer>Reflections Interactive Limited</developer>
+    <publisher>Psygnosis</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="6">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Shanghai">
+    <id>14261A</id>
+    <locale lang="EN">
+      <title>Shanghai</title>
+      <synopsis>Shanghai is a tile-based game based on the ancient Chinese game of Mah-Jong - this was the first of many computer versions.
+
+The gameplay involves 144 tiles, each depicting different images, which have to be removed by matching them into pairs. The tiles are arranged in a gridded pattern, which is higher near the centre. A tile can only be removed if it has no tile next to it on at least one side.
+
+This computer implementation can generate a random board layout to take on, as well as featuring 5 preset challenges, some of which have time limits of 5 or 10 minutes, as well as a multiplayer mode.</synopsis>
+      <genre>Board game,Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de mesa,Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Shanghai sur Lynx est un jeu de patience utilisant les tuiles du mahjong, jeu de plateau d'origine chinoise. Le joueur dispose de 144 tuiles spéciales regroupées par ordre hiérarchique (Honneurs suprêmes, Honneurs supérieurs, Honneurs simples, Cercles, Bambous, Caractères). L'objectif est de faire un maximum de points grâce à des combinaisons spécifiques.</synopsis>
+      <genre>Jeu de societe / plateau,Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Brettspiele,Strategie</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Jogo de tabuleiro,Estratégia</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="17">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
+    </input>
+  </game>
+  <game name="Show King Tut">
+    <id>141597</id>
+    <locale lang="EN">
+      <title>Show King Tut</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Snakebyte">
+    <id>141598</id>
+    <locale lang="EN">
+      <title>Snakebyte</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Sprite Ed">
+    <id>141624</id>
+    <locale lang="EN">
+      <title>Sprite Ed</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Stardreamer">
+    <id>108862</id>
+    <locale lang="EN">
+      <title>Stardreamer</title>
+      <synopsis>The Stardreamer is an open game with a storyline and an objective. You can be a honest trader, a space explorer or a space pirate. Just remember to check the news every  now and then. The galaxy is changing and a new era is about to begin...</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Stardreamer est un jeu ouvert avec un scénario et un objectif. Vous pouvez être un commerçant honnête, un explorateur de l'espace ou un pirate de l'espace. N'oubliez pas de vérifier les nouvelles de temps en temps. La galaxie est en train de changer et une nouvelle ère est sur le point de commencer ...</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Stardreamer - Cutscene">
+    <id>141599</id>
+    <locale lang="EN">
+      <title>Stardreamer - Cutscene</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Steel Talons">
+    <id>14262A</id>
+    <locale lang="EN">
+      <title>Steel Talons</title>
+      <synopsis>Steel Talons brought realism-oriented helicopter combat to the arcades, and later to home systems. The action is viewed from behind your helicopter, with the 3D polygon world rotating around you, taking in mountains, rivers and deserts. 
+
+There are 12 missions in total, each of which requires you to destroy targets in a set time limit. There are also training and head-to-head (against a CPU-controlled drone) modes. 
+
+You have a limited number of automatically-targeting missiles as well as a cannon. A tracking map tells you where you are on the level, and where the enemies are.Contact with the ground, mountains or other vehicles will damage or destroy your helicopter.</synopsis>
+      <genre>Shoot'em Up,Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Shoot'em Up,Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Steel Talons est une simulation d'hélicoptère sur Lynx. Après avoir perfectionné votre technique de vol dans la mission d'entraînement, vous pourrez tenter d'éliminer les adversaires volants ou au sol dans les onze autres missions du jeu. Avec une vue à la troisième personne sur votre hélicoptère en 3D, vous contrôlez sa direction, sa hauteur et ses missiles. Chaque mission consiste à abattre des ennemis en un temps limité.</synopsis>
+      <genre>Shoot'em Up,Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shoot'em Up,Simulation</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Shoot'em Up,Simulação</genre>
+    </locale>
+    <developer>Tengen</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Super Asteroids And Missile Command">
+    <id>14279A</id>
+    <locale lang="EN">
+      <title>Super Asteroids &amp; Missile Command</title>
+      <synopsis>Two classic Atari arcade games were updated for this compilation. This Lynx version of Asteroids and Missile Command contains some enhanced features to justify the "super" in the title.
+
+Super Asteroids has all new graphics to replace the vector outlines of the original. Your ship has a shield that can absorb several collisions before it blows up. There are also power ups to increase your firepower.
+
+Super Missile Command also has all new graphics. Between rounds, you can trade credits earned during gameplay to purchase special weapons that will help you later in the game.</synopsis>
+      <genre>Compilation</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Compilación</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Super Asteroids &amp; Missile Command sur Lynx regroupe deux grands classiques de l'arcade made in Atari et remis à jour pour cette compilation. Dans cette version, les deux titres contiennent des fonctions améliorées afin de justifier le "Super" du titre.</synopsis>
+      <genre>Compilation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sammlung</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1995" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Super Off Road">
+    <id>14217A</id>
+    <locale lang="EN">
+      <title>Super Off Road</title>
+      <synopsis>Pile into the pickup and head for the stadium, it's time for some mud-
+stompin' action with SUPER OFF-ROAD.  In this Lynx version of the Tradewest
+arcade game, four racers drive monster trucks around a variety of dirt tracks.
+Players must deal with ramps, hills, valleys, and more as they race for the
+finish, while trying to pick up extra money and nitro boosts along the way.
+Then they take those winnings to the shop to buy better equipment before the
+next race begins.  Up to four Lynxes can be connected for multi-player
+competition.</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Super Off Road sur Lynx est un jeu de rallye tout-terrain reprenant la licence du pilote légendaire Ivan Stewart dit "Ironman". Vous disputez des courses à quatre, dans des 4x4 spécialement construits pour les bosses et les sauts qui vous attendent sur les circuits. Vous avez la possibilité d'améliorer votre véhicule, à condition de remporter assez d'argent en gagnant des courses.</synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>Telegames</developer>
+    <publisher>Telegames</publisher>
+    <date year="1993" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Super Skweek">
+    <id>14280A</id>
+    <locale lang="EN">
+      <title>Super Skweek</title>
+      <synopsis>Super Skweek is a game inspired by the wide success of Chip's Challenge, and share some elements of that puzzler while combining other elements from games such as Pengo.
+
+In Super Skweek, you play the title character who must walk around and either paint all the tiles of the game board pink, complete a specific mission, or both.  Some tiles react in various ways when you walk on them, like exploding.  
+
+Unlike Chip's Challenge, the game plays in realtime and you can pick up and use weapons to keep away certain monsters as you paint the tiles.  There is also a shop you can enter to purchase items.  Finally, levels have a time limit for completion.</synopsis>
+      <genre>Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Super Skweek est un jeu d'action sur Lynx. Vous devez aider Skweek à peindre les 50 niveaux du soft pour libérer les Skweezettes qui ont été enlevées. Ainsi vous devez peindre votre repaire en rose dans l'objectif d'éviter d'être tué par les monstres.</synopsis>
+      <genre>Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie</genre>
+    </locale>
+    <developer>Loriciels</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="17">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Switchblade 2">
+    <id>14281A</id>
+    <locale lang="EN">
+      <title>SwitchBlade II</title>
+      <synopsis>As Hiro, you must once again defeat the ninja lord Havok.  Using ninja throwing stars and other weapons, you must defeat the minions of Havok to reach him.
+
+Switchblade II is a side-scrolling platform action game.  One key aspect of the game is obtaining coins from defeated enemies, which can be traded at shops for extra lives, energy, and weapons.</synopsis>
+      <genre>Platform,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Plataforma,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>SwitchBlade II est un jeu d'action/plates-formes sur Lynx. Après 200 ans d'absence, le méchant seigneur ninja Havok est de retour ! Vous incarnez Hiro, et vous êtes le seul à pouvoir libérer l'empire. Arriverez-vous à assumer cette périlleuse tâche ?</synopsis>
+      <genre>Plateforme,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Plattform,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Plataforma,Ação</genre>
+    </locale>
+    <developer>Gremlin</developer>
+    <publisher>Gremlin</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="T-tris">
+    <id>122994</id>
+    <locale lang="EN">
+      <title>T-tris</title>
+    </locale>
+    <date year="1996" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Tetris">
+    <id>122997</id>
+    <locale lang="EN">
+      <title>Tetris</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Todd's Adventures In Slime World">
+    <id>14241A</id>
+    <locale lang="EN">
+      <title>Todd's Adventures in Slime World</title>
+      <synopsis>While flying your spaceship, you crash land on a planet covered entirely in slime.  You and a friend explore the labyrinthine planet of slime, armed with a water pistol and all manner of gadgets you find along the way in an effort to find your way back out.  The game world is a giant maze with quirky hidden areas and plenty of original layout ideas.  Depending on the game mode, you are either cooperating or competing with your "friend" to find and get to an exit first.  Due to the massive sizes of the slime worlds (about 6 entries to choose from), games often take several hours to complete.
+
+The basis of the game is exploration, with varying game modes further focusing on competition, puzzle solving, speed, exploration, or cooperation.</synopsis>
+      <genre>Platform,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Plataforma,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Todd's Adventures in Slime World est un jeu d'action/plates-formes sur Lynx. Votre vaisseau s'est écrasé sur une planète entièrement recouverte de vase. Avec ou sans un ami, vous explorez les gigantesques niveaux à l'aide de votre pistolet à eau ; à vous de trouver des gadgets qui vous feront sortir et resurgir à la surface.</synopsis>
+      <genre>Plateforme,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Plattform,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Plataforma,Ação</genre>
+    </locale>
+    <developer>Epyx</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="8">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Toki">
+    <id>14209A</id>
+    <locale lang="EN">
+      <title>Toki</title>
+      <synopsis>The hero of the game is a young jungle-man named Toki. One day the evil wizard Dr. Stark kidnaps his girlfriend Wanda. When Toki tries to save her, he is turned into a monkey! Now Toki has to find Dr. Stark in his palace, to rescue Wanda, and to become a human being again!
+
+It is a platform game with a lot of various levels: jungle, underwater, volcanic caves, on the ice... Toki's only weapons are spitting on the enemies or jumping on them and crashing them. There are many possibilities to upgrade his spitting "weapon";  for example, if he finds an upgrade, he can spit fireballs. 
+
+This game is ported from an older arcade version.</synopsis>
+      <genre>Platform,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Plataforma,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Toki est un jeu d'action/plates-formes sur Lynx dans lequel vous incarnez le puissant guerrier Toki, seul capable de sauver la Princesse Miho de la mort. Malheureusement, Toki a été transformé en singe par le cruel Vookiedlo. Votre mission est donc triple : vaincre le méchant, sauver la princesse et retrouver votre apparence humaine.</synopsis>
+      <genre>Plateforme,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Plattform,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Plataforma,Ação</genre>
+    </locale>
+    <developer>Tad Corporation</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Tournament Cyberball 2072">
+    <id>14282A</id>
+    <locale lang="EN">
+      <title>Tournament Cyberball 2072</title>
+      <synopsis>Journey into the future of football with this cult, arcade classic. Enjoy robotic action against the computer or ComLynx? up to four players and play head-to-head with your friends. Earn money for completed plays which can be used to power-up your team, replace broken players, and upgrade to bigger and more advanced players. Awesome football action!</synopsis>
+      <genre>Strategy,Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Estrategia,Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Tournament Cyberball 2072 est un jeu de football américain futuriste sur Lynx. Nous sommes en l'an 2022 et ce ne sont plus des joueurs qui s'affrontent mais deux équipes de sept robots. Le ballon a été remplacé par une bombe et le but est bien sûr de la faire exploser dans le camp adverse. Il est possible de jouer à deux dans un mode coopératif.</synopsis>
+      <genre>Stratégie,Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie,Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Estratégia,Esporte</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Turbo Sub">
+    <id>14263A</id>
+    <locale lang="EN">
+      <title>Turbo Sub</title>
+      <synopsis>Turbo Sub released in 1985 as an arcade shooter game by Entertainment Sciences. Then later in 1991 for the Atari Lynx. The arcade version was a one player game set in the future where you control a submersible ship against a horde of aliens. The Atari Lynx version is the same but can be played with two players and tells us the story is set in the 28th century on Earth. The planet has been invaded and the goal of the game is that the player must destroy all the aliens.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Turbo Sub est un shoot'em up sorti sur Lynx. La Terre est à nouveau envahie, et cette fois-ci peut-être par des poissons aliens mutants car c'est à bord de votre sous-marin surpuissant que vous devrez les affronter.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Viking Child">
+    <id>14237A</id>
+    <locale lang="EN">
+      <title>Viking Child</title>
+      <synopsis>Mainly titled Prophecy I - The Viking Child is a game created by Imagitec Design Limited on Amiga, Atari ST, Atari Lynx, Game Boy, Game Gear and the PC.
+
+This video game was based on a Viking Child called Brian who must enter the Halls of Valhalla and do battle against an evil god Loki and his minions.
+
+The game closely resembled Sega's Wonder Boy in Monster Land, as certain elements like collecting hidden gold, upgrading the character's weapons and visiting shops were practically identical, despite the difference in release times.
+
+Programming of the Lead version (Atari ST version) was done by Mark Fisher (a.k.a. Fish, Mr Fish) Original graphics were created by Anthony Rosbottom (a.k.a. Bliz, Blizzard) Music was written by Barry Leitch &amp; Ian Howe</synopsis>
+      <genre>Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Viking Child est un jeu d'action/aventure sur Lynx. L'ancienne prophétie s'est réalisée. L'élu est venu au monde sous le nom de Brian : un jeune viking. Il doit s'introduire dans le Vai-Hall et se battre contre le grand dieu Loki.</synopsis>
+      <genre>Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Abenteuer</genre>
+    </locale>
+    <developer>Imagitec Design</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Warbirds">
+    <id>14264A</id>
+    <locale lang="EN">
+      <title>Warbirds</title>
+      <synopsis>A combat flight action/simulation with colorful graphics and pretty straight-forward gameplay.
+
+Step inside the cockpit of a World War I plane, when there were no sophisticated weaponry, and try to gun down the enemy. Simple as that.
+
+The graphics were faux-3D, as the planes were 2D sprites (natural, considering the release date), but the sky seemed very vast and you could fly around freely.</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Warbirds est une simulation d'aviation disponible sur Lynx. Ce jeu peut se jouer en multijoueur avec 3 amis ou hors ligne dans de nombreuses missions. Plusieurs arènes ainsi que différents avions sont disponibles avec chacun leurs caractéristiques de pilotage propres. Le jeu prend place durant la Première Guerre mondiale.</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Simulation</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="World Class Soccer">
+    <id>14265A</id>
+    <locale lang="EN">
+      <title>World Class Soccer</title>
+      <synopsis>"World Class Soccer" is a soccer video game, C"omputer Gaming World" criticized the game for only displaying about 10% of the field at a time without a "radar" screen to show the rest, but liked the animation. The magazine concluded that "World Class Soccer should prove an informative and reasonably entertaining way to prepare for the event".</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>World Class Soccer est un jeu de football sorti sur Lynx dans lequel vous pouvez affronter un ami ou directement la console.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Wuerfel 3">
+    <id>141601</id>
+    <locale lang="EN">
+      <title>Wuerfel 3</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Xenophobe">
+    <id>14216A</id>
+    <locale lang="EN">
+      <title>Xenophobe</title>
+      <synopsis>Xenos.  The very name strikes fear into every colonist's heart.  A distress call is received from space stations orbiting your homeworld, then silence.  A single ship escapes, piloted by a battered man who tells the tale of pods that hatch into acid-spitting Xenos.
+
+A small band of engineers has been dispatched to combat the Xeno threat before it takes over all the space stations and, eventually, your homeworld.  Assemble your band of engineers and fight the Xenos on each station, striving to either clear it or abandon it.  You start out with a standard issue laser, but can pick up additiona weapons as you find them, including Phasers, Lightning Rifles, Poofer guns, and bombs.
+
+Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  Gameplay premise and setting is heavily inspired/influenced by the movie Aliens.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Xenophobe est un jeu d'action sur Linx. Partez à la rescousse des stations spatiales et exterminez les aliens qui y ont trouvé refuge. Ne perdez pas de temps sinon votre mission risque bien de finir dans un nuage de poussière.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1990" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Xybots">
+    <id>14283A</id>
+    <locale lang="EN">
+      <title>Xybots</title>
+      <synopsis>Xybots is either an unusually simple computer game or an unusually complex coin-op shoot 'em up, depending on your point of view. With either one or two players, you must move through a series of Gauntlet-style underground mazes, killing the bad guys and collecting health and other bonuses from flying saucers (underground? SLIGHT logic gap there, methinks).It's designed to be played co-operatively, although bullets from one player can harm the other.
+
+The Xybots are out to stop you, of course, and many have advanced attack patterns as well as bullets to fire at you. Being able to view round corners is useful, allowing you to plan a strategy - often it's good to send one player forward and let the other play the waiting game, as in Gauntlet.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>L'humanité est menacée ! Les terribles aliens Xybots envahissent la dernière station spatiale terrienne. A vous de les en empêcher dans le jeu d'action Xybots sur Lynx.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1991" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
+    </input>
+  </game>
+  <game name="Zarlor Mercenary">
+    <id>14242A</id>
+    <locale lang="EN">
+      <title>Zarlor Mercenary</title>
+      <synopsis>WANTED: Hot gun for hire. Travel to several exotic and dangerous places. Discover several exotic and dangerous aliens and kill them. Kill lots. For cash. Buy more weapons and kill again. Bring up to 3 friends along and kill even more.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Zarlor Mercenary est un jeu de tir à défilement vertical sorti sur Lynx. Des nuées d'aliens envahissent l'écran et vous devez les massacrer. Gagnez de l'argent pour améliorer votre vaisseau et jouez jusqu'à 4.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <date year="1992" month="" day=""/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+</datafile>

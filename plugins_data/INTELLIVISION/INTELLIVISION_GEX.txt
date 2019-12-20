@@ -1,0 +1,220 @@
+4-TRIS|4-TRIS||4-TRIS|
+ABPA Backgammon|ABPA Backgammon||ABPA Backgammon|
+Advanced Dungeons & Dragons|Advanced Dungeons and Dragons||Advanced Dungeons and Dragons|
+Advanced Dungeons & Dragons: Cloudy Mountain|Adventure||Adventure -AD&D- Cloudy Mountain|
+Advanced Dungeons & Dragons: Treasure of Tarmin|Advanced D&D - Treasure of Tarmin||Advanced Dungeons and Dragons - Treasure of Tarmin|
+Air Strike|Air Strike||Air Strike|
+Armor Battle|Armor Battle||Armor Battle|
+Astrosmash|Astrosmash||Astrosmash|
+Astrosmash: Meteor|Astrosmash - Meteor||Astrosmash - Meteor|
+Atlantis|Atlantis||Atlantis|
+Auto Racing|Auto Racing||Auto Racing|
+B-17 Bomber|B-17 Bomber||B-17 Bomber|
+Baseball|Baseball||Baseball|
+Beamrider|BeamRider||BeamRider|
+Beauty and the Beast|Beauty and the Beast||Beauty and the Beast|
+Blockade Runner|Blockade Runner||Blockade Runner|
+Body Slam: Super Pro Wrestling|Body Slam - Super Pro Wrestling||Body Slam - Super Pro Wrestling|
+Bomb Squad|Bomb Squad||Bomb Squad|
+Boxing|Boxing||Boxing|
+Brickout!|Brickout!||Brickout!|
+Bump 'n' Jump|Bump 'N' Jump||Bump 'N' Jump|
+BurgerTime|BurgerTime!||BurgerTime!|
+BurgerTime: New Levels Hack|BurgerTime! - New Levels Hack||BurgerTime! - New Levels Hack|
+Buzz Bombers|Buzz Bombers||Buzz Bombers|
+Carnival|Carnival||Carnival|
+Castle: Trailer|Castle Trailer||Castle - Trailer|
+Centipede|Centipede||Centipede|
+Championship Tennis|Championship Tennis||Championship Tennis|
+Checkers|Checkers||Checkers|
+Chip Shot: Super Pro Golf|Chip Shot - Super Pro Golf||Chip Shot - Super Pro Golf|
+Commando|Commando||Commando|
+Congo Bongo|Congo Bongo||Congo Bongo|
+Crazy Clones|Crazy Clones||Crazy Clones|
+Deep Pockets: Super Pro Pool & Billiards|Deep Pockets-Super Pro Pool and Billiards||Deep Pockets - Super Pro Pool and Billiards|
+Defender|Defender||Defender|
+Demon Attack|Demon Attack||Demon Attack|
+Dig Dug|Dig Dug||Dig Dug|
+Diner|Diner||Diner|
+Donkey Kong|Donkey Kong||Donkey Kong|
+Donkey Kong Jr.|Donkey Kong Jr||Donkey Kong Jr|
+Doom|Doom||Doom|
+Dracula|Dracula||Dracula|
+Dragonfire|Dragonfire||Dragonfire|
+Eggs 'n' Eyes|Eggs 'n' Eyes by Scott Nudds||Eggs and Eyes by Scott Nudds|
+Electric Company: Math Fun|Electric Company - Math Fun||Electric Company - Math Fun|
+Electric Company: Word Fun|Electric Company - Word Fun||Electric Company - Word Fun|
+Entertainment Computer System EXEC-BASIC|Entertainment Computer System EXEC-BASIC||Entertainment Computer System's EXEC-BASIC ROM, The|
+Executive ROM|Executive ROM, The||Executive ROM, The|
+Fathom|Fathom||Fathom|
+Frog Bog|Frog Bog||Frog Bog|
+Frogger|Frogger||Frogger|
+Game Factory|Game Factory||Game Factory, The|
+Go For the Gold|Go For the Gold||Go For the Gold|
+Grid Shock|Grid Shock||Grid Shock|
+GROM|GROM, The||GROM, The|
+Groovy|Groovy!||Groovy!|
+Halloween Street|Street||Street|
+Happy Holidays: Easter Eggcitement|Easter Eggs||Easter Eggs|
+Happy Holidays: Santa's Helper|Santa's Helper||Santa's Helper|
+Happy Trails|Happy Trails||Happy Trails|
+Hard Hat|Hard Hat||Hard Hat|
+Horse Racing|Horse Racing||Horse Racing|
+Hover Force|Hover Force||Hover Force|
+Hypnotic Lights|Hypnotic Lights||Hypnotic Lights|
+Ice Trek|Ice Trek||Ice Trek|
+IMI Test Cart|IMI Test Cart||IMI Test Cart|
+Intellivision: Intelligent Television Demo #1682|INTV - Intelligent TV Demo #1682||Intellivision - Intelligent Television Demo #1682|
+Intellivision: Intelligent Television Demo #5853|INTV - Intelligent TV Demo #5853||Intellivision - Intelligent Television Demo #5853|
+Intellivision: Intelligent Television Demo #5859 (International)|INTV - Intelligent TV Demo #5932 Revised||Intellivision - Intelligent Television Demo International #5859|
+Intellivision: Intelligent Television Demo #5932 (Revised)|INTV - Intelligent TV Demo #5932 Revised||Intellivision - Intelligent Television Demo #5932 Revised|
+Intellivision: Intelligent Television Demo|INTV - Intelligent TV Demo||Intellivision - Intelligent Television Demo|
+Intellivision Test Cartridge and Baseball|||Intellivision Test Cartridge and Baseball|
+Intellivision Test Cartridge: MTE201|MTE201 Intellivision Test Cartridge||Intellivision Test Cartridge - MTE201|
+IntelliVoice BIOS|IntelliVoice BIOS||IntelliVoice BIOS|
+IntyOS: V0.2 Alpha|IntyOS - V0.2 Alpha||IntyOS|
+King of the Mountain|King of the Mountain||King of the Mountain|
+Kool-Aid Man|Kool-Aid Man||Kool-Aid Man|
+Lady Bug|Lady Bug||Lady Bug|
+Land Battle|Land Battle||Land Battle|
+Las Vegas Blackjack and Poker|Las Vegas Blackjack and Poker||Las Vegas Blackjack and Poker|
+Las Vegas Roulette|Las Vegas Roulette||Las Vegas Roulette|
+League of Light|League of Light||League of Light|
+Learning Fun II: Word Wizard Memory Fun|Learning Fun II - Word Wizard Memory Fun||Learning Fun II - Word Wizard Memory Fun|
+Learning Fun I: Math Master Factor Fun|Learning Fun I - Math Master Factor Fun||Learning Fun I - Math Master Factor Fun|
+Lock 'n' Chase|Lock 'N' Chase||Lock 'N' Chase|
+Loco-Motion|Loco-Motion||Loco-Motion|
+Magic Carousel|Magic Carousel||Magic Carousel|
+Major League Baseball|All-Star Major League Baseball||All-Star Major League Baseball|
+Masters of the Universe: The Power of He-Man|Masters of the Universe-The Power of He-Man!||Masters of the Universe - The Power of He-Man!|
+Maze Demo #1|Maze Demo #1||Maze Demo #1|
+Maze Demo #2|Maze Demo #2||Maze Demo #2|
+Melody Blaster|Melody Blaster||Melody Blaster|
+Mickey's Hello World|Mickey's Hello World||Mickey's Hello World|
+Microsurgeon|Microsurgeon||Microsurgeon|
+Mind Strike!|Mind Strike!||Mind Strike!|
+Minehunter|Minehunter Beta3|||
+Minotaur|Minotaur||Minotaur|
+Minotaur: Treasure of Tarmin|Minotaur - Treasure of Tarmin||Minotaur - Treasure of Tarmin|
+Minotaur (Version 1.1)|Minotaur V1.1|||
+Minotaur (Version 2)|Minotaur V2|||
+Mission-X|Mission X||Mission X|
+MOB Collision Test|MOB Collision Test||MOB Collision Test|
+Motocross|Motocross||Motocross|
+Mountain Madness: Super Pro Skiing|Mountain Madness - Super Pro Skiing||Mountain Madness - Super Pro Skiing|
+Mouse Trap|Mouse Trap||Mouse Trap|
+Mr. Basic Meets Bits 'N Bytes|Mr. Basic Meets Bits 'N Bytes||Mr. Basic Meets Bits 'N Bytes|
+Name|GoodName|NoIntro|TOSEC|ReDump
+NASL Soccer|NASL Soccer||NASL Soccer|
+NBA Basketball|NBA Basketball||NBA Basketball|
+NFL Football|NFL Football||NFL Football|
+NHL Hockey|NHL Hockey||NHL Hockey|
+Night Stalker|Night Stalker||Night Stalker|
+Nova Blast|Nova Blast||Nova Blast|
+Number Jumble|Number Jumble||Number Jumble|
+Pac-Man|Pac-Man||Pac-Man|
+PBA Bowling|PBA Bowling||PBA Bowling|
+PGA Golf|PGA Golf||PGA Golf|
+Pinball|Pinball||Pinball|
+Pitfall!|Pitfall!||Pitfall!|
+Pole Position|Pole Position||Pole Position|
+Pong|Pong||Pong|
+Popeye|Popeye||Popeye|
+Programmable Sound Generator Tinkerer|PSG Tinkerer||Programmable Sound Generator Tinkerer|
+Q*bert|Q-bert||Q-bert|
+Reversi|Reversi||Reversi|
+River Raid|River Raid||River Raid|
+River Raid (Version 1)|River Raid V1||River Raid v1|
+Robot Rubble|Robot Rubble V2||Robot Rubble V3|
+Robot Rubble (Version 1)|Robot Rubble V1||Robot Rubble v2|
+Royal Dealer|Royal Dealer||Royal Dealer|
+RPN Calculator|RPN Calculator V1.0||RPN Calculator V1.0|
+Safecracker|Safecracker||Safecracker|
+Scooby Doo's Maze Chase|Scooby Doo's Maze Chase||Scooby Doo's Maze Chase|
+SDK-1600: Bouncing Pixels|SDK-1600 Bouncing Pixels||Bouncing Pixels|
+SDK-1600: GRAM-Based Scrolling Demo #1|SDK-1600 GRAM-Based Scrolling Demo#1||GRAM-Based Scrolling Demo #1|
+SDK-1600: GRAM-Based Scrolling Demo #2|SDK-1600 GRAM-Based Scrolling Demo#2||GRAM-Based Scrolling Demo #2|
+SDK-1600: Hand Controller Scanning Demo|SDK-1600 Hand Controller Scanning Demo||Hand Controller Scanning Demo|
+SDK-1600: Hello World|SDK-1600 Hello World||Hello World|
+SDK-1600: Intellicart Bankswitched Memory Test|SDK-1600 Intellicart Bankswitched Memory Test||Intellicart Bankswitched Memory Test|
+SDK-1600: Intellicart Bankswitched Spinning World|SDK-1600 Intellicart Bankswitched Spinning World||Intellicart Bankswitched Spinning World|
+SDK-1600: Intellicart Bankswitching Demo|SDK-1600 Intellicart Bankswitching Demo||Intellicart Bankswitching Demo|
+SDK-1600: Intellicart Memory Test|SDK-1600 Intellicart Memory Test||Intellicart Memory Test|
+SDK-1600: John Conway's Life|SDK-1600 John Conway's Life||John Conway's Life|
+SDK-1600: Maze Demo|SDK-1600 Maze Demo||Maze Demo|
+SDK-1600: Movable Object Demo|SDK-1600 Movable Object Demo||Movable Object Demo|
+SDK-1600: Psycho Balls #1|SDK-1600 Psycho Balls #1||Psycho Balls #1|
+SDK-1600: Psycho Balls #2|SDK-1600 Psycho Balls #2||Psycho Balls #2|
+SDK-1600: ROM Checksummer|SDK-1600 ROM Checksummer||ROM Checksummer|
+SDK-1600: Spinning World|SDK-1600 Spinning World||Spinning World|
+SDK-1600: Tag-Along Todd #1|SDK-1600 Tag-Along Todd #1||Tag-Along Todd #1|
+SDK-1600: Tag-Along Todd #2a|SDK-1600 Tag-Along Todd #2a||Tag-Along Todd #2a|
+SDK-1600: Tag-Along Todd #2b|SDK-1600 Tag-Along Todd #2b||Tag-Along Todd #2b|
+Sea Battle|Sea Battle||Sea Battle|
+Sears Super Video Arcade BIOS|Sears Super Video Arcade BIOS||Sears Super Video Arcade BIOS|
+Sewer Sam|Sewer Sam||Sewer Sam|
+Shark! Shark!|Shark! Shark!||Shark! Shark!|
+Sharp Shot|Sharp Shot||Sharp Shot|
+Slam Dunk: Super Pro Basketball|Slam Dunk - Super Pro Basketball||Slam Dunk - Super Pro Basketball|
+Slap Shot: Super Pro Hockey|Slap Shot - Super Pro Hockey||Slap Shot - Super Pro Hockey|
+Snafu|Snafu||Snafu|
+Song Player: Back in the USSR|Song Player - Back in the USSR||Song Player - Back in the USSR|
+Song Player: Closing Time|Song Player - Closing Time||Song Player - Closing In Time|
+Song Player: Copacabana|Song Player - Copacabana||Song Player - Copacabana|
+Song Player: Creep|Song Player - Creep||Song Player - Creep|
+Song Player: Nut March|Song Player - Nut March||Song Player - Nut March|
+Song Player: Nut Reed|Song Player - Nut Reed||Song Player - Nut Reed|
+Song Player: Nut Trep|Song Player - Nut Trep||Song Player - Nut Trep|
+Song Player: Nut Waltz|Song Player - Nut Waltz||Song Player - Nut Waltz|
+Song Player: Secret Agent Man|Song Player - Secret Agent Man||Song Player - Secret Agent Man|
+Song Player: Take on Me 3|Song Player - Take on Me 3||Song Player - Take on Me 3|
+Song Player: Take on Me 6|Song Player - Take on Me 6||Song Player - Take on Me 6|
+Song Player: Too Sexy|Song Player - Too Sexy||Song Player - Too Sexy|
+Space Armada|Space Armada||Space Armada|
+Space Battle|Space Battle||Space Battle|
+Space Cadet|Space Cadet||Space Cadet|
+Space Hawk|Space Hawk||Space Hawk|
+Space Spartans|Space Spartans||Space Spartans|
+Spiker: Super Pro Volleyball|Spiker! - Super Pro Volleyball||Spiker! - Super Pro Volleyball|
+Spirit (Version 1.0)|Spirit V1.0||Spirit|
+Stadium Mud Buggies|Stadium Mud Buggies||Stadium Mud Buggies|
+Stampede|Stampede||Stampede|
+Star Strike|Star Strike||Star Strike|
+Star Wars: The Empire Strikes Back|Star Wars - The Empire Strikes Back||Star Wars - The Empire Strikes Back|
+Stonix (Beta 1.1)|Stonix Beta1.1||Stonix (Beta 1.1)|
+Stonix (Beta 1.2)|Stonix Beta1.2||Stonix (Beta 1.2)|
+Sub Hunt|Sub Hunt||Sub Hunt|
+Super Cobra|Super Cobra||Super Cobra|
+Super Masters!|Super Masters!||Super Masters!|
+Super NASL Soccer|Super Soccer||Super Soccer|
+Super Pro Decathlon|Super Pro Decathlon||Super Pro Decathlon|
+Super Pro Football|Super Pro Football||Super Pro Football|
+Swords & Serpents|Swords and Serpents||Swords and Serpents|
+Takeover|Takeover||Takeover|
+Tennis|Tennis||Tennis|
+Tetris|Tetris||Tetris|
+The Dreadnaught Factor|Dreadnaught Factor, The||Dreadnaught Factor, The|
+The Jetsons' Ways With Words|Jetsons, The - Ways With Words||Jetsons, The - Ways With Words|
+Thin Ice|Thin Ice||Duncan's Thin Ice|
+Thunder Castle|Thunder Castle||Thunder Castle|
+Tower of Doom|Tower of Doom||Tower of Doom|
+Triple Action|Triple Action||Triple Action|
+Triple Challenge|Triple Challenge||Triple Challenge|
+TRON: Deadly Discs: Deadly Dogs|TRON - Deadly Discs - Deadly Dogs||TRON - Deadly Discs - Deadly Dogs|
+TRON: Deadly Discs|TRON - Deadly Discs||TRON - Deadly Discs|
+TRON: Maze-A-Tron|TRON - Maze-A-Tron||TRON - Maze-A-Tron|
+TRON: Solar Sailer|TRON - Solar Sailer||TRON - Solar Sailer|
+Tropical Trouble|Tropical Trouble||Tropical Trouble|
+Truckin'|Truckin'||Truckin'|
+Turbo|Turbo||Turbo|
+Tutankham|Tutankham||Tutankham|
+USCF Chess|USCF Chess||USCF Chess|
+U.S. Ski Team Skiing|U.S. Ski Team Skiing||U.S. Ski Team Skiing|
+Utopia|Utopia||Utopia|
+Vectron|Vectron||Vectron|
+Venture|Venture||Venture|
+White Water!|White Water!||White Water!|
+World Cup Soccer|World Cup Football||World Cup Football|
+World Series Major League Baseball|World Series Major League Baseball||World Series Major League Baseball|
+Worm Whomper|Worm Whomper||Worm Whomper|
+Zaxxon|Zaxxon||Zaxxon|

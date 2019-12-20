@@ -1,0 +1,92 @@
+100AAA|Viking|Viking||Arcade,|||||1984
+10AAAA|Blitz|Blitz||Shooter,|||||9994
+11AAAA|Bris de Glace|Bris de Glace||Arcade,||||Philips Interactive Media|1984
+12AAAA|Budget|Budget||Miscellaneous,|||||
+13AAAA|Carnet d'Adresses|Carnet d'Adresses|||||||
+14AAAA|Carotte Malicieuse|Carotte Malicieuse||Educational,||||VIFI|1985
+15AAAA|Carte de France|Carte de France||Educational,|||||
+16AAAA|Citadelle|Citadelle||Adventure,|||Loriciels|Loriciels|1984
+17AAAA|Cle des Chants|Cle des Chants||Educational,|||||
+18AAAA|Compilation|Compilation||Various,|||||
+19AAAA|Complements et Multiples|Complements et Multiples||Educational,|||||
+1AAAAA|Abeille|Abeille||Arcade,||||Philips|1984
+20AAAA|Conjugaichouette|Conjugaichouette||Educational,|||||
+21AAAA|Current Continu|Current Continu||Educational,|||||
+22AAAA|DCA|DCA||Shooter,|||||1986
+23AAAA|Decouverte du Basic: Volume 1|Decouverte du Basic: Volume 1||Educational,|||||
+24AAAA|Decouverte du Basic: Volume 2|Decouverte du Basic: Volume 2||Educational,|||||
+25AAAA|Demo 27 Couleurs|Demo 27 Couleurs||Miscellaneous,|||||
+26AAAA|Demo 3 Mode 80 Colonnes|Demo 3 Mode 80 Colonnes||Miscellaneous,|||||
+27AAAA|Demo 4 Mode 80 Colonnes|Demo 4 Mode 80 Colonnes||Miscellaneous,|||||
+28AAAA|Demo 5 Mode 80 Colonnes|Demo 5 Mode 80 Colonnes||Miscellaneous,|||||
+29AAAA|Demo Mode 80 Colonnes|Demo Mode 80 Colonnes||Miscellaneous,|||||
+2AAAAA|Affichage des Polices|Affichage des Polices||Miscellaneous,|||||
+30AAAA|Divertissements|Divertissements||Various,|||Philips Interactive Media|Philips Interactive Media|1984
+31AAAA|Fichier|Fichier||Miscellaneous,|||||
+32AAAA|Football|Football||Sports,|||||1984
+33AAAA|Formule Brute|Formule Brute||Educational,|||||
+34AAAA|Fou Volant|Fou Volant||Shooter,|||||1984
+35AAAA|Glouton|Glouton||Arcade,||||Philips|1984
+36AAAA|Helicopter Rescue|Helicopter Rescue||Action,||||Philips Export B.V.|1984
+37AAAA|Helicoptere|Helicoptere||Arcade,|||||
+38AAAA|Jeu de Dames|Jeu de Dames||Gambling,|||||1985
+39AAAA|Jeu de Tarot|Jeu de Tarot||Gambling,|||||
+3AAAAA|Air Battle|Air Battle||Simulation,|||Philips Interactive Media|Philips Interactive Media|1984
+40AAAA|K.C. Munchkin!|K.C. Munchkin!||Action,||||Philips Export B.V.|1984
+41AAAA|La Carotte Malicieuse|La Carotte Malicieuse|||||||1984
+43AAAA|La Moto Infernale|La Moto Infernale||Sports,|||Nice Ideas|Philips Export B.V.|1984
+44AAAA|L'Abeille|L'Abeille|||||||1984
+45AAAA|Labyrinthe et la Princesse|Labyrinthe et la Princesse|||||||1985
+47AAAA|Le Fou Volant|Le Fou Volant|||||||1984
+48AAAA|Le Monstre|Le Monstre|||||||1984
+49AAAA|LGraph - VG5216|LGraph: VG5216||Miscellaneous,|||||
+4AAAAA|Alien Invaders Plus!|Alien Invaders Plus!||Shooter,||||Philips Interactive Media|1984
+50AAAA|Lire Vite et Bien|Lire Vite et Bien||Puzzle,|||||
+51AAAA|Memory|Memory||Puzzle,|||||1985
+52AAAA|Mes Premiers Mots Croises Volume 1|Mes Premiers Mots Croises Volume 1||Puzzle,|||||
+53AAAA|Mes Premiers Mots Croises Volume 2|Mes Premiers Mots Croises Volume 2||Puzzle,|||||
+54AAAA|Meteo 36|Meteo 36||Educational,|||||
+55AAAA|Micro Jeux: Cocktail de Jeux|Micro Jeux: Cocktail de Jeux|||||||
+56AAAA|Microjeux|Microjeux||Puzzle,|||||
+57AAAA|Micropocesseur|Micropocesseur||Educational,|||||
+58AAAA|Mission Omega|Mission Omega||Shooter,|||||1984
+59AAAA|Monkey Academy|Monkey Academy||Educational,|||||
+5AAAAA|Alunissage|Alunissage|||||||1985
+60AAAA|Monstre|Monstre||Shooter,|||||1984
+61AAAA|Moto Infernale|Moto Infernale||Racing,|||||1984
+62AAAA|Mots en Fleurs|Mots en Fleurs||Educational,|||||
+63AAAA|Norseman|Norseman||Strategy,|||GST Video|Philips Export B.V.|1984
+64AAAA|Penalty|Penalty||Sports,|||||1985
+65AAAA|PH Faible|PH Faible||Educational,|||||
+6AAAAA|Analyse de Factuer 1er|Analyse de Factuer 1er||Educational,|||||
+73AAAA|Pierre Philosophale1|Pierre Philosophale, La: Chapter 1- La Pierre Philosophale||Arcade,|||||
+74AAAA|Pierre Philosophale2|Pierre Philosophale, La: Chapter 2- La Clef de l'Ile||Arcade,|||||
+75AAAA|Pierre Philosophale3|Pierre Philosophale, La: Chapter 3- La Porte du Jardin des Hesperides||Arcade,|||||
+76AAAA|Pierre Philosophale4|Pierre Philosophale, La: Chapter 4- La Porte des Gnomes||Arcade,|||||
+77AAAA|Pierre Philosophale5|Pierre Philosophale, La: Chapter 5- La Porte des Pieuvres||Arcade,|||||
+78AAAA|Pierre Philosophale6|Pierre Philosophale, La: Chapter 6- La Porte du Harpie||Arcade,|||||
+79AAAA|Pierre Philosophale7|Pierre Philosophale, La: Chapter 7- La Porte du Gouffre||Arcade,|||||
+7AAAAA|Anglais Volume 1|Anglais Volume 1||Educational,|||||
+80AAAA|Preterite Star|Preterite Star||Educational,|||||
+81AAAA|Resolution de Suite|Resolution de Suite||Educational,|||||
+82AAAA|Resolution de Systeme de 2 equations|Resolution de Systeme de 2 equations||Educational,|||||
+83AAAA|Resolution d'Equation du 3eme Degres|Resolution d'Equation du 3eme Degres||Educational,|||||
+84AAAA|Salut l'Artiste|Salut l'Artiste||Miscellaneous,|||||
+85AAAA|Simulateur de Vol|Simulateur de Vol||Simulation,|||||1984
+86AAAA|Sokoban|Sokoban||Strategy,|||||2010
+87AAAA|Space Invaders|Space Invaders||Shooter,|||||1985
+88AAAA|Squash|Squash||Arcade,|||||
+89AAAA|Staroc|Staroc||Shooter,|||||1984
+8AAAAA|Anglais Volume 2|Anglais Volume 2||Educational,|||||
+90AAAA|Stricker|Stricker||Arcade,|||||1985
+91AAAA|Submarine|Submarine||Shooter,|||||1985
+92AAAA|Systeme Metrique|Systeme Metrique||Educational,|||||
+93AAAA|Test Mode 80 Colonnes|Test Mode 80 Colonnes||Miscellaneous,|||||
+94AAAA|Test Pour Joystick|Test Pour Joystick||Miscellaneous,|||||
+95AAAA|Tetris|Tetris||Strategy,|||||2013
+96AAAA|Tortues|Tortues||Arcade,|||||1984
+97AAAA|Trans American Rally|Trans American Rally||Racing,||||Philips Export B.V.|1984
+98AAAA|Turtles|Turtles||Action,|||Konami Industry Co. Ltd.|S.A. Philips Industrielle et Commerciale|1984
+99AAAA|US Rallye|US Rallye||Racing,|||||1984
+9AAAAA|Backgammon|Backgammon||Gambling,||||Philips Interactive Media|1984
+999AAA|Yahtzee|Yahtzee||Gambling,|||Markerror||2016

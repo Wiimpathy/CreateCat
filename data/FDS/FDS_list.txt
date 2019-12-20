@@ -1,0 +1,256 @@
+88114A|Adian No Tsue|Adian no Tsue||Adventure,Educational,|1||Sunsoft|Sunsoft|1986
+71309A|Ai Senshi Nicol|Ai Senshi Nicol||Shooter,Action,Action / Adventure,|1||Konami|Konami|1987
+189024|Air Fortress|Air Fortress|||||||
+88116A|Aki To Tsukasa No Fushigi No Kabe|Aki and Tsukasa's Mysterious Wall||Adult,Puzzle-Game,|1||Super Pig|New System House Oh!|1988
+98598A|Akuu Senki Raijin|Akuu Senki Raijin||Shoot'em Up,Shoot'em up / Vertical,|1||MicroCabin|Disk Original Group (DOG)|1988
+88118A|Aliens - Alien 2|Aliens - Alien 2||Platform,Shoot'em up / Horizontal,Shoot'em Up,|1||Square Soft|Square Soft|1987
+71310A|All Night Nippon Super Mario Bros.|All Night Nippon Super Mario Bros.||Action,Platform,|2||Nintendo|Fuji Television Network|1986
+88120A|Apple Town Monogatari - Little Computer People|Apple Town Story - Little Computer People||Simulation,|1||Square Soft|Disk Original Group (DOG)|1987
+71314A|Arumana No Kiseki|Arumana No Kiseki||Action|1||Konami|Konami|1987
+88122A|Aspic - Majaou No Noroi|Aspic - Majaou no Noroi||Role playing games,|1||Xtalsoft|Bothtec|1988
+98600A|Backgammon|Backgammon||Board game,|2||Nintendo|Nintendo|1990
+98602A|Baseball|Baseball||Sports,Sports / Baseball,|2||Nintendo|Nintendo|1986
+98603A|Big Challenge! Dogfight Spirit|Big Challenge! Dogfight Spirit||Shoot'em up / Vertical,Shoot'em Up,|1||Jaleco|Jaleco|1988
+88123A|Big Challenge! Go! Go! Bowling|Big Challenge! Go! Go! Bowling||Sports / Bowling,Sports,|4||Jaleco|Jaleco|1989
+88124A|Big Challenge! Gun Fighter|Big Challenge! Gun Fighter||Action,Shooter,Platform,|1||Jaleco|Jaleco|1989
+88125A|Big Challenge! Juudou Senshuken|Big Challenge! Juudou Senshuken||Fight / Versus,Fight,|2||Jaleco|Jaleco|1988
+88126A|Bio Miracle Bokutte Upa|Bio Miracle Bokutte Upa||Platform,|1||Konami|Konami|1988
+18597A|Bishoujo Control|Bishoujo Control||Action,Shoot'em up / Vertical,Adult,Shoot'em Up,|1||Wild|Wild|1990
+88128A|Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen|Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen||Strategy,Hanafuda,Adult,Asiatic board game,|1||Super Pig|Super Pig|1989
+88129A|Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen|Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana He||Strategy,Hanafuda,Adult,Asiatic board game,|1||Super Pig|Super Pig|1989
+88130A|Bishoujo Kachinuki Renju - Gomoku Narabe|Bishoujo Kachinuki Renju - Gomoku Narabe||Adult,Go,Renju,Asiatic board game,|1||Super Pig|Hacker International|1989
+88131A|Bishoujo Mahjong Club|Bishoujo Mahjong Club||Adult,Mahjong,Casino,Asiatic board game,|1||Super Pig|Mimi-Pro|1988
+88132A|Bishoujo Sexy Derby|Bishoujo Sexy Derby||Casino,Sports with Animals,Horses race,Adult,|1||Super Pig|Hacker International|1988
+88133A|Bishoujo Sexy Puzzle|Bishoujo Sexy Puzzle||Adult,Puzzle-Game,|1||Super Pig|Super Pig|1988
+88134A|Bishoujo Sexy Slot|Bishoujo Sexy Slot||Casino,Casino / Slot machine,Adult,|1||Super Pig|Hacker International|1988
+98604A|Bishoujo Alien Battle|Bishoujo SF Alien Battle||Adult,Playing cards,|1||Hacker International|Hacker International|1990
+71323A|Bishoujo Shashinkan - Moving School|Bishoujo Shashinkan - Moving School||Simulation,Adult,|1||HARD|Phoenix|1987
+88137A|Bishoujo Shashinkan - Studio Cut|Bishoujo Shashinkan - Studio Cut||Adult,Simulation,|1||HARD|Phoenix|1987
+88138A|Bodycon Quest I - Abakareshi Musume Tachi|Bodycon Quest I - Abakareshi Musume Tachi||Role playing games,|1||Indies Soft|Hacker International|1987
+98605A|Bomber Man|Bomberman||Action,Arcade|1||Hudson|Hudson|1985
+88221A|Namida No Soukoban Special|Boxxle - Warehouse Evening of Tears||Puzzle-Game,|1||Thinking Rabbit|ASCII Corporation|1986
+71325A|Breeder|Breeder||Simulation,|8||Soft Pro International|Soft Pro International|1986
+98606A|Bubble Bobble|Bubble Bobble||Action,Platform,|2||Taito|Taito|1987
+98607A|Burgertime|Burger Time||Action,Action / Adventure,Platform,|2||Data East|Data East|1985
+98608A|Casino De Pink|Casino De Pink||Casino,Playing cards,Adult,|2||Wild|Wild|1988
+88117A|Akumajou Dracula|Castlevania|Akuma Jou Dracula|Action|1||Konami|Konami|1986
+98609A|Chitei Tairiku Ordola|Chitei Tairiku Orudoora||Platform,|1||Sunsoft|Sunsoft|1987
+71333A|Cleopatra No Mahou|Cleopatra no Mahou||Role playing games,|1||Square Soft|Disk Original Group (DOG)|1987
+98611A|Clu Clu Land|Clu Clu Land - Welcome to New Clu Clu Land||Action,Puzzle-Game,|2||Nintendo|Nintendo|1988
+88140A|Cocona World|Cocona World||Adventure,|1||SOFEL Co., Ltd.|SOFEL Co., Ltd.|1987
+88141A|Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil|Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil||Shooter,Adult,|1||Indies Soft|Hacker International|1990
+88142A|Comic Sakka Series Touma Senki #2 - Mermaid No Gyakushuu|Comic Sakka Series Touma Senki #2 - Mermaid No Gyakushuu||Action,Adult,Shooter,|1||Indies Soft|Hacker International|1990
+88143A|Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu|Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu||Action,Adult,Shooter,|1||Indies Soft|Hacker International|1990
+88144A|Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu|Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu||Casino / Cards,Casino,Adult,Playing cards,|1||Indies Soft|Hacker International|1990
+88145A|Comic Sakka Series Touma Senki #5 - Youjuu Rudo No Chousen|Comic Sakka Series Touma Senki #5 - Youjuu Rudo No Chousen||Casino / Cards,Casino,Adult,Playing cards,|1||Indies Soft|Hacker International|1990
+98682A|Suishou No Dragon|Crystal Dragon||Adventure,|1||Square Soft|Disk Original Group (DOG)|1986
+98612A|Dandy - Zeuon No Fukkatsu|Dandy - Zeuon No Fukkatsu||Action / Adventure,Adventure,Action,|1||Atelier Double|Pony Canyon, Inc.|1988
+88146A|Date De Blackjack|Date de Blackjack||Adult,Casino,|1||Hacker International|Hacker International|1990
+98613A|Dead Zone|Dead Zone||Adventure,|1||Sunsoft|Sunsoft|1986
+88148A|Deep Dungeon - Madou Senki|Deep Dungeon - The Heretic War||Role playing games,|1||Humming Bird Soft|Disk Original Group (DOG)|1986
+88147A|Deep Dungeon 2 - Yuushi No Monshou|Deep Dungeon II - Yuushi no Monshou||Role playing games,|1||Humming Bird Soft|Disk Original Group (DOG)|1987
+99360A|Dig Dug|Dig Dug||Action,Arcade|2||Namco|Namco|1990
+99361A|Dig Dug 2|Dig Dug 2||Action,|2||Namco|Namco|1990
+88149A|Dirty Pair - Project Eden|Dirty Pair - Project Eden||Action|2||Daiei Seisakusho|Bandai|1987
+88155A|Donkey Kong|Donkey Kong||Platform,|2||Nintendo|Nintendo|1981
+88156A|Donkey Kong Jr.|Donkey Kong Jr.|Donkey Kong|Platform,|2||Nintendo|Nintendo|1982
+98614A|Doremikko|Doremikko||Simulation,Rhythm,Music and Dance,|1||Konami|Konami|1987
+88157A|Dr. Chaos - Jigoku No Tobira|Dr. Chaos - Jigoku No Tobira||Action / Adventure,Action,Platform,|1||Marionette Co., Ltd.|Pony Canyon, Inc.|1986
+88158A|Akumajou Dracula 2 - Noroi No Fuuin|Dracula II - Noroi no Fuuin||Action / Adventure,Action,|1||Konami|Konami|1987
+88269A|Yume Koujou Doki Doki Panic|Dream World Doki Doki Panic!||Platform,|1||Nintendo|Fuji Television Network|1987
+88159A|Druid - Kyoufu No Tobira|Druid - Kyoufu no Tobira||Adventure,Action / Adventure,Action,|1||Jaleco|Jaleco|1988
+88160A|Eggerland|Eggerland||Action,Puzzle-Game,|1||HAL Laboratory|HAL Laboratory|1987
+98615A|Eggerland - Souzou Heno Tabidachi|Eggerland - Souzou Heno Tabidachi||Puzzle-Game,|1||HAL Laboratory|HAL Laboratory|1988
+88161A|Electrician|Electrician||Puzzle-Game,Platform,|1||Synapse Software Corporation|Kemco|1986
+88162A|Emi-chan No Moero Yakyuuken!|Emi-chan no Moero Yakyuuken!|||1||Super Pig|New System House Oh!|1987
+88163A|Esper Dream|Esper Dream||Action,Role playing games,|1||Konami|Konami|1987
+88164A|Exciting Baseball|Exciting Baseball||Sports,Sports / Baseball,|2||Konami|Konami|1987
+88165A|Exciting Basket|Exciting Basket||Sports,Sports / Basketball,|2||Konami|Konami|1987
+88166A|Exciting Billiard|Exciting Billiard||Sports,Sports / Pool,|4||Konami|Konami|1987
+88167A|Exciting Soccer - Konami Cup|Exciting Soccer - Konami Cup||Sports,Sports / Soccer,|2||Konami|Konami|1988
+98601A|Bakutoushi Patton-kun|Explosive Fighter Patton|Bakutoushi Patton Kun|Action|4||Soft Pro International|Soft Pro International|1988
+88168A|Fairy Pinball - Yousei Tachi No Pinball|Fairy Pinball - Yousei Tachi no Pinball||Pinball,Adult,|1||Hacker International|Hacker International|1987
+98622A|Fairytale|Fairytale||Strategy,|1||Soft Pro International|Soft Pro International|1989
+88169A|Falsion|Falsion||Shooter,|1||Konami|Konami|1987
+71370A|Famicom Grand Prix 2 3d Hot Rally|Famicom Grand Prix 2 3d Hot Rally||Race, Driving,|1||Nintendo|Nintendo|1988
+71371A|Famicom Grand Prix - F1 Race|Famicom Grand Prix: F1 Race||Race, Driving,|4||Nintendo|Nintendo|1987
+98623A|Famicom Mukashibanashi - Shin Onigashima - Kouhen|Famicom Mukashibanashi - Shin Onigashima - Kouhen||Adventure,|1||Nintendo|Nintendo|1987
+98640A|Famicom Mukashibanashi - Shin Onigashima - Zenpen|Famicom Mukashibanashi - Shin Onigashima - Zenpen||Adventure,|1||Nintendo|Nintendo|1987
+98618A|Famicom Mukashibanashi - Yuuyuuki - Kouhen|Famicom Mukashibanashi - Yuuyuuki - Kouhen||Adventure,|1||Nintendo|Nintendo|1989
+98619A|Famicom Mukashibanashi - Yuuyuuki - Zenpen|Famicom Mukashibanashi - Yuuyuuki - Zenpen||Adventure,|1||Nintendo|Nintendo|1989
+98620A|Famicom Tantei Club - Kieta Koukeisha - Kouhen|Famicom Tantei Club - Kieta Koukeisha - Kouhen||Adventure,|1||Nintendo|Nintendo|1988
+98621A|Famicom Tantei Club - Kieta Koukeisha - Zenpen|Famicom Tantei Club - Kieta Koukeisha - Zenpen||Adventure,|1||Nintendo|Nintendo|1988
+98624A|Famicom Tantei Club Part 2 - Ushiro Ni Tatsu Shoujo - Kouhen|Famicom Tantei Club Part 2 - Ushiro Ni Tatsu Shoujo - Kouhen||Adventure,|||Nintendo|Nintendo|1989
+98641A|Famicom Tantei Club Part 2 - Ushiro Ni Tatsu Shoujo - Zenpen|Famicom Tantei Club Part 2 - Ushiro Ni Tatsu Shoujo - Zenpen||Adventure,|||Nintendo|Nintendo|1989
+98625A|Family Composer|Family Composer||Various,Music and Dance,Rhythm,|1||Musical Plan|Tokyo Shoseki|1987
+99362A|Famimaga Disk Vol. 1 - Hong Kong|Famimaga Disk Vol. 1 - Hong Kong||Strategy,Asiatic board game,Mahjong,|1||Tokuma Shoten|Tokuma Shoten|1990
+99363A|Famimaga Disk Vol. 2 - Panic Space|Famimaga Disk Vol. 2 - Panic Space||Puzzle-Game,|1||Tokuma Shoten|Tokuma Shoten|1990
+99364A|Famimaga Disk Vol. 3 - All 1|Famimaga Disk Vol. 3 - All 1||Puzzle-Game,|1||Tokuma Shoten|Tokuma Shoten|1991
+99365A|Famimaga Disk Vol. 4 - Clox|Famimaga Disk Vol. 4 - Clox||Puzzle-Game,|1||Tokuma Shoten|Tokuma Shoten|1991
+99366A|Famimaga Disk Vol. 5 - Puyo Puyo|Famimaga Disk Vol. 5 - Puyo Puyo||Puzzle-Game,|2||Compile|Tokuma Shoten|1991
+99367A|Famimaga Disk Vol. 6 - Janken Disk Jou|Famimaga Disk Vol. 6 - Janken Disk Jou||Puzzle-Game,|1||Tokuma Shoten|Tokuma Shoten|1992
+88176A|Final Commando - Akai Yousai|Final Commando - Akai Yousai||Shooter,Shoot'em Up,|2||Konami|Konami|1988
+98626A|Fire Bam|Fire Bam||Action|1||HAL Laboratory|HAL Laboratory|1988
+88177A|Fire Rock|Fire Rock|Fire Bam|Action|1||System Sacom|Use Corporation|1986
+99369A|Fruits Mahjong 1 - Disk 2 - Dai H Taikai|Fruits Mahjong 1 - Disk 2 - Dai H Taikai|||1||Mimi-Pro|Hacker International|1987
+99368A|Fruits Mahjong 1 - Disk 1 - Mahjong Game Hontai|Fruits Mahjong 1 Disk #1 - Dai H Taikai|||1||Mimi-Pro|Hacker International|1987
+99370A|Fruits Mahjong 2 - Disk 1 - Tokimeki Gals|Fruits Mahjong 2 - Disk 1 - Tokimeki Gals|||1||Mimi-Pro|Hacker International|
+99371A|Fruits Mahjong 2 - Disk 2 - Yonin To Dai H Taikai|Fruits Mahjong 2 Disk #3 - Yonin to Dai H Taikai|||1||Mimi-Pro|Hacker International|
+99372A|Fruits Mahjong 3 - Disk 1 - Yonin No Tenshi Tachi|Fruits Mahjong 3 Disk #4 - Yonin no Tenshi Tachi|||1||Mimi-Pro|Hacker International|
+99373A|Fruits Mahjong 3 - Disk 2 - Tottemo H Na Gogo|Fruits Mahjong 3 Disk #5 - Tottemo H na Gogo|||1||Mimi-Pro|Hacker International|
+99374A|Fruits Mahjong 4 - Disk 1 - Bishoujo Connection|Fruits Mahjong 4 Disk #6 - Bishoujo Connection|||1||Mimi-Pro|Hacker International|
+99375A|Fruits Mahjong 4 - Disk 2 - Daitan H Na Hirusagari|Fruits Mahjong 4 Disk #7 - Daitan H na Hirusagari|||1||Mimi-Pro|Hacker International|
+98627A|Fuuun Shourin Ken|Fuuun Shourin Ken|Fuuun Shourinken|Action,Fight,|1||Jaleco|Jaleco|1987
+98628A|Fuuun Shourin Ken - Ankoku No Maou|Fuuun Shourin Ken - Ankoku no Maou|Fuuun Shourinken - Ankoku no Maou|Action,Fight,|2||Jaleco|Jaleco|1988
+98629A|Galaga|Galaga||Shooter,Shoot'em Up,Shoot'em up / Vertical,|2||Namco|Namco|1990
+98630A|Galaxian|Galaxian|Galaga|Shooter,Shoot'em Up,|2||Namco|Namco|1990
+71390A|Gall Force - Eternal Story|Gall Force: Eternal Story||Action,Shoot'em Up,|1||HAL Laboratory|HAL Laboratory|1986
+88186A|Game No Tatsujin - Money Wars|Game no Tatsujin - Money Wars||Adult,|1||Indies Soft|Hacker International|1987
+98700A|Youkai Yashiki|Ghost Manor||Platform,|1||Casio|Irem|1987
+88187A|Ginga Denshou - Galaxy Odyssey|Ginga Denshou - Galaxy Odyssey||Action,Adventure,|1||Imagineer|Imagineer|1986
+98632A|Gokuraku Yuugi - Game Tengoku|Gokuraku Yuugi - Game Tengoku||Action,Casino,|1||SOFEL Co., Ltd.|SOFEL Co., Ltd.|1987
+88188A|Golf|Golf||Sports,Sports / Golf,|2||Nintendo|Nintendo|1984
+88171A|Golf - Japan Course|Golf - Japan Course||Sports,Sports / Golf,|2||HAL Laboratory|Nintendo|1987
+71377A|Golf - U.s. Course|Golf - U.s. Course||Sports,Sports / Golf,|2||HAL Laboratory|Nintendo|1987
+98634A|Goonies|The Goonies||Action,Action / Adventure,|1||Konami|Konami|1988
+98635A|Green Beret|Green Beret||Action|2||Konami|Konami|1987
+98636A|Gun.smoke|Gun.Smoke||Action,Shooter,|1||Capcom|Capcom|1988
+98637A|Gyruss|Gyruss||Shooter,Shoot'em Up,|1||Konami|Konami|1988
+18699A|Halley Wars|Halley Wars||Action,Shoot'em Up,Shoot'em up / Vertical,|1||ITL Co., Ltd.|Taito|1989
+88190A|Hao-kun No Fushigi Na Tabi|Hao-kun no Fushigi na Tabi||Platform,|1||Carry Soft|Disk Original Group (DOG)|1987
+88192A|Kid Icarus|Hikari Shinwa - Palthena no Kagami||Platform,|1||Nintendo|Nintendo|1986
+98638A|Hikaru Genji - Roller Panic|Hikaru Genji - Roller Panic||Adventure,|1||Pony Canyon, Inc.|Pony Canyon, Inc.|1989
+98642A|I Am A Teacher - Super Mario No Sweater|I Am A Teacher - Super Mario No Sweater||Various,Simulation,|1||Royal Kougyou|Nintendo|1986
+98643A|I Am A Teacher - Teami No Kiso|I Am A Teacher - Teami No Kiso||Various,Simulation,|1||Royal Kougyou|Nintendo|1986
+98644A|Ice Climber|Ice Climber||Platform,|2||Nintendo|Nintendo|1984
+88193A|Ice Hockey|Ice Hockey||Sports,Sports / Hockey,|2||Nintendo|Nintendo|1988
+88194A|Idol Hotline - Nakayama Miho No Tokimeki High School|Idol Hotline - Nakayama Miho no Tokimeki High Scho||Adventure,|1||Square Soft|Nintendo|1987
+98645A|Igo - Kyuu Roban Taikyoku|Igo - Kyuu Roban Taikyoku||Sports,Go,Asiatic board game,|2||Bullet Proof Software|Bullet Proof Software|1987
+98646A|Ishido|Ishido||Strategy,Puzzle-Game,|1||Software Resources International|Hiro|1990
+98631A|Jaaman Tanteidan Marine Kumi - Maruhi Jigoma Sousa|Jaaman Tanteidan Marine Kumi - Maruhi Jigoma Sousa||Action,Adventure,|1||Bandai|Bandai|1988
+98648A|Jikai Shounen Metmag|Jikai Shounen Metmag|Jikai Shounen Met Mag|Action,Puzzle-Game,|1||Thinking Rabbit|Disk Original Group (DOG)|1987
+88195A|Jingorou|Jingorou|||1||||1988
+99377A|Kaettekita Mario Bros.|Kaettekita Mario Bros.|Kaettekita Mario Bros|Platform,|2||Nintendo|Nintendo|1988
+88197A|Kamen Rider Black - Taiketsu Shadow Moon|Kamen Rider Black - Taiketsu Shadow Moon||Action|1||Human Entertainment|Bandai|1988
+88198A|Karate Champ|Karate Champ||Fight,|2||Data East|Data East|1986
+99378A|Kattobi! Douji|Kattobi! Douji||Sports / Baseball,Sports,|2||Pack-In-Video Co., Ltd|Pack-In-Video Co., Ltd|1989
+98649A|Kick And Run|Kick and Run||Sports / Soccer,Sports,|2|Coop|Taito|Taito|1988
+88199A|Kick Challenger Air Foot - Yasai No Kuni No Ashi Senshi|Kick Challenger Air Foot - Yasai no Kuni no Ashi S||Action,|1||Vap|Vap|1987
+88200A|Kieta Princess|Kieta Princess||Adventure,|1||Imagineer|Wave Jack|1986
+98650A|Kikikai-kai - Dotou Hen|Kikikai-kai - Dotou Hen|Kiki Kaikai - Dotou Hen|Action,Action / Adventure,|2||Taito|Taito|1987
+88201A|Kind Gal's|Kind Gal's||Adventure,|1||HARD|Hacker International|1987
+88219A|Monitor Puzzle Kineko: Kinetic Connection|Kinetic Connection||Puzzle-Game,|1||Tamtex|Irem|1986
+98651A|Kinnikuman - Kinnikusei Oui Soudatsusen|Kinnikuman - Kinnikusei Oui Soudatsusen||Action,Sports / Wrestling,Sports,|1||Bandai|Bandai|1987
+98652A|Knight Lore - Majou No Ookami Otoko|Knight Lore - Majou No Ookami Otoko||Action,Action / Adventure,|1||TOSE|Jaleco|1986
+88202A|Knight Move|Knight Move|Knight Lore|Puzzle-Game,|1||JV Dialog|Nintendo|1990
+88203A|Kobayashi Hitomi No Hold Up|Kobayashi Hitomi no Hold Up||Puzzle-Game,Adult,|1||Hacker International|Hacker International|1990
+88204A|Kobayashi Hitomi Shocking Tennis|Kobayashi Hitomi Shocking Tennis||Sports / Tennis,Adult,Sports,|1||Hacker International|Hacker International|1990
+88205A|Konamic Ice Hockey|Konamic Ice Hockey||Sports,Sports / Hockey,|2||Konami|Konami|1988
+98653A|Konamic Tennis|Konami Tennis||Sports,|2||Konami|Konami|1988
+88206A|Koneko Monogatari - The Adventures Of Chatran|Koneko Monogatari - The Adventures of Chatran||Action,Platform,|1||Marionette Co., Ltd.|Pony Canyon, Inc.|1986
+88208A|Link No Bouken - The Legend Of Zelda 2|Link No Bouken - The Legend Of Zelda 2||Role playing games,|1||Nintendo|Nintendo|1987
+88209A|Lipstick #.1 - Lolita Hen|Lipstick #.1 - Lolita Hen|||1||Mimi-Pro|Hacker International|1988
+88210A|Lipstick #.2 - Joshi Gakusei Hen|Lipstick #.2 - Joshi Gakusei Hen|||1||Mimi-Pro|Hacker International|1988
+88211A|Lipstick #.3 - Ol Hen|Lipstick #.3 - OL Hen|||1||Mimi-Pro|Hacker International|1988
+88212A|Lipstick #.4 - Hakui No Tenshi Hen|Lipstick #.4 - Hakui no Tenshi Hen|||1||Mimi-Pro|Hacker International|1988
+88213A|Lipstick #.5 - Stewardess Hen|Lipstick #.5 - Stewardess Hen|||1||Mimi-Pro|Hacker International|1988
+98654A|Lutter|Lutter||Adventure,Role playing games,|1||Athena|Athena|1989
+98655A|Maerchen Veil|Maerchen Veil|Marchen Veil|Adventure,Role playing games,|1||System Sacom|Sunsoft|1987
+98656A|Magma Project - Hacker|Magma Project - Hacker|Magma Project Hacker|Role playing games,|1||Bits Laboratory|Tokuma Shoten|1989
+98657A|Mahjong|Mahjong||Mahjong,Asiatic board game,|2||Nintendo|Nintendo|1986
+88214A|Mahjong Goraku - Bishoujo Meijinsen|Mahjong Goraku - Bishoujo Meijinsen||Mahjong,Asiatic board game,Adult,|1||Indies Soft|Hacker International|1987
+98658A|Mahjong Kazoku|Mahjong Kazoku||Mahjong,Asiatic board game,|1||Irem|Irem|1987
+98659A|Matou No Houkai - The Hero Of Babel|Matou No Houkai - The Hero Of Babel||Adventure,|1||Carry Soft|Pony Canyon, Inc.|1988
+88215A|Meikyuu Jiin Dababa|Meikyuu Jiin Dababa||Action,Shooter|1||Konami|Konami|1987
+88216A|Metroid|Metroid||Adventure,|1||Nintendo|Nintendo|1986
+88217A|Michael English Daibouken|Michael English Daibouken|Michael English Dai Bouken|Puzzle-Game,Educational,|1||Scorpion Soft|Scorpion Soft|1987
+88218A|Moero Twinbee - Cinnamon Hakase Wo Sukue!|Moero TwinBee - Cinnamon Hakase wo Sukue!||Shooter,Shoot'em Up,|3||Konami|Konami|1986
+98661A|Monitor Puzzle Kineko - Kinetic Connection Vol. 2, The|Monitor Puzzle Kineko - Kinetic Connection Vol. 2, The||Puzzle-Game,|1||Tamtex|Irem|1987
+88220A|Monty On The Run - Monty No Doki Doki Dai Dassou|Monty on the Run - Monty no Doki Doki Dai Dassou||Action,Platform,|1||Jaleco|Jaleco|1987
+98662A|Moonball Magic|Moonball Magic||Action,Pinball,|1||System Sacom|Disk Original Group (DOG)|1988
+88262A|Tooyama No Kinsan Space Chou - Mr. Gold|Mr. Gold - Kinsan in the Space||Adventure,|1||Toei Animation|Toei Animation|1988
+98664A|Nankin No Adventure|Nankin No Adventure||Adventure,|1||Sunsoft|Sunsoft|1988
+88222A|Nazo No Kabe - Block Kuzushi|Nazo no Kabe - Block Kuzushi||Action,Breakout|1||Konami|Konami|1986
+99383A|Nazoler Land Special!! - Quiz Ou Wo Sagase|Nazoler Land Special!! - Quiz Ou Wo Sagase||Quiz,|1||Sunsoft|Sunsoft|1987
+99380A|Nazoler Land - Dai 2 Gou|Nazoraa Land Dai 2 Gou||Action,Casual Game,|2||Sunsoft|Sunsoft|1987
+99381A|Nazoler Land - Dai 3 Gou|Nazoraa Land Dai 3 Gou||Puzzle-Game,Casual Game,|2||Sunsoft|Sunsoft|1988
+99382A|Nazoler Land - Soukan Gou|Nazoraa Land Soukan Gou||Puzzle-Game,Casual Game,|2||Sunsoft|Sunsoft|1987
+88228A|19 - Neunzehn|Neunzehn||Strategy,|1||Soft Pro International|Soft Pro International|1988
+88229A|Omoikkiri Tanteidan Haado Gumi - Matenrou No Chousenjou|Omoikkiri Tanteidan Haado Gumi - Matenrou no Chous||Adventure,|1||Bandai|Bandai|1988
+88175A|Othello|Othello||Strategy,Asiatic board game,Othello,|2||HAL Laboratory|Kawada, Co. Ltd|1986
+98665A|Otocky|Otocky||Shooter,Music and Dance,Shoot'em Up,|1||Scitron, Art SEDIC|ASCII Corporation|1987
+99384A|Pac-man|Pac-man||Action,Puzzle-Game,|2||Namco|Namco|1990
+98666A|Pachicom|Pachi Com||Casino,|1||Shouei System|Toshiba-EMI Ltd.|1985
+98667A|Pachinko Grand Prix|Pachinko Grand Prix||Casino,|1||Data East|Data East|1988
+88230A|Patlabor The Mobile Police - Dai 2 Shoutai Shutsudou Seyo!|Patlabor The Mobile Police - Dai 2 Shoutai Shutsud||Platform,Shooter,Shooter / 1st person,|1||Advance Communication Company|Bandai|1989
+98669A|Pinball|Pinball||Pinball,|2||Nintendo|Nintendo|1983
+98670A|Pro Golfer Saru - Kage No Tournament|Pro Golfer Saru - Kage No Tournament||Sports,Sports / Golf,|||TOSE|Bandai|1987
+98671A|Pro Wres|Puroresu - Famicom Wrestling Association||Fight,Sports,Sports / Wrestling,|2||Nintendo|Nintendo|1986
+88231A|Professional Mahjong Gokuu|Professional Mahjong Gokuu||Mahjong,Asiatic board game,|4||Chat Noir|ASCII Corporation|1986
+88233A|Pulsar No Hikari - Space Wars Simulation|Pulsar no Hikari - Space Wars Simulation||Strategy,|1||Soft Pro International|Soft Pro International|1987
+98672A|Putt Putt Golf|Putt Putt Golf||Sports,Sports / Golf,|||Pack-In-Video Co., Ltd|Pack-In-Video Co., Ltd|1989
+98674A|Puzzle Boys|Puzzle Boys||Puzzle-Game,|1||Atlus|Atlus|1990
+98675A|Radical Bomber!! Jirai-kun|Radical Bomber!! Jirai-kun|Radical Bomber!! Jirai Kun|Strategy,|1||Jaleco|Jaleco|1988
+98676A|Reflect World|Reflect World||Shooter,|1||East Cube|East Cube|1987
+98677A|Relics - Ankoku Yousai|Relics - Ankoku Yousai||Adventure,|1||Bothtec|Bothtec|1987
+98678A|Replicart|Replicart||Action,Arcade|1||Dual|Taito|1988
+88223A|Nazo No Murasamejou|Riddle of Murasame Castle|Nazo no Murasame Jou|Adventure,|1||Nintendo|Nintendo|1986
+88236A|Risa No Yousei Densetsu|Risa no Yousei Densetsu||Adventure,|1||Konami|Konami|1988
+98679A|Roger Rabbit|Roger Rabbit||Action,Arcade|1||Kemco|Kemco|1989
+88237A|Sailor Fuku Bishoujo Zukan Vol. 1|Sailor Fuku Bishoujo Zukan Vol. 1||,Arcade|1||Mimi-Pro|Hacker International|1989
+88238A|Sailor Fuku Bishoujo Zukan Vol. 2|Sailor Fuku Bishoujo Zukan Vol. 2|||1||Mimi-Pro|Hacker International|1989
+88239A|Sailor Fuku Bishoujo Zukan Vol. 3|Sailor Fuku Bishoujo Zukan Vol. 3|Sailor Fuku Bishoujo Zukan Vol. 1|,Arcade|||Mimi-Pro|Hacker International|1989
+88240A|Sailor Fuku Bishoujo Zukan Vol. 4|Sailor Fuku Bishoujo Zukan Vol. 4|Sailor Fuku Bishoujo Zukan Vol. 1|,Arcade|1||Mimi-Pro|Hacker International|1989
+88241A|Sailor Fuku Bishoujo Zukan Vol. 5|Sailor Fuku Bishoujo Zukan Vol. 5|Sailor Fuku Bishoujo Zukan Vol. 1|,Arcade|1||Mimi-Pro|Hacker International|1989
+88242A|Sailor Fuku Bishoujo Zukan Vol. 6|Sailor Fuku Bishoujo Zukan Vol. 6|Sailor Fuku Bishoujo Zukan Vol. 1|,Arcade|1||Mimi-Pro|Hacker International|1989
+88243A|Samurai Sword|Samurai Sword||Adventure,|1||Capcom|Capcom|1988
+88244A|Santa Claus No Takarabako|Santa Claus no Takarabako||Puzzle-Game,|1||Musical Plan|Data East|1987
+97407A|Sd Gundam World - Gachapon Senshi - Scramble Wars|SD Gundam World - Gachapon Senshi - Scramble Wars||Action,Strategy,|2||Bandai|Bandai|1988
+99385A|Sd Gundam World - Gachapon Senshi - Scramble Wars - Map Collection|Sd Gundam World - Gachapon Senshi - Scramble Wars - Map Collection||Action,Strategy,|2||Bandai|Bandai|1989
+98680A|Section-z|Section-Z||Shooter,Shoot'em Up,|1||Capcom|Capcom|1987
+88245A|Seiken Psychocalibur - Majuu No Mori Densetsu|Seiken Psychocalibur - Majuu no Mori Densetsu||Adventure,|1||C-Lab|Wave Jack|1987
+88246A|Sexy Invaders|Sexy Invaders||Shooter,Shoot'em Up,Adult,|1||Super Pig|Hacker International|1990
+88247A|Sexy Yakyuuken Adventure 2 - Gal's Dungeon Part 2|Sexy Yakyuuken Adventure II - Gal's Dungeon Part I||Role playing games,Adventure,Adult,|1||Super Pig|Hacker International|1989
+99386A|Shanghai|Shanghai|||1|||hack|1987
+99387A|Shanghai 2|Shanghai 2||||||hack|
+99389A|Silviana - Ai Ippai No Little Angel|Silviana - Ai Ippai No Little Angel||Adventure,Role playing games,|1||Pack-In-Video Co., Ltd|Pack-In-Video Co., Ltd|1988
+88249A|Smash Ping Pong|Smash Ping Pong|Smash Ping-Pong|Sports,|2||Konami|Nintendo|1987
+88250A|Soccer|Soccer||Sports,Sports / Soccer,|2||Intelligent Systems|Nintendo|1985
+98681A|Solomon No Kagi|Solomon no Kagi||Action,Puzzle-Game,|1||Tecmo|Tecmo|1987
+88252A|Super Boy Allan|Super Boy Allan||Action,Educational,Puzzle-Game,|1||Sunsoft|Sunsoft|1987
+88253A|Super Lode Runner|Super Lode Runner||Puzzle-Game,|2||Irem|Irem|1987
+88254A|Super Lode Runner 2|Super Lode Runner II||Puzzle-Game,|2||Irem|Irem|1987
+88255A|Super Mario Brothers|Super Mario Brothers||Platform,|2||Nintendo|Nintendo|1985
+88256A|Super Mario Brothers 2|Super Mario Brothers 2||Platform,|1||Nintendo|Nintendo|1986
+98683A|Tama And Friends - 3 Choume Daibouken|Tama And Friends - 3 Choume Daibouken||Platform,|1||Advance Communication Company|Bandai|1989
+88257A|Tanigawa Kouji No Shougi Shinan 2 - Meijin Heno Michi|Tanigawa Kouji no Shougi Shinan II - Meijin heno M||Strategy,Asiatic board game,Shougi,|2||Pony Canyon, Inc.|Pony Canyon, Inc.|1987
+98684A|Tantei Jinguuji Saburou - Kiken Na Futari - Kouhen|Tantei Jinguuji Saburou - Kiken Na Futari - Kouhen||Adventure,|1||SAS Sakata|Data East|1989
+98685A|Tantei Jinguuji Saburou - Kiken Na Futari - Zenpen|Tantei Jinguuji Saburou - Kiken Na Futari - Zenpen||Adventure,|1||SAS Sakata|Data East|1988
+98686A|Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken|Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken||Adventure,|1||SAS Sakata|Data East|1987
+98687A|Tarot Uranai|Tarot Uranai||Various,|1||Scorpion Soft|Scorpion Soft|1988
+88258A|Tennis|Tennis||Sports,Sports / Tennis,|2||Intelligent Systems Co., Ltd.|Nintendo|1983
+88259A|Tenshi Tachi No Houkago|Tenshi Tachi no Houkago||Adventure,Adult,|1||Mimi-Pro|Hacker International|1989
+88189A|Golf - Bishoujo Classic, The|The Golf: Bishoujo Classic||Adult,Sports,Sports / Golf,|1||Hacker International|Hacker International|
+88196A|Kalin No Tsurugi|The Sword of Kalin||Role playing games,|1||Xtalsoft|Disk Original Group (DOG)|1987
+98688A|Time Twist - Rekishi No Katasumi De... - Kouhen|Time Twist - Rekishi No Katasumi De... - Kouhen||Adventure,|1||Pax Softnica|Nintendo|1991
+98689A|Time Twist - Rekishi No Katasumi De... - Zenpen|Time Twist - Rekishi No Katasumi De... - Zenpen||Adventure,|1||Pax Softnica|Nintendo|1991
+98690A|Titanic Mystery - Ao No Senritsu|Titanic Mystery - Ao No Senritsu||Adventure,|1||Gakken Co., Ltd.|Gakken Co., Ltd.|1987
+98691A|Tobidase Daisakusen|Tobidase Daisakusen||Action,Platform|1||Square Soft|Disk Original Group (DOG)|1987
+98692A|Topple Zip|Topple Zip||Shooter,Shoot'em Up,|1||Bothtec|Bothtec|1987
+98693A|Transformers - The Headmasters|Transformers - The Headmasters|Transformer - The Head Masters|Shooter,|1||Takara|Takara|1987
+88263A|Twinbee|TwinBee||Shooter,Shoot'em Up,|2||Konami|Konami|1988
+98694A|Ultraman - Kaijuu Teikoku No Gyakushuu|Ultraman - Kaijuu Teikoku no Gyakushuu||Action|1||Bandai|Bandai|1986
+88264A|Ultraman 2 - Shutsugeki Katoku Tai|Ultraman 2 - Shutsugeki Katoku Tai||Action|1||Bandai|Bandai|1987
+88265A|Ultraman Club - Chikyuu Dakkan Sakusen|Ultraman Club - Chikyuu Dakkan Sakusen||Role playing games,|1||Bandai|Bandai|1988
+98695A|Volleyball|Volleyball||Sports / Volleyball,Sports,|2||Pax Softnica|Nintendo|1986
+88266A|Vs. Excitebike|Vs. Excitebike||Race, Driving / Motorcycle,Race, Driving,|2||Nintendo|Nintendo|1988
+88267A|Wakusei Aton Gaiden|Wakusei Aton Gaiden||Shooter,Shoot'em Up,Educational,|2||Kokuzeichou|Kokuzeichou|1990
+98696A|Wardner No Mori|Wardner no Mori||Platform,|1||Toaplan Co., Ltd.|Taito|1988
+98697A|Winter Games|Winter Games||Sports,|2||Epyx, Inc.|Pony Canyon, Inc.|1987
+98698A|Wrecking Crew|Wrecking Crew||Action,Puzzle-Game,|2||Nintendo|Nintendo|1988
+98699A|Xevious|Xevious||Shooter,Shoot'em Up,|2||Namco|Namco|1990
+88270A|Yuu Maze|Yuu Maze||Action,Arcade|2||Daiei Seisakusho|Taito|1988
+98701A|Zanac|Zanac|Dandy|Shooter,Shoot'em Up,|1||Compile|Pony Canyon, Inc.|1986
+88272A|Zatsugaku Olympic Quiz - Watanabe Wataru Hen|Zatsugaku Olympic Quiz - Watanabe Wataru Hen||Quiz,Adult,|1||Phoenix|Phoenix|1988
+88271A|Zatsugaku Olympic Quiz Part 2|Zatsugaku Olympic Quiz Part II||Quiz,Adult,|1||Phoenix|Phoenix|1988
+88273A|Zelda No Densetsu - The Hyrule Fantasy|Zelda no Densetsu - The Hyrule Fantasy||Adventure,|1||Nintendo|Nintendo|1986

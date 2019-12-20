@@ -1,0 +1,36 @@
+39873A|1941 - Counter Attack|1941: Counter Attack||Shoot'em up / Vertical,Shoot'em Up,|2||Capcom|Capcom|1990
+40781A|Adventure Quiz Capcom World 2|Adventure Quiz Capcom World 2||Quiz,Quiz / Japanese,|2||Capcom|Capcom|1992
+37360A|Cadillacs And Dinosaurs|Cadillacs and Dinosaurs||Beat'em Up,|3||Capcom|Capcom|1993
+37358A|Captain Commando|Captain Commando||Beat'em Up,|4||Capcom|Capcom|1991
+37359A|Carrier Air Wing|Carrier Air Wing||Shoot'em up / Horizontal,Shoot'em Up,|2||Capcom|Capcom|1990
+41078A|Dynasty Wars|Dynasty Wars||Beat'em Up,|2||Capcom|Capcom|1989
+37362A|Final Fight|Final Fight||Beat'em Up,|2||Capcom|Capcom|1989
+37363A|Forgotten Worlds|Forgotten Worlds||Shoot'em Up,Shoot'em up / Horizontal,|2||Capcom|Capcom|1988
+122981|Frog Feast|Frog Feast||Platform,|2||Rastersoft|Rastersoft|2006
+41385A|Ganbare! Marine Kun|Ganbare! Marine Kun||Shooter,Shooter / 3rd person,|1||Capcom|Capcom|2000
+41441A|Ghouls'n Ghosts|Ghouls'n Ghosts||Platform,Plateform / Fighter Scrolling,|2||Capcom|Capcom|1988
+37366A|King Of Dragons, The|The King Of Dragons||Beat'em Up,Fight / 2.5D,Fight,|3||Capcom|Capcom|1991
+42020A|Knights Of The Round|Knights of the Round||Beat'em Up,|3||Capcom|Capcom|1991
+57920A|Magic Sword - Heroic Fantasy|Magic Sword: Heroic Fantasy||Plateform / Fighter Scrolling,Platform,|2||Capcom|Capcom|1990
+78892A|Mega Man - The Power Battle|Mega Man: The Power Battle||Fight / Co-op,Fight,|2||Capcom|Capcom|1995
+37371A|Mega Twins|Mega Twins||Plateform / Fighter Scrolling,Platform,|2||Capcom|Capcom|1990
+78903A|Mercs|Mercs||Shoot'em Up,|3|Coop|Capcom|Capcom|1990
+37367A|Muscle Bomber Duo - Ultimate Team Battle|Muscle Bomber Duo : Ultimate Team Battle||Sports / Wrestling,Sports,|4||Capcom|Capcom|1993
+37372A|Nemo|Nemo||Platform,Plateform / Fighter Scrolling,|2||Capcom|Capcom|1990
+37373A|Pang! 3|Pang! 3||Puzzle-Game,|2||Mitchell|Capcom|1995
+37374A|Pnickies|Pnickies||Puzzle-Game,Puzzle-Game / Fall,|2||Capcom|Capcom|1994
+120706|Pokonyan! Balloon|Pokonyan! Balloon||Shoot'em Up,|1||Capcom|Capcom|1994
+37375A|Punisher, The|The Punisher||Beat'em Up,|2||Capcom|Capcom|1993
+42583A|Quiz And Dragons - Capcom Quiz Game|Quiz & Dragons: Capcom Quiz Game||Quiz,Quiz / English,|2||Capcom|Capcom|1992
+42606A|Quiz Tonosama No Yabou 2 - Zenkoku-ban|Quiz Tonosama no Yabou 2: Zenkoku-ban||Quiz,Quiz / Japanese,|2||Capcom|Capcom|1995
+37379A|Saturday Night Slam Masters|Saturday Night Slam Masters||Sports,Sports / Wrestling,|4||Capcom|Capcom|1993
+37378A|Street Fighter 2 - Hyper Fighting|Street Fighter II : Hyper Fighting||Fight,Fight / Versus,|2||Capcom|Capcom|1992
+42982A|Street Fighter 2 - The World Warrior|Street Fighter II: The World Warrior||Fight,Fight / Versus,|2||Capcom|Capcom|1991
+37377A|Street Fighter 2' - Champion Edition|Street Fighter II' : Champion Edition||Fight,Fight / Versus,|2||Capcom|Capcom|1992
+64254A|Street Fighter Zero|Street Fighter Alpha: Warriors' Dreams||Fight,Fight / 2D,|2||Capcom|Capcom|1995
+37380A|Strider|Strider||Platform,Plateform / Fighter Scrolling,|1||Capcom|Capcom|1989
+44111A|Warriors Of Fate|Tenchi wo Kurau II: Sekiheki no Tatakai||Beat'em Up,|3||Capcom|Capcom|1992
+37357A|Three Wonders|Three Wonders||Platform,Compilation,|2||Capcom|Capcom|1991
+43837A|U.n. Squadron|U.N. Squadron||Shoot'em Up,Shoot'em up / Horizontal,|2||Capcom|Capcom|1989
+37382A|Varth - Operation Thunderstorm|Varth: Operation Thunderstorm||Shoot'em up / Vertical,Shoot'em Up,|2||Capcom|Capcom|1992
+37383A|Willow|Willow||Platform,Plateform / Shooter Scrolling,|2||Capcom|Lucasfilm|1989

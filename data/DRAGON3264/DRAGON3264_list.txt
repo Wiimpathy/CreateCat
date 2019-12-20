@@ -1,0 +1,539 @@
+56873A|3d Lunattack|3D Lunattack||Action,|||ST Software|Hewson Consultants|1984
+56874A|4d Romik Cube|4D Romik Cube|||||||
+56875A|6809 Editor Assembler|6809 Editor Assembler|||||||
+56876A|6809 Express|6809 Express|||||||
+56877A|747 Flight Simulator|747 Flight Simulator||Simulation,||||DACC Limited|1982
+56878A|8 Ball Pool|8 Ball Pool|||||||
+65321A|Abenteuerland|Abenteuerland|||||||
+102141|Adressdatei 2|Adressdatei 2|||||||
+102143|Adressen Verwaltung|Adressen Verwaltung|||||||
+56879A|Adventure 2 - Jerusalem|Adventure 2 - Jerusalem|||||||
+56880A|Adventure 2000|Adventure 2000|||||||
+56881A|Adventure 3 - Williamsburg|Adventure 3 - Williamsburg|||||||
+56882A|Adventure 4 - Ultimate|Adventure 4 - Ultimate|||||||
+56883A|Adventure Writer - Extended|Adventure Writer - Extended|||||||
+56884A|Adventure Writer - Original|Adventure Writer - Original|||||||
+56885A|Adventureland|Adventureland||Adventure,|||Adventure International|Adventure International (UK)|1985
+102144|Africa|Africa|||||||
+56886A|Air Assault|Air Assault|||||||
+56887A|Airball|Airball|||||||
+56888A|Alcatraz|Alcatraz|||||||
+56889A|Alien|Alien|||||||
+56890A|Amazing|Amazing|||||||
+56891A|Anagram Solver|Anagram Solver|||||||
+56892A|And All Because|And All Because|||||||
+56893A|Android Attack V1.0|Android Attack v1.0|||||||
+102145|Andromeda|Andromeda|||||||
+56894A|Anti Gravity|Anti Gravity|||||||
+56895A|Aquanaut 471|Aquanaut 471|||||||
+56896A|Arcadia|Arcadia|||||||
+56897A|Astro Blast|Astro Blast|||||||
+102142|Astronaut|Astronaut|||||||
+56898A|Athletyx|Athletyx|||||||
+56899A|Atom Hunt|Atom Hunt|||||||
+56900A|Attack|Attack|3D Lunattack||||||
+56901A|B.c.bill|B.C.Bill|||||||
+56902A|Backgammon|Backgammon||Strategy,||||Oasis Software|1983
+56903A|Backtrack|Backtrack|||||||
+56904A|Balldozer|Balldozer||Action,||||Kouga Software|1988
+56905A|Bandit|Bandit|||||||
+56906A|Bandito|Bandito||Simulation,||||Pocket Money Software|1984
+56907A|Barmy Burgers|Barmy Burgers|||||||
+56908A|Beamrider|Beamrider|||||||
+56909A|Beanstalker|Beanstalker|||||||
+56911A|Big Characters|Big Characters|||||||
+56912A|Black Jack|Black Jack|||||||
+56913A|Black Sanctum|Black Sanctum|||||||
+56914A|Blochead|Blochead||Action,||||Dragon Data Ltd.|1983
+56915A|Blockbuster Quiz|Blockbuster Quiz|||||||
+56916A|Blockbuster Quiz 2|Blockbuster Quiz 2|||||||
+56918A|Bonka|Bonka||Action,|1||J. Morrison (Micros) Ltd.|J. Morrison (Micros) Ltd.|1983
+56919A|Bopswizzle|Bopswizzle|||||||
+56920A|Boris The Bold|Boris the Bold||Action,||||Blaby Computer Games|1984
+56921A|Boulder Crash 2 Plus|Boulder Crash 2 Plus|||||||
+56922A|Brain Ache|Brain Ache|||||||
+56923A|Bridge Master|Bridge Master|||||||
+56924A|Brock's Kingdom|Brock's Kingdom|||||||
+56925A|Bubble Buster|Bubble Buster|||||||
+56926A|Bug Diver|Bug Diver|||||||
+56927A|Bumpers|Bumpers|||||||
+56928A|Bust Out!|Bust Out!|||||||
+56929A|Buzz|Buzz|||||||
+56930A|Buzzard Bait|Buzzard Bait|||||||
+56931A|Buzzing Bertie|Buzzing Bertie|||||||
+56932A|Canyon Climber|Canyon Climber|||||||
+56933A|Capture The Flag!|Capture the Flag!|||||||
+56934A|Car Simulator|Car Simulator|||||||
+56935A|Cashman|Cashman|||||||
+56936A|Cassette 50 - Part 1|Cassette 50 - Part 1|||||||
+56937A|Cassette 50 - Part 2|Cassette 50 - Part 2|||||||
+56938A|Cassette Insert Card Designer|Cassette Insert Card Designer|||||||
+56939A|Catalyst|Catalyst|||||||
+56940A|Catch Phrase|Catch Phrase|||||||
+56941A|Cave Fighter|Cave Fighter|||||||
+56942A|Caverns Of Doom|Caverns of Doom|||||||
+56943A|Cells And Serpents|Cells & Serpents|||||||
+56944A|Centipede|Centipede|||||||
+56945A|Chambers|Chambers|||||||
+56946A|Champions!|Champions!|||||||
+56947A|Championship Darts|Championship Darts|||||||
+56948A|Chateau Of Gold|Chateau of Gold|||||||
+56949A|Chess V2.1|Chess v2.1|||||||
+56951A|Christmas Eve|Christmas Eve|||||||
+56952A|Chuckie Egg|Chuckie Egg||Platform,|4||Mike Webb|A&F Software|
+56953A|Chuckie Egg Plus|Chuckie Egg Plus|||||||
+56954A|Circus Adventure|Circus Adventure|||||||
+56955A|City Defence|City Defence||Action,|||Shards Software|Shards Software|1983
+56956A|Clowns - Catching|Clowns - Catching|||||||
+56957A|Clowns - Juggling|Clowns - Juggling|||||||
+56958A|Color Golf|Color Golf|||||||
+56959A|Color Invaders|Color Invaders|||||||
+56960A|Color Planet Invasion V1.0|Color Planet Invasion v1.0|||||||
+56961A|Color Space War V1.6|Color Space War v1.6|||||||
+56962A|Colossal Cave|Colossal Cave|||||||
+56963A|Combat Air Patrol|Combat Air Patrol|||||||
+56964A|Computavoice|Computavoice|||||||
+56965A|Computer Studies - Part 1|Computer Studies - Part 1|||||||
+56966A|Computer Studies - Part 2|Computer Studies - Part 2|||||||
+56967A|Computer Studies - Part 3|Computer Studies - Part 3|||||||
+56968A|Computer Studies - Part 4|Computer Studies - Part 4|||||||
+56969A|Convoy|Convoy|||||||
+56970A|Copier|Copier|||||||
+56971A|Copta Snatch|Copta Snatch||Action,||||Blaby Computer Games|1984
+56972A|Cosmic Clones|Cosmic Clones|||||||
+56973A|Cosmic Crusader|Cosmic Crusader|||||||
+56974A|Cosmic Zap|Cosmic Zap|||||||
+56975A|Cranky|Cranky||Educational,|||Applied Systems Knowledge Ltd.|Dragon Data Ltd.|1984
+56976A|Crazy Foota|Crazy Foota||Sports,||||Computape|1987
+56977A|Crazy Foota 2|Crazy Foota 2|||||||
+56978A|Crazy Painter|Crazy Painter|||||||
+56979A|Cribbage|Cribbage|||||||
+56981A|Cruising|Cruising|||||||
+56982A|Crusader - An Arcade Adventure|Crusader - An Arcade Adventure|||||||
+56983A|Cuber|Cuber|||||||
+56984A|Cuthbert And The Golden Chalice|Cuthbert and the Golden Chalice|||||||
+56985A|Cuthbert Goes Digging|Cuthbert Goes Digging||Action,||||MicroDeal|1983
+56986A|Cuthbert Goes Walkabout|Cuthbert Goes Walkabout||Action,|||MicroDeal|MicroDeal|1983
+56987A|Cuthbert In Space|Cuthbert in Space||Action,|||MicroDeal|MicroDeal|1984
+56988A|Cuthbert In The Cooler|Cuthbert in the Cooler||Action,||||MicroDeal|1985
+56989A|Cuthbert In The Jungle|Cuthbert in the Jungle|||||||
+56990A|Cuthbert In The Mine|Cuthbert in the Mine|||||||
+56991A|Cyclops|Cyclops|||||||
+56992A|Cyrus|Cyrus||Simulation,|||Intelligent Software Ltd|Dragon Data Ltd.|1982
+56993A|Dancing Devil|Dancing Devil|||||||
+56994A|Danger Island|Danger Island|||||||
+56995A|Danger Ranger|Danger Ranger||Action,||||MicroDeal|1983
+56997A|Database|Database|||||||
+56998A|Database And Beat The Dragon|Database & Beat the Dragon|||||||
+56999A|Datafall|Datafall|||||||
+57000A|Datapen|Datapen|||||||
+57001A|Dataplan|Dataplan|||||||
+57002A|Death Cruise - 1 Player Version|Death Cruise - 1 Player Version|||||||
+57003A|Death Cruise - 4 Player Version|Death Cruise - 4 Player Version|||||||
+57004A|Death Valley|Death Valley|||||||
+57005A|Defense|Defense|||||||
+57006A|Delta Utility - Disk 2 Tape|Delta Utility - Disk 2 Tape|||||||
+57007A|Delta Utility - File Address|Delta Utility - File Address|||||||
+57008A|Demolition Derby|Demolition Derby|||||||
+57009A|Demon Knight|Demon Knight|||||||
+57010A|Desperado Dan|Desperado Dan|||||||
+57011A|Detective|Detective|||||||
+57012A|Devil Assault|Devil Assault||Action,||||MicroDeal|1983
+57013A|Diffuse|Diffuse|||||||
+57014A|Dino Wars|Dino Wars|||||||
+57015A|Dominoes|Dominoes|||||||
+57016A|Donkey King|Donkey King|||||||
+57017A|Doodle Bug|Doodle Bug||Action,||||Dragon Data Ltd.|1983
+57018A|Downland|Downland|||||||
+57019A|Draconian|Draconian|||||||
+57020A|Dragbug|Dragbug|||||||
+57021A|Dragon Chess|Dragon Chess|||||||
+57022A|Dragon Composer|Dragon Composer|||||||
+57023A|Dragon Darts|Dragon Darts|||||||
+57024A|Dragon Fly|Dragon Fly|||||||
+57025A|Dragon Fly 2|Dragon Fly 2|||||||
+57026A|Dragon Fodder|Dragon Fodder|||||||
+57027A|Dragon Golf|Dragon Golf|||||||
+57028A|Dragon Hawk|Dragon Hawk|||||||
+57029A|Dragon Invaders|Dragon Invaders|||||||
+57030A|Dragon Mountain|Dragon Mountain|||||||
+57031A|Dragon Selection No 1|Dragon Selection No 1|||||||
+57032A|Dragon Selfrun|Dragon Selfrun|||||||
+57033A|Dragon Slayer|Dragon Slayer|||||||
+57034A|Dragon Trek|Dragon Trek||Simulation,||||Salamander Software|1982
+57035A|Dragon Utilities No 1|Dragon Utilities No 1|||||||
+57036A|Dragrunner|Dragrunner|||||||
+57037A|Drawezee|Drawezee|||||||
+57038A|Dream Machine - Original|Dream Machine - Original|||||||
+57039A|Dream Machine - Special|Dream Machine - Special|||||||
+57040A|Drone Datatank|Drone Datatank|||||||
+57041A|Dungeon Adventure|Dungeon Adventure|||||||
+57042A|Dungeon Destiny|Dungeon Destiny|||||||
+57043A|Dungeons Of Death|Dungeons of Death|||||||
+57044A|Dunkey Munkey|Dunkey Munkey||Action,|||Intellectronics|Intellectronics|1982
+57045A|Earth Rescue|Earth Rescue|||||||
+57046A|Eddie Steady Go!|Eddie Steady Go!||Action,||||Incentive Software Ltd.|1985
+57047A|Editor Assembler Monitor Disassembler|Editor Assembler Monitor Disassembler|||||||
+57048A|El Diablero|El Diablero|||||||
+57049A|Electron|Electron|||||||
+57050A|Electronic Author|Electronic Author|||||||
+57051A|Empire|Empire|||||||
+57052A|Enhanced Character Interpreter|Enhanced Character Interpreter|||||||
+57053A|Escape V1.0|Escape v1.0|||||||
+57054A|Everest|Everest|||||||
+57055A|Execution|Execution|||||||
+57056A|Face Maker|Face Maker|||||||
+57057A|Family Accounts|Family Accounts|||||||
+57058A|Family Address|Family Address|||||||
+57059A|Family Banker|Family Banker|||||||
+57060A|Family Budget|Family Budget|||||||
+57061A|Fearless Freddy|Fearless Freddy|||||||
+57062A|File Master|File Master|||||||
+57064A|Fingers|Fingers|||||||
+57065A|Fire Force|Fire Force|||||||
+57066A|Fireball|Fireball|||||||
+103522|Firebird|Firebird|||||||
+57067A|Fishy Business|Fishy Business|||||||
+57068A|Flag!|Flag!|||||||
+57069A|Flipper|Flipper|||||||
+57070A|Folly Farm's Chicken Run|Folly Farm's Chicken Run|||||||
+57071A|Football Manager|Football Manager||Sports,|||Addictive Games Ltd|Addictive Games Ltd|1984
+57072A|Formula 1|Formula 1|||||||
+57073A|Frankie|Frankie|||||||
+57074A|Franklin In Wonderland|Franklin in Wonderland|||||||
+57075A|Franklin's Tomb|Franklin's Tomb|||||||
+57076A|Free Parking - Monopoly|Free Parking - Monopoly|||||||
+57077A|Frogger|Frogger|||||||
+57079A|Fury|Fury|||||||
+57080A|Galactic Ambush|Galactic Ambush|||||||
+57081A|Galactic Gus|Galactic Gus|||||||
+57082A|Galacticans|Galacticans|||||||
+57083A|Galagon|Galagon|||||||
+57084A|Galax Attax|Galax Attax||Action,||||Dragon Data Ltd.|1983
+57085A|Galaxy Hitch Hike|Galaxy Hitch Hike|||||||
+57086A|Galleons|Galleons|||||||
+57087A|Ghost Attack|Ghost Attack||Action,|||Computerware|Dragon Data Ltd.|1982
+57088A|Giant's Castle|Giant's Castle|||||||
+57089A|Girlfriend Adventure 2|Girlfriend Adventure 2|||||||
+57090A|Gis-a-job|Gis-A-Job|||||||
+57091A|Glaxxons|Glaxxons||Action,|||Mark Data Products|MicroDeal|1983
+57092A|Gnome Adventure|Gnome Adventure|||||||
+57093A|Go Fish!|Go Fish!|||||||
+57094A|Golden Oldies 2 - Various Utilities|Golden Oldies 2 - Various Utilities|||||||
+57095A|Golden Voyage|Golden Voyage|||||||
+57096A|Golf|Golf|||||||
+57097A|Gordon Bennet|Gordon Bennet|||||||
+57098A|Grabber|Grabber|||||||
+57099A|Grand Prix|Grand Prix|||||||
+57100A|Graphic Animator|Graphic Animator|||||||
+57101A|Graphics System|Graphics System|||||||
+57102A|Grid Runner|Grid Runner|||||||
+57103A|Hacker Utilities|Hacker Utilities|||||||
+57104A|Handicap Golf|Handicap Golf||Sports,||||Computer Rentals Limited|1983
+57105A|Happy Birthday Dragon|Happy Birthday Dragon|||||||
+57106A|Hareraiser - Finale|Hareraiser - Finale|||||||
+57107A|Hareraiser - Prelude|Hareraiser - Prelude|||||||
+57108A|Haunted House Adventure|Haunted House Adventure|||||||
+57109A|Heimlich And Co|Heimlich & Co|||||||
+57110A|Hide And Seek|Hide & Seek|||||||
+57111A|Hilo|Hilo|||||||
+57112A|Hole!|Hole!|||||||
+57113A|Home Base|Home Base|||||||
+57114A|Horace Goes Skiing|Horace Goes Skiing||Sports,|||Psion Software Ltd.|Beam Software Pty., Ltd.|1984
+57115A|Hornets|Hornets|||||||
+57116A|Horse Race|Horse Race|||||||
+57117A|Hotel On Mayfair - Game|Hotel on Mayfair - Game|||||||
+57118A|Hotel On Mayfair - Instructions|Hotel on Mayfair - Instructions|||||||
+57119A|Hunchback|Hunchback|||||||
+57120A|Hungry Horace|Hungry Horace||Action,|||Psion Software Ltd.|Melbourne House|1983
+57121A|I Ching|I Ching|||||||
+57122A|Ice Castles|Ice Castles|||||||
+57123A|Ice Master|Ice Master||Action,|||Arcade Animation, Inc.|Arcade Animation, Inc.|1983
+57125A|Indoor Football|Indoor Football|||||||
+57126A|Inlay Card Printer V3.0|Inlay Card Printer v3.0|||||||
+57127A|Intergalactic Force|Intergalactic Force|||||||
+57128A|Interplanetary Trader|Interplanetary Trader|||||||
+57129A|Interplanetary Trader V2.6|Interplanetary Trader v2.6|||||||
+57130A|Invader Cube - 3d Oxo|Invader Cube - 3D OXO|||||||
+57131A|Invader's Revenge|Invader's Revenge|||||||
+57132A|Invoices And Statements - Editor|Invoices and Statements - Editor|||||||
+57133A|Invoices And Statements - Viewer|Invoices and Statements - Viewer|||||||
+57134A|Islands|Islands|||||||
+57135A|Jet Boot Colin|Jet Boot Colin|||||||
+57136A|Jet Set Willy|Jet Set Willy|||||||
+57137A|Jet Set Willy Utility|Jet Set Willy Utility|||||||
+57138A|Jigsaw|Jigsaw|||||||
+57139A|Journey To The Centre Of Phobos|Journey to the Centre of Phobos|||||||
+57140A|Jukebox Demo|Jukebox Demo|||||||
+57141A|Jump Jet|Jump Jet||Action,||||Dragon Data Ltd.|1983
+57142A|Junior's Revenge|Junior's Revenge|||||||
+57143A|Juxtaposition|Juxtaposition|||||||
+57144A|Kamacarzy|Kamacarzy|||||||
+57145A|Katerpillar Attack|Katerpillar Attack|||||||
+57146A|Ket Trilogy, The - Final Mission|Ket Trilogy, The - Final Mission|||||||
+57147A|Ket Trilogy, The - Mountains Of Ket|Ket Trilogy, The - Mountains of Ket|||||||
+57148A|Ket Trilogy, The - Temple Of Vran|Ket Trilogy, The - Temple of Vran|||||||
+57150A|Keys Of The Wizard V1.2|Keys of the Wizard v1.2|||||||
+57151A|King Cuthbert|King Cuthbert|||||||
+57152A|King Tut|King Tut|||||||
+57153A|Komet Kaze|Komet Kaze|||||||
+57154A|Kriegspiel|Kriegspiel||Strategy,||||Beyond|1983
+57155A|Lancelot Adventure|Lancelot Adventure|||||||
+57156A|Larkspur Waldorf - Is Trapped|Larkspur Waldorf - Is Trapped|||||||
+57157A|Larkspur Waldorf - Journey Home|Larkspur Waldorf - Journey Home|||||||
+57158A|Laser Attack|Laser Attack|||||||
+57159A|Laser Run|Laser Run||Action,|||Blaby Computer Games|Blaby Computer Games|1983
+57160A|Laser Zone|Laser Zone||Action,|||Salamander Software|Salamander Software|1983
+57162A|Leggit!|Leggit!|||||||
+57163A|Lion Heart|Lion Heart|||||||
+57164A|Load It V1.0|Load It v1.0|||||||
+57165A|Lord Of The Dragons|Lord of the Dragons|||||||
+57166A|Lost In Space V1.1|Lost in Space v1.1|||||||
+57167A|Lucifer's Kingdom|Lucifer's Kingdom||Action,|||Pulser Software|Orange Software|1986
+57168A|Lunar Rover Patrol|Lunar Rover Patrol||Racing,||||Dragon Data Ltd.|1983
+57169A|Macdougal's Last Stand|MacDougal's Last Stand|||||||
+57170A|Madness And Minotaur|Madness & Minotaur|||||||
+57171A|Mandragore|Mandragore|||||||
+57172A|Manic Miner|Manic Miner|||||||
+57173A|Manic Miner Utility|Manic Miner Utility|||||||
+57174A|Mansion Of Doom|Mansion of Doom|||||||
+57175A|Martian Crypt V1.0|Martian Crypt v1.0|||||||
+57177A|Maurice Minor - Driver|Maurice Minor - Driver|||||||
+57178A|Medicalc Spreadsheet|Medicalc Spreadsheet|||||||
+57179A|Megamaze|Megamaze|||||||
+57181A|Millipede|Millipede|||||||
+57182A|Mined Out|Mined Out|||||||
+57183A|Miser's Dream|Miser's Dream|||||||
+57184A|Mission Attack|Mission Attack|||||||
+57185A|Monster Maths|Monster Maths|||||||
+57187A|Monsters|Monsters||Action,||||Softek International Ltd.|1983
+57186A|Monsters And Magic|Monsters & Magic|||||||
+57188A|Moon Cresta|Moon Cresta|||||||
+57189A|Moon Hopper|Moon Hopper||Action,||||Dragon Data Ltd.|1983
+57190A|Morbid Mansion|Morbid Mansion|||||||
+57191A|Morocco Grand Prix|Morocco Grand Prix|||||||
+57192A|Movie Producer|Movie Producer|||||||
+57193A|Mr.dig|Mr.Dig|||||||
+57194A|Mudpies|Mudpies|||||||
+57195A|Music Machine|Music Machine|||||||
+57196A|Music Maestro|Music Maestro|||||||
+57197A|Music Maker|Music Maker|||||||
+57198A|Mysterious Adventures|Mysterious Adventures|||||||
+57199A|Mystery Of The Java Star Part 1|Mystery of the Java Star Part 1|||||||
+57200A|Mystery Of The Java Star Part 2|Mystery of the Java Star Part 2|||||||
+57201A|Mystery Of The Java Star Part 3|Mystery of the Java Star Part 3|||||||
+57202A|Mystery Of The Java Star Part 4|Mystery of the Java Star Part 4|||||||
+57203A|Nad The Necromancer|Nad the Necromancer|||||||
+57204A|Nerble Force|Nerble Force|||||||
+57205A|New Copy|New Copy|||||||
+57206A|Night Driver|Night Driver|||||||
+57207A|Night Flight|Night Flight|||||||
+57208A|North Sea Oil|North Sea Oil|||||||
+57209A|Noughts And Crosses|Noughts and Crosses|||||||
+57210A|Nuclear Attack|Nuclear Attack|||||||
+57211A|Number Chaser|Number Chaser|||||||
+57212A|Number Gulper|Number Gulper|||||||
+57213A|Number Puzzler|Number Puzzler||Educational,|||Applied Systems Knowledge Ltd.|Dragon Data Ltd.|1984
+57214A|Oil Recovery|Oil Recovery|||||||
+57215A|Onyton Adventure|Onyton Adventure|||||||
+57216A|Ossie|Ossie|||||||
+57217A|Othello|Othello|||||||
+57218A|Pac Droids|Pac Droids||Action,||||Programmer's Guild (UK)|1983
+57219A|Password - Escape The Hangman|Password - Escape the Hangman|||||||
+57220A|Pedro|Pedro||Action,|||Creative Technology Group Ltd.|Imagine Software|1984
+57221A|Pengammon|Pengammon|||||||
+57222A|Pengon|Pengon||Action,|||Megasoft|MicroDeal|1984
+57223A|Perilous Pit|Perilous Pit|||||||
+57224A|Perseus And Andromeda|Perseus & Andromeda|||||||
+57225A|Pettigrew's Diary|Pettigrew's Diary|||||||
+57227A|Photo Finish|Photo Finish|||||||
+57228A|Picture Maker|Picture Maker|||||||
+57229A|Picture Puzzler|Picture Puzzler|||||||
+57230A|Pimania|Pimania||Adventure,|||Automata U.K. Limited|Automata U.K. Limited|1982
+57231A|Pinball|Pinball||Simulation,||||Apex Trading Ltd.|1983
+57232A|Pit Fiend|Pit Fiend||Action,||||Pocket Money Software|1984
+57233A|Pixel Editor|Pixel Editor|||||||
+57234A|Pixel Writer|Pixel Writer|||||||
+57235A|Pixel Writer Demo|Pixel Writer Demo|||||||
+57236A|Poseidon Adventure|Poseidon Adventure|||||||
+57237A|Printer Prompt V2.6|Printer Prompt v2.6|||||||
+57238A|Programmer Utilities|Programmer Utilities|||||||
+57239A|Project Volcano - Mission 1|Project Volcano - Mission 1|||||||
+57240A|Pterodactyl|Pterodactyl||Action,|||J. Morrison (Micros) Ltd.|J. Morrison (Micros) Ltd.|1983
+57241A|Pub Crawl|Pub Crawl|||||||
+57242A|Pyradventure|Pyradventure|||||||
+57243A|Pyramid Of Doom|Pyramid of Doom|||||||
+57244A|Quest|Quest|||||||
+57246A|Racer Ball|Racer Ball|||||||
+57247A|Raiders|Raiders||Adventure,||||Blaby Computer Games|1982
+57248A|Rail Runner|Rail Runner|||||||
+57249A|Rainbow Writer V1.3|Rainbow Writer v1.3|||||||
+57250A|Red Alert|Red Alert|||||||
+57251A|Red Meanies|Red Meanies|||||||
+57252A|Rescue From Death's Head Hole|Rescue From Death's Head Hole|||||||
+57253A|Return Of The Jet-i|Return of the Jet-I|||||||
+57255A|Robin Hood|Robin Hood|||||||
+57256A|Robotron|Robotron|||||||
+57257A|Rola Ball|Rola Ball|||||||
+57258A|Roman Empire|Roman Empire||Strategy,|||M.C. Lothlorien Ltd|M.C. Lothlorien Ltd|1983
+57259A|Rommel 3d|Rommel 3D|||||||
+57260A|Rommel's Revenge|Rommel's Revenge|||||||
+57261A|Rotabb|Rotabb|||||||
+57262A|Row Of Four|Row of Four|||||||
+57263A|Ruby Robber|Ruby Robber|||||||
+57264A|Russian Roulette|Russian Roulette|||||||
+57265A|Save The Whale|Save the Whale|||||||
+57266A|Scarfman|Scarfman|||||||
+57267A|School Maze|School Maze||Adventure,||||Dragon Data Ltd.|1982
+57269A|Script|Script|||||||
+57270A|Sea Dragon|Sea Dragon|||||||
+57271A|Secret Mission|Secret Mission||Adventure,|||Adventure International|Adventure International|1983
+57272A|Seikosha Screen Dumper|Seikosha Screen Dumper|||||||
+57273A|Sewer Rat|Sewer Rat|||||||
+57274A|Shaft|Shaft|||||||
+57275A|Shanghai|Shanghai||Strategy,|||Paul Burgin Software|Paul Burgin Software|1991
+57276A|Shaolin Master|Shaolin Master|||||||
+57277A|Shaolin Master Plus|Shaolin Master Plus|||||||
+57278A|Shape Up|Shape Up|||||||
+57279A|Shark Treasure|Shark Treasure|||||||
+57280A|Shenanigans|Shenanigans||Adventure,||||Dragon Data Ltd.|1984
+57281A|Shock Trooper|Shock Trooper||Action,|||Mark Data Products|MicroDeal|1986
+57282A|Short Basic Program|Short Basic Program|||||||
+57283A|Show Jump|Show Jump|||||||
+57284A|Shuffle|Shuffle|||||||
+57285A|Shuttle Silo Satellite|Shuttle Silo Satellite|||||||
+57286A|Shuttle Simulator|Shuttle Simulator||Simulation,||||MicroDeal|1983
+57287A|Simon Says|Simon Says|||||||
+57288A|Skid Row|Skid Row|||||||
+57289A|Skramble|Skramble|||||||
+57290A|Slide|Slide|||||||
+57291A|Sliding Picture Puzzles|Sliding Picture Puzzles|||||||
+57292A|Smasher|Smasher|||||||
+57293A|Snail Pace|Snail Pace|||||||
+57294A|Snakes|Snakes||Action,|||J. Morrison (Micros) Ltd.|J. Morrison (Micros) Ltd.|1982
+57295A|Sniper|Sniper|||||||
+57296A|Solitaire|Solitaire|||||||
+57297A|Solo Poker|Solo Poker|||||||
+57298A|Space Fighter|Space Fighter|||||||
+57299A|Space Invaders|Space Invaders||Action,|||J. Morrison (Micros) Ltd.|J. Morrison (Micros) Ltd.|1982
+57300A|Space Monopoly|Space Monopoly|||||||
+57301A|Space Race V1.1|Space Race v1.1|||||||
+57302A|Space Raiders|Space Raiders|||||||
+57303A|Space Trek 1|Space Trek 1|||||||
+57304A|Space Trek 1 - Disk Version|Space Trek 1 - Disk Version|||||||
+57305A|Space Trek 2|Space Trek 2|||||||
+57306A|Space Trek 3|Space Trek 3|||||||
+57307A|Space Wrek|Space Wrek|||||||
+57308A|Special Air Sevice|Special Air Sevice|||||||
+57309A|Speed Racer|Speed Racer|||||||
+57310A|Sporting Decathlon|Sporting Decathlon|||||||
+57311A|Spreadsheet Program|Spreadsheet Program|||||||
+57312A|Sprite Magic V2.1|Sprite Magic v2.1|||||||
+57313A|Star Spores|Star Spores|||||||
+57314A|Star Trek|Star Trek|||||||
+57315A|Starfighter|Starfighter|||||||
+57316A|Starman Jones|Starman Jones|||||||
+57317A|Starship Chameleon|Starship Chameleon|||||||
+57318A|Stockmarket|Stockmarket|||||||
+57319A|Stone Raider 2|Stone Raider II|||||||
+57320A|Storm|Storm||Action,|||Computerware|MicroDeal|1983
+57321A|Storm Arrows|Storm Arrows|||||||
+57322A|Strategic Command|Strategic Command|||||||
+57323A|Supa Nova|Supa Nova||Action,|||Orange Software|Orange Software|1988
+57324A|Super Lander|Super Lander||Action,|||J. Morrison (Micros) Ltd.|J. Morrison (Micros) Ltd.|1982
+57325A|Super Skill Hangman|Super Skill Hangman|||||||
+57326A|Super Spy|Super Spy||Action,|||Richard Shepherd Software Ltd|Richard Shepherd Software Ltd|1983
+57327A|Super Spy - Part 1|Super Spy - Part 1|||||||
+57328A|Super Spy - Part 2|Super Spy - Part 2|||||||
+57329A|Super Spy - Part 3|Super Spy - Part 3|||||||
+57330A|Super Spy - Secret Mission|Super Spy - Secret Mission|||||||
+57331A|Superkid|Superkid|||||||
+57332A|Surprise|Surprise|||||||
+57333A|Synther 7|Synther 7|||||||
+57334A|Syzygy|Syzygy|||||||
+57335A|Tape 2 Disk Transfer|Tape 2 Disk Transfer|||||||
+57336A|Tape Copy|Tape Copy|||||||
+57337A|Taskship|Taskship|||||||
+57338A|Tele Forth - Programming Language|Tele Forth - Programming Language|||||||
+57339A|Tele Mod - Tele Forth Addon|Tele Mod - Tele Forth Addon|||||||
+57340A|Telewriter|Telewriter|||||||
+57341A|Temple Of Doom|Temple of Doom|||||||
+57342A|Textstar|Textstar|||||||
+56910A|Bells, The|The Bells||Action,||||Blaby Computer Games|1986
+56917A|Bomb, The|The Bomb|||||||
+56950A|Chocolate Factory, The|The Chocolate Factory|||||||
+56980A|Cricklewood Incident, The|The Cricklewood Incident|||||||
+56996A|Dark Pit, The|The Dark Pit|||||||
+57063A|Final Countdown, The|The Final Countdown|||||||
+57078A|Fruity Machine, The|The Fruity Machine|||||||
+57124A|Immortal Strain, The|The Immortal Strain|||||||
+57149A|Keys of Roth, The|The Keys of Roth|||||||
+57161A|Last Pirate, The|The Last Pirate|||||||
+57176A|Master, The|The Master|||||||
+57180A|Memory Builder, The|The Memory Builder|||||||
+57226A|Phantom Slayer, The|The Phantom Slayer|||||||
+57245A|Quest, The|The Quest|||||||
+57254A|Ring of Darkness, The|The Ring of Darkness|||||||
+57268A|Screaming Ab-Dabs, The|The Screaming Ab-Dabs|||||||
+57343A|Thirteenth Task, The|The Thirteenth Task|||||||
+57346A|Time Machine Search, The|The Time Machine Search|||||||
+57362A|Trial of Arnold Blackwood, The|The Trial of Arnold Blackwood|||||||
+57388A|White Barrows, The|The White Barrows|||||||
+57344A|Tim Love's Cricket|Tim Love's Cricket||Sports,||||Peaksoft|1984
+57345A|Time Bandit|Time Bandit||Action,|||MichTron Corp.|MicroDeal|1984
+57347A|Timscript|Timscript|||||||
+57348A|Toppler|Toppler|||||||
+57349A|Torpedo Run|Torpedo Run|||||||
+57350A|Tosec Owns Us All V1.0|Tosec Owns Us All v1.0|||||||
+57351A|Total Eclipse V1.1|Total Eclipse v1.1|||||||
+57352A|Touch Typing Tutor|Touch Typing Tutor|||||||
+57353A|Towers Of Death And Ice Kingdom|Towers of Death & Ice Kingdom|||||||
+57354A|Trace Race - 1 Player Version|Trace Race - 1 Player Version|||||||
+57355A|Trace Race - 2 Player Version|Trace Race - 2 Player Version|||||||
+57356A|Trace Racers|Trace Racers|||||||
+57357A|Trader|Trader|||||||
+57358A|Transylvanian Tower|Transylvanian Tower||Action,|||Richard Shepherd Software Ltd|Richard Shepherd Software Ltd|1983
+57359A|Trap Fall|Trap Fall|||||||
+57360A|Treasures Of Barsoom|Treasures of Barsoom|||||||
+57361A|Trekboer V1.1|Trekboer v1.1|||||||
+57363A|Triplet|Triplet|||||||
+57364A|Trivial Crosswords|Trivial Crosswords|||||||
+57365A|Trojan Light Pen|Trojan Light Pen|||||||
+57366A|Tron Light Cycles|Tron Light Cycles|||||||
+57367A|Tropical Lanes|Tropical Lanes|||||||
+57368A|Trun|Trun||Action,||||Blaby Computer Games|1986
+57369A|Tube Way Army|Tube Way Army||Action,|||Rainbow Software|Crystal Computing|1984
+57370A|Ugh!|Ugh!|||||||
+57371A|Ultrapede|Ultrapede|||||||
+57372A|Underbeings Of Croth|Underbeings of Croth|||||||
+57373A|Up Periscope|Up Periscope|||||||
+57374A|Uxb|UXB|||||||
+57375A|Variable List|Variable List|||||||
+57376A|Various For The Dragon 32|Various for the Dragon 32|||||||
+57377A|Voodoo Castle|Voodoo Castle|||||||
+57378A|Vortex Factor|Vortex Factor|||||||
+57379A|Vulcanox|Vulcanox|||||||
+57380A|Vultures|Vultures||Action,|||J. Morrison (Micros) Ltd.|J. Morrison (Micros) Ltd.|1983
+57381A|War!|War!|||||||
+57382A|Warlord|Warlord||Strategy,|||M.C. Lothlorien Ltd|M.C. Lothlorien Ltd|1982
+57383A|Waxworks|Waxworks||Adventure,||||Channel 8 Software|1984
+57384A|Weetabix Vs The Titchies|Weetabix vs the Titchies|||||||
+57385A|Weirds Of Kesh - Skulls And Bones|Weirds of Kesh - Skulls & Bones|||||||
+57386A|Wheel Of Fortune|Wheel of Fortune|||||||
+57387A|Whirlybird Run|Whirlybird Run|||||||
+57389A|Willy's Revenge|Willy's Revenge|||||||
+57390A|Wipeout|Wipeout|||||||
+57391A|Wizard War|Wizard War|||||||
+57392A|Wizard's Lair|Wizard's Lair|||||||
+57393A|Wizard's Quest|Wizard's Quest|||||||
+57394A|Word Wise|Word Wise|||||||
+57395A|World Boxing|World Boxing|||||||
+57396A|World Cup Manager|World Cup Manager|||||||
+57397A|Worlds Of Flight|Worlds of Flight||Simulation,||||MicroDeal|1984
+57398A|Wumpus Mansion|Wumpus Mansion|||||||
+57399A|Yumping Yosser|Yumping Yosser|||||||
+57400A|Zak's Son|Zak's Son||Action,|||Cable Software, Ltd.|Knight Soft, Ltd.|1984
+57401A|Zaxxon|Zaxxon|||||||
+57402A|Zorakk The Conqueror|Zorakk the Conqueror|||||||
+57403A|Zotoka - Game|Zotoka - Game|||||||
+57404A|Zotoka - Instructions|Zotoka - Instructions|||||||

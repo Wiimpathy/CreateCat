@@ -1,0 +1,179 @@
+97420A|4-tris|4-TRIS||Puzzle-Game,|1||Joseph Zbiciak|Public Domain|2000
+97421A|Abpa Backgammon|ABPA Backgammon||Strategy,|2||APh Technological Consulting|Mattel Electronics|1979
+97422A|Advanced Dungeons And Dragons|Advanced Dungeons & Dragons||Action,Adventure|2||Mattel Electronics|Mattel Electronics|
+97423A|Advanced Dungeons And Dragons - Cloudy Mountain|Advanced Dungeons & Dragons: Cloudy Mountain|||2||APh Technological Consulting|Mattel Electronics|1982
+97424A|Advanced Dungeons And Dragons - Treasure Of Tarmin|Advanced Dungeons & Dragons: Treasure of Tarmin|Advanced D&D - Treasure of Tarmin||1||APh Technological Consulting|Mattel Electronics|1982
+97425A|Air Strike|Air Strike||Shooter,|2||Mattel Electronics|Mattel Electronics|1998
+97426A|Armor Battle|Armor Battle||Race, Driving,|2||APh Technological Consulting|Mattel Electronics|1979
+97427A|Astrosmash|Astrosmash||Action,Shooter|1||Mattel Electronics|Mattel Electronics|1981
+97428A|Astrosmash - Meteor|Astrosmash: Meteor||Shooter,|1||Mattel Electronics|Mattel Electronics|1981
+97429A|Atlantis|Atlantis||Action,Shooter|2||Imagic|Imagic|1981
+97430A|Auto Racing|Auto Racing||Race, Driving,|2||APh Technological Consulting|Mattel Electronics|1979
+97431A|B-17 Bomber|B-17 Bomber||Simulation,|1||Mattel Electronics|Mattel Electronics|1981
+97432A|Baseball|Baseball||Sports,|2||APh Technological Consulting|Mattel Electronics|1978
+97433A|Beamrider|Beamrider||Action,Shooter|4||Activision|Activision|1983
+97434A|Beauty And The Beast|Beauty and the Beast||Action,Arcade|1||Imagic|Imagic|1982
+97435A|Blockade Runner|Blockade Runner||Action,Shooter|1|Coop|Interphase Technologies|Interphase Technologies|1983
+97436A|Body Slam - Super Pro Wrestling|Body Slam: Super Pro Wrestling||Sports,|1||Realtime Associates|INTV|1988
+97437A|Bomb Squad|Bomb Squad||Action,Puzzle|1||Mattel Electronics|Mattel Electronics|1982
+97438A|Boxing|Boxing||Sports,|2||APh Technological Consulting|Mattel Electronics|1981
+97439A|Brickout|Brickout|Brickout!|,Breakout|1||Mattel Electronics|Mattel Electronics|
+97440A|Bump 'n' Jump|Bump 'n' Jump||Race, Driving,|2||Data East|Mattel Electronics|1983
+97441A|Burgertime|BurgerTime|BurgerTime!|Action,Arcade|2||Data East|Mattel Electronics|1982
+97443A|Buzz Bombers|Buzz Bombers||Action,Shooter|1||Mattel Electronics|Mattel Electronics|1983
+97444A|Carnival|Carnival||Action,Shooter|2||Sega|Coleco|1982
+97445A|Castle - Trailer|Castle: Trailer|Castle Trailer|Adventure,|1||Arnauld Chevallier|Public Domain|2003
+97446A|Centipede|Centipede||Action,Shooter|2||Atari|Atari|1983
+97447A|Championship Tennis|Championship Tennis||Sports,|2||Nice Ideas|INTV|1985
+97448A|Checkers|Checkers||Strategy,|2||APh Technological Consulting|Mattel Electronics|1980
+97449A|Chip Shot - Super Pro Golf|Chip Shot: Super Pro Golf||Sports,|2||Realtime Associates|INTV|1987
+97450A|Commando|Commando||Action|2||Capcom|INTV|1987
+97451A|Congo Bongo|Congo Bongo||Action,Arcade|2||Sega|Sega|1983
+172117|Crazy Clones|Crazy Clones|||||||
+97453A|Deep Pockets - Super Pro Pool And Billiards|Deep Pockets: Super Pro Pool & Billiards|Deep Pockets-Super Pro Pool and Billiards|,Pool|2||Realtime Associates|Realtime Associates|1990
+97454A|Defender|Defender||Action,Shooter|1||Atari|Atari|1983
+97455A|Demon Attack|Demon Attack||Action,Shooter|2||Imagic|Imagic|1982
+97456A|Dig Dug|Dig Dug||Action,Arcade|2||Namco|INTV|1987
+97457A|Diner|Diner||Action,Arcade|2||Realtime Associates|INTV|1987
+97458A|Donkey Kong|Donkey Kong||Action,Arcade|2||Nintendo|Coleco|1982
+97459A|Donkey Kong Jr.|Donkey Kong Jr.|Donkey Kong Jr|Arcade,|2||Nintendo|Coleco|1983
+97460A|Doom|Doom||Shooter,|1||Joseph Zbiciak|Public Domain|2002
+97461A|Dracula|Dracula||Action|2|Coop|Imagic|Imagic|1982
+97462A|Dragonfire|Dragonfire||Action|2||Imagic|Imagic|1982
+103482|Easter Eggs|Easter Eggs||,Arcade|||||
+97464A|Electric Company - Math Fun|Electric Company: Math Fun||Educational,|2||APh Technological Consulting|Mattel Electronics|1979
+97465A|Electric Company - Word Fun|Electric Company: Word Fun||Educational,|2||APh Technological Consulting|Mattel Electronics|1980
+97466A|Entertainment Computer System Exec-basic|Entertainment Computer System EXEC-BASIC||Utility,|1||Mattel Electronics|Mattel Electronics|1978
+97468A|Executive Rom|Executive ROM|Executive ROM, The|Bios,|1||Mattel Electronics|Mattel Electronics|1978
+97469A|Fathom|Fathom||Action,Arcade|1||Imagic|Imagic|1983
+97470A|Frog Bog|Frog Bog||Action,Arcade|2||APh Technological Consulting|Mattel Electronics|1982
+97471A|Frogger|Frogger||Action,Arcade|2||Konami|Parker Brothers|1983
+97472A|Game Factory|Game Factory||Various,|2||Mattel Electronics|Mattel Electronics|2001
+97473A|Go For The Gold|Go For the Gold||Sports,|2||Mattel Electronics|Mattel Electronics|1981
+97474A|Grid Shock|Grid Shock||Shooter,|1||Mattel Electronics|Mattel Electronics|1998
+97475A|Grom|GROM|GROM, The|Bios,|1||General Instruments|General Instruments|1978
+97476A|Groovy|Groovy|Groovy!|Demo,|1||JMRZ Electronics|Public Domain|1999
+97477A|Halloween Street|Halloween Street|Street|Demo,|1||Mattel Electronics|Mattel Electronics|1981
+97479A|Happy Holidays - Santa's Helper|Happy Holidays: Santa's Helper||Action,|1||Mattel Electronics|Mattel Electronics|1983
+97481A|Happy Trails|Happy Trails||Strategy,|2||Activision|Activision|1983
+97482A|Hard Hat|Hard Hat||,Arcade|2||Mattel Electronics|Mattel Electronics|1998
+97483A|Horse Racing|Horse Racing||Sports,|6||APh Technological Consulting|Mattel Electronics|1980
+97484A|Hover Force|Hover Force||Action,Shooter|1||Realtime Associates|INTV|1986
+97485A|Hypnotic Lights|Hypnotic Lights||Puzzle-Game,|1||Mattel Electronics|Mattel Electronics|
+97486A|Ice Trek|Ice Trek||Action,Shooter|1||Imagic|Imagic|1983
+97487A|Imi Test Cart|IMI Test Cart||Utility,|1||Mattel Electronics|Mattel Electronics|1978
+97488A|Intellivision Test Cartridge And Baseball|Intellivision Test Cartridge and Baseball||Utility,|1||Mattel Electronics|Mattel Electronics|1978
+97492A|Intellivision - Intelligent Television Demo #5853|Intellivision: Intelligent Television Demo #5853|INTV - Intelligent TV Demo #5853|Demo,|1||Mattel Electronics|Mattel Electronics|1983
+97493A|Intellivision - Intelligent Television Demo #5859|Intellivision: Intelligent Television Demo #5859|||1||Mattel Electronics|Mattel Electronics|
+97494A|Intellivision - Intelligent Television Demo #5932|Intellivision: Intelligent Television Demo #5932|INTV - Intelligent TV Demo #5932 Revised||1||Mattel Electronics|Mattel Electronics|
+97495A|Intellivoice Bios|IntelliVoice BIOS||Bios,|1||Mattel Electronics|Mattel Electronics|1981
+97496A|Intyos - V0.2 Alpha|IntyOS: V0.2 Alpha||Utility,|1||Arnauld Chevallier|Public Domain|2003
+172300|John Conway's Life|John Conway's Life|SDK-1600 John Conway's Life|Demo,|1||Joseph Zbiciak|Public Domain|2002
+97497A|King Of The Mountain|King of the Mountain||Adventure,|1||Mattel Electronics|Mattel Electronics|
+97498A|Kool-aid Man|Kool-Aid Man||Action,Arcade|1||Mattel Electronics|Mattel Electronics|1983
+97499A|Lady Bug|Lady Bug||Action,Arcade|2||Universal Co., Ltd.|Coleco|1983
+97500A|Land Battle|Land Battle||Strategy,|2||Mattel Electronics|Mattel Electronics|1998
+97501A|Las Vegas Blackjack And Poker|Las Vegas Blackjack and Poker||Traditional,|2||APh Technological Consulting|Mattel Electronics|1979
+97502A|Las Vegas Roulette|Las Vegas Roulette||Simulation,|2||APh Technological Consulting|Mattel Electronics|1979
+97503A|League Of Light|League of Light||Action,|1||Activision|Activision|
+97504A|Learning Fun I - Math Master Factor Fun|Learning Fun I: Math Master Factor Fun||Educational,|2||Realtime Associates|INTV|1987
+97505A|Learning Fun 2 - Word Wizard Memory Fun|Learning Fun II: Word Wizard Memory Fun||Educational,|2||Realtime Associates|INTV|1987
+97506A|Lock 'n' Chase|Lock 'n' Chase||Action,Arcade|2||Data East|Mattel Electronics|1982
+97507A|Loco-motion|Loco-Motion||Action,Puzzle|2||Mattel Electronics|Mattel Electronics|1982
+97508A|Magic Carousel|Magic Carousel||Puzzle,|1||Realtime Associates|INTV|2001
+97509A|Major League Baseball|Major League Baseball|All-Star Major League Baseball|Sports,|2||APh Technological Consulting|Mattel Electronics|1980
+97510A|Masters Of The Universe - The Power Of He-man|Masters of the Universe: The Power of He-Man|Masters of the Universe-The Power of He-Man!|Action,|1||Mattel Electronics|Mattel Electronics|1983
+97511A|Maze Demo #1|Maze Demo #1||Demo,|1||JMRZ Electronics|Public Domain|2000
+97512A|Maze Demo #2|Maze Demo #2||Demo,|1||JMRZ Electronics|Public Domain|2000
+97513A|Melody Blaster|Melody Blaster||Music,|1||Mattel Electronics|Mattel Electronics|1983
+97515A|Microsurgeon|Microsurgeon||Action,Puzzle|2||Imagic|Imagic|1982
+97516A|Mind Strike|Mind Strike|Mind Strike!|Action,Puzzle|1||Mattel Electronics|Mattel Electronics|1982
+97517A|Minehunter|Minehunter||Strategy,|1||IntelligentVision|IntelligentVision|
+97518A|Minotaur|Minotaur||,Adventure|1||APh Technological Consulting|Mattel Electronics|1981
+97522A|Mission-x|Mission-X|Mission X|Action,Shooter|1||Data East|Mattel Electronics|1983
+97523A|Mob Collision Test|MOB Collision Test||Demo,|1||Arnauld Chevallier|Public Domain|2002
+97524A|Motocross|Motocross||Race, Driving,|2||Mattel Electronics|Mattel Electronics|1983
+97525A|Mountain Madness - Super Pro Skiing|Mountain Madness: Super Pro Skiing||Sports,|2||Realtime Associates|INTV|1987
+97526A|Mouse Trap|Mouse Trap||Action,Arcade|2||Exidy, Inc.|Coleco|1982
+97527A|Mr. Basic Meets Bits 'n Bytes|Mr. Basic Meets Bits 'N Bytes||Various,|2||Mattel Electronics|Mattel Electronics|1983
+97528A|Nasl Soccer|NASL Soccer||Sports,|2||APh Technological Consulting|Mattel Electronics|1980
+97529A|Nba Basketball|NBA Basketball||Sports,|2||APh Technological Consulting|Mattel Electronics|1980
+97530A|Nfl Football|NFL Football||Sports,|2||APh Technological Consulting|Mattel Electronics|1979
+97531A|Nhl Hockey|NHL Hockey||Sports,|2||APh Technological Consulting|Mattel Electronics|1979
+97532A|Night Stalker|Night Stalker||Action,Arcade|1||Mattel Electronics|Mattel Electronics|1982
+97533A|Nova Blast|Nova Blast||Action,Shooter|1||Imagic|Imagic|1983
+97534A|Number Jumble|Number Jumble||Various,|1||Mattel Electronics|Mattel Electronics|1983
+97535A|Pac-man|Pac-Man||Action,Arcade|2||Namco|Atari|1983
+97536A|Pba Bowling|PBA Bowling||Sports,|4||Mattel Electronics|Mattel Electronics|1980
+97537A|Pga Golf|PGA Golf||Sports,|4||APh Technological Consulting|Mattel Electronics|1980
+97538A|Pinball|Pinball||Pinball,Simulation,|2||Mattel Electronics|Mattel Electronics|1983
+97539A|Pitfall!|Pitfall!||Action,Platform|1||Activision|Activision|1982
+97540A|Pole Position|Pole Position||Race, Driving,|1||Namco|INTV|1987
+97541A|Pong|Pong||Action,Boxing|2||Joseph Zbiciak|Public Domain|1999
+97542A|Popeye|Popeye||Action,Arcade|2||Nintendo|Parker Brothers|1983
+97543A|Programmable Sound Generator Tinkerer|Programmable Sound Generator Tinkerer|PSG Tinkerer|Utility,|1||Ryan Kinnen|Public Domain|2002
+97544A|Q*bert|Q*bert|Q-bert|Action,Arcade|2||D. Gottlieb & Company|Parker Brothers|1983
+97545A|Reversi|Reversi||Strategy,|2||Mattel Electronics|Mattel Electronics|1981
+97546A|River Raid|River Raid||Action,Shooter|2||Activision|Activision|1983
+97548A|Robot Rubble|Robot Rubble|Robot Rubble V2|Action|1||Activision|Activision|1983
+97549A|Royal Dealer|Royal Dealer||Strategy,|1||APh Technological Consulting|Mattel Electronics|1982
+97550A|Rpn Calculator|RPN Calculator|RPN Calculator V1.0|Utility,|1||Arnauld Chevallier|Public Domain|2003
+97551A|Safecracker|Safecracker||Action,Adventure|2||Imagic|Imagic|1983
+97553A|Scooby Doo's Maze Chase|Scooby Doo's Maze Chase||Action,Arcade|2||Mattel Electronics|Mattel Electronics|1983
+97554A|Sdk-1600 - Bouncing Pixels|SDK-1600: Bouncing Pixels||Demo,|1||Joseph Zbiciak|Public Domain|1999
+97573A|Sea Battle|Sea Battle||Strategy,|2||APh Technological Consulting|Mattel Electronics|1980
+97574A|Sears Super Video Arcade Bios|Sears Super Video Arcade BIOS||Bios,|1||Sears, Roebuck and Co.|Sears, Roebuck and Co.|1978
+97575A|Sewer Sam|Sewer Sam||Action|2||Interphase Technologies|Interphase Technologies|1983
+97576A|Shark! Shark!|Shark! Shark!||Action,Arcade|2||Mattel Electronics|Mattel Electronics|1982
+97577A|Sharp Shot|Sharp Shot||Sports,|2||APh Technological Consulting|Mattel Electronics|1982
+97578A|Slam Dunk - Super Pro Basketball|Slam Dunk: Super Pro Basketball||Sports,|2||Realtime Associates|INTV|1987
+97579A|Slap Shot - Super Pro Hockey|Slap Shot: Super Pro Hockey||Sports,|2||Realtime Associates|INTV|1987
+97580A|Snafu|Snafu||Action,Arcade|2||Mattel Electronics|Mattel Electronics|1981
+97593A|Space Armada|Space Armada||Action,Shooter|2||APh Technological Consulting|Mattel Electronics|1981
+97594A|Space Battle|Space Battle||Action,Arcade|2||APh Technological Consulting|Mattel Electronics|1979
+97595A|Space Cadet|Space Cadet||Action,Arcade|2||Mattel Electronics|Mattel Electronics|1998
+97596A|Space Hawk|Space Hawk||Action,Shooter|2||Mattel Electronics|Mattel Electronics|1981
+97597A|Space Spartans|Space Spartans||Strategy,|1||Mattel Electronics|Mattel Electronics|1981
+97598A|Spiker - Super Pro Volleyball|Spiker: Super Pro Volleyball|Spiker! - Super Pro Volleyball|Sports,|1||Realtime Associates|INTV|1988
+97599A|Spirit|Spirit|Spirit V1.0|Demo,|1||Arnauld Chevallier|Public Domain|2002
+97600A|Stadium Mud Buggies|Stadium Mud Buggies||Race, Driving,|1||Realtime Associates|INTV|1989
+97601A|Stampede|Stampede||Action,Arcade|1||Activision|Activision|1982
+97602A|Star Strike|Star Strike||Action,Shooter|1||APh Technological Consulting|Mattel Electronics|1981
+97603A|Star Wars - The Empire Strikes Back|Star Wars: The Empire Strikes Back||Action,Shooter|2||Parker Brothers|Parker Brothers|1982
+97604A|Stonix|Stonix|Stonix Beta1.1|Action,Strategy|2||IntelligentVision|IntelligentVision|2004
+172118|Street|Street||Action,|||||
+97606A|Sub Hunt|Sub Hunt||Strategy,|1||APh Technological Consulting|Mattel Electronics|1981
+97607A|Super Cobra|Super Cobra||Action,Shooter|2||Konami|Parker Brothers|1983
+97608A|Super Masters!|Super Masters!||Platform,|1||Mattel Electronics|Mattel Electronics|
+97609A|Super Nasl Soccer|Super NASL Soccer|Super Soccer|Sports / Soccer,Sports,|4||APh Technological Consulting|Mattel Electronics|1983
+97610A|Super Pro Decathlon|Super Pro Decathlon||Sports,|4||Realtime Associates|INTV|1988
+97611A|Super Pro Football|Super Pro Football||Sports,|2||Realtime Associates|INTV|1986
+97612A|Swords And Serpents|Swords & Serpents||Action,Adventure|2||Imagic|Imagic|1982
+97613A|Takeover|Takeover||Strategy,|2||Mattel Electronics|Mattel Electronics|1998
+97614A|Tennis|Tennis|Championship Tennis|Sports,|2||APh Technological Consulting|Mattel Electronics|1980
+97615A|Tetris|Tetris||Puzzle-Game,|1||Joseph Zbiciak|Public Domain|2000
+97616A|Dreadnaught Factor, The|The Dreadnaught Factor||Action,Shooter|1||Cheshire Engineering|Activision|1983
+97617A|Jetsons' Ways With Words, The|The Jetsons' Ways With Words||Educational,|1||Mattel Electronics|Mattel Electronics|1983
+97618A|Thin Ice|Thin Ice||Action,Arcade|2||Quicksilva Ltd.|Mattel Electronics|1986
+97619A|Thunder Castle|Thunder Castle||Adventure,|2||Quicksilva Ltd.|INTV|1986
+97620A|Tower Of Doom|Tower of Doom||Action,Adventure|2||Realtime Associates|INTV|1987
+97621A|Triple Action|Triple Action||Race, Driving,|2||APh Technological Consulting|Mattel Electronics|1981
+97622A|Triple Challenge|Triple Challenge||Strategy,|2||Realtime Associates|INTV|1987
+97623A|Tron - Deadly Discs|TRON: Deadly Discs|TRON - Deadly Discs - Deadly Dogs|Action,Arcade|1||Mattel Electronics|Mattel Electronics|1981
+97624A|Tron - Deadly Discs - Deadly Dogs|TRON: Deadly Discs: Deadly Dogs||Action,Arcade|2||Mattel Electronics|Intv Corp|1987
+97625A|Tron - Maze-a-tron|TRON: Maze-A-Tron||Action,Arcade|1||Mattel Electronics|Mattel Electronics|1982
+97626A|Tron - Solar Sailer|TRON: Solar Sailer||Action,Shooter|1||Mattel Electronics|Mattel Electronics|1983
+97627A|Tropical Trouble|Tropical Trouble||Action,Arcade|2||Imagic|Imagic|1982
+97628A|Truckin'|Truckin'||Race, Driving,|1||Imagic|Imagic|1983
+97629A|Turbo|Turbo||Race, Driving,|1||Sega|Coleco|1983
+97630A|Tutankham|Tutankham||Action,Arcade|2||Konami|Parker Brothers|1983
+97631A|U.s. Ski Team Skiing|U.S. Ski Team Skiing||Sports,|6||APh Technological Consulting|Mattel Electronics|1980
+97632A|Uscf Chess|USCF Chess||Strategy,|2||APh Technological Consulting|Mattel Electronics|1983
+97633A|Utopia|Utopia||Strategy,|2||Mattel Electronics|Mattel Electronics|1981
+97634A|Vectron|Vectron||Action,Arcade|2||Mattel Electronics|Mattel Electronics|1982
+97635A|Venture|Venture|Adventure|Action,Adventure|2||Exidy, Inc.|Coleco|1982
+97636A|White Water!|White Water!||Action,Sports|1||Imagic|Imagic|1983
+97638A|World Cup Soccer|World Cup Soccer|World Cup Football|Sports,|2||Nice Ideas|INTV|1985
+97639A|World Series Major League Baseball|World Series Major League Baseball||Sports,|1||Mattel Electronics|Mattel Electronics|1983
+97640A|Worm Whomper|Worm Whomper||Action,Shooter|2||Cheshire Engineering|Activision|1983
+97641A|Zaxxon|Zaxxon||Action,Shooter|2||Sega|Coleco|1983

@@ -1,0 +1,105 @@
+58770A|Alien Vs Predator|Alien vs Predator||Action,FPS|1||Rebellion Developments|Atari|1993
+14215A|Apb|APB|APB - All Points Bulletin|Race, Driving,|1||Tengen|QuickSilver|1991
+14243A|Awesome Golf|Awesome Golf||Sports,|4||Hand Made Software, Ltd|Atari|1991
+14254A|Baseball Heroes|Baseball Heroes||Sports,|2||Atari|Atari|1992
+14253A|Basketbrawl|Basketbrawl||Beat'em Up,Sports,|2|Coop|Atari|Atari|1992
+14212A|Batman Returns|Batman Returns||Action,Fighter|1||Atari|Atari|1992
+14268A|Battle Wheels|Battle Wheels||Race, Driving,|6||Atari|Beyond Games|1993
+14255A|Battlezone 2000|BattleZone 2000||Action|4||Hand Made Software, Ltd|Atari|1994
+14248A|Bill And Ted's Excellent Adventure|Bill & Ted's Excellent Adventure||Adventure,|2||Atari|Atari|1991
+14232A|Block Out|Block Out||Puzzle-Game,|1||LDW Inc.|Atari|1990
+14213A|Blue Lightning|Blue Lightning||Simulation,|1||Epyx|Atari|1989
+14233A|Bubble Trouble|Bubble Trouble||Action,Platform|1||Lore Design Limited|Telegames|1991
+14218A|California Games|California Games||Sports,|2||Epyx|Atari|1989
+58771A|Centipede|Centipede||Lightgun Shooter,|1||Shadowsoft|Never Published (Prototype)|
+14238A|Checkered Flag|Checkered Flag||Race, Driving,Sports,|6||Atari|Atari|1991
+14222A|Chip's Challenge|Chip's Challenge||Puzzle-Game,Strategy,|1||Epyx|Atari|1989
+141576|Circle Tunnel|Circle Tunnel|||||||
+141577|Clicks!|Clicks!|||||||
+108859|Conquest Of Zow|Conquest Of Zow|||||||
+14267A|Crystal Mines 2 - Buried Treasure|Crystal Mines II : Buried Treasure||Puzzle-Game,Puzzle-Game,|1||Songbird Productions|Color Dreams|1990
+58773A|Daemonsgate|Daemonsgate||Role-Playing,|1||Imagitec|Never Published (Prototype)|
+14211A|Desert Strike - Return To The Gulf|Desert Strike : Return to the Gulf||Action|1||Telegames|Teque Software|1992
+14270A|Dinolympics|Dinolympics||Puzzle-Game,Strategy,|1||Imagitec Design|Atari|1992
+14234A|Dirty Larry - Renegade Cop|Dirty Larry : Renegade Cop||Action|1||Atari|Atari|1991
+14210A|Double Dragon|Double Dragon||Beat'em Up,Action,|2||Tecmo|Telegames|1993
+14244A|Dracula The Undead|Dracula the Undead|Dracula - The Undead|Adventure,|1||Hand Made Software, Ltd|Atari|1991
+141563|Dungeon, The|Dungeon, The|||||||
+14269A|Electrocop|Electrocop||Puzzle-Game,Adventure,|1||Epyx|Atari|1989
+14272A|European Soccer Challenge|European Soccer Challenge||Sports,|2||Telegames|Telegames|1993
+58774A|Eye Of The Beholder|Eye of the Beholder||Role-Playing,|1||NuFX, Inc.|Atari Inc.|1990
+14273A|Fat Bobby|Fat Bobby||Platform,|1||Telegames|Telegames|1997
+14256A|Fidelity Ultimate Chess Challenge|Fidelity Ultimate Chess Challenge||Puzzle-Game,Board game,|2||Telegames|Telegames|1991
+14257A|Gates Of Zendocon|Gates of Zendocon|Gates of Zendocon, The|Shoot'em Up,Action,|1||Epyx|Atari|1989
+14227A|Gauntlet - The Third Encounter|Gauntlet : The Third Encounter||Adventure,|4||Tengen|Atari|1990
+14274A|Gordo 106|Gordo 106|Gordo 106 - The Mutated Lab Monkey|Platform,Adventure,|4||Atari|Atari|1993
+14275A|Hard Drivin'|Hard Drivin'||Race, Driving,|4||Atari|Atari|1991
+14258A|Hockey|Hockey||Sports,|2||Atari|Atari|1992
+14276A|Hydra|Hydra||Race, Driving,|1||Atari|Atari|1992
+14245A|Ishido - The Way Of Stones|Ishido : The Way of Stones|Ishido - The Way of the Stones|Puzzle-Game,|1||Software Resources International|Publishing International|1991
+58775A|Jimmy Connors' Tennis|Jimmy Connors' Tennis|Jimmy Conners Tennis|Sports,Sports,|4||Hand Made Software, Ltd|Atari|1993
+14240A|Joust|Joust||Platform,Action,|2||Shadowsoft|Williams Electronics|1993
+14249A|Klax|Klax||Puzzle-Game,Strategy,|1||Atari|Atari|1990
+14230A|Krazy Ace Miniature Golf|Krazy Ace Miniature Golf|Krazy Ace Minature Golf|Sports,Sports / Golf,|4||Telegames|Telegames|1992
+14250A|Kung Food|Kung Food||Action,Fighter|1||Atari|Atari|1992
+14208A|Lemmings|Lemmings||Puzzle-Game,Strategy,|1||DMA Design|Psygnosis|1992
+58776A|Lexis|Lexis||Puzzle-Game,|1||Shadowsoft|Songbird Productions|1999
+141589|Lite|Lite|Lexis|,Puzzle|||||
+124349|Lode Runner|Lode Runner|||||||
+58777A|Loopz|Loopz||Strategy,|2||Audiogenic|Songbird Productions|1990
+14251A|Lynx Casino|Lynx Casino||Board game,Simulation,|2||Atari|Atari|1992
+14229A|Malibu Bikini Volleyball|Malibu Bikini Volleyball||Sports,|4||Hand Made Software, Ltd|Atari|1990
+141579|Mandelbrot|Mandelbrot|||||||
+108861|Marble Madness|Marble Madness|||||Matthias Domin||
+58779A|Marlboro Go!|Marlboro Go!||Racing,|1||Digital Image|Never Published (Prototype)|
+14223A|Ms. Pac-man|Ms. Pac-Man||Action,Arcade|1||Atari|Namco|1990
+14246A|Nfl Football|NFL Football||Sports,|2||Atari|Atari|1992
+14224A|Ninja Gaiden|Ninja Gaiden|Ninja Gaiden III - The Ancient Ship of Doom|Beat'em Up,Action,|1||Tecmo|Atari|1990
+14221A|Ninja Gaiden 3 - The Ancient Ship Of Doom|Ninja Gaiden III : The Ancient Ship of Doom||Beat'em Up,|1||Tecmo|Tecmo|1991
+14220A|Pac-land|Pac-Land||Platform,Action,|1||Atari|Atari|1991
+14214A|Paperboy|Paperboy||Action,Arcade|1||Atari|Atari|1990
+141564|Para Lemi!|Para Lemi!|||||||
+14277A|Pinball Jam|Pinball Jam||Pinball,Action,|1||Atari|Atari|1992
+14219A|Pit-fighter|Pit-Fighter|Pit Fighter - The Ultimate Competition|Fight,Action,|2||Atari|Atari|1991
+124350|Pong 5|Pong 5|||||||
+14252A|Power Factor|Power Factor||Action|2||Hand Made Software, Ltd|Atari|1992
+141594|Puzzler 2000|Puzzler 2000|||||||
+14260A|Qix|Qix||Puzzle-Game,Action,|2||Telegames|Taito|1991
+14231A|Raiden|Raiden||Shoot'em Up,Action,|1||Fabtek|Atari|1997
+14235A|Rampage|Rampage||Action,Arcade|1||Atari|Midway|1991
+14266A|Rampart|Rampart||Strategy,|2||Atari|Tengen Inc.|1991
+141623|Raw|Raw|Basketbrawl|,Basketball|||||
+141595|Raycast Corridor|Raycast Corridor|||||||
+141596|Remnant Planar Wars 3d|Remnant Planar Wars 3d|||||||
+58780A|Road Riot 4wd|Road Riot 4WD||Race, Driving,|1||Tengen Ltd|Never Published (Prototype)|1994
+14259A|Roadblasters|RoadBlasters||Race, Driving,|1||Atari|Atari|1990
+14278A|Robo-squash|Robo-Squash||Action,Sports|2||Atari|Atari|1990
+14247A|Robotron - 2084|Robotron : 2084||Shooter,|1||Shadowsoft|Williams Electronics|1991
+14225A|Rygar|Rygar|Rygar - Legendary Warrior|Platform,Action,|1||Tecmo|Atari|1990
+14236A|S.t.u.n. Runner|S.T.U.N. Runner||Race, Driving,|1||Tengen|Atari|1991
+14228A|Scrapyard Dog|Scrapyard Dog||Adventure,|1||CSD|Atari|1991
+14226A|Shadow Of The Beast|Shadow of the Beast||Beat'em Up,Action,|1||Reflections Interactive Limited|Psygnosis|1992
+14261A|Shanghai|Shanghai||Board game,Strategy,|1|Coop|Atari|Atari|1990
+141597|Show King Tut|Show King Tut|||||||
+141598|Snakebyte|Snakebyte|||||||
+141624|Sprite Ed|Sprite Ed|||||||
+108862|Stardreamer|Stardreamer|||||||
+141599|Stardreamer - Cutscene|Stardreamer - Cutscene|||||||
+14262A|Steel Talons|Steel Talons||Shoot'em Up,Simulation,|1||Tengen|Atari|1992
+14279A|Super Asteroids And Missile Command|Super Asteroids & Missile Command||Compilation,|1||Atari|Atari|1995
+14217A|Super Off Road|Super Off Road|Super Off-Road|Race, Driving,|4||Telegames|Telegames|1993
+14280A|Super Skweek|Super Skweek||Strategy,|2||Loriciels|Atari|1991
+14281A|Switchblade 2|SwitchBlade II||Platform,Action,|1||Gremlin|Gremlin|1992
+122994|T-tris|T-tris|T-Tris (1996) by Bastian Schick|,Platform|||||1996
+122997|Tetris|Tetris|Lexis|,Puzzle|||||
+14241A|Todd's Adventures In Slime World|Todd's Adventures in Slime World|Todd's Adventure in Slime World|Platform,Action,|8||Epyx|Atari|1992
+14209A|Toki|Toki||Platform,Action,|1||Tad Corporation|Atari|1992
+14282A|Tournament Cyberball 2072|Tournament Cyberball 2072||Strategy,Sports,|4||Atari|Atari|1991
+14263A|Turbo Sub|Turbo Sub||Shoot'em Up,|2||Atari|Atari|1991
+14237A|Viking Child|Viking Child||Adventure,|1||Imagitec Design|Atari|1991
+14264A|Warbirds|Warbirds||Simulation,|4||Atari|Atari|1991
+14265A|World Class Soccer|World Class Soccer||Sports,|2||Atari|Atari|1992
+141601|Wuerfel 3|Wuerfel 3|||||||
+14216A|Xenophobe|Xenophobe||Action|4||Atari|Atari|1990
+14283A|Xybots|Xybots||Action,Gun shooter|2|Coop|Atari|Atari|1991
+14242A|Zarlor Mercenary|Zarlor Mercenary||Shoot'em Up,|4||Atari|Atari|1992

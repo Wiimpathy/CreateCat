@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+  <WiiTDB version="201912061424" games="22"/>
+  <game name="Air/Sea Attack">
+    <id>122213</id>
+    <locale lang="EN">
+      <title>Air/Sea Attack</title>
+      <genre>Vehicle Simulation</genre>
+      <synopsis>You command a nuclear submarine
+
+Hours of exhilaration await you and your family and friends as you take command of your nuclear submarine deep in hostile waters.
+
+The enemy is completely ruthless and is out to destroy you with every weapon at his command. His bombers, helicopters and jet-fighters along with his destroyers cruisers, battleships and submarines are armed to the teeth and have only one mission...to find and annihilate you!</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Astro Pinball">
+    <id>122215</id>
+    <locale lang="EN">
+      <title>Astro Pinball</title>
+      <genre>Action</genre>
+      <synopsis>Just like the real thing
+
+All the sights, sounds, fun and excitement of real arcade pinball, righti n your own home. The built-in computer calculates the precise angle of bounce and gies you an extra-fast response with your flippers, so there's nothing to hold up the action.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1982" month="" day=""/>
+  </game>
+  <game name="Auto Chase">
+    <id>122212</id>
+    <locale lang="EN">
+      <title>Auto Chase</title>
+      <genre>Action,Racing</genre>
+      <synopsis>You drive the getaway car!
+
+On holiday in an evil dictatorship country, you are contacted by the freedom fighters and asked to deliver vital cash reserves to the free world. But first you have to drive around the city and pick up the money bags.
+
+Unfortunately the evil secret police have been notified and are out in force to stop you.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="BASIC Interpreter 1.0">
+    <id>122216</id>
+    <locale lang="EN">
+      <title>BASIC Interpreter 1.0</title>
+      <genre>Sandbox</genre>
+      <synopsis>Intended to serve the beginning programmers as an introduction to programming in BASIC on the CREATIVISION Personal Computing System. It introduces the user to the fundamentals of BASIC, and the procedures of creating programs on the system which covers all the concepts and statements needed.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1982" month="" day=""/>
+  </game>
+  <game name="Bowling">
+    <id>122264</id>
+    <locale lang="EN">
+      <title>Bowling</title>
+      <genre>Sports</genre>
+      <synopsis>A simple bowling game for the VTech CreatiVision/The Dick Smith Wizzard written by P. Norman. Requires the BASIC Cartridge in order to be played.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>P. Norman</developer>
+    <publisher>Dick Smith Electronics</publisher>
+    <date year="1983" month="" day=""/>
+  </game>
+  <game name="Chopper Rescue">
+    <id>122217</id>
+    <locale lang="EN">
+      <title>Chopper Rescue</title>
+      <genre>Shooter</genre>
+      <synopsis>A whole country is depending on you!
+
+
+
+You have to do some of the trickiest flying that's ever been done over three types of terrain. But you can't let anything stop you. You have to pick up vital medical supplies and deliver them where disaster has struck. If you fail, thousands will die.
+
+
+
+Fly like you've never flown before. You have to avoid tall buildings and high-flying birds just to make the pick-up. And things get worse after that. In order to make the drop you have to have pinpoint accuracy and very steady nerves.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1982" month="" day=""/>
+  </game>
+  <game name="Code Breaker">
+    <id>122253</id>
+    <locale lang="EN">
+      <title>Code Breaker</title>
+      <genre>Strategy</genre>
+      <synopsis>A code breaking game for the VTech Creativision/Dick Smith Wizzard game console. Requires the BASIC Interpreter cartridge.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer/>
+    <publisher>Dick Smith Electronics</publisher>
+    <date year="1983" month="" day=""/>
+  </game>
+  <game name="Crazy Chewy">
+    <id>122219</id>
+    <locale lang="EN">
+      <title>Crazy Chewy</title>
+      <genre>Action</genre>
+      <synopsis>Very first released game for CreatiVision. The game (a Pac-Man clone) was originally called Crazy Pucker and soon retired from market likely due to copyright worries. It was then re-issued as Crazy Chewy and Crazy Moonie. Then again retired from market and re-issued as Crazy Chicky (with changed graphics and gameplay).
+
+
+
+The object of the game is to control the motion of Crazy Chewy to eat up as many beans as possible. There are four monsters who will capture the chewy on contact. You have to maneuver the motion of the chewy to get away from the monsters and eat up the beans.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Crazy Chicky">
+    <id>122218</id>
+    <locale lang="EN">
+      <title>Crazy Chicky</title>
+      <genre>Action</genre>
+      <synopsis>You are a Chicky!
+
+Now, as everyone knows, the one thing a chicky does best is to lay eggs. And that's why you travel all over the Happy Daze Maze laying eggs wherever you go. Your mission is to fill the whole maze with eggs.
+
+Beware the Funky Foxes! While you travel around the Happy Daze Maze, laying your eggs and not bothering anybody, don't forget about the 4 Funky Foxes.
+
+They will sneak around and try and catch you, and if they do, they'll gobble you up for dinner. So watch out!</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1982" month="" day=""/>
+  </game>
+  <game name="Deep Sea Adventure">
+    <id>122263</id>
+    <locale lang="EN">
+      <title>Deep Sea Adventure</title>
+      <genre>Shooter</genre>
+      <synopsis>You are a deep sea diver!
+
+As you explore the sea bottom, thousands of feet under water, evil sea creatures sneak up on you and attack!
+
+Creatures of the deep! The nastiest creatures of the sea are after you. The Devious Clickaw Crab, a giant armored beast. The Fanged Ray, a huge demented animal. And the Slip-Slimy Octopus, with eight giant tentacles. All of them are trying to attack you for no reason at all. Just because they are bad and mean.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1982" month="" day=""/>
+  </game>
+  <game name="Hapmon">
+    <id>127544</id>
+    <locale lang="EN">
+      <title>Hapmon</title>
+      <genre/>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Locomotive">
+    <id>122237</id>
+    <locale lang="EN">
+      <title>Locomotive</title>
+      <genre>Action</genre>
+      <synopsis>You're a prisoner in a train factory
+
+The only way out is to build your own train. You have to run across dangerous catwalks, high in the air and drop all the right parts onto the tracks below, in the right order, if you want to survive.
+
+Be careful, even the tools are dangerous! The hammers and wrenches and even the nails left around the factory are enchanted and will come to life and try to hammer, wrench, and nail you! All you have is an oil can to destroy them.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1983" month="" day=""/>
+  </game>
+  <game name="Mouse Puzzle">
+    <id>122238</id>
+    <locale lang="EN">
+      <title>Mouse Puzzle</title>
+      <genre>Puzzle</genre>
+      <synopsis>Only you can save a mouse.
+
+A poor little mouse is hungry and looking for food. He walks through pipes inside the wall, but he can't see too well. So you have to move the pipes around to help him go in the right direction. Otherwise he'll fall out the end of a pipe or maybe bonk right into a wall and that will be the end of him. Only you can help to keep him going.
+
+Watch out for City Kitty - City Kitty is a nasty, sneaky, rotten cat. In some games he will sneak into the pipes and chase your mouse. Don't let him catch up because he is hungry too. And he only eats poor little mouse.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1982" month="" day=""/>
+  </game>
+  <game name="Music Maker">
+    <id>122239</id>
+    <locale lang="EN">
+      <title>Music Maker</title>
+      <genre>Music</genre>
+      <synopsis>You can learn, play, compose and record music with: CREATIVISION'S MUSIC MAKER
+
+You have 4 instruments to work with! Your MUSIC MAKER contains 4 instruments. Piano, violin, flute and cello. Whenever you turn the power on or press the reset button, the MUSIC MAKER automatically selects the Piano and a nominal temp.
+
+Change instruments! To change the instrument which you are controlling, simply press the desired INSTRUMENT SELECT key. The instrument currently under control is indicated on-screen by a purple dot.
+
+Change tempo - To change the temp, press the TEMPO key and any one of the numeric keys from 0-9. Fastest temp is 0. Slowest is 9.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1983" month="" day=""/>
+  </game>
+  <game name="Planet Defender">
+    <id>122240</id>
+    <locale lang="EN">
+      <title>Planet Defender</title>
+      <genre>Shooter</genre>
+      <synopsis>You command the HYPERSPACE CRUISER
+
+Aliens, from a far galaxy are attacking earth, abut first they must conquer the heavily fortified MOONBASE. As they swoop in to attack in unearthly formations, only you, in your speedy HYPERSPACE CRUISER stand between them and total devastation. Blast them out of the sky with your lethal laser cannon and watch them disintegrate.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Police Jump">
+    <id>122241</id>
+    <locale lang="EN">
+      <title>Police Jump</title>
+      <genre>Action</genre>
+      <synopsis>You are a Police Inspector
+
+The notorious criminal, Dangerous Dan, has kidnapped a beautiful rich girl and you've tracked him down to his sky-scraper hideaway, but that's the easy part. Now you have to up there, all by yourself and get him. There are twenty floors between you and your goal, every one of them filled with treacherous booby traps.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1982" month="" day=""/>
+  </game>
+  <game name="Soccer">
+    <id>122242</id>
+    <locale lang="EN">
+      <title>Soccer</title>
+      <genre>Sports</genre>
+      <synopsis>You're the team manager/player. You plan the strategies and you make the plays. You control different players to advance the ball, to intercept passes and to score. 
+
+You control the flashing player The player or goalie which is under your control during the action will be flashing. 
+
+Out-of-bounds - If the ball is kicked out of bounds by one team, the other team gets the opportunity to throw the ball back into play. 
+
+To kick the ball, press KICK! You control the speed and direction of your player with the joystick. When you wish to kick the ball forward, make sure the player you control is close to the ball, then press the KICK button. Your position and speed will determine how far and in what direction the ball travels. 
+
+The time - A clock on the top of your screen will time the game. When time is up, the game is over. So make your best moves early.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1983" month="" day=""/>
+  </game>
+  <game name="Sonic Invader">
+    <id>122243</id>
+    <locale lang="EN">
+      <title>Sonic Invader</title>
+      <genre>Shooter</genre>
+      <synopsis>Invaders from outer space are approaching your planet. Your mission (the object of the game) is to destroy as many invaders as possible and avoid being destroyed by them. If you cannot destroy all the invaders in time, they will eat up all your buildings and gradually closing in on you. The game is over when all your stations are destroyed or when the invaders successfully get to the earth level.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="4">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Stone Age">
+    <id>122244</id>
+    <locale lang="EN">
+      <title>Stone Age</title>
+      <genre>Action</genre>
+      <synopsis>A Pengo clone for the VTech Creativision and one of the last releases for the system. It stars a caveman who must shove rocks into dinosaurs in order to defeat them and clear levels.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Tank Attack">
+    <id>122245</id>
+    <locale lang="EN">
+      <title>Tank Attack</title>
+      <genre>Vehicle Simulation</genre>
+      <synopsis>You are a tank commander! You are engaged in a battle to the death with another Tank commander who has the same weapons as you have, so only your superior skill can win the day!
+
+More dangers than the eye can see! Besides enemy tanks, there are many dangers to contend with. There may be hidden minefields that you will never see until it is too late. The terrain itself can prove deadly. A fall in the deep water of the river could be the end of you. In addition, your treacherous enemy can switch tanks, and attack from a completely different direction with no warning.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1981" month="" day=""/>
+  </game>
+</datafile>

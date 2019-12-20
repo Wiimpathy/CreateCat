@@ -1,0 +1,1580 @@
+123603|1984|1984|||||||
+49890A|2002 Rendezvous And Docking Simulator|2002 Rendezvous and Docking Simulator|||||||
+49891A|3-deep Space|3-Deep Space||Action,|||Postern|Postern|1983
+49892A|3d Convoy|3D Convoy|||||||
+49893A|3d Dotty|3D Dotty|||||||
+49894A|3d Grand Prix|3D Grand Prix|||||||
+49895A|3d Maze|3D Maze|||||||
+49896A|3d Munchy|3D Munchy|||||||
+49897A|3d Oxo|3D OXO|||||||
+49898A|3d Pool|3D Pool|||||||
+123997|3d Snooker|3d Snooker|||||||
+49899A|3d Space Raider - Space Ace|3D Space Raider - Space Ace|||||||
+49900A|3d Space Ranger|3D Space Ranger|||||||
+49901A|3d Tank Zone|3D Tank Zone|||||||
+123999|3d Tanx|3d Tanx|||||||
+49902A|3d Tennis|3D Tennis|||||||
+123998|3d Wars|3d Wars|||||||
+49903A|7 Card Patience|7 Card Patience|||||||
+49904A|737 Flight Simulator|737 Flight Simulator||Flight Simulator,|1||Salamander|Salamander|1983
+49905A|747 Flight Simulator|747 Flight Simulator||Flight Simulator,|1||DACC|DACC|1983
+49906A|8004 Words|8004 Words|||||||
+49907A|9 Classic Card And Board Games - No. 1|9 Classic Card and Board Games - No. 1|||||||
+49908A|9 Classic Card And Board Games - No. 2|9 Classic Card and Board Games - No. 2|||||||
+49909A|A And b Art Package|A&B Art Package|||||||
+49910A|Aabatron|Aabatron|||||||
+123924|Abc|Abc|||||||
+124002|Abominable Snowmen, The|Abominable Snowmen, The|||||||
+124003|Abyss|Abyss||Adventure,|1||CCS|CCS|1983
+49911A|Acheton|Acheton||Adventure,|1||Acornsoft|Acornsoft|1984
+49912A|Acid Drops|Acid Drops||Shooter,|1||Firebird Software|Firebird Software|1984
+49913A|Acorn Adventure|Acorn Adventure|||||||
+49914A|Adventure|Adventure|Adventure Quest|Adventure,|1||J Spilsbury|Micro Power|1982
+49915A|Adventure 01 - Adventureland - Bbc V1.0|Adventure 01 - Adventureland - BBC v1.0|||||||
+49916A|Adventure 02 - Pirate Adventure - Bbc V1.0|Adventure 02 - Pirate Adventure - BBC v1.0|||||||
+49917A|Adventure 03 - Secret Mission - Bbc V1.0|Adventure 03 - Secret Mission - BBC v1.0|||||||
+49918A|Adventure 04 - Voodoo Castle - Bbc V1.0|Adventure 04 - Voodoo Castle - BBC v1.0|||||||
+124000|Adventure 05 - The Count|Adventure 05 - The Count|||||||
+49919A|Adventure 06 - Strange Odyssey - Bbc V1.0|Adventure 06 - Strange Odyssey - BBC v1.0|||||||
+124004|Adventure 07 - Mystery Fun House|Adventure 07 - Mystery Fun House|||||||
+49920A|Adventure 08 - Pyramid Of Doom - Bbc Vb-124|Adventure 08 - Pyramid of Doom - BBC vb-124|||||||
+49921A|Adventure 09 - Ghost Town - Bbc V1.0|Adventure 09 - Ghost Town - BBC v1.0|||||||
+49922A|Adventure 10 - Savage Island Part I - Bbc V1.0|Adventure 10 - Savage Island Part I - BBC v1.0|||||||
+49923A|Adventure 11 - Savage Island Part 2 - Bbc V1.0|Adventure 11 - Savage Island Part II - BBC v1.0|||||||
+49924A|Adventure 12 - The Golden Voyage - Bbc V1.0|Adventure 12 - The Golden Voyage - BBC v1.0|||||||
+124001|Adventure 13 - Sorceror Of Claymorgue Castle|Adventure 13 - Sorceror Of Claymorgue Castle|||||||
+49925A|Adventure 15 - Buckaroo Banzai - Bbc V1.0|Adventure 15 - Buckaroo Banzai - BBC v1.0|||||||
+49926A|Adventure Quest|Adventure Quest||Adventure,|1||Level 9 Computing|Level 9 Computing|1983
+123698|Adventure Writer|Adventure Writer|||||||
+124006|Adventures of Gnasher, The|Adventures of Gnasher, The|||||||
+49927A|Adventurescape|Adventurescape|||||||
+49928A|Adventurescape Games - Amnesia And Xanadu|Adventurescape Games - Amnesia & Xanadu|||||||
+49929A|Air Traffic Control Simulator|Air Traffic Control Simulator|||||||
+49930A|Aircraft Landing Simulator|Aircraft Landing Simulator|||||||
+49931A|Airlift|Airlift||Action,|1||Peter Johnson|Superior Software|1984
+49932A|Airline|Airline||Construction and Management Simulation,|1||CCS|CCS|1983
+49933A|Airwolf|Airwolf||Action,|1||Elite Systems|Encore|1985
+124008|Aladdin|Aladdin|||||||
+49934A|Algebraic Manipulation Package|Algebraic Manipulation Package|||||||
+49935A|Alien 8|Alien 8||Action,Adventure,|1||Ultimate Play The Game|Ultimate Play the Game|1985
+49936A|Alien Blaster|Alien Blaster|||||||
+49937A|Alien Break-in|Alien Break-In|||||||
+49938A|Alien Destroyers|Alien Destroyers||Shooter,|1||David Elliot|Micro Power|1982
+124009|Alien Destroyers 2|Alien Destroyers 2|||||||
+49939A|Alien Dropout|Alien Dropout||Shooter,|1||Richard Hanson|Superior Software|1982
+124010|Alien From Outta Space|Alien From Outta Space|||||||
+49940A|Alien Swirl|Alien Swirl||Shooter,|1||Amcom|Micro Power|1983
+49941A|Allypally|AllyPally|||||||
+49942A|Alphatron|Alphatron|||||||
+124011|American Suds|American Suds|||||||
+124012|Amidar|Amidar|||||||
+124013|Amnesia|Amnesia|||||||
+49943A|Amrac Packet Radio|AMRAC Packet Radio|||||||
+49944A|Amusing Text Files|Amusing Text Files|||||||
+49945A|Anarchy Zone|Anarchy Zone||Shooter,|1||Rob Dulstone|Atlantis|1988
+49946A|Android|Android|||||||
+49947A|Android Attack|Android Attack||Action,|1||Paul Hiscock|Computer Concepts|1983
+124014|Animal-vegetable-mineral And Happy Letters And Timeman One|Animal-vegetable-mineral And Happy Letters And Timeman One|||||||
+49948A|Animated Pictures|Animated Pictures|||||||
+49949A|Animation Station Disc No. 1|Animation Station Disc No. 1|||||||
+124015|Annabel Gray|Annabel Gray|||||||
+49950A|Ant Killer|Ant Killer|||||||
+49951A|Apocalypse|Apocalypse||Strategy,|4||Games Workshop|Red Shift|1983
+124017|Apollo|Apollo|||||||
+124016|Apple Pie|Apple Pie||Action,|1||Tim Chown|Visions|1984
+49952A|April Showers|April Showers|||||||
+124018|Aqua Attack|Aqua Attack|||||||
+49953A|Arcade Action|Arcade Action||Action,Puzzle,Shooter,|2||Acornsoft|Acornsoft|1982
+49954A|Arcade Soccer!|Arcade Soccer!|||||||
+124020|Arcadia|Arcadia|||||||
+49955A|Arcadians|Arcadians||Shooter,|2||Nick Pelling|Acornsoft|1982
+49957A|Arena 3000|Arena 3000||Action,Shooter,|2||Microdeal|Microdeal|1984
+49958A|Arkanoid|Arkanoid||Puzzle,|1||Peter Johnson|Imagine|1987
+49960A|Artemidorus|Artemidorus|||||||
+49961A|Artist|Artist|||||||
+49962A|Ask - The Real You|Ask - The Real You|||||||
+49963A|Asteroid Belt|Asteroid Belt||Shooter,|1||Jeremy Smith|Computer Concepts|1983
+49964A|Asteroid Storm|Asteroid Storm||Shooter,|1||David Elliot|Micro Power|1982
+49965A|Asteroids Deluxe|Asteroids Deluxe|||||||
+49966A|Astro Navigator|Astro Navigator||Shooter,|1||Micro Power|Micro Power|1982
+49967A|Astro Plumber|Astro Plumber||Platform,|1||Mike Williams|Blue Ribbon|1985
+49968A|Astro Tracker V2.1|Astro Tracker v2.1|||||||
+124021|Astroblaster|Astroblaster|||||||
+49969A|Astrorun|Astrorun|||||||
+49970A|Atic Atac|Atic Atac||Action,Adventure,|1||Ultimate Play The Game|Ultimate Play the Game|1983
+49971A|Atomic Protector|Atomic Protector||Action,|1||Kevin Edwards|Optima Software|1983
+49972A|Attack On Alpha Centauri|Attack on Alpha Centauri||Action,||||Software Invasion|1983
+49973A|Auf Wiedersehen Pet|Auf Wiedersehen Pet||Action,|1||Bob Carr|Tynesoft|1984
+49974A|Autofire|Autofire|||||||
+49975A|Aviator - Black And white|Aviator - Black&White|||||||
+49976A|Aviator - Color|Aviator - Color|||||||
+49977A|Awari|Awari|||||||
+124022|Axe Of Kolt|Axe Of Kolt|||||||
+49978A|Ayo - The Game Of Africa|AYO - The Game of Africa|||||||
+49979A|B.c. Bill|B.C. Bill||Action,|||Creative Technology Group Ltd.|Imagine|1984
+49980A|Backgammon|Backgammon|||||||
+49981A|Ballistix!|Ballistix!|||||||
+49982A|Balloon Buster|Balloon Buster||Puzzle,|1||Mike Williams|Blue Ribbon|1989
+49983A|Balloon Fun|Balloon Fun|||||||
+124024|Balls!|Balls!|||||||
+49984A|Banana Man|Banana Man||Action,|1||MRM Software|MRM Software|1983
+49985A|Bandit|Bandit|||||||
+49986A|Bandits|Bandits|||||||
+124023|Bandits + Dogfight|Bandits + Dogfight|||||||
+49987A|Bandits V2.1|Bandits v2.1|||||||
+49988A|Banjax|Banjax|||||||
+49989A|Bar Billiards - Bbc Version|Bar Billiards - BBC Version|||||||
+49990A|Barbarian|Barbarian|||||||
+49991A|Barbarian 2|Barbarian II|||||||
+49992A|Baron|Baron|||||||
+49993A|Barrage|Barrage||Shooter,Strategy,|2||P. R. Cox|Micro Power|1983
+49994A|Bastard Operator From Hell|Bastard Operator from Hell|||||||
+124025|Battle 1917|Battle 1917||Strategy,|2||CCS|CCS|1983
+49995A|Battle Of Atlantis|Battle of Atlantis|||||||
+49996A|Battle Of Britain|Battle of Britain|||||||
+124026|Battle Planet|Battle Planet||Shooter,|1||Jonathan Holmes|ISP|1984
+49997A|Battle Tank|Battle Tank||Shooter,|1||John Silver|Superior Software|1983
+49998A|Battle Zone 2000|Battle Zone 2000|||||||
+124027|Battlefields - American Civil War|Battlefields - American Civil War|||||||
+49999A|Battleship|Battleship|||||||
+50000A|Beach-head|Beach-Head||Action,|||Access Software, Inc.|U.S. Gold Ltd.|1985
+124028|Bed Bugs|Bed Bugs|||||||
+50001A|Beeb Patience|Beeb Patience|||||||
+50002A|Beeb-beep|Beeb-Beep|||||||
+50003A|Beeb-darts|Beeb-Darts|||||||
+50004A|Beebgammon|Beebgammon|||||||
+50005A|Beebmunch|Beebmunch|||||||
+50006A|Beebtrek|Beebtrek|||||||
+50007A|Beebug Filer|Beebug Filer|||||||
+50008A|Beebug Masterfile 2|Beebug Masterfile II|||||||
+124029|Beeline|Beeline|||||||
+50009A|Beverly Hills Cop|Beverly Hills Cop||Action,Racing,|1||Tynesoft|Tynesoft|1990
+124030|Beyond Infinity - Cute To Kill|Beyond Infinity - Cute To Kill|||||||
+50011A|Bird Strike|Bird Strike||Shooter,|1||Andrew Frigaard|Firebird|1984
+50012A|Birdie Barrage V1.0|Birdie Barrage v1.0|||||||
+50013A|Birdie Barrage V3.0|Birdie Barrage v3.0|||||||
+50014A|Birds Of Prey|Birds of Prey|||||||
+124031|Bismarck|Bismarck|||||||
+50015A|Black Box - Bbc Version|Black Box - BBC Version|||||||
+50016A|Black Queen Or The Game Of Bridge|Black Queen or the Game of Bridge|||||||
+50017A|Blackjack|BlackJack|||||||
+50018A|Blagger|Blagger||Platform,|1||Ross Goodley|Alligata Software Ltd.|1984
+50019A|Blast!|Blast!||Action,Puzzle,|1||Sam Inglis|Audiogenic Software|1989
+50020A|Blitzkrieg - Mono Color|Blitzkrieg - Mono Color|||||||
+50021A|Blitzkrieg - Multi Color|Blitzkrieg - Multi Color|||||||
+50022A|Block Blitz|Block Blitz|||||||
+50023A|Block Buster|Block Buster|||||||
+124032|Blockade|Blockade|||||||
+124033|Blockbusters|Blockbusters||Strategy,||||Macsen Software|1984
+50024A|Blocker|Blocker||Puzzle,|1||Thor Computer Software|Thor Computer Software|1984
+124034|Blockman|Blockman|||||||
+50025A|Blokkendoos - Extended Version|Blokkendoos - Extended Version|||||||
+50026A|Blokkendoos Plus|Blokkendoos Plus|||||||
+124036|Blood Of The Mutineers|Blood Of The Mutineers|||||||
+124035|Blood Of The Mutineers - A Captain Blizzard Adventure|Blood Of The Mutineers - A Captain Blizzard Adventure|||||||
+50027A|Blue Dragon|Blue Dragon|||||||
+50028A|Bmx On The Moon|BMX on the Moon||Action,||||Superior Software Ltd.|1984
+50029A|Bobby Charlton Soccer|Bobby Charlton Soccer|||||||
+124037|Body in the Bunker, The|Body in the Bunker, The|||||||
+50030A|Boffin|Boffin||Platform,|1||Paul O'Malley|Addictive Games Ltd|1985
+50031A|Boffin 2|Boffin 2|||||||
+50032A|Bomb Alley|Bomb Alley|||||||
+124038|Bomber|Bomber|||||||
+124039|Bomber Baron|Bomber Baron||Shooter,|1||Mighty Bad|Optyx Software|1986
+50033A|Bone Cruncher|Bone Cruncher||Puzzle,|1||Martyn Howard|Superior Software|1987
+50034A|Bones|Bones|||||||
+50035A|Book Index|Book Index|||||||
+124040|Boot Hill|Boot Hill|||||||
+50036A|Bored Of The Rings|Bored of the Rings||Adventure,|||Delta 4 Interactive|Silversoft Ltd|1985
+50037A|Boris In The Underworld|Boris in the Underworld|||||||
+50038A|Boulder Crash|Boulder Crash|||||||
+50039A|Boulder Dash|Boulder Dash||Puzzle,|2||First Star Software|Tynesoft|1988
+50040A|Bouncer|Bouncer||Action,Puzzle,|1||Acornsoft|Acornsoft|1984
+50041A|Bouncing Bill|Bouncing Bill|||||||
+50042A|Bounty Bob Strikes Back|Bounty Bob Strikes Back||Platform,|1||Big Five Software|US Gold|1986
+50044A|Boxer|Boxer||Fighting,Platform,|1||Acornsoft|Acornsoft|1984
+50045A|Bozo And Beebo|Bozo and Beebo|||||||
+124041|Bozo The Brave|Bozo The Brave|||||||
+124042|Brain Aerobics|Brain Aerobics|||||||
+50046A|Brain Teasers|Brain Teasers|||||||
+124043|Break Through|Break Through|||||||
+50047A|Breakout|Breakout|||||||
+124044|Brian Clough's Football Fortunes|Brian Clough's Football Fortunes||Construction and Management Simulation,Sports,Strategy,|5||Mike Williams|CDS Software|1987
+50048A|Brian Jack's Superstar Challenge|Brian Jack's Superstar Challenge|||||||
+124045|Brick 'em In|Brick 'em In|||||||
+124046|Bridge Head|Bridge Head|||||||
+50049A|Bridge Mentor 2 V1.1|Bridge Mentor II v1.1|||||||
+124047|Bridge To The East|Bridge To The East|||||||
+50051A|Broadway Boogie|Broadway Boogie|||||||
+124048|Bruce Forsyth's Play Your Cards Right|Bruce Forsyth's Play Your Cards Right|||||||
+50052A|Bruce Lee|Bruce Lee||Platform,|1||Datasoft|U.S Gold|1984
+50053A|Bubble Bobble!|Bubble Bobble!|||||||
+124049|Buffalo Bill's Wild West Show|Buffalo Bill's Wild West Show||Action,Sports,|4||Tynesoft Computer Software|Microvalue|1989
+50054A|Bug|Bug|||||||
+50055A|Bug Blaster|Bug Blaster||Shooter,|1||Steve Evans|Alligata|1983
+50056A|Bug Bomb|Bug Bomb|||||||
+50057A|Bug Eyes|Bug Eyes||Platform,|1||Jason Sobell|Icon|1985
+50058A|Bug Eyes 2 - Starman To The Rescue|Bug Eyes 2 - Starman to the Rescue|||||||
+50059A|Bullseye|Bullseye||Sports,Quiz,|2||Macsen Software|Macsen Software|1984
+50060A|Bumble Bee V2.0|Bumble Bee v2.0|||||||
+50061A|Bun Fun|Bun Fun|||||||
+50063A|Bush Rescue|Bush Rescue|||||||
+50064A|Business Games|Business Games|||||||
+50065A|By Fair Means Or Foul|By Fair Means or Foul||Sports,||||Superior Software Ltd.|1988
+50066A|Caesar The Cat|Caesar the Cat|||||||
+50067A|Calligraphy|Calligraphy|||||||
+50068A|Camelot|Camelot||Action,Adventure,Puzzle,|1||Tony Oakden|Superior Software|1990
+50069A|Candy Floss|Candy Floss|||||||
+50070A|Canyon Battle|Canyon Battle|||||||
+124050|Carnival|Carnival|||||||
+50071A|Carousel|Carousel||Action,|1||Acornsoft|Acornsoft|1983
+50072A|Casino - Roulette|Casino - Roulette|||||||
+50073A|Castle Assault|Castle Assault||Platform,|1||MRM Software|MRM Software|1984
+50074A|Castle Blackstar|Castle Blackstar||Adventure,|1||SCR|CDS|1990
+124051|Castle Dracula|Castle Dracula|||||||
+50075A|Castle Frankenstein - Epic Adventure 1|Castle Frankenstein - Epic Adventure 1|||||||
+50076A|Castle Of Gems|Castle of Gems|||||||
+50077A|Castle Of Riddles V1|Castle of Riddles v1|||||||
+50078A|Castle Of Riddles V2|Castle of Riddles v2|||||||
+50079A|Castle Of The Skull Lord|Castle of the Skull Lord|||||||
+50080A|Castle Quest|Castle Quest||Action,Adventure,|1||Tony Sothcott|Micro Power|1985
+124052|Castlemaze Adventure|Castlemaze Adventure|||||||
+50081A|Catacastles|Catacastles|||||||
+50082A|Caterpillar|Caterpillar|||||||
+50083A|Caveman Capers|Caveman Capers||Platform,|1||Jason Sobell|Alternative Software|1985
+50084A|Cavern Quest|Cavern Quest|||||||
+50086A|Cavey|Cavey||Shooter,|1||Philip Oliver|Players Software|1986
+50087A|Caving|Caving|||||||
+50088A|Cells And Serpents|Cells and Serpents|||||||
+50089A|Centipede|Centipede||Shooter,|1||Atari|Superior Software|1982
+50090A|Centipede - Centibug|Centipede - Centibug|||||||
+50091A|Challenger|Challenger||Shooter,|1||John Walsh|Mastertronic|1983
+124053|Champions!|Champions!|||||||
+124054|Chark|Chark|||||||
+124055|Chart Challenge 88|Chart Challenge 88|||||||
+50092A|Chatter|Chatter|||||||
+50093A|Chauffeur - Digimouse|Chauffeur - Digimouse|||||||
+50094A|Cheat It Again Joe - Vol. 1|Cheat it Again Joe - Vol. 1|||||||
+50095A|Cheat It Again Joe - Vol. 2|Cheat it Again Joe - Vol. 2|||||||
+50096A|Cheat It Again Joe - Vol. 3|Cheat it Again Joe - Vol. 3|||||||
+50097A|Cheats 'n Things - Disc 2|Cheats 'n Things - Disc 2|||||||
+50098A|Checkouts|Checkouts|||||||
+50099A|Cheese|Cheese|||||||
+50100A|Chemical Structures|Chemical Structures|||||||
+50101A|Cheshire Cat|Cheshire Cat|||||||
+50102A|Chess|Chess||Strategy,Board Game,|2||Arthur Norman, Nick Pelling|Acornsoft|1983
+50103A|Chess V2|Chess v2|||||||
+50104A|Chess V2.32|Chess v2.32|||||||
+50105A|Chicane|Chicane||Racing,|1||Kempston|Kempston|1985
+50106A|Chichen Itza|Chichen Itza||Action,Adventure,|1||Simon Oliver|Alligata|1984
+50107A|Chieftan|Chieftan|||||||
+50108A|Chip Buster|Chip Buster||Platform,|1||Software Invasion|Software Invasion|1985
+50109A|Cholo|Cholo||Shooter,Vehicle Simulation,|1||Solid Image|Firebird|1986
+50110A|Chopper 2|Chopper II|||||||
+50111A|Christmas Carol Music|Christmas Carol Music|||||||
+50112A|Christmas Crackers|Christmas Crackers|||||||
+50113A|Chrysalis|Chrysalis||Action,Puzzle,|1||Icon|Icon|1985
+50114A|Chuckie Egg|Chuckie Egg||Platform,|1||A&amp;F Software|A&amp;F Software|1983
+50115A|Chuckie Egg - Chukee|Chuckie Egg - Chukee|||||||
+50116A|Chuckie Egg - Egg, The Upgrade|Chuckie Egg - Egg, The Upgrade|||||||
+50117A|Circus|Circus|||||||
+124056|Circus Games|Circus Games||Action,|2||Tynesoft|Tynesoft|1988
+50118A|Citadel|Citadel||Action,Adventure,|1||Michael Jakobsen|Superior Software|1985
+50119A|Citadel 2 V1.6|Citadel 2 v1.6|||||||
+50120A|City Defence|City Defence|||||||
+50121A|Classic Adventure|Classic Adventure||Adventure,|1||Abersoft|Melbourne House|1985
+124057|Classic Arcade Games|Classic Arcade Games|||||||
+50122A|Click The Easel|Click the Easel|||||||
+50123A|Clogger|Clogger||Puzzle,|1||Gordon Key|Impact|1988
+124058|Cloudburst|Cloudburst|||||||
+50124A|Cluedo|Cluedo||Strategy,||||Leisure Genius|1986
+50125A|Codename Droid|Codename Droid||Action,Adventure,|1||Martin Edmondson|Superior Software|1987
+50126A|Codename-droid, Stryker's Run Part 2|Codename-Droid, Stryker's Run Part 2|||||||
+50127A|Colditz Adventure|Colditz Adventure||Adventure,|1||Martin Dolby|Superior Software|1983
+124059|Colony|Colony|||||||
+50128A|Colossal Adventure|Colossal Adventure||Adventure,|1||Level 9 Computing|Level 9 Computing|1983
+50129A|Colossus 4.0 - Chess|Colossus 4.0 - Chess|||||||
+50130A|Colour Printer Dump Programs|Colour Printer Dump Programs|||||||
+50131A|Combat Lynx|Combat Lynx||Action,Flight Simulator,|1||Durell Software|Durell Software|1984
+50132A|Combat Phantom F4|Combat Phantom F4|||||||
+50133A|Commando|Commando||Action,|2||Trevor Harwood, John Nixon|Elite|1985
+50134A|Commonwealth Games|Commonwealth Games||Sports,|4||Tynesoft|Tynesoft|1986
+50136A|Compose|Compose|||||||
+124062|Condition Red|Condition Red||Platform,|1||Jonathan Temple|Blue Ribbon|1987
+50137A|Conect 121+|Conect 121+|||||||
+124063|Confrontation|Confrontation||Strategy,||||M.C. Lothlorien Ltd|1983
+50138A|Confuzion|Confuzion||Puzzle,|1||Incentive Software|Alternative Software|1985
+124064|Conquering Everest|Conquering Everest|||||||
+50139A|Contract Bridge|Contract Bridge||Strategy,|1||Chris Burkinshaw|Alligata|1983
+50140A|Contraption|Contraption||Platform,|1||Dave Mann|Icon|1985
+50141A|Convoy|Convoy|||||||
+50142A|Cook Beans On Toast! - Cooking Simulation|Cook Beans on Toast! - Cooking Simulation|||||||
+124065|Cookie|Cookie|||||||
+124066|Cops|Cops|||||||
+50143A|Cops N Robbers|Cops n Robbers|||||||
+50144A|Copter Capers|Copter Capers||Action,|1||A&amp;F Software|A&amp;F Software|1984
+124067|Corn Cropper|Corn Cropper|||||||
+50145A|Corporate Climber|Corporate Climber||Platform,|1||Dynabyte|Dynabyte|1983
+50146A|Cosmic Asteroids|Cosmic Asteroids||Shooter,|1||Steve Evans|Alligata|1983
+50147A|Cosmic Camouflage|Cosmic Camouflage|||||||
+50148A|Cosmic Combat|Cosmic Combat||Shooter,|2||Alexander Selby|Micro Power|1983
+50149A|Cosmic Cruiser|Cosmic Cruiser||Action,Shooter,|1||Imagine|Imagine|1984
+50150A|Cosmic Fighter|Cosmic Fighter|||||||
+50151A|Cosmic Kidnap|Cosmic Kidnap||Shooter,|1||Nick Wilson|Superior Software|1983
+50152A|Countdown|Countdown||Educational,|||Macsen Software|Macsen Software|1986
+50153A|Countdown To Doom|Countdown to Doom||Adventure,||||Acornsoft Limited|1982
+50154A|Cowboy Shootout|Cowboy Shootout|||||||
+50155A|Cpr 1|CPR 1|||||||
+50156A|Crack-up|Crack-Up||Action,||||Atlantis Software Limited|1989
+50157A|Cranky|Cranky||Educational,|||Applied Systems Knowledge Ltd.|Acornsoft Limited|1983
+50158A|Crawler|Crawler|||||||
+50159A|Crazee Rider|Crazee Rider||Racing,|1||Kevin Edwards|Superior Software|1987
+50160A|Crazy Balloon|Crazy Balloon|||||||
+50161A|Crazy Balloon V1.2|Crazy Balloon v1.2|||||||
+124068|Crazy Caves|Crazy Caves|||||||
+50162A|Crazy Erbert|Crazy Erbert||Platform,|1||Dave Kirby &amp; Paul Shirley|Alternative Software|1988
+50163A|Crazy Painter|Crazy Painter||Puzzle,|1||Adrian Stephens|Superior Software|1984
+50164A|Crazy Quotes|Crazy Quotes|||||||
+50165A|Crazy Tracer|Crazy Tracer||Platform,|1||Wal Mansell|Acornsoft|1984
+50166A|Creative Graphics|Creative Graphics|||||||
+50167A|Cred Breaks Out!|Cred Breaks Out!|||||||
+50168A|Creepy Cave|Creepy Cave||Platform,|1||Rob Dulstone|Atlantis|1989
+50169A|Cribbage|Cribbage||Strategy,|1|||Superior Software|1983
+50170A|Cricket|Cricket|||||||
+50171A|Croaker|Croaker||Platform,|1||Chris Butler|Micro Power|1983
+124069|Croakit|Croakit|||||||
+50172A|Crooks|Crooks|||||||
+50173A|Crosswords|Crosswords|||||||
+50174A|Crown Of Mardan|Crown of Mardan|||||||
+50175A|Cruncher|Cruncher|||||||
+50176A|Crypt Capers|Crypt Capers||Action,Puzzle,|1||Michael Jakobsen|Software Projects|1984
+50177A|Crypt Paint 2|Crypt Paint II|||||||
+50178A|Crystal Castles|Crystal Castles||Action,|1||Atari|US Gold|1986
+50179A|Cube Master|Cube Master||Puzzle,|1||Robert MacMillan|Acornsoft|1982
+50180A|Cubert|Cubert|||||||
+124070|Culbertson's Revenge - Brain Aerobics|Culbertson's Revenge - Brain Aerobics|||||||
+50182A|Custard Pie Fight|Custard Pie Fight|||||||
+50183A|Cybertron|Cybertron|||||||
+50184A|Cyborg Warriors|Cyborg Warriors|||||||
+50185A|Cylon Attack|Cylon Attack||Shooter,|1||Doug Anderson|A&amp;F Software|1983
+124071|Cylon Invasion|Cylon Invasion||Shooter,|1||Dave Croft, Ian Elliott|Tynesoft Computer Software|1986
+124072|Daark|Daark|||||||
+50186A|Daley Thompson's Super Test|Daley Thompson's Super Test|||||||
+124073|Dallas|Dallas|||||||
+50187A|Dam Busters|Dam Busters|||||||
+50189A|Dam Raider|Dam Raider|||||||
+50190A|Danger Uxb|Danger UXB|||1||Peter Averill|Micro Power|1983
+50191A|Dare Devil Denis|Dare Devil Denis||Platform,|1||Simon Pick|Visions|1984
+50192A|Darts|Darts||Sports,|2||David Griffin|Your Computer (IPC Electrical-Electronic Press Ltd.)|1984
+50193A|Data Exchange Diagnostics Disk|Data Exchange Diagnostics Disk|||||||
+50194A|Database|Database|||||||
+50195A|Day And Night|Day and Night|||||||
+124074|Dead Or Alive|Dead Or Alive|||||||
+50196A|Death Duel|Death Duel|||||||
+50197A|Death Star|Death Star|||||||
+124075|Death's Head Hole|Death's Head Hole|||||||
+50198A|Defence Com|Defence Com|||||||
+50199A|Defender|Defender||Shooter,|1||Neill Raine|Acornsoft|1982
+50200A|Demolator|Demolator||Shooter,|1||Visions|Visions|1983
+50201A|Demon Decorator|Demon Decorator|||1|||Micro Power|1983
+124076|Denis Through The Drinking Glass|Denis Through The Drinking Glass|||||||
+50202A|Despatch Rider|Despatch Rider||Action,|1||Phil Whitehurst|Audiogenic|1987
+50203A|Desperate Dan's Dungeon|Desperate Dan's Dungeon|||||||
+50204A|Destroyed Realities Issue 1|Destroyed Realities Issue 1|||||||
+50205A|Devil's Causeway|Devil's Causeway|||||||
+50207A|Diamond Mine|Diamond Mine|||||||
+50208A|Diamond Mine 2|Diamond Mine II||Strategy,||||Blue Ribbon Software Ltd.|1986
+50209A|Diamond Pete|Diamond Pete|||||||
+124077|Diamonds|Diamonds|||||||
+50210A|Dickie Brickie Part 1|Dickie Brickie Part 1|||||||
+50211A|Dictator|Dictator||Strategy,|||dk'tronics|dk'tronics|1983
+50212A|Digger|Digger||Puzzle,|1||Visions|Visions|1983
+50213A|Dino And The Saurus Races|Dino and the Saurus Races|||||||
+124078|Dinosaur Adventure|Dinosaur Adventure|||||||
+50214A|Dinosaur Discovery|Dinosaur Discovery||Educational,|||4Mation Educational Resources Ltd|Jacaranda Wiley Ltd.|1985
+50215A|Discmaster|Discmaster|||||||
+50216A|Dive Bomber|Dive Bomber|||||||
+50217A|Dodge Em|Dodge Em|||||||
+50218A|Dodgy Geezers|Dodgy Geezers|||||||
+50219A|Dog Fight|Dog Fight|||||||
+50220A|Dogfight|DogFight|||||||
+50221A|Dominoes|Dominoes|||||||
+50222A|Donkey Kong Jr.|Donkey Kong Jr.|||||||
+50223A|Doodle|Doodle|||||||
+50224A|Double Phantom Combat|Double Phantom Combat|||||||
+50225A|Dr. Who - The First Adventure|Dr. Who - The First Adventure|||||||
+50226A|Dr. Who And The Mines Of Terror!|Dr. Who and the Mines of Terror!|||||||
+124079|Dracula Adventure|Dracula Adventure|||||||
+50227A|Dracula Island|Dracula Island|||||||
+50228A|Dracula Island V1.1|Dracula Island v1.1|||||||
+124080|Dragon Quest|Dragon Quest|||||||
+50229A|Dragon Rider|Dragon Rider||Action,|1||Salamander|Salamander|1983
+50230A|Dragon World|Dragon World|||||||
+50231A|Dragon's Tooth|Dragon's Tooth|||||||
+50232A|Drain Mania|Drain Mania||Platform,|1||Icon|Icon|1985
+50233A|Draughts|Draughts||Board Game,|1||Peter Averill|Micro Power|1983
+124081|Draughts V2.1|Draughts V2.1|||||||
+50234A|Drogna|Drogna||Puzzle,|2||Patrick Dowling|Acornsoft|1983
+124082|Druid's Circle, The|Druid's Circle, The|||||||
+124083|Drunken Dan|Drunken Dan|||||||
+50235A|Duck Shoot - Sharp Conversion V0.5|Duck Shoot - Sharp Conversion v0.5|||||||
+50236A|Duck!|Duck!|||||||
+50237A|Dune Fighters V1.0|Dune Fighters v1.0|||||||
+50238A|Dune Hunter|Dune Hunter|||||||
+50239A|Dune Rider|Dune Rider||Shooter,|1||Micro Power|Micro Power|1984
+50240A|Dungeon Adventure|Dungeon Adventure||Adventure,|1||Level 9 Computing|Level 9 Computing|1984
+50241A|Dunjunz|Dunjunz||Action,|4||Julian Avis|Bug-Byte|1986
+50242A|E-type|E-Type||Racing,||||Fourth Dimension, The|1990
+50243A|Eagle|Eagle||Action,|1||Salamander|Salamander|1984
+50244A|Eagle Empire|Eagle Empire||Action,Shooter,|2||Alligata|Alligata|1983
+124084|Eagle's Wings|Eagle's Wings|||||||
+124085|Ebony Tower|Ebony Tower|||||||
+50245A|Eddie Kidd Jump Challenge|Eddie Kidd Jump Challenge||Vehicle Simulation,|1||Martech|Martech|1985
+124086|Egyptian Adventure|Egyptian Adventure|||||||
+50246A|Eldorado Gold|Eldorado Gold||Adventure,|1||David Elliot|Micro Power|1982
+50247A|Electric Fields|Electric Fields|||||||
+50248A|Electro Freddy|Electro Freddy|||||||
+50249A|Elite|Elite||Flight Simulator,Strategy,|1||David Braben, Ian Bell|Acornsoft|1984
+50250A|Elite - Commander Editor|Elite - Commander Editor|||||||
+50251A|Elite - Commander Utilities|Elite - Commander Utilities|||||||
+50252A|Elixir|Elixir||Platform,Puzzle,|1||Christopher Hyde|Superior Software|1987
+50253A|Elmtree Farm V1.3|Elmtree Farm v1.3|||||||
+50254A|Emerald Isle|Emerald Isle||Adventure,|1||Level 9 Computing|Level 9 Computing|1984
+50255A|Emily|Emily|||||||
+124087|Emlyn Hughes Arcade Quiz|Emlyn Hughes Arcade Quiz|||||||
+50256A|Emperor|Emperor|||||||
+50257A|Empire|Empire|||||||
+124088|English Civil War|English Civil War|||||||
+50258A|Enthar Seven, The Mega Adventure|Enthar Seven, The Mega Adventure|||||||
+124089|Entropy|Entropy|||||||
+50259A|Er-bert|Er-Bert|||||||
+50260A|Erik The Viking|Erik the Viking|||||||
+50261A|Escape From Orion|Escape from Orion|||||||
+50262A|Estra|Estra||Action,Puzzle,|1||Firebird Software|Firebird Software|1984
+50263A|Etch A Sketch|Etch a Sketch|||||||
+50264A|European Knowledge|European Knowledge|||||||
+50265A|Europhile V1.1|Europhile v1.1|||||||
+50266A|Evening Star|Evening Star||Vehicle Simulation,|1||Hewson Consultants|Hewson Consultants|1987
+50268A|Evil Weevils|Evil Weevils|||||||
+50269A|Ewgeebez|Ewgeebez|||||||
+50270A|Exile|Exile||Action,Adventure,|1||Peter Irvin|Superior Software|1988
+50271A|Exile V3.0|Exile v3.0|||||||
+50272A|Exterminator|Exterminator|||||||
+124090|Eye of Zolton, The|Eye of Zolton, The|||||||
+50273A|Eye Vs Eye|Eye vs Eye|||||||
+124091|F For Freddie|F For Freddie|||||||
+50274A|F.s.s. Liberator|F.S.S. Liberator|||||||
+124092|F14 Tomcat|F14 Tomcat|||||||
+50275A|Facemaker|Facemaker||Educational,|||Applied Systems Knowledge Ltd.|Acornsoft Limited|1983
+50276A|Fairground|Fairground||Shooter,|1||S L Ross|Superior Software|1983
+50277A|Fairy Tales|Fairy Tales|||||||
+124093|Fall of Rome, The|Fall of Rome, The|||||||
+124094|Family Games|Family Games|||||||
+124095|Fantasia Diamond|Fantasia Diamond||Adventure,|1||Kim Topley|Hewson Consultants|1984
+50278A|Fantasy Clipart|Fantasy Clipart|||||||
+50279A|Fast Pacman|Fast Pacman|||||||
+50280A|Fat Man Sam|Fat Man Sam||Platform,|1||Phil Whitehurst|Firebird|1985
+50281A|Felix And The Fruit Monsters|Felix and the Fruit Monsters|||||||
+124096|Felix And The Weevils|Felix And The Weevils|||||||
+50282A|Felix In The Factory|Felix in the Factory||Action,||||Micro Power Ltd|1982
+50283A|Felix Meets The Evil Weevils|Felix Meets the Evil Weevils|||||||
+124097|Ferryman Awaits, The|Ferryman Awaits, The|||||||
+50284A|Fighter Pilot|Fighter Pilot|||||||
+124098|Fire Hawks|Fire Hawks||Shooter,|1||David Hoskins|Postern|1983
+124099|Fire Island|Fire Island|||||||
+50285A|Fire Track|Fire Track|||1||Nick Pelling|Electric Dreams|1987
+50286A|Firebug|Firebug||Platform,|1||Acornsoft|Acornsoft|1984
+50287A|Firechief|Firechief|||||||
+50288A|Firien Wood|Firien Wood|||||||
+124100|First Moves - Chess|First Moves - Chess|||||||
+50289A|Fistful Of Fun|Fistful of Fun|||||||
+124101|Five Doctors, The|Five Doctors, The|||||||
+124102|Five Spheres, The|Five Spheres, The|||||||
+124103|Five Stones of Anadon, The|Five Stones of Anadon, The|||||||
+124104|Five, The|Five, The|||||||
+124105|Five-a-side Football|Five-a-side Football|||||||
+50290A|Flags|Flags|||||||
+124106|Flash|Flash|||||||
+50291A|Fleet Street Editor|Fleet Street Editor|||||||
+50292A|Fleet Street Editor - Library|Fleet Street Editor - Library|||||||
+50293A|Fletcher's Castle|Fletcher's Castle|||||||
+50295A|Flight Simulation|Flight Simulation|||||||
+50296A|Flight Simulator|Flight Simulator|737 Flight Simulator||||||
+124107|Flint Strikes Back|Flint Strikes Back|||||||
+124108|Flint's Gold|Flint's Gold|||||||
+124109|Flip!|Flip!|||||||
+50297A|Floor Robots - Vol. 1|Floor Robots - Vol. 1|||||||
+50298A|Floor Robots - Vol. 2|Floor Robots - Vol. 2|||||||
+50299A|Flowers Of Crystal|Flowers of Crystal|||||||
+50301A|Fonts And Cutouts Disc V2|Fonts & Cutouts Disc v2|||||||
+50302A|Foods Database 1|Foods Database 1|||||||
+50303A|Foods Database 2|Foods Database 2|||||||
+124110|Football|Football|||||||
+124111|Football Director|Football Director|||||||
+50304A|Football Manager|Football Manager||Construction and Management Simulation,Sports,|1||Addictive Games Ltd|Addictive Games Ltd|1984
+50305A|Football Supremo|Football Supremo|||||||
+50306A|Footballer Of The Year|Footballer of the Year||Sports,|||Gremlin Graphics Software Ltd.|Gremlin Graphics Software Ltd.|1986
+50307A|Forbidden Fruit|Forbidden Fruit|||||||
+50308A|Formula One|Formula One|||||||
+50309A|Fortress|Fortress||Shooter,|1||Mat Newman|PACE|1983
+50310A|Four In A Row|Four in a Row|||||||
+124112|Four Wands, The|Four Wands, The|||||||
+50311A|Frak!|Frak!||Platform,|1||Nick Pelling|Aardvark|1984
+50312A|Frankenstein 2000 V1.0|Frankenstein 2000 v1.0|||||||
+50313A|Franklin's Tomb|Franklin's Tomb|||||||
+50314A|Free Fall|Free Fall||Action,|1||Ian Bell|Acornsoft|1983
+50315A|Freefall|Freefall|||||||
+50316A|French Mistress|French Mistress|||||||
+50317A|French On The Run|French on the Run|||||||
+50318A|Frenzy|Frenzy||Puzzle,Strategy,|1||Micro Power|Micro Power|1983
+124113|Frog, The|Frog, The|||||||
+50319A|Frogger|Frogger||Platform,|1||John Dyson|Superior Software|1983
+124114|Froglet|Froglet|||||||
+50320A|Fruit Machine|Fruit Machine||Casino,|1||Richard Hanson|Superior Software|1982
+50321A|Fruit Machine V2|Fruit Machine v2|||||||
+50322A|Fruit Worm|Fruit Worm|||||||
+124115|Fruity Freddy|Fruity Freddy||Platform,|1||Chris Butler|SoftSpot|1983
+50323A|Fruity Machine|Fruity Machine|||||||
+50324A|Fun Fair|Fun Fair|||||||
+50325A|Fun School 3|Fun School III|||||||
+50326A|Future Shock|Future Shock||Action,Adventure,|1||The Art Crew|Tynesoft|1986
+50327A|G.a.c|G.A.C|||||||
+50328A|Galactic Commander|Galactic Commander||Action,Quiz,|1|||Micro Power|1982
+124116|Galactic Empire|Galactic Empire|||||||
+124117|Galactic Firebird|Galactic Firebird|||||||
+50329A|Galactic Landers|Galactic Landers|||||||
+50330A|Galactic Patrol|Galactic Patrol||Shooter,|1||Mastertronic|Mastertronic|1984
+50331A|Galactic Wipeout|Galactic Wipeout|||||||
+124118|Galadriel In Distress|Galadriel In Distress|||||||
+50332A|Galaforce|Galaforce||Shooter,|1||Kevin Edwards|Superior Software|1986
+50333A|Galaforce 2|Galaforce 2||Shooter,|1||Kevin Edwards|Superior Software|1988
+50334A|Galaxians|Galaxians||Shooter,|1||Richard Hanson|Superior Software|1982
+50335A|Galaxy Birds|Galaxy Birds|||||||
+124119|Galaxy Raiders|Galaxy Raiders||Strategy,|1||Visions|Visions|1984
+50336A|Galaxy Wars|Galaxy Wars|||||||
+50337A|Galilee|Galilee|||||||
+50338A|Gambit|Gambit|||||||
+124120|Garden|Garden|||||||
+50339A|Gate Crasher|Gate Crasher|||||||
+50340A|Gateway To Karos|Gateway to Karos||Adventure,|1||Acornsoft|Acornsoft|1983
+124121|Gateway To The Skies|Gateway To The Skies|||||||
+50341A|Gauntlet|Gauntlet|||||||
+124122|Genesis Project, The|Genesis Project, The|||||||
+50342A|Geoff Capes Strong Man|Geoff Capes Strong Man|||||||
+50343A|Geordie Racer|Geordie Racer|||||||
+124123|Get Fit Set, The|Get Fit Set, The|||||||
+50344A|Ghost Hunter|Ghost Hunter|||||||
+124124|Ghostbusters|Ghostbusters|||||||
+124125|Ghoulies|Ghoulies|||||||
+50345A|Ghouls|Ghouls||Platform,|1||David J. Hoskins|Micro Power|1983
+50346A|Giantkiller|Giantkiller|||||||
+50347A|Gideon's Gamble|Gideon's Gamble||Adventure,|1||Robin Burgess|Superior Software|1983
+50348A|Gimpo|Gimpo|||||||
+50349A|Gisburne's Castle|Gisburne's Castle||Action,Adventure,|1||David Wainwright|Martech|1984
+50350A|Gladiator|Gladiator|||||||
+124126|Glider Pilot|Glider Pilot|||||||
+50351A|Gnome Adventure|Gnome Adventure|||||||
+124127|Gnome Ranger|Gnome Ranger||Adventure,|1||Level 9 Computing|Level 9 Computing|1987
+124128|Go|Go||Strategy,|2||Charles Matthews|Acornsoft|1984
+50352A|Goal! - Bbc Version|Goal! - BBC Version|||||||
+50353A|Going Places - Disc 1|Going Places - Disc 1|||||||
+124129|Gold Digger|Gold Digger||Action,|1||Firebird Software|Firebird Software|1984
+124130|Golden Figurine, The|Golden Figurine, The|||||||
+124131|Goldrun|Goldrun|||||||
+50354A|Golf|Golf|||||||
+50355A|Golf - Welcome To The Links!|Golf - Welcome to the Links!|||||||
+50356A|Gomoku|Gomoku|||||||
+50357A|Gorf|Gorf||Shooter,|1||Dave Nutting Associates|Doctor Soft|1983
+50358A|Gorph|Gorph|||||||
+50359A|Grabit|Grabit|||||||
+50360A|Graham Gooch's Test Cricket|Graham Gooch's Test Cricket||Sports,||||Audiogenic Software Ltd.|1985
+50361A|Grand Prix Construction Set|Grand Prix Construction Set||Racing,|2||A Bradley|Acornsoft|1987
+50362A|Granny's Garden|Granny's Garden||Educational,|||4Mation Educational Resources Ltd|4Mation Educational Resources Ltd|1983
+50363A|Graphics Adventure Creator|Graphics Adventure Creator|||||||
+50364A|Great Britain Limited|Great Britain Limited||Educational,|||Simon Hessel Software|Simon Hessel Software|1982
+124132|Great Wall, The|Great Wall, The|||||||
+124133|Greedy Dwarf|Greedy Dwarf|||||||
+50365A|Green Beret|Green Beret||Action,|1||Konami|The Hit Squad|1989
+50366A|Gremlins - The Adventure|Gremlins - The Adventure||Adventure,|||Adventure International (UK)|Adventure International (UK)|1985
+50367A|Grid Cycle|Grid Cycle|||||||
+124134|Grid Iron|Grid Iron|||||||
+50368A|Grid Worz|Grid Worz|||||||
+50369A|Gridman|Gridman|||||||
+50370A|Griffin Basic Mathematics|Griffin Basic Mathematics|||||||
+50371A|Growing Pains|Growing Pains|||||||
+124135|Growing Pains of Adrain Mole, The|Growing Pains of Adrain Mole, The|||||||
+50372A|Growing Yourself|Growing Yourself|||||||
+50373A|Guardian|Guardian||Action,Shooter,|1||Alligata|Alligata|1984
+50374A|Gulp!|Gulp!||Platform,|1||Peaksoft|Peaksoft|1983
+50375A|Gunfighter|Gunfighter||Action,||||Atlantis Software Limited|1990
+124136|Guns of Navarone, The|Guns of Navarone, The|||||||
+50376A|Gunsmoke|Gunsmoke|||||||
+50378A|Gyroscope|Gyroscope||Puzzle,|1||Catalyst Coders|Melbourne House|1986
+124137|Hacker 2000|Hacker 2000|||||||
+50379A|Hacker Jargon|Hacker Jargon|||||||
+50381A|Ham - Utilities V2.21|Ham - Utilities v2.21|||||||
+124138|Hampstead|Hampstead|||||||
+50382A|Hangdroid|Hangdroid|||||||
+50383A|Hangman|Hangman|||||||
+50384A|Hareraiser|Hareraiser|||||||
+50385A|Harmony|Harmony|||||||
+50386A|Harvey Headbanger|Harvey Headbanger|||||||
+50387A|Hatrace Game Vb0.3|Hatrace Game vB0.3|||||||
+124139|Head Coach Deluxe|Head Coach Deluxe|||||||
+50389A|Heathrow Atc|Heathrow ATC|||||||
+50390A|Hedgehog|Hedgehog|||||||
+50391A|Heist|Heist||Platform,|1||Marcus Altman|SoftSpot|1983
+50392A|Helldriver|Helldriver|||||||
+50393A|Hellforce|Hellforce|||||||
+50394A|Help Yourself - Maths|Help Yourself - Maths|||||||
+50395A|Helter Skelter|Helter Skelter||Platform,|2|Coop|The Assembly Line|Audiogenic|1990
+50396A|Hercules|Hercules||Platform,|1||Quantum Productions|The Power House|1987
+50397A|Hex|Hex|||||||
+124140|Hexagram Of Trutania Valley|Hexagram Of Trutania Valley|||||||
+50398A|Hexplode|Hexplode|||||||
+50399A|Hi-q Quiz|Hi-Q Quiz|||||||
+50400A|High Bouncers|High Bouncers|||||||
+50401A|High Rise Horror|High Rise Horror||Platform,|1||Simon Birrell|Virgin Games|1985
+50402A|Hitch Hiker|Hitch Hiker|||||||
+50403A|Hobbit|Hobbit|||||||
+124141|Hobgoblin V2.0|Hobgoblin V2.0|||||||
+50404A|Hockey|Hockey|||||||
+50405A|Holed Out - Cone Links|Holed Out - Cone Links|||||||
+50406A|Holed Out - Cone Links And Pine Isles|Holed Out - Cone Links & Pine Isles|||||||
+50407A|Holed Out - Dune Royal|Holed Out - Dune Royal|||||||
+124142|Holed Out - Dune Royal And Owlet Wood|Holed Out - Dune Royal And Owlet Wood|||||||
+50408A|Holed Out - Eagle Park|Holed Out - Eagle Park|||||||
+50409A|Holed Out - Glen Aigre|Holed Out - Glen Aigre|||||||
+124143|Holed Out - Glen Aigre And Eagle Park|Holed Out - Glen Aigre And Eagle Park|||||||
+50410A|Holed Out - Owlet Wood|Holed Out - Owlet Wood|||||||
+50411A|Holed Out - Pine Isles|Holed Out - Pine Isles|||||||
+50412A|Holy Horrors|Holy Horrors||Adventure,|1||Clive Webster|Romik|1984
+50413A|Honeybug|Honeybug|||||||
+50414A|Hopper|Hopper||Action,|1||Acornsoft|Acornsoft|1983
+124144|Horror Castle|Horror Castle|||||||
+50416A|Horse Race|Horse Race|||||||
+50417A|Hostages|Hostages||Action,|1||Infogrames|Superior Software|1988
+124145|House Of Horrors|House Of Horrors|||||||
+50418A|Hubert|Hubert|||||||
+50419A|Hunchback|Hunchback||Platform,|1||Century Electronics|Superior Software|1984
+50420A|Hunkidory|Hunkidory||Platform,|1||Peter Scott|Bug-Byte Software|1986
+50421A|Hunkie Egg|Hunkie Egg|||||||
+124146|Hyper Sports|Hyper Sports||Sports,|1||Konami|Imagine Software|1985
+50423A|Hyperball|Hyperball|||||||
+50424A|Hyperdrive|Hyperdrive||Shooter,|1||Howard Richards|IJK Software|1982
+50425A|Ian Botham's Test Match|Ian Botham's Test Match||Sports,||||Tynesoft Computer Software|1986
+50426A|Icarus|Icarus||Action,Adventure,|2||Powerhouse|Mandarin|1988
+50427A|Imogen|Imogen||Platform,Puzzle,|1||Michael St. Aubyn|Micro Power|1986
+50428A|Impact!|Impact!|||||||
+50429A|Impossible Mission|Impossible Mission||Action,Adventure,|1||Epyx|US Gold|1985
+124147|In Search Of Atahaulpa|In Search Of Atahaulpa|||||||
+50430A|Indoor Soccer|Indoor Soccer||Sports,|||Magnificent 7|Alternative Software Ltd.|1988
+50431A|Indoor Sports|Indoor Sports|||||||
+50432A|Inertia|Inertia||Puzzle,|1||The Fourth Dimension|The Fourth Dimension|1990
+124148|Infinity|Infinity||Action,Adventure,|1||White Panther|White Panther|1989
+50433A|Inheritance|Inheritance|||||||
+50434A|Inside Information V2.0|Inside Information v2.0|||||||
+50435A|Interbase Xmenu Rom|Interbase Xmenu ROM|||||||
+50437A|Intermail Letter Manager|InterMail Letter Manager|||||||
+124149|International Megasports|International Megasports|||||||
+124150|Inu|Inu|||||||
+50438A|Invaders|Invaders||Shooter,|1||John Dyson|Superior Software|1982
+50439A|Island Adventure|Island Adventure|||||||
+124151|Island Of Xaan|Island Of Xaan|||||||
+124152|Islandia|Islandia|||||||
+124153|It's Magic|It's Magic|||||||
+124154|J.r.|J.r.|||||||
+50440A|Jack And The Beanstalk|Jack and the Beanstalk||Platform,|1||Andrew Harley|Superior Software|1994
+50441A|Jack Attack|Jack Attack|||||||
+50442A|Jackie Wilson - Reet Petite|Jackie Wilson - Reet Petite|||||||
+50443A|James Bond 007 - The Living Daylights|James Bond 007 - The Living Daylights|||||||
+50444A|Janine|Janine|||||||
+50445A|Jcb Digger|JCB Digger|||||||
+50446A|Jedi Battle|Jedi Battle|||||||
+50447A|Jeremy Goes Jumping|Jeremy Goes Jumping|||||||
+50448A|Jet Boat|Jet Boat||Racing,|1||Robin Leatherbarrow|Software Invasion|1984
+50449A|Jet Boot Jack|Jet Boot Jack|||||||
+50450A|Jet Power Jack|Jet Power Jack||Platform,|1||Simon Phipps|Micro Power|1984
+50451A|Jet-pac|Jet-Pac|||||||
+50452A|Jetset Willy|Jetset Willy|||||||
+50453A|Jetset Willy 2|Jetset Willy II|||||||
+50454A|Jigsaw|Jigsaw|||||||
+124155|Joe Blade|Joe Blade||Action,|1||Wayne Dobson|Players Software|1988
+50455A|Joe Blade 2|Joe Blade 2|||||||
+50456A|Joey|Joey||Platform,|1||Blue Ribbon|Blue Ribbon|1985
+50457A|Johnny Reb|Johnny Reb||Strategy,|2||M.C. Lothlorien|Lothlorien|1983
+50458A|Joust|Joust|||||||
+50459A|Jouster|Jouster|||||||
+50460A|Jumbo|Jumbo|||||||
+50461A|Jump Jet|Jump Jet||Flight Simulator,|1||Vaughan Dow|Anirog Software Ltd.|1985
+50462A|Jungle Jive|Jungle Jive||Shooter,|1||Dennis Ibbotson|Virgin Games|1984
+124156|Jupiter 3 - Shipwrecked 2|Jupiter 3 - Shipwrecked 2|||||||
+50463A|Just A Mot|Just a Mot|||||||
+50464A|Kamikaze|Kamikaze|||||||
+50465A|Kane|Kane||Shooter,|1|||Mastertronic|1986
+50466A|Karate Combat|Karate Combat||Fighting,|2||Martin Sykes|Superior Software|1986
+50467A|Karl's Cavern|Karl's Cavern|||||||
+124157|Katakombs|Katakombs|||||||
+124158|Kensington|Kensington|||||||
+124159|Ket Trilogy, The|Ket Trilogy, The|||||||
+50468A|Keyboard Skills Course|Keyboard Skills Course|||||||
+50469A|Keydef 10|KeyDef 10|||||||
+124160|Kidknapped - Adventure No. 1|Kidknapped - Adventure No. 1|||||||
+124161|Killapede|Killapede||Action,||||Players Software|1986
+50470A|Killer Gorilla|Killer Gorilla||Platform,|1||Adrian Stephens|Adrian Stephens|1983
+50471A|Killer Gorilla 2|Killer Gorilla 2|||||||
+50472A|Killer Gorilla Upgrade|Killer Gorilla Upgrade|||||||
+50473A|Killer Priscilla|Killer Priscilla|||||||
+50475A|King Lear - Parts 1 To 9|King Lear - Parts 1 to 9|||||||
+50476A|Kingdom Of Hamil|Kingdom of Hamil|||||||
+50477A|Kingdom Of Klein, The - Epic Adventure 3|Kingdom of Klein, The - Epic Adventure 3|||||||
+50478A|Kissin' Kousins|Kissin' Kousins||Action,|1||David Woodhouse|English Software Company|1985
+50479A|Kitchen Capers|Kitchen Capers|||||||
+50480A|Kitchen Chaos|Kitchen Chaos|||||||
+50481A|Kix|KIX|||||||
+50482A|Klax|Klax||Action,Puzzle,|1||Atari Games Corporation|Tengen|1990
+50483A|Knight Lore|Knight Lore||Action,Adventure,|1||Ashby Computers and Graphics Ltd|Ultimate Play the Game|1985
+50484A|Knitwear Designer|Knitwear Designer|||||||
+50485A|Kourtyard|Kourtyard||Action,|1||Mark Rogers|Go-Dax|1988
+50486A|Krakout!|Krakout!|||||||
+50487A|Krazy John|Krazy John|||||||
+124162|Kremlin, The|Kremlin, The|||||||
+50488A|Kryptogram|Kryptogram|||||||
+50489A|L - A Mathematical Adventure|L - A Mathematical Adventure|||||||
+50490A|Labyrinth|Labyrinth||Puzzle,Shooter,|1||Michael Mathison|Acornsoft|1984
+50491A|Labyrinths Of Lacoshe|Labyrinths of LaCoshe|||||||
+50492A|Ladder Maze|Ladder Maze||Adventure,Puzzle,|1||Peter Johnson|Superior Software|1983
+50493A|Lancelot|Lancelot||Adventure,|1||Level 9 Computing|Mandarin Software|1988
+50494A|Landfall 2|Landfall 2|||||||
+124163|Las Vegas|Las Vegas|||||||
+50495A|Laser Command|Laser Command||Shooter,|2||T Mabbs|Micro Power|1982
+50496A|Laser Reflex|Laser Reflex||Action,|1||John Colin|Talent Computing Systems|1984
+50499A|Last Of The Free|Last of the Free|||||||
+50500A|League Challege|League Challege|||||||
+50501A|Leap Frog|Leap Frog|||||||
+50502A|Ledgeman|Ledgeman||Platform,|1||Niall McCarroll|Software Projects|1984
+124164|Legion Adventure|Legion Adventure|||||||
+50503A|Lemming Syndrome|Lemming Syndrome|||||||
+50504A|Lester Leaps In|Lester Leaps In|||||||
+50505A|Let's Count|Let's Count|||||||
+50506A|Letter Puzzle|Letter Puzzle|||||||
+50507A|Liberator|Liberator|||||||
+124165|License To Kill|License To Kill|||||||
+50508A|Lifter|Lifter|||||||
+50509A|Light Cycle|Light Cycle|||||||
+50510A|Linkword French|Linkword French|||||||
+50511A|Little Red Riding Hood|Little Red Riding Hood|||||||
+124166|Locks Of Luck|Locks Of Luck|||||||
+50512A|Loco Motion!|Loco Motion!|||||||
+50513A|Loderunner|Loderunner|||||||
+50514A|Logotext V1.04|Logotext v1.04|||||||
+50515A|Looney Lift|Looney Lift|||||||
+50516A|Looney Loco|Looney Loco|||||||
+124167|Loopz|Loopz||Puzzle,|2||Audiogenic Software|Audiogenic Software|1991
+124168|Lord Of The Rings|Lord Of The Rings|||||||
+50517A|Lords Of Time|Lords of Time||Adventure,|||Level 9 Computing, Ltd.|Level 9 Computing, Ltd.|1983
+50518A|Lost City|Lost City||Adventure,|1||Robin Burgess|Superior Software|1983
+124169|Lost Crystal - Epic Adventure 5, The|Lost Crystal - Epic Adventure 5, The|||||||
+124005|Lost Frog And Merlin's Castle|Lost Frog And Merlin's Castle|||||||
+124170|Lost In Space|Lost In Space|||||||
+50519A|Ludo|Ludo|||||||
+50520A|Lunar Jetman|Lunar Jetman|||||||
+50521A|Lunar Jetman Special|Lunar Jetman Special|||||||
+124171|Lunar Lander|Lunar Lander|||||||
+124172|Lunar Rescue|Lunar Rescue||Shooter,|1||Steve Evans|Alligata|1983
+124173|Mad Monty|Mad Monty||Action,|1||John Cassar|Screenplay|1983
+50524A|Magic Adventure #1|Magic Adventure #1|||||||
+50525A|Magic Eel|Magic Eel|||||||
+50526A|Magic Mushrooms|Magic Mushrooms||Platform,|1||Acornsoft|Acornsoft|1985
+124174|Magnetic Moon|Magnetic Moon|||||||
+50527A|Main-line|Main-Line|||||||
+50528A|Mallory Manor|Mallory Manor|||||||
+124175|Mample|Mample|||||||
+50529A|Mandelbrot|Mandelbrot|||||||
+50530A|Mandelbrot And Julia|Mandelbrot and Julia|||||||
+50531A|Mango - Bbc Micro Version|Mango - BBC Micro Version|||||||
+50532A|Manic Miner|Manic Miner||Platform,|1||Matthew Smith|Software Projects|1984
+50533A|Mark Twain - What Is Man|Mark Twain - What is Man|||||||
+50534A|Mark Twain - What Is Man Part 1|Mark Twain - What is Man Part 1|||||||
+50535A|Mark Twain - What Is Man Part 2|Mark Twain - What is Man Part 2|||||||
+124176|Martian Adventure|Martian Adventure|||||||
+50536A|Martian Attack|Martian Attack||Shooter,|1||Jeremy Smith|Micro Power|1983
+50537A|Marvin The Paranoid Disk Copier|Marvin the Paranoid Disk Copier|||||||
+50538A|Master Break|Master Break||Sports,Quiz,|4||Wal Mansell|Acornsoft|1991
+124177|Masterbrain|Masterbrain|||||||
+50539A|Masterdisc Issue 5|MasterDisc Issue 5|||||||
+50540A|Masterdisc Issues 1, 2 And 3|MasterDisc Issues 1, 2 & 3|||||||
+124178|Mastermind|Mastermind|||||||
+124179|Masters Of The Universe|Masters Of The Universe|||||||
+50541A|Masterspy|Masterspy|||||||
+50542A|Match Day|Match Day||Sports,|2||Chris Roberts|Ocean Software|1985
+50543A|Mathemagical Adventure, A|Mathemagical Adventure, A|||||||
+50544A|Maze|Maze||Action,Adventure,|1||Tim Dobson|Acornsoft|1984
+50545A|Maze In Space, A|Maze in Space, A|||||||
+50546A|Maze Man|Maze Man|||||||
+124180|Mega Apocalypse|Mega Apocalypse|||||||
+50548A|Mega Rok|Mega Rok|||||||
+50549A|Megaforce|Megaforce|||||||
+50550A|Melogo|MeLogo|||||||
+50551A|Merlin Scribe|Merlin Scribe|||||||
+50552A|Merry Xmas Santa|Merry Xmas Santa||Platform,|1|||Icon|1985
+50553A|Meteor Mission|Meteor Mission||Action,|1||Wal Mansell|Acornsoft|1984
+50554A|Meteors|Meteors||Action,|1||Acornsoft|Acornsoft|1982
+124181|Micro Derby|Micro Derby|||||||
+50555A|Micro Fair|Micro Fair|||||||
+50556A|Micro Olympics|Micro Olympics||Sports,|||Database Software|Database Software|1984
+50557A|Microball|Microball||Action,|||Alternative Software Ltd.|Alternative Software Ltd.|1986
+50558A|Microbe|Microbe||Shooter,|1||Simon Birrell|Virgin Games|1983
+50559A|Microcosm|Microcosm||Platform,|1||Firebird Software|Firebird Software|1985
+124182|Microquest|Microquest|||||||
+50560A|Mikie|Mikie||Adventure,|2||Konami|Imagine Software|1984
+50561A|Millepede|Millepede|||||||
+50562A|Millionaire|Millionaire|||||||
+124183|Mined Out|Mined Out|||||||
+50564A|Mineshaft|Mineshaft||Platform,|1||Nick Wilson|Durell Software|1984
+50565A|Mirror Of Khoronz|Mirror of Khoronz|||||||
+50566A|Missile Attack|Missile Attack|||||||
+50567A|Missile Base|Missile Base||Shooter,|1||Andy Green|Acornsoft|1983
+50568A|Missile Control|Missile Control|||||||
+50569A|Missile Strike V1.1|Missile Strike v1.1|||||||
+124184|Mission|Mission|||||||
+124185|Mister Freeze|Mister Freeze|||||||
+50570A|Mix Mania 2|Mix Mania II|||||||
+50571A|Mix_ed And Run_bld V1 And Samples|Mix_Ed & Run_Bld v1 & Samples|||||||
+50572A|Model A Invaders|Model A Invaders|||||||
+124186|Mole!|Mole!|||||||
+50573A|Monaco|Monaco||Racing,|1||Steve Evans|Alligata|1983
+124187|Monkeynuts|Monkeynuts|||||||
+50574A|Monopoly|Monopoly||Strategy,|6||Brian Pearson|Leisure Genius|1985
+50575A|Monster Maze|Monster Maze|||||||
+50576A|Monsters|Monsters||Platform,|1||Tim Dobson|Acornsoft|1982
+50577A|Monsters V1|Monsters v1|||||||
+50578A|Monsters V2|Monsters v2|||||||
+50579A|Moon Buggy|Moon Buggy|||||||
+50580A|Moon Cresta|Moon Cresta||Shooter,|1||Nichibutsu|Incentive Software|1985
+50581A|Moon Mission|Moon Mission||Action,|1||Andrew Harley|Superior Software|1984
+50582A|Moon Raider|Moon Raider||Shooter,|1||David Elliot|Micro Power|1983
+50583A|Moonbase Alpha|Moonbase Alpha|||||||
+50584A|Moonbase Beta|Moonbase Beta|||||||
+124188|Morfix|Morfix|||||||
+50585A|Morley Electronics Utilities|Morley Electronics Utilities|||||||
+50586A|Morris Miner|Morris Miner|||||||
+50587A|Mouse Trap|Mouse Trap||Platform,|1||Chris Robson|Tynesoft|1986
+50588A|Mr. Do|Mr. Do|||||||
+50589A|Mr. Ee!|Mr. Ee!|||||||
+50590A|Mr. Men - First Steps|Mr. Men - First Steps|||||||
+50591A|Mr. Men - Mr. Noisy And Mr. Bounce|Mr. Men - Mr. Noisy & Mr. Bounce|||||||
+50592A|Mr. Mephisto|Mr. Mephisto|||||||
+50593A|Mr. Shifter|Mr. Shifter|||||||
+50594A|Mr. T's - Alphabet Games - Drawing Letters|Mr. T's - Alphabet Games - Drawing Letters|||||||
+50595A|Mr. T's - Alphabet Games - Letter Factory|Mr. T's - Alphabet Games - Letter Factory|||||||
+50596A|Mr. T's - In The Mystery Maze - Explore|Mr. T's - In the Mystery Maze - Explore|||||||
+50597A|Mr. T's - In The Mystery Maze - Pathfinder|Mr. T's - In the Mystery Maze - Pathfinder|||||||
+50598A|Mr. T's - Measuring Games - Growing|Mr. T's - Measuring Games - Growing|||||||
+50599A|Mr. T's - Measuring Games - Measuring|Mr. T's - Measuring Games - Measuring|||||||
+50600A|Mr. T's - Money Box - Money|Mr. T's - Money Box - Money|||||||
+50601A|Mr. T's - Money Box - Money Box|Mr. T's - Money Box - Money Box|||||||
+50602A|Mr. T's - Number Games - Elephant|Mr. T's - Number Games - Elephant|||||||
+50603A|Mr. T's - Number Games - Lady Bug|Mr. T's - Number Games - Lady Bug|||||||
+50604A|Mr. T's - Shape Games - Jigsaw|Mr. T's - Shape Games - Jigsaw|||||||
+50605A|Mr. T's - Shape Games - Shapes|Mr. T's - Shape Games - Shapes|||||||
+50606A|Mr. Wimpy|Mr. Wimpy|||||||
+50607A|Mr. Wiz|Mr. Wiz|||||||
+50608A|Mrun Utility|MRUN Utility|||||||
+50609A|Munchyman|Munchyman||Action,|1|||Micro Power|1982
+50610A|Murder At The Abbey|Murder at the Abbey|||||||
+50611A|Music|Music|||||||
+124189|Mutant Breakout 2|Mutant Breakout 2|||||||
+50612A|Mutant Spiders|Mutant Spiders||Shooter,|1||Trevor Lawford|Superior Software|1983
+50613A|Mutant V2|Mutant v2|||||||
+50614A|Myorem - Rick Hanson Part 3 V1.1|Myorem - Rick Hanson Part 3 v1.1|||||||
+50615A|Mysterious Adventure 01 - Golden Baton|Mysterious Adventure 01 - Golden Baton|||||||
+50616A|Mysterious Adventure 02 - Time Machine|Mysterious Adventure 02 - Time Machine|||||||
+50617A|Mysterious Adventure 03 - Arrow Of Death - Part 1|Mysterious Adventure 03 - Arrow of Death - Part 1|||||||
+124191|Mysterious Adventure 04 - Arrow Of Death - Part 2|Mysterious Adventure 04 - Arrow Of Death - Part 2|||||||
+50618A|Mysterious Adventure 05 - Escape From Pulsar 7|Mysterious Adventure 05 - Escape from Pulsar 7|||||||
+50619A|Mysterious Adventure 06 - Circus|Mysterious Adventure 06 - Circus|||||||
+50620A|Mysterious Adventure 07 - Feasibility Experiment|Mysterious Adventure 07 - Feasibility Experiment|||||||
+50621A|Mysterious Adventure 08 - Wizard Of Akyrz|Mysterious Adventure 08 - Wizard of Akyrz|||||||
+50622A|Mysterious Adventure 09 - Perseus And Andromeda|Mysterious Adventure 09 - Perseus and Andromeda|||||||
+50623A|Mysterious Adventure 10 - Ten Little Indians|Mysterious Adventure 10 - Ten Little Indians|||||||
+50624A|Mysterious Adventure 11 - Waxworks|Mysterious Adventure 11 - Waxworks|||||||
+124190|Mystery of the Lost Sheep, The|Mystery of the Lost Sheep, The|||||||
+50625A|Neanderthal Man|Neanderthal Man||Platform,|1||Ross Goodley|Alligata|1984
+50626A|Nemesis|Nemesis||Shooter,|1||Tim Chown|Micro Power|1983
+50628A|Neutron|Neutron||Action,|1||Keith Taylor|Superior Software|1984
+50629A|Nevryon|Nevryon||Shooter,|1||Graeme Richardson|The Fourth Dimension|1990
+50630A|Newspaper Disc|Newspaper Disc|||||||
+50631A|Nifty Lifty|Nifty Lifty||Platform,|1||Visions|Visions|1984
+50632A|Night Strike|Night Strike|||||||
+50633A|Night World|Night World||Platform,|1||Alligata|Alligata Software Ltd.|1986
+50634A|Nightmare Maze|Nightmare Maze||Action,|1||Mike Williams|MRM Software|1984
+124208|Nightshade|Nightshade||Action,Adventure,|1||Ultimate Play The Game|Ultimate Play the Game|1985
+124218|Nine Dancers - Adventure 4, The|Nine Dancers - Adventure 4, The|||||||
+50635A|Noc A Bloc|Noc a Bloc||Platform,|1||Richard Bygrave|Virgin Games|1983
+50636A|Number Chaser|Number Chaser|||||||
+50637A|Number Gulper|Number Gulper|||||||
+50638A|Number Painter|Number Painter|||||||
+50639A|Number Puzzler|Number Puzzler||Educational,|||Applied Systems Knowledge Ltd.|Acornsoft Limited|1983
+50640A|Nutcracka|Nutcracka|||||||
+50641A|Nutter|Nutter|||||||
+50642A|Oblivion|Oblivion||Shooter,|2||Trevor Hall|Bug-Byte Software|1983
+50643A|Old Father Time|Old Father Time||Adventure,|1||Bug-Byte Software|Bug-Byte Software|1983
+50644A|Olympic Decathlon|Olympic Decathlon||Sports,|1||Daniel Lucas|Alligata Software Ltd.|1985
+50645A|Omega|Omega|||||||
+50646A|Omega Orb|Omega Orb||Action,|1||Peter Scott|Audiogenic Software|1987
+50647A|Omega Probe|Omega Probe|||||||
+50648A|One Last Game|One Last Game|||||||
+50649A|Online World Handbook, The V1.7|Online World Handbook, The v1.7|||||||
+50650A|Orbital|Orbital||Action,Puzzle,|1||Jonathan Temple|Impact|1989
+50651A|Orcrest|Orcrest|||||||
+50652A|Orpheus And The Underword|Orpheus and the Underword|||||||
+124219|Ossie|Ossie||Action,|1||Peaksoft|Peaksoft|1984
+50653A|Othello|Othello|||||||
+50654A|Our School V1.2|Our School v1.2|||||||
+50655A|Overdrive|Overdrive||Racing,|1||Superior Software|Superior Software|1984
+124209|Owzat|Owzat||Sports,|1|||Virgin Games|1983
+50656A|Oxbridge|Oxbridge||Adventure,|1||Colisoft|Tynesoft Computer Software|1986
+124220|Pacman|Pacman|||||||
+50657A|Pad Switch Games|Pad Switch Games|||||||
+50658A|Paddington Bear Programs|Paddington Bear Programs|||||||
+124221|Painter|Painter|||||||
+50659A|Palace Of Magic|Palace of Magic|||||||
+50660A|Pandemonium|Pandemonium|||||||
+50661A|Panik|Panik|||||||
+50662A|Pantheon|Pantheon|||||||
+124222|Pantry Antics|Pantry Antics|||||||
+50663A|Paperboy|Paperboy||Action,|1||Atari Games Corporation|Elite|1987
+124223|Paradox|Paradox|||||||
+50664A|Paranoid Pete|Paranoid Pete|||||||
+50665A|Paras|Paras|||||||
+124348|Pass Go - Property Game|Pass Go - Property Game|||||||
+50666A|Pathfinder|Pathfinder|||||||
+50667A|Patience|Patience|||||||
+50668A|Paul Daniels' Magic Show|Paul Daniels' Magic Show|||||||
+50669A|Pdtp|PDTP|||||||
+50670A|Pear Picker|Pear Picker|||||||
+124224|Pearl Harbour|Pearl Harbour|||||||
+50671A|Pedro|Pedro||Action,|||Creative Technology Group Ltd.|Imagine Software|1984
+50672A|Peeko-computer|Peeko-Computer|||||||
+124225|Pen and the Dark, The|Pen and the Dark, The|||||||
+50673A|Pengi|Pengi||Puzzle,|1||F. Knock|Visions|1984
+50674A|Pengo|Pengo|||||||
+124226|Pengwyn|Pengwyn||Action,||||Postern Ltd.|1984
+124227|Pentominoes|Pentominoes|||||||
+50675A|Pentoms Puzzle|Pentoms Puzzle|||||||
+50676A|Percy Penguin|Percy Penguin||Puzzle,|1||Superior Software|Superior Software|1984
+50677A|Periodic Table|Periodic Table|||||||
+50678A|Perplexity|Perplexity||Puzzle,|1||Ian Collinson|Superior Software|1990
+50679A|Personal Money Management V4.1|Personal Money Management v4.1|||||||
+50680A|Personal Quiz|Personal Quiz|||||||
+50681A|Pettigrew's Diary|Pettigrew's Diary|||||||
+50682A|Phantom|Phantom||Action,|1||David Croft|Tynesoft Computer Software|1987
+50683A|Phantom Combat|Phantom Combat||Flight Simulator,|1||Doctor Soft|Doctor Soft|1986
+50684A|Phantom F4|Phantom F4|||||||
+124228|Pharaoh's Curse|Pharaoh's Curse|||||||
+50685A|Pharoah's Tomb|Pharoah's Tomb|||||||
+50686A|Philosopher's Quest|Philosopher's Quest||Adventure,|1||Acornsoft|Acornsoft|1982
+124229|Philosopher's Stone, The|Philosopher's Stone, The|||||||
+50687A|Physics|Physics|||||||
+50688A|Pig|Pig|||||||
+124230|Pilgrim's Progress|Pilgrim's Progress||Adventure,|1||Anno Domini|Scripture Union|1984
+50689A|Pimania|PiMania||Adventure,|1||Automata UK|Automata UK|1982
+50690A|Pinball|Pinball|||||||
+50691A|Pinball Arcade|Pinball Arcade|||||||
+50692A|Pink Panther|Pink Panther|||||||
+50693A|Pipe Mania|Pipe Mania||Puzzle,|2||The Assembly Line|Empire Software|1990
+50694A|Pipeline|Pipeline||Action,Adventure,Puzzle,|1||Ian Holmes|Superior Software|1988
+50695A|Pirates In Space|Pirates in Space|||||||
+124231|Plague Planet|Plague Planet|||||||
+50696A|Plan B|Plan B||Action,|1||Bug-Byte Software|Bug-Byte Software|1986
+50697A|Plan B - Part 2 - Mission Unlikely|Plan B - Part 2 - Mission Unlikely|||||||
+124232|Plane Crash|Plane Crash|||||||
+50698A|Planes|Planes|||||||
+124233|Planetfall|Planetfall|||||||
+50699A|Planetoid|Planetoid||Shooter,|1||Neil Rayne|Acornsoft|1982
+50700A|Planets|Planets|||||||
+50701A|Plank Walk|Plank Walk|||||||
+50702A|Plato Republic|Plato Republic|||||||
+50703A|Play With Pip|Play with Pip|||||||
+50704A|Plegaron People Eaters|Plegaron People Eaters|||||||
+50705A|Plotmate|Plotmate|||||||
+124234|Plunder|Plunder|||||||
+50706A|Plutonium Plunder|Plutonium Plunder||Puzzle-Game,|1||John Chaytor|Micro Power (Program Power)|1984
+50707A|Podd|Podd|||||||
+50708A|Poems|Poems|||||||
+50709A|Pogo Pete|Pogo Pete|||||||
+124235|Poker|Poker|||||||
+50710A|Poker Dice|Poker Dice||Board Game,|6||Geoff Smith|Micro Power|1982
+50711A|Polar Perils|Polar Perils|||||||
+50712A|Polaris|Polaris|||||||
+50713A|Pole Position|Pole Position||Racing,|1||Namco|Atari|1984
+50714A|Pontoon|Pontoon|||6|||Superior Software|1982
+124236|Pony Express|Pony Express|||||||
+50715A|Pool Hall|Pool Hall|||||||
+50716A|Posidroid|Posidroid|||||||
+50717A|Positron|Positron||Shooter,|1||Gary Partis|Micro Power|1983
+50718A|Poster Designer|Poster Designer|||||||
+50719A|Power Bandit|Power Bandit|||||||
+124237|Powerboat Racing|Powerboat Racing|||||||
+50720A|Powerplay - The Game Of The Gods|Powerplay - The Game of the Gods|||||||
+50721A|Predator|Predator||Action,|1||Activision|Superior Software|1989
+50723A|Primary Art|Primary Art|||||||
+50724A|Primate|Primate|||||||
+50725A|Print Wise|Print Wise|||||||
+124238|Prison|Prison|||||||
+50726A|Pro Golf|Pro Golf|||||||
+50727A|Programmer's Revenge|Programmer's Revenge|||||||
+50728A|Project Thesius - Rick Hanson Part 2|Project Thesius - Rick Hanson Part 2|||||||
+124239|Prophecy - Rising of Salandra - Part 1, The|Prophecy - Rising of Salandra - Part 1, The|||||||
+124240|Proteans|Proteans|||||||
+50729A|Protector|Protector|||||||
+50730A|Psycastria|Psycastria||Action,Shooter,|4||Gary Partis|Audiogenic Software Ltd.|1986
+50731A|Psycastria 2|Psycastria 2||Action,Shooter,|4||Gary Partis|Atlantis|1989
+50732A|Psycho|Psycho|||||||
+50733A|Puc-man|Puc-Man|||||||
+124241|Puppet Man - Adventure 5, The|Puppet Man - Adventure 5, The|||||||
+50734A|Purple People Eaters|Purple People Eaters|||||||
+124242|Pyramid Painter|Pyramid Painter||Action,|1||Thor Computer Software|Thor Computer Software|1984
+50736A|Q-bert|Q-Bert|||||||
+50737A|Q-bix|Q-Bix|||||||
+124243|Q-boyd|Q-boyd|||||||
+50738A|Q-man|Q-Man|||||||
+50739A|Q-man's Brother|Q-Man's Brother|||||||
+50740A|Q-man, The Amazing V3.1|Q-Man, The Amazing v3.1|||||||
+124244|Qmaster|Qmaster|||||||
+50741A|Quadline|Quadline|||||||
+50742A|Quadrangle|Quadrangle|||||||
+50743A|Quasimodo Game|Quasimodo Game|||||||
+50744A|Quest|Quest|Adventure Quest|Action,Adventure,|1||Tony Oakden|Superior Software|1988
+50745A|Quest For The Holy Grail, The - Epic Adventure 2 V1|Quest for the Holy Grail, The - Epic Adventure 2 v|||||||
+124245|Quest for the Last Baked Bean, The|Quest for the Last Baked Bean, The|||||||
+50746A|Quest Probe 1 - Incredible Hulk Vb-126|Quest Probe 1 - Incredible Hulk vb-126|||||||
+124246|Quest Probe 2 - Spiderman|Quest Probe 2 - Spiderman|||||||
+124247|Quest Probe 3 - Fantastic Four, Chapter 1|Quest Probe 3 - Fantastic Four, Chapter 1|||||||
+124248|Quest, The|Quest, The|||||||
+50747A|Question Of Sport, A|Question of Sport, A||Simulation,|||Superior Software|Elite Systems Ltd.|1988
+124249|Quill, The|Quill, The|||||||
+50748A|Quondam|Quondam||Adventure,|1||Peter Killworth|Acornsoft|1984
+50749A|Qwak!|Qwak!|||||||
+50750A|R-ther|R-Ther|||||||
+50751A|Race|Race|||||||
+50752A|Race Chase|Race Chase|||||||
+50753A|Racer|Racer|||||||
+50754A|Radio Amateur Software|Radio Amateur Software|||||||
+50755A|Raid Over Moscow|Raid Over Moscow||Action,|||Access Software, Inc.|U.S. Gold Ltd.|1986
+124250|Rainbow's End|Rainbow's End|||||||
+50756A|Ram-rom|RAM-ROM|||||||
+50757A|Ransack!|Ransack!|||||||
+124251|Rasillion|Rasillion|||||||
+50758A|Ravage|Ravage||Shooter,|1|||Blue Ribbon|1985
+50759A|Ravenskull|Ravenskull||Action,Adventure,|1||Martin Edmondson|Superior Software|1986
+124252|Rebel Planet|Rebel Planet|||||||
+50761A|Red Moon|Red Moon||Adventure,|1||Level 9 Computing|Level 9 Computing|1985
+124253|Redcoats|Redcoats|||||||
+124254|Reluctant Hero|Reluctant Hero|||||||
+50762A|Renegade Robots|Renegade Robots||Puzzle,|1||Senator Software|Senator Software|1983
+50763A|Repton|Repton||Puzzle,|1||Tim Tyler|Superior Software|1984
+50764A|Repton 2|Repton 2||Puzzle,|1||Tim Tyler|Superior Software|1985
+50765A|Repton 3 And Editor|Repton 3 & Editor|||||||
+50766A|Repton 3 - Around The World In 40 Screens|Repton 3 - Around the World in 40 Screens|||||||
+50767A|Repton 3 - Repton Thru Time|Repton 3 - Repton Thru Time|||||||
+50768A|Repton 3 Disc|Repton 3 Disc|||||||
+50769A|Repton Infinity|Repton Infinity||Puzzle,|1||David Acton|Superior Software|1988
+50770A|Repton Infinity - Master Version|Repton Infinity - Master Version|||||||
+124255|Return Of Flint|Return Of Flint|||||||
+50771A|Return Of R2 - Bbc Version|Return of R2 - BBC Version|||||||
+50772A|Return Of The Diamond|Return of the Diamond|||||||
+124256|Return of the Warrior - Rising of Salandra - Part 2, The|Return of the Warrior - Rising of Salandra - Part 2, The|||||||
+50773A|Return To Eden|Return to Eden|||||||
+50774A|Revenge Of The Flying Bunnies|Revenge of the Flying Bunnies|||||||
+50775A|Revenge Of The Snowmen|Revenge of the Snowmen|||||||
+50776A|Reversa Square|Reversa Square|||||||
+50777A|Reversi|Reversi||Board Game,|2|||Superior Software|1983
+50778A|Reversi Vb1.1|Reversi vB1.1|||||||
+50779A|Revs - 5 Tracks|REVS - 5 tracks|||1||Geoff Crammond|Acornsoft|1984
+50780A|Rick Hanson Trilogy, The - Saga Of A Spy|Rick Hanson Trilogy, The - Saga of a Spy|||||||
+50781A|Rick Hanson V2|Rick Hanson v2|||||||
+50782A|Ricochet|Ricochet||Action,Adventure,Puzzle,|1||Neil Davidson|Superior Software|1989
+50783A|Rig Attack|Rig Attack||Action,|1||Jason Sobell|Tynesoft Computer Software|1985
+50784A|Rik The Roadie|Rik the Roadie|||||||
+124257|Ring of Time, The|Ring of Time, The|||||||
+50785A|Ripoff Ix 9|Ripoff IX|||||||
+50786A|Ripton|Ripton|||||||
+50787A|Road Runner|Road Runner||Puzzle,Racing,|1||Richard Hanson|Superior Software|1983
+50788A|Robin And Marian|Robin and Marian|||||||
+124258|Robin Of Sherwood|Robin Of Sherwood|||||||
+50789A|Roboman|Roboman||Action,Shooter,|1||Alligata|Alligata|1984
+50790A|Robomania - The Ultimate|Robomania - The Ultimate|||||||
+50791A|Robot Chase|Robot Chase|||||||
+50792A|Roboto|Roboto||Action,Adventure,|1||Eugene Smith|Bug-Byte|1986
+50793A|Robotron|Robotron|||||||
+50794A|Robotron 2084|Robotron 2084|||||||
+50795A|Rocket Attack|Rocket Attack|||||||
+50796A|Rocket Raid|Rocket Raid||Shooter,|1||Acornsoft|Acornsoft|1983
+50797A|Rockfall|Rockfall|||||||
+50798A|Rocky|Rocky||Puzzle,|1||Superior Software|Superior Software|1983
+124259|Rohak The Swordsman|Rohak The Swordsman|||||||
+50799A|Rolling Picture Show|Rolling Picture Show|||||||
+50800A|Roman Empire|Roman Empire||Strategy,|||M.C. Lothlorien Ltd|M.C. Lothlorien Ltd|1983
+124260|Roulette|Roulette||Casino,|6|||Micro Power|1982
+124261|Roundheads And Cavaliers|Roundheads And Cavaliers|||||||
+50801A|Rubble Trouble|Rubble Trouble||Action,|1||Micro Power|Micro Power|1983
+50802A|Rubik's Cube|Rubik's Cube|||||||
+50803A|Run Silent Run Deep|Run Silent Run Deep|||||||
+124262|Runemagic - Secret River And Wizard's Citadel|Runemagic - Secret River And Wizard's Citadel|||||||
+50804A|Runemaker - Codename Druid|Runemaker - Codename Druid|||||||
+50805A|Runemaker - Codename Druid Editor|Runemaker - Codename Druid Editor|||||||
+124263|Runestaff|Runestaff|||||||
+50806A|Russian Language And People|Russian Language and People|||||||
+50807A|Sabre Wulf|Sabre Wulf||Action,Adventure,|1||Ultimate Play The Game|Ultimate Play the Game|1984
+50808A|Sabre Wulf - Extended Version|Sabre Wulf - Extended Version|||||||
+124305|Sadim Castle|Sadim Castle|||||||
+50809A|Saigon|Saigon||Action,|1||Tequila|Tynesoft Computer Software|1988
+50810A|Salamanca|Salamanca|||||||
+50811A|Saloon Sally|Saloon Sally||Action,|1||Psion Software|Psion Software|1984
+123617|Samantha Fox Strip Poker|Samantha Fox Strip Poker||Strategy,|1||Software Communications|Martech|1986
+50812A|Santa|Santa|||||||
+124306|Santa's Delivery|Santa's Delivery|||||||
+50813A|Sas Commander|SAS Commander|||||||
+124307|Satan's Challenge|Satan's Challenge|||||||
+50814A|Savage Pond|Savage Pond||Action,|1||Starcade|Bug-Byte Software|1984
+50815A|Scapeghost|Scapeghost||Adventure,|1||Level 9 Computing|Level 9 Computing|1989
+50816A|Science Topics - Bonding|Science Topics - Bonding|||||||
+50817A|Science Topics - Classification And The Periodictable|Science Topics - Classification and the PeriodicTa|||||||
+50818A|Science Topics - Ecology And Conservation|Science Topics - Ecology and Conservation|||||||
+50819A|Science Topics - Electromagnetic Spectrum|Science Topics - Electromagnetic Spectrum|||||||
+50820A|Science Topics - Food And Population|Science Topics - Food and Population|||||||
+50821A|Science Topics - Newton And The Space Shuttle|Science Topics - Newton and the Space Shuttle|||||||
+50822A|Science Topics - Polymers|Science Topics - Polymers|||||||
+124309|Scoop|Scoop|||||||
+50823A|Scorpion Patience|Scorpion Patience|||||||
+50824A|Scrabble|Scrabble|||||||
+50825A|Scrabble Dictionary|Scrabble Dictionary|||||||
+124310|Scramble|Scramble|||||||
+50826A|Screen Thief V1.6|Screen Thief v1.6|||||||
+50827A|Screwball|Screwball|||||||
+124311|Sea Adventure|Sea Adventure|||||||
+50828A|Sea Lord|Sea Lord||Shooter,|1||Trevor Hall|Bug-Byte Software|1983
+124312|Sea Queen|Sea Queen|||||||
+124313|Sea Wolf|Sea Wolf|||||||
+50829A|Search And Rescue|Search and Rescue|||||||
+50830A|Secondary Science - The Mole Concept|Secondary Science - The Mole Concept|||||||
+50831A|Secondary Science - Uniformly Accelerated Motion|Secondary Science - Uniformly Accelerated Motion|||||||
+50833A|Secret Diary Of Adrian Mole, The - Age 13.5|Secret Diary of Adrian Mole, The - Age 13.5|||||||
+124314|Secret Garden|Secret Garden|||||||
+124315|Secret Sam - Adventure 1|Secret Sam - Adventure 1|||||||
+50834A|Secret Sam - Adventure 2|Secret Sam - Adventure 2|||||||
+50835A|Seek|Seek||Adventure,|1||Stephen Mark Probyn|Micro Power|1982
+50836A|Select Your Favorite Tune!|Select Your Favorite Tune!|||||||
+50837A|Sentinel|Sentinel|||||||
+124316|Seventh Star, The|Seventh Star, The|||||||
+50838A|Sex Invaders|Sex Invaders|||||||
+50839A|Shadowfax|Shadowfax||Shooter,|1||Mike Singleton|Postern|1982
+50840A|Shanghai Warriors|Shanghai Warriors|||||||
+50841A|Shape|Shape|||||||
+50842A|Shark|Shark||Action,|1||Sam Inglis|Audiogenic Software Ltd.|1988
+124317|Shipwreck|Shipwreck|||||||
+50843A|Shirley Conran's Magic Garden|Shirley Conran's Magic Garden|||||||
+50845A|Shuttle Pilot|Shuttle Pilot|||||||
+50846A|Shuttle Simulator|Shuttle Simulator||Simulation,||||MicroDeal|1983
+50847A|Side Fighter|Side Fighter|||||||
+50848A|Siege|Siege||Action,|||Postern Ltd.|Postern Ltd.|1983
+50850A|Sim|Sim|737 Flight Simulator||||||
+50851A|Sim City|Sim City|||||||
+50852A|Simon|Simon|||||||
+50853A|Sinbad|Sinbad||Action,Platform,|1||Dennis Ibbotson|Virgin Games|1984
+50854A|Sinistar|Sinistar|||||||
+50855A|Sink The Bismarck|Sink the Bismarck|||||||1986
+50856A|Ski Slalom|Ski Slalom|||||||
+124215|Skirmish|Skirmish||Action,|2||Aardvark Software|Go-Dax|1988
+50857A|Skoogs|Skoogs|||||||
+50858A|Skulls|Skulls|||||||
+50859A|Skyhawk|Skyhawk||Action,|1||Pace|Pace|1984
+50860A|Sleigh Bells|Sleigh Bells|||||||
+124318|Slicker|Slicker|||||||
+50861A|Sliding Block Puzzles|Sliding Block Puzzles|||||||
+50862A|Slow Scan Image Terminal|Slow Scan Image Terminal|||||||
+50863A|Smash And Grab|Smash and Grab||Platform,|1||Wal Mansell|Superior Software|1984
+124319|Snacker|Snacker|||||||
+124320|Snail Trail|Snail Trail|||||||
+50864A|Snake|Snake|||||||
+124321|Snake Pit|Snake Pit|||||||
+50865A|Snakes And Ladders|Snakes and Ladders|||||||
+50866A|Snapper V1|Snapper v1|||||||
+50867A|Snapper V2|Snapper v2|||||||
+50868A|Snooker|Snooker||Sports,Strategy,|2||Kevin Reid|Acornsoft|1983
+50869A|Snooker V4|Snooker v4|||||||
+50870A|Snowball|Snowball||Adventure,|1||Level 9 Computing|Level 9 Computing|1983
+124322|Soccer Boss|Soccer Boss|||||||
+50871A|Soccer Challenge|Soccer Challenge|||||||
+50872A|Soccer Manager|Soccer Manager|||||||
+50873A|Solidisk Stl Hard Drive Formatter|Solidisk STL Hard Drive Formatter|||||||
+50874A|Solitaire|Solitaire|||||||
+50875A|Son Of Blagger|Son of Blagger||Action,||||Alligata Software Ltd.|1984
+124323|Sorcerer's Kingdom, The|Sorcerer's Kingdom, The|||||||
+50877A|Sorcery|Sorcery||Platform,|1||Pace|Pace|1984
+50878A|Sound Library|Sound Library|||||||
+50879A|Southern Belle|Southern Belle||Simulation,||||Hewson Consultants Ltd.|1986
+50880A|Space Adventure|Space Adventure||Action,Adventure,|1||Pro Software|Virgin Games|1983
+50881A|Space Agent Zelda Meets The Bug-eyes|Space Agent Zelda Meets the Bug-Eyes|||||||
+124324|Space Battle|Space Battle|||||||
+50882A|Space Caverns|Space Caverns|||||||
+50883A|Space City|Space City|||||||
+50884A|Space Fighter|Space Fighter||Shooter,|1||Richard Hanson|Superior Software|1982
+50885A|Space Hawk|Space Hawk|||||||
+50886A|Space Hawks|Space Hawks||Shooter,|1||Paul Hiscock|Computer Concepts|1982
+50887A|Space Hi-way|Space Hi-Way|||||||
+50888A|Space Intruders|Space Intruders|||||||
+50889A|Space Invaders|Space Invaders|||||||
+50890A|Space Jailer|Space Jailer||Shooter,|1||David Tolchard|Micro Power|1983
+50891A|Space Lords|Space Lords|||||||
+50892A|Space Maze|Space Maze|||||||
+50893A|Space Pilot|Space Pilot||Action,|1||Peter Johnson|Superior Software|1984
+50894A|Space Ranger|Space Ranger|||||||
+124325|Space Rescue|Space Rescue|||||||
+50895A|Space Station Alpha|Space Station Alpha||Shooter,|1||Dave Croft, Ian Elliott|Icon|1984
+50896A|Space War|Space War|||||||
+50897A|Space Warp|Space Warp|||||||
+50898A|Spaceguard|Spaceguard|||||||
+50899A|Spaceman Sid|Spaceman Sid||Action,||||English Software Company, The|1984
+50900A|Spaceman Tish On Plant Shush|Spaceman Tish on Plant Shush|||||||
+50901A|Special Operations|Special Operations||Adventure,||||M.C. Lothlorien Ltd|1984
+50902A|Spectapede|Spectapede|||||||
+50903A|Spectramania|Spectramania|||||||
+50904A|Speech!|Speech!|||||||
+50905A|Spellbinder|Spellbinder||Adventure,|1||Dan Shirron|Acornsoft|1987
+50906A|Spellcheck For View|Spellcheck for View|||||||
+50907A|Sphenisciformes|Sphenisciformes|||||||
+50908A|Sphere Of Destiny|Sphere of Destiny|||||||
+50909A|Sphere Of Destiny 2|Sphere of Destiny 2|||||||
+124326|Spheroids|Spheroids|||||||
+50910A|Sphinx Adventure|Sphinx Adventure||Adventure,|1||Acornsoft|Acornsoft|1982
+50911A|Spitfire 40|Spitfire 40|||||||
+50912A|Spitfire Command|Spitfire Command||Shooter,|1||Peter Johnson|Superior Software|1983
+50913A|Spitfire Flight Simulator|Spitfire Flight Simulator||Flight Simulator,|1|||Alligata|1983
+50914A|Splash|Splash|||||||
+50915A|Spooks And Spiders|Spooks and Spiders|||||||
+50916A|Spooksville - Bbc Version|Spooksville - BBC Version|||||||
+50917A|Spooky Manor|Spooky Manor|||||||
+124216|Sporting Triangles|Sporting Triangles||Sports,Quiz,|3||Mike Williams|CDS|1989
+50918A|Springfyren|Springfyren|||||||
+50919A|Spy Cat|Spy Cat|||||||
+50920A|Spy Hunter|Spy Hunter||Racing,Shooter,|1||Micro Power|Sega|1986
+50921A|Spy Vs Spy|Spy vs Spy||Strategy,|||First Star Software, Inc.|Tynesoft Computer Software|1987
+50922A|Squares|Squares|||||||
+50923A|Squeekaliser|Squeekaliser|||||||
+50924A|Squeeze|Squeeze|||||||
+50925A|Sqwhere|Sqwhere|||||||
+124327|Staff of Law, The|Staff of Law, The|||||||
+50926A|Staircase Stampede!|Staircase Stampede!|||||||
+50927A|Stairway To Hell|Stairway to Hell|||||||
+50928A|Star Battle!|Star Battle!|||||||
+50929A|Star Clash|Star Clash|||||||
+50930A|Star Drifter|Star Drifter||Action,Adventure,|1||Firebird|Firebird|1985
+50931A|Star Force Seven|Star Force Seven|||||||
+50932A|Star Maze|Star Maze|||||||
+124328|Star Maze 2|Star Maze 2|||||||
+50933A|Star Port|Star Port||Action,Adventure,Puzzle,|1||Tony Oakden|Superior Software|1990
+50934A|Star Quake|Star Quake||Action,|||||
+50935A|Star Soccer|Star Soccer|||||||
+50936A|Star Striker|Star Striker||Shooter,|1||J F Daniels|Superior Software|1984
+124329|Star Swarm|Star Swarm|||||||
+124330|Star Trader|Star Trader|||||||
+50937A|Star Trek|Star Trek|||||||
+50938A|Star Trek Adventure|Star Trek Adventure||Adventure,|1|||Superior Software|1983
+50939A|Star Warp|Star Warp||Shooter,|1||Peter Johnson|Superior Software|1984
+50940A|Star Wars|Star Wars||Action,Shooter,|1||Vektor Grafix|Domark|1987
+50941A|Star Wars - Return Of The Jedi|Star Wars - Return of the Jedi||Action,|||Atari Games Corporation|Domark Ltd.|1988
+124217|Star Wars - The Empire Strikes Back|Star Wars - The Empire Strikes Back||Action,|||Atari Games Corporation|Domark Ltd.|1988
+50942A|Starfire V2|Starfire v2|||||||
+50943A|Starfire V2.2|Starfire v2.2|||||||
+50944A|Starfleet Encounter|Starfleet Encounter||Strategy,|8||Alastair McLeod|Micro Power|1984
+124331|Starforce Lander|Starforce Lander|||||||
+50945A|Starship Command|Starship Command||Action,Vehicle Simulation,|1||Acornsoft|Acornsoft|1983
+50946A|Starship Discovery|Starship Discovery||Flight Simulator,Strategy,|1||P Burton|Alligata|1984
+124332|Starship Quest|Starship Quest|||||||
+50947A|Statix|Statix|||||||
+50948A|Steve Davis Snooker|Steve Davis Snooker||Sports,||||CDS Software Ltd|1985
+50949A|Steve Davis Snooker - Bbc Micro Version|Steve Davis Snooker - BBC Micro Version|||||||
+124333|Sticky Fingers!|Sticky Fingers!|||||||
+50951A|Stix|Stix||Action,Puzzle,|1|||Supersoft|1984
+50952A|Stock Car|Stock Car||Racing,|2||A W Haise|Micro Power|1983
+50953A|Stock Market|Stock Market|||||||
+50954A|Stolen Lamp|Stolen Lamp|||||||
+50955A|Stormcycle|Stormcycle|||||||
+50956A|Stranded|Stranded||Adventure,|1||Dave Woodhouse|Superior Software|1984
+124334|Stranded On Iloofrax|Stranded On Iloofrax|||||||
+50957A|Strategem|Strategem|||||||
+124335|Strategy 1 - Invasion|Strategy 1 - Invasion|||||||
+124336|Strategy 2 - Hunt For The Bismark|Strategy 2 - Hunt For The Bismark|||||||
+50958A|Stratobomber|Stratobomber|||||||
+50959A|Strawberry Fields|Strawberry Fields|||||||
+50960A|Street Machine|Street Machine|||||||
+124337|Street Patroller|Street Patroller|||||||
+124338|Street Patroller Remix|Street Patroller Remix|||||||
+50961A|Strike Force Harrier|Strike Force Harrier||Simulation,|||H&H Software|Mirrorsoft Ltd.|1986
+50962A|String Tracker V1.00|String Tracker v1.00|||||||
+50963A|Strip Poker|Strip Poker|||||||
+50964A|Strip Poker 2 Plus|Strip Poker II Plus||Strategy,||||Anco Software Ltd.|1989
+50965A|Stryker's Run|Stryker's Run|||||||
+50966A|Stryker's Run - Enhanced|Stryker's Run - Enhanced|||||||
+50967A|Stryker's Run - Standard And Enhanced|Stryker's Run - Standard & Enhanced|||||||
+50968A|Studio 8|Studio 8|||||||
+50969A|Stuka!|Stuka!|||||||
+50970A|Sub-strike|Sub-Strike|||||||
+50971A|Subkiller|SubKiller|||||||
+50972A|Subway Vigilante|Subway Vigilante||Beat 'em Up,|1||Wayne Dobson|Players Premier|1989
+124339|Suds|Suds||Adventure,||||Riverdale Software|1986
+124340|Suicide Island|Suicide Island|||||||
+124341|Summer Olympiad|Summer Olympiad|||||||
+50973A|Sunday - A Graphic Adventure|Sunday - A Graphic Adventure|||||||
+50974A|Super Barricade|Super Barricade|||||||
+50975A|Super Combat|Super Combat|||||||
+50976A|Super Defender|Super Defender|||||||
+124342|Super Fruit|Super Fruit|||||||
+50977A|Super Golf|Super Golf|||||||
+50979A|Super Invaders|Super Invaders||Shooter,|1||Acornsoft|Acornsoft|1984
+50980A|Super Pool|Super Pool|||||||
+124343|Super Spy Flint|Super Spy Flint|||||||
+50981A|Superior Soccer|Superior Soccer||Action,Construction and Management Simulation,Sports,|2||Peter Scott|Acornsoft|1989
+50982A|Superman - Man Of Steel|Superman - Man of Steel|||||||
+50984A|Swag!|Swag!|||||||
+124344|Swamp Monsters|Swamp Monsters|||||||
+124345|Swarm|Swarm||Shooter,|1||M R Bateman|Computer Concepts|1982
+50985A|Swarmer|Swarmer|||||||
+50986A|Swoop|Swoop||Shooter,|1||Elliot Software|Micro Power|1982
+50987A|Swoop - Versions 1 And 2|Swoop - Versions 1 & 2|||||||
+50988A|Swordmaster|Swordmaster|||||||
+124346|Swords And Sorcery|Swords And Sorcery|||||||
+50989A|Swr Utilities|SWR Utilities|||||||
+50990A|Syncron|Syncron||Shooter,|1||Gary Partis|Superior Software|1987
+50991A|Synthesizer|Synthesizer|||||||
+50992A|System 15000|System 15000||Puzzle,Strategy,|1||AVS|Craig Communications|1984
+124347|System 8|System 8|||||||
+50993A|System Wadgebury|System Wadgebury|||||||
+50994A|Table Adventures|Table Adventures|||||||
+124264|Tactic|Tactic|||||||
+50995A|Tales Of The Arabian Nights|Tales of the Arabian Nights|||||||
+50996A|Talk Back|Talk Back|||||||
+124265|Tank Attack|Tank Attack||Strategy,|||IQ Games|CDS Software Ltd|1989
+50997A|Tanks|Tanks|||||||
+50998A|Tapper|Tapper||Action,|1||Bally Midway|US Gold|1985
+50999A|Target Practice|Target Practice|||||||
+51000A|Tarot|Tarot|||||||
+51001A|Tarzan|Tarzan||Platform,|1||Chris Butler|Alligata Software Ltd.|1984
+51002A|Teddy|Teddy|||||||
+51003A|Teen Text|Teen Text|||||||
+51004A|Teletext|Teletext|||||||
+51005A|Teletext Generator|Teletext Generator|||||||
+51006A|Teletext Screen Editor|Teletext Screen Editor|||||||
+51007A|Tempest|Tempest||Action,|2||Atari, Inc|Superior Software|1985
+51008A|Temple Of Terror|Temple of Terror|||||||
+51009A|Templeton|Templeton||Platform,|1||Jeffrey Cooke|Bug Byte|1987
+51010A|Ten Pin Bowling - Beebug Bowl|Ten Pin Bowling - Beebug Bowl|||||||
+51011A|Ten Pin Bowling Game - Beebug Bowl|Ten Pin Bowling Game - Beebug Bowl|||||||
+124266|Tennis|Tennis|||||||
+51012A|Terromolinos!|Terromolinos!|||||||
+124267|Test Match Cricket|Test Match Cricket|||||||
+124268|Tetrapod|Tetrapod||Shooter,|1||Nick Reeves|Acornsoft|1984
+51013A|Tetrapods - Star Swarm|Tetrapods - Star Swarm|||||||
+51014A|Tetris|Tetris||Puzzle,|1||Rowan Software Ltd.|Mirrorsoft|1988
+49956A|Archers, The|The Archers||Adventure,|||Level 9 Computing, Ltd.|Mosaic Publishing|1986
+49959A|Art Studio, The|The Art Studio|||||||
+50010A|Big KO, The|The Big KO|||||||
+50043A|Box of Treasures, The|The Box of Treasures|||||||
+50050A|British Isles, The|The British Isles|||||||
+50062A|Bungle Brothers, The|The Bungle Brothers|||||||
+50085A|Caves of Trall, The|The Caves of Trall|||||||
+50135A|Complete Cocktail Maker, The|The Complete Cocktail Maker|||||||
+50181A|Curse of the Middle Kingdom, The|The Curse of the Middle Kingdom|||||||
+50188A|Dam Busters, The|The Dam Busters|||||||
+50206A|Devil's Domain, The|The Devil's Domain|||||||
+50267A|Evil Dead, The|The Evil Dead|||||||
+50294A|Flight of the Unicorn, The|The Flight of the Unicorn|||||||
+50300A|Fly, The|The Fly|||||||
+50377A|Guy in the Hat, The|The Guy in the Hat|||||||
+50380A|Hacker, The|The Hacker||Action,||||Firebird Software Ltd.|1985
+50388A|Haunted Abbey, The|The Haunted Abbey|||||||
+50415A|Horse Lord, The|The Horse Lord|||||||
+50422A|Hunt, The|The Hunt|||||||
+50436A|Intergalactic Trading Game, The|The Intergalactic Trading Game|||||||
+50474A|Killing of Kayleth, The|The Killing of Kayleth|||||||
+50498A|Last Ninja, The|The Last Ninja||Action,|||System 3 Software Ltd.|Superior Software Ltd.|1988
+50497A|Last Ninja 2, The|The Last Ninja 2|||||||
+50522A|Machinery is Missing, The|The Machinery is Missing|||||||
+50523A|Mad Painter, The|The Mad Painter|||||||
+50547A|Maze, The|The Maze|||||||
+50563A|Mine, The|The Mine|||||||
+50627A|Network, The|The Network|||||||
+50722A|Price of Magic, The|The Price of Magic|||||||
+50735A|Pyramid, The|The Pyramid|||||||
+50760A|Red Arrows, The|The Red Arrows|||||||
+50832A|Secret Diary of Adrian Mole, The|The Secret Diary of Adrian Mole|||||||
+50844A|Shrinking Professor's Quest, The|The Shrinking Professor's Quest|||||||
+50849A|Silicon Voyager, The|The Silicon Voyager|||||||
+50876A|Sorcerer, The|The Sorcerer|||||||
+50950A|Sting, The|The Sting|||||||
+50978A|Super Green Gloop Gulper Game, The|The Super Green Gloop Gulper Game|||||||
+50983A|Survivors, The|The Survivors||Action,||||Atlantis Software Limited|1987
+51027A|Tombs of Tutankhamen, The|The Tombs of Tutankhamen|||||||
+51057A|Valley, The|The Valley|||||||
+51081A|Warlord, The|The Warlord|||||||
+51085A|Way of the Exploding Fist, The|The Way of the Exploding Fist||Action,|||Beam Software Pty., Ltd.|Melbourne House|1985
+51104A|Wizard, The|The Wizard|||||||
+51015A|Three Men In A Boat Printout|Three Men in a Boat Printout|||||||
+51016A|Thriller|Thriller|||||||
+51017A|Thrust|Thrust||Shooter,|1||Jeremy Smith|Superior Software|1986
+51018A|Thunder Struck 2|Thunder Struck II|||||||
+51019A|Thunder Struck!|Thunder Struck!|||||||
+51020A|Thunderball|Thunderball|||||||
+51021A|Tidbits Teaser|Tidbits Teaser|||||||
+51022A|Time Adventure|Time Adventure|||||||
+124269|Time And Magik|Time And Magik|||||||
+124270|Time Lords|Time Lords|||||||
+124271|Timelapsed|Timelapsed|||||||
+51023A|Times Tables|Times Tables|||||||
+51024A|Timetrek - Starship Enterprise|Timetrek - Starship Enterprise|||||||
+51025A|Tobruk|Tobruk|||||||
+51026A|Tomahawk V2|Tomahawk v2|||||||
+124272|Tomb Of Death|Tomb Of Death|||||||
+51028A|Torpedo Run|Torpedo Run|||||||
+51029A|Touch Typing Tutor|Touch Typing Tutor|||||||
+51030A|Tower Bridge|Tower Bridge|||||||
+124273|Tower Of Alos|Tower Of Alos|||||||
+51031A|Trafalgar|Trafalgar|||||||
+51032A|Traffic Education Program|Traffic Education Program|||||||
+124274|Train Game, The|Train Game, The|||||||
+51033A|Transistor's Revenge|Transistor's Revenge|||||||
+51034A|Trapper - Bbc Version|Trapper - BBC Version|||||||
+51035A|Treasure Hunt|Treasure Hunt||Educational,|||Macsen Software|Macsen Software|1986
+51036A|Tree Of Knowledge|Tree of Knowledge|||||||
+124275|Trek|Trek|||||||
+51037A|Trek 2|Trek II|||||||
+51038A|Trench|Trench|||||||
+51039A|Trivial Pursuit - Bbc Genus Edition|Trivial Pursuit - BBC Genus Edition|||||||
+51040A|Truffle Hunt|Truffle Hunt|||||||
+51041A|Truth|Truth|||||||
+124276|Tubes!|Tubes!|||||||
+124277|Tunnel Adventure|Tunnel Adventure|||||||
+51042A|Turbo|Turbo|||||||
+51043A|Turf Form|Turf Form|||||||
+124278|Tutankhamun's Revenge|Tutankhamun's Revenge|||||||
+51044A|Twin Kingdom Valley|Twin Kingdom Valley||Adventure,|1||Trevor Hall|Bug-Byte Software|1983
+124279|Twin Orbs Of Aalinor|Twin Orbs Of Aalinor|||||||
+51045A|Twin1|Twin1|||||||
+51046A|Two Adventures - Volcano And Dracula|Two Adventures - Volcano & Dracula|||||||
+51047A|Two Christmas Adventures For Children|Two Christmas Adventures for Children|||||||
+51048A|Typing Tutor|Typing Tutor|||||||
+51049A|Uggies Garden|Uggies Garden|||||||
+51050A|Ultra Intelligent Machine|Ultra Intelligent Machine|||||||
+51051A|Ultron|Ultron||Shooter,|1||Gary Partis|Icon|1984
+51052A|Uncle Claude|Uncle Claude||Action,|1||Marcus Altman|Alligata|1984
+124280|Underground Adventure|Underground Adventure|||||||
+51053A|Up, Up And Away|Up, Up and Away|||||||
+51054A|Uranians|Uranians||Shooter,|1||S Howitt|Bug-Byte|1986
+124211|Uridium|Uridium||Action,|2||Andrew Braybrook|Hewson Consultants|1987
+51055A|Us Drag Racing|US Drag Racing|||||||
+51056A|Us Invaders|US Invaders|||||||
+124281|Valley Of The Kings|Valley Of The Kings|||||||
+124282|Valley Of The Pharaohs|Valley Of The Pharaohs|||||||
+124283|Vampire Castle|Vampire Castle|||||||
+51058A|Vegas Jackpot|Vegas Jackpot||Simulation,|||R.H. Software|Mastertronic Ltd.|1983
+51059A|Vertigo|Vertigo|||||||
+51060A|Video Card Arcade|Video Card Arcade|||||||
+124284|Video Classics|Video Classics|||||||
+51061A|Video Pinball|Video Pinball|||||||
+51062A|Video Titler 2 V3.0 40t|Video Titler II v3.0 40t|||||||
+51063A|Video's Revenge|Video's Revenge|||||||
+51064A|View Index|View Index|||||||
+51065A|View Professional V2.0|View Professional v2.0|||||||
+51066A|Village Of Lost Souls|Village of Lost Souls|||||||
+51067A|Villians|Villians|||||||
+51068A|Vindaloo|Vindaloo||Action,Platform,|1||Tynesoft|Tynesoft|1986
+51069A|Virus|Virus|||||||
+51070A|Voida 2|Voida II|||||||
+51071A|Volcano|Volcano||Action,|1||Acornsoft|Acornsoft|1984
+51072A|Vortex|Vortex||Shooter,|1||Simon Vout|Software Invasion|1983
+51073A|Vtol|VTOL|||||||
+51074A|Vu Calc|VU Calc|||||||
+51075A|Vu File|VU File|||||||
+51076A|Wallaby|Wallaby||Platform,|1||Peter Johnson|Superior Software|1984
+51077A|Wally Goes Walkies|Wally Goes Walkies|||||||
+51078A|War|War|||||||
+124285|War Games|War Games|||||||
+51079A|War V2.1|War v2.1|||||||
+51080A|Warehouse|Warehouse||Action,Adventure,|1||Pillar Graphics|Top Ten|1988
+124286|Warlord Of Doom|Warlord Of Doom|||||||
+51082A|Warp-1|Warp-1|||||||
+51083A|Watch Your Weight|Watch Your Weight|||||||
+51084A|Waterloo|Waterloo||Strategy,||||M.C. Lothlorien Ltd|1985
+51086A|Web Runner|Web Runner||Action,|1||Ross Goodley|Alligata|1983
+51087A|Web War|Web War||Shooter,|1||Unicorn Software|Artic Computing|1985
+124287|Weetabix Versus the Titchies, The|Weetabix Versus the Titchies, The|||||||
+124288|Wendy Goes Walkies|Wendy Goes Walkies|||||||
+124289|West|West|||||||
+124290|Westquest 1847|Westquest 1847|||||||
+124291|What's Eeyore's|What's Eeyore's|||||||
+51088A|Wheel Of Fortune - Epic Adventure 4|Wheel of Fortune - Epic Adventure 4|||||||
+51089A|Wheeler Dealer|Wheeler Dealer|||||||
+51090A|Where!|Where!|||||||
+51091A|Whist|Whist|||||||
+124292|White Barrows, The|White Barrows, The|||||||
+51092A|White Knight - Mk11|White Knight - MK11|||||||
+124212|White Knight - Mk12|White Knight - Mk12|||||||
+51093A|White Magic|White Magic||Adventure,Role-Playing,|1||John Whigham|The Fourth Dimension|1989
+124293|White Magic 2|White Magic 2|||||||
+51094A|Who Dares Wins 2|Who Dares Wins 2|||||||
+51095A|Whodunnit|Whodunnit|||||||
+51096A|Whoopsy|Whoopsy|||||||
+51097A|Wiggler|Wiggler|||||||
+124294|Wiggles|Wiggles|||||||
+51098A|Window Font And Procedures|Window Font and Procedures|||||||
+51099A|Winged Warlords|Winged Warlords||Action,|2||Paul Haigh|Superior Software|1984
+51100A|Winter Olympiad '88|Winter Olympiad '88|||||||
+51101A|Winter Olympics|Winter Olympics|||||||
+124295|Winter Wonderland|Winter Wonderland||Adventure,||||Incentive Software Ltd.|1986
+51102A|Wizadore|Wizadore||Action,Adventure,|1||Chris Roberts|Imagine Software|1985
+51103A|Wizard's Challenge|Wizard's Challenge||Adventure,|1||Ian Muriss|Micro Power|1983
+51105A|Wizblob|Wizblob|||||||
+51106A|Wizzy's Mansion|Wizzy's Mansion|||||||
+51107A|Woks!!|Woks!!|||||||
+51108A|Wolfpack 3|Wolfpack III|||||||
+51109A|Wonder Worm|Wonder Worm|||||||
+51110A|Wongo|Wongo||Platform,|1||Gary Partis|Icon|1983
+124296|Woodbury End|Woodbury End|||||||
+124297|Woodland Terror|Woodland Terror|||||||
+51111A|Word 1|Word 1|||||||
+51112A|Word Search|Word Search|||||||
+51113A|Wordpower|Wordpower|||||||
+51114A|Words Words Words|Words Words Words|||||||
+124298|World Cup Manager|World Cup Manager|||||||
+51115A|World Geography|World Geography|||||||
+51116A|World Of Dread Dragon Droom|World of Dread Dragon Droom|||||||
+51117A|World Travel Game|World Travel Game|||||||
+124299|World War I|World War I|||||||
+51118A|Worm Book The|Worm Book The|||||||
+51119A|Worm In Paradise|Worm in Paradise|||||||
+51120A|Wormy Num Num|Wormy Num Num|||||||
+124300|Wychwood - Adventure 3|Wychwood - Adventure 3|||||||
+124301|Xadomy|Xadomy|||||||
+51121A|Xanadu|Xanadu|||||||
+124302|Xanagrams|Xanagrams|||||||
+51122A|Xlcr - Squiggly Snake 2|XLCR - Squiggly Snake II|||||||
+51123A|Xmas Carol|Xmas Carol|||||||
+51124A|Xor|XOR||Strategy,|||Astral Software|Logotron Ltd|1987
+51125A|Xor Designer|XOR Designer|||||||
+124303|Yes Prime Minster|Yes Prime Minster|||||||
+51126A|Yie Ar Kung Fu|Yie Ar Kung Fu||Fighting,|1||Konami|Imagine Software|1986
+124213|Yie Ar Kung Fu 2|Yie Ar Kung Fu 2|||||||
+51127A|Yoyo|Yoyo|||||||
+124214|Zalaga|Zalaga||Shooter,|2||Aardvark Software|Alternative Software|1983
+51128A|Zany Kong|Zany Kong|||||||
+51129A|Zany Kong Junior|Zany Kong Junior||Platform,|1||Christopher Hyde|Superior Software|1984
+51130A|Zarm|Zarm||Action,|1||Micro Power|Micro Power|1983
+51131A|Zelda Meets The Bug Eyes|Zelda Meets the Bug Eyes|||||||
+51132A|Zenon|Zenon||Shooter,|2||Ian Collinson|Impact|1988
+51133A|Ziggy|Ziggy||Puzzle,|1||Dean Lester|Audiogenic Software|1987
+51134A|Zombies|Zombies|||||||
+124304|Zor's Revenge|Zor's Revenge|||||||
+51135A|Zorakk The Conqueror|Zorakk the Conqueror|||||||

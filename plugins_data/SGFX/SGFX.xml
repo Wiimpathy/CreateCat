@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+	<WiiTDB version="201912091402" games="5"/>
+	<game name="1941 - Counter Attack">
+		<id>59380</id>
+	<locale lang="EN">
+	<title>1941: Counter Attack</title>
+	<synopsis>The SuperGrafx port of Capcom's hit arcade game. The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. Player 1 flies the P-38 Lightning and Player 2 the new Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean. 
+
+The game consists of six levels and was the first in the series to introduce a +1 to the high score when Continues are used.</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Tercer episodio de la famosa serie de 19XX de Capcom, NEC Supergrafx tuvo el privilegio de recibir la adaptación de 1941. A lo largo de los seis niveles de este juego, lucharemos contra aviones, tanques , barcos, la variedad de enemigos nunca ha sido el fuerte del 19XX pero es parte de su encanto. Cruzamos escenarios muy variados como el campo (¿Normandía?), El mar e incluso una ciudad.</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Troisième épisode de la célèbre série des 19XX de Capcom, c'est la Supergrafx de NEC qui a eu le privilège de recevoir l'adaptation de 1941. Tout au long des six niveaux de ce jeu, on va se battre contre des avions, chars, des bateaux, la variété des ennemis n?ayant jamais été le fort des 19XX mais c'est ce qui fait aussi son charme. On traverse des contrées assez variées comme la campagne (normande ?), la mer et même une ville.</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Terceiro episódio da famosa série 19XX da Capcom, o Supergrafx teve o privilégio de receber a adaptação de 1941. Ao longo dos seis níveis deste jogo, vamos lutar contra aviões, tanques, navios, a variedade de inimigos nunca foi o Forte do 19XX mas faz parte do seu charme. Nós cruzamos cenários muito variados como o campo (Normandia?), o mar e até mesmo uma cidade.</synopsis>
+	</locale>
+	<locale lang="JA">
+	<title>1941 : Counter Attack</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1991" month="08" day="23"/>
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="1-2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Aldynes - The Mission Code For Rage Crisis">
+		<id>59382</id>
+	<locale lang="EN">
+	<title>Aldynes - The Mission Code For Rage Crisis</title>
+	<synopsis>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</synopsis>
+	<genre>Shoot'em Up,Shoot'em up / Horizontal</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>La galaxia es invadida por malvados extraterrestres y tú y tu dispositivo, los Aldynes, representáis la única esperanza de la humanidad. Por lo tanto, será necesario abrirse camino a través de varios niveles enemigos que te disparan rápidamente. Tendrás la oportunidad de usar varias armas (lamentablemente pocas) para llevar a cabo tu misión. También tendrás pods (hasta 4) para aumentar tu poder. Pueden permanecer cerca de ti, protegiéndote parcialmente contra ataques enemigos, o moverse libremente por la pantalla, en cuyo caso atacarán a cualquier oponente que se encuentre cerca de ellos.</synopsis>
+	<genre>Shoot'em Up,Shoot'em Up / Horizontal</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Aldynes est un shoot 'em up : la galaxie est envahie par de méchants extraterrestres et vous et votre appareil, l'Aldynes, représentez de seul espoir de l'humanité. Il va donc falloir faire votre chemin au travers de niveaux variés bondés d'ennemis vous tirant allègrement dessus. Vous aurez la possibilité d'exploiter plusieurs armes (malheureusement peu nombreuses) pour mener à bien votre mission. Vous pourrez également disposer de pods (jusqu'à 4) vous compléter votre puissance de frappe. Ceux-ci peuvent soit rester près de vous, vous protégeant partiellement contre les attaques ennemies, soit se promener librement à travers l'écran, auquel cas, ils attaqueront tout adversaire se présentant à proximité d'eux.</synopsis>
+	<genre>Shoot'em Up,Shoot'em up / Horizontal</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up,Shoot'em Up / Horizontal</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Aldynes, é um jogo de tiro com rolagem horizontal desenvolvido pela Produce e lançado em 22 de julho de 1991 para o SuperGrafx apenas para o Japão. O jogo tem um combate único baseado em opções e níveis de recursos com grandes efeitos de escala ou efeitos de rolagem de paralaxe.nnnnPerto do ano 2020, as sociedades da humanidade caem na depressão global assim como uma invasão alienígena de repente cai na Terra; vindo de um grande planetóide mecânico, os alienígenas atacam a Terra sem razão ou comunicação. Com todas as defesas aniquiladas, as Nações Unidas recorrem à NASA para criar um poderoso caça espacial conhecido como The Ortega, sob o nome de Aldynes. Durante esse tempo, um piloto de caça espacial específico - conhecido apenas pelo seu sinal de chamada Fox-A - foi morto em ação; sua namorada em luto Hiroko logo descobriu o Projeto Aldynes e seu lutador quase completo. Enquanto os invasores atacam o projeto da Força Aérea, Aldynes, ela seqüestra um dos navios e se lança na batalha na esperança de se vingar.</synopsis>
+	<genre>Shoot'em Up,Shoot'em Up / Horizontal</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Aldynes : The Misson Code for Rage Crisis</title>
+	</locale>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<date year="1991" month="02" day="22"/>
+		<rating type="NOTE" value="13">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Battle Ace">
+		<id>59383</id>
+	<locale lang="EN">
+	<title>Battle Ace</title>
+	<synopsis>Battle Ace is an action-oriented flight game in a first-person perspective. The player mans a space ship, including a radar which shows enemies, and the goal is to reach the end of each level where an end boss waits. As usually, the main occupation is to blast a lot of aliens which approach the player. The available weapons are bombs and a machine gun, both unlimited. Getting hit is a bad idea because it results in death. The player has three lives which can be raised by scoring 20000 points.</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Battle Ace es un juego de vuelo orientado a la acción en una perspectiva en primera persona. El jugador pilota una nave espacial, incluyendo un radar que muestra enemigos, y el objetivo es llegar al final de cada nivel donde espera un jefe final. Como de costumbre, la misión principal es aniquilar a una gran cantidad de enemigos que se acercan al jugador. Las armas disponibles son las bombas y una ametralladora, ambas ilimitadas. Ser golpeado es una mala idea porque resulta en la muerte. El jugador tiene tres vidas que pueden ser a,aliadas al anotar 20000 puntos.</synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Fourni initialement avec la SuperGrafx, Battle Ace est un shoot 3D en vue cock-pit imposée (fausse 3D en fait puisque les ennemis sont des sprites, pour la 3D il faudra attendre Starfox). Le gameplay est minimaliste; il s'agit à la manière d'AfterBurner d'exterminer les vagues d'ennemis successives en esquivant leurs tirs, l'armement constitué d'une mitrailleuse lourde et de missiles téléguidés et non-évolutif. </synopsis>
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Battle Ace é um jogo de voo orientado para a ação em uma perspectiva em primeira pessoa. O jogador pilota uma nave espacial, incluindo um radar que mostra inimigos, e o objetivo é chegar ao final de cada nível onde um chefe final espera. Como de costume, a ocupação principal é explodir muitos alienígenas que se aproximam do jogador.</synopsis>
+	</locale>
+	<locale lang="JA">
+	<title>Battle Ace</title>
+	</locale>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<date year="1989" month="11" day="30"/>
+		<rating type="NOTE" value="13">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Daimakai Mura">
+		<id>129653</id>
+	<locale lang="EN">
+	<title>Ghouls 'N Ghosts</title>
+	<synopsis>Three years have passed since Arthur defeated the Demon King Astaroth and rescued his beloved Princess Prin-Prin (see Ghosts 'N Goblins). A new villain, the Great Demon King Lucifer (Loki in some versions) has become the new leader of Ghoul Realm. While returning from a journey, Arthur sees the Princess' castle and her village under attack by Lucifer's forces. While rushing towards her beloved knight, the Princess is struck by one of Lucifer's laser beams.
+
+Now, Arthur must venture back to the Lucifer's palace and destroy the demon in order to rescue the Princess' soul and bring her back to life! And it won't matter whether he fights in his shining armor or in his underwear alone...the bravest Knight in the land isn't going to be stopped by some monsters! Although the game starts with graveyard and marsh territory familiar from the first game, later levels are set in a tower, a mass of skeletons, and a castle.
+
+Players progress from left to right (from bottom to top in level 3), and have to hack down the aforementioned monsters with a sword. The journey includes ledges, ladders, lava pits and slippery slopes. Different weapons can be collected, by finding suits of armor inside chests. Each of the five stages has its own setting and a final boss.</synopsis>
+	<genre>Action,Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Cuando los caballeros recorrieron el campo en busca del Santo Grial, defendieron el honor de las doncellas y libraron una batalla interminable contra las fuerzas del mal. Arrojado en este caos, eres el valiente Sir Arthur. Un caballero victorioso con la asombrosa misión de penetrar en el Castillo del Demonio para pulverizar al Príncipe de la Oscuridad. ¿Puedrás hacerlo? Depende de ti. Estarás en el Pueblo de Decay, el Pueblo de Fuego y el Bosque de Cristal con un arsenal de armas a tu lado. Y cuando realmente estás de suerte, las artes mágicas pueden tener resultados poderosos. ¿El único problema? Tendrás que aprender a usarlo, y evitarlo, Porque tu magia tiene el poder de convertirte en un pato indefenso, entre otras cosas. Pero no hay mucho tiempo. Las vidas dependen de ti. Así que blande tu espada y haz carne picada de tus enemigos.</synopsis>
+	<genre>Acción,Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Trois ans après les événements de Ghosts'n Goblins, le monde est à nouveau attaqué par les démons. Guenièvre, la fiancée d'Arthur le chevalier, est tuée sous ses yeux par Lucifer en personne. Arthur est donc forcé de parcourir le royaume infesté de créatures maléfiques pour sauver l'âme de sa bien aimée.</synopsis>
+	<genre>Action,Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Der Spielablauf ist vergleichbar mit dem von Ghosts 'n Goblins. Der Spieler kontrolliert den Ritter ?Arthur? und muss versuchen, durch verschiedene Level hinweg und gegen eine Schar von Untoten und Dämonen, Seelen, die von seinem Widersacher ?Loki? gestohlen wurden, wiederzufinden. Auf diesem Weg findet der Spieler verschiedene Waffen und Rüstungen, die ihm bei diesem Vorhaben helfen.</synopsis>
+	<genre>Action,Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>O cavaleiro Arthur (que não tem ligação alguma com o Rei Arthur da mitologia bretã) precisa enfrentar um vasto exército de monstros, fantasmas e demônios para salvar a princesa Prin-Prin(chamada de princesa Tamara nos manuais das versões de 8 bits), aprisionada no castelo de Lucifer (chamado de Loki em algumas versões) e as almas roubadas por ele.</synopsis>
+	<genre>Ação,Plataforma</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Dai-Makaimura</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>NEC</publisher>
+		<date year="1990" month="07" day="27"/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="1-2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Madou King Granzort">
+		<id>59385</id>
+	<locale lang="EN">
+	<title>Madou King Granzort</title>
+	<synopsis>In 2050, after a great earthquake, the Moon got an atmosphere and conditions for normal human life. 50 years later, the Moon is inhabited by humans and a great tourist attraction. A boy called Daichi arrives on the Moon and hears the strange stories about people with rabbit ears. Soon he meets V-Mei, an old witch and her granddaughter Guri Guri, the members of the Long-Ears race which is in war with the evil Jadou Clan who wants to conquer the world. Sensing a power in the boy, V-Mei gives the magic gun to Daichi and reveals to him that he is the chosen Madou Warrior who will save the Long-Ears race and their land Rabiluna from the evil Jadou Clan. With the magic gun, Daichi can summon Granzort ? the Madou King of Earth ? a giant robot to fight against the monsters of the Jadou Clan.
+
+Soon, Daichi, V-Mei and Guri Guri meet two other boys ? Gus and Rabi. Gus receives a magic bow that summons Winzart ? the Madou King of Wind, while Rabi receives a magic top that summons Aquabeat ? the Madou King of Water. Together, Daichi, Gus, Rabi, V-Mei and Guri Guri travel to the world of Rabiluna in order to free it from the Jadou Clan.</synopsis>
+	<genre>Platform,Action</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>¨Madou King Granzort¨ está basado en el anime del mismo nombre. La historia tiene lugar en un contexto de ciencia-ficción en el que a unos niños se les da poderes especiales para salvar al mundo del malvado clan Jadou. Para ser más exactos, pueden convocar a tres criaturas de gran poder: Los reyes Madou de la tierra, el agua y el viento. El jugador toma el papel de estos reyes, para derrotar al clan Jadou. 
+
+El jugador tiene que encontrar el camino a través de los niveles, mientras que resuelve los desafíos de plataformas básicos y una gran cantidad de combates, ya sea con una espada o disparando. El jugador puede cambiar entre los reyes Madou que tienen capacidades diferentes. Es importante vigilar la barra de energía y el límite de tiempo: el resultado de que se acabe cualquiera de estos es la pérdida de una vida.</synopsis>
+	<genre>Plataforma,Acción</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Madouou Granzort est un jeu de plates-formes/action qui se compose de sept zones gardées chacune par un boss.
+Vous allez traverser des ruines, des souterrains, une forêt ou encore un quelconque complexe futuriste en laminant des robots de diverses formes.
+Vous ferez sauter votre personnage en appuyant sur le bouton I et le ferez frapper en pressant la touche II. C'est le bouton Select qui met le jeu en pause, car Run est utilisé pour changer de héros. Vous pouvez à tout instant passer du chevalier rouge au vert, puis au bleu et ainsi de suite.</synopsis>
+	<genre>Plateforme,Action</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform,Action</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>¨Madou King Granzort¨ é baseado em um anime de mesmo nome. A história se passa em um contexto de ficção científica em que agumas crianças recebem poderes especiais para salvar o mundo do clã malvado Jadou. Para ser mais exato, eles podem invocar três criaturas de grande poder: os reis Madou da terra, água e vento. O jogador assume o papel desses reis, para derrotar o clã Jadou.</synopsis>
+	<genre>Plataforma,Ação</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Madou King Granzort</title>
+	</locale>
+		<developer>Sunrise Software</developer>
+		<publisher>Hudson</publisher>
+		<date year="1990" month="04" day="06"/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+</datafile>

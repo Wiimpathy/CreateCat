@@ -1,0 +1,41 @@
+37385A|1944 - The Loop Master|1944 : The Loop Master||Shoot'em up / Vertical,Shoot'em Up,|2||Capcom|Capcom|2000
+37386A|19xx - The War Against Destiny|19XX : The War Against Destiny||Shoot'em up / Vertical,Shoot'em Up,|2||Capcom|Capcom|1996
+37388A|Alien Vs Predator|Alien VS Predator|Alien vs. Predator|Beat'em Up,|3||Capcom|Capcom|1994
+37387A|Armored Warriors|Armored Warriors||Beat'em Up,|3||Capcom|Capcom|1994
+37389A|Battle Circuit|Battle Circuit||Beat'em Up,|4||Capcom|Capcom|1997
+37390A|Capcom Sports Club|Capcom Sports Club||Sports,Compilation,|2||Capcom|Capcom|1997
+37391A|Cyberbots - Fullmetal Madness|Cyberbots : Fullmetal Madness||Fight,Fight / Versus,|2||Capcom|Capcom|1995
+37394A|Dimahoo|Dimahoo||Shoot'em up / Vertical,Shoot'em Up,|2||Raizing|Raizing|2000
+37392A|Dungeons And Dragons - Shadow Over Mystara|Dungeons & Dragons : Shadow over Mystara||Beat'em Up,|4||Capcom|Capcom|1996
+37393A|Dungeons And Dragons - Tower Of Doom|Dungeons & Dragons : Tower of Doom||Beat'em Up,|4||Capcom|Capcom|1993
+37395A|Eco Fighters|Eco Fighters||Shoot'em up / Horizontal,Shoot'em Up,|2||Capcom|Capcom|1993
+41446A|Giga Wing|Giga Wing||Shoot'em up / Vertical,Shoot'em Up,|2||Takumi|Capcom|1996
+149430|Hyper Street Fighter 2 - The Anniversary Edition|Hyper Street Fighter II: The Anniversary Edition||Fight,Fight / Versus,|2||Capcom|Capcom|2003
+40548A|Janpai Puzzle Choukou|Janpai Puzzle Choukou||Puzzle-Game,Puzzle-Game / Equalize,|1||Mitchell Corporation|Mitchell (Capcom license)|2001
+41934A|Jyangokushi - Haoh No Saihai|Jyangokushi: Haoh no Saihai||Mahjong,Asiatic board game,|1|||Capcom|1999
+37399A|Mars Matrix - Hyper Solid Shooting|Mars Matrix: Hyper Solid Shooting||Shoot'em up / Vertical,Shoot'em Up,|2||Takumi|Takumi|2000
+37401A|Marvel Super Heroes|Marvel Super Heroes||Fight / Versus,Fight,|2||Capcom|Capcom|1995
+37402A|Marvel Super Heroes Vs. Street Fighter|Marvel Super Heroes vs. Street Fighter||Fight / Versus,Fight,|2||Capcom|Capcom|1997
+37403A|Marvel Vs. Capcom - Clash Of Super Heroes|Marvel vs. Capcom : Clash of Super Heroes||Fight / Versus,Fight,|2||Capcom|Capcom|1998
+150815|Mega Man - The Power Battle|Mega Man: The Power Battle||Fight,|2||Capcom|Capcom|1995
+78893A|Mega Man 2 - The Power Fighters|Mega Man 2: The Power Fighters||Fight / Co-op,Fight,|2||Capcom|Capcom|1996
+37400A|Mighty! Pang|Mighty! Pang||Puzzle-Game,|2||Mitchell|Mitchell|2000
+44387A|Night Warriors / Vampire Hunter - Darkstalkers' Revenge|Night Warriors: Darkstalkers' Revenge||Fight,Fight / Versus,|2||Capcom|Capcom|1995
+37404A|Progear|Progear||Shoot'em up / Horizontal,Shoot'em Up,|2|Coop|Capcom|Capcom|2001
+37405A|Puzz Loop 2|Puzz Loop 2||Puzzle-Game,Puzzle-Game / Throw,|2||Mitchell|Mitchell|2001
+42597A|Quiz Nanairo Dreams - Nijiirochou No Kiseki|Quiz Nanairo Dreams: Nijiirochou no Kiseki||Quiz,Quiz / Japanese,|2||Capcom|Capcom|1996
+42766A|Ring Of Destruction - Slam Masters 2|Ring of Destruction: Slam Masters II||Fight,|2||Capcom|Capcom|1994
+42986A|Street Fighter Alpha - Warriors' Dreams|Street Fighter Alpha: Warriors' Dreams||Fight,Fight / Versus,|2||Capcom|Capcom|1995
+37408A|Street Fighter Alpha 2|Street Fighter Alpha 2||Fight,Fight / Versus,|2||Capcom|Capcom|1996
+37409A|Street Fighter Alpha 3|Street Fighter Alpha 3|Street Fighter Alpha 2|Fight,Fight / Versus,|2||Capcom|Capcom|1998
+43009A|Street Fighter Zero 2 Alpha|Street Fighter Zero 2 Alpha||Fight,Fight / Versus,|2||Capcom|Capcom|1996
+37410A|Super Gem Fighter - Mini Mix|Super Gem Fighter: Mini Mix||Fight,Fight / Versus,|2||Capcom|Capcom|1997
+37411A|Super Puzzle Fighter 2 Turbo|Super Puzzle Fighter II Turbo||Puzzle-Game,Puzzle-Game / Fall,|2||Capcom|Capcom|1996
+43304A|Super Street Fighter 2 - The New Challengers|Super Street Fighter II: The New Challengers||Fight,Fight / Versus,|2||Capcom|Capcom|1993
+37413A|Super Street Fighter 2 Turbo|Super Street Fighter II Turbo||Fight,Fight / Versus,|2||Capcom|Capcom|1994
+41049A|Vampire / Darkstalkers - The Night Warriors|Darkstalkers: The Night Warriors||Fight,Fight / Versus,|2||Capcom|Capcom|1994
+37415A|Vampire Hunter 2 - Darkstalkers' Revenge|Vampire Hunter 2: Darkstalkers' Revenge||Fight,Fight / Versus,|2||Capcom|Capcom|1997
+37417A|Vampire Savior - The Lord Of Vampire|Vampire Savior: The Lord of Vampire||Fight,Fight / Versus,|2||Capcom|Capcom|1997
+37418A|Vampire Savior 2 - The Lord Of Vampire|Vampire Savior 2 : The Lord of Vampire||Fight,Fight / Versus,|2||Capcom|Capcom|1997
+37420A|X-men Vs. Street Fighter|X-Men vs. Street Fighter||Fight,|2||Capcom|Capcom|1996
+37419A|X-men - Children Of The Atom|X-Men: Children of the Atom||Fight,Fight / Versus,|2||Capcom|Capcom|1994

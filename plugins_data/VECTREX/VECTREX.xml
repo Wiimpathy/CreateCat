@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+  <WiiTDB version="201812050837" games="76"/>
+  <game name="3d Crazy Coaster">
+    <id>58798A</id>
+    <locale lang="EN">
+      <title>3D Crazy Coaster</title>
+      <synopsis>Climb aboard the Crazy Coaster and get ready for a roller coaster ride more dangerous and exciting than any you've experienced before! The magic of Vectrex 3-D makes your ride so real... you'll feel yourself leaning with the G-force!
+You control the movements of the passenger in the lead car as he plummets down the spectacularly steep hills and careens around the gravity-defying curves of the Crazy Coaster. Will you be able to keep his arms raised throughout the ride without sending him flying off into space?!</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Simulateur de grand huit spécialement réalisé pour le 3-D Imager</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Simulation</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="3d Mine Storm">
+    <id>58800A</id>
+    <locale lang="EN">
+      <title>3D Mine Storm</title>
+      <synopsis>In 3D Mine Storm, the player controls a ship through multiple mine fields destroying all mines on each field to progress to the next field. The game will start with the enemy minelayer seeding the first mine field. Mines are left in 3 different levels or planes per field. The player's ship will come into view after all the mines have been activated and the minelayer has left the field.</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Version 3D (avec le VECTREX 3D IMAGER) du jeu original Mine Storm.
+Il s'agit d'un jeu de tire ou vous devez detruire des mines depuis votre vaisseau spacial</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="3d Narrow Escape">
+    <id>58801A</id>
+    <locale lang="EN">
+      <title>3D Narrow Escape</title>
+      <synopsis>Enter the stellar fortress of a 23rd century warlord whose evil intent is to dominate your home star system and enslave all its inhabitants.
+Your mission is to navigate through the narrow and fast-moving passages of the fortress and destroy the warlord's defense forces and his powerful arsenal. Beware... the passages of the fortress will encircle you in 3-D terror while the warlord's defense systems will become increasingly more menacing. Will you succumb to the evil of the warlord or destroy him and make a Narrow Escape?!</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Pilotez votre vaisseau dans des couloirs en 3D (grâce au VECTREX 3D IMAGER) en détruisant vos ennemis et en évitant les obstacles.</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="17">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="8ball By Christopher Tumber">
+    <id>109027</id>
+    <locale lang="EN">
+      <title>Magic 8 Ball</title>
+    </locale>
+    <publisher>Tumber, Christopher</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="All Good Things By John Dondzila">
+    <id>109035</id>
+    <locale lang="EN">
+      <title>All Good Things</title>
+      <genre>Various</genre>
+      <synopsis>A one or two player various game published and developed by John Dondzila.</synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="1996" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+  </game>
+  <game name="Animaction - Advanced Animation">
+    <id>58810A</id>
+    <locale lang="EN">
+      <title>AnimAction: Advanced Animation</title>
+      <synopsis>ANIMACTION is the first video craft of its kind that enables you to create and animate your own art like never before! ANIMACTION's totally new concept lets you create any scene using pre-drawn figures and shapes... and then combine those with other figures, backgrounds and scenery you draw yourself!</synopsis>
+      <genre>Educational</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Educacional</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Logiciel d'animation, un des 3 à utiliser le LIGHT PEN</synopsis>
+      <genre>Ludo-Educatif</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Lernspiel</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Armor Attack">
+    <id>58812A</id>
+    <locale lang="EN">
+      <title>Armor Attack</title>
+      <synopsis>Maneuver your jeep through the streets and alleys of an occupied town. Hide from the enemy tanks behind buildings and launch your own surprise attack! Improve your chance of survival by playing with an alley. But beware of the deadly helicopter flying overhead . . . no place is safe from this treacherous enemy.</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Vous êtes un véhicule armé de missiles qui doit détruire ses attaquants dans un labyrinthe. Vous devrez vous défendre aussi bien de tanks que d'hélicoptères désireux de faire exploser votre belle auto. Si les animations de ce jeu sont assez rudimentaires, la jouabilité vous demandera un certain temps d'adaptation. 
+Milton Bradley signe ici une adaptation sur la console vectorielle du jeu sorti sur borne d?arcade trois ans plus tôt. Détendez vous les doigts, respirez un bon coup et préparez vous à affronter une armée entière à vous tout seul !</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>Cinematronics</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
+    </input>
+  </game>
+  <game name="Art Master">
+    <id>58814A</id>
+    <locale lang="EN">
+      <title>Art Master</title>
+      <synopsis>ART MASTER is a high performance, state-of-the-art experience that takes you into a world of art exploration you've never seen before! Finally, sketching comes of age... and your creativity comes to life.
+Advanced electronics technology now makes it possible for you to design, draw, and animate your own art! Draw a bird. Then watch it fly! Sketch a train. Then send it speeding down the railroad tracks! Watch a flower blow in the wind or children walk to school. What you create... you can animate.
+
+You don't have to be a super-artist to use and enjoy Art Master. All you need is a sense of adventure, fun and a little imagination! We'll show you how to make Art Master the key that unlocks all the creativity you've always known you had!</synopsis>
+      <genre>Educational</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Educacional</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Logiciel de Dessin utilisant le LIGHT PEN de la VECTREX</synopsis>
+      <genre>Ludo-Educatif</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Lernspiel</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Battle Earth Terror Hazard">
+    <id>109033</id>
+    <locale lang="EN">
+      <title>Battle Earth Terror Hazard</title>
+    </locale>
+    <publisher>Parssinen, Manu</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Battle Earth Terror Hazard And Vecsports Boxing">
+    <id>109029</id>
+    <locale lang="EN">
+      <title>Battle Earth Terror Hazard And Vecsports Boxing</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Bedlam">
+    <id>58823A</id>
+    <locale lang="EN">
+      <title>Bedlam</title>
+      <synopsis>Your home galaxy has been invaded by alien colonists hoping to claim all inhabited worlds as their own. Unacceptable!
+You have been given the ultimate responsibility of protecting your galactic neighbors from the invaders. Blasting the aliens with the amazing anti-molecular cannon transports them thousands of light years away where they will cause no further bedlam. But beware, the invaders will be increasingly ruthless.
+
+The future of the galaxy rests on your shoulders. Good luck!</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans un espace qui se restreint vous devrez dégommer tous les ennemis qui vous foncent droit dessus. On appréciera dans ce jeu la fluidité des animations mais la difficulté trop élevée gâche un peu l'intérêt de ce titre, dommage car l'idée de départ est bonne.</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>Milton Bradley</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Berzerk">
+    <id>58825A</id>
+    <locale lang="EN">
+      <title>Berzerk</title>
+      <synopsis>Maneuver your humanoid through the electrified mazes of robot filled rooms. You may kill the first group of robots but initial success does not mean survival... 
+future groups begin firing at you! Added danger lurks when Evil Otto enters. He can jump the maze walls and squash you if you linger too long!</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans un jeu à mi chemin entre Doom et Pac Man vous incarnez un petit bonhomme qui doit se frayer un chemin à l'aide de son flingue dans des labyrinthes infestés de monstres. Attention toutefois au smiley qui vous ramènera au point de départ</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>Stern Electronics, Inc.</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Birds Of Prey By John Dondzila">
+    <id>109030</id>
+    <locale lang="EN">
+      <title>Birds of Prey</title>
+      <genre>Shooter</genre>
+      <synopsis>Almost a Vectrex version of the classic arcade game Phoenix.</synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+  </game>
+  <game name="Blitz! Action Football">
+    <id>58827A</id>
+    <locale lang="EN">
+      <title>Blitz! Action Football</title>
+      <synopsis>Will you have a championship season or just be an also-ran?  You're in control as head coach of this championship caliber squad.  Run, pass, punt, kick field goals -- all the excitement of a real game.  Play against the computer's tough defense or invite a visiting coach to join in a real showdown!</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un jeu de football américain très rudimentaire</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Bubble Bobble">
+    <id>109023</id>
+    <locale lang="EN">
+      <title>Bubble Bobble</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Clean Sweep">
+    <id>58831A</id>
+    <locale lang="EN">
+      <title>Clean Sweep</title>
+      <synopsis>Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Des malfaiteurs ont cambriolé la banque, de l'argent traine encore dans les couloirs. 
+Vous allez devoir passer l'aspirateur dans tous les recoins pour ramasser l'argent qu'ils ont perdu, mais attention les cambrioleurs sont encore là ! 
+La contenance de votre aspirateur est limité, donc pensez à le vider de temps en temps dans le coffre situé au centre de la banque. Dans chaque coin se trouve des prises pour booster la puissance de l'aspirateur et permettre de vaincre les cambrioleurs. 
+
+Sous ce scénario un peu tiré par les cheveux se cache en fait, vous l'aurez deviné, un clône de Pac-Man.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="11">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Cosmic Chasm">
+    <id>58834A</id>
+    <locale lang="EN">
+      <title>Cosmic Chasm</title>
+      <synopsis>Can you save the galaxy by blowing up the alien-inhabited planet ... and get off the planet before you explode too? You must burrow deep inside, finding your way through the underground maze while battling the Planet Protectors. If you can get to the center, plant your one bomb and try to find your way out. It's only a matter of seconds before the planet goes BOOM!</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un jeu où avec votre char vous devrez détruire tous les ennemis qui s'approcheront de vous dans un territoire dont les frontières évoluent au fil du temps. Un jeu comme il en existe tant sur Vectrex mais qui reste assez addictif.</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>Milton Bradley</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Dark Tower">
+    <id>58836A</id>
+    <locale lang="EN">
+      <title>Dark Tower</title>
+      <synopsis>Enter the fantastic world of the Dark Tower -- a world filled with adventure, danger and all the mysteries of ancient times. You control a squadron of warriors as you search an adventure-filled forest for the magical keys that will unlock the entrance to the Dark Tower. Guide your warriors to the enchanted chests scattered throughout the forest -- each will contain a new puzzle, adventure, terror or treasure. Use your warriors wisely and beware the evils of the forest!
+
+Dark Tower is a fully playable unreleased prototype role playing game programmed in 1983. It was inspired by the 1981 Milton Bradley board game of the same name. The game was considered only a rumor for many years until it was finally made available for download and is now available for play on most multicarts.</synopsis>
+      <genre>Role playing games</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Juegos de rol</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le RPG à la sauce Vectrex, il faut le voir pour le croire! Votre chevalier parcours une forêt parsemée d'item et de montres. Les phases de combats sont assez drôles, du moins par leurs réalisations sommaires. Quand les monstres jouent à cache-cache derrière les arbres alors se profil une partie d'échange d'étoiles de ninja avec vous. Un jeu à découvrir pour son fun!</synopsis>
+      <genre>Jeu de rôles</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rollenspiele</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Engine Analyzer">
+    <id>58841A</id>
+    <locale lang="EN">
+      <title>Engine Analyzer</title>
+      <synopsis>Engine Analyzer was a diagnostic tool released by GCE for the Vectrex in 1983.</synopsis>
+      <genre>Various</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Varios</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Divers</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Verschiedene</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1983" month="" day=""/>
+  </game>
+  <game name="Fortress Of Narzod">
+    <id>58844A</id>
+    <locale lang="EN">
+      <title>Fortress of Narzod</title>
+      <synopsis>A long time ago, before our history began, wizards - both good and evil - battled for supremacy of the earth. It was a time of magic and adventure when all men possessed special powers.
+The most evil wizard, Narzod, gained the power to enslave all mankind. You are the only remaining honorable wizard with the knowledge to harness all the forces of good to defeat Narzod and destroy his sinister fortress. But Narzod has prepared for your approach and guards his realm with deadly creatures of darkness, including the Mystic Hurler. Beware, and approach the Fortress of Narzod with great caution!</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>A bord de votre vaisseau vous devrez détruire tous les ennemis qui vous fonceront dessus sans répit. La réalisation très soignée tout en vectorielle (d'où le nom de la console) vous fera apercevoir comme des débuts de 3D, notamment lors de l'explosion de votre engin. Sans doute l'un des meilleurs titres de cette console avec Scramble!</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Gravitrex By John Dondzila">
+    <id>109036</id>
+    <locale lang="EN">
+      <title>Gravitrex</title>
+      <genre>Shooter</genre>
+      <synopsis>Gravitrex is a clone of the arcade game Gravitar, where the player must infiltrate a series of planets and destroy all enemy bunkers. Humans on the surface must also be rescued and all fuel cells beamed up, plus the player must not run out of fuel. A reactor in each level must also be destroyed and the player must escape before it explodes.
+
+Also comes with a clone of Missile Command and a bonus hidden game, a clone of the Apple II game Sabotage.</synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="2002" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+  </game>
+  <game name="Heads Up - Action Soccer">
+    <id>58850A</id>
+    <locale lang="EN">
+      <title>Heads Up: Action Soccer</title>
+      <synopsis>Take the ultimate soccer challenge... without ever leaving your seat! Play with a friend or tackle the computer itself in an action-packed soccer game that takes all the concentration, strategy and split-second reactions of the real thing! You're in control as the realistic, dimensional players get the ball down the field by passing, bouncing and kicking it back and forth to one another - just like a real soccer game!
+HEADS-UP! And get ready for an exciting and demanding soccer tournament... complete with the roar of the crowd!</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un jeu de football plutôt bien réussit avec des joueurs dont le déplacement comique sur le gazon vous fera sans doute aimer ce jeu. Notez la digitalisation de la voie en début très sympa</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>Milton Bradley</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Hyperchase">
+    <id>58851A</id>
+    <locale lang="EN">
+      <title>Hyperchase</title>
+      <synopsis>Watch our for the guardrail! You're behind the wheel of your formula one racer about to start the world's toughest grand prix. Try to stay alive through city streets and country roads. Start your engine - the start lights are counting down!</synopsis>
+      <genre>Race, Driving / Race,Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción / Carreras,Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Bouclez votre ceinture, calez vous bien au fond du siège baquet et passer la première, puis la seconde... vous l'aurez compris, Hyperchase est un jeu de course automobiles. Un jeu de très bonne facture où le rendu de la vitesse est plutôt réussi mais comme souvent dans les jeux Vectrex, la jouabilité enlève un peu de charme au titre. Les crashs de votre bolide seront trop nombreux pour réussir à tenir plus de 10 minutes de jeu. Cela dit, ce jeu reste à essayer car c'est fou la vitesse qu'il arrive à reproduire en utilisant juste quelques vecteurs.</synopsis>
+      <genre>Course, Conduite / Course,Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren / Rennen,Rennen, Fahren</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Corrida, Pilotagem / Corrida,Corrida, Pilotagem</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Labyrinth">
+    <id>109034</id>
+    <locale lang="EN">
+      <title>Labyrinth</title>
+    </locale>
+    <publisher>Salomon, Christopher</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mail Plane">
+    <id>59197A</id>
+    <locale lang="EN">
+      <title>Mail Plane</title>
+      <synopsis>With your Light PEN, control the airborne vehicle tasking you with delivering letters.</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Utilisez votre Light PEN pour contrôler votre avion postal et distribuez le courrier</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Simulation</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Melody Master - Music Composition And Entertainment">
+    <id>58862A</id>
+    <locale lang="EN">
+      <title>Melody Master: Music Composition and Entertainment</title>
+      <synopsis>MELODY MASTER is a high performance learning tool that's easy, educational and most of all...fun! Join the electronic revolution and let your own musical creativity come to life! State-of-the-art technology now makes it possible for you to read music, recognize notes by ear and create anything you can hear. Try to compose a hit song! Play and old favorite! Watch your musical dreams take shape and sound!</synopsis>
+      <genre>Educational</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Educacional</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Faite de la musique avec votre VECTREX et son LIGHT PEN</synopsis>
+      <genre>Ludo-Educatif</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Lernspiel</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mine Storm">
+    <id>58864A</id>
+    <locale lang="EN">
+      <title>Mine Storm</title>
+      <synopsis>The game begins with a large enemy ship dropping mines onto the field as an ominous jingle plays, and moves from the top to the bottom of the screen, where it disappears. The player's ship starts in the middle of the field with 5 lives. Numerous mines then start popping up. The player must destroy all of the mines in order to progress to the next minefield. All of the mines can be destroyed with one shot, or hit with the player's ship, costing the player a life. There are 4 types of mines.
+This game came programmed onto the Vectrex.</synopsis>
+      <genre>Action,Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción,Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Mine Storm est un jeu très Vectrexien : vous pilotez un vaisseau et vous devrez détruire tous les engins ennemies qui vous tourneront tout autour, si vous vous faites toucher, c'est simple, vous explosez! Une fois la zone nettoyée, vous passez au stage suivant. 
+
+(Attention, cette version Bug au lvl 13... D?où la version 2 de Mine Storm qui n'est rien d'autre qu'une version corrigé du 1)</synopsis>
+      <genre>Action,Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action,Shooter</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Ação,Tiro</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mine Storm 2">
+    <id>58865A</id>
+    <locale lang="EN">
+      <title>Mine Storm II</title>
+      <synopsis>Mine Storm is the built-in game that came with every Vectrex unit. It was also released in a 3-D version that required the use of the Vectrex 3D Imager and Mine Storm 2 is a debugged version of Mine Storm.
+
+One of the built-in versions of Mine Storm had a glitch that made the game crash at level 13, so GCE decided to send a copy of Mine Storm 2 to gamers that wrote to the company and complained.
+
+This game is rare, because most of the gamers didn't know about the offer, and also because not many gamers got to level 13.</synopsis>
+      <genre>Action,Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción,Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Mine Storm est un jeu très Vectrexien : vous pilotez un vaisseau et vous devrez détruire tous les engins ennemies qui vous tourneront tout autour, si vous vous faites toucher, c'est simple, vous explosez! Une fois la zone nettoyée, vous passez au stage suivant. 
+
+(Il s'agit ici de la version corrigé de Mine Storm qui permet de ne pas planter le jeu au niveau 13)</synopsis>
+      <genre>Action,Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action,Shooter</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Ação,Tiro</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Missile Lords By Christopher Tumber">
+    <id>109279</id>
+    <locale lang="EN">
+      <title>Missile Lords</title>
+      <genre>Shooter</genre>
+      <synopsis>Published by Public Domain in 2001, developed by  Christopher Tumber.</synopsis>
+    </locale>
+    <publisher>Tumber, Christopher</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Christopher Tumber</developer>
+  </game>
+  <game name="Moon Lander Demo By Clay Cowgill">
+    <id>109109</id>
+    <locale lang="EN">
+      <title>Moon Lander</title>
+      <genre>Demo</genre>
+      <synopsis>Published by Public Domain in 1997, developed by Clay Cowgill.</synopsis>
+    </locale>
+    <publisher>1997</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Clay Cowgill</developer>
+    <date year="1997" month="" day=""/>
+  </game>
+  <game name="Nona3 By Manu">
+    <id>109110</id>
+    <locale lang="EN">
+      <title>Nonagalf</title>
+      <genre>Demo</genre>
+      <synopsis>A one player golf demo game published by Public Domain in 2003, developed by Manu.</synopsis>
+    </locale>
+    <publisher>Parssinen, Manu</publisher>
+    <date year="2003" month="03" day="10"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Manu</developer>
+  </game>
+  <game name="Omega Chase">
+    <id>109111</id>
+    <locale lang="EN">
+      <title>Omega Chase</title>
+      <genre>Shooter</genre>
+      <synopsis>Omega Race was an arcade game where players flew around a limited playfield while destroying objects. Unlike many other games where collisions with walls would destroy a player's ship, players could bounce off of walls in Omega Race. Omega Chase is a clone of Omega Race.</synopsis>
+    </locale>
+    <publisher>Tumber, Christopher</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Christopher Tumber</developer>
+  </game>
+  <game name="Patriots 3 - Ballistics Busters By John Dondzila">
+    <id>108928</id>
+    <locale lang="EN">
+      <title>Patriots III - BALListics Busters</title>
+      <genre>Shooter</genre>
+      <synopsis>Special third version of the original game.
+
+The player controls a series of ground-level cannons and must use them to protect six bases which have no defenses. Waves of missiles will descend on a course to take out both the player's cannons and bases. The farther along the waves get, the more missiles will attack simultaneously in addition to descending at a faster rate. To create even more difficulty, later in each wave, there will both be ships that fly over and release more missiles and smart bombs will fall from the sky. The ships' missiles acts just as the common missiles; however, the smart bombs will pick a target and avoid the player's cannon fire. These smart bombs will stop and even rise to avoid the player's fire. If an enemy successfully destroys a cannon, the player will lose the ability to fire from that cannon for the remainder of that wave. If all bases are destroyed, the game will be over. </synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="1996" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+  </game>
+  <game name="Patriots By John Dondzila">
+    <id>109112</id>
+    <locale lang="EN">
+      <title>Patriots</title>
+1996-01-01
+      <genre>Shooter</genre>
+      <synopsis>The player controls a series of ground-level cannons and must use them to protect six bases which have no defenses. Waves of missiles will descend on a course to take out both the player's cannons and bases. The farther along the waves get, the more missiles will attack simultaneously in addition to descending at a faster rate. To create even more difficulty, later in each wave, there will both be ships that fly over and release more missiles and smart bombs will fall from the sky. The ships' missiles acts just as the common missiles; however, the smart bombs will pick a target and avoid the player's cannon fire. These smart bombs will stop and even rise to avoid the player's fire. If an enemy successfully destroys a cannon, the player will lose the ability to fire from that cannon for the remainder of that wave. If all bases are destroyed, the game will be over. </synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="1996" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+
+  </game>
+  <game name="Patriots Remix By John Dondzila">
+    <id>108927</id>
+    <locale lang="EN">
+      <title>Patriots Remix</title>
+      <genre>1996-01-01</genre>
+      <synopsis>None|0|Tweaked and improved second release.
+
+The player controls a series of ground-level cannons and must use them to protect six bases which have no defenses. Waves of missiles will descend on a course to take out both the player's cannons and bases. The farther along the waves get, the more missiles will attack simultaneously in addition to descending at a faster rate. To create even more difficulty, later in each wave, there will both be ships that fly over and release more missiles and smart bombs will fall from the sky. The ships' missiles acts just as the common missiles; however, the smart bombs will pick a target and avoid the player's cannon fire. These smart bombs will stop and even rise to avoid the player's fire. If an enemy successfully destroys a cannon, the player will lose the ability to fire from that cannon for the remainder of that wave. If all bases are destroyed, the game will be over. </synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="1996" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pitcher's Duel">
+    <id>59206A</id>
+    <locale lang="EN">
+      <title>Pitcher's Duel</title>
+      <synopsis>This title is the Vectrex's only baseball sports title to be released to date. While not a perfect reproduction of the game of baseball, this title is fairly accurate. A distinctive feature for this title is the inclusion of ESPN Strike Zone© style of view during the pitch.</synopsis>
+      <genre>Sports / Baseball,Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Deportes / Béisbol,Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Jeu de Baseball sur Vectrex qui reprend certaine vue du ESPN Strike Zone©</synopsis>
+      <genre>Sport / Baseball,Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport / Baseball,Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Esporte / Baseball,Esporte</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>CGE Services</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Polar Rescue">
+    <id>58878A</id>
+    <locale lang="EN">
+      <title>Polar Rescue</title>
+      <synopsis>Journey to the icy waters beneath the North Pole. As commander of a powerful and highly maneuverable submarine, you must rescue the survivors of an ill-fated expedition.
+Seek out the survivors on your sonar screen and pilot your sub to their rescue! To complete your mission, you must avoid deadly mine fields, enemy submarines and the terror of the maelstrom! Monitor your oxygen supply carefully and hurry! Lives are at stake!</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Explorez les profondeurs avec Polar Rescue où vous serez le seul maitre à bord d'un sous-marin. Un jeu à réserver aux amateurs du genre qui voudraient concilier vecteurs et abysse. </synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Pole Position">
+    <id>58879A</id>
+    <locale lang="EN">
+      <title>Pole Position</title>
+      <synopsis>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
+Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Vous parcourez des circuits à tout allure au pied du Fuji Yama. Une réalisation assez soignée pour du vectoriel, une sensation de vitesse plutôt bien rendue également. Le principal défaut de ce jeu reste sa jouabilité, attention lorsque vous dépassez vos adversaires à ne pas les frôler de trop prêt sinon c'est l'explosion assurée!</synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>Namco</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Ra+a Spectrum I+ Stress Tester">
+    <id>58882A</id>
+    <locale lang="EN">
+      <title>RA+A Spectrum I+ Stress Tester</title>
+      <synopsis>Stress Tester designed to see how responsive the user was to color changes.
+
+Discover how color affects your life.......
+
+Choose all 8 colors and the computer will accurately determine</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Simulation</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <date year="1982" month="" day=""/>
+  </game>
+  <game name="Repulse By John Dondzila">
+    <id>109113</id>
+    <locale lang="EN">
+      <title>Repulse</title>
+      <genre>Shooter</genre>
+      <synopsis>This is a clone of Eliminator, where the player must destroy a floating fortress while evading sentry ships. The sentry ships will careen out of control when shot, but cannot be destroyed; the player can only shoot them and hopefully knock them against the fortress, which will temporarily destroy them (although they will reappear within seconds), and they can shoot you in the same manner as well. If the fortress isn't destroyed after a while, it's alien will emerge from it and come after you, but if shot several times it will re-appear inside the fortress. 
+
+Colliding with the fortress or being shot by the alien will cause the player to lose a ship; after all ships have been depleted the game ends. An extra ship is granted with every time the fortress is destroyed, but with every time this is accomplished, more and more sentry ships are added to each successive level. </synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+  </game>
+  <game name="Rip-off">
+    <id>58884A</id>
+    <locale lang="EN">
+      <title>Rip-Off</title>
+      <synopsis>Beware of scavenging pirates trying to steal your precious fuel cells! The more pirates you destroy, the faster their successors become. Guard your tanks carefully... you are always outnumbered!</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Dans Rip-Off vous êtes dans un vaisseau (comme souvent dans les jeux Vectrex) où vous devrez protéger une sorte de butin placé au centre de l'écran. Des vaisseaux ennemies viennent pour vous chaparder les items symbolisés par des triangles, si vous n'arrivez pas à protéger des voleurs ces items, votre partie se termine. Pour empêcher les voleurs de s'approcher de trop prêt ou qu'ils ne repartent avec "le précieux", vous pouvez leur tirer dessus. Si vous tué un voleur qui s'est déjà saisi d'un objet, vous remportez des points bonus.</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>Cinematronics</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Rockaroids Remix - 3rd Rock By John Dondzila">
+    <id>109114</id>
+    <locale lang="EN">
+      <title>Rockaroids Remix - 3rd Rock</title>
+      <genre>Shooter</genre>
+      <synopsis>Asteroids was a gigantic hit in the arcades. Being one of the earlier vector games, it made sense for clones of it to appear on the Vectrex, which occurred with Mine Storm, then years later with Rockaroids as one of the earliest homebrew games, as well as this remix.
+
+Players control a ship that must destroy rockaroids. Shooting a big rockaroid turns into two medium-sized ones; when shot, a medium rockaroid will turn into two small ones, which shooting a small rockaroid will destroy it. Flying saucers will also appear from time to time and fire several times as they cross the screen. 
+
+Players can turn their ship, thrust, and use hyperspace to put them in a random position on the screen in case of an emergency. However, the player’s ship can be destroyed upon re-emerging from hyperspace. Collision with any rock, saucer, or saucer’s fire will also destroy the player’s ship. The player’s ship is invincible for several seconds with each new ship and new screen of rockaroids though. 
+
+The game will end once the player is out of reserve ships. </synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="1996" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+  </game>
+  <game name="Ronen's Game Cart">
+    <id>109115</id>
+    <locale lang="EN">
+      <title>Ronen's Game Cart</title>
+      <genre>Various</genre>
+      <synopsis>Also known as Vaboom!/Vectrace, this is a bit of an unusual homebrew entry, due to it containing one of the very few racing games for the Vectrex (Vectrace). And it might also seem to be a bit unusual for another Kaboom! clone to be made for the system as well (Vaboom!, as the first clone, Spike's Water Balloons, from the All Good Things cartridge, was released four years earlier). Arguably, this odd pairing of games makes this cartridge still stand out a bit.
+
+Vaboom!
+Like with Kaboom!, it is the player's job to catch all of the bombs "the man" (as he is called in this version) at the top of the screen drops down with a set of paddles. Unlike with Kaboom! though, the game starts off faster, and if the player misses a bomb, the action keeps right on going, with a paddle being lost, unlike how it will stop with the original before starting over at the previous round. But like the original though, the game will pause in between every successful round. If the player loses all of their paddles the game will end. 
+
+Occasionally a bomb will go flying back up the screen towards the man and may even hit him. If this happens, one of the 10 bricks that is supporting the bridge the man is standing on will disappear, and if he is hit 10 times, the bridge will fall and the player will enter a bonus round where the bombs fall very fast, but are worth three times as many points than during a regular round, and if the player misses a bomb during this round it won't count against them. 
+
+The man may also drop an occasional diamond that is worth a lot of points if caught, or an X that will cause the player to lose a paddle if caught. However, if the player catches a heart, that will replace a paddle. 
+
+Vectrace
+The player has a certain amount of time to pass a certain amount of cars during a race before time runs out or the player destroys their car. If the player doesn't occasionally increase their speed, their car will slow down by itself. The race takes place on a three lane road and other cars tend to overlap with each other, making the passing of the cars difficult at times. 
+
+The player's speed, car's "shape", score, high score, and time is displayed on the screen. 
+
+Whenever the player strikes a car, the shape goes down, which, if it reaches zero, the player loses one of their five cars and they will have to start the race over. The player starts with a shape of 10 with each race.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Ronen Habot</developer>
+    <publisher>Packrat Video Games</publisher>
+    <date year="2000" month="" day=""/>
+  </game>
+  <game name="Scramble">
+    <id>58895A</id>
+    <locale lang="EN">
+      <title>Scramble</title>
+      <synopsis>Watch out for that next mountain! Maneuver your ship over a rough terrain in an effort to destroy the enemy base. Careful piloting alone won't get you to your destination... You must brave rockets, UFOs, flamoids and some very tight tunnels. Few people have ever seen the enemy base, let alone destroy it. Will you be one of the select few?</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Quatre années avant GRADIUS un petit jeu sortit sur Vectrex portant le nom de Scramble faisait son apparition. Ce jeu pourrait parfaitement être son père vu la ressemblance frappante qu'il existe entre ces deux titres. 
+
+Comme dans tout bon shoot them up, vous pilotez un vaisseau spatial qui doit se faire un chemin entre les différentes formes du relief tout en dégommant les ennemies qui ont prit possession de l'air et de la terre. Pour faire face à ces dangers, votre navette est équipée de deux types de tirs : un tire horizontal pour tuer les ennemis qui arrivent en face de vous et l'autre vertical pour détruire les engins au sol. </synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>Konami</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Sledge 3d">
+    <id>59207A</id>
+    <locale lang="EN">
+      <title>Sledge 3D</title>
+      <synopsis>A demo program for the 3-D Goggles. BaronVR described it like this : "The effect is that of a track extending from the monitor surface to about 3 feet inside the monitor surface, the speed controlled by pushing up or down on the joystick..."</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Simulation</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Solar Quest">
+    <id>58896A</id>
+    <locale lang="EN">
+      <title>Solar Quest</title>
+      <synopsis>How many types of alien vessels will you be able to destroy? Seven different types are after you. You must first destroy them and then attempt to rescue the survivors before that float into the sun. Don't get your ship too close to the sun... its high temperatures can destroy you.</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Avec votre vaisseau vous devez vous défendre de l'invasion d'ennemies qui tournent auprès du soleil. Un jeu comme il en existe déjà tant sur cette console et qui n'apporte pas vraiment de nouveautés hormis un beau soleil en plein milieu de l'écran, la classe!</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Space Wars">
+    <id>58943A</id>
+    <locale lang="EN">
+      <title>Space Wars</title>
+      <synopsis>Who says there are no rules in intergalactic warfare. Pick your own - bounce, expanded universe, black hole - as you embark on a deadly dogfight.</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Vous retrouverez encore une fois dans ce jeu de bataille spatial un vaisseau où vous devrez détruire les ennemies qui viendraient virevolter trop prêt de vous. Pas si différent de Solar Quest en faite.</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>Cinematronics</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Spike">
+    <id>58945A</id>
+    <locale lang="EN">
+      <title>Spike</title>
+      <synopsis>The dastardly villain, Spud, has kidnapped our heroine, the lovely and oh so innocent, Molly, and taken her far away to his secret hideout. "Eek! Help, Spike!"
+Spike, our courageous hero and Molly's true love, races to her rescue. He'll be relying on your skills and split-second timing to help him in his quest to save poor Molly. Maneuver Spike through treacherous obstacles and avoid the dangerous creatures along the way to Spud's hideout. If you're successful, Spike can rescue Molly and the two will live happily ever after - that is until Spud strikes again. "Oh. No!"</synopsis>
+      <genre>Action,Platform</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción,Plataforma</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Votre fiancée vient de se faire enlever sous vos yeux impuissants, vous n'avez donc plus qu'une seule obsession : la retrouver le plus rapidement possible! Pour cela il va falloir faire preuve d'agilité dans ce jeu de plateformes. Vous faites évoluer votre personnage (qui ressemble à une étoile) entre différents niveaux superposés en prenant des échelles pour y trouver des clés. 
+
+Un rendu 3D assez novateur pour ce qui est sans doute l'un des meilleurs jeux de cette console!</synopsis>
+      <genre>Action,Plateforme</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action,Plattform</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Ação,Plataforma</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Spike Hoppin' By John Dondzila">
+    <id>109116</id>
+    <locale lang="EN">
+      <title>Spike Hoppin'</title>
+      <genre>Action</genre>
+      <synopsis>Spike Hoppin' is a clone of the game Q*Bert, where the player must jump on all areas of a structure to make them the same color in order to advance to the next level. (With the Vectrex not being in color though, in this case, the player needs to make all the areas [which are represented by triangles] on a playfield either brighter or darker, depending on what the current level's requirement is.) 
+
+Several enemies with various mannerisms will attempt Spike's downfall, although a few items can help Spike out as well during a game. 
+
+The player controls Spike, the unofficial Vectrex mascot, who starts off every game on the top triangle of the first level. He must hop on all triangles, making them all the same shade -- either bright or dark, depending on what the current level requires -- in order to advance to the next level. (For the first several levels, all of the triangles have to be made darker.) Later levels require all triangles to be hopped on twice, while others can be hopped on, but should Spike hop on them again, they will revert back to the original shade, then have to be jumped on two more times to get them back to their correct shade that is needed to advance to the next level. 
+
+The levels are faced with perils; one of which that appears during a game are balls, which drop from the top down to the bottom of the playfield. Spike's enemy Spud will also behave like a ball when he first makes his entry during a level (although he will start off diamond-shaped) -- what with dropping from the top of the playfield to the bottom -- but then once he reaches the bottom row of triangles he will turn into Spud and start pursuing Spike. 
+
+Upside-Down Monsters also start appearing after several levels, starting at the bottom of the screen and working their way up, zig-zagging in between rows of triangles in the process. And LOG appears last, who will start at the top of the screen, jump around and change the triangles back to their original color if Spike had already jumped on them. 
+
+Colliding with any of these enemies (except for LOG) will result in Spike losing a life. Balls and Upside-Down Monsters can only be avoided, although Spud can be knocked away when Spike jumps on a disc that appears at the sides of the screen. However, Spud has to be himself, and not his original diamond form that he initially appears for this to work. An hourglass that starts showing up after several levels will also freeze all onscreen enemies for several seconds if Spike is able to grab it before it disappears from a level, as it starts off at the top of the screen and drops down to the bottom, one triangle at a time.</synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+  </game>
+  <game name="Spike's Water Balloons">
+    <id>109117</id>
+    <locale lang="EN">
+      <title>Spike's Water Balloons</title>
+      <genre>Action</genre>
+      <synopsis>Part of the 'All Good Things' cartridge collection.
+
+This is a clone of Kaboom!, a game that was ported to many home console platforms during the early 1980s by Activision. Instead of using buckets to catch bombs dropped by the "Mad Bomber" at the top of the screen like on the original, this time around the player uses Spike, the unofficial Vectrex mascot, to pop balloons with the top of his head that are dropped from his enemy Spud. Spike's head is a bit smaller than the original buckets, which, if the player misses a balloon, it will count against them, and once three balloons hit the ground the game is over. However, the player can kick a missed balloon back up towards Spud, somewhat reminiscent of the arcade game Kick Man.</synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+    <date year="2001" month="" day=""/>
+  </game>
+  <game name="Spin Ball">
+    <id>58951A</id>
+    <locale lang="EN">
+      <title>Spin Ball</title>
+      <synopsis>Get ready for even more excitement and split-second action than traditional arcade pinball. SpinBall's special features like a ball splitter, drop targets and ball savers will give you the ultimate pinball challenge. It even TILTS!
+SpinBall's action moves fast and furious. You'll need your sharpest reflexes to keep the ball in play and rack up bonus points.</synopsis>
+      <genre>Pinball</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Pinball</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Jeux de flipper, Une table, 5 balles, à vous de jouer</synopsis>
+      <genre>Flipper</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Flipper</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Star Castle">
+    <id>58952A</id>
+    <locale lang="EN">
+      <title>Star Castle</title>
+      <synopsis>You and other experienced intergalactic voyagers have heard about and shared the legend of Star Castle - a mysterious fortress in a far away galaxy filled with incredible riches and surrounded by revolving walls of shimmering solid gold. Yet no one, until now, has ever actually seen the Castle - or lived to tell about it!
+As you approach, you are overwhelmed with the beauty of the Castle but you suddenly realize that the golden walls hide a deadly arsenal. To survive you must destroy the walls and the powerful Energy Cannon they shield. Perhaps you will be the first to survive the Star Castle's arsenal and prove the legend true. Perhaps not!</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Partez à la conquête d'un château spatial en détruisant ses forteresses à l'aide de votre vaisseau. Attention, les remparts se régénèrent rapidement! Un jeu mélangeant adresse et action dans un style qui reste assez conventionnel pour cette console.</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>Cinematronics</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Star Fire Spirits By John Dondzila">
+    <id>109118</id>
+    <locale lang="EN">
+      <title>Star Fire Spirits</title>
+      <genre>Shooter</genre>
+      <synopsis>Part of the Vectopia collection.
+
+Early work on a Star Wars based conversion.</synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+  </game>
+  <game name="Star Seige By John Dondzila">
+    <id>109119</id>
+    <locale lang="EN">
+      <title>Star Wars Clone</title>
+      <genre>Shooter</genre>
+      <synopsis>Published and developed by John Dondzila in 1999.</synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+    <date year="1999" month="" day=""/>
+  </game>
+  <game name="Star Trek - The Motion Picture">
+    <id>58956A</id>
+    <locale lang="EN">
+      <title>Star Trek: The Motion Picture</title>
+      <synopsis>Welcome, Captain Kirk, to your command on the Starship Enterprise. Your mission is to seek out and destroy the enemy Klingon Mothership. Travel through nine sectors of space, each more difficult, or take a shortcut through the Black Hole. Be careful ... the Klingons and Romulans are hiding in space, waiting to destroy you at every turn!</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>A bord de l'Entreprise, secondé par le capitaine Kirk et M. Spock, vous devrez nettoyer l'espace infesté d'ennemies redoutables. La réalisation est très soignée, les débuts des effets 3D sont bien reproduits, un excellent jeu qui fait honneur à la série télévisée du même nom.</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Starhawk">
+    <id>58958A</id>
+    <locale lang="EN">
+      <title>Starhawk</title>
+      <synopsis>Fasten your seatbelt... you're the pilot defending the sovereignty of your planet. Don't blink - you might miss one of the alien vessels.</synopsis>
+      <genre>Action,Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción,Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Équipé de la puissance de feu de votre vaisseau spatial vous devrez tuer tous les ennemies qui passent sur l'écran. Vous voyez, un jeu classique mais qui profite d'une réalisation remarquable, un semblant de 3D semble pointer le bout de son nez.</synopsis>
+      <genre>Action,Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action,Shooter</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Ação,Tiro</genre>
+    </locale>
+    <developer>Cinematronics</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="13">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
+    </input>
+  </game>
+  <game name="Test Cartridge">
+    <id>58962A</id>
+    <locale lang="EN">
+      <title>Test Cartridge</title>
+      <synopsis>A one player utility game published and developed by GCE in 1992.</synopsis>
+      <genre>Various</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Varios</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Divers</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Verschiedene</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Tour De France">
+    <id>58966A</id>
+    <locale lang="EN">
+      <title>Tour De France</title>
+      <synopsis>A one player racing game published and developed by GCE in 1983.</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le Tour de France s'affiche sur Vectrex dans un jeu très bien réalisé. Parcourez sur la petite reine nos belles campagnes françaises. Pour avancer il va falloir pédaler, pour vous aider vous avez en bas de l'écran vos pignons histoire d'adapter votre pédalage le plus possible au relief. Un jeu en "3D" qui change des immuables guerres spatiales dont la console est friande. </synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1983" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Tsunami By Christopher Tumber">
+    <id>109120</id>
+    <locale lang="EN">
+      <title>Tsunami</title>
+      <genre>Shooter</genre>
+      <synopsis>Tsunami is a clone of Tempest and included 5 different stages and 3 different ways to control movement- joystick, spinner or compass.</synopsis>
+    </locale>
+    <publisher>2001</publisher>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Christopher Tumber</developer>
+    <date year="2001" month="" day=""/>
+  </game>
+  <game name="V-frogger By Chris Salomon">
+    <id>109134</id>
+    <locale lang="EN">
+      <title>V-Frogger</title>
+      <genre>Arcade</genre>
+      <synopsis>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.</synopsis>
+    </locale>
+    <publisher>Salomon, Christopher</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Vaboom! By Ronen Habot">
+    <id>109121</id>
+    <locale lang="EN">
+      <title>Vaboom! By Ronen Habot</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Vecmania Part 1">
+    <id>109122</id>
+    <locale lang="EN">
+      <title>Vecmania Part 1</title>
+      <genre>Various</genre>
+      <synopsis>Vecmania has the largest amount of games for a homebrew compilation for the Vectrex, with a full seven games (one hidden) and two unfinished demos, being clones of the arcade games of Tempest, Star Wars, Missile Command, Space Invaders, Eliminator, Breakout, Discs Of Tron, Asteroids and Phoenix. 
+
+The games can be scrolled through at the main menu by moving the joystick or D-pad left and right and then chosen by pressing up on the joystick or D-pad. The main menu can be returned to by pressing three on the controller when the player is on an individual game's title screen (except for the demos). </synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+    <publisher>Packrat Video Games</publisher>
+    <date year="1999" month="" day=""/>
+  </game>
+  <game name="Vecmania Part 2">
+    <id>109123</id>
+    <locale lang="EN">
+      <title>Vecmania Part 2</title>
+      <genre>Various</genre>
+      <synopsis>Updated version of the oriinal cartridge.
+
+Vecmania has the largest amount of games for a homebrew compilation for the Vectrex, with a full seven games (one hidden) and two unfinished demos, being clones of the arcade games of Tempest, Star Wars, Missile Command, Space Invaders, Eliminator, Breakout, Discs Of Tron, Asteroids and Phoenix. 
+
+The games can be scrolled through at the main menu by moving the joystick or D-pad left and right and then chosen by pressing up on the joystick or D-pad. The main menu can be returned to by pressing three on the controller when the player is on an individual game's title screen (except for the demos). </synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+    <publisher>Packrat Video Games</publisher>
+    <date year="1999" month="" day=""/>
+  </game>
+  <game name="Vecsports Kingpin Bowling By Manu">
+    <id>109124</id>
+    <locale lang="EN">
+      <title>VecSports Kingpin Bowling</title>
+      <genre>Sports</genre>
+      <synopsis>Entertaining Bowling game.</synopsis>
+    </locale>
+    <publisher>Parssinen, Manu</publisher>
+    <date year="2002" month="08" day="19"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+      <developer>Manu</developer>
+  </game>
+  <game name="Vectopia By John Dondzila">
+    <id>109125</id>
+    <locale lang="EN">
+      <title>Vectopia</title>
+      <genre>Various</genre>
+      <synopsis>Unlike the previous Vecmania, which comprised seven full games and two demos, the majority of Vectopia is composed of unfinished demos and only three full games. 
+
+In order to cycle through the games, once the menu screen appears after power-up, the player must press button one on the Vectrex controller, then to play a game they must press button four. </synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+  </game>
+  <game name="Vector Vaders By John Dondzila">
+    <id>109126</id>
+    <locale lang="EN">
+      <title>Vector Vaders</title>
+      <synopsis>March 8, 1996 marked a day of the rebirth of Vectrex games, as programmer John Dondzila unveiled Vector Vaders, which was not only the very first homebrew game for the machine, but it also started the plethora of new games for the Vectrex as well.
+
+Aside from having vector graphics and running a bit slow (although the game does speed up as more and more invaders are shot), this is a pretty standard Space Invaders-type game for the most part.</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="1996" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Vectrace">
+    <id>109127</id>
+    <locale lang="EN">
+      <title>Vectrace</title>
+      <genre>Racing</genre>
+      <synopsis>The player has a certain amount of time to pass a certain amount of cars during a race before time runs out or the player destroys their car. If the player doesn't occasionally increase their speed, their car will slow down by itself. The race takes place on a three lane road and other cars tend to overlap with each other, making the passing of the cars difficult at times. 
+
+The player's speed, car's "shape", score, high score, and time is displayed on the screen. 
+
+Whenever the player strikes a car, the shape goes down, which, if it reaches zero, the player loses one of their five cars and they will have to start the race over. The player starts with a shape of 10 with each race.</synopsis>
+    </locale>
+    <publisher>Habot, Ronen</publisher>
+    <date year="2000" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Ronen Habot</developer>
+  </game>
+  <game name="Vectrex Maze By Chris Salomon">
+    <id>109128</id>
+    <locale lang="EN">
+      <title>Vectrex Maze</title>
+      <genre>Action</genre>
+      <synopsis>A one player game published by Public Domain in 1998, developed by Chris Salomon.</synopsis>
+    </locale>
+    <publisher>Salomon, Christopher</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Chris Salomon</developer>
+  </game>
+  <game name="Vectrex Pong">
+    <id>109129</id>
+    <locale lang="EN">
+      <title>Vectrex Pong</title>
+      <genre>Sports</genre>
+      <synopsis>An entertaining 2 player only version of the arcade game Pong!</synopsis>
+    </locale>
+    <publisher>Salomon, Christopher</publisher>
+    <date year="1998" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Chris Salomon</developer>
+  </game>
+  <game name="Vectrexians">
+    <id>109130</id>
+    <locale lang="EN">
+      <title>Vectrexians</title>
+      <genre>Shooter</genre>
+      <synopsis>A fantastic port of the classic Galaxians, even down to some great sound effects.</synopsis>
+    </locale>
+    <publisher>Tuts, Kristof</publisher>
+    <date year="1999" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Kristof</developer>
+  </game>
+  <game name="Version Nine By Christopher Tumber">
+    <id>109131</id>
+    <locale lang="EN">
+      <title>Vix</title>
+      <genre>Action</genre>
+      <synopsis>VIX (Version 9) is a clone of Qix.</synopsis>
+    </locale>
+    <publisher>Tumber, Christopher</publisher>
+    <date year="2002" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Christopher Tumber</developer>
+  </game>
+  <game name="Verzerk By Alex Herbert">
+    <id>109132</id>
+    <locale lang="EN">
+      <title>Verzerk</title>
+      <genre>Arcade</genre>
+      <synopsis>Berzerk was a unique game at the time when it was released in the arcade for several reasons; first, being a maze game, it had 64,000 mazes, which was a gigantic number for any game of any gaming genre back then. It was also one of the first games that had speech synthesis as well (costing [US] $1,000 a word), which involved sassing the player when they didn't destroy all the robots in a maze, saying "chicken! Fight like a robot!", among several other brief phrases. 
+
+The A. I. for the game was also a bit unique as well, as the enemy robots were stupid, shooting and running into each other or walls, which would result in them being destroyed. The player would also earn points for every robot destroyed, no matter if they or the robots caused their [own] destruction. 
+
+If the player took too long to escape from a level, the indestructible Evil Otto nemesis would appear from wherever the player had originated from in a maze and bounce his way across the screen, through walls and robots alike. The fewer robots that remained, the faster Otto would travel. 
+
+Also, the indication of a difficulty level increase would be apparent with the robots changing color. They would also fire faster and with more shots as well as the player progressed through the levels. 
+
+The game involved the player(s) running their way through a series of mazes while destroying as many robots as possible; destroying all robots in a maze would result in a bonus. Touching any robot, explosion from destroyed robot or wall segment or being shot would cause them to lose a life, and once the player ran out of lives the game would end. 
+
+Verzerk is a hack of Berzerk, adding speech this time around, with a robotic voice welcoming the player during the attract mode, then states "this is Verzerk". The phrases from the original arcade version of "shoot him", "chicken, fight like a robot", "got you humanoid", etc. are included in this release. The game plays identically to Berzerk though, aside from that and only being for one player. </synopsis>
+    </locale>
+    <publisher>Herber, Axel</publisher>
+    <date year="2002" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Alex Herbert</developer>
+  </game>
+  <game name="Vexperience - B.e.t.h. And Vecsports Boxing By Manu">
+    <id>109133</id>
+    <locale lang="EN">
+      <title>Vexperience - B.e.t.h. And Vecsports Boxing By Manu</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="We Wish You A Merry Christmas By J. Woolsey">
+    <id>109135</id>
+    <locale lang="EN">
+      <title>We Wish You A Merry Christmas By J. Woolsey</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Web Wars">
+    <id>58994A</id>
+    <locale lang="EN">
+      <title>Web Wars</title>
+      <synopsis>Enter a galaxy of the future filled with adventure and danger - a galaxy unlike any you have imagined before.
+You become the Hawk King - a creature capable of incredible speed and power - as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Attention, chef d'oeuvre! Vous êtes un petit oiseau qui avance dans un univers réalisé en 3D vectorielle mais ça serait trop beau pour que votre balade se limite à ça, il nous faut des méchants pour que ça soit parfait et ça tombe bien car ils vont être nombreux!</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>GCE</developer>
+    <publisher>GCE</publisher>
+    <date year="1982" month="" day=""/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Wormhole By John Dondzila">
+    <id>109136</id>
+    <locale lang="EN">
+      <title>Wormhole</title>
+      <genre>Shooter</genre>
+      <synopsis>This is a clone of the arcade game Gyruss, where the player controls a ship that can spin around the screen in a circle and fire at ships that rapidly emerge from the center area of the screen. After the first level is cleared they will start firing at the player's ship, and there are also two ships that appear later in the game that creates a force field in between them (which shooting one or both ships will disable the field), along with an indestructible asteroid that emerges from the wormhole. 
+
+There is also a trio of Sentry ships that will appear from time to time that are worth either bonus points and certain ships that appears with them will grant power-ups. The Sentry ships that look like level one from Bedlam are just worth big points, but the ships that look like a Spiker from Tempest will destroy everything onscreen, the small ship will grant the player double shots, and the ship that looks like a sideways eight (or the infinity sign) slows the action down for several seconds. All of these ships that grant power-ups will appear in the middle, flanked by a Sentry ship on each side. 
+
+Once the player loses all of their ships the game is over. Enemy ships can pass through the player's ship unharmed though (except for the ones that generate the force field). Also, bonus ships are awarded at 20,000 and 40,000, with a Super Bonus granted at 60,000 and 160,000, which will raise the player's number of reserve ships to nine. 1000 points are also awarded for destroying a formation of ships before they make it back into the wormhole.</synopsis>
+    </locale>
+    <publisher>Dondzila, John</publisher>
+    <date year="2001" month="" day=""/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>John Dondzila</developer>
+  </game>
+</datafile>

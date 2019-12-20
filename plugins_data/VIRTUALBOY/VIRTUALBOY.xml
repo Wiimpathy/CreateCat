@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+  <WiiTDB version="201812050837" games="47"/>
+  <game name="3d Tetris">
+    <id>4731AA</id>
+    <locale lang="EN">
+      <title>3D Tetris</title>
+      <synopsis>3D Tetris is a 3D Tetris game on Virtual Boy with 3 modes. The first contains five layers of Tetris blocks. Each time you complete a layer the blocks fall, disappear and you'll be rewarded with points. In the second, you place the blocks around the center of a well, the aim being to make them disappear. In the third mode, a form will be posted before the start of the match. You will have to reproduce that form perfectly.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Un juego de Tetris en 3D con tres modos de juego:
+
+A. Aparece un pozo tridimensional, lo suficientemente grande como para contener cinco capas de bloques de Tetris. Cada vez que completas una capa con bloques que caen, esta se desvanecerá y recibirás una considerable dosis de puntos. Si alguna vez apilas sobre una de las cinco capas, perderás una de ellas, una vez que las cinco se hayan perdido, tu juego habrá terminado.
+
+B. En este modo, coloca bloques alrededor del centro del pozo, cualquier bloque colocado en el centro se desvanecerá, a menos que el bloque complete una capa, en cuyo caso desaparecerá.
+
+C. En este modo, se mostrará una forma antes de que comience el juego. Tendrás que replicar esta forma perfectamente, un bloque fuera de lugar y tu juego habrá terminado. Triunfa y después de una breve animación te mostrará una nueva forma.</synopsis>
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>3D Tetris est un jeu 3D Tetris sur Virtual Boy composé de 3 modes. Le premier contient cinq couches de blocs de Tetris. Chaque fois que vous terminez une couche les blocs tombent, disparaissent et vous serez récompensé par des points. Dans le deuxième, vous placez les blocs autour du centre d'un puits, le but étant de les faire disparaître. Dans le troisième mode, une forme sera affichée avant le début du match. Vous aurez à reproduire cette forme parfaitement.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>3D Tetris ist ein 3D-Tetris-Spiel auf Virtual Boy mit 3 Modi. Die erste besteht aus fünf Schichten von Tetris-Blöcke. Jedes Mal, wenn Sie füllen eine Schicht die Blöcke fallen, verschwinden und Sie werden mit Punkten belohnt. In der zweiten, legen Sie die Blöcke rund um das Zentrum von einem Brunnen, das Ziel, sie verschwinden zu lassen ist. Im dritten Modus wird eine Form vor dem Beginn des Spiels veröffentlicht. Sie werden diese Form perfekt reproduzieren müssen.</synopsis>
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>3D Tetris é um jogo 3D Tetris na Virtual Boy com 3 modos. A primeira contém cinco camadas de blocos de Tetris. Cada vez que você completar uma camada de blocos de cair, desaparecer e você será recompensado com pontos. Na segunda, você colocar os blocos em torno do centro de um poço, com o objectivo de torná-los desaparecer. No terceiro modo, uma forma serão publicadas antes do início da partida. Você terá de reproduzir essa forma perfeitamente.</synopsis>
+    </locale>
+    <developer>T&amp;E Soft</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1996" month="03" day="22"/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Ballface">
+    <id>172279</id>
+    <locale lang="EN">
+      <title>Ballface</title>
+      <synopsis>Ballface is a homebrew. Player is in a Labyrinth and must shoot ennemies.</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ballface est un homebrew ou le joueur doit shooter ses ennemis dans un labyrinthe.</synopsis>
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <developer>DanB</developer>
+    <date year="2013" month="01" day="06"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Blox">
+    <id>143416</id>
+    <locale lang="EN">
+      <title>Blox</title>
+      <synopsis>Blox was created by KR155E and are based off of the 1982 arcade game Sokobon, and the 1990 Game Boy game Boxxle. You move boxes around a board until they cover a tile that has a target on it. Once all the boxes are on a target you move on to the next level. Although it's a simple concept, like many good games, it gets harder as you progress. The length of the game depends on what difficulty you have the game set on.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Blox fue creado por KR155E y está basado en el juego arcade Sokobon de 1982, y en el juego Game Boy de 1990 Boxxle. Mueves cajas alrededor de una tabla hasta que cubren una casilla que es el objetivo. Una vez que todas las casillas estén en un objetivo, pasará al siguiente nivel. Aunque es un concepto simple, como muchos buenos juegos, se hace más difícil a medida que progresas. La duración del juego depende de la dificultad que tengas seleccionada.</synopsis>
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Homebrew developpé par KR155E,un programmateur allemand, seul chez lui et pendant son temps libre.
+Sur une planète lointaine vit une espèce appelée les Blobs. Ces Blobs aiment participer à des concours de puzzle. Bob le Blob est notre héros. Il regarde avec confiance dans le futur et voudrait gagner (selon le degré de difficulté) l'argent (facile) de bronze (normal) ou la médaille d'or (dure) dans ce concours.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Blox foi criado por KR155E e é baseado no arcade Sokobon (1982) e no jogo de Game Boy Boxxle (1990). Você move caixas ao longo do cenário até elas cobrirem o lugar designado, feito isso a fase termina. Embora tenha um conceito simples, Blox se torna difícil enquanto o jogo avança. A duração do jogo depende do nível de dificuldade.</synopsis>
+    </locale>
+    <developer>Christian Radke (KR155E)</developer>
+    <date year="2003" month="10" day="16"/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <publisher>KR155E</publisher>
+  </game>
+  <game name="Bound High">
+    <id>44479A</id>
+    <locale lang="EN">
+      <title>Bound High</title>
+      <synopsis>Originally developed by Japan System Supply, Nintendo liked the game idea of Bound High! and took over the project later. The game was, besides Dragon Hopper, going to be one of the games, which should have saved the system with a relaunch, but it was delayed again and again until it was cancelled because of the lack of success of the Virtual Boy. At this time, the game already was completely finished.
+
+In Bound High!, Chalvo, the bouncing robot, travels through space In full 3d-D motion in pursuit of alien invaders that threaten the peaceful inhabitants of Earth. Angling from above, players control rolled up Chalvo, who must destroy all enemies on the playfield by landing on them and throwing them down from the playfield. Falling off the playfield himself, Chalvo will loose a life.
+The playfield is in space, or high above the earth, and is made of many little squares, which are composed differently from level to level, once big plain areas, once many small, scattered blocks. Bouncing over the platforms can be quite incalculable and dangerous, while some are solid, other ones vanish after one hit or reveal puzzles, items or other objects and besides a lot of different enemies, Chalvo also has to carefully avoid winds, the deep crevices, sharp spikes and highly charged electric "shockers" that cause his demise. Adding to the difficulty is the rebound angle when you hit a moving enemy - you don't necessarily bounce straight up in the air.
+Sometimes blocks lead to an "Another Stage", some kind of mirrored parallel universe with inverted colors and without the dangerous winds.</synopsis>
+      <genre>Various</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Bound High sumerge a los jugadores en múltiples niveles de desafío del juego en 3D.</synopsis>
+      <genre>Varios</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Bound High! fait parti des jeux qui auraient pu sauver le Virtual boy si la console avait été relancée. Mais le jeu plusieurs fois repoussé a fini par être annulé devant le peu de succès de la console malgré avoir été mené à terme. Il s'agit donc d'une version non officielle.
+Chalvo, le robot bondissant, traque des envahisseurs aliens qui menacent la quiétude des habitants de la Terre dans des niveaux 3D situés dans l'espace, au-dessus de la Terre ou dans des univers parellèles.
+Le jeu propose quatre mode: 
+-mode "Aventure of Chalvo" avec 3 niveaux de difficulté au travers de 4 monde composés de 10 stages chacun (11 pour le quatrième monde) avec cinématiques, boss et stages bonus
+- mode "Score Attack" avec 16 niveaux ou il faut atteindre un score précis.
+- mode "Random Game" qui génére des niveaux aléatoire ou l'objectif est juste de s'amuser.
+- mode "Pocket and Cushion", une sorte de mini-golfe o Chalvo doit pousser des balles dans des trous.</synopsis>
+      <genre>Divers</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>Bound High eintaucht Spieler in mehreren 3D-Spiel Herausforderung Ebenen.</synopsis>
+      <genre>Verschiedene</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Bound High mergulha os jogadores em vários níveis de desafio do jogo 3D.</synopsis>
+    </locale>
+    <developer>Japan System Supply</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1996" month="02" day="23"/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Capitan Sevilla 2">
+    <id>172272</id>
+    <locale lang="EN">
+      <title>Capitan Sevilla 2</title>
+      <synopsis>Capitan Sevilla 2 is a port of the Action game Capitan Sevilla published on ZX Spectrum in 1988.</synopsis>
+      <genre>Action / Adventure,Action</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Acción / Aventura,Acción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Capitan Sevilla 2 est un port du jeu Capitan Sevilla sorti sur ZX Spectrum en 1988.</synopsis>
+      <genre>Action / Aventure,Action</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Action / Abenteuer,Action</genre>
+    </locale>
+    <locale lang="PT">
+      <genre>Ação</genre>
+    </locale>
+    <developer>Hi Score</developer>
+    <date year="2010" month="10" day="31"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Castle of Doom">
+    <id>172273</id>
+    <locale lang="EN">
+      <title>Castle of Doom</title>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Deathchase">
+    <id>172280</id>
+    <locale lang="EN">
+      <title>Deathchase</title>
+    </locale>
+    <developer>Matej Horvat</developer>
+    <date year="2014" month="02" day="28"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Nikochan Battle">
+    <id>44480A</id>
+    <locale lang="EN">
+      <title>Faceball</title>
+      <synopsis>Faceball was going to be one of the games to support the unreleased Virtual Boy GameLink cable. Like the Faceball games on other consoles (like Faceball 2000 on Game Boy and SNES), the Virtual Boy version could be described as an ego shooter with smiley balls. In a maze, which completely misses all unnecessary details and even textures, you have to hunt down and shoot all enemies in a certain time limit, which gets smaller from level to level. A radar in the upper right corner and a map of the maze, which you can be displayed by pressing Start, help you locate your foes. There's a total of 11 enemies called "Shot Me", "Ninja", "Death", "Stalker", "Invisible", "Bound", "Shieldman", "Ghost", "Hydra", "Wraith" and "Berserker". Each one is acting different, which requires different tactics. For example "Shieldman" hides behind an undestroyable shield, while "Berserker" runs into the player and knocks you off. You shouldn't let too often, though, because after only one death, the game is over and jumps back to the title screen. So the player should always keep an eye on a little Faceball in the bottom left corner, which tells about the remaining energy by the expression of its face. Bonus items which can be colected are bonus shields and speed-ups. Additionally, there are undestroyable glass wall, through which you can see, but not shoot enemies, which would have been a nice feature in multiplayer games. There are also destroyable walls, which are flashing.
+After each level you get points for your remaining time, as well as for the enemies you destroyed, depending on the kind of enemy.</synopsis>
+      <genre>Shooter / 1st person,Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>En un laberinto, que omite por completo todos los detalles innecesarios e incluso texturas, tienes que perseguir y disparar a todos los enemigos en un cierto límite de tiempo, que se hace más pequeño de un nivel a otro. Un radar en la esquina superior derecha y un mapa del laberinto, que puede mostrar presionando Inicio, te ayudan a ubicar a tus enemigos. Hay un total de 11 enemigos llamados "Shot Me", "Ninja", "Death", "Stalker", "Invisible", "Bound", "Shieldman", "Ghost", "Hydra", "Wraith" y "Berserker". ". Cada uno actúa diferente, lo que requiere diferentes tácticas. Por ejemplo, "Shieldman" se esconde detrás de un escudo indestructible, mientras que "Berserker" se encuentra con el jugador y te golpea.</synopsis>
+      <genre>Tiro / Tiro 1ª persona,Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Faceball ("NikoChan Battle" en Japonais, ce qui signifie " Fight of happy face") était un des jeux prévus pour utiliser le Virtual Boy GameLink cable qui aurait permis le multijoueur mais qui n'a finalement jamais vu le jour. Le jeu n'est d'ailleurs jamais sorti officiellement sur Virtual boy. Une version gameboy et une version SNES (Faceball 2000) seront elles bien éditées.
+Il s'agit d'un jeu ou il faut tirer sur des boules rassemblant à des smileys dans un labyrinthe. Plus on avance dans les niveaux, plus ces smileys diminuent de taille. Vous etes équipé d'un plan du labyrinthe et d'un radar et traquez les 11 types d'adversaires différents: "Shot Me", "Ninja", "Death", "Stalker", "Invisible", "Bound", "Shieldman", "Ghost", "Hydra", "Wraith" et "Berserker" qui ont chacun leur tactiques propres.
+L'énergie restante est à surveiller selon l'expression d'un smiley dans le coin bas gauche de l'écran.
+Le mode "Normal" a 4 stages à parcourir composés chacun de 14 labyrinthes ce qui fait un total de 56 niveaux. Le mode "Arena" est le mode multijoueur qui demeure inutilisable.</synopsis>
+      <genre>Tir / 1ere Personne,Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter / 1st Pers.,Shooter</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Em Faceball o jogador se move em torno de uma arena em forma de labirinto com bolas flutuantes com rostos rostos felizes, seu objetivo é eliminá-las.</synopsis>
+      <genre>Tiro / Tiro em 1ª pessoa,Tiro</genre>
+    </locale>
+    <locale lang="JA">
+      <title>NikoChan Battle</title>
+    </locale>
+    <developer>Bullet-Proof Software</developer>
+    <publisher>Bullet-Proof Software</publisher>
+    <date year="1996" month="" day=""/>
+    <rating type="NOTE" value="8">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Fishbone">
+    <id>172278</id>
+    <locale lang="EN">
+      <title>Fishbone</title>
+      <genre>Action</genre>
+      <synopsis>Big fish eat small fish! In Fishbone you play as a fish called Bubbles and go for Highscores in a total of 4 levels by eating as many smaller fish as you can, while avoiding the ones bigger than you, bombs and other harmful things.</synopsis>
+    </locale>
+    <date year="2012" month="11" day="04"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>ThunderStruck</developer>
+    <publisher>ThunderStruck</publisher>
+  </game>
+  <game name="Galactic Pinball">
+    <id>4740AA</id>
+    <locale lang="EN">
+      <title>Galactic Pinball</title>
+      <synopsis>Galactic Pinball is a pinball video game released in 1995 on Virtual Boy. In addition to the high scores, you can choose between four pinball tables. These are named Alien, UFO, Colony and cosmic.</synopsis>
+      <genre>Pinball</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Galactic Pinbal es un juego de pinball 3D en un ambiente espacial. Hay 4 mesas espaciales diferentes que puedes elegir, más un juego de bonificación. Haz rebotar la bola para destruir las naves alienígenas y así salvar el mundo.</synopsis>
+      <genre>Pinball</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Galactic Pinball est un jeu vidéo de flipper sorti en 1995 sur Virtual Boy. Outre les scores élevés, vous pouvez choisir entre quatre tables de flipper. Ceux-ci sont nommés Extraterrestre, OVNI, Colony et cosmique.</synopsis>
+      <genre>Flipper</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>Galactic Pinball ist ein Flipper-Videospiel im Jahr 1995 auf Virtual Boy veröffentlicht. Zusätzlich zu den hohen Noten, können Sie zwischen vier Flippertische wählen. Diese werden genannt Alien, UFO, Colony und kosmisch.</synopsis>
+      <genre>Flipper</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Galactic Pinball é um jogo de vídeo pinball lançado em 1995 no Virtual Boy. Além das pontuações mais altas, você pode escolher entre quatro mesas de pinball. Estes são nomeados Estrangeiro, UFO, Colónia e cósmica.</synopsis>
+    </locale>
+    <developer>Intelligent Systems</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1995" month="07" day="21"/>
+    <rating type="NOTE" value="15">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Game Hero">
+    <id>172264</id>
+    <locale lang="EN">
+      <title>Game Hero</title>
+      <synopsis>Game Hero is a Homebrew looking like Guitar Hero on which player must push paddle button in the timing.</synopsis>
+      <genre>Music and Dance</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Música y Baile</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Game Hero est un Homebrew du style Guitar Hero. Il s'agit d'appuyer sur les bon boutons dans le timing du jeu.</synopsis>
+      <genre>Musique et Dance</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Musik und Tanz</genre>
+    </locale>
+    <date year="2012" month="02" day="29"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Golf">
+    <id>4741AA</id>
+    <locale lang="EN">
+      <title>Golf</title>
+      <synopsis>Golf is a golf video game released in 1995 on Virtual Boy. Golf comes in a 3D perspective and contains two modes "tournament" and "bear play" as well as 18 holes during the course.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Juega un circuito de 18 hoyos en este juego de golf en 3D. Elije tu club, ten en cuenta el viento y las condiciones del recorrido, oscila mirando el medidor. Ten cuidado con los peligros de este circuito, ya que desafiará a jugadores de todos los niveles.</synopsis>
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Golf est un jeu vidéo de golf sorti en 1995 sur Virtual Boy. Golf se présente dans une perspective 3D et contient 2 modes "tournament" et "Stroke play" ainsi que 18 trous durant les parcours.
+Si l'animation est reussie et le gameplay fun, il n'y a malheureusement qu'un seul parcours et pas de système de sauvegardes.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>Golf ist ein Golf-Videospiel im Jahr 1995 auf Virtual Boy veröffentlicht. Golf kommt in einer 3D-Perspektive und enthält zwei Modi "Turnier" und "Bärenspiel" sowie 18 Löcher während des Kurses.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Golf é um jogo de vídeo de golfe lançado em 1995 no Virtual Boy. Golf vem em uma perspectiva 3D e contém dois modos de "torneio" e "jogo do urso", bem como 18 buracos durante o curso.</synopsis>
+    </locale>
+    <developer>Technical Engineering Support</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1995" month="11" day="01"/>
+    <rating type="NOTE" value="17">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Hunter">
+    <id>172276</id>
+    <locale lang="EN">
+      <title>Hunter</title>
+    </locale>
+    <developer>DanB</developer>
+    <date year="2010" month="10" day="31"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Hyper Fighting">
+    <id>172277</id>
+    <locale lang="EN">
+      <title>Hyper Fighting</title>
+      <synopsis>Portage of Street Fighter 2 on Virtua Boy. You can play only with Ryu and against Dhalsim, Ryu, Chun Li and Guile.</synopsis>
+      <genre>Fight</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Combate</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Demo de jouable de Street Fighter 2 sur Virtua Boy. Jouable seul uniquement et seulement avec Ryu, il n'y a que quatre adversaires disponibles: Dhalsim, Ryu, Chun Li et Guile.</synopsis>
+      <genre>Combat</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Kampf</genre>
+    </locale>
+    <developer>M.K., Mr. Anon</developer>
+    <date year="2013" month="08" day="28"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Insmouse No Yakata">
+    <id>4732AA</id>
+    <locale lang="EN">
+      <title>Insmouse no Yakata</title>
+      <synopsis>Innsmouth no Yakata is a video game shooter released in 1995 on Virtual Boy. The goal is to find the exit of a maze of corridors with solid doors monsters in a given period of time. To defense against monsters, our hero is armed with a gun.</synopsis>
+      <genre>Lightgun Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Innsmouth no Yakata es un shooter videojuego lanzado en 1995 sobre Virtual Boy. El objetivo es encontrar la salida de un laberinto de pasillos con puertas sólidas monstruos en un período determinado de tiempo. Para la defensa contra los monstruos, nuestro héroe está armado con una pistola.</synopsis>
+      <genre>Tiro con accesorios</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Insmouse no Yakata (traduction: "Le Manoir d'Innsmouth") est un jeu vidéo de tir subjectif sorti en 1995 sur Virtual Boy. L'histoire est basée sur l'univers du Mythe de Cthulhu d'H.P. Lovecraft, plus précisément sur la nouvelle "Le Cauchemar d'Innsmouth" écrite en 1931 et parue en Avril 1936.
+Le but du jeu est de trouver la sortie de ce manoir dans d'un labyrinthe de couloirs avec des portes pleines de monstres et dans un laps de temps donné. Le joueur traverse 13 des 45 niveaux déterminés par le temps mis à parcourir chaque niveau et donnant accès a une des 4 fins possibles du jeu. Il faut parcourir les 13 niveaux dans le temps imparti et sans mourir pour obtenir la fin A. Pour se défense contre les monstres, notre héros, probablement Robert Olmstead de la nouvelle d'H.P. Lovecraft, est armé d'un pistolet et d'un nombre de munitions très limité.
+L'atmosphère sombre et l'impression d'être traqué en permanence contrebalancent difficilement une qualité 3D déjà dépassé même pour l'époque.</synopsis>
+      <genre>Tir avec accessoire</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>Innsmouth no Yakata ist ein Videospiel -Shooter im Jahr 1995 auf Virtual Boy veröffentlicht. Das Ziel ist es, den Ausgang aus einem Labyrinth von Gängen mit festen Türen Monster in einem bestimmten Zeitraum zu finden. Zur Verteidigung gegen Monster, wird unser Held mit einer Pistole bewaffnet.</synopsis>
+      <genre>Lightgun Shooter</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Innsmouth no Yakata é um shooter vídeo game lançado em 1995 no Virtual Boy. O objetivo é encontrar a saída de um labirinto de corredores com portas sólidas monstros em um determinado período de tempo. Para defesa contra monstros, o nosso herói está armado com uma arma.</synopsis>
+    </locale>
+    <developer>Betop</developer>
+    <publisher>I'Max</publisher>
+    <date year="1995" month="10" day="13"/>
+    <rating type="NOTE" value="10">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Jack Bros">
+    <id>4730AA</id>
+    <locale lang="EN">
+      <title>Jack Bros</title>
+      <synopsis>Jack Bros., is an adventure video game released in 1995 on Virtual Boy. Once a year, at Halloween, the door between our country and the fairies opens. All fairy should return to Fairieland 23:00, otherwise, they will be banished forever. You must choose one of three Jack Bros. as your character. Each has its own attributes and weapons and special attacks.</synopsis>
+      <genre>Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Una vez al año, en Halloween, se abre el portal entre el mundo de las hadas y el mundo de los humanos, lo que permite que las hadas vengan a visitar a los niños por un día. Sin embargo, deben regresar a casa antes del final del día; de lo contrario, nunca más podrán volver al Mundo de las Hadas. Depende de ti llevar a Jack a casa antes de que termine Halloween.</synopsis>
+      <genre>Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Jack Bros, est un jeu vidéo d'aventure sorti en 1995 sur Virtual Boy. Une fois par an, à Halloween, la porte entre notre pays et celui des fées s'ouvre. Toutes les fées doivent revenir à Fairieland à 23h00, sinon, elles seront bannies à jamais. Vous devez choisir l'un des trois Jack Bros comme votre personnage. Chacun a ses propres attributs et des armes et attaques spéciales.</synopsis>
+      <genre>Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>Jack Bros., ist ein Abenteuer-Videospiel im Jahr 1995 auf Virtual Boy veröffentlicht. Einmal im Jahr, an Halloween, die Tür zwischen unserem Land und die Feen öffnet. Alle Fee sollte Fairieland 23.00 Uhr, Rückkehr andernfalls werden sie für immer verbannt werden. Sie müssen eine von drei Jack Bros. als Charakter wählen. Jeder hat seine eigene Attribute und Waffen und Spezialattacken .</synopsis>
+      <genre>Abenteuer</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Jack Bros., é um jogo de aventura lançado em 1995 no Virtual Boy. Uma vez por ano, no Dia das Bruxas, a porta entre o nosso país e as fadas abre. Todos fadas deve retornar ao Fairieland 23:00, caso contrário, eles serão banidos para sempre. Você deve escolher uma das três Jack Bros. como seu personagem. Cada um tem seus próprios atributos e armas e ataques especiais.</synopsis>
+    </locale>
+    <developer>Atlus</developer>
+    <publisher>Atlus</publisher>
+    <date year="1995" month="09" day="29"/>
+    <rating type="NOTE" value="16">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mario Clash">
+    <id>4725AA</id>
+    <locale lang="EN">
+      <title>Mario Clash</title>
+      <synopsis>Mario Clash is a game of out platforms on Virtual Boy. The player incarnates Mario. The Clash House Tower was invaded by monsters. This is Mario entrusted to the task of evacuating them. But the tower is difficult to access and Mario is forced to fight in large rooms consist of long platforms, and in the tubing.</synopsis>
+      <genre>Platform</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Este juego es esencialmente una secuela de un solo jugador de Mario Bros. Mientras que los juegos de Super Mario Advance contendrían una versión mejorada de Mario Bros., Mario Clash contiene muchas más adiciones y cambios en el juego.
+
+Como antes, el objetivo es limpiar una pantalla de enemigos y pasar al siguiente nivel. Sin embargo, en lugar de hacer esto volteando a un enemigo desde abajo y pateándolos, les arrojas proyectiles. Además, aprovechando la profundidad adicional de Virtual Boy, hay un área frontal y una zona posterior que se puede recorrer a través de las tuberías. Las proyectiles también pueden arrojarse contra los enemigos en la otra área de profundidad.</synopsis>
+      <genre>Plataforma</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Mario Clash est un jeu de plates-formes sorti sur Virtual Boy. Le joueur y incarne Mario. La Clash House Tower a été envahie par des monstres. C'est à Mario qu'on confie la tâche de les en évacuer. Mais la tour est difficile d'accès et Mario est contraint de se battre dans de grandes pièces constituées de longues plates-formes, ainsi que dans la tuyauterie.</synopsis>
+      <genre>Plateforme</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>Mario Clash ist ein Spiel von Out-Plattformen auf Virtual Boy. Der Spieler verkörpert Mario. The Clash Haus-Turm wurde von Monstern überfallen . Dies ist Mario, um die Aufgabe zu evakuieren ihnen anvertrauten. Aber der Turm ist schwer zugänglich und Mario ist gezwungen, in großen Räumen zu kämpfen bestehen aus langen Plattformen und in den Schlauch.</synopsis>
+      <genre>Plattform</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Mario Clash é um jogo de plataformas de fora na Virtual Boy. O jogador encarna Mario. The Clash Torre da casa foi invadida por monstros. Este é Mario confiada a tarefa de evacuação. Mas a torre é de difícil acesso e Mario é forçado a lutar em grandes salas consistem em plataformas de comprimento, e na tubulação.</synopsis>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1995" month="09" day="28"/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mario Combat">
+    <id>172268</id>
+    <locale lang="EN">
+      <title>Mario Combat</title>
+      <synopsis>First person Mario shooting game.</synopsis>
+      <genre>Shooter</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Tiro</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Tir</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shooter</genre>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mario Kart Virtual Cup">
+    <id>172267</id>
+    <locale lang="EN">
+      <title>Mario Kart Virtual Cup</title>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <date year="2008" month="09" day="30"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mario VB">
+    <id>172266</id>
+    <locale lang="EN">
+      <title>Mario VB</title>
+      <synopsis>VB Mario Land, also known as Mario Adventure, is a canceled Mario game that was originally going to be released for the Virtual Boy. A single-level playable demo was unveiled at the Winter Consumer Electronics Show 1995 in Las Vegas.nnThe game was to be a two-dimensional side-scrolling game that would also use three-dimensional perspectives, such moving between the background and foreground of the level. It would star Mario as the main character, using classic Super Mario Bros.-style elements such as Warp Pipes, Koopa Troopas and ? Blocks. Although VB Mario Land's story was not revealed, a large Wario-like figure which functioned similar to a Thwomp was seen in the playable demo. In certain areas, an overhead view was displayed, much like the The Legend of Zelda series of games. The first level ends at the Goal Pole, and Mario can be seen entering a Castle.nnA three-dimensional version of Mario Bros. was mentioned to be implemented into VB Mario Land as a minigame, though this was later released as a separate game titled Mario Clash.</synopsis>
+    </locale>
+    <date year="2008" month="09" day="08"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Mario's Tennis">
+    <id>4727AA</id>
+    <locale lang="EN">
+      <title>Mario's Tennis</title>
+      <synopsis>Mario's Tennis Tennis is a game released in 1995 on Virtual Boy. Seven characters from the Mario universe are present: Mario, Luigi, Toad, Peach, Koopa, Yoshi and Donkey Kong Jr. playing only on one short pipe surrounded by a landscape.</synopsis>
+      <genre>Sports,Sports / Tennis</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>En Mario Tennis puedes elegir entre siete personajes diferentes, (Mario, Luigi, Princesa Toadstool, Yoshi, Toad, Koopa Troopa y Donkey Kong Jr.) todos con diferentes niveles de habilidad, para jugar uno contra el otro en partidos individuales o de dobles. También puedes jugar en un modo de exhibición o torneo.
+
+En el modo regular, juegas contra un oponente que eliges para una o tres rondas.
+
+En el modo torneo, puedes jugar contra otros tres en un torneo para ver quién es el mejor!.</synopsis>
+      <genre>Deportes,Deportes / Tenis</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Mario's Tennis est un jeu de Tennis sorti en 1995 sur Virtual Boy. Sept personnages de l'univers de Mario sont présents : Mario, Luigi, Toad, Peach, Koopa, Yoshi et Donkey Kong Jr. jouant seulement sur un seul court entouré d'un paysage de tuyaux.</synopsis>
+      <genre>Sport,Sport / Tennis</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>Mario Tennis Tennis ist ein Spiel im Jahr 1995 auf Virtual Boy veröffentlicht. Sieben Figuren aus dem Mario-Universum vorhanden sind: Mario, Luigi, Toad, Pfirsich, Koopa, Yoshi und Donkey Kong Jr. nur auf einem kurzen Rohr umgeben von einer Landschaft spielen.</synopsis>
+      <genre>Sport,Sport / Tennis</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Tênis de Mario é um jogo lançado em 1995 no Virtual Boy. Sete personagens do universo Mario estão presentes: Mario, Luigi, Toad, Peach, Koopa, Yoshi e Donkey Kong Jr. jogar apenas em um tubo de curta rodeado por uma paisagem.</synopsis>
+      <genre>Esporte,Esporte / Tênis</genre>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1995" month="07" day="21"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Nester's Funky Bowling">
+    <id>4737AA</id>
+    <locale lang="EN">
+      <title>Nester's Funky Bowling</title>
+      <synopsis>Nester's Funky Bowling is a bowling game released in 1996 on Virtual Boy. Funky Bowling Nester is a classic bowling simulation. You can choose the mode Bowl game: if you want to play for points, in order to enroll in the high score list, Practical: if you just want to practice once, and the last challenge: if you want to play with predefined tasks.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Nester de Funky Bowling es un juego de bolos lanzado en 1996, sobre Virtual Boy. Funky Bowling Nester es una simulación de bolos clásico. Usted puede elegir el modo de juego Bowl: si desea jugar por puntos, con el fin de inscribirse en la lista de puntuaciones, práctico: si lo que desea es practicar una vez, y el último desafío: si quieres jugar con tareas predefinidas.</synopsis>
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Nester's Funky Bowling est une simulation de bowling classique. Vous pouvez choisir entre le mode de jeu Bowl : si vous voulez jouer pour des points, dans le but de vous inscrire dans la liste des meilleurs scores, Pratique : si vous souhaitez simplement pratiquer une fois, et le dernier Défi : si vous voulez jouer avec des tâches prédéfinies.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>Nester Funky Bowling ist ein Bowling-Spiel im Jahr 1996 auf Virtual Boy veröffentlicht. Funky Bowling Nester ist ein klassisches Bowling-Simulation. Sie können den Modus Bowl-Spiel wählen: Wenn Sie für die Punkte spielen wollen, um in der Highscore -Liste einschreiben, Praktisch: wenn Sie nur einmal üben wollen, und die letzte Herausforderung: Wenn Sie spielen möchten mit vordefinierten Aufgaben.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Do Nester Funky do Bowling é um jogo de boliche lançado em 1996 no Virtual Boy. Funky do Bowling Nester é uma simulação de bowling clássico. Você pode escolher o modo de jogo Bowl: se você quiser jogar para os pontos, a fim de se inscrever na lista pontuação elevada, prático: se você quiser apenas praticar uma vez, e o último desafio: se você quer jogar com tarefas predefinidas.</synopsis>
+    </locale>
+    <developer>Saffire Corporation</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1996" month="02" day="26"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Panic Bomber">
+    <id>4738AA</id>
+    <locale lang="EN">
+      <title>Panic Bomber</title>
+      <synopsis>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>¡Prepárate para la acción explosiva con Bomberman! Detona los mundos de las Terribles Ruinas,  el Bosque Siniestro, y el Desolador Desierto.  Conquista la isla de la Niebla y captura las tres variantes de poder celestial.
+¡Que no te entre el pánico! O serás  calcinado por la codiciosa Sra. Flashy o el mortal Conde Dracu-Doom.  Incendia  el temido castillo Doom con bombasticos movimientos y una buena estrategia de combustión. Sólo entonces podrás  abrir las puertas de la legendaria Estatua de Oro de Bomberman. ¡Una  desconcertante explosión de puzzles!</synopsis>
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Panic Bomber est un jeu vidéo développé par Hudson Soft, sorti en 1995 sur Virtual Boy. Bomberman est venu sur une île mystérieuse dans le but précis de s'emparer de la légendaire « Golden Bomberman Statue »... Mais pour y accéder, 3 médailles sont nécessaires. Malheureusement, des boss se sont emparés des médailles et, pour les récupérer, il faut battre ces derniers et leurs sbires.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Panic Bomber é um jogo desenvolvido pela Hudson Soft, lançado em 1995 para Virtual Boy. Bomberman chegou a uma ilha misteriosa no propósito específico de capturar o lendário "Golden Bomberman Statue" ... Mas para chegar lá, são necessários 3 medalhas. Infelizmente, o chefe assumiu as medalhas e para recuperar, temos de lutar contra eles e seus capangas.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>Tobidase! Panibon</title>
+    </locale>
+    <developer>Hudson Soft</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1995" month="07" day="21"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Platformer Demo">
+    <id>172265</id>
+    <locale lang="EN">
+      <title>Platformer Demo</title>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Un jeu de plateforme qui n'a apparemment servi que de demo avant que le jeu en lui-meme soit totalement annulé.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Red Alarm">
+    <id>4734AA</id>
+    <locale lang="EN">
+      <title>Red Alarm</title>
+      <synopsis>Bursting through incredible dimensions of Virtual space the final mission is clear. Obliterate all enemies and obstacles created by KAOS and terminate this menacing battle system from within.
+
+Employing an impressive arsenal of high-tech weapons and evasive maneuvers the Tech-Wing Fighter speeds on. Spinning deaths, spy pods and mosquito mechs appear from everywhere! The fate of humanity will soon be defined. Red Alarm! Red Alarm! Alarm Condition Red!!</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>A comienzos del siglo XXI, una Guerra Mundial no cesó durante 70 años devastadores. No fue sino hasta la creación de un programa avanzado llamado K.O.S (Killer Operating System) que terminó la amenaza para el mundo. La gente se regocijó cuando el sistema eliminó al enemigo y se restableció la paz. Con un nuevo gobierno en su lugar, se ordenó destruir todas las armas para proteger al mundo de cualquier amenaza futura. KAOS, como se llamó más tarde, también estaba en la lista de armas que se destruirían.
+
+Pero KAOS tenía su propio plan, desconocido para la gente. Se había convertido en un ser consciente, y tenía un objetivo ... sobrevivir. Al desatar sus armas en el mundo indefenso, el verdadero caos estalló.
+
+Depende de ti, en el último guerrero que queda, llegar al cielo y acabar con la amenaza de una vez por todas.</synopsis>
+      <genre>Simulación</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Red Alarm est un jeu vidéo de type rail-shooter sorti en 1995 sur Virtual Boy. Une dévastatrice guerre mondiale a ravagé la Terre pendant 70 ans à compter de la fin du 20ème siècle. Pendant les derniers stades de la guerre, un système de combat automatisé appelé "KOS" (Système d'exploitation tueur) a été développé.</synopsis>
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Simulation</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Red Alarm é um jogo estilo shooter do tipo ferroviário lançado em 1995 no Virtual Boy. A devastadora guerra mundial devastou a terra por 70 anos a partir do final do século 20. Durante os últimos estágios da guerra, um sistema de combate automatizado chamado "KAOS" (Killer Automate Operacional System) foi desenvolvido.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>Red Alarm</title>
+    </locale>
+    <developer>Technical Engineering Support</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1995" month="07" day="21"/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Sd Gundam - Dimension War">
+    <id>4735AA</id>
+    <locale lang="EN">
+      <title>SD Gundam: Dimension War</title>
+      <synopsis>Based on the popular mecha anime franchise, SD Gundam Dimension War is a turn-based strategy game where you are place in command of a small task force as you travel across the galaxy aiming to wipe out the opposing units you encounter. Gameplay is split in to two parts - a map screen where you manoeuvre your troops and a close up view for battles.</synopsis>
+      <genre>Strategy</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Basado en la popular franquicia anime, SD Gundam Dimension War es un juego de estrategia por turnos en el que estás al mando de una pequeña fuerza de combate mientras viajas a través de la galaxia con el objetivo de acabar con las unidades enemigas que encuentres. El juego está dividido en dos partes: una pantalla del mapa en la que maniobras con tus tropas y una vista cercana para las batallas.</synopsis>
+      <genre>Estrategia</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>SD Gundam : Dimension War est un jeu de stratégie au tour par tour sur Virtual Boy. C'est une adaptation en jeu vidéo de la série en arcade basée sur l'anime Mobile Suit Gundam et notamment Super Deformed Gundam.</synopsis>
+      <genre>Stratégie</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Strategie</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>SD Gundam: Dimension War é um jogo de estratégia baseado em turnos para Virtual Boy. É uma adaptação para vídeo game da série do arcade baseado no anime Gundam Mobile Suit incluindo Super Deformed Gundam.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>SD Gundam - Dimension War</title>
+    </locale>
+    <developer>Bandai</developer>
+    <publisher>Bandai</publisher>
+    <date year="1995" month="12" day="22"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Simon!">
+    <id>143436</id>
+    <locale lang="EN">
+      <title>Simon!</title>
+      <synopsis>Simon! is a repeat-the-sequence game. On a round playfield, 4 squares blink in a random order, which the player has to repeat with the D-Pads. Beginning with only one blinking field, the sequence becomes longer by one from round to round and the memory of the player is more and more strained.</synopsis>
+      <genre>Casual Game</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Simon! es un juego de memorizar y repetir la secuencias. En un tablero de juego redondo, parpadean 4 casillas en orden aleatorio, que el jugador debe repetir con los D-Pads. Comenzando con un solo bloque parpadeante, la secuencia se hace más larga por uno de ronda a ronda y la memoria del jugador es puesta a prueba de forma más intensa.</synopsis>
+      <genre>Juego casual</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Casual Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Gelegenheitsspiel</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Simon! é um jogo em que o objetivo é acompanhar e repetir sem errar a sequência de luzes usando o D-pad</synopsis>
+    </locale>
+    <date year="2003" month="04" day="19"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Pat Daderko</developer>
+    <publisher>Public Domain</publisher>
+  </game>
+  <game name="Snatcher">
+    <id>172269</id>
+    <locale lang="EN">
+      <title>Snatcher</title>
+      <synopsis>Snatcher[a] is a graphic adventure game written by Hideo Kojima and produced by Konami. It was released in Japan for the PC-8801 and MSX2 computer platforms in 1988. A CD-ROM-based remake for the PC Engine was released in 1992, which was subsequently localized into English for the Sega CD in 1994 in North America and Europe. The enhanced version was later ported twice more to the PlayStation and Sega Saturn in Japan.nnThe setting and story of Snatcher are heavily influenced by cyberpunk and science fiction, taking place in a large futuristic dystopian city. The story revolves around Gillian Seed, an investigator assigned to investigate a breed of bioroids, known as "snatchers", who are killing humans and taking their place in society. Gameplay takes place in a menu-based interface. The player can choose from pre-defined options such as "Look" and "Talk" to interact with the environment and its characters.nnCritically acclaimed since its release, Snatcher is regarded as groundbreaking for the adventure genre, in that it introduced visual novel characteristics to flesh out a complex back story. Sales outside of Japan were poor due to Sega's waning support for the Sega CD, but the game has gained a cult following. The game has spawned a spin-off role-playing video game released in Japan titled SD Snatcher, and a radio drama, Sdatcher.</synopsis>
+      <genre>Adventure</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Aventura</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Snatcher est un portage du jeu vidéo d'aventure (roman graphique interactif) conçu et réalisé par Hideo Kojima pour la société Konami et edité sur plusieurs machines, depuis le PC-8801 et le MSX 2 en 1988 jusqu'aux consoles 32 bits Saturn et PlayStation en 1996, seule la version Mega-CD a été traduite et distribué en dehors du Japon. Jeu culte pour certains joueurs, ce jeu d'aventure reprend les thèmes de divers ?uvres de science-fiction et de cyberpunk comme Blade Runner et Terminator.nnLe joueur incarne Gillian Seed dans un jeu à la 1re personne entrecoupé de nombreuses scènes à la troisième personne.nnMoscou, le 6 juin 1996: La « Catastrophe » se produit dans le laboratoire de recherche Russe Chernoton. Lucifer Alpha, une arme biologique secrète est relâchée dans l'atmosphère, tuant près de 80 % des habitants de l'Europe de l'est et de l'Eurasie. La moitié de la population mondiale est littéralement balayée.nn50 ans plus tard?nnDécembre 2047, La ville de Neo Kobe, une ville de folie et de décadence?nnL'humanité fait face à sa plus grande crise. Une mystérieuse forme de vie bioroïde est apparue. Sa vraie nature et son but sont inconnus. Est-ce l'arme secrète d'un pays, ou des extraterrestres d'un autre monde ? Les Bioroïdes apparaissent en hiver, en tuant les gens et en prenant leur place dans la société. Ils utilisent une peau artificielle et peuvent transpirer et même saigner. Ils sont à la fois homme et machine. Ils sont appelés « Snatchers » parce qu'ils usurpent l'identité de leurs victimes avant de prendre leur place.nnEst-ce une personne ou un snatcher ? Une nouvelle force de police, entrainée spécifiquement pour lutter contre les Snatchers, a été créée. Ce sont les JUNKERS (Japanese Undercover Neuro-Kinetic Elimination Rangers).nnGillian Seed, un amnésique nouvellement affecté dans cette nouvelle force de police appelée « Junkers », la section de police responsable de la lutte anti-Snatcher, va tenter de comprendre qui sont les Snatchers et en quoi son passé et celui de sa femme Jamie Seed est lié à eux?</synopsis>
+      <genre>Aventure</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Abenteuer</genre>
+    </locale>
+    <developer>Hideo Kojima</developer>
+    <date year="2015" month="04" day="15"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Soviet Union 2010">
+    <id>172270</id>
+    <locale lang="EN">
+      <title>Soviet Union 2010</title>
+    </locale>
+    <locale lang="ES">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <developer>Matej Horvat</developer>
+    <date year="2010" month="11" day="01"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Soviet Union 2011">
+    <id>172271</id>
+    <locale lang="EN">
+      <title>Soviet Union 2011</title>
+      <synopsis>Sequel of Shoot Them Up Soviet Union 2010.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Suite du Shoot Them Up Soviet Union 2010.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <developer>Matej Horvat</developer>
+    <date year="2011" month="11" day="01"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Space Invaders Virtual Collection">
+    <id>4728AA</id>
+    <locale lang="EN">
+      <title>Space Invaders Virtual Collection</title>
+      <synopsis>Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don't let them hit the ground or it's all over for you and the Earth! Destroy them and score points!</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>¡Atención a todos los terrícolas! Se han identificado cerca infinidad de hordas alienígenas. Evita que los peligrosos Space Invaders aterricen en tu territorio. Usa tu cañón para defenderte de las oleadas de invasores alienígenas que desciendea a tu posición. ¡No dejes que caigan al suelo o todo habrá terminado para ti y la Tierra! ¡Destrúyelos y gana puntos!</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Space Invaders est un jeu développé par la société japonaise Taito, sorti en 1995 sur Virtual Boy. Le principe est de détruire des vagues d'aliens au moyen d'un canon laser en se déplaçant horizontalement sur l'écran.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Space Invaders é um jogo desenvolvido pela empresa japonesa Taito, lançado em 1995 para Virtual Boy. O princípio é destruir ondas de Aliens com um canhão laser movendo-se horizontalmente na tela.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>Space Invaders - Virtual Collection</title>
+    </locale>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <date year="1995" month="12" day="01"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Space Squash">
+    <id>4742AA</id>
+    <locale lang="EN">
+      <title>Space Squash</title>
+      <synopsis>Space Squash is one of those games where the premise is so simple you could write it on the back of a postage stamp and still have room to spare. You guard one end of a tunnel and your opponent guards the other as you both float around smacking a spiked ball between one another. Get it past the opposition to score a point. First to three wins.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Space Squash es uno de esos juegos en los que la premisa es tan simple que podrías escribirla en el reverso de un sello y aún así tener espacio de sobra. Guardas un extremo de un túnel y tu oponente protege al otro mientras ambos flotan golpeando una bola con púas. traspasa la linea de tu oponente para anotar un punto. Gana el que priero que acumule tres victorias.</synopsis>
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Space Squash est un jeu de sport sorti en 1995 sur Virtual Boy. Space Squash est une sorte de Pong en trois dimensions. Le joueur contrôle un robot capable de se déplacer vers le haut, le bas, la gauche et la droite afin d'intercepter une balle qui se dirige vers lui.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Space Squash é um jogo de esportes lançado em 1995 para o Virtual Boy. Space Squash é uma espécie de Pong tridimensional. O jogador controla um robô que pode mover-se para cima, baixo, esquerda e direita para interceptar uma bola que se move em direção a ele.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>Space Squash</title>
+    </locale>
+    <developer>Tomcat System</developer>
+    <publisher>Coconuts Japan Entertainment</publisher>
+    <date year="1995" month="09" day="09"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Teleroboxer">
+    <id>4744AA</id>
+    <locale lang="EN">
+      <title>Teleroboxer</title>
+      <synopsis>In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind.
+
+Slug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Teleroboxer se situa en el siglo 22. Los seres humanos han desarrollado un nuevo tipo de robot llamado Telerobotnics que puede imitar perfectamente los movimientos de un ser humano. El objetivo de estos robots es permitir a los humanos realizar trabajos en condiciones normalmente insoportables. El Dr. Edward Maki Jr. ha ideado una forma de aumentar el interés de los telerobotnics mediante la creación de un torneo que enfrenta a dos de estos robots en un deporte llamado teleroboxing. Después de su concepción, el teleroboxing se ha vuelto muy popular en todo el mundo, todos piensan que es el mejor, pero solo tú desmostrarás que eres capaz de ser campeón del torneo mundial.</synopsis>
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Teleroboxer place au 22e siècle. Les êtres humains ont développé un nouveau type de robot appelée Telerobotnics qui permet d'imiter parfaitement les mouvements d'un être humain. Le but de ces robots était de permettre aux humains d'effectuer des travaux dans des conditions normalement insupportables. Le docteur Edward Maki Jr. a imaginé une façon d'accroître l'intérêt des telerobotnics en créant un tournoi qui oppose deux de ces robots dans un sport intitulé le teleroboxing. Après sa conception, le teleroboxing est devenu très populaire dans le monde entier, chacun pensant être le meilleur. Cela a conduit à la création d'un tournoi mondial de teleroboxing.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Teleroboxer se passa no século 22. Os seres humanos desenvolveram um novo tipo de robô chamado Telerobotnics que permite imitar perfeitamente os movimentos de um ser humano. O propósito desses robôs era permitir que os humanos realizassem trabalho em condições normalmente insuportáveis. O Dr. Edward Maki Jr. criou uma maneira de aumentar o interesse de telerobotnics criando um torneio que coloca dois desses robôs em um esporte intitulado teleroboxing. Após o seu design, o teleroboxing tornou-se muito popular em todo o mundo, cada um pensando ser o melhor. Isso levou à criação de um torneio mundial de teleroboxing.</synopsis>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1995" month="07" day="21"/>
+    <rating type="NOTE" value="14">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Tic Tac Toe">
+    <id>143417</id>
+    <locale lang="EN">
+      <title>Tic Tac Toe</title>
+      <synopsis>This is a Virtual Boy version of Tic-tac-toe, a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Esta es una versión para Virtual Boy de Tic-tac-toe, un juego de papel y lápiz para dos jugadores, X y O, que se turnan para marcar los espacios en una cuadrícula de 3 × 3. El jugador que logre colocar una fila horizontal, vertical o diagonal gana el juego.</synopsis>
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Tic Tac Toe é a versão do Virtual Boy do jogo da velha (Brasil) ou jogo do galo (Portugal).</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>DogP</developer>
+    <publisher>DogP</publisher>
+    <date year="2003" month="" day=""/>
+  </game>
+  <game name="Tron">
+    <id>145306</id>
+    <locale lang="EN">
+      <title>Tron</title>
+      <synopsis>This is a Virtual Boy game, inspired in movie "Tron" released in 1982. From a bird's eye prespective you see a squre playfield, on which several futuristic bikes build up walls behind them while driving around. These can change their direction only by right angles. The player has to avoid any walls and try to encapsulte his enemies in walls. Or simple survive longer than the others.</synopsis>
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Este es un juego de Virtual Boy, inspirado en la película "Tron" lanzada en 1982. Desde una perspectiva aérea, se ve un campo de juego, en el que varias motos futuristas construyen paredes detrás de si mientras conducen. Estos pueden cambiar su dirección solo por ángulos rectos. El jugador debe evitar cualquier muro e intentar encapsular a sus enemigos entre las paredes. O simplemente sobrevivir más tiempo que los demás.</synopsis>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Este é um jogo do Virtual Boy, inspirado no filme "Tron", lançado em 1982. Você controla motos futurísticas que muda de direção em ângulos retos e deixam uma barreira que não pode ser ultrapassada por nenhuma moto. Seu objetivo é encurralar as outras motos ou sobreviver mais que os outros competidores.</synopsis>
+    </locale>
+    <date year="2008" month="05" day="07"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>Alberto Covarrubias</developer>
+    <publisher>Planet Virtual Boy</publisher>
+  </game>
+  <game name="V-tetris">
+    <id>4733AA</id>
+    <locale lang="EN">
+      <title>V-Tetris</title>
+      <synopsis>V-Tetris is a Japanese-exclusive Tetris game for the Virtual Boy. It is not to be confused with the similar Virtual Boy title 3D Tetris, as the two games are entirely different. V-Tetris, unlike 3D Tetris, is mostly the same as the original Tetris games, the only difference being the cylindrical puzzle mode in which blocks could be placed in a 3-D spiral.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>V-Tetris es un juego Tetris exclusivo en japonés para Virtual Boy. No debe confundirse con el título 3D de Virtual Boy similar, ya que los dos juegos son completamente diferentes. V-Tetris, a diferencia de 3D Tetris, es casi igual a los juegos originales de Tetris, la única diferencia es el modo de rompecabezas cilíndrico en el que los bloques se pueden colocar en una espiral 3-D.</synopsis>
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>V-Tetris est un puzzle-game sorti en 1995 sur Virtual Boy. Contrairement à 3D Tetris, le jeu reste similaire au Tetris original hormis un mode où les pièces doivent être placées dans un puzzle cylindrique en 3D.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>O V-Tetris é um jogo Tetris exclusivo para japonês para o Virtual Boy. Não confundir com o título 3D Tetris, pois são jogos completamente diferentes. O V-Tetris, ao contrário do 3D Tetris, é basicamente o mesmo que os jogos originais de Tetris, sendo a única diferença o modo de quebra-cabeça cilíndrico em que os blocos podem ser colocados em uma espiral 3-D.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>V-Tetris</title>
+    </locale>
+    <developer>Locomotive Corporation</developer>
+    <publisher>Bullet Proof Software</publisher>
+    <date year="1995" month="" day=""/>
+    <rating type="NOTE" value="12">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="VB Racing">
+    <id>172275</id>
+    <locale lang="EN">
+      <title>VB Racing</title>
+      <synopsis>Driving game developped for the PVB coding competition.</synopsis>
+      <genre>Race, Driving</genre>
+    </locale>
+    <locale lang="ES">
+      <genre>Carreras, Conducción</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Jeu de course de voiture dans le style d'Outrun développé pour le PVB coding competition.</synopsis>
+      <genre>Course, Conduite</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Rennen, Fahren</genre>
+    </locale>
+    <developer>Martin Kujaczynski</developer>
+    <date year="2008" month="10" day="01"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Vertical Force">
+    <id>4736AA</id>
+    <locale lang="EN">
+      <title>Vertical Force</title>
+      <synopsis>The game takes place in "Space Era 210." The giant computer that takes care of a human colony planet named Odin suddenly malfunctions and decides to send an army of drone starfighters to destroy Earth. These drones emit a signal that renders all Earth starfighters useless. An archaeology team finds an ancient starfighter on the planet Ragnarok that is fortuitously impervious to the drones' signal. It is up to the player to command this starship and destroy all the alien drones.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>El juego tiene lugar en "Space Era 210". La computadora gigante que se encarga de un planeta colonizado por humanos llamado Odin. De repente funciona mal y decide enviar un ejército de aviones no tripulados para destruir la Tierra. Estos drones emiten una señal que inutiliza a todos los cazas estelares de la Tierra. Un equipo de arqueología encuentra un caza estelar antiguo en el planeta Ragnarok que es fortuitamente inmune a la señal de los drones. Depende del jugador que pilota de esta nave estelar, destruir todos los drones alienígenas.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Une bataille entre l'humanité et les machines a commencé ! L'année est 210 SE (ère spatiale). L'humanité a prospéré dans l'univers. Mais quelque chose a mal tourné et l'ordinateur du gardien d'Odin, (une colonie terrienne) s'est spontanément reprogrammé. Au lieu de servir l'homme et l'envoi de minéraux sur Terre, il semble que sa nouvelle mission soit d'abattre les hommes.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Uma batalha entre humanidade e máquinas começou! O ano é 210 SE (idade espacial). A humanidade prosperou no universo. Mas algo deu errado e o computador do detentor de Odin (uma colônia de terra) foi reprogramado espontaneamente. Em vez de servir o homem e enviar minerais para a Terra, parece que sua nova missão é derrubar a humanidade.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>Vertical Force</title>
+    </locale>
+    <developer>Hudson</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1995" month="08" day="12"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Virtual Bowling">
+    <id>3726AA</id>
+    <locale lang="EN">
+      <title>Virtual Bowling</title>
+      <synopsis>Virtual Bowling is a Sports game, developed and published by Athena, which was released in Japan in 1995.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Virtual Bowling es un juego de bolos lanzado en 1995 en Virtual Boy. Hay tres modos de juego: el modo "estándar", donde completas un conjunto simple de 10 imágenes para tener un puntaje alto, el modo "Torneo", así como el "modo de entrenamiento" donde puedes colocar libremente los bolos en cualquier combinación antes de cada lanzamiento.</synopsis>
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Virtual Bowling est un jeu de bowling sorti en 1995 sur Virtual Boy. Il y a trois modes de jeu : le mode "standard", où vous remplissez un simple jeu de 10 images pour avoir un score élevé, le mode "Tournament", ainsi que le "mode de formation" où vous pouvez placer librement les broches dans n'importe quelle combinaison avant chaque lancer.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Virtual Bowling é um jogo de boliche lançado em 1995 para o Virtual Boy. Existem três modos de jogo: "padrão", "Torneio" e "treinamento".</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>Virtual Bowling</title>
+    </locale>
+    <developer>Athena</developer>
+    <publisher>Athena</publisher>
+    <date year="1995" month="12" day="22"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Virtual Boy Wario Land">
+    <id>4726AA</id>
+    <locale lang="EN">
+      <title>Virtual Boy Wario Land</title>
+      <synopsis>Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!</synopsis>
+      <genre>Platform</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Prepárate para una intrépida búsqueda del tesoro con el infame Wario. Saquea el brillante oro y los vastos tesoros encerrados en una cueva escondida. ¡Pero ten cuidado con los estanques de veneno, las peligrosas mazmorras, las paredes interminables y los bosques espeluznantes! Transfórmate en Sea Dragon Wario, Eagle Wario o Bull Wario y utiliza sus increibles poderes. Golpea a los defensores de cuevas enemigas con ataques cuerpo a cuerpo. ¡Triunfa en esta espiral de codicia para apoderarte de las riquezas de este mundo subterráneo y encuentra la llave de la libertad!</synopsis>
+      <genre>Plataforma</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Virtual Boy Wario Land est un jeu vidéo sorti en 1995 sur Virtual Boy. En vacances dans la forêt tropicale d'Awazon, Wario se repose. Soudain, il remarque d'étranges créatures masquées entrant dans une caverne secrète. Décidant de les suivre, Wario tombe alors dans une salle où est amassé un trésor fabuleux. Il essaye de le voler mais juste avant qu'il sorte de la salle, le plancher s'effondre.</synopsis>
+      <genre>Plateforme</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Plattform</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Virtual Boy Wario Land é um jogo lançado em 1995 para o Virtual Boy. Wario está de férias na floresta tropical da Awazônia. Repentinamente ele percebe criaturas estranhas em uma caverna secreta. Decidindo segui-los, Wario então cai em uma sala onde é acumulado um tesouro fabuloso. Ele tenta roubá-lo, mas antes de sair da sala, o chão cai.</synopsis>
+    </locale>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <date year="1995" month="12" day="01"/>
+    <rating type="NOTE" value="18">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Virtual Fishing">
+    <id>3727AA</id>
+    <locale lang="EN">
+      <title>Virtual Fishing</title>
+      <synopsis>Virtual Fishing aims to replicate the fishing experience, pitting you against six opponents as you compete in several competitions.
+Upon starting the game you are presented with a 3D map screen with five locations on for you to compete at, as well as a training area where you can get used to the controls, which are pretty straightforward.</synopsis>
+      <genre>Various</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Virtual Fishing tiene como objetivo replicar la experiencia de la pesca, enfrentandote contra seis oponentes en variass competiciones.
+Al comenzar el juego, se te presenta una pantalla de mapa 3D con cinco ubicaciones para que pueda competir, así como un área de entrenamiento donde puede acostumbrarse a los controles, que son bastante sencillos.</synopsis>
+      <genre>Varios</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Virtual Fishing est un jeu vidéo de pêche sorti en 1995 et sur Virtual Boy. Le jeu a été développé et édité par Pack-In-Video au Japon. L'éditeur THQ a annulé sa sortie sur le territoire américain suite aux ventes médiocres de la Virtual Boy.</synopsis>
+      <genre>Divers</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Verschiedene</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>A Virtual Fishing é um jogo de pesca lançado em 1995. O jogo foi desenvolvido pela Pack-In-Video no Japão. A THQ cancelou sua liberação no território estadunidense após as vendas medíocres no Virtual Boy.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>Virtual Fishing</title>
+    </locale>
+    <developer>Locomotive Corporation</developer>
+    <publisher>Pack-In-Video</publisher>
+    <date year="1995" month="10" day="06"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Virtual Lab">
+    <id>4739AA</id>
+    <locale lang="EN">
+      <title>Virtual Lab</title>
+      <synopsis>Virtual Lab is a puzzle game released in 1995 on Virtual Boy. The game is a cross between Tetris and Pipe Dream. Coins fall from the top of the screen and must be arranged to form completely closed tubes.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Laboratorio virtual es un juego de puzzle lanzado en 1995, sobre Virtual Boy. El juego es una mezcla entre Tetris y Quimera. Monedas caen desde la parte superior de la pantalla y deben estar dispuestos para formar tubos completamente cerrada.</synopsis>
+      <genre>Rompecabezas</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Virtual Lab est un puzzle-game sorti en 1995 sur Virtual Boy. Le jeu est un croisement entre Tetris et Pipe Dream. Des pièces tombent du haut de l'écran et doivent être disposées de manière à former des tubes complètement fermés.</synopsis>
+      <genre>Puzzle-Game</genre>
+    </locale>
+    <locale lang="DE">
+      <synopsis>Virtual Lab ist ein Puzzle-Spiel im Jahr 1995 auf Virtual Boy veröffentlicht. Das Spiel ist eine Mischung aus Tetris und Pipe Dream. Münzen fallen vom oberen Rand des Bildschirms und muss angeordnet werden, vollständig geschlossene Rohre zu bilden.</synopsis>
+      <genre>Puzzle</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Laboratório Virtual é um jogo lançado em 1995 no Virtual Boy. O jogo é uma mistura entre Tetris e Pipe Dream. Moedas caem do topo da tela, e deve ser disposto de modo a formar tubos totalmente fechado.</synopsis>
+    </locale>
+    <locale lang="JA">
+      <title>Virtual Lab</title>
+    </locale>
+    <developer>Nacoty</developer>
+    <publisher>J-Wing - Nacoty</publisher>
+    <date year="1995" month="12" day="08"/>
+    <rating type="NOTE" value="5">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Virtual League Baseball">
+    <id>4743AA</id>
+    <locale lang="EN">
+      <title>Virtual League Baseball</title>
+      <synopsis>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</synopsis>
+      <genre>Sports</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>Virtual League Baseball es un juego de béisbol lanzado en 1995 en Virtual Boy. Puedes elegir entre el juego contra la máquina, el All Star Game y la carrera por el campeonato.</synopsis>
+      <genre>Deportes</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Virtual League Baseball est un jeu de base-ball sorti en 1995 sur Virtual Boy. Vous pouvez choisir entre le jeu contre l'ordinateur, le All Star Game et la course au championnat.</synopsis>
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Sport</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Virtual League Baseball é um jogo de baseball lançado em 1995 no Virtual Boy. Há três modos de jogo: amistoso, All Star Game e campeonato.</synopsis>
+    </locale>
+    <developer>Kemco</developer>
+    <publisher>Kemco</publisher>
+    <date year="1995" month="09" day="11"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Virtual Pong">
+    <id>143420</id>
+    <locale lang="EN">
+      <title>Virtual Pong</title>
+      <synopsis>The game is not much more than a simple Pong game, your goal is to get the ball past your opponent to the right border and get points this way. Sadly it isn't fun for very long, since the game only offers a single mode and level. Plus you play against a CPU-opponent, which only goes up and down the screen and randomly hits the ball if he is at the right place. Additionally, there's nothing to play for really, because you want win, doesn't matter how many points you get, the game never ends.</synopsis>
+      <genre>Action</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>El juego no es mucho más que un simple juego de Pong, tu objetivo es llevar la pelota más allá de tu oponente hasta el borde derecho y obtener puntos de esta manera. Lamentablemente, no es divertido por mucho tiempo, ya que el juego solo ofrece un único modo y nivel. Además, juegas contra un rival de la CPU, que solo sube y baja por la pantalla y golpea la pelota al azar si está en el lugar correcto. Además, no hay nada por lo que jugar, porque quieres ganar, no importa cuántos puntos consigas, el juego nunca termina.</synopsis>
+    </locale>
+    <locale lang="PT">
+      <synopsis>O jogo não é muito mais do que um simples jogo Pong. Infelizmente o jogo oferece apenas um modo de jogo e a inteligência artificial é fraca, Além disso, o jogo nunca termina não importando quantos pontos são feitos.</synopsis>
+    </locale>
+    <date year="1999" month="06" day="23"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+    <developer>VirtualE</developer>
+    <publisher>Planet Virtual Boy</publisher>
+  </game>
+  <game name="VUE Snake">
+    <id>172274</id>
+    <locale lang="EN">
+      <title>VUE Snake</title>
+      <synopsis>The famous arcade game from 1976 adapted one time more.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Énième adaptation du jeu Gremlin Industries en 1976 qui a fait la fortune d'Atari ou de Nokia entre autres.</synopsis>
+    </locale>
+    <developer>KR155E</developer>
+    <date year="2009" month="04" day="10"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Waterworld">
+    <id>4729AA</id>
+    <locale lang="EN">
+      <title>Waterworld</title>
+      <synopsis>THE DEACON AWAITS!
+
+The Deacon will stop at nothing to control the world's most precious resource...
+
+And he's turned his blood-thirsty Smokers loose on the Atoller civilization in a frantic search for Enola - the tattooed girl who holds the secret to Dryland. Only you can smoke the Smokers and deck the Deacon!
+
+Waterworld brings your Virtual Boy screaming to life with incredibly smooth and realistic 3D animations, particle effects and texture mapped rendered graphics. So step into this action packed arcade experience today and learn what 3D gaming is all about.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="ES">
+      <synopsis>El Diácono no se detendrá ante nada para controlar el recurso más preciado del mundo ...
+
+Y ha liberado a sus Smokers sedientos de sangre en la civilización Atoller en una frenética búsqueda de Enola, la chica tatuada que guarda el secreto de Dryland. ¡Solo tú puedes derrotar a los Smokers y engañar al Diácono!.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Waterworld est un jeu vidéo d'action sorti en 1995 sur Virtual Boy, basé sur le film Waterworld. Dans un avenir proche, l'axe polaire de la terre a changé, et transformé la Terre en un océan sans fin. Ceux qui ont survécu sont maintenant à la recherche de la terre ferme.</synopsis>
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="DE">
+      <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="PT">
+      <synopsis>Waterworld é um jogo de ação lançado em 1995, baseado no filme Waterworld. No futuro próximo, o eixo polar da terra mudou e transformou a Terra em um oceano infinito. Aqueles que sobreviveram estão agora procurando o continente. No jogo você move o personagem em torno de um mundo tridimensional, disparando em inimigos chamados Smokers.</synopsis>
+    </locale>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <date year="1995" month="12" day="21"/>
+    <rating type="NOTE" value="20">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+  <game name="Zpace Racers">
+    <id>172281</id>
+    <locale lang="EN">
+      <title>Zpace Racers</title>
+      <synopsis>Futuristic course game developped for the  PVB coding competition.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Jeu de course futuriste développé pour le PVB coding competition.</synopsis>
+    </locale>
+    <developer>DanB</developer>
+    <date year="2014" month="02" day="28"/>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="nunchuk" required="false"/>
+      <control type="classiccontroller" required="false"/>
+      <control type="gamecube" required="false"/>
+    </input>
+  </game>
+</datafile>

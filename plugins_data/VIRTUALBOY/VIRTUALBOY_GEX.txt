@@ -1,0 +1,49 @@
+3D Tetris|3D Tetris|3-D Tetris|3-D Tetris|
+Blox|Blox V1.0 by KR155E|Blox V1.1 by KR155E|Blox|
+Blox (V1.1)|Blox V1.1 by KR155E||Blox|
+Croach|Croach, The|||
+Etch-a-Sketch|Etch-A-Sketch by Pat Daderko|||
+Framebuffer Drawing Demo|Framebuffer Drawing Demo by Pat Daderko|||
+Galactic Pinball|Galactic Pinball|Galactic Pinball|Galactic Pinball|
+GLOW Demo|GLOW Demo by KR155E|||
+Golf|Golf|Golf|Golf|
+Hello, World! Demo (V1.0)|Hello, World! Demo V1.0 by Amos Bieler|||
+Hello, World! Demo (V1.1)|Hello, World! Demo V1.1 by Amos Bieler|||
+Insmouse no Yakata|Insmouse no Yakata|Innsmouth no Yakata|Insmouse no Yakata|
+Jack Bros.|Jack Bros|Jack Bros.|Jack Bros.|
+Jack Bros. no Meiro de Hiihoo!||Jack Bros. no Meiro de Hiihoo!|Jack Bros. no Meiro de Hiihoo!|
+Mario Clash|Mario Clash|Mario Clash|Mario Clash|
+Mario Flying Demo|Mario Flying Demo by Frostgiant|||
+Mario's Tennis|Mario's Tennis|Mario's Tennis|Mario's Tennis|
+Matrix Demo|Matrix, The by Cooler|||
+Name|GoodName|NoIntro|TOSEC|ReDump
+Nester's Funky Bowling|Nester's Funky Bowling|Nester's Funky Bowling|Nester's Funky Bowling|
+OBJ Pointer Demo|OBJ Pointer Demo by Dan Bergman|||
+Panic Bomber|Panic Bomber|Panic Bomber|Panic Bomber|
+Reality Boy Demo 1|Reality Boy Demo 1|||
+Reality Boy Demo 2|Reality Boy Demo 2|||
+Red Alarm|Red Alarm|Red Alarm|Red Alarm|
+Scaling Demo|Scaling Demo by Parasyte|||
+SD Gundam: Dimension War|SD Gundam Dimension War|SD Gundam - Dimension War|SD Gundam - Dimension War|
+Simon|Simon by Pat Daderko||Simon!|
+Space Invaders: Virtual Collection|Space Invaders Virtual Collection|Space Invaders - Virtual Collection|Space Invaders - Virtual Collection|
+Space Squash|Space Squash|Space Squash|Space Squash|
+Super Fighter Demo|Super Fighter Demo by KR155E|||
+Teleroboxer|Teleroboxer|Teleroboxer|Teleroboxer|
+T&E Virtual Golf|T&E Virtual Golf|T&E Virtual Golf|T&E Virtual Golf|
+Tic Tac Toe|Tic Tac Toe by Pat Daderko||Tic Tac Toe|
+Tobidase! Panibon|Tobidase! Panibomb|Tobidase! Panibon|Tobidase! Panibomb|
+Tron VB|Tron VB by Pat Daderko||Tron VB|
+VB Rocks! Demo|VB Rocks! Demo by KR155E|||
+VeeBee Cursor Demo|VeeBee Cursor Demo by David Williamson|||
+Vertical Force|Vertical Force|Vertical Force|Vertical Force|
+Virtual Bowling|Virtual Bowling|Virtual Bowling|Virtual Bowling|
+Virtual Boy Wario Land|Virtual Boy Wario Land|Virtual Boy Wario Land|Virtual Boy Wario Land|
+Virtual-E Cursor Demo|Virtual-E Cursor Demo||Virtual-E Cursor Demo|
+Virtual Fishing|Virtual Fishing|Virtual Fishing|Virtual Fishing|
+Virtual Lab|Virtual Lab|Virtual Lab|Virtual Lab|
+Virtual League Baseball|Virtual League Baseball|Virtual League Baseball|Virtual League Baseball|
+Virtual Pong|Virtual Pong||Virtual Pong|
+Virtual Pro Yakyuu '95|Virtual Pro Yakyuu '95|Virtual Pro Yakyuu '95|Virtual Pro Yakyuu '95|
+V-Tetris|V Tetris|V-Tetris|V Tetris|
+Waterworld|Waterworld|Waterworld|Waterworld|

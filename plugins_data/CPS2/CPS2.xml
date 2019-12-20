@@ -1,0 +1,1504 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+	<WiiTDB version="201812061554" games="41"/>
+	<game name="1944 - The Loop Master">
+		<id>37385A</id>
+	<locale lang="EN">
+	<title>1944 : The Loop Master</title>
+	<synopsis>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>El juego tiene lugar en las acaloradas batallas de 1944 durante la Segunda Guerra Mundial como piloto As intenta derrotar a todo un ejército. El juego funciona y se juega como la mayoría de los shooters estándar. El objetivo de cada nivel es disparar a los aviones enemigos, tanques, trenes, torrecillas, acorazados y derrotar al jefe después de cada nivel. A diferencia de su predecesor, 19XX: The War Against Destiny, la jugabilidad se acerca más a los orígenes de la serie.</synopsis>
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Dans cet opus, on retrouve avec plaisir le shoot them up à scrolling vertical de la célèbrissime série des 1900. Encore plus d'avions, de bateaux, de boss et de bastos à éviter.On commence le jeu avec un tir simple qu'il est possible de booster, le rendant de plus en plus large et puissant. Vous disposez d'un stock limité de bombes spéciales. En fait, en lançant votre attaque dévastatrice, vous envoyez une sorte "d'air strike" composé d'une multitude de missiles. Très efficace... L'avion dispose aussi d'une mini attaque spéciale qu'il faut charger un moment puis lâcher. Là, l'avion prend de l'altitude, devient intouchable et mitraille une bonne partie de l'écran. Enfin, comme si cela ne suffisait pas, vous pouvez aussi avoir deux avionnets à vos côtés, genre avion télécommandé, qui viendrons augmenter votre tir. Il vous faudra bien cela pour venir à bout des 15 niveaux du jeu et des 15 boss surpuissants sans trop vous ruiner...insert coins to continue...ça vous dit quelque chose, hein !! Pour moi, c'est le plus abouti de la série, graphiquement impeccable, d'une fluidité rare et avec une bande son du tonnerre. On se plonge totalement dans le jeu et même une fois terminé, 1944 a un petit goût de reviens-y. Un must qui a su garder le charme de ses ancêtres tout en innovant techniquement et au niveau du gameplay.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up / Vertikal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>O jogo se passa nas acaloradas batalhas de 1944, durante a Segunda Guerra Mundial, quando um super-piloto tenta derrotar um exército inteiro. O jogo funciona e joga como a maioria dos shooters. O objetivo de todos os níveis é atirar em aviões inimigos, tanques, trens, torres de batalha e derrotar o chefe após cada nível. Ao contrário de seu antecessor, 19XX: The War Against Destiny, o jogo é mais parecido com os primeiros jogos da série.</synopsis>
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="2000" month="" day=""/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="19xx - The War Against Destiny">
+		<id>37386A</id>
+	<locale lang="EN">
+	<title>19XX : The War Against Destiny</title>
+	<synopsis>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>19XX: The War Against Destiny es un shooter vertical desarrollado por Capcom en 1995. El juego es el cuarto de una serie de shooters verticales de ambientados en la Segunda Guerra Mundial hechos por Capcom. La historia tiene lugar antes de una guerra ficticia. Un solo piloto trata de derrotar a todo un ejército / organización del mal para evitar de iniciar otra Guerra Mundial, el conflicto pronto se convierte en un apocalipsis nuclear.</synopsis>
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Un très bon shoot avec tous les ingrédients qu'il faut: des bonus à profusion, des ennemis variés, le choix de son appareil, des graphismes agréables et une bonne jouabilité sans trop de difficulté. Un shoot accessible a tous et comme d'habitude, à 2 c'est encore mieux.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up / Vertikal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>19XX: A guerra contra o destino é um jogo de (arcade scrolling shooter) vertical feito pela Capcom em 1995 (com direitos do autor em 1996). O jogo é o quarto de uma série de shooters verticais da II Guerra Mundial feitos pela Capcom. A história se passa antes de uma guerra fictícia (Assim, o 19XX) é como um piloto solitário que tenta derrotar um exercito inteiro antes de outra Guerra Mundial começar, tudo isso logo se agrava a um apocalipse nuclear.</synopsis>
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1996" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Alien Vs Predator">
+		<id>37388A</id>
+	<locale lang="EN">
+	<title>Alien VS Predator</title>
+	<synopsis>San Drad, California, has been overrun by the Aliens, and the cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have been abandoned by their superiors and are cornered by a swarm of the Alien drones. Before they can be killed, a pair of the Predators appear and destroy the Aliens. The Predators offer an alliance with the two humans in order to stop the Alien infestation.
+
+The players take control of up to three of four characters: Dutch, Linn, a Predator hunter, and a Predator warrior, and battle the Aliens through several environments. In the process, the characters discover that the Alien presence on Earth is the result of an experiment headed by a renegade General Bush of the U.S. Colonial Marines in conjunction with the Weyland-Yutani corporation. They destroy the Alien hive by crashing a military ship into San Drad, causing a huge explosion. The Predator warrior then gives his wrist blades to Dutch and Linn in recognition of their skills as warriors, before the Predators depart back into space.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Los jugadores toman el control de hasta tres de los cuatro personajes: Dutch, Linn, un cazador Predator y un guerrero Predator, y luchan contra los Aliens a través de varios entornos. En el transcurso del juego, los personajes descubren que la presencia alienígena en la Tierra es el resultado de un experimento encabezado por el renegado general Bush de los Marines Coloniales de Estados Unidos en asociación con la corporación Weyland-Yutani. Destruyen la colmena alienígena estrellando una nave militar en San Drad, causando una enorme explosión. El guerrero Predator da sus espadas de muñeca a Dutch y Linn en reconocimiento de sus habilidades como guerreros, antes de que los Predators regresen al espacio.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Dans ce Beat féroce développé sur CPS-2 arcade, jusqu'à trois joueurs peuvent mettre leurs efforts en commun pour anéantir successivement des hordes de xénomorphes, d'infectés et de militaires renégats.Les deux Predators (ou « Yautja », comme on l'entend maintenant souvent) se déclinent en Warrior et Hunter. Si les deux profils sentent un peu la redite, ils permettent surtout aux joueurs de ne pas se disputer le rôle du pred.</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>San Drad, Califórnia, foi invadida pelos Aliens, e o Major melhorado ciberneticamente Dutch Schaefer e a tenente Linn Kurosawa foram abandonados por seus superiores e encurralados por um enxame de batedores Aliens. Antes que eles possam ser mortos, dois Predadores aparecem e destroem os Aliens. Os Predadores oferecem uma aliança com os dois seres humanos, a fim de impedir a infestação de Aliens.nnnnOs jogadores controlam até três dos quatro personagens: Dutch, Linn, Predadores Caçador e Predadores Guerreiro, e combatem os Aliens em vários ambientes. No processo, os personagens descobrem que a presença alienígena na Terra é o resultado de um experimento liderado pelo renegado general Bush dos fuzileiros navais coloniais dos EUA em conjunto com a corporação Weyland-Yutani. Eles destroem a colmeia Alien, derrubando um navio militar em San Drad, causando uma enorme explosão. O Predadores Guerreiro, em seguida, dá suas lâminas de pulso para Dutch e Linn em reconhecimento de suas habilidades como guerreiros, antes de os predadores partirem de volta ao espaço.</synopsis>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1994" month="" day=""/>
+		<rating type="NOTE" value="8">
+		</rating>
+		<input players="3">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Armored Warriors">
+		<id>37387A</id>
+	<locale lang="EN">
+	<title>Armored Warriors</title>
+	<synopsis>In the year 2281, the war spanning half a century over territory between the United World Forces and the Raian Kingdom had at last come to an end.
+
+But this peace was not to last. A year after a truce was signed between the two forces, former Raian army captain Azrael, who has converted himself into a cyborg in an attempt to become "the perfect warrior", has marshalled several thousand other cyborgs and declared war against the Raian Kingdom. Robbing mobile weapons from the army, this group of rogues has invaded the Raian capital of Merkid and has begun to abduct the civilians.
+
+The United World Government, receiving an emergency message from the planet Raia, has but one choice: to organize and dispatch an army formed around its elite corps, a squadron of warriors called "Bloody Armor", to eradicate the enemy forces and rescue the civilians.
+
+And so, in October 2282, the United World Forces begin to launch its attack upon the planet Raia.
+
+The most intense battle in human history is about to begin...</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Armored Warriors es un juego de desplazamiento lateral 2D con temática mecha que pone a los jugadores en el lugar de un piloto mecha. En 2281, la Tierra y el planeta Raia terminaron una guerra de medio siglo de duración. Pero un año después del alto el fuego, la capital de Raian fue capturada por un ejército desconocido. La Tierra ha enviado un ejército para recuperarla con el pretexto de proteger a los ciudadanos. Pero en realidad la Tierra quiere poner a Raia bajo su control.
+Luchas contra varios mechas, tanques, otros vehículos y jefes y a lo largo del camino puedes unir y usar partes de enemigos destruidos. El juego se puede jugar solo o con hasta dos amigos. Cuando juegas con tus amigos, todas las mechas pueden fusionarse en un poderoso mecha.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Il est possible de sélectionner quatre mecha différents ainsi que leurs pilotes respectifs, chacun d'eux ayant ses propres caractéristiques de vitesse et de puissance. Le joueur peut ramasser au cours des sept niveaux du jeu des morceaux de robots ennemis détruits afin d'améliorer son armement.</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>No ano de 2281, a guerra que durou meio século sobre o território entre as Forças do Mundo Unido e o Reino de Raian finalmente chegou ao fim.nnnnMas essa paz não duraria. Um ano após a assinatura de uma trégua entre as duas forças, o ex-capitão do Exército Raiano, Azrael, que se converteu em um ciborgue na tentativa de se tornar "o guerreiro perfeito", comandou vários outros ciborgues e declarou guerra ao Reino Raiano. Roubando armas móveis do exército, este grupo de trapaceiros invadiu a capital de Merkid e começou a raptar os civis.nnnnO Governo do Mundo Unido, recebendo uma mensagem de emergência do planeta Raia, tem apenas uma escolha: organizar e despachar um exército formado em torno de seu corpo de elite, um esquadrão de guerreiros chamado "Bloody Armor", para erradicar as forças inimigas e resgatar os civis. .nnnnE assim, em outubro de 2282, as Forças do Mundo Unido começam a lançar seu ataque ao planeta Raia.nnnnA batalha mais intensa na história da humanidade está prestes a começar ...</synopsis>
+	</locale>
+	<locale lang="JA">
+	<title>Powered Gear: Strategic Variant Armor Equipment</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1994" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="3">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Battle Circuit">
+		<id>37389A</id>
+	<locale lang="EN">
+	<title>Battle Circuit</title>
+	<synopsis>Battle Circuit take place in an alternate future earth, the game revolves around a group of bounty hunters who must capture the mad scientist Doctor Saturn and secure a sophisticated computer disc carrying a program known as the "Shiva System". Battle Circuit, which was Capcom's last beat 'em game for the arcades, contains comic-like characters in a futuristic science fiction setting and is considered by some to be a cult classic.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Circuito de Batalla es un juego en 2D con un estilo de comic (manga) en un escenario futurista. Un grupo de cazarrecompensas debe capturar al loco científico Dr. Saturno. 
+
+Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios cibernéticos en su cuerpo; Captain Silver, un cazador humanoide que cambia de forma y tiene la capacidad de proyectar partículas de hielo de su cuerpo; Avestruz rosado, un avestruz grande, sensible y rosado, que siempre está acompañado por su dueño, una joven llamada Pola Abdul; Iris Amarilla, una modelo de moda a tiempo parcial con garras y Alien Green, una criatura espacial que parece una planta gigante y en movimiento.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Si vous aimez les univers et les personnages originaux dans tous les sens du terme, s'il vous faut un peu de technique, de vitesse, de fun pour être heureux, ce jeu est fait pour vous, seul et jusque quatre joueurs, plaisir garanti.Après si pour vous "Beat Them All" rime avec voyous et copine à sauver, passez votre chemin ... mais vous le regretterez.Un perle réservée aux "arcadiens" malheureusement ...</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Battle Circuit acontece em uma Terra alternativa do futuro, o jogo gira em torno de um grupo de caçadores de recompensas que devem capturar o cientista louco Doutor Saturno e manter em segurança um disco de computador sofisticado carregando um programa conhecido como "Sistema Shiva". Battle Circuit, foi o último jogo de beat 'em up da Capcom para as arcadas, contém personagens de histórias em quadrinhos em um cenário de ficção científica futurista e é considerado por alguns como um clássico cult.</synopsis>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1997" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="4">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Capcom Sports Club">
+		<id>37390A</id>
+	<locale lang="EN">
+	<title>Capcom Sports Club</title>
+	<synopsis>Capcom Sports Club is an arcade game released by Capcom in 1997. It is a multi-sport game that consists of Smash Stars (Tennis), Dunk Stars (Basketball), and Kick Stars (Football/Soccer).</synopsis>
+	<genre>Sports,Compilation</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Deportes,Compilación</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Capcom Sports Club représente une des rares incursions de Capcom dans un domaine qui n'est pas sa spécialité, la simulation sportive ! Capcom Sports Club est en fait une compilation de simulations sportives regroupant le basket, le tennis et le football ! Après tout, un petit peu de sport ne peut faire de mal à personne, surtout derrière son PC !</synopsis>
+	<genre>Sport,Compilation</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Sport,Sammlung</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Capcom Sports Club é um jogo de arcade lançado pela Capcom em 1997. É um jogo multi-esportivo que consiste em Smash Stars (Ténis), Dunk Stars (Basquete) e Kick Stars (Futebol).</synopsis>
+	<genre>Esporte,Compilação</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1997" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Cyberbots - Fullmetal Madness">
+		<id>37391A</id>
+	<locale lang="EN">
+	<title>Cyberbots : Fullmetal Madness</title>
+	<synopsis>Near the end of the 21st century, Earth begins to become overpopulated, leading to many people living in man-made space colonies. The primary army of Earth called "Earth Corps", has been conducting nefarious experiments and their work, along with the actions of the playable characters, will determine Earth's future.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Il est temps de rétablir une injustice. Car parmi les nombreux, et souvent fabuleux, titres qui ont vu le jour sur CPS-2, beaucoup ont connu une gloire méritée. Tout le monde connaît la série des Street Fighter Alpha, les Marvel Super Heroes, les Dungeons &amp; Dragons ou encore les 19XX. D'autres jeux, comme Cyberbots, sont restés dans l'ombre, et ce même lorsqu'ils furent portés sur consoles de salon. Et ça, c'est pas cool. L'histoire de Cyberbots : Full Metal Madness se déroule dans un futur proche, tellement proche que ça se déroule durant le XXIe siècle. La Terre connaît un tel surpeuplement que les êtres humains ont été contraints de s'établir sur de nombreuses planètes à travers la galaxie. Les scientifiques de l'armée terrestre, la Earth Force, dirigent des expériences visant à solutionner les problèmes de ressources et d'énergie que connaît la boule de terre et de flotte qui sert de terreau infâme à une engeance pathétique connue sous le nom d'humanité. Pour protéger le fruit de ces expériences, des méchas ont été réquisitionnés. Des méchas nommés Variant Armor, et pilotés par diverses personnes qui n'ont pas toutes les mêmes objectifs, loin s'en faut...</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Perto do final do século 21, a Terra começa a ficar superpovoada, levando muitas pessoas a viverem em colônias espaciais construídas pelo homem. O exército primário da Terra, chamado "Corpo da Terra", tem conduzido experiências nefastas e seu trabalho, junto com as ações dos personagens jogáveis, determinará o futuro da Terra.</synopsis>
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1995" month="" day=""/>
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Dimahoo">
+		<id>37394A</id>
+	<locale lang="EN">
+	<title>Dimahoo</title>
+	<synopsis>The game is set in a futuristic environment with dragons, little turtles with lasers on their back, and little green goblins with red eyes. The player picks one of four friends to travel with. The two characters fly through the levels in the game and collect items. Each item has a point value and the points are used to fill up a chart at the end. The items include: food, swords, armors, boots, etc. Towards the end of the game, the bosses become incredibly hard. The fast backgrounds create a confusing state of mind for the player.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>El juego se desarrolla en un ambiente futurista con dragones, pequeñas tortuguitas con láser en la espalda y pequeños duendes verdes con ojos rojos. El jugador elige uno de los cuatro amigos con los que viajar. Los dos personajes vuelan por los niveles del juego y recogen objetos. Cada elemento tiene un valor de punto y los puntos se utilizan para rellenar un gráfico al final. Los artículos incluyen: comida, espadas, armaduras, botas, etc. Hacia el final del juego, los jefes se vuelven increíblemente difíciles.</synopsis>
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Troisième épisode de la saga "Mahou", Great Mahou Daisakusen est un jeu difficile à résumer. On pourrait approximativement parler d'un concentré de barbarie absurde sur fond d'adrénaline, de hurlements et de jolies couleurs mais la réalité est encore bien pire. Sans doute l'une des perles du Manic Shooter, Dimahoo allie avec un art dont seul les cintrés de Raizing ont le secret graphismes démentiels, ambiance de jeu unique, gameplay incroyable, originalité et ultraviolence option "filet de bave aux lèvres". Le jeu propose des personnages aux compétences et caractéristiques propres (puissance, rapidité, différentes armes de différentes portées, différents coups secondaires, différentes smart bombs, etc...) ainsi qu'une technique de jeu qu'on oserait presque qualifier de "subtile": le joueur peut aussi influer sur la "chaleur" de son vaisseau. Rendu froid, il abattra plus facilement les ennemis chauds et bloquera leurs tirs, et vice versa.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up / Vertikal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Great Mahou Daisakusen</title>
+	</locale>
+		<developer>Raizing</developer>
+		<publisher>Raizing</publisher>
+		<date year="2000" month="" day=""/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Dungeons And Dragons - Shadow Over Mystara">
+		<id>37392A</id>
+	<locale lang="EN">
+	<title>Dungeons &amp; Dragons : Shadow over Mystara</title>
+	<synopsis>Dungeons &amp; Dragons: Shadow over Mystara is an arcade game developed and published by Capcom in 1996 as a sequel to Dungeons &amp; Dragons: Tower of Doom. It was also released on the Sega Saturn, packaged with Tower of Doom, under the title Dungeons &amp; Dragons Collection. The game is set in the Dungeons &amp; Dragons campaign setting of Mystara. It was one of the last 2-D arcade side-scrollers created by Capcom; only Battle Circuit (1997) came after Shadow over Mystara.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Dragones y Mazmorras: La sombra sobre Mystara es un arcade desarrollado y publicado por Capcom en 1996 como sucuela de "la torre del destino".  Es un estilo unico de arcade 2-D lateral creado por Capcom.  Sus dos partes son consideradas como autenticas joyas de las recreativas.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Dungeons and Dragons: Shadow over Mystara, (ou Shadow of Mystara, parfois même appelé Dungeons and Dragons 2), est un jeu vidéo du type beat them all avec des aspects jeu vidéo de rôle, développé et édité par Capcom en février 1996. C'est le second d'une série de deux jeux en arcade basés sur l'univers de Mystara (le premier volet de la saga s'intitule Dungeons and Dragons: Tower of Doom)1,2. Il est considéré comme le dernier et le plus grand des beat them all par Gaming Age Review3 et comme « un des plus réussis du genre » par Jon Thompson de All Games Guide</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1996" month="" day=""/>
+		<rating type="NOTE" value="12">
+		</rating>
+		<input players="4">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Dungeons And Dragons - Tower Of Doom">
+		<id>37393A</id>
+	<locale lang="EN">
+	<title>Dungeons &amp; Dragons : Tower of Doom</title>
+	<synopsis>Dungeons &amp; Dragons: Tower of Doom is the first of two video games created by Capcom based on the Dungeons &amp; Dragons tabletop role-playing game. The game was also released on the Sega Saturn, packaged with its sequel, Dungeons &amp; Dragons: Shadow over Mystara, under the title Dungeons &amp; Dragons Collection, although the Saturn version limited the gameplay to only 2 players. The game is set in the Mystara campaign setting.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Dungeons &amp; Dragons: Tower of Doom es un juego Beat' em Up con desplazamiento lateral en 2D que se encuentra en el escenario de la campaña Dungeons &amp; Dragons Mystara. El juego tiene algunos elementos ligeros RPG tomado del juego de rol de mesa. Al principio del juego puedes elegir entre 4 personajes: clérigo, enano, elfo y luchador. El juego es muy similar al Golden Axe - los jugadores van a la derecha, acuchillar enemigos (y varios jefes) y usar magia o armas adicionales. Dagas, martillos, flechas y aceite en llamas pueden ser usados como armas de lanzamiento.</synopsis>
+	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Dungeons and Dragons: Tower of Doom (ou Tower of Doom) est un jeu vidéo du type beat them all avec des aspects jeu vidéo de rôle, développé et édité par Capcom en janvier 1994. C'est le premier d'une série de deux jeux en arcade basés sur l'univers de Mystara (le second volet de la saga s'intitule Dungeons and Dragons: Shadow over Mystara)</synopsis>
+	<genre>Beat'em All</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Beat'em Up</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1993" month="" day=""/>
+		<rating type="NOTE" value="12">
+		</rating>
+		<input players="4">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Eco Fighters">
+		<id>37395A</id>
+	<locale lang="EN">
+	<title>Eco Fighters</title>
+	<synopsis>Eco Fighters is a horizontal shooter, where the player controls a ship with a rotating gun. As suggested by both its titles, the game has an "eco-friendly" theme. It was also developed by the same team from two Mega Man arcade titles, The Power Battle and The Power Fighters.</synopsis>
+	<genre>Shoot'em up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Dans un futur lointain, alors que la colonisation spatiale est très avancée, certaines entreprises n'hésitent pas à exploiter des planètes entières jusqu'à les détruire. Un scientifique célèbre, le Dr. Moly, met au point un vaisseau spatial dans le but de stopper les agissements néfastes de la plus grande multinationale du moment, la Goyolk, coupable de polluer sa planète.</synopsis>
+	<genre>Shoot'em up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Ultimate Ecology</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1993" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Giga Wing">
+		<id>41446A</id>
+	<locale lang="EN">
+	<title>Giga Wing</title>
+	<synopsis>'Medallions' are mystic stones sent from heaven, brought evolution to human technology and lead tremendous progress to the armories. To gain their powers which the 'Stones' hold for the promised victory, many nations fought over the mystic stones and reheated the world of war. Within all the 'Stones' is the 'Medallion of Wisdom', known as the power source of all mystic stones, it had enough energy to terminate humanity. The whole world was in despair. And now, four brave worriers have risen to fly straight into the combat zone! All four had different reasons, but their ultimate goal was the same: to destroy the Medallion of Wisdom! Fight to save the humanity!
+
+Giga Wing is a shoot-em-up set during a fictional war. The player controls one of four different futuristic aircraft and must destroy enemy aircraft, tanks, ships, and buildings using both guns and missiles mounted on the aircraft and a limited supply of bombs which damage or destroy all enemies on-screen when used.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Shoot faisant partie de la nouvelle école dite "manic shooter" (la profusion des tirs remplace la précision mais en compensation la zone destructible du vaisseau est très réduite) il se joue verticalement mais sur un écran large (pas besoin de retourner la télé). 4 vaisseaux avec tirs et bombe différents, et un bouclier qui renvoie les tirs adverses. Tout le principe du jeu réside dans l'utilisation de ce bouclier au bon moment à  fin de se sortir de situation désespérée. Graphismes sublimes, animation sans faille, Capcom à  réaliser un des meilleurs shmups à  mettre aux coté de Dodonpachi, Batrider, Batsugun, Dragonblaze, ...
+
+In short, this is one of the best 2D shooters ever made. It was also released on the Dreamcast. And if you like this game, check out the sequel Mars Matrix. Good game.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up / Vertikal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+		<developer>Takumi</developer>
+		<publisher>Capcom</publisher>
+		<date year="1996" month="" day=""/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Hyper Street Fighter 2 - The Anniversary Edition">
+		<id>149430</id>
+	<locale lang="EN">
+	<title>Hyper Street Fighter II: The Anniversary Edition</title>
+	<synopsis>Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Hyper Street Fighter 2: The Anniversary Edition est  le septième épisode de la série Street Fighter II et il a été produit pour célébrer le 15e anniversaire de la série Street Fighter. Le moteur du jeu est basé sur celui de Super Street Fighter II Turbo.
+Le jeu regroupe toutes les versions de chaque personnage des versions antécédentes. Par exemple, il est possible de faire s'affronter la Chun-Li originale de Street Fighter II: The World Warrior contre la Chun-Li de Super Street Fighter II: The New Challengers. Les différences étant l'apparence, mais aussi des coups en plus pour les versions plus récentes des personnages (comme le Kikô-Ken, que Chun-Li n'obtint qu'à Street Fighter II': Hyper Fighting).
+
+Il n'est cependant pas possible d'y faire s'affronter deux itérations originales du même personnage (par exemple : le Blanka de The World Warrior contre le Blanka de The World Warrior), ceci étant impossible dans le jeu original.</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="2003" month="12" day="01"/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Janpai Puzzle Choukou">
+		<id>40548A</id>
+	<locale lang="EN">
+	<title>Janpai Puzzle Choukou</title>
+	<synopsis>An adult shanghai game from Mitchell. The objective is to clear the board of matching tiles before the timer runs out.
+
+Each level consists a board with two or more columns of tiles and walls slowly moving toward the center of the board.  Every time a matching pair of tiles is cleared from the board the two columns momentarily shift away from the center. The game is lost if the opposing columns of tiles run into each other or into the wall. In order to legally remove matching tiles no walls or other tiles can be in a path with two or fewer bends between the matching tiles. Once per stage, the player can request help and the two columns will shift to their starting positions and matching tiles will be highlighted for a short time. If the player cannot legally remove any more tiles then the board is 'deadlocked', and the game is lost.
+
+If the player clears the board before the timer runs out, the background girl will change into a more revealing state of undress and this new image of her will be the background for the next stage.  If the timer reaches zero the player can still attempt to clear the board but the background image will not change.  The game features four girls with two background images each and a topless image that is revealed after defeating the girl's second stage within the time limit. 
+If the game is lost, upon continuing the player may select to attempt to clear the same board or try a new board of tiles.</synopsis>
+	<genre>Puzzle-Game,Puzzle-Game / Equalize</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Rompecabezas,Rompecabezas / Igualar</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Janpai Puzzle Choukou est un jeu de mah-jong pour adulte avec des règles un peu particulières.</synopsis>
+	<genre>Puzzle-Game,Puzzle-Game / Egaler</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Puzzle,Puzzle / Partie</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Quebra-cabeças,Quebra-cabeças / Igualar</genre>
+	</locale>
+		<developer>Mitchell Corporation</developer>
+		<publisher>Mitchell (Capcom license)</publisher>
+		<date year="2001" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Jyangokushi - Haoh No Saihai">
+		<id>41934A</id>
+	<locale lang="EN">
+	<title>Jyangokushi: Haoh no Saihai</title>
+	<synopsis>Jangokushi: Haou no Saihai is an other mahjong game from Capcom.</synopsis>
+	<genre>Mahjong,Asiatic board game</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Mahjong,Juegos de mesa asiático</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Jyangokushi: Haoh no Saihai est encore un autre jeu de Mah-jong.</synopsis>
+	<genre>Mahjong,Jeu de societe asiatique</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Mahjong,Asiatische Brettspiele</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Mahjong,Jogo de tabuleiro Asiático</genre>
+	</locale>
+		<publisher>Capcom</publisher>
+		<date year="1999" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mars Matrix - Hyper Solid Shooting">
+		<id>37399A</id>
+	<locale lang="EN">
+	<title>Mars Matrix: Hyper Solid Shooting</title>
+	<synopsis>A prediction is that before human civilization, there was once an advanced civilization on Mars. A sorceress destroyed the civilization and everything that was remembered of it, except a chip called "INFINITY". In 2100, millions of people were starving due to massive food shortages and has caused civil wars around the world. Centuries later, however, the world government had sent colonists to Mars which began to solve these problems. At a nearby farm, the Infinity chip was discovered and it revealed all the technology of the advanced civilization. In 2309, a Declaration of Independence has been sent to Earth. Large armies have been amassed on Mars, and a gigantic armada was waiting for any attack from Earth. The Earth government sends out a fleet of battleships followed by a special air raid unit called ACID; ACID is equipped with a new fighter ship known as the Mosquito. Their mission is to enter Mars, stop the rebel violence, locate and destroy the rebel leader, whoever... or whatever it may be...</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Le jeu est composé de six niveaux avec des boss interposés et une difficulté progressive. Au commencement de la partie, le joueur a le choix entre deux vaisseaux :
+
+Le premier possède une importante puissance de feu, aussi bien pour le tir normal que la charge. Il possède un tir frontal.
+Le second est moins puissant mais se déplace plus rapidement. L'angle du tir normal est assez ouvert.
+
+Le jeu n'utilise qu'un seul bouton, les actions qu'il enclenche diffèrent selon le timing avec lequel le joueur appuie :
+
+Le tir normal s'effectue en appuyant et relâchant rapidement le bouton.
+La charge (ou beam) : laisser un temps sans toucher au bouton, puis appuyer dessus pour déclencher le tir. Cette attaque est relativement puissante.
+L'absorption de balles se fait en restant appuyé sur le bouton. Le joueur peut choisir la durée d'absorption, et s'il laisse appuyé jusqu'au maximum, cela créé une explosion qui détruit tout à l'écran (balles et ennemis). En revanche, lancer les balles accumulées pendant le reflect sur un ennemi créé des cubes d'expérience.
+
+Dans Mars Matrix, pas de power ups, mais un système d'expérience qui permet de faire évoluer le vaisseau sur la durée complète du jeu. En effet, il faudra ramasser les petits cubes qui apparaissent lors de la destruction des ennemis (surtout en utilisant le reflect force). Plus le joueur en ramasse, plus il gagne de l'expérience, et donc plus son vaisseau sera puissant. Une petite barre située en haut de l'écran indique l'écart de durée maximum entre la prise de deux cubes : au-delà le compteur repart à zéro et le combo est interrompu.</synopsis>
+	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up / Vertikal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+	</locale>
+		<developer>Takumi</developer>
+		<publisher>Takumi</publisher>
+		<date year="2000" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Marvel Super Heroes">
+		<id>37401A</id>
+	<locale lang="EN">
+	<title>Marvel Super Heroes</title>
+	<synopsis>Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut or Magneto. Power up with an Infinity Gem - Grant your super hero healing power, super attacks and increased strength.</synopsis>
+	<genre>Fight / Versus,Fight</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate / Versus,Combate</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Marvel Super Heroes est un jeu de combat en 2D des plus classiques. Retrouvez tous les super-héros Marvel tels que Psylocke, Wolverine, Juggernaut, Magneto, Captain America, Spider-Man, Iron Man, Hulk et bien d'autres encore pour vous taper dessus dans des combats acharnés. utilisez vos super-pouvoirs pour défaire vos ennemis.</synopsis>
+	<genre>Combat / Versus,Combat</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf / Versus,Kampf</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta / Versus,Luta</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1995" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Marvel Super Heroes Vs. Street Fighter">
+		<id>37402A</id>
+	<locale lang="EN">
+	<title>Marvel Super Heroes vs. Street Fighter</title>
+	<synopsis>Now you can choose your favorite heroes from the worlds of Street Fighter and Marvel Super Heroes to face off in a head-to-head battle for supremacy. Dive into the action to perform outrageous moves and link together amazing Chain Combos... then delight in their devastating results! Marvel Super Heroes vs. Street Fighter combines two incredible universes to create an entirely new legend of heroic proportions.</synopsis>
+	<genre>Fight / Versus,Fight</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Marvel Super Heroes vs. Street Fighter (también llamado simplemente Marvel vs. Street Fighter) es la secuela de X-Men vs. Street Fighter y el segundo juego de la saga de crossovers de Marvel y Capcom. Apareció primero en arcades en 1997, y se conversionó a Saturn en 1998, y finalmente a PlayStation en 1999, con bastantes cambios en su jugabilidad.nnnnPresentaba el mismo esquema de juego que X-Men vs. Street Fighter sin apenas cambios. El jugador escogía a dos luchadores, y podía relevarlos en medio del combate a voluntad. También podía usar al compañero para golpear momentáneamente al rival sin necesidad de hacer el relevo, así como hacer Super Combos combinados entre los dos.nnnnPrácticamente todos los luchadores de Street Fighter que aparecieron en el anterior capítulo vuelven a aparecer aquí, excepto Cammy y Charlie, que son sustituidos por Sakura y Dan. En el bando de Marvel sólo repiten Cyclops y Wolverine, siendo los demás totalmente nuevos en esta saga de crossovers.nnnnEn el modo de un jugador, éste debía abrirse paso a través de los escenarios combatiendo contra los diferentes rivales que van apareciendo, hasta llegar al final y batirse en duelo con Apocalypse, que de nuevo hacía de jefe final. Al derrotarle, aparecía Cyber Akuma, una versión robotizada de Akuma mucho más poderoso.nnnnTanto Apocalypse como Cyber Akuma podían llegar a ser seleccionables si cumplíamos ciertos requisitos.</synopsis>
+	<genre>Combate / Versus,Combate</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Marvel Super Heroes Vs Street Fighter est un jeu de combat. Comme son nom l'indique, ce jeu va mettre aux prises les habituels personnages de Street Fighter avec les célèbres héros des Marvel Comics. Vous allez donc pouvoir organiser des combats entre Spiderman et Ryu, Hulk et Dhalsim ou encore Captain America contre Ken. Soit au total 17 personnages accessibles dès le départ du jeu, 9 provenant du monde de Street Fighter et 8 personnages des Marvel Comics.</synopsis>
+	<genre>Combat / Versus,Combat</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf / Versus,Kampf</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta / Versus,Luta</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1997" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Marvel Vs. Capcom - Clash Of Super Heroes">
+		<id>37403A</id>
+	<locale lang="EN">
+	<title>Marvel vs. Capcom : Clash of Super Heroes</title>
+	<synopsis>Marvel vs. Capcom: Clash of Super Heroes is the fifth Marvel Comics-licensed fighting game by Capcom and the third game in the Marvel vs. Capcom series. In contrast to X-Men vs. Street Fighter and Marvel Super Heroes vs. Street Fighter, the game features characters from numerous Capcom franchises such as Mega Man and Strider, rather than just Street Fighter characters. The game takes place within the Marvel comic continuity, as Professor Charles Xavier calls out for heroes to stop him before he merges with the consciousness of Magneto and becomes the being known as Onslaught, the final boss. The game was developed in late 1997 and first released in January 1998.</synopsis>
+	<genre>Fight / Versus,Fight</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Marvel vs. Capcom: Clash of Super Heroes o simplemente conocido como "Marvel Vs. Capcom" o "MVC" es el tercer juego en la serie de crossovers entre las compañías Marvel y Capcom. Para el juego se rescatan muchos personajes clásicos de la compañía como Strider Hiryu o Captain Commando.nnnnEste juego es de los primeros en usar batallas de 2 personajes contra 2 simultáneamente. Además de tener la posibilidad de una mejor jugabilidad que los anteriores juegos de la Saga.nnnnSistema de juego y controles[editar]nnMarvel vs. Capcom es un videojuego de lucha en 2D, donde cada uno de los personajes jugables es representado con una barra de vida. Cuando esta se vacía, el personaje muere. Al principio se eligen dos personajes, y usándolos se debe derrotar a todos los desafiantes para llegar al jefe final, Onslaught. También se elige al azar un ayudante, que el jugador puede invocar un número limitado de veces durante la pelea para ayudarse.</synopsis>
+	<genre>Combate / Versus,Combate</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Marvel vs. Capcom : Clash of the Super Heroes met aux prises les héros de l'éditeur de jeux Capcom et de l'éditeur de comics Marvel, dans un jeu de combat en 2D. Vous devez former une équipe de trois combattants, chacun pouvant intervenir à n'importe quel moment. Des enchaînements sont possibles entre les membres de votre équipe.</synopsis>
+	<genre>Combat / Versus,Combat</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf / Versus,Kampf</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta / Versus,Luta</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1998" month="01" day="23"/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mega Man - The Power Battle">
+		<id>150815</id>
+	<locale lang="EN">
+	<title>Mega Man: The Power Battle</title>
+	<synopsis>Doctor Wily is up to no good yet again, this time returning with 18 revived and improved Robot Masters. Mega Man and Proto Man proceed to stop him, while Bass destroys the inferior robots to show Wily that he is the only robot he needs.</synopsis>
+	<genre>Fight</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Une fois de plus, le professeur Wily fait des siennes et c'est à Megaman, Protoman et même Bass d'arrêter le savant fou. Le moteur graphique utilisé est visuellement similaire à celui de Megaman 7 sur Super Nintendo. De ce fait, Capcom s'est contenté de reprendre les sprites des bosses de Megaman 7 et de les adapter pour les duels. En revanche, les robots issus des jeux NES ont eu droit à une nouvelle apparence 16-bits.Chaque personnage dispose de sa propre fin. À la différence des épisodes plus conventionnels de la série, Megaman: The Power Battle se concentre exclusivement sur les duels contre les robots de Wily. Il en résulte ainsi un jeu hybride, à mi-chemin entre le beat'em all et le Megaman traditionnel.Face aux multiples adversaires proposés, tous issus de la série classique, le joueur a accès à trois personnages : Megaman, Protoman et Bass. Comme dans tout bon Megaman, le joueur peut récupérer les armes des robots vaincus et les utiliser pour faciliter sa progression.À l'instar de la plupart des jeux d'arcade, Megaman: The Power Battle peut se jouer à deux.</synopsis>
+	<genre>Combat</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Rockman: The Power Battle</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1995" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mega Man 2 - The Power Fighters">
+		<id>78893A</id>
+	<locale lang="EN">
+	<title>Mega Man 2: The Power Fighters</title>
+	<synopsis>Building upon the previous game, you must battle Dr. Wily's evil robot criminals with the help of Megaman, Protoman, Bass &amp; Duo. Features cool 2-D graphics and the same tried &amp; true Mega Man controls. Pay attention to Dr. Light's advice and you may reach Dr. Wily's fortress and come out victorious!</synopsis>
+	<genre>Fight /  Co-op,Fight</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate / Versus Co-op,Combate</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Quand Megaman devient un jeu de combat, on tient un titre fun et super plaisant à jouer. C'est ce que propose ce Megaman 2 : The Power Fighters, un jeu d'arcade court mais intense!</synopsis>
+	<genre>Combat / Versus Co-op,Combat</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf / Versus Ko-Op,Kampf</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta / Versus Co-op,Luta</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Rockman 2: The Power Fighters</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1996" month="" day=""/>
+		<rating type="NOTE" value="13">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mighty! Pang">
+		<id>37400A</id>
+	<locale lang="EN">
+	<title>Mighty! Pang</title>
+	<synopsis>Mighty! Pang is the fourth game in the superb Pang series. While the artistic design has been drastically changed, Mighty! Pang retains the same gameplay of its predecessors. The game features three modes of play: panic, tour and expert modes.</synopsis>
+	<genre>Puzzle-Game</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Rompecabezas</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Uniquement sorti au Japon, ce dernier volet de la série reprend des éléments des précédents opus sans vraiment innover. Le garçon à la casquette est de retour, il n'y a plus de choix de personnages comme dans Pang! 3. Par contre, nombreux éléments de Pang! 3 sont repris, par exemple, le sol de glace qui fait glisser, les chiens qui mordent, les « bulles-bombes » ou les blocs se détruisant en chaîne.
+
+Le principe de jeu demeure identique à Pang. Le joueur dirige un personnage qui peut se déplacer à droite ou à gauche (et monter aux échelles dans certains niveaux), et tirer un grappin vers le haut. Des boules rebondissent et lorsque le joueur tire sur l'une d'entre elles elle se divise en deux boules, qui elles-mêmes se diviseront? Plus les boules sont divisées (et donc petites) et moins elles rebondissent haut : le joueur devra donc s'adapter aux timings correspondants aux diverses tailles de boules à l'écran. Le joueur doit éviter le contact avec les boules sous peine de perdre une vie.
+
+Le mode « Tour du monde » fait voyager le joueur à travers différentes régions du globe (comme dans Pang et Super Pang). Chaque tableau présente en toile de fond une image touristique du lieu traversé. Le mode « Expert mode », propose des tableaux plus difficiles et le mode « Panic mode » propose de crever des bulles dans un décor vide.</synopsis>
+	<genre>Puzzle-Game</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Puzzle</genre>
+	</locale>
+		<developer>Mitchell</developer>
+		<publisher>Mitchell</publisher>
+		<date year="2000" month="" day=""/>
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Night Warriors / Vampire Hunter - Darkstalkers' Revenge">
+		<id>44387A</id>
+	<locale lang="EN">
+	<title>Night Warriors: Darkstalkers' Revenge</title>
+	<synopsis>Night Warriors: Darkstalkers' Revenge is the second game in the Darkstalkers series of gothic horror fighting games. Released in 1995, it is the upgraded version of the original game which introduced several gameplay changes to the game.
+
+The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who were out to hunt the other Darkstalkers (hence the Japanese title, Vampire Hunter). The two bosses from the first game, Huitzil and Pyron, were now playable characters as well. The game was first released for arcades and later ported to the Sega Saturn. Character art was done by Ikeno.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Suite de Darkstalkers : The Night Warriors.
+
+On retrouve donc l'intégralité du casting de l'épisode précédent, boss compris, plus deux petits nouveaux. Donovan est un chasseur de démons. Il est armé d'une épée et protégé par un énorme génie, façon Aladdin. Un personnage équilibré. Hsien Ko pour sa part (Lei Lei au Japon), est une revenante façon "Histoires de Fantômes Chinois". Elle est rapide, douée dans les airs et elle peut faire sortir à peu près n'importe quoi de ses manches.
+
+Notez que vous pouvez toujours choisir votre vitesse de jeu. La différence c'est que dans Darkstalkers il y avait trois paliers, ici il n'y en a plus que deux : normal et rapide. Vous devrez aussi choisir de jouer en standard ou en autoblocage. Cette dernière possibilité permet de parer automatiquement les attaques adverses si vous-même n'attaquez pas, mais en contrepartie elle empêche d'utiliser les Cancel Combos.</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Vampire Hunter: Darkstalkers' Revenge</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1995" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Progear">
+		<id>37404A</id>
+	<locale lang="EN">
+	<title>Progear</title>
+	<synopsis>In a time when the industrialization of the world had just begun, various inventions appeared and changed the life of the peaceful kingdom. One of them was a propeller that evolved from pure wind generation by using the created electricity to re-rotate it. It was called 'The Professional Gear', or just 'Progear'. This invention was the key to conquer the great wide open sky. Another discovery made the ancient dream of the immortal body come true. But it was affordable only by some wealthy elderly. They formed a new council called 'the Motorouin' and declared the current government as a corruptive and greedy establishment and that they want to correct it by a new educational system, in order to create a new race of man. So they built a military force to realize the first step of their plan, which was the takeover of the kingdom. The government decided to stop the aggression by putting it's own army in motion. It was a dreadful battle with many victims. But it was won by the Motorouin. This battle is mentioned in the books of history as 'The Punishment of the Sages'.
+
+A group of young pilots, actually children whose families were killed in that war, finally decided to fight back. They secretly developed a new powerful weapon which adults were not able to use. They called it 'Gun Flyer' and installed it in all of their planes. The Storm of Progear was about to begin!</synopsis>
+	<genre>Shoot'em up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Progear No Arashi es un shoot'em up horizontal, desarrollado para arcade por Cave, bajo placa arcade de Capcom. Cave es famosa por su particular y exquisíto estilo gráfico, que hace muestra a la perfección en este juego. Mezcla una historia de la segunda guerra mundial, donde hay todo tipo de tecnología como mechas de gran tamaño tremendas naves armadas hasta el más recondito lugar de su armadura, todo diseñado con un gran estilo steampunk.
+También al estilo Cave, la jugabilidad es sólida y muy estratégica, pudiendo jugar de varias formas diferentes, sin forzar al jugador a hacer lo mismo siempre. Puedes optar por el ataque, persiguiendo y destruyendo a todos los enemigos, o bien puedes adoptar una estrategia defensiva, esquivando rafagas y eliminando sólo a objetivos clave. De acuerdo a tu estilo el juego te evaluará al final de cada nivel.</synopsis>
+	<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Progear est le premier shoot them up à scrolling horizontal développé par Cave.
+
+Il est possible de choisir entre deux avions aux caractéristiques différentes (tir large ou concentré) ainsi qu'entre trois canonniers ayant eux aussi un tir propre (bombe explosive, boulet de canon ou missile suiveur).
+
+Le joueur doit se frayer un chemin parmi les labyrinthes formés par les tirs ennemis, dans la pure tradition du manic shooter. Les niveaux sont très courts, et se terminent comme il se doit par un affrontement avec un boss de taille imposante.</synopsis>
+	<genre>Shoot'em up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Progear No Arashi</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="2001" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+			<control type="coop" required="true"/>
+		</input>
+	</game>
+	<game name="Puzz Loop 2">
+		<id>37405A</id>
+	<locale lang="EN">
+	<title>Puzz Loop 2</title>
+	<synopsis>Gameplay is exactly the same as its predecessor, Puzz Loop , with the player needing to deplete all the colored balls before they hit the center of the screen.</synopsis>
+	<genre>Puzzle-Game,Puzzle-Game / Throw</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>El juego es exacto a su predecesor, Puzz Loop, donde el jugador necesitar vaciar todas las bolas de colores antes de que se llena la pantalla.</synopsis>
+	<genre>Rompecabezas,Rompecabezas / Lanzar</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>La suite de l'opus du même nom avec quelques améliorations. On peut toujours sélectionner Level, Panic, Vs mais on note l'apparition d'un mode Power dans lequel de grosses balles vitreuses peuvent éclater les plus petites en s'attirant mutuellement. Il y a aussi la possibilité de shooter des coffres pour obtenir des bonus du type "bombe". Très tactique, nécessitant une réflexion rapide pour créer des réactions en chaîne; ce jeu fait vite oublier sa pauvreté graphique et son côté "dessin animé pas beau". Une fois que l'on a compris le mode raisonnement à tenir, on se fait vite prendre dans l'action. L'ambiance sonore, sans être excellente, accompagne pas mal le jeu et sait ajouter à la pression. Bien pour oublier ses soucis après une longue journée de travail!</synopsis>
+	<genre>Puzzle-Game,Puzzle-Game / Lancer</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Puzzle,Puzzle / Werfen</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Quebra-cabeças,Quebra-cabeças / Lançar</genre>
+	</locale>
+		<developer>Mitchell</developer>
+		<publisher>Mitchell</publisher>
+		<date year="2001" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Quiz Nanairo Dreams - Nijiirochou No Kiseki">
+		<id>42597A</id>
+	<locale lang="EN">
+	<title>Quiz Nanairo Dreams: Nijiirochou no Kiseki</title>
+	<synopsis>Quiz Nanairo Dreams - Nijiirochou no Kiseki is a quiz game where your goal is to befriend a number of female and obtain the crystals which are used to defeat the Devil King.</synopsis>
+	<genre>Quiz,Quiz / Japanese</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Los sueños de Nanairo (cuestionario):  Nijirochou no Kiseki es un juego de preguntas y respuestas donde la meta es convertirte ene l mejor amigo de un numero de mujeres para obtener los cristales que son usados para vencer al Rey Demonio.</synopsis>
+	<genre>Quiz,Quiz / Japonés</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Quiz Nanairo Dreams - Nijiirochou no Kiseki est un jeu de quiz ou le but est de un certain nombre de jeunes filles afin d'obtenir des cristaux pour détruire le roi des démons.</synopsis>
+	<genre>Quiz,Quiz / Japonnais</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Quiz,Quiz / Japanisch</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Quiz,Quiz / Japonês</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1996" month="" day=""/>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Ring Of Destruction - Slam Masters 2">
+		<id>42766A</id>
+	<locale lang="EN">
+	<title>Ring of Destruction: Slam Masters II</title>
+	<synopsis>Fourteen selectable wrestlers fight to win the belt in this cross over wrestling/2D fighting game.</synopsis>
+	<genre>Fight</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>14 Luchadores de lucha libre participan para ganar el cinturon de campeon a traves de este juego de lucha/2D.</synopsis>
+	<genre>Combate</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Le premier Slam Masters est aussi éloigné de la simulation de catch que du beat 'em up. À la limite il mélange un peu des deux, mais se rapprocherait le plus d'une sorte de beat 'em all - un autre domaine dans lequel Capcom excelle - en écran fermé, donc sans défilement (ou presque, puisqu'on peut sortir du ring). Ce deuxième épisode retrouve pour sa part des accents de jeu de baston pur et dur.
+
+Première nouveauté qui attire l'oeil : le sol est désormais "à plat". Ring of Destruction se déroule sur un seul plan, là où son aîné nous montrait un ring de trois quarts où l'on pouvait se déplacer librement. Du coup, le stick permet désormais de se déplacer vers l'avant ou l'arrière, mais aussi de sauter (haut) ou de s'accroupir (bas), alors que ces deux directions permettaient jusque là de se déplacer respectivement vers le fond de l'écran ou l'avant-plan.
+
+Les contrôles ont également changé, et SM2 utilise cinq des six boutons du CPS-2 : deux pour les coups de poing (faibles et forts), deux pour les coups de pied (itou) et un pour projeter l'adversaire dans les cordes. C'est cette dernière option qui distingue SM2 des jeux de baston plus "traditionnels". En effet, il est ici possible d'envoyer l'opposant rebondir sur les bords du ring, pour ensuite lui asséner une attaque spéciale façon "vrai" catch, genre le coup de la corde à linge. Il est aussi possible de réaliser des super projections, moyennant une manipulation un peu complexe. Mais attention : si l'adversaire ne peut pas vous empêcher de le choper, il lui est par contre possible de s'échapper, et il y a de fortes chances pour qu'il mette cela à profit pour une petite vengeance de derrière les fagots.
+
+Notez enfin que les matchs ne sont plus chronométrés : il s'agit bel et bien de mettre l'adversaire au tapis. À cet effet, il faudra vider sa double jauge de vie. Le jeu propose un panel de quatorze combattants, la seule véritable star étant Haggar, l'un des héros de Final Fight. Le reste oscille entre le crédible (Biff le catcheur russe, El Stingray le luchador, Ortega le colossal clone de Hulk Hogan) et le grand portnawak (Titanic le monstre de Frankenstein, Rasta l'homme-bête, Wraith le mort-vivant ou Scorpion le boss final qui se téléporte à l'envie).</synopsis>
+	<genre>Combat</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Super Muscle Bomber: The International Blowout</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1994" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Street Fighter Alpha - Warriors' Dreams">
+		<id>42986A</id>
+	<locale lang="EN">
+	<title>Street Fighter Alpha: Warriors' Dreams</title>
+	<synopsis>It's Street Fighter as you always remember it, with some new moves, characters and combo systems, as well as a more polished look and feel.
+
+The new moves available for each fighter, called Super moves, allow them to fire off very powerful moves. A bar at the bottom of the screen represents the power that you have to use for the moves. You start the first round on 0, and each attack that you make adds power to the bar. Once you reach level 3, you can unleash the special attacks, that can sometimes KO the opponant.
+
+The other major change over the Street Fighter 2 series are the Alpha counters. These can be used to counter an on-coming attack after blocking.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Street Fighter Alpha: Warriors' Dreams est un jeu vidéo de combat développé et édité par Capcom en juin 1995 sur CP System II. Le jeu est nommé Street Fighter Zero au Japon1,2, pour la raison suivante : dans la chronologie de la série, les épisodes de la série Alpha se déroulent entre Street Fighter I et Street Fighter II, expliquant ainsi les modifications qui ont eu lieu et les histoires des personnages précédents</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Street Fighter Zero</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1995" month="" day=""/>
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Street Fighter Alpha 2">
+		<id>37408A</id>
+	<locale lang="EN">
+	<title>Street Fighter Alpha 2</title>
+	<synopsis>Street Fighter Alpha 2, known as Street Fighter Zero 2 in Japan, Asia and South America, is a 1996 fighting game originally released for the CPS II arcade hardware by Capcom. The game is both a sequel and a remake to the previous year's Street Fighter Alpha: Warriors' Dreams, which is itself a prequel to the Street Fighter II series in terms of plot and setting</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Street Fighter Alpha 2, conocido como Street Fighter Zero 2 En Japón, Asia y América del Sur, es un juego de lucha de 1996 lanzado originalmente para el hardware de arcade CPS II por Capcom. nnnnEl juego es a la vez una secuela y un remake del Street Fighter Alpha del año anterior: Warrior´s Dreams, que es en sí mismo una precuela de la serie Street Fighter II en términos de trama y ambientación. El juego ofreció una serie de mejoras sobre el original, como nuevas terminaciones, etapas, movimientos y sistemas de juego.</synopsis>
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Dans la chronologie de la série, les épisodes Alpha (ou zero en Asie) se déroulent entre Street Fighter et Street Fighter II, ils sont donc un lien pour expliquer les modifications qui ont eu lieu.</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Street Fighter Alpha 2, conhecido como Street Fighter Zero 2 no Japão, Ásia e América do Sul, é um jogo de luta lançado em 1996 para o hardware de arcade CPS II pela Capcom. O jogo é ao mesmo tempo uma sequência e um remake para o Street Fighter Alpha do ano anterior: Warriors 'Dreams, que é em si um prologo da série Street Fighter II em termos de enredo e cenário.</synopsis>
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Street Fighter Zero 2</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1996" month="" day=""/>
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Street Fighter Alpha 3">
+		<id>37409A</id>
+	<locale lang="EN">
+	<title>Street Fighter Alpha 3</title>
+	<synopsis>Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31 fighters, the most in the series so far. New characters include old favorites E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli. Some of the newest fighters on the block include a former Final Fight character (Cody, who has been in jail since the last Final Fight game, or so his clothing suggests), Karin Kanzuki and Rainbow Mika. The major difference between this Alpha and the last two are the new play modes World Tour, Arcade, VS, Training and Entry.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>El tercer juego de la serie Alpha, con un total de 31 combatientes. Es el mejor de la serie hasta el momento. Incluye los personajes antiguos favoritos (como E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni y Juli), además de un personajes de Final Fight (Cody, que ha estado en la cárcel desde el último juego de Final Fight, o por lo menos, es lo que su ropa sugiere), Karin Kanzuki y Rainbow Mika. La principal diferencia entre este Alpha y los dos últimos son los nuevos modos de juego World Tour, Arcade, VS y Entrenamiento.</synopsis>
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Street Fighter Alpha 3, connu au Japon sous le nom Street Fighter Zero 3, est un jeu vidéo de combat développé et édité par Capcom sur CP System II en juin 1998. C'est le troisième épisode de la série Street Fighter Alpha et fait suite à Street Fighter Alpha 2, incluant de nouveaux personnages et des améliorations au niveau du système de jeu comme la possibilité de faire des juggles. Le jeu a été converti sur plusieurs supports (console de salon et console portable)</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Street Fighter Zero 3</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1998" month="" day=""/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Street Fighter Zero 2 Alpha">
+		<id>43009A</id>
+	<locale lang="EN">
+	<title>Street Fighter Zero 2 Alpha</title>
+	<synopsis>Street Fighter Zero 2 Alpha is an enhanced version of "Street Fighter Zero 2" released in arcades in Japan, southeast Asia, Brazil, and Hispanic regions. In North America and Europe, where its predecessor is known as "Street Fighter Alpha 2", this enhanced version appears on home consoles only.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Street Fighter Zero 2 Alpha est une version améliorée de "Street Fighter Zero 2" sortie uniquement au Japon, en Asie, et au Brésil. L'Europe et l'Amérique du nord ne connaîtront cette version que sur Console</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1996" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Gem Fighter - Mini Mix">
+		<id>37410A</id>
+	<locale lang="EN">
+	<title>Super Gem Fighter: Mini Mix</title>
+	<synopsis>Super Gem Fighter: Mini Mix / Pocket Fighter is a superb, abstract and humorous fighting game featuring miniaturized renditions from several Capcom fighting games; including the legendary "Street Fighter" series, as well as "Darkstalkers" and the little-known "Red Earth".
+
+During a bout, players will be able to release coloured gems from successful attacks against their opponent, as well as from wooden chests that regularly appear. Collecting these gems will 'power-up' the player's character, giving them more powerful attacks. There are two bars and three sub-bars in the interface. The two main bars are the life bar and the super bar; the first indicates the player's health and the second their ability to throw super combos. The Super Bar itself can be filled up to nine levels, allowing players to execute more super combos. Each super combo has a level assigned to it, and it uses Super Bars depending on it.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Le système de jeu de Super Gem Fighter: Mini Mix / Pocket Fighter est légèrement différent d'un Street Fighter standard : les gemmes rouges, bleues et jaunes dont il est question servent à alimenter 3 jauges distinctes (de couleurs identiques, évidemment), ces jauges servant à alimenter un super combo particulier.Par exemple, Une fois sa jauge bleue remplie, Ryu pourra lancer une Shinku-Hadouken.De plus, les contrôles sont simplifiés : les trois boutons de poing et ceux de pied deviennent un bouton poing, un bouton pied, un bouton special et un bouton taunt (provocation). Les coups poing/pied peuvent s'enchainer, au contraire des combos. Le spécial induit de maintenir le bouton enfoncé afin que l'adversaire tombe à portée au moment de lancer le coup.Les coups induisent souvent une touche humoristique, les personnages prenant parfois des costumes ou des animations amusantes, notamment Chun-li frappant l'adversaire avec une poêle, ou encore Dan se transformant en Elvis.En dehors de ces particularités, le principe du jeu reste standard : 8 combats de 2 reprises, contre 7 adversaires aléatoires puis un adversaire final précis par personnage. Ainsi Dan cherche à vaincre Sakura pour la convaincre de devenir sa première apprentie, la succube Morrigan cherche à prouver qu'elle est plus belle que Chun-Li, qui en retour cherche à capturer Felicia la femme-chat.</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Pocket Fighter</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1997" month="" day=""/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Puzzle Fighter 2 Turbo">
+		<id>37411A</id>
+	<locale lang="EN">
+	<title>Super Puzzle Fighter II Turbo</title>
+	<synopsis>Burst right into the feverish puzzle action that combines irresistible, addictive fun with famous Capcom characters. Beat your opponent to the punch by stacking block after block in strategic patterns and color combinations. Be the first to fill the opponent's screen with blocks and K.O. you win! But get ready for more, because you can't play just once.</synopsis>
+	<genre>Puzzle-Game,Puzzle-Game / Fall</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Rompecabezas,Rompecabezas / Caída</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Super Puzzle Fighter II Turbo est un jeu de réflexion inspiré de Puyo Puyo. Le joueur contrôle des paires de blocs  qui remplissent peu à peu l'écran (qui fait 12 blocs de haut sur six de large). Le but du jeu est de remplir l'écran de l'adversaire (cf. Puyo Puyo et Tetris).
+
+Les deux gemmes composant une paire peuvent être de même couleur ou non. Outre les couleurs (rouge, bleu, vert, jaune), les gemmes sont différenciées par leur genre :
+
+gemmes normales (les plus courantes) ;
+power gems (qui sont des gems normales de même couleurs fusionnées) ;
+crash gems (environ une sur dix) ;
+counter gems (leur fréquence dépend de l'interaction entre les joueurs) ;
+gemmes spéciales (environ une sur 25).
+Exceptées les counter gems, les joueurs reçoivent la même séquence de gemmes.
+
+Une gemme normale ne peut être détruite qu'en rentrant en contact :
+
+avec une crash gem de la même couleur (toutes les gemmes de la même couleur adjacentes à l'explosion alors provoquée seront détruites) ;
+avec une gemme spéciale (toutes les gemmes de même couleur seront détruites, sans considération de leur position par rapport à l'explosion).
+Les crash gems sont colorées, mais pas les gemmes spéciales : tant qu'une crash gem n'entre pas en contact avec une gemme de sa couleur, elle reste à l'écran.
+
+Lorsque suffisamment de gemmes sont détruites en un seul coup (c'est-à-dire avec une seule paire de blocs), notamment grâce à un combo, des counter gems viennent remplir l'écran de l'adversaire. Plus le combo déclenché est grand, plus l'avalanche de counter gems chez l'adversaire sera importante. Les counter gems sont en fait des gemmes normales, mais qui ne peuvent être détruites qu'au bout d'un certain temps. Elles constituent la base de l'attaque : grâce à plusieurs vagues de counter gems et un bon timing, l'écran adverse se remplit sans que l'adversaire ne puisse détruire aucune gemme. Le même résultat peut être obtenu en produisant d'un coup un énorme combo? et donc une énorme vague de counter gems.
+
+Chaque personnage (adversaire) dispose d'une attaque de contre qui lui est propre (l'avalanche de counter gems est différente selon le personnage adopté).
+
+Les combos se réalisent bien sûr grâce aux réactions en chaîne entre les destructions de blocs mais également grâce aux power gems : la destruction d'une power gem composée de huit blocs produira plus de counter gems que la destruction de huit blocs isolés.
+
+Relation avec l'univers Capcom
+
+Le II du titre est une référence humoristique aux nombreuses versions de Street Fighter II (en particulier Super Street Fighter II Turbo).Puzzle Fighter premier du nom n'existe pas.
+Pendant le jeu, des versions super deformed de certains personnages de Street Fighter et de Darkstalkers, miment une bataille en fonction des performances respectives des joueurs. Ces animations restent toutefois esthétiques et n'ont aucune incidence sur le fond du gameplay.</synopsis>
+	<genre>Puzzle-Game,Puzzle-Game / Tomber</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Puzzle,Puzzle / Fallen</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Quebra-cabeças,Quebra-cabeças / Queda</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Super Puzzle Fighter II X</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1996" month="" day=""/>
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Street Fighter 2 - The New Challengers">
+		<id>43304A</id>
+	<locale lang="EN">
+	<title>Super Street Fighter II: The New Challengers</title>
+	<synopsis>Super Street Fighter II: The New Challengers is the fourth game in the Street Fighter II sub-series of Street Fighter games, following Street Fighter II: Hyper Fighting. In addition to refining and balancing the existing character roster from the previous installments, Super Street Fighter II also introduced four new characters.
+
+This game is also known under the name of Super Street Fighter II: The Tournament Battle when 4 Cabinets are connected to play in tournament mode.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>La quatriéme version de Street Fighter 2, ici sur CPS 2, la deuxième génération de hardware arcade de Capcom.
+Dans cette version, quatres nouveaux personnages font leur apparition, avec leur décor respectif et les graphismes sont retravaillés, CPS 2 oblige.
+
+Super Street Fighter II: The New Challengers est aussi connu sous le nom de Super Street Fighter II: The Tournament Battle lorsque 4 bornes sont reliées entre elles pour participer à des tournois à 8 joueurs.</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1993" month="" day=""/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Street Fighter 2 Turbo">
+		<id>37413A</id>
+	<locale lang="EN">
+	<title>Super Street Fighter II Turbo</title>
+	<synopsis>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
+
+Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Super Street Fighter II Turbo souvent abrévié en 2X ou Super Turbo est un jeu vidéo de combat développé et édité par Capcom en février 1994 sur CP System II. C'est une version améliorée de Super Street Fighter II: The New Challengers1,2. Le jeu est considéré comme la version la plus aboutie de Street Fighter II, avant l'arrivée de Hyper Street Fighter II dix ans plus tard</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Super Street Fighter II X: Grand Master Challenge</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1994" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Vampire / Darkstalkers - The Night Warriors">
+		<id>41049A</id>
+	<locale lang="EN">
+	<title>Darkstalkers: The Night Warriors</title>
+	<synopsis>Vampire / Darkstalkers - The Night Warriors is a one-on-one beat-em-up in which a powerful alien demon called 'Pyron' has invaded Earth to add to his collection of the planets that he has already devoured. Enter the world's most fearsome monsters who, ironically, are Mankind's last line of defense.
+
+The game features ten playable characters (Demitri Maximoff, Jon Talbain, Victor von Gerdenheim, Lord Raptor, Morrigan Aensland, Anakaris, Felicia, Oboro Bishamon, Rikuo and Sasquatch) with two non-playable boss characters - Huitzil and Pyron - as the final opponents of the single-player game.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Un classique du jeu de baston ! En résumé, c'est un jeu de combat 2D à la Street fighter dans lequel vous incarnez un monstre célèbre (Dracula, la momie, une succube...), mais travaillé à la sauce "manga" (ah, Morrigan!...). chaque personnage ayant évidemment ses coups spéciaux et combos, aussi impressionnants visuellement que difficiles à obtenir, mieux vaut avoir une manette.
+Très beaux graphismes, niveau de difficulté élevé, un must du genre !</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Meistern Sie den Angriff der Darkstalkers. 10 monströse Kämpfer warten auf ihren Einsatz. Präzise Steuerung, ein großes Angebot an auszuführenden Combos, atemberaubende Grafik und Charaktere glänzen in über 15.000 handgemalten Grafiken.</synopsis>
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+	<locale lang="JA">
+	<title>Vampire: The Night Warriors</title>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1994" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Vampire Hunter 2 - Darkstalkers' Revenge">
+		<id>37415A</id>
+	<locale lang="EN">
+	<title>Vampire Hunter 2: Darkstalkers' Revenge</title>
+	<synopsis>Fourteen well-animated creatures from Hell rip, tear and otherwise fight for control of the nether-realms.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Vampire Hunter 2 : Darkstalkers' Revenge est le quatrième jeu de la série Darkstalkers qui reprend exactement le même casting que Night Warriors. La seule différence quant aux personnages provient surtout des combattants secrets que l'on trouve ici et pas dans l'autre : un John Talbain sous acides, encore plus stressant que le personnage secret de Vampire Savior, et un Oboro Bishamon identique, par contre. À ceux-là s'ajoutent également les quatre personnages de Vampire Savior : Lilith, Jedah, Q. Bee et B.B. Hood, à débloquer également.
+
+En fait Vampire Hunter 2, c'est un Night Warriors avec le système de jeu de Vampire Savior. Du coup on retrouve les personnages et l'histoire du premier, mais avec le gameplay du second. Lors du choix du personnage, on peut décider de jouer en normal ou en turbo (vitesse de jeu accélérée), et avec ou sans garde automatique (votre personnage se protège de lui-même des coups de base si vous ne touchez à rien).
+
+Le jeu se pratique à six boutons et implémente toutes les spécificités des précédents épisodes : les super sauts (bas puis haut), les dash (deux fois avant ou arrière), les gardes aériennes, les Guard Cancels (manipulations visant à supprimer le temps de latence qui suit une parade en déclenchant un coup spécial), les attaques ES (des coups spéciaux plus puissants qu'à l'accoutumée, réalisés au moyen de deux boutons de coups au lieu d'un), les EX Specials qui correspondent à des super coups spéciaux de la mort qui tue la vie, etc.
+
+Et puis on a droit également aux deux principales nouveautés de Dark Savior. Tout d'abord le nouveau système de jauge de vie : les coups font perdre à l'adversaire une portion de vie de manière définitive, et une autre de manière momentanée, si bien que s'il n'est pas touché pendant un moment, cette portion se recharge d'elle-même. Et au deuxième round, le perdant de la première reprise regagne toute sa vie alors que le vainqueur reste là où il en était.
+
+Quant à l'autre nouveauté, il s'agit de la "Dark Force". Si vous appuyez sur les boutons de pied et de poing de même puissance, vous passerez en mode Dark Force. Votre personnage prend alors la pose un instant (vous êtes vulnérable durant cette période, et si vous vous faites toucher la Dark Force est annulée), puis le décor passe en mode psychédélique. Une clepsydre apparaît sous votre barre de vie, vous indiquant combien il vous reste de temps pour profiter de ce mode. Chaque personnage y gagne un avantage propre : par exemple, Morrigan se dédouble et attaque son adversaire en sandwich.</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1997" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Vampire Savior - The Lord Of Vampire">
+		<id>37417A</id>
+	<locale lang="EN">
+	<title>Vampire Savior: The Lord of Vampire</title>
+	<synopsis>Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the Darkness.</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Le troisième jeu de la série Darkstalkers.
+
+Du côté des petits nouveaux, on découvre B.B. Hood (Bulleta au Japon), un petit chaperon rouge qui planque des lance-roquettes sous ses jupons ; Q. Bee, la reine des abeilles capable de planer un instant, un peu comme Huitzil précédemment ; Lilith, l'âme damnée de Morrigan ; et Jedah, le seigneur des démons à l'allonge spectaculaire. En plus de ces quatre-là, on découvre aussi trois personnages cachés : un Lord Raptor en mode tronçonneuse/même pas mal (vous comprendrez en le voyant) ; un Bishamon version curé, et un John Talbain clignotant encore plus pénible que l'original.
+
+Au total il y a donc dix-huit personnages, et vous devrez, après avoir fait votre choix, décider de jouer en mode Normal ou Turbo, ce dernier augmentant la vitesse du jeu, comme on pouvait s'y attendre. Le but du jeu consiste comme toujours à vider la jauge de vie adverse, mais ceci dit ça risque de durer un peu plus longtemps que d'habitude. En effet, quasiment tous vos coups font perdre à l'adversaire une portion de vie de manière définitive, et une autre "en sursis" : s'il n'est pas touché pendant un moment, cette portion se recharge d'elle-même. L'autre truc sympa c'est qu'au deuxième round, le perdant de la première reprise regagne toute sa vie alors que le vainqueur reste là où il en était.
+
+Le jeu se pratique à six boutons : trois pour les coups de pied (faibles, moyens et forts) et trois pour les coups de poing (itou). Comme d'hab', vous pouvez réaliser toute une panoplie d'attaques normales, de projections, d'enchaînements et de coups spéciaux en manipulant correctement les boutons et le joystick.
+
+Et puis, parce que c'est comme ça dans les jeux de baston post-Super Street Fighter II Turbo, vous disposez d'une jauge de spécial qui peut être remplie sur neuf niveaux. Pour ce faire, il suffit de frapper l'adversaire. Une fois que cette jauge est remplie sur au moins un cran, vous pouvez déclencher des attaques ES, ou coups spéciaux améliorés, en appuyant sur plus d'un bouton lors de la manip. Un exemple, hein, ça va faire du bien. Mettons que vous sortiez une boule de feu par un quart de tour avant plus poing (la puissance du poing détermine celle de la boule), eh bien en faisant à la place quart de tour avant plus deux boutons de poing, vous sortez la même boule de feu en version ES, donc plus méchante. Vous pouvez aussi choisir de réaliser des attaques EX. Il s'agit de coups spéciaux uniques, généralement plus compliqués à réaliser qu'un spécial de base, et aux effets (tant visuels que sur la jauge de vie adverse) remarquables.
+
+Enfin, Vampire Savior introduit une petite nouveauté pas forcément indispensable, mais pas dégueu non plus : la "Dark Force". Ouaip, comme dans Star Wars mais en version bad boy. Si vous appuyez sur les boutons de pied et de poing de même puissance, vous passerez en mode Dark Force. Votre personnage prend alors la pose un instant (vous êtes vulnérable durant cette période, et si vous vous faites toucher la Dark Force est annulée), puis le décor passe en mode psychédélique. Une clepsydre apparaît sous votre barre de vie, vous indiquant combien il vous reste de temps pour profiter de ce mode. Chaque personnage y gagne un avantage propre : par exemple, Morrigan se dédouble et attaque son adversaire en sandwich (et si ça ne faisait pas aussi mal, je suis sûr que l'adversaire ne s'en plaindrait pas !).</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1997" month="" day=""/>
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Vampire Savior 2 - The Lord Of Vampire">
+		<id>37418A</id>
+	<locale lang="EN">
+	<title>Vampire Savior 2 : The Lord of Vampire</title>
+	<synopsis>Fifteen characters fight to end the reign of Jedah, the Vampire Savior and save their own souls!</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Vampire Savior 2 est le cinquième jeu de la série Darkstalkers lui aussi un beat 'em up en deux dimensions. Le roster tourne toujours autour d'une quinzaine de personnages. Souvenez-vous que son prédécesseur en faisait disparaître trois du casting : Donovan (censé être devenu un démon), Huitzil (détruit) et Pyron (abattu).
+
+Vampire Savior 2 en fait encore disparaître trois, à savoir John Talbain le loup-garou, Sasquatch le yéti et Rikuo le triton. Et devinez qui les remplace (puisque le compte est toujours le même) ? Précisément : Donovan, Huitzil et Pyron ! Ça ressemble à une blague mais c'est la vérité.
+
+Et si vous trouvez cela un tantinet exagéré, dîtes-vous bien que c'est LA SEULE ET UNIQUE DIFFÉRENCE ENTRE LES DEUX JEUX ! Ah non, pardon, une fois que vous aurez fait votre choix vous devrez choisir de jouer ou non en mode turbo, et avec ou sans garde automatique (cette dernière possibilité était présente dans Vampire Hunter 2 mais pas dans Vampire Savior).
+
+Le but du jeu consiste comme toujours à vider la jauge de vie adverse, mais cette dernière itération fonctionne comme son aînée. En effet, quasiment tous vos coups font perdre à l'adversaire une portion de vie de manière définitive, et une autre de manière momentanée : s'il n'est pas touché pendant un moment, cette portion se recharge d'elle-même. Toujours au registre du désormais-classique-mais-qui-ne-l-était-pas-avant, au deuxième round le perdant de la première reprise regagne toute sa vie alors que le vainqueur conserve ce qui lui restait.
+
+Le jeu se pratique toujours à six boutons : trois pour les coups de pied (faibles, moyens et forts) et trois pour les coups de poing (idem). Comme d'habitude, vous pouvez réaliser toute une panoplie d'attaques normales, de projections, d'enchaînements et de coups spéciaux en manipulant correctement les boutons et le joystick.
+
+Et puis, parce qu'on ne change pas une équipe qui gagne, vous disposez d'une jauge de spécial qui peut être remplie sur neuf niveaux. Pour ce faire, il suffit de frapper l'adversaire. Une fois que cette jauge est remplie sur au moins un cran, vous pouvez déclencher des attaques ES, ou coups spéciaux améliorés, en appuyant sur plus d'un bouton lors de la manipulation. Un exemple : mettons que vous sortiez une boule de feu par un quart de tour avant plus poing (la puissance du poing détermine celle de la boule de feu), eh bien en faisant à la place quart de tour avant plus deux boutons de poing, vous sortez la même boule de feu en version ES, donc plus méchante. Vous pouvez aussi choisir de réaliser des attaques EX. Il s'agit de coups spéciaux uniques, généralement plus compliqués à réaliser qu'un spécial de base, et aux effets (tant visuels que sur la jauge de vie adverse) remarquables.
+
+Enfin, Vampire Savior 2 continue sur la lancée du premier et utilise la même spécificité : la "Dark Force". Si vous appuyez sur les boutons de pied et de poing de même puissance, vous passerez en mode Dark Force. Votre personnage prend alors la pose un instant (vous êtes vulnérable durant cette période, et si vous vous faites toucher la Dark Force est annulée) puis le décor passe en mode psychédélique. Une clepsydre apparaît sous votre barre de vie, vous indiquant combien il vous reste de temps pour profiter de ce mode. Chaque personnage y gagne un avantage propre : par exemple, Morrigan se dédouble et attaque son adversaire en sandwich.</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1997" month="" day=""/>
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="X-men Vs. Street Fighter">
+		<id>37420A</id>
+	<locale lang="EN">
+	<title>X-Men vs. Street Fighter</title>
+	<synopsis>X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary fighters in a slugfest of epic proportions. Now you can perform outrageous moves and link together amazing Chain Combos. X-Men vs. Street Fighter... the collision of two explosive universes in the world's most amazing fantasy fighter!</synopsis>
+	<genre>Fight</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>X-Men vs. Street Fighter enfrenta a los míticos mutantes de Marvel contra los héroes legendarios de Capcom en una batalla de proporciones épicas. Ahora puedes realizar impresionantes movimientos y encadenar impresionantes Combos en Cadena. X-Men vs. Street Fighter... el choque entre dos universos explosivos en el juego de lucha fantástica más impresionante del mundo!</synopsis>
+	<genre>Combate</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Le début d'un mythe. Si X-Men vs Street Fighter est le premier cross-over à voir le jour, on ne sera pas étonné que la recette soit reprise tant de fois par la suite. Et pour preuve, ce premier titre est resté dans les mémoires comme étant un incontournable.Sorti donc en 1997 seulement au Japon dans une belle boîte cartonnée avec la RAM de 4 Mb qui va donner son potentiel explosif au jeu, X-Men vs Street Fighter est certainement le cross-over par excellence de la console, qui nous le restitue une fois encore dans une version parfaitement identique à l'arcade.</synopsis>
+	<genre>Combat</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1996" month="" day=""/>
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="X-men - Children Of The Atom">
+		<id>37419A</id>
+	<locale lang="EN">
+	<title>X-Men: Children of the Atom</title>
+	<synopsis>X-MEN UNLEASHED! It's here! Ultimate combat! Mutant mayhem! X-Power! Special moves! Mid-air action! Big characters! Sizzling graphics! Exactly like you played in the arcade! You will need all your mutant powers, all your speed, all your strength... for this is the ultimate combat! Have you got enough to defeat Magneto, Omega Red and the Sentinel? Are you tough enough for Wolverine, powerful enough for Cyclops, cool enough for Iceman... are you good enough to join the new breed of mutant heroes? X-Men Children of the Atom - the fighting game to end them all!</synopsis>
+	<genre>Fight,Fight / Versus</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>X-Men: Children of the Atom es un juego arcade que fue producido por Capcom y salió para la placa Arcade CPS-2 en 1994. Fue conversionado a Sega Saturn en 1995, PC en 1997 y PlayStation en 1998. Es el primer videojuego de Capcom en utilizar la licencia de los personajes de Marvel.
+
+Este juego junto con "Super Street Fighter II" es considerado como uno de los primeros juegos en popularizar el super salto, super combos y los Tech Hits, mediante los cuales un agarre puede ser negado al oponente.
+
+En cierta manera el juego es precursor de la serie de juegos de Marvel vs. Capcom, en la cual se combinaron elementos de Street Fighter Alpha para formar X-Men vs. Street Fighter.</synopsis>
+	<genre>Combate,Combate / Versus</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Basé sur la bande dessinée X-Men, il est le premier jeu de combat produit par Capcom en utilisant des personnages sous licence de Marvel Comics. Sorti au milieu des années 1990, au cours de la série animée X-Men, le jeu propose la voix des acteurs de la série reprenant leurs rôles. L'intrigue du jeu est basée sur l'histoire du cross-over des comics X-Men "Fatal Attractions" - les joueurs contrôlent un des X-Men ou de leurs ennemis dans leur lutte contre le méchant Magnéto. Ils font face à chacun des autres personnages du jeu dans des combat en un-contre-un, avant de combattre le Fléau et Magnéto lui-même.
+
+Le gameplay a beaucoup a beaucoup de points communs avec les précédents jeux de combat de Capcom, Super Street Fighter II Turbo et Darkstalkers. X-Men: Children of the Atom ajoute un système de combo qui comporte de longs combos qui peuvent même être effectuées en l'air. De plus, le jeu comporte également différentes man?uvres tactiques, y compris la capacité des personnages à faire des roulades. X-Men: Children of the Atom a également introduit des environnements de combat multi-niveaux où le sol s'écroule et les personnages tombent dans les parties inférieures du niveau. Ces concepts et le rythme rapide du jeu fournit la base pour la série de Capcomm : Marvel vs Capcom. Cette dernière commenca avec le successeur de ce jeu : X-Men vs Street Fighter.</synopsis>
+	<genre>Combat,Combat / Versus</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Kampf,Kampf / Versus</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Luta,Luta / Versus</genre>
+	</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1994" month="" day=""/>
+		<rating type="NOTE" value="12">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+</datafile>

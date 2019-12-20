@@ -1,0 +1,139 @@
+59238A|4 In 1 Row|4 in 1 Row||Various,|2||Philips Interactive Media|Philips Interactive Media|1982
+59239A|A Labyrinth Game + Supermind|A Labyrinth Game + Supermind||Various,|1||Philips Interactive Media|Philips Interactive Media|1981
+59241A|Alien Invaders - Plus|Alien Invaders - Plus||Action,|1||Magnavox|Magnavox|1980
+59243A|Amok!|AMOK!||Action,|1||John Dondzila|John Dondzila|1998
+59244A|Armored Encounter + Sub Chase|Armored Encounter + Sub Chase||Various,|2||Magnavox|Magnavox|1980
+59245A|Astrododge|Astrododge||Action,|||Revival Studios|Revival Studios|
+59246A|Atlantis|Atlantis||Shooter,Action,|2||Imagic|Imagic|1982
+120778|Terrahawks|Attack of the Timelord||Shooter,|1||Philips Interactive Media|Philips Interactive Media|1983
+59248A|Backgammon|Backgammon||Strategy,|2||N.V. Philips Gloeilampenfabrieken|N.V. Philips Gloeilampenfabrieken|1982
+59249A|Baseball|Baseball||Sports,|2||Magnavox|Magnavox|1980
+59250A|Billard Electrique|Billard Electrique||Various,|4||Philips Interactive Media|Philips Interactive Media|1980
+59251A|Billiard Americain|Billiard Americain||Various,|||Philips Interactive Media|Philips Interactive Media|1981
+59252A|Blackjack|Blackjack||Playing cards,|2||Philips Interactive Media|Philips Interactive Media|1980
+59255A|Bombardeio Submarino + Tiro Ao Alvo|Bombardeio Submarino + Tiro ao Alvo||Various,|||Philips Interactive Media|Philips|1980
+59256A|Bowling + Basketball|Bowling + Basketball||Sports,|1||Magnavox|Magnavox|1980
+59258A|C7010|C7010||Strategy,|||Microtrend International B.V.|N.V. Philips Gloeilampenfabrieken|
+59259A|Casino Slot Machine|Casino Slot Machine||Playing cards,|4||Magnavox|Magnavox|1980
+59260A|Catch The Ball + Noughts And Crosses|Catch the Ball + Noughts and Crosses||Various,|2||Magnavox|Magnavox|1980
+59261A|Chat Et Souris|Chat et Souris||Action,|2||Philips Interactive Media|Philips|1983
+59262A|Chess|Chess||||||Philips|
+59263A|Chez Maxime|Chez Maxime||Action,|||Jopac|TO TEK International|1983
+59264A|Chinese Logic|Chinese Logic||Strategy,|1||Magnavox|Magnavox|1980
+59265A|Clay Pigeon|Clay Pigeon||Shooter,|1||Philips Interactive Media|Philips Interactive Media|1984
+59266A|Colorclash|Colorclash||Strategy,|||Revival Studios|Revival Studios|
+59268A|Computer Golf|Computer Golf||Sports,|4||Magnavox|Magnavox|1980
+59269A|Computer Intro|Computer Intro||Educational,|1||Magnavox|Magnavox|
+59270A|Computer Programmer|Computer Programmer|||||||
+59272A|Conquest Of The World|Conquest of the World||Strategy,|2-6||Philips Interactive Media|Philips Interactive Media|1981
+59273A|Course De Voitures + Autodrome + Cryptogramme|Course de Voitures + Autodrome + Cryptogramme||Various,|1||Magnavox|Philips|1980
+59274A|Demon Attack|Demon Attack||Strategy,Action,|2||Imagic|Imagic|1983
+59275A|Depth Charge|Depth Charge||,Arcade||||N.V. Philips Gloeilampenfabrieken|
+59276A|Depth Charge + Marksman|Depth Charge + Marksman||Strategy,|1||Philips Interactive Media|N.V. Philips Gloeilampenfabrieken|1979
+59277A|Des Chiffres Et Des Lettres|Des Chiffres et des Lettres||Simulation,|||TO TEK International|TO TEK International|1981
+59278A|Desafio Chines|Desafio Chines||Strategy,|1||Magnavox|Philips|1980
+150801|Electronic Billiards|Electronic Billiards||,Pool|||||
+59280A|Electronic Table Soccer|Electronic Table Soccer||Sports,|2||Magnavox|Magnavox|1981
+59281A|Exojet +|Exojet +||Action,|||Jopac|TO TEK International|1982
+59282A|Fatso!|Fatso!||Action,|||||
+150802|Flipper Game|Flipper Game|||||||
+59283A|Football|Football||Sports,|2||Magnavox|Magnavox|1980
+59284A|Football Electronique + Hockey Electronique|Football Electronique + Hockey Electronique||Sports,|2||Magnavox|Philips|1981
+59285A|Freedom Fighters|Freedom Fighters||Action,Shooter|1||Magnavox|Magnavox|1982
+59286A|Frogger|Frogger||Action,Arcade|1||Konami|Parker Brothers|1982
+59287A|Golf|Golf||Sports,|||Philips Interactive Media|Philips Interactive Media|1980
+59271A|Cosmic Conflict!|Cosmic Conflict!||Action,|1||Magnavox|Philips Interactive Media|1980
+59288A|Guerre Laser|Guerre Laser||Shooter,|2||Magnavox|Philips|1980
+59289A|Gunfighter|Gunfighter||||||Philips|1980
+120774|Helicopter Rescue|Helicopter Rescue||Flight Simulator,|1||Philips|Philips|1983
+59290A|Hockey + Soccer|Hockey + Soccer||Sports,|2||Magnavox|Magnavox|1981
+59293A|I've Got Your Number|I've Got Your Number||Educational,|2||Magnavox|Magnavox|1979
+59291A|Interpol|Interpol||||||Philips|
+59292A|Invaders From Hyperspace|Invaders from Hyperspace||Shooter,|2||Magnavox|Magnavox|1980
+59294A|Jeu De Quilles + Basketball|Jeu de Quilles + Basketball||Sports,|1||Magnavox|Philips|1980
+59295A|Jumping Acrobats|Jumping Acrobats||||||Philips|1981
+59296A|Jungle Girl|Jungle Girl||Action,|||||
+59297A|K.c. Munchkin|K.C. Munchkin||Action,Arcade|1||Magnavox|Magnavox|1982
+59298A|K.c.'s Krazy Chase|K.C.'s Krazy Chase||Action,|1||Magnavox|Magnavox|1982
+59299A|Keyboard Creations|Keyboard Creations||Educational,|||Philips Interactive Media|North American Philips Consumer Electronics Corp.|1981
+59301A|Kill The Attacking Aliens|Kill the Attacking Aliens||Action,|||XYPE|XYPE|2003
+59762A|Killer Bees|Killer Bees||Action,Shooter|1||Philips Interactive Media|Philips|1983
+59303A|Kinder Im Verkehr 1|Kinder im Verkehr 1|||||||
+59369A|Quest for the Rings, The|Quest for the Rings||Various,|5||Magnavox|Magnavox|1981
+120777|La Ruche Infernale|La Ruche Infernale|||||||
+59305A|Las Vegas Blackjack!|Las Vegas Blackjack!||Playing cards,|2||Magnavox|Philips Interactive Media|1980
+59307A|Le Mur Magique|Le Mur Magique||Action,|2||Magnavox|Philips|1981
+59308A|Le Trésor Englouti +|Le TrÃ©sor Englouti +||Action,|||Jopac|TO TEK International|1984
+59350A|Ufo!|UFO!||Shooter,|1||Philips Interactive Media|Philips Interactive Media|1981
+59309A|Loony Balloon|Loony Balloon||Action,|1||Philips Interactive Media|Philips Interactive Media|1983
+59310A|Mage - The Enchanted Crystals|Mage: The Enchanted Crystals||Action,|||Revival Studios|Revival Studios|
+59311A|Martian Threat|Martian Threat||Shooter,Action,|1||GST Video|Classic Consoles Center|
+59312A|Matchmaker + Logix + Buzzword|Matchmaker + Logix + Buzzword||Various,|2||Magnavox|Magnavox|1980
+59313A|Math-a-magic + Echo|Math-A-Magic + Echo||Various,|1||Magnavox|Magnavox|
+59314A|Mayhem|Mayhem||Action,|||Revival Studios|Revival Studios|
+59315A|Melrep|MelRep||Strategy,|||||
+88276A|Mission Impossible / Programmed Trip|Mission Impossible / Programmed Trip||Strategy,|||Ectron Eletrônica Ltda.|Humanoid Games|
+59318A|Monkeyshines|Monkeyshines||Action,Arcade|1||Magnavox|Magnavox|1982
+59319A|Morse|Morse||Educational,|1||Philips Interactive Media|Philips Interactive Media|1984
+120775|Moto-crash|Moto-crash|||||||
+59320A|Mr. Roboto!|Mr. Roboto!||Strategy,|||Ted Foolery Games|Packrat Video Games|2006
+59321A|Munchkin|Munchkin||Action,Arcade|1||Magnavox|Philips Interactive Media|1982
+59322A|Musician|Musician||Music,|||Philips|Philips|1981
+59257A|Neutron Star|Neutron Star||Action,|1||Philips Interactive Media|Philips Interactive Media|1983
+59324A|Newscaster|Newscaster|||||||
+59325A|Nightfighter|Nightfighter||Simulation,|1||GST Video|Philips Interactive Media|1983
+59326A|Nightmare|Nightmare||Action,Arcade|2||Philips Interactive Media|Philips Interactive Media|1983
+59327A|Nimble Numbers Ned|Nimble Numbers Ned||Educational,|1||Philips Interactive Media|Philips Interactive Media|1982
+120776|Norseman|Norseman||Action,Adventure,|1||Philips|Philips|1983
+59328A|O Malabarista + Jogo Da Velha|O Malabarista + Jogo da Velha||Various,|2||Magnavox|Philips|1980
+59329A|O Segredo Do Farao|O Segredo do Farao||Puzzle,|2||Philips Interactive Media|Philips|1980
+59330A|Out Of This World + Helicopter Rescue|Out of this World + Helicopter Rescue||Various,|2||Magnavox|Magnavox|1980
+59331A|P.t. Barnum's Acrobats|P.T. Barnum's Acrobats||Action,Arcade|1||Philips Interactive Media|Philips Interactive Media|1981
+59332A|Pachinko|Pachinko||Strategy,|2||Magnavox|Magnavox|1981
+59333A|Pairs|Pairs||,Puzzle|||Magnavox|N.V. Philips Gloeilampenfabrieken|
+59334A|Pairs + Space Rendezvous + Logic|Pairs + Space Rendezvous + Logic||Various,Strategy,|2||Magnavox|Philips Interactive Media|1978
+59335A|Pick Axe Pete|Pick Axe Pete||Action,Arcade|1||Philips Interactive Media|Philips Interactive Media|1982
+59336A|Pinball|Pinball||Action,Pinball,|||Sanders Associates|CGE Services Corporation|2000
+59337A|Planet Lander!|Planet Lander!||Simulation,|||Ted Foolery Games|Packrat Video Games|
+59338A|Playtag|Playtag||Various,|2|||Philips|
+59339A|Pocket Billiards|Pocket Billiards||Various,|2||Magnavox|Magnavox|1981
+59340A|Pong For Videopac And Odyssey!|Pong for Videopac and OdysseyÂ²!||Action,||||Packrat Video Games|
+59341A|Popeye|Popeye||Action,Arcade|1||Parker Brothers|Parker Brothers|1982
+59342A|Power Lords|Power Lords||Shooter,Action,|1||Philips Interactive Media|Philips Interactive Media|1983
+59343A|Prendre L'argent Et Fuir|Prendre l'Argent et Fuir||Action,|2||Magnavox|Philips|1980
+59365A|Take The Money And Run|Take the Money and Run||Action,Arcade|2||Magnavox|Magnavox|1980
+59344A|Puzzle Piece Panic!|Puzzle Piece Panic!||Strategy,|||Ted Foolery Games|Packrat Video Games|2007
+59345A|Q-bert|Q-Bert||Action,Arcade|1||D. Gottlieb & Company|Parker Brothers|1983
+59346A|Red Baron|Red Baron||Simulation,|1|||Philips do Brasil Ltda.|1985
+59347A|Robot City|Robot City||Shooter,||||Philips|
+59348A|Route 66|Route 66||Race, Driving,||||Humanoid Games|
+59279A|Dynasty|Dynasty||Strategy,|2||Magnavox|Magnavox|1980
+59349A|Samurai|Samurai||||||Philips|1980
+59351A|Sea Rescue!|Sea Rescue!||Action,|||Rafael Guttenbrunner||2012
+59352A|Secret Of The Pharaohs|Secret of the Pharaohs||Puzzle-Game,Strategy,|2||Philips Interactive Media|Philips Interactive Media|1980
+59353A|Shark Hunter|Shark Hunter||Action,|1||GST Video|Classic Consoles Center|
+59354A|Showdown In 2100 A.d.|Showdown in 2100 A.D.||Action,|2||Magnavox|Magnavox|1980
+59355A|Sid The Spellbinder|Sid the Spellbinder||Educational,|1||Philips Interactive Media|Philips Interactive Media|1982
+59356A|Skiing|Skiing||Sports,|2||Magnavox|Philips|1980
+59357A|Smithereens|Smithereens||Strategy,|2||Philips Interactive Media|Philips Interactive Media|1980
+59358A|Speedway + Spin-out + Crypto-logic|Speedway + Spin-out + Crypto-logic||Various,|1||Magnavox|Magnavox|1978
+59359A|Spider-man|Spider-Man||Action,|1||Parker Brothers|Parker Brothers - Philips|2006
+59360A|Stairrunner|Stairrunner||Action,|||Revival Studios|Revival Studios|
+59361A|Stone Sling|Stone Sling||||||Philips|1980
+59362A|Super Bee|Super Bee||Action,Arcade|1||Philips Interactive Media|Philips Interactive Media|1983
+59363A|Super Cobra|Super Cobra||Shooter,Action,|1||Konami|Parker Brothers|1982
+59364A|Syracuse|Syracuse||Action,|1||Jopac|TO TEK International|1981
+59366A|Blobbers, The|The Blobbers||Action,|1||GST Video|N.V. Philips Gloeilampenfabrieken|1983
+59367A|Great Wall Street Fortune Hunt, The|The Great Wall Street Fortune Hunt||Simulation,|2||Philips Interactive Media|Philips Interactive Media|1982
+59368A|Mousing Cat, The|The Mousing Cat||Action,|2||Philips Interactive Media|Philips Interactive Media|1983
+59370A|Thunderball|Thunderball||Various,|4||Philips Interactive Media|Philips Interactive Media|1980
+120779|Trans American Rally|Trans American Rally||Race, Driving,|1||Philips|Philips|1983
+59371A|Turtles|Turtles||Action,Arcade|1||Konami|Philips Interactive Media|1983
+59372A|Tutankham|Tutankham||Action,|2||Konami|Philips Interactive Media|2007
+59373A|Type And Tell|Type & Tell||Educational,||||North American Philips Consumer Electronics Corp.|
+59374A|Verkehrsspiele 1|Verkehrsspiele 1|||||||
+59375A|Verkehrsspiele 2|Verkehrsspiele 2|||||||
+59376A|Volleyball|Volleyball||Sports,|2||Magnavox|Magnavox|1981
+59377A|Volleyball Electronique|Volleyball Electronique||Sports,|2||Magnavox|Philips Interactive Media|1981
+59378A|Wall Street|Wall Street||Strategy,|1||Philips Interactive Media|Philips Interactive Media|1983
+59379A|War Of Nerves|War of Nerves||Strategy,|2||Magnavox|Magnavox|1981

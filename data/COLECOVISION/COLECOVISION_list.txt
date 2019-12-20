@@ -1,0 +1,178 @@
+38060A|2010 - The Graphic Action Game|2010: The Graphic Action Game||Strategy,|1||Coleco|Coleco|1984
+154923|Adam Links Golf|Adam Links Golf|||||||
+143891|Air Battle|Air Battle|Air Battle V0.4 by Daniel Bienvenu|Shooter,|2||Daniel Bienvenu|Public Domain|2000
+38062A|Alcazar - The Forgotten Fortress|Alcazar: The Forgotten Fortress||Adventure,|1||Activision|Activision|1985
+38063A|Alphabet Zoo|Alphabet Zoo||Various,Educational,|2||Spinnaker Software Corporation|Spinnaker Software Corporation|1984
+44398A|Amazing Bumpman|Amazing Bumpman||Action,Arcade|||VSS|Telegames|1984
+38064A|Antarctic Adventure|Antarctic Adventure||Action|1||Konami|Coleco - Konami|1984
+38065A|Aquattack|Aquattack||Action,Shooter|1||Interphase Technologies Inc.|Interphase Technologies Inc.|1984
+38066A|Artillery Duel|Artillery Duel||Strategy,|2||Xonox|Xonox|1983
+38067A|Astro Invader|Astro Invader||Action,|2||Stern Electronics, Inc.|AtariAge|2005
+38068A|Bc's Quest For Tires 2 - Grog's Revenge|B.C. II: Grog's Revenge||Race, Driving,|2||Sydney Development Corp.|Sierra|1984
+38069A|Bc's Quest For Tires|BC's Quest for Tires||Action,Platform|1||Sydney Development Corp.|Sierra On-Line - Sydney|1983
+38070A|Beamrider|Beamrider||Action,Shooter|4||Activision|Activision|1983
+38071A|Blockade Runner|Blockade Runner||Action,Shooter|1||Interphase Technologies Inc.|Interphase Technologies Inc.|1984
+38072A|Boulder Dash|Boulder Dash||Action|1||First Star Software, Inc.|Micro Fun|1984
+38073A|Brain Strainers|Brain Strainers||Music and Dance,|2||Carousel Software|Coleco|1984
+38074A|Buck Rogers - Planet Of Zoom|Buck Rogers: Planet of Zoom||Action,Shooter|2||Sega|Coleco|1983
+38075A|Bump 'n' Jump|Bump 'N' Jump|Bump 'N' Jump (1982) (Data East)|Race, Driving,|2||Data East|Coleco - Mattel|1984
+38076A|Burgertime|BurgerTime|Burgertime (1982) (Data East) [!]|Action,Arcade|2||Data East|Coleco - Mattel|1984
+143885|Bustin-out|Bustin-out|BUsTin-Out Demo 0.5 by Daniel Bienvenu||||||
+38077A|Cabbage Patch Kids Adventures In The Park|Cabbage Patch Kids Adventures in the Park||Action,|2||Konami|Coleco|1984
+108723|Cabbage Patch Kids Picture Show|Cabbage Patch Kids Picture Show|Cabbage Patch Kids - Picture Show|Various / Print Club,Various,|1||Coleco - CBS|Coleco - CBS|1984
+44399A|Campaign '84|Campaign '84||Simulation,|1||Sunrise Software|Sunrise Software|1983
+38078A|Carnival|Carnival||Action,Gun shooter|2||Sega|Coleco|1982
+38079A|Centipede|Centipede||Shooter / Vehicle, 1st person,Shooter,|1||Atari|Atarisoft|1983
+38080A|Choplifter!|Choplifter!|Choplifter|Action|1||Brøderbund Software, Inc.|Coleco|1984
+38081A|Chuck Norris Superkicks|Chuck Norris Superkicks|Chuck Norris - Super Kicks|Action,|1||Xonox|Xonox|1983
+38082A|Congo Bongo|Congo Bongo||Action,Arcade|2||Sega|Coleco|1984
+38083A|Cosmic Avenger|Cosmic Avenger||Action,Shooter|2||Universal Co., Ltd.|Coleco|1982
+44401A|Cosmic Crisis|Cosmic Crisis||Platform,|1||Bit Corporation|Bit Corporation - Coleco|1983
+38084A|Cye|Cye||Strategy,|2||Good Deal Games|Good Deal Games|2008
+38085A|Dacman|DacMan|Dacman by Daniel Bienvenu|Action,Arcade|1||Daniel Bienvenu|homebrew|2000
+44402A|Dance Fantasy|Dance Fantasy||Music and Dance,|||Fisher-Price|Fisher-Price|1984
+38087A|Defender|Defender||Action,Shoot'em Up,|2||Williams Electronics Inc.|Atarisoft|1983
+38088A|Destructor|Destructor||Race, Driving,|1||Coleco|Coleco|1984
+154944|Diablo|Diablo|||||||
+44403A|Dig Dug|Dig Dug||Action / Labyrinth,Action,|||Atari, Inc|Atari|1984
+38089A|Donkey Kong|Donkey Kong|Donkey Kong Arcade|Action,Arcade|2||Nintendo|Coleco|1982
+38090A|Donkey Kong Junior|Donkey Kong Junior|Donkey Kong Jr|Action,|2||Nintendo|Coleco|1983
+38092A|Dr. Seuss's Fix-up The Mix-up Puzzler|Dr. Seuss's Fix-Up the Mix-Up Puzzler||Puzzle-Game,|1||Coleco|Coleco|1984
+154945|Dragon's Lair|Dragon's Lair||Adventure,|1||Cinematronics|Coleco|1984
+38091A|Dragonfire|Dragonfire||Action|2||Imagic|Imagic|1984
+38094A|Escape From The Mindmaster|Escape from the Mindmaster|Escape From The Mind Master|Adventure,|1||Starpath Corporation|Epyx|1983
+38095A|Evolution|Evolution||Action,Arcade|1||Sydney Development Corp.|Sydney Development Corp.|1983
+38096A|Facemaker|FaceMaker||Educational,|1||Spinnaker Software Corporation|Spinnaker Software Corporation|1983
+44404A|Fall Guy|Fall Guy||Platform,Race, Driving,|1||20th Century Fox|Coleco|1983
+38097A|Fathom|Fathom||Action,|1||Imagic|Imagic|1983
+44406A|Flipper Slipper|Flipper Slipper||Action,Breakout|1||Spectravision|Spectravision|1983
+44407A|Fortune Builder|Fortune Builder||Simulation,|||Coleco - CBS|Coleco - CBS|1984
+44408A|Fraction Fever|Fraction Fever||Educational,|||Spinnaker Software|Spinnaker Software|1983
+44409A|Frantic Freddy|Frantic Freddy||Action,Platform,|||Spectravideo|Spectravideo|1983
+38098A|Frenzy|Frenzy|Frenzy!|Action,Arcade|2||Stern Electronics, Inc.|Coleco|1983
+38099A|Frogger|Frogger||Action,Arcade|2||Konami|Parker Brothers|1983
+38100A|Frogger 2 - Threeedeep!|Frogger II: ThreeeDeep!||Action,|1||Parker Brothers|Parker Brothers|1984
+44410A|Tarzan - From Out Of The Jungle|From Out of the Jungle - Tarzan|||||Coleco - CBS|Coleco - CBS|1984
+38101A|Front Line|Front Line|Frontline|Action|2||Taito|Coleco|1983
+38102A|Galaxian|Galaxian||Action,Shooter|2||Namco|Atarisoft|1983
+38103A|Gateway To Apshai|Gateway to Apshai||Role playing games,|1||Epyx|Epyx|1984
+38104A|Gorf|Gorf||Action,Shooter|2||Bally Midway|CBS Electronics|Coleco
+44411A|Gust Buster|Gust Buster||Action,Arcade|1||Sunrise|Sunrise Software|1983
+38105A|Gyruss|Gyruss||Shooter / Run and Shoot,Shooter,|2||Konami|Parker Brothers|1984
+38107A|H.e.r.o.|H.E.R.O.||Action|2||Activision|Activision|1984
+154946|Hard Hat And Pinball Construction Set|Hard Hat And Pinball Construction Set|||||||
+44412A|Illusions|Illusions||Puzzle-Game,||||Coleco|1984
+59407A|It's Only Rock 'n' Roll|Its Only Rock 'N' Roll||Simulation,|1||Xonox|Xonox|1984
+38108A|James Bond 007|James Bond 007||Action,Shooter|2||Parker Brothers|Parker Brothers|1984
+154947|Jeopardy!|Jeopardy!|||||||
+44413A|Joust|Joust||,Arcade|||Team Pixelboy|Team Pixelboy|2014
+44414A|Juke Box|Juke Box||Strategy,|2||Spinnaker Software|Spinnaker Software|1984
+38109A|Jumpman Junior|Jumpman Junior||Action,Arcade|4||Epyx|Epyx|1984
+38110A|Jungle Hunt|Jungle Hunt||Action,Arcade|2||Taito|Atarisoft|1983
+38111A|Ken Uston Blackjack/poker|Ken Uston BlackJack/Poker||Strategy,|4||Coleco|Coleco|1983
+38112A|Kevtris|Kevtris|Kevtris by Kevin Horton|Strategy,|2||Kevin Horton|Public Domain|1996
+38113A|Keystone Kapers|Keystone Kapers||Action,Arcade|2||Activision|Activision|1984
+143908|Kill Barney In Tokyo|Kill Barney In Tokyo|Kill Barney in Tokyo by Daniel Bienvenu||||||
+143909|Killer Instinct|Killer Instinct|Killer Instinct by Daniel Bienvenu|Shooter,|2||Daniel Bienvenu|Public Domain|1997
+38114A|Lady Bug|Lady Bug||Action,Arcade|2||Universal Co., Ltd.|Coleco|1982
+44416A|Learning With Leeper|Learning with Leeper||Action,Other|1||Sierra|Sierra|1984
+44417A|Linking Logic|Linking Logic||Puzzle-Game,|||Fisher-Price|Fisher-Price|1984
+44418A|Logic Levels|Logic Levels||Educational,|||Fisher-Price|Fisher-Price|1984
+38115A|Looping|Looping||Action,Shooter|2||Venture Line, Inc.|Coleco|1983
+44419A|M.a.s.h|M.A.S.H|M.A.S.H.|Action|1||20th Century Fox|20th Century Fox|1983
+44420A|Fisher-price|Memory Manor||Educational,|1||Frieda Lekkerkerker Inc.|Fisher-Price Learning Software|1984
+44421A|Meteoric Shower|Meteoric Shower||Shoot'em Up,Shooter,|||Bit Corporation|Bit Corporation|1983
+38116A|Miner 2049er|Miner 2049er||Action,Arcade|2||Big Five Software|Micro Fun|1983
+38117A|Monkey Academy|Monkey Academy||Various,Educational,|2||Konami|Coleco|1984
+38118A|Montezuma's Revenge|Montezuma's Revenge||Action|1||Parker Brothers|Parker Brothers|1984
+44422A|Moon Patrol|Moon Patrol||Platform,|1||Irata|Coleco|2014
+38119A|Moonsweeper|Moonsweeper||Action,Shooter|1||Imagic|Imagic|1983
+38120A|Motocross Racer|Motocross Racer||Race, Driving,|1||Xonox|Xonox|1984
+38121A|Mountain King|Mountain King||Action,Arcade|1||E.F. Dreyer, Inc.|Sunrise Software, Inc.|1984
+38122A|Mouse Trap|Mouse Trap|Mousetrap|Action,Arcade|2||Exidy, Inc.|Coleco|1982
+38123A|Mr. Do!|Mr. Do!||Action,Arcade|2||Universal Co., Ltd.|Coleco|1983
+38124A|Mr. Do!'s Castle|Mr. Do!'s Castle|Mr. Do's Castle|Action,Arcade|1||Universal Co., Ltd.|Parker Brothers|1984
+108726|Ms. Space Fury|Ms. Space Fury||Platform,|2|Coop|Daniel Bienvenu|Digital Press|2001
+154948|Niad Public Domain - Volume 36|Niad Public Domain - Volume 36|||||||
+143886|Nim|Nim|Nim by Daniel Bienvenu|Traditional,|1||Daniel Bienvenu|Public Domain|2000
+38125A|Nova Blast|Nova Blast||Action,Shooter|1||Imagic|Imagic|1983
+38126A|Oil's Well|Oil's Well||Action / Labyrinth,Action,|1||Sierra|Sierra On-Line|1984
+38127A|Omega Race|Omega Race||Action,Shooter|2||Bally Midway|Coleco|1984
+38128A|One-on-one|One-on-One|Dr. J and Larry Bird Go One on One|Sports,|2||Micro Fun|Micro Fun|1984
+44423A|Pac-man|Pac-Man|Pac-Man Collection Demo by Opcode|Action / Labyrinth,Action,|2||Atarisoft|Atarisoft|1984
+38129A|Pepper 2|Pepper II||Action,|2||Exidy, Inc.|Coleco|1983
+38131A|Pitfall 2 - Lost Caverns|Pitfall II: Lost Caverns||Adventure,|1||Activision|Activision|1984
+38130A|Pitfall!|Pitfall!||Action,Platform|1||Activision|Activision|1983
+38132A|Pitstop|Pitstop||Simulation,|4||Epyx|Epyx|1983
+38133A|Popeye|Popeye||Action,Arcade|2||Nintendo|Parker Brothers|1983
+44424A|Porky's|Porky's||Action,Arcade|1||20th Century Fox|Coleco|1983
+44425A|Power Lords - Quest For Volcan|Power Lords - Quest for Volcan||Action,Shooter|1||NAP Consumer Electronics Corp.|NAP Consumer Electronics Corp.|1983
+38134A|Q*bert|Q*bert|Q-bert|Action,Arcade|2||D. Gottlieb & Co.|Parker Brothers|1983
+38135A|Q*bert's Qubes|Q*Bert's Qubes|Q-bert II|Action,|2||Mylstar Electronics, Inc.|Parker Brothers|1984
+38136A|Quest For Quintana Roo|Quest for Quintana Roo||Adventure,|1||VSS, Inc.|Sunrise Software, Inc.|1983
+38137A|River Raid|River Raid||Action,Shooter|2||Activision|Activision|1984
+38138A|Robin Hood|Robin Hood||Action|2||Xonox|Xonox|1984
+38141A|Roc 'n Rope|Roc 'N Rope||Action,Arcade|2||Konami|Coleco|1984
+38139A|Rock N' Bolt|Rock n' Bolt|Rock 'N' Bolt|Action,Puzzle|2||Activision|Telegames, Inc.|1984
+38140A|Rocky Super Action Boxing|Rocky Super Action Boxing|Rocky Super-Action Boxing|Sports,|2||Coleco Industries, Inc.|Coleco|1983
+44426A|Rolloverture|Rolloverture||Music,Education,|||Sunrise Software|Sunrise Software|1983
+38142A|Sammy Lightfoot|Sammy Lightfoot||Action,Arcade|2||Sierra|Sierra On-Line|1983
+44427A|Sector Alpha|Sector Alpha||Action,Gun shooter|1||Spectravision|Spectravision|1983
+38143A|Sewer Sam|Sewer Sam||Action,Gun shooter|2||Interphase Technologies Inc.|Interphase Technologies Inc.|1984
+38144A|Sir Lancelot|Sir Lancelot||Action,Arcade|2||Xonox|Xonox|1983
+44428A|Skiing|Skiing||Sports,|||Telegames|Telegames|1986
+38145A|Sky Jaguar|Sky Jaguar||Action,|1||Konami|Opcode Games|2004
+38146A|Slither|Slither||Action,Gun shooter|1||Coleco Industries, Inc.|Coleco|1983
+44429A|Slurpy|Slurpy||Action,Arcade|1||Emag|Xonox|1984
+38147A|Smurf - Paint 'n' Play Workshop|Smurf: Paint 'n' Play Workshop|Smurf - Paint 'n Play Workshop|Various,Educational,|2||Coleco|Coleco|1984
+38148A|Smurf - Rescue In Gargamel's Castle|Smurf: Rescue in Gargamel's Castle||Action,Platform|2||Coleco|Coleco|1982
+38149A|Space Fury|Space Fury|Ms. Space Fury|Action,Arcade|2||Sega|Coleco|1983
+143919|Space Invasion|Space Invasion|Space Invasion Demo by John Dondzila|Action,|||Classic Game Creations||
+38150A|Space Panic|Space Panic||Action,Arcade|2||Universal Co., Ltd.|Coleco|1983
+38151A|Spectar|Spectar|Spectron|Action,Shooter|2||Exidy, Inc.|AtariAge|2002
+44430A|Spectron|Spectron||Shooter,|||Spectravideo|Spectravideo|1983
+38152A|Spy Hunter|Spy Hunter||Race, Driving,|2||Bally Midway|Coleco|1984
+108718|Squish 'em Sam!|Squish'em Featuring Sam||,Arcade|||Sirius Software, Inc.|Sirius Software, Inc.|1984
+143924|Star Fortress|Star Fortress|Star Fortress by John Dondzila|Action,|||Classic Game Creations||
+38153A|Star Trek - Strategic Operations Simulator|Star Trek: Strategic Operations Simulator||Action,Shooter|2||Sega|Coleco|1984
+38154A|Star Wars|Star Wars|Star Wars - The Arcade Game|Action,Shooter|1||Atari|Parker Brothers|1984
+38155A|Steamroller|Steamroller||Strategy,|2||Cheshire Engineering|Retrotopia|2000
+44431A|Strike It!|Strike It!||Shooter,|||Telegames|Telegames|1986
+44432A|Subroc|Subroc||Shoot'em Up,|||Coleco - CBS|Coleco - CBS|1983
+38156A|Super Action Baseball|Super Action Baseball||Sports,|2||Coleco|Coleco|1983
+38157A|Super Action Football|Super Action Football||Sports,|2|Coop|Coleco (Canada) Limitée|Coleco|1984
+150952|Super Action Football (soccer)|Super Action Football (soccer)||Sports,|2||Coleco|Coleco|1984
+38158A|Super Cobra|Super Cobra||Action,Shooter|1||Konami|Parker Brothers|1983
+44433A|Super Cross Force|Super Cross Force||Shoot'em up / Vertical,Shoot'em Up,|1||Spectravideo|Spectravideo|1983
+108724|Super Dk!|Super DK!|Super DK! Junior|Arcade,|2||Nintendo|Coleco - CBS|1983
+108725|Super Dk! Junior|Super DK! Junior||Arcade,|2||Nintendo|Nintendo|1983
+44434A|Tank Wars|Tank Wars||Puzzle,Shooter,|||Telegames|Telegames|1983
+38159A|Root Beer Tapper|Tapper||Sports / Table tennis,Sports,|2||Bally Midway|Coleco|1984
+38160A|Telly Turtle|Telly Turtle||Various,Educational,|1||Carousel Software|Coleco|1984
+38061A|Activision Decathlon, The|The Activision Decathlon||Sports,|1||Activision|Activision|1983
+38086A|Dam Busters, The|The Dam Busters||Simulation,Strategy,|1||Sydney Development Corp.|Coleco - Sydney|1984
+38093A|Dukes of Hazzard, The|The Dukes of Hazzard||Race, Driving,|2||Coleco|Coleco|1984
+38106A|Heist, The|The Heist||Action,Arcade|2||Livesay Computer Games, Inc.|Micro Fun|1983
+108722|Yolk's on You, The|The Yolk's on You||Action,Arcade|2||20th Century Fox|20th Century Fox|1983
+38161A|Threshold|Threshold||Action,Shooter|1||Sierra|Sierra On-Line|1983
+143887|Tic Tac Toe|Tic Tac Toe|Tic Tac Toe by Norman Nithman|Traditional,|2||Norman Nithman|Public Domain|1996
+38162A|Time Pilot|Time Pilot||Action,Shooter|1||Konami|Coleco|1983
+38163A|Tomarc The Barbarian|Tomarc the Barbarian||Action,Arcade|1||Xonox|Xonox|1984
+38164A|Tournament Tennis|Tournament Tennis||Simulation,Sports,|1||D&L Research|Imagic|1984
+154949|Troll's Tale|Troll's Tale|||||||
+44435A|Tunnels And Trolls|Tunnels & Trolls||Action,|1||Flying Buffalo|Flying Buffalo|1983
+38165A|Turbo|Turbo||Race, Driving,|2||Sega|Coleco|1982
+38166A|Tutankham|Tutankham||Action,Arcade|2||Konami|Parker Brothers|1983
+38167A|Up 'n Down|Up 'n Down||Race, Driving,|2||Sega|Sega|1984
+38168A|Venture|Venture|Antarctic Adventure|Action,Adventure|2||Exidy, Inc.|Coleco|1982
+38169A|Victory|Victory||Action,Shooter|1||Exidy, Inc.|Coleco|1983
+44436A|Video Hustler|Video Hustler||Sports / Pool,Action,Sports,|1||Konami|Coleco - Konami|1984
+44437A|War Room|War Room||Strategy,|1||Probe 2000|Probe 2000|1983
+38170A|Wargames|WarGames|War Games|Strategy,|1||Coleco|Coleco|1984
+38171A|Wing War|Wing War||Action|1||Imagic|Imagic|1983
+143929|Winky Trap|Winky Trap|Winky Trap by John Dondzila|Action,|2||John Dondzila|Public Domain|1997
+38172A|Wizard Of Id's Wizmath|Wizard of Id's WizMath||Various,Educational,|2||Sydney Development Corp.|Sierra|1984
+44438A|Word Feud|Word Feud||Educational,|1||Xonox|Xonox|1984
+38173A|Xonox Double Ender - Artillery Duel And Chuck Norris Superkicks|Xonox Double Ender: Artillery Duel and Chuck Norri||Strategy,|2||Xonox|Xonox|1983
+38174A|Zaxxon|Zaxxon||Action,Shooter|2||Sega|Coleco|1982
+38175A|Zenji|Zenji||Strategy,|2||Activision|Activision|1984

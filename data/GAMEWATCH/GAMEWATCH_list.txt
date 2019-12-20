@@ -1,0 +1,68 @@
+Game ID|Game Name||||||||
+88045|Armor Battle|Armor Battle||Action,|1||Mattel Electronics|Mattel Electronics|1978
+88046|Banana|Banana||Action,|1||VTech|VTech|1981
+88047|Baseball|Baseball||Action,|1||VTech|VTech|
+88048|Bomb Fight|Bomb Fight||Action,|1||VTech|VTech|
+88049|Caccia Al Ladro|Caccia Al Ladro||Action,|1||VTech|VTech|
+143953|Camelot|Camelot|||1||||1981
+88050|Cessate Il Fuoco|Cessate Il Fuoco||Action,|1||VTech|VTech|
+88051|Chicky Woggy (time And Fun)|Chicky Woggy (time And Fun)||Action,|1||VTech|VTech|1982
+88097|Chicky Woggy (tini-arcade)|Chicky Woggy (tini-arcade)||Action,|1||VTech|VTech|
+143954|Circus Circus|Circus Circus|||||||
+143407|Climber|Climber|||||||
+88052|Condor|Condor||Action,|1||VTech|VTech|1981
+88053|Crazy Chewy|Crazy Chewy||Action,|1||VTech|VTech|
+88054|Defendo|Defendo||Action,|1||VTech|VTech|
+99467|Donkey Angler|Donkey Angler|||1||Gakken|Gakken|
+99463|Donkey Kong|Donkey Kong|||1||Coleco Industries, Inc.|Coleco Industries, Inc.|
+88055|Donkey Kong (multi Screen)|Donkey Kong (multi Screen)||Action,|1||Nintendo|Nintendo|1982
+99461|Donkey Kong Circus|Donkey Kong Circus||Action,|1||Nintendo|Nintendo|1984
+88056|Donkey Kong 2|Donkey Kong II||Action,|1||Nintendo|Nintendo|1983
+88057|Donkey Kong Jr.|Donkey Kong Jr.||Action,|1||Coleco Industries, Inc.|Coleco Industries, Inc.|1982
+88098|Donkey Kong Jr. (panorama Screen)|Donkey Kong Jr. (panorama Screen)||Action,|1||Nintendo|Nintendo|
+88099|Donkey Kong Jr. (table Top)|Donkey Kong Jr. (table Top)||Action,|1||Nintendo|Nintendo|
+88058|Dungeons And Dragons Computer Fantasy Game|Dungeons & Dragons Computer Fantasy Game||Action,|1||Mattel Electronics|Mattel Electronics|1981
+99462|Egg|Egg||Action,|1||Nintendo|Nintendo|1981
+143408|Ball|Electronic Toss-Up|||1||Nintendo|Nintendo|1980
+88059|Engine Room|Engine Room||Action,|1||VTech|VTech|
+88060|Escape|Escape||Action,|1||VTech|VTech|
+88061|Explorers Of Space|Explorers Of Space||Action,|1||Elektronika|Elektronika|
+143955|Flagman|Flagman||Puzzle,|1||Nintendo EAD|Nintendo|1980
+88062|Fowling|Fowling||Action,|1||Elektronika|Elektronika|
+88063|Frog Boaster|Frog Boaster||Action,|1||Elektronika|Elektronika|
+88064|Galaxy 2|Galaxy II||Action,|1||Epoch|Epoch|
+88066|Grab Man|Grab Man||Action,|1|Coop|unknown manufacturer|unknown manufacturer|
+88067|Hippo Teeth (mini Time And Fun)|Hippo Teeth (mini Time And Fun)||Action,|1||VTech|VTech|
+88068|Hippo Teeth (sporty Time And Fun)|Hippo Teeth (sporty Time And Fun)||Action,|1||VTech|VTech|
+88069|Hot Line (mini Time And Fun)|Hot Line (mini Time And Fun)||Action,|1||VTech|VTech|
+88070|Hot Line (sporty Time And Fun)|Hot Line (sporty Time And Fun)||Action,|1||VTech|VTech|
+88071|Las Vegas|Las Vegas||Action,Casino,|1||Bandai|Bandai|
+88072|Lifeboat|Lifeboat||Action,|1||Nintendo|Nintendo|1983
+88073|Mario Bros.|Mario Bros.||Action,Platform,|1||Nintendo|Nintendo|1983
+88074|Mario's Bombs Away|Mario's Bombs Away||Action,|1||Nintendo|Nintendo|1983
+88075|Mickey Mouse (panorama Screen)|Mickey Mouse (panorama Screen)||Action,|1||Nintendo|Nintendo|
+88076|Mickey Mouse (wide Screen)|Mickey Mouse (wide Screen)||Action,|1||Nintendo|Nintendo|1981
+88077|Monkey|Monkey||Action,|1||VTech|VTech|1981
+88078|Monkey Jump|Monkey Jump||Action,|1||VTech|VTech|
+88079|Motor Cross|Motor Cross||Action,|1||Queentex|Queentex|
+88080|Pac Man|Pac Man||Action,|1||Tomytronic|Tomytronic|1981
+88081|Pancake|Pancake||Action,|1||VTech|VTech|1981
+88082|Parachute|Parachute||Action,|1||Nintendo|Nintendo|1981
+99468|Penguin Land|Penguin Land||Action,|1-2||Bandai|Bandai|1983
+88083|Pirate|Pirate||Action,|1||VTech|VTech|1981
+150193|Q*bert|Q*bert|||||||1983
+88084|Roller Coaster|Roller Coaster||Action,|1||VTech|VTech|1984
+88085|Safari|Safari||Action,|1||VTech|VTech|1981
+88087|Sleep Walker|Sleep Walker||Action,|1||VTech|VTech|
+88088|Snoopy (panorama Screen)|Snoopy (panorama Screen)||Action,|1||Nintendo|Nintendo|
+88089|Snoopy (table Top)|Snoopy (table Top)||Action,|1||Nintendo|Nintendo|
+88090|Snoopy Tennis|Snoopy Tennis||Action,Sports,|1||Nintendo|Nintendo|1982
+152823|Soldier Fighter Simulator|Soldier Fighter Simulator|||||||
+88091|Sub Chase|Sub Chase||Action,|1||Mattel Electronics|Mattel Electronics|
+88092|Tennis Menace|Tennis Menace||Action,|1||VTech|VTech|
+143406|Tetris|Tetris|||||||
+99469|Tom And Jerry Popper|Tom And Jerry Popper|||1||Gakken|Gakken|
+88093|Towering Rescue|Towering Rescue||Action,|1||Gakken|Gakken|1981
+88094|Tron|Tron||Action,|1||Tomytronic|Tomytronic|
+88095|Turtle Bridge|Turtle Bridge||Action,|1||Nintendo|Nintendo|1982
+88096|Wild Man Jump|Wild Man Jump||Action,|1||VTech|VTech|

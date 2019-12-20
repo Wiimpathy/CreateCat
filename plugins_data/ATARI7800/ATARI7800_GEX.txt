@@ -1,0 +1,88 @@
+3D Asteroids|3D Asteroids||3D Asteroids|
+7800 Dev. Card|7800 DEV OS BIOS|||
+7800 Kern Demo|7800Kern Demo||7800Kern Demo|
+A7800 K Demo|A7800 KDEMO||A7800 K Demo|
+Ace of Aces|Ace of Aces|Ace of Aces|Ace Of Aces|
+Alien Brigade|Alien Brigade|Alien Brigade|Alien Brigade|
+Asteroids|Asteroids|Asteroids|Asteroids|
+Ballblazer|Ballblazer|Ballblazer|Ballblazer|
+Barnyard Blaster|Barnyard Blaster|Barnyard Blaster|Barnyard Blaster|
+Baseball||Baseball||
+Basketbrawl|Basketbrawl|Basketbrawl|Basketbrawl|
+Beef Drop VE|Beef Drop 7800||Beef Drop 7800|
+Centipede|Centipede|Centipede|Centipede|
+Choplifter!|Choplifter|Choplifter!|Choplifter!|
+Color Selector Demo|Color Selector Demo||Color Selector Demo|
+Commando|Commando|Commando|Commando|
+Crack'ed|Crack'ed|Crack'ed|Crack'ed|
+Crossbow|Crossbow|Crossbow|Crossbow|
+Dan Kitchen's Tomcat: The F-14 Fighter Simulator|Tomcat - The F-14|Tomcat - The F-14 Fighter Simulator|Tomcat - The F-14 Fighter Simulator|
+Dark Chambers|Dark Chambers|Dark Chambers|Dark Chambers|
+Desert Falcon|Desert Falcon|Desert Falcon|Desert Falcon|
+Diagnostic Test Cartridge|Diagnostic Test Cartridge||Test Cartridge|
+Dig Dug|Dig Dug|Dig Dug|Dig Dug|
+Donkey Kong|Donkey Kong|Donkey Kong|Donkey Kong|
+Donkey Kong Jr.|Donkey Kong Jr|Donkey Kong Junior|Donkey Kong Junior|
+Double Dragon|Double Dragon|Double Dragon|Double Dragon|
+Dr. J and Larry Bird Go One-on-One|One-on-One Basketball|One-on-One Basketball|One-on-One Basketball|
+F-18 Hornet|F-18 Hornet|F-18 Hornet|F-18 Hornet|
+Fatal Run|Fatal Run|Fatal Run|Fatal Run|
+Fight Night|Fight Night|Fight Night|Fight Night|
+Food Fight|Food Fight|Food Fight|Food Fight|
+Galaga|Galaga|Galaga|Galaga|
+GATO (Prototype) (V24.04.87)|Gato||GATO|
+Hat Trick|Hat Trick|Hat Trick|Hat Trick|
+Ikari Warriors|Ikari Warriors|Ikari Warriors|Ikari Warriors|
+Impossible Mission|Impossible Mission|Impossible Mission|Impossible Mission|
+Jinks|Jinks|Jinks|Jinks|
+Joust|Joust|Joust|Joust|
+Karateka|Karateka|Karateka|Karateka|
+Klax|Klax|Klax|Klax|
+Kung-Fu Master|Kung Fu Master|Kung-Fu Master|Kung-Fu Master|
+Mario Bros.|Mario Brothers|Mario Bros.|Mario Bros.|
+Mat Mania Challenge|Mat Mania Challenge|Mat Mania Challenge|Mat Mania Challenge|
+Mean 18 Ultimate Golf|Mean 18 Golf|Mean 18 Ultimate Golf|Mean 18 Ultimate Golf|
+Meltdown|Meltdown|Meltdown|Meltdown|
+Midnight Mutants|Midnight Mutants|Midnight Mutants|Midnight Mutants|
+Missing In Action||Missing In Action||
+MotorPsycho|Motor Psycho|Motor Psycho|Motor Psycho|
+Ms. Pac-Man|Ms. Pac-Man|Ms. Pac-Man|Ms. Pac-Man|
+Name|GoodName|NoIntro|TOSEC|ReDump
+Ninja Golf|Ninja Golf|Ninja Golf|Ninja Golf|
+NTSC Encryption Backdoor Test|NTSC Encryption Backdoor Test||NTSC Encryption Backdoor Test|
+Peter Rose Baseball|Pete Rose Baseball|Pete Rose Baseball|Pete Rose Baseball|
+Pit Fighter|Pit Fighter|Pit Fighter|Pit Fighter|
+Planet Smashers|Planet Smashers|Planet Smashers|Planet Smashers|
+Plutos||Plutos||
+Pole Position II|Pole Position II|Pole Position II|Pole Position II|
+Q*bert 3: Demo|Q-Bert Demo||Q-Bert - Demo|
+Rampage|Rampage|Rampage|Rampage|
+Rampart||Rampart||
+RealSports Baseball|RealSports Baseball|RealSports Baseball|RealSports Baseball|
+Rescue on Fractalus!|Rescue on Fractalus|Rescue on Fractalus|Rescue on Fractalus|
+Robot Finds Kitten|Robot Finds Kitten 7800||Robot Finds Kitten 7800|
+Robotron 2084|Robotron 2084|Robotron - 2084|Robotron - 2084|
+Santa Simon|Santa Simon||Santa Simon|
+Scrapyard Dog|Scrapyard Dog|Scrapyard Dog|Scrapyard Dog|
+Senso 7800 DX2|Senso 7800 DX2||Senso 7800 DX2|
+Senso 7800 DX3|Senso 7800 DX3||Senso 7800 DX3|
+Senso 7800 DX4|Senso 7800 DX4||Senso 7800 DX4|
+Senso 7800 Test 5|Senso 7800 Test 5||Senso 7800 Test 5|
+Sentinel|Sentinel|Sentinel|Sentinel|
+Sirius||Sirius||
+Space War! (Revision 20030930)|Space War! Rev 20030930||Space War! Rev 20030930|
+Space War! (Revision 20040318)|Space War! Rev 20040318||Space War! Rev 20040318|
+Space War|Space War||Space War!|
+Summer Games|Summer Games|Summer Games|Summer Games|
+Super Huey UH-IX|Super Huey UH-IX|Super Huey UH-IX|Super Huey UH-1X|
+Super Skateboardin'|Super Skateboardin'|Super Skateboardin'|Super Skateboardin'|
+Symbolic Debugger & Downloader|Symbolic Debugger & Downloader||Symbolic Debugger and Downloader|
+Tank Command|Tank Command|Tank Command|Tank Command|
+Title Match Pro Wrestling|Title Match Pro Wrestling|Title Match Pro Wrestling|Title Match Pro Wrestling|
+Touchdown Football|Touchdown Football|Touchdown Football|Touchdown Football|
+Tower Toppler|Tower Toppler|Tower Toppler|Tower Toppler|
+Tubes|Tubes||Tubes|
+Water Ski|Water Ski|Water Ski|Water Ski|
+Winter Games|Winter Games|Winter Games|Winter Games|
+Xenophobe|Xenophobe|Xenophobe|Xenophobe|
+Xevious|Xevious|Xevious|Xevious|

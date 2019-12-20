@@ -1,0 +1,219 @@
+46248A|Anchorz Field|Anchorz Field|Anchor Field Z|Strategy,|2||Sammy Studios|Sammy Studios|1999
+46249A|Armored Unit|Armored Unit||Action,Strategy|2||Sammy Studios|Sammy Studios|1999
+38474A|Bakus Dekotora Densetsu|Bakus Dekotora Densetsu|Bakusou Dekatora Densetsu|Simulation,|2||KID Corp.|Human Entertainment|1999
+38475A|Beatmania|Beatmania|Beat Mania|Action,Music|2||ICCE Japan|Konami|1999
+38476A|Buffers Evolution|Buffers Evolution||Race, Driving,|1||Bandai|Bandai|1999
+46250A|Cardcaptor Sakura - Sakura To Fushigi Na Clow Card|Cardcaptor Sakura - Sakura to Fushigi na Clow Card|Card Captor Sakura - Sakura to Fushigi na Clow Card|Role playing games,|2||Sims|Bandai|1999
+38478A|Ch Aniki - Otoko No Tamafuda|Ch Aniki: Otoko no Tamafuda|Chou Aniki - Otoko no Tamafuda|Role playing games,|2||NCS Corporation|Bandai|2000
+46251A|Chaos Gear - Michibikareshi Mono|Chaos Gear - Michibikareshi Mono|Chaos Gear - Michibi Kareshi Mono|Strategy,|1||Bandai|Bandai|1999
+38479A|Chocobo No Fushigi Na Dungeon|Chocobo no Fushigi na Dungeon||Adventure,Role playing games,|1||Square Enix|Bandai|1999
+46252A|Chou Denki Card Battle - Youfu Makai|Chou Denki Card Battle - Youfu Makai||Adventure,|2|||Kobunsha|1999
+38480A|Clock Tower|Clock Tower||Adventure,|1||Human Entertainment|Naxat Soft|1999
+38481A|Crazy Climber|Crazy Climber||Action,Arcade|1||Nihon Bussan Co., Ltd.|Nihon Bussan Co., Ltd.|1999
+38488A|D's Garage 21 - Koubo Game - Tane Wo Maku Tori|D's Garage 21: Koubo Game - Tane wo Maku Tori||Various,Strategy,|2||Ludic|Bandai|1999
+38482A|Densha De Go!|Densha de Go!|Densha de Go! 2|Simulation,|1||Taito GM R&D Sect. #2|Taito|1999
+38483A|Densha De Go! 2|Densha de Go! 2||Simulation,|1||Taito GM R&D Sect. #2|Cyberfront Corporation|1999
+46253A|Digimon - Ver. Wonderswan|Digimon - Ver. WonderSwan|Digimon Digital Monsters - Anode & Cathode Tamer - Veedramon Version|Role playing games,|2||Bandai|Bandai|2000
+38484A|Digimon Adventure 02 - Tag Tamers|Digimon Adventure 02: Tag Tamers||Role playing games,|2||SIMS Co., Ltd.|Bandai|2000
+38485A|Digimon Adventure - Anode Tamer|Digimon Adventure: Anode Tamer||Role playing games,|2||SIMS Co., Ltd.|Bandai|1999
+38486A|Digimon Adventure - Cathode Tamer|Digimon Adventure: Cathode Tamer||Role playing games,|2||SIMS Co., Ltd.|Bandai|2000
+155312|Digimon Digital Monsters - Anode And Cathode Tamer - Veedramon Version|Digimon Digital Monsters - Anode And Cathode Tamer - Veedramon Version|Digimon Digital Monsters - Anode & Cathode Tamer - Veedramon Version|,RPG|||||
+155311|Digimon Tamers - Battle Spirit|Digimon Tamers - Battle Spirit||Action,RPG|||Dimps Corporation|Bandai|2001
+46254A|Digital Partner|Digital Partner||Strategy,|2||Tom Create|Bandai|2000
+38487A|Dokodemo Hamster|Dokodemo Hamster||Simulation,|2||Bandai|Bandai|2000
+38489A|Engacho!|Engacho!||Strategy,|2||Nihon Application Co., Ltd.|Nihon Application Co., Ltd.|1999
+38490A|Fever - Sankyo Koushiki Pachinko Simulation|Fever: Sankyo Koushiki Pachinko Simulation|Fever Sankyo - Koushiki Pachinko Simulation|Simulation,|1||Interbec|Interbec|1999
+38491A|Final Lap 2000|Final Lap 2000||Sports,Race, Driving,|2||Namco|Bandai|2000
+38492A|Fire Pro Wrestling|Fire Pro Wrestling||Sports,|2||Human Entertainment|Naxat Soft|2000
+38493A|Fishing Freaks - Bassrise For Wonderswan|Fishing Freaks: BassRise for WonderSwan||Simulation,Sports,|1||Interbec|Interbec|2000
+46255A|From Tv Animation One Piece - Mezase Kaizoku Ou!|From TV Animation One Piece - Mezase Kaizoku Ou!|From TV Animation - One Piece - Mezase Kaizoku Ou|Adventure,|1||Bandai|Bandai|2000
+38494A|Ganso Jajamaru-kun|Ganso Jajamaru-kun|Ganso Jajamaru Kun|Action,Arcade|1||Jaleco|Jaleco|1999
+46256A|Glocal Hexcite|Glocal Hexcite||Puzzle-Game,|2||Gu Inc|Success|2000
+38496A|Gomoku Narabe And Reversi Touryuumon|Gomoku Narabe & Reversi Touryuumon||Various,Strategy,|2||Sammy Corporation|Sammy Corporation|2000
+38497A|Goraku Ou Tango!|Goraku Ou Tango!|Gorakuoh TANGO!|Puzzle-Game,|1||Mebius|Mebius|1999
+38499A|Gunpey|Gunpey||Puzzle-Game,|2||Koto Laboratory|Bandai|1999
+46257A|Hanafuda Shiyouyo|Hanafuda Shiyouyo|Hanafuda Shiyou Yo|Various,|2||Success|Success|2000
+46258A|Harobots|Harobots||Role playing games,|1||Sunrise Interactive|Sunrise Interactive|1999
+46259A|Hunter X Hunter - Ishi O Tsugu Mono|Hunter X Hunter - Ishi o Tsugu Mono|Hunter X Hunter - Ichi O Tsugu Mono|Role playing games,|1||Bandai|Bandai|2000
+46260A|Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen|Kakutou Ryouri Densetsu Bistro Recipe - Wonder Bat|Kakuto Ryori Densetsu Bistro Recipe - Wonder Battle Hen|Strategy,|2||Banpresto|Banpresto|1999
+38501A|Kaze No Klonoa - Moonlight Museum|Kaze no Klonoa: Moonlight Museum||Puzzle-Game,Action,|1||Namco|Bandai|1999
+46261A|Keiba Yosou Shien Soft - Yosou Shinkaron|Keiba Yosou Shien Soft - Yosou Shinkaron|Keiba Yosou Shien Shinkaron|Sports,|2||Bandai|Media Entertainment|1999
+46262A|Kiss Yori... - Seaside Serenade|Kiss Yori... - Seaside Serenade||Adventure,|||KID Corp.|Kid|1999
+46263A|Kosodate Quiz Dokodemo - My Angel|Kosodate Quiz Dokodemo - My Angel|Kosodate Quiz Doko de mo My Angel|Quiz,|4||Namco Limited|Namco|1999
+38502A|Kyousouba Ikusei Simulation - Keiba|Kyousouba Ikusei Simulation: KEIBA|Kyoso Uma Ikusei Simulation Keiba|Sports,|1||Interbec|Interbec|1999
+38503A|Langrisser Millennium|Langrisser Millennium|Langrisser Millenium WS - The Last Century|Role playing games,|1||Masaya|NCS Corporation|2000
+46264A|Last Stand|Last Stand|LastStand|Puzzle-Game,|2||Soft Machine|Bandai|1999
+38504A|Lode Runner|Lode Runner||Action,Arcade|1||Brøderbund Software, Inc.|Banpresto|2000
+46265A|Macross - True Love Song|Macross - True Love Song||Puzzle-Game,|1||Lay-Up|Layup - Upstar|2000
+38505A|Magical Drop|Magical Drop||Strategy,|2||Data East|Data East|1999
+46266A|Mahjong Touryuumon|Mahjong Touryuumon||Fight,|2||Chat Noir|Sammy|1999
+46267A|Makai Mura For Wonderswan|Makai Mura for WonderSwan||Action,|1||Capcom|Bandai|1999
+46268A|Medarot Perfect Edition - Kabuto Version|Medarot Perfect Edition - Kabuto Version|Medarot - Perfect Edition Kabuto Version|Role playing games,|1||Natsume Co., Ltd.|Imagineer|1999
+133958|Medarot Perfect Edition - Kuwagata Version|Medarot Perfect Edition - Kuwagata Version|Medarot - Perfect Edition Kuwagata Version|Role-Playing,|1||Natsume Co., Ltd.|Imagineer|1999
+38507A|Meitantei Conan - Majutsushi No Chsenj!|Meitantei Conan: Majutsushi no Chsenj!||Educational,|1||Tomcat System|Bandai|1999
+38508A|Meitantei Conan - Nishi No Meitantei Saidai No Kiki !?|Meitantei Conan: Nishi no Meitantei Saidai no Kiki|Meitantei Conan - Nishi no Meitantei Saidai no Kiki!|Educational,|1||Tomcat System|Bandai|2000
+46269A|Metakomi Theraphy - Nee Kiite!|Metakomi Theraphy - Nee Kiite!|Meta Communication Therapy nee Kiite!|Strategy,|2||Yoshidayama-Workshop|Media Enterprise|2000
+38509A|Mingle Magnet|Mingle Magnet||Puzzle-Game,|1||HAL Laboratory, Inc.|HAL Laboratory, Inc.|1999
+46270A|Mobile Suit Gundam Msvs|Mobile Suit Gundam MSVS||Simulation,|2||Sims|Bandai|1999
+46271A|Mobilewondergate|MobileWonderGate|Wondergate|Various,|1||Bandai|Bandai|
+46272A|Moero!! Pro Yakyuu Rookies|Moero!! Pro Yakyuu Rookies|Moero !! Pro Yakyu Rookies|Sports,|2||TOSE|Jaleco Entertainment|2000
+46273A|Morita Shougi For Wonderswan|Morita Shougi for WonderSwan|Morita Shougi|Various,|2||Yuki Enterprise|Yuki Enterprise|1999
+65787A|Nazo Ou Pocket|Nazo Ou Pocket||Role playing games,|1||Bandai|Bandai Visual|1999
+99357A|Neon Genesis Evangelion - Shito Ikusei|Neon Genesis Evangelion - Shito Ikusei|Neon Genesis Evangelion Shito Ikusei|Role-Playing,|1||Bandai|Bandai|1999
+38510A|Nice On|Nice On||Sports,|2||Aisystem Tokyo|Sammy Corporation|1999
+65788A|Nihon Pro Mahjong Renmei Kounin - Tetsuman|Nihon Pro Mahjong Renmei Kounin - Tetsuman||Various,|2||Chat Noir|Naxat|1999
+65789A|Nobunaga No Yabou For Wonderswan|Nobunaga no Yabou for WonderSwan|Nobunaga no Yabo|Strategy,|||KOEI Co., Ltd.|Koei|1999
+38512A|Ou-chan No Oekaki Logic|Ou-chan no Oekaki Logic|Ouchan no Oekaki Logic|Puzzle-Game,|1||Santa Claus|Sunsoft|2000
+38513A|Pocket Fighter|Pocket Fighter||Fight,Action,|2||Capcom|Bandai|2000
+65790A|Pro Mahjong Kiwame For Wonderswan|Pro Mahjong Kiwame for WonderSwan|Pro Mahjong Kiwame|Puzzle-Game,|2||Athena Co., Ltd.|Athena|1999
+38514A|Puyo Puyo 2|Puyo Puyo 2|Puyo Puyo Tsu|Puzzle,|2||Compile|Sega|1999
+65791A|Puzzle Bobble|Puzzle Bobble||Puzzle-Game,|2||Yoshidayama Workshop|Sun Soft|1999
+38515A|Rainbow Islands - Putty's Party|Rainbow Islands: Putty's Party||Action,Arcade|1||MegaHouse Corporation|TAKARA Co., Ltd.|2000
+65792A|Ring Infinity|Ring Infinity||Adventure,|1||Kadokawa Shoten|Bandai|2000
+65793A|Robot Works|Robot Works||Educational,|8+||Bandai|Bandai|2000
+65794A|Rockman And Forte - Mirai Kara No Chousensha|Rockman & Forte - Mirai Kara no Chousensha||Strategy,|1||Lay-Up|Bandai|1999
+65795A|Sangokushi For Wonderswan|Sangokushi for WonderSwan||||||Koei|1999
+65796A|Sangokushi 2 For Wonderswan|Sangokushi II for WonderSwan||||||Koei|2000
+65797A|Sd Gundam - Emotional Jam|SD Gundam - Emotional Jam||Strategy,|1||Tom Create|Bandai|1999
+155313|Sd Gundam Eiyuuden - Eiyuuden Kishi Densetsu|Sd Gundam Eiyuuden - Eiyuuden Kishi Densetsu||,RPG|||||
+155314|Sd Gundam Eiyuuden - Eiyuuden Musha Densetsu|Sd Gundam Eiyuuden - Eiyuuden Musha Densetsu||,RPG|||||
+65798A|Sd Gundam G Generation - Gather Beat|SD Gundam G Generation - Gather Beat||Strategy,|1||Vanguard Works|Bandai|2000
+65799A|Sd Gundam Gashapon Senki - Episode 1|SD Gundam Gashapon Senki - Episode 1||Strategy,|1||Graphic Research|Bandai|1999
+65800A|Senkaiden - Tv Animation Senkaiden Houshin Engi Yori|Senkaiden - TV Animation Senkaiden Houshin Engi Yo||Role playing games,|1|||Bandai|2000
+65801A|Sennou Millennium|Sennou Millennium|Sennou Millenium|Puzzle-Game,|1||Kouyousha|Bandai|2000
+38518A|Shanghai Pocket|Shanghai Pocket||Sports,Strategy,|2||Sunsoft|Sunsoft|1999
+38519A|Shin Nihon Pro Wrestling Toukon Retsuden|Shin Nihon Pro Wrestling Toukon Retsuden||Adventure,|1||Tomy|Tomy|1999
+65802A|Shougi Touryuumon|Shougi Touryuumon|Shogi Touryuumon|Sports,|2||Sammy Studios|Sammy|1999
+38520A|Side Pocket|Side Pocket||Simulation,Sports,|2||Data East|Data East|1999
+38521A|Slither Link|Slither Link||Puzzle-Game,|1||Tomcat System|Bandai|2000
+38522A|Soccer Yarou! ~challenge The World~|Soccer Yarou! ~Challenge The World~||Sports,|1||Coconuts Japan Entertainment Co., Ltd.|Coconuts Japan Entertainment Co., Ltd.|1999
+65803A|Sotsugyou For Wonderswan|Sotsugyou for WonderSwan|Sotsugyou|Simulation,|||Headroom|Bandai Visual|1999
+38523A|Space Invaders|Space Invaders||Shooter,|2||Taito|Sunsoft|1999
+65804A|Super Robot Taisen Compact|Super Robot Taisen Compact|Super Robot Taisen Compact 2 - Dai Nibu - Uchuu Gekishin Hen|Role playing games,|2||TOSE|Banpresto|1999
+65805A|Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen|Super Robot Taisen Compact 2 - Dai-1-bu - Chijou G|Super Robot Taisen Compact 2 - Dai Ichibu - Chijou Gekidou Hen|Strategy,|1||Tose. Co. Ltd.|Banpresto|2000
+65806A|Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen|Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Ge|Super Robot Taisen Compact 2 - Dai Nibu - Uchuu Gekishin Hen|Strategy,|1||Tose. Co. Ltd.|Banpresto|2000
+65807A|Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen|Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Ke|Super Robot Taisen Compact 2 - Dai Sanbu - Ginga Kessen Hen|Strategy,|1||Tose. Co. Ltd.|Banpresto|2001
+65808A|Taikyoku Igo - Heisei Kiin|Taikyoku Igo - Heisei Kiin|Taikyoku Igo Heisei Kiin|Various,|2||Kaga Tech|Success Corp.|2000
+65809A|Tanjou Debut For Wonderswan|Tanjou Debut for WonderSwan|Tanjou - Debut|Puzzle-Game,|1||Headroom|Bandai Visual|2000
+38524A|Tarepanda No Gunpey|Tarepanda no Gunpey||Sports / Wrestling,Sports,|2||Bandai|Bandai|1999
+38525A|Tekken Card Challenge|Tekken Card Challenge||Strategy,|2||Namco|Bandai|1999
+65810A|Terrors|Terrors||Adventure,|1||Megas|Bandai|1999
+65811A|Tetsujin 28 Gou|Tetsujin 28 Gou||Adventure,|1||MegaHouse Corporation|Mega House|1999
+65812A|Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou|Time Bokan Series - Bokan Densetsu - Butamo Odater|Bokan Densetsu Buta Mo O Daterya Doronbou|Role playing games,|1||Alpha Unit|Banpresto|2000
+65813A|Tokyo Majin Gakuen - Fuju Houroku|Tokyo Majin Gakuen - Fuju Houroku|Tokyo Majin Gakuen Fuju Fuuroku|Role playing games,|||Shout!Designworks Co., Ltd.|Asmik Ace|2000
+65814A|Trump Collection - Bottom-up Teki Trump Seikatsu|Trump Collection - Bottom-Up Teki Trump Seikatsu|Trump Collection Bottom Up Teki Trump Seikatsu|Playing cards,|1||Bottoms Up Interactive|Bottom Up|1999
+65815A|Trump Collection 2 - Bottom-up Teki Sekaiisshuu No Tabi|Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no|Trump Collection 2|Playing cards,|1|||Bottom Up|2000
+65816A|Turntablist - Dj Battle|Turntablist - DJ Battle||Sports,|2||Bandai|Bandai|1999
+118915|Uchuu Senkan Yamato|Uchuu Senkan Yamato||,Strategy||||Bandai|2001
+38526A|Umitsuri Ni Ikou!|Umitsuri ni Ikou!|Umizuri Ni Ikou|Sports,|1||Coconuts Japan Entertainment Co., Ltd.|Coconuts Japan Entertainment Co., Ltd.|1999
+38527A|Uzumaki - Denshi Kaikihen|Uzumaki: Denshi Kaikihen|Uzumaki - Denshi Kaiki Hen|Adventure,|1||Omega Micott Inc.|Omega Micott Inc.|2000
+38528A|Uzumaki - Noroi Simulation|Uzumaki: Noroi Simulation|Itou Jun Ni Uzumaki Noroi Simulation|Adventure,|1||Omega Micott Inc.|Omega Micott Inc.|2000
+65817A|Vaitz Blade|Vaitz Blade||Role playing games,|1||Tom Create|Bandai|1999
+155316|Wizardry - Kyounou No Shiren Jou|Wizardry - Kyounou No Shiren Jou|||||||
+155315|Wonder Classic|Wonder Classic||,Golf|||||
+38529A|Wonder Stadium|Wonder Stadium|Wonder Stadium '99|Sports,|2||Namco|Bandai|1999
+38530A|Wonder Stadium '99|Wonder Stadium '99||Sports,|2||Namco|Bandai|1999
+159511|Wonderswan Handy Sonar|Wonderswan Handy Sonar||Fishing,Hunting and Fishing,||||Bandai|1999
+38531A|Wuzb? Produce - Street Dancer|wuzb? Produce: Street Dancer||Action,|2||Amuse, Inc.|Bandai|2000
+38532|Alchemist Marie And Elie - Futari No Atelier|Alchemist Marie & Elie: Futari no Atelier||Role playing games,|1-2||Gust Co., Ltd.|Gust Co., Ltd.|2001
+46274|Another Heaven - Memory Of Those Days|Another Heaven - Memory of those Days||Adventure,|1||Omega Micott|Bandai|2000
+38533|Arc The Lad - Kijin Fukkatsu|Arc the Lad: Kijin Fukkatsu||Role playing games,|1||Bandai|Bandai|2002
+38534|Blue Wing Blitz|Blue Wing Blitz||Role playing games,|1||Square Enix|Square Enix|2001
+46275|Dark Eyes - Battle Gate|Dark Eyes - Battle Gate||Adventure,|1||Bandai|Bandai|2001
+38535|Dicing Knight.|Dicing Knight.|Dicing Knight|Role playing games,|1||Platine Dispositif|Qute|2004
+38536|Digimon Adventure 02 - D1 Tamers|Digimon Adventure 02: D1 Tamers||Role playing games,|1-2||SIMS Co., Ltd.|Bandai|2000
+38537|Digimon Anode And Cathode Tamer|Digimon Anode & Cathode Tamer||Role playing games,|1-2||Bandai|Bandai|2001
+87632|Digimon Tamers - Battle Spirit|Digimon Tamers - Battle Spirit||Fight,|1-2||Dimps|Bandai|2001
+87633|Digimon Tamers - Battle Spirit Ver. 1.5|Digimon Tamers - Battle Spirit Ver. 1.5||Action,Fight,|1-2||Dimps|Bandai|2002
+38539|Digimon Tamers - Brave Tamer|Digimon Tamers: Brave Tamer||Role playing games,|1-2||SIMS Co., Ltd.|Bandai|2001
+38540|Digimon Tamers - Digimon Medley|Digimon Tamers: Digimon Medley||Role playing games,|1-2||Shade, Inc.|Bandai|2001
+38538|Digimon - Battle Spirit|Digimon: Battle Spirit||Action,Fight,|1-2||Dimps|Bandai|2002
+46276|Digital Monster - D-project|Digital Monster - D-Project||Role playing games,|1||Sting|Bandai|2002
+46277|Digital Monster Card Game - Ver. Wonderswan Color|Digital Monster Card Game - Ver. WonderSwan Color||Strategy,|1-2||Bandai|Bandai|2002
+38541|Dokodemo Hamster 3 - O-dekake Safuran|Dokodemo Hamster 3: O-Dekake Safuran||Simulation,|1||BEC Co., Ltd.|Bandai|2000
+46278|Dragon Ball|Dragon Ball|Dragonball|Role playing games,|1||Bandai|Bandai|2003
+143024|Fantaisie Impromptu By Chopin - Arranged By Atsushi Watanabe|Fantaisie Impromptu By Chopin - Arranged By Atsushi Watanabe|||||||
+38543|Final Fantasy|Final Fantasy||Role playing games,|1||Square Enix|Square Enix|2000
+38544|Final Fantasy 2|Final Fantasy II||Role-Playing,|1||Square Enix|Square Enix|2001
+87635|Final Fantasy Iv 4|Final Fantasy IV|Final Fantasy II|Role playing games,|1||Square Enix|Square Enix|2002
+87637|Final Lap Special - Gt And Formula Machine|Final Lap Special - GT & Formula Machine||Race, Driving,|1-2||Bandai|Bandai|2001
+87638|Flash Koibito-kun|Flash Koibito-kun||Puzzle,|1||Koto Laboratory|Kobunsha|2000
+87665|From Tv Animation One Piece - Chopper No Daibouken|From TV Animation One Piece - Chopper no Daibouken|||1||Bandai|Bandai|2003
+87666|From Tv Animation One Piece - Grand Battle Swan Colosseum|From TV Animation One Piece - Grand Battle Swan Co|||1-2||Bandai|Bandai|2002
+87667|From Tv Animation One Piece - Niji No Shima Densetsu|From TV Animation One Piece - Niji no Shima Denset|||1||Bandai|Bandai|2001
+87668|From Tv Animation One Piece - Treasure Wars|From TV Animation One Piece - Treasure Wars|From TV Animation - One Piece - Treasure Wars|Strategy,|1-2||Bandai|Bandai|2002
+87669|From Tv Animation One Piece - Treasure Wars 2 - Buggy Land He Youkoso|From TV Animation One Piece - Treasure Wars 2 - Bu|||1-2||Bandai|Bandai|2002
+38546|Front Mission|Front Mission||Action,Strategy|1-2||G-Craft|Square Enix|2002
+87639|Gekitou! Crash Gear Turbo - Gear Champion League|Gekitou! Crash Gear Turbo - Gear Champion League|Gekitou Crash Gear Turbo Gear Champion League|Action,Arcade|1-2||Bandai|Bandai|2002
+87640|Gensou Maden Saiyuuki Retribution - Hi No Ataru Basho De|Gensou Maden Saiyuuki Retribution - Hi no Ataru Ba|||1-2||PicPac-Airreal|Mubik|2001
+38547|Golden Axe|Golden Axe||Role playing games,Action,|1-2||Sega|Bandai|2002
+87641|Gransta Chronicle|Gransta Chronicle||Role playing games,|1-2||Tom Create Co., Ltd.|Omega Micott Inc.|2002
+38548|Guilty Gear Petit|Guilty Gear Petit||Fight,Action,|1-2||Arc System Works|Sammy Corporation|2001
+38549|Guilty Gear Petit 2|Guilty Gear Petit 2||Fight,Action,|1-2||Arc System Works|Sammy Corporation|2001
+38550|Gunpey Ex|Gunpey EX|GunPey|Simulation,Puzzle-Game,|1-2||Koto Laboratory|Bandai|2000
+38551|Hanjuku Eiy - Aa Sekai Yo Hanjuku Nare|Hanjuku Eiy - Aa Sekai Yo Hanjuku Nare||Strategy,|1-2||Square Enix|Square Enix|2002
+87643|Hataraku Chocobo|Hataraku Chocobo||Simulation,|1||Square Enix|Square Enix|2000
+87644|Hunter X Hunter - Greed Island|Hunter X Hunter - Greed Island||Role playing games,|1||Bandai|Bandai|2003
+87645|Hunter X Hunter - Michibikareshi Mono|Hunter X Hunter - Michibikareshi Mono|Hunter X Hunter - Michibi Kareshi Mono|Role-Playing,|1||Bandai|Bandai|2001
+87646|Hunter X Hunter - Sorezore No Ketsui|Hunter X Hunter - Sorezore no Ketsui||Adventure,|1||Bandai|Bandai|2001
+87647|Inu Yasha|Inu Yasha||Adventure,|1||Bandai|Bandai|2001
+87648|Inuyasha - Fuuun Emaki|Inuyasha - Fuuun Emaki||Adventure,|1||Bandai|Bandai|2002
+87649|Inuyasha - Kagome No Sengoku Nikki|Inuyasha - Kagome no Sengoku Nikki||Adventure,|1||Bandai|Bandai|2001
+87650|Inuyasha - Kagome No Yume Nikki|Inuyasha - Kagome no Yume Nikki||Adventure,|1||Bandai|Bandai|2002
+87651|Judgement Silversword - Rebirth Edition|Judgement Silversword - Rebirth Edition||Action,Shooter|1||M-KAI|Qute|2004
+87658|Kidou Senshi Gundam - Giren No Yabou - Tokubetsu Hen - Aoki Hoshi No Hasha|Kidou Senshi Gundam - Giren no Yabou - Tokubetsu H|||1||Bandai|Bandai|2003
+87659|Kidou Senshi Gundam Seed|Kidou Senshi Gundam Seed||Action|1||Bandai|Bandai|2003
+87660|Kidou Senshi Gundam Vol. 1 - Side 7|Kidou Senshi Gundam Vol. 1 - Side 7||Simulation,|1||Bandai|Bandai|2001
+87661|Kidou Senshi Gundam Vol. 2 - Jaburo|Kidou Senshi Gundam Vol. 2 - Jaburo||Simulation,|1||Bandai|Bandai|2001
+87662|Kidou Senshi Gundam Vol. 3 - A Baoa Qu|Kidou Senshi Gundam Vol. 3 - A Baoa Qu||Simulation,|1||Bandai|Bandai|2002
+87652|Kinnikuman 2sei - Choujin Seisenshi|Kinnikuman IIsei - Choujin Seisenshi||Fighting,|1||Bandai|Bandai|2003
+87653|Kinnikuman 2sei - Dream Tag Match|Kinnikuman IIsei - Dream Tag Match||Sports,|1||Tose. Co. Ltd.|Bandai|2002
+143031|Kosodate Quiz Doko De Mo My Angel|Kosodate Quiz Doko De Mo My Angel||,Quiz|||||
+87654|Kurupara!|Kurupara!||Puzzle,|1||Tomcreate|Tomcreate|2001
+87655|Last Alive|Last Alive||Adventure,|1||Bandai|Bandai|2001
+87636|Makai Toushi Sa-ga|Makai Toushi Sa-Ga||Role-Playing,|1||Square Enix|Square Enix|2002
+87630|Meitantei Conan - Yuugure No Koujo|Meitantei Conan - Yuugure no Koujo|Meitantei Conan - Yugure no Koujo|Adventure,|1||Bandai|Bandai|2001
+87656|Memories Off - Festa|Memories Off - Festa||Adventure,|1||KID Corp.|KID Corp.|2001
+87657|Mikeneko Holmes - Ghost Panic|Mikeneko Holmes - Ghost Panic|Mikeneko Holme's Ghost Panic|Adventure,|1||MintJulep|Kobunsha|2001
+38554|Mr. Driller|Mr. Driller||Puzzle-Game,Strategy,|1||Namco|Namco|2001
+87663|Namco Super Wars|Namco Super Wars||Strategy,|1||Namco|Bandai|2002
+87664|Naruto - Konoha Ninpouchou|Naruto - Konoha Ninpouchou||Role-Playing,|1||BEC|Bandai|2003
+87634|Pocket No Naka No Doraemon|Pocket no Naka no Doraemon||Simulation,|1||Bandai|Bandai|2001
+87670|Raku Jongg|Raku Jongg||Puzzle,|1-2||Enterbrain|Bandai|2001
+38555|Rhyme Rider Kerorican|Rhyme Rider Kerorican|Rhyme Rider Kerorikan|Strategy,Action,|1||NanaOn-Sha Co., Ltd.|Bandai|2000
+87671|Riviera - Yakusoku No Chi Riviera|Riviera - Yakusoku no Chi Riviera||Role playing games,|1||Sting|Bandai|2002
+87672|Rockman Exe - N1 Battle|Rockman EXE - N1 Battle||Action,|1||Capcom|Capcom|2003
+87673|Rockman Exe Ws|Rockman EXE WS||Action|1||Capcom|Capcom|2003
+38557|Romancing Saga|Romancing SaGa||Role playing games,|1||Square Enix|Square Enix|2001
+87675|Run=dim - Return To Earth|RUN=DIM - Return to Earth||Shooter,|1||Digital Dream Inc.|Digital Dream Inc.|2002
+87676|Saint Seiya - Ougon Densetsu Hen - Perfect Edition|Saint Seiya - Ougon Densetsu Hen - Perfect Edition|Saint Seiya - Ougon Densetsu Hen Perfect Edition|Role-Playing,|1||TOSE|Bandai|2003
+87680|Sd Gundam - Operation U.c.|SD Gundam - Operation U.C.||Shooter,|1-2||Bandai|Bandai|2002
+87679|Sd Gundam Eiyuuden - Kishi Densetsu|SD Gundam Eiyuuden - Kishi Densetsu||Role-Playing,|1||Bandai|Bandai|2001
+87681|Sd Gundam Eiyuuden - Musha Densetsu|SD Gundam Eiyuuden - Musha Densetsu||Role-Playing,|1||Bandai|Bandai|2001
+87677|Sd Gundam G-generation - Gather Beat 2|SD Gundam G-Generation - Gather Beat 2||Strategy,|1||Bandai|Bandai|2001
+87678|Sd Gundam G-generation - Mono-eye Gundams|SD Gundam G-Generation - Mono-Eye Gundams||Strategy,|1||Bandai|Bandai|2002
+87684|Senkaiden Ni - Tv Animation Senkaiden Houshin Engi Yori|Senkaiden Ni - TV Animation Senkaiden Houshin Engi||,RPG|1||Bandai|Bandai|2000
+87682|Shaman King - Asu Heno Ishi|Shaman King - Asu heno Ishi||Role-Playing,|1||Bandai|Bandai|2002
+87683|Soroban Gu|Soroban Gu||Puzzle,|1||Mechanic Arms|Naxat Soft|2000
+87686|Star Hearts - Hoshi To Daichi No Shisha|Star Hearts - Hoshi to Daichi no Shisha||Role-Playing,|1||Bandai|Bandai|2001
+87687|Star Hearts - Hoshi To Daichi No Shisha - Taikenban|Star Hearts - Hoshi to Daichi no Shisha - Taikenba|||1||Bandai|Bandai|2001
+87689|Super Robot Taisen Compact 3|Super Robot Taisen Compact 3|Super Robot Taisen Compact|Strategy,|1||Banpresto|Banpresto|2003
+87688|Super Robot Taisen Compact For Wonderswan Color|Super Robot Taisen Compact for WonderSwan Color||Strategy,|1||Banpresto|Banpresto|2001
+129676|Taikyoku Igo Heisei Kiin|Taikyoku Igo Heisei Kiin||,Puzzle|||||
+38558|Terrors 2|Terrors 2||Fight,Adventure,|1||Terrors 2 Project|Bandai|2000
+87690|Tetris|Tetris|Terrors|Puzzle,|1-2||Elorg|Vanguard Works|2002
+38545|Final Fantasy Legend, The|The Final Fantasy Legend||Role playing games,|1||Square Enix|Square Enix|2002
+87691|Tonpusou|Tonpusou||Traditional,|1-2||Bandai|Bandai|2001
+109106|Trump Collection 2 - Bottom-up Teki Sekaiisshuu No Tabi|Trump Collection 2 - Bottom-up Teki Sekaiisshuu No Tabi|Trump Collection 2||||||
+87685|Uchuu Senkan Yamato|Uchuu Senkan Yamato||Strategy,|1||Tom Create Co., Ltd.|Bandai|2001
+87692|Ultraman - Hikari No Kuni No Shisha|Ultraman - Hikari no Kuni no Shisha||Fighting,|1||Bandai|Bandai|2001
+38559|Wild Card|Wild Card||Role playing games,|1||Square Enix|Square Enix|2001
+38560|With You - Mitsumete Itai|With You: Mitsumete Itai|With You Mitsumete Itai|Adventure,|1||Cocktail Soft|Shall Luck|2001
+87694|Wizardry Scenario 1 - Proving Grounds Of The Mad Overlord|Wizardry Scenario 1 - Proving Grounds of the Mad O||Role playing games,|1||Sir-Tech Software|Bandai|2001
+38562|Wonder Classic|Wonder Classic||Puzzle-Game,|1||Namco|Bandai|2001
+143388|Wonder Pong|Wonder Pong|||||Lira Nuna||
+129674|Wondersnake|Wondersnake||||||Kojote - Slanina, Tomasz|2001
+129677|Wondersnake 2|Wondersnake 2||||||Kojote - Slanina, Tomasz|2003
+87695|X - Card Of Fate|X - Card of Fate||Strategy,|1||Access Games|Bandai|2002
+87696|Xi [sai] Little|XI [sai] Little||Puzzle-Game,|1-2||MBI Limited|Namco|2001
+155317|Ys 1 - Arranged By Atsushi Watanabe|Ys 1 - Arranged By Atsushi Watanabe|||||||

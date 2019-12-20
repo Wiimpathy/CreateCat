@@ -1,0 +1,79 @@
+108706|3d Asteroids|3D Asteroids||Shooter,|2||Atari Inc.|Atari|1984
+37995A|Ace Of Aces|Ace of Aces||Action,Simulation,|1||Artech Studios|Accolade|1988
+37996A|Alien Brigade|Alien Brigade||Shooter,Action,|1||Atari|Atari|1990
+37997A|Asteroids|Asteroids|3D Asteroids|Action,Shooter,|2||Atari|Atari|1987
+37998A|Asteroids Deluxe|Asteroids Deluxe||Action,|2||Robert DeCrescenzo|AtariAge|2007
+38003A|B*nq|B*nq||Action,|2||Ken Siders|Ken Siders|2005
+37999A|Ballblazer|Ballblazer||Sports,Action,|2||Lucasfilm Games LLC|Atari|1987
+38000A|Barnyard Blaster|Barnyard Blaster||Action,|2||Atari|Atari|1988
+38001A|Basketbrawl|Basketbrawl||Sports,|2||Atari|Atari|1990
+38002A|Beef Drop|Beef Drop|Beef Drop 7800|Action,|2||Ken Siders|Self-Published|2004
+38004A|Centipede|Centipede||Shooter,Shoot'em up / Vertical,Shoot'em Up,|2||Atari|Atari|1987
+38005A|Choplifter!|Choplifter!|Choplifter|Action|1||Brøderbund Software, Inc.|Atari|1987
+38006A|Commando|Commando||Action|2||Capcom|Atari|1985
+38007A|Crack'ed|Crack'ed||Action,Shooter,|1||Atari|Atari|1988
+38008A|Crossbow|Crossbow||Action,Shooter,|1||Exidy, Inc.|Atari|1987
+38009A|Dan Kitchen's Tomcat - The F-14 Fighter Simulator|Dan Kitchen's Tomcat: The F-14 Fighter Simulator||Action,Simulation,|1||Imagineering Inc|Absolute Entertainment|1989
+38010A|Dark Chambers|Dark Chambers||Action|2||Atari|Atari|1988
+38011A|Desert Falcon|Desert Falcon||Shoot'em up / Diagonal,Action,Shoot'em Up,|1||Atari|Atari|1987
+38012A|Dig Dug|Dig Dug||Action,Arcade|2||Namco|Atari|1987
+38013A|Donkey Kong|Donkey Kong||Action,Platform,|2||Nintendo|Atari|1988
+38014A|Donkey Kong Junior|Donkey Kong Junior|Donkey Kong Jr|Action,Platform,|2||Nintendo|Atari|1988
+38015A|Double Dragon|Double Dragon||Action,Fighter|2||Technos Japan Corp.|Activision|1989
+38016A|F-18 Hornet|F-18 Hornet||Platform,|1||Absolute Entertainment|Absolute Entertainment|1988
+38017A|Fatal Run|Fatal Run||Race, Driving,Action,|1||Sculptured Software|Atari|1990
+38018A|Fight Night|Fight Night||Sports,Action,|2||Sydney Development Corp.|Accolade|1988
+38019A|Food Fight|Food Fight||Action,Arcade|2||Atari|Atari|1987
+38020A|Galaga|Galaga||Action,Shooter,|2||Namco|Atari|1987
+108709|Gato|GATO||Simulation,Action,|1||Atari|Atari|1987
+38021A|Hat Trick|Hat Trick||Sports,|2||Bally Sente|Atari|1987
+38022A|Ikari Warriors|Ikari Warriors||Action,Platform,|2||SNK|Atari|1989
+38023A|Impossible Mission|Impossible Mission||Action,Platform,|1||Epyx|Atari|1987
+38024A|Jinks|Jinks||Action,|1||Diamond Software|Atari|1989
+38025A|Joust|Joust||Action,Arcade|2||Williams Electronics Inc.|Atari|1987
+38026A|Karateka|Karateka||Action,Sports|1||Brøderbund Software, Inc.|Atari|1988
+38027A|Klax|Klax||Action,Strategy,|1||Atari|ResQsoft Productions|1992
+38028A|Kung-fu Master|Kung-Fu Master|Kung Fu Master|Action|2||Irem|Absolute Entertainment|1989
+38029A|Mario Bros.|Mario Bros.|Mario Brothers|Action,Platform,|2||Nintendo|Atari|1988
+38030A|Mat Mania Challenge|Mat Mania Challenge||Sports,Action,|2||American Technos|Atari|1990
+38031A|Mean 18|Mean 18|Mean 18 Golf|Educational,Sports,|2||Accolade|Accolade|1989
+38032A|Meltdown|Meltdown||Action,Breakout|1||Atari|Atari|1990
+38033A|Midnight Mutants|Midnight Mutants||Action,Adventure,|1||Radioactive Software|Atari|1990
+44465A|Missing In Action|Missing In Action||Action,Shooter,|1||Sculptured Software|TNT Games|1989
+38034A|Motorpsycho|MotorPsycho|Motor Psycho|Race, Driving,|1||BlueSky Software, Inc.|Atari|1990
+38035A|Ms. Pac-man|Ms. Pac-Man||Action,Platform,|2||General Computer Corporation|Midway|Atari
+38036A|Ninja Golf|Ninja Golf||Sports,Action,|1||BlueSky Software, Inc.|Atari|1989
+38037A|One-on-one Basketball|One-on-One Basketball||Sports,|2||Computer Magic|Atari|1987
+38038A|Pac-man Collection!|Pac-Man Collection!||Action,Compilation,|2||Bally Midway|AtariAge|2006
+44466A|Pete Rose Baseball|Pete Rose Baseball||Sports,|2||Robert Curtiss|Absolute Entertainment|1989
+38039A|Pete Rose Pennant Fever|Pete Rose Pennant Fever||Sports,|2||Absolute Entertainment|Absolute Entertainment|1989
+44467A|Pit Fighter|Pit Fighter||Fight,|2||Atari|Atari|1992
+38040A|Planet Smashers|Planet Smashers||Action,Shooter,|2||Atari|Atari|1989
+44468A|Plutos|Plutos||Action,|2||Tynesoft|Never Published (Prototype)|1990
+38041A|Pole Position 2|Pole Position II||Race, Driving,|1||Namco|Atari|1987
+108707|Q-bert Demo|Q-bert Demo|||||||
+38042A|Rampage|Rampage||Action,Arcade|2|Coop|Bally Midway|Activision|1989
+44469A|Rampart|Rampart|Rampage|,Arcade|||||
+38043A|Realsports Baseball|RealSports Baseball||Sports,Action,|2||Atari|Atari|1989
+44470A|Rescue On Fractalus|Rescue on Fractalus||Action,Shooter,||||Never Published (Prototype)|
+135416|Robot Finds Kitten|Robot Finds Kitten|Robot Finds Kitten 7800|Strategy,|1||Unknown|Public Domain|2004
+38044A|Robotron - 2084|Robotron : 2084|Robotron 2084|Action,|2||Williams Electronic Games, Inc.|Atari|1987
+38045A|Santa Simon|Santa Simon||Strategy,|1||Matthias Luedtke|AtariAge|
+38046A|Scrapyard Dog|Scrapyard Dog||Action,Adventure,Platform,|1||BlueSky Software, Inc.|Atari|1990
+108710|Senso 7800 Dx4|Senso 7800 DX4||Puzzle,|1||Karolj Nadj|Taquart|2003
+38047A|Sentinel|Sentinel||Action,|2||Atari|Atari|1990
+44471A|Sirius|Sirius||Shooter,|||Tynesoft|Never Published (Prototype)|
+38048A|Space Duel|Space Duel||Action,|2||Bob DeCrescenzo|AtariAge|2007
+108711|Space War|Space War!|Space War! Rev 20030930|Arcade,|1||Eric Ball|Eric Ball|2003
+38049A|Summer Games|Summer Games||Sports,Action,|8||Epyx|Atari|1987
+38050A|Super Huey Uh-ix|Super Huey UH-IX||Action,Simulation,|1||Cosmi Corporation|Atari|1988
+38051A|Super Skateboardin'|Super Skateboardin'||Sports,Action,|1||Absolute Entertainment|Absolute Entertainment|1988
+38052A|Tank Command|Tank Command||Action|1||Froggo Games Corporation|Froggo Games Corporation|1988
+38053A|Title Match Pro Wrestling|Title Match Pro Wrestling||Sports,|2||Absolute Entertainment|Absolute Entertainment|1989
+38054A|Touchdown Football|Touchdown Football||Sports,|2||Imagic|Atari|1988
+38055A|Tower Toppler|Tower Toppler||Platform,|2||Hewson Consultants Ltd|Atari|1988
+108708|Tubes|Tubes||Puzzle,|1||Bruce Tomlin||
+38056A|Water Ski|Water Ski||Sports,Action,|1||Froggo Games Corporation|Froggo Games Corporation|1988
+38057A|Winter Games|Winter Games||Sports,Action,|8||Action Graphics|Atari|1987
+38058A|Xenophobe|Xenophobe||Action|2||Bally Midway|Atari|1989
+38059A|Xevious|Xevious||Action,Shooter|2||Namco|Atari|1988

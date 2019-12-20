@@ -1,0 +1,1775 @@
+185237|007 - A View to a Kill|007 - A View to a Kill||Action,|||Softstone Ltd|Domark Limited|1985
+185174|007 - Licence to Kill|007 - Licence to Kill||Action,|||Quixel|Domark Limited|1989
+185068|007 - The Living Daylights|007 - The Living Daylights||Action,|||Sculptured Software, Inc.|Domark Limited|1987
+94426A|10-yard Fight|10 Yard Fight||Sports,|2||Irem Corp.|Irem Corp.|1986
+185244|10th Frame|10th Frame|||||Access Software, Inc.|U.S. Gold Ltd.|1986
+150904|180|180||Sports / Dart,Sports,|||Mastertronic|Cases Computer Simulations Ltd.|1984
+94428A|1942|1942||Action,Shoot'em up / Vertical,Shoot'em Up,|2||Capcom Co., Ltd.|ASCII Corporation|1986
+184904|3-D Bomberman|3-D Bomberman|||||||
+94430A|3D Golf Simulation|3D Golf Simulation|||1||T&E Soft|T&E Soft|1984
+184991|3D Knockout!|3D Knockout!|||||||
+185160|3D Pool|3D Pool|||||Distinctive Developments Ltd.|dbi Games|
+94438A|3d Tennis|3d Tennis||||||ASCII Corporation|1983
+185250|4x4 Off-Road Racing|4x4 Off-Road Racing|||||Epyx, Inc.|U.S. Gold Ltd.|1988
+185287|666 - Uma Aventura Macabra v2.02|666 - Uma Aventura Macabra v2.02|||||||
+185302|737 Flight Simulator|737 Flight Simulator||Simulation,|||Salamander Software|Mirrorsoft Ltd.|1984
+185301|747 400b Flight Simulator|747 400b Flight Simulator|||||||
+184897|98 Attackers|98 Attackers|||||||
+185325|A-Team, The|A-Team, The|||||||
+94452A|A.e.|A.e.||Action,Shoot'em Up,|1||Programmers-3 Inc.|Toshiba-EMI Ltd.|1983
+94456A|A1 Spirit - The Way To Formula-1|A1 Spirit - The Way to Formula-1||Race, Driving / Race,Race, Driving,|2||Konami|Konami|1987
+185305|Aaargh!|Aaargh!|||||Binary Design, Ltd.|Melbourne House|1989
+185306|Abadia del Crimen, La|Abadia del Crimen, La|||||||
+185307|Abracadabra|Abracadabra||Adventure,|||Odisea Software|Proein S.L.|1988
+142828|Abu Simbel Profanation|Abu Simbel Profanation||Plateform / Run Jump,Platform,|1||Dinamic Software|Dinamic Software|1985
+185126|Ace of Aces|Ace of Aces|||||Artech|U.S. Gold Ltd.|1986
+185739|Acrobatas|Acrobatas|||||||
+94468A|Actman|Actman||Action,Arcade|1||Mass Tael|ASCII Corporation|1984
+185212|Addictaball|Addictaball|||||Alligata Software Ltd.|Alligata Software Ltd.|1987
+185308|Adel|Adel|A.E.|,Action|||||
+184878|Adonis|Adonis|||||||
+94473A|Adven' Chuta!|Adven' Chuta!||Adventure,|||MIA|MIA|1983
+109062|Adventure Island|Adventure Island|||||Hudson Soft Company, Ltd.|Hudson Soft Company, Ltd.|1986
+154975|Adventure Kid|Adventure Kid|||1||Open Production||1992
+185309|African Trail Simulator|African Trail Simulator|||||Crom Software|Positive|1990
+185310|After the War|After the War|||||Dinamic Software|Dinamic Software|1989
+185217|Afterburner|Afterburner|||||SEGA Enterprises Ltd.|Activision, Inc.|1988
+155565|Afteroids|Afteroids|||||Made in Spain|Zigurat Software S.L.|1988
+185740|Aguia de Fogo|Aguia de Fogo|||||||
+185071|Air Fox|Air Fox|Aramo|,Adventure|||||
+184935|Air Traffic Control|Air Traffic Control|||||||
+185741|Akernaak|Akernaak|||||||
+94489A|Albatros|Albatros||,Golf|||Telenet Japan Co., Ltd.|Telenet Japan Co., Ltd.|1986
+185742|Alcatraz - A Fuga Impossivel|Alcatraz - A Fuga Impossivel|||||||
+185743|Alcatraz 3 - A Fuga Continua|Alcatraz 3 - A Fuga Continua|||||||
+94495A|Alcazar - The Forgotten Fortress|Alcazar - The Forgotten Fortress||Adventure,|||Activision, Inc.|Activision, Inc.|1985
+176975|Ale Hop!|Ale Hop!|||||||
+94501A|Alibaba And 40 Thieves|Alibaba and 40 Thieves||Action,Arcade|2||ICM|Sony Corporation|1984
+94503A|Alien 8|Alien 8||Action,Arcade|1||Ashby Computers and Graphics Ltd.|Nippon Dexter Co., Ltd.|1985
+185311|Alien Syndrome|Alien Syndrome|||||SEGA Enterprises Ltd.|Dro Soft|1988
+184978|Aliens|Aliens|Alien 8|,Action|||||
+94508A|Aliens - Alien 2|Aliens - Alien 2||||||Square|1987
+185312|Alpha Blaster|Alpha Blaster|||||LiveWire Software UK|Aackosoft International B.V.|1984
+94511A|Alpha Roid|Alpha Roid||,Shooter|||Pony|Pony Canyon Inc.|1986
+94512A|Alpha Squadron|Alpha Squadron||,Shooter|1||AG Corp.|Sony|1985
+185744|Alpine Ski|Alpine Ski|||||Taito Corporation|Taito Corporation|1982
+154873|Altered Beast|Altered Beast|||||Team Shinobi||1989
+184936|Amaurote|Amaurote|||||||
+185745|Amazonia|Amazonia||Puzzle-Game,|||FriendsGames|Oberon Media, Inc.|
+94521A|American Truck|American Truck||Race, Driving,|2||Telenet Japan Co., Ltd.|Telenet Japan Co., Ltd.|1985
+184899|Amida|Amida|A.E.|,Action|||Sofix Corporation|Coconuts Japan Entertainment Co., Ltd.|
+185313|Amo del Mundo|Amo del Mundo|||||||
+185314|Amoto's Puf|Amoto's Puf|||||||
+185315|Ananas|Ananas|Anty|,Arcade|||||
+94528A|Anaza - Kaleidoscope Special|Anaza - Kaleidoscope Special||,Shooter|1|||Hot-b|1987
+185316|Angel Nieto Pole 500cc|Angel Nieto Pole 500cc|||||||
+94531A|Angelo|Angelo||Action,Arcade|1||Mass Tael|ASCII Corporation|1984
+185041|Angleball|Angleball|||||||
+185746|Angra I|Angra I|Angelo|,Arcade|||||
+94535A|Animal Land|Animal Land||Puzzle-Game,|||OhkiOki, Inc.|Wait4u Co., Ltd.|1987
+94537A|Antarctic Adventure|Antarctic Adventure|Antartic Adventure|Action,Action / Adventure,|1||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1983
+185747|Antares|Antares|Anty|,Arcade|||Nightmare Productions|Bomico Entertainment Software GmbH|1991
+94541A|Anty|Anty|A.E.|,Arcade|1||ASCII|Bothtec|1984
+185748|Apeman Strikes Again, The|Apeman Strikes Again, The|||||||
+94542A|Aqua Polis Sos|Aqua Polis SOS||||||General|1983
+94544A|Aquattack|Aquattack||Action,Shooter|1||Interphase Technologies Inc.|Toshiba-EMI Ltd.|1984
+94545A|Aramo|Aramo||Role playing games,|1||Sein-Soft|Sein|1986
+185317|Arctic Fox|Arctic Fox|||||||
+94551A|Arkanoid|Arkanoid|Aramo|Action,Breakout|1||Taito Corporation|Taito Corporation|1986
+185749|Arkanoid Revenge|Arkanoid Revenge|||||||
+185318|Arkos I|Arkos I|||||||
+185319|Arkos II|Arkos II|||||||
+185320|Arkos III|Arkos III|||||||
+185750|Armada Contrataca, La|Armada Contrataca, La|||||||
+185321|Army Moves|Army Moves|||||Dinamic Software|Summit Software|1990
+185322|Arquimedes XXI|Arquimedes XXI|||||||
+185323|Aspar GP Master|Aspar GP Master|||||||
+185324|Astro Blaster|Astro Blaster|||||Sega/Gremlin|Sega/Gremlin|1981
+176971|astro marine corps|astro marine corps|||||||
+185192|Astro Plumber|Astro Plumber||||||Blue Ribbon Software Ltd.|1986
+184924|Astro Rocks|Astro Rocks|||||||
+185751|Astrowulards, The|Astrowulards, The|||||||
+94571A|Athletic Ball|Athletic Ball||,Arcade|1||ASCII|ASCII|1984
+94573A|Athletic Land|Athletic Land||Action,Plateform / Run Jump,Platform,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1984
+185752|Atom en Madriguera Peligrosa|Atom en Madriguera Peligrosa|||||||
+94576A|Attack Four Volley Ball|Attack Four Volley Ball||||||Pax Softonica|1986
+185293|Attack Mosquito II|Attack Mosquito II|||||||
+185095|Attack of Mosquiton|Attack of Mosquiton|||||||
+184940|Attack of the Killer Tomatoes|Attack of the Killer Tomatoes|||||||
+185137|Attacked|Attacked|||||||
+185099|Attilio Tubicini|Attilio Tubicini|||||||
+184938|Auf Wiedersehen Monty|Auf Wiedersehen Monty|||||||
+185753|Av. Paulista|Av. Paulista|||||||
+185214|Avenger|Avenger|||||Commodore Electronics Ltd.|Commodore Electronics Ltd.|1981
+185754|Aventura em San Quentin|Aventura em San Quentin|||||||
+185303|Aventura Espacial, La|Aventura Espacial, La|||||||
+185304|Aventura Original, La|Aventura Original, La|||||||
+185326|Averno|Averno|Hero|,Action|||||
+94596A|B.c.'s Quest|B.C.'s Quest||Action,Platform|1|||Toshiba-EMI|1985
+185327|B.C.'s Quest for Tires II - Grog's Revenge|B.C.'s Quest for Tires II - Grog's Revenge|||||||
+142992|Baby Dinosaur Dooly|Baby Dinosaur Dooly|||||||
+94601A|Back To The Future|Back to the Future||Action|1||Beam Software Pty., Ltd.|LJN Toys, Ltd.|1985
+94602A|Backgammon|Backgammon|||||Atari, Inc.|Atari, Inc.|1979
+94606A|Balance|Balance||Educational,|2||Cyberlogic|Kingsoft GmbH|1984
+184870|Ball 5|Ball 5|Rally X|,Arcade|||||
+184881|Ball Out Special|Ball Out Special|||||||
+176976|Ballblazer|Ballblazer||||||Proein S.L.|1987
+184894|Balloon Punch|Balloon Punch|||||||
+185216|Ballyhoo|Ballyhoo|Rally X|Adventure,|||Infocom, Inc.|Infocom, Inc.|1986
+94614A|Banana|Banana||Action,Puzzle-Game,|1||Victor Musical Industries, Inc.|Victor Musical Industries, Inc.|1984
+185204|Banana Worm|Banana Worm|||||||
+94618A|Bank Panic|Bank Panic||Action,Gun shooter|1||Sanritsu Denki Co., Ltd.|Pony Canyon, Inc.|1985
+184946|Banzai|Banzai|Banana|,Arcade|||Swedish Software|Swedish Software|1989
+184984|Banzai 2|Banzai 2|||||||
+185037|Barbarian|Barbarian|||||Psygnosis Limited|Mastertronic Ltd.|1988
+185328|Barbarian II - The Dungeon of Drax|Barbarian II - The Dungeon of Drax|||||||
+185329|Barn Stormer|Barn Stormer|||||||
+185755|Barnabasket|Barnabasket|||||||
+94634A|Batman|batman|Actman|Adventure,Action,|1||Sun Electronics Corp.|Sun Electronics Corp.|1986
+185330|Batman - The Movie|Batman - The Movie|||||||
+185331|Battaglia delle Ardenne, La|Battaglia delle Ardenne, La|||||||
+94638A|Batten Tanuki No Daibouken|Batten Tanuki no Daibouken||,Action|1||Tecno Soft|Tecno Soft|1986
+185332|Battle Chopper|Battle Chopper||||||Methodic Solutions|1987
+94642A|Battle Cross|Battle Cross||Action,Shoot'em up / Horizontal,Shoot'em Up,|2||Omori Electronics Corporation|Sony Corporation|1984
+185030|Battle for Midway, The|Battle for Midway, The|||||||
+94647A|Battleship Clapton 2|Battleship Clapton II||Shoot'em up / Vertical,Shoot'em Up,|1|||T&E Soft|1984
+184926|Beach Story of Tako|Beach Story of Tako|||||||
+94652A|Beach-head|Beach-Head||,Shooter|2||Access Software, Inc.|Eaglesoft|1985
+94653A|Beam Rider|Beam Rider||Shooter,Shoot'em up / Vertical,Shoot'em Up,|1||PONY CANNON|Activision|1984
+185111|Bear George|Bear George|||||||
+94656A|Becky|Becky||,Arcade|1||MIA|MIA|1983
+94657A|Bee And Flower|Bee & Flower|||1||Compile|Think Soft|1983
+185333|Bestial Warrior|Bestial Warrior|||||Zeus Software|Dinamic Software|1989
+185756|Bilot|Bilot|Hero|,Action|||||
+94670A|Binary Land|Binary Land||Strategy,Puzzle-Game,|1||Hudson Soft Company, Ltd.|Hudson Soft Ltd.|1984
+185268|Bingo|Bingo|Pipi|Compilation,|||Masque Publishing, Inc.|Masque Publishing, Inc.|2006
+185757|Bingo, El|Bingo, El|||||||
+185334|Bit Byter|Bit Byter|||||||
+185335|Black Bass, The|Black Bass, The|||||||
+185758|Black Jack|Black Jack||||||Systems Editoriale s.r.l.|1988
+176862|Blackbeard|Blackbeard|||||||
+185336|Blackjack|Blackjack||Simulation,|||||1984
+94683A|Blagger|Blagger|Blagger MSX|Action,Puzzle|1||Alligata Software Ltd.|Alligata Software Ltd.|1984
+185114|Blasteroids|Blasteroids|||||Atari Games Corporation|Image Works|1989
+94686A|Block Hole|Block Hole||Puzzle-Game,|2||Zemina Co.|Zemina Co.|1990
+94687A|Blockade Runner|Blockade Runner||Action,Shooter|1||Interphase Technologies Inc.|Toshiba-EMI Ltd.|1984
+185337|Bloody|Bloody|||||||
+176863|Blow Up|Blow Up|||||Eurosoft|Eurosoft|1987
+185759|Blue & Pink|Blue & Pink|||||||
+185670|Blusy Shop|Blusy Shop|||||||
+185760|BMX Number Jump|BMX Number Jump||Educational,|||Vifi International|N.V. Philips Gloeilampenfabrieken|1984
+185078|BMX Simulator|BMX Simulator|||||Codemasters|Codemasters|1987
+185338|Boardello|Boardello||||||Bubble Bus Software|1985
+94700A|Boggy '84|Boggy '84||Action,|1||Nippon Columbia|Sony Computer Entertainment España|1984
+94702A|Boing Boing|Boing Boing||||||Idealogic|1985
+94704A|Bokosuka Wars|Bokosuka Wars||Strategy,|1|||ASCII Corporation|1984
+185761|Bologna & Milano|Bologna & Milano|||||||
+185671|Bomb Man|Bomb Man|Bomber Man|,Arcade|||||1986
+94708A|Bomber King|Bomber King||,Arcade||||Hudson Soft|1988
+94709A|Bomber Man|Bomber Man||,Arcade||||Hudson Soft|1983
+94711A|Bomber Man Special|Bomber Man Special||,Arcade||||Hudson Soft|1986
+185672|Bomber Man. Eric and the Floaters|Bomber Man. Eric and the Floaters|||||||
+184945|Bomulus & the Lost Crown|Bomulus & the Lost Crown|||||||
+185339|Booga-Boo the Flea|Booga-Boo the Flea|||||||
+94721A|Boogie Woogi Jungle|Boogie Woogi Jungle||,Arcade||||Ample Software|1985
+185340|Boom|Boom|Cosmo|,Action|||Aackosoft International B.V.|Eaglesoft|1985
+94724A|Boomerang|Boomerang||Action|1||Sunsoft|ASCII Corporation|1984
+185341|Booty|Booty|Anty|,Arcade||||Firebird Software|1984
+185262|Bop!|Bop!|Jump|,Arcade|||||
+94727A|Borfesu|Borfesu||||||Xtalsoft|1987
+94730A|Bosconian|Bosconian||Action,Shooter|1||Namcot|Namcot|1984
+94733A|Bouken Roman - Dota|Bouken Roman - Dota||,Action||||System Soft|1986
+94735A|Boulder Dash|Boulder Dash||Action,|||First Star Software, Inc.|Orpheus Ltd|1985
+185134|Boulder Dash II - Rockford's Riot|Boulder Dash II - Rockford's Riot|||||||
+185342|Bounce|Bounce|Balance|Puzzle-Game,|||Race Away Game Studio|Race Away Game Studio|
+94739A|Bouncing Block|Bouncing Block||,Arcade||||Idealogic|1988
+184998|Bounder|Bounder|Mouser|,Arcade|||Gremlin Graphics Software Limited|Gremlin Graphics Software Limited|1986
+184875|Boxing|Boxing|Champion Boxing|,Boxing|||Activision, Inc.|Activision, Inc.|1980
+185161|Break Free|Break Free|||||||
+94745A|Break In|Break In||Action,|1||The Bytebusters|The Bytebusters|1987
+94746A|Break Out|Break Out||Action,|1||ASCII Corporation|ASCII Corporation|1980
+185763|Break-Man|Break-Man|||||||
+185344|Breaker Breaker|Breaker Breaker|||||||
+184951|Brian Jacks Superstar Challenge|Brian Jacks Superstar Challenge||||||Martech Games Ltd.|1986
+185764|Brick Breaker|Brick Breaker|||||Hydravision Entertainment|Bigben Interactive S.A.|
+185003|Bridge|Bridge|Erika|,Adventure|||Activision, Inc.|Activision, Inc.|1980
+185765|Brisca|Brisca|Erika|,Adventure|||||
+185345|Bronx|Bronx|Hero|,Action|||||
+94758A|Brother Adventure|Brother Adventure||Action,Arcade|2||Nintendo|Zemina Co.|1987
+94760A|Bruce Lee|Bruce Lee||Action|2||Datasoft, Inc.|Comptiq|1985
+176864|Bubbler|Bubbler||||||Ultimate - Play the Game|1987
+185766|Buccaneer Strip Girl|Buccaneer Strip Girl|||||||
+154292|Buck Rogers - Planet Of Zoom|Buck Rogers - Planet Of Zoom|||||||
+185346|Budokan|Budokan|||||||
+185176|Bugbuster|Bugbuster|||||||
+185347|Buggy Ranger|Buggy Ranger|||||Iron Byte|Dinamic Software|1990
+185348|Bumpy|Bumpy|Becky|,Arcade|||Loriciels|Proein S.L.|1989
+185349|Buran|Buran|Banana|,Arcade|||||
+94778A|Burgertime|Burgertime||Action,|1||Data East Corporation|Dempa Shimbunsha|1986
+94781A|Buru To Marty Kikiippatsu - Inspecteur Z|Buru To Marty Kikiippatsu - Inspecteur Z||||||HAL Laboratory|1986
+184942|Buster Block|Buster Block||||||Kuma Computers Ltd.|1985
+94785A|Butamaru Pants|Butam Pants||Action,Arcade|2|||HAL Laboratory|1983
+185239|Buzz Off!|Buzz Off!|||||||
+185350|Bytebusters|Bytebusters|||||||
+95000A|C-so!|C-So!||Action,Arcade|1||Compile|Pony Canyon, Inc.|1985
+94791A|Cabbage Patch Kids|Cabbage Patch Kids||Plateform / Run Jump,Platform,|2||Konami|Konami|1984
+185112|California Games|California Games|||||Epyx, Inc.|Erbe Software, S.A.|1987
+176865|Camelot Warriors|Camelot Warriors|||||Dinamic Software|Dinamic Software|1986
+185768|Campo Minado|Campo Minado|||||||
+185206|Can of Worms|Can of Worms|||||Automata Cartography Ltd.|Automata Cartography Ltd.|1982
+94800A|Candoo Ninja|Candoo Ninja||,Action|1||Mass Tael|ASCII Corporation|1983
+94801A|Cannon Ball|Cannon Ball||Action,|1||Hudson Soft Company, Ltd.|Hudson Soft Ltd.|1983
+94802A|Cannon Fighter|Cannon Fighter||||||Policy|1984
+176866|Cannon Turbo|Cannon Turbo|||||||
+185351|Capitan Sevilla|Capitan Sevilla|||||||
+176867|Capitan Trueno|Capitan Trueno|||||||
+184990|Caple|Caple|Craze|,Shooter|||||
+94808A|Captain Chef|Captain Chef||,Arcade||||Nippon Columbia - Colpax - Universal|1984
+94971A|Captain Cosmo|Captain Cosmo|Captain Chef|,Arcade||||ASCII|1984
+185769|Capture os Mongas|Capture os Mongas|||||||
+94812A|Car Fighter|Car Fighter||Race, Driving,|1||Casio Computer Co., Ltd.|Casio Computer Co., Ltd.|1985
+94813A|Car Jamboree|Car Jamboree||Action,Arcade|2||Omori Electronics Corporation|Sony Corporation|1983
+94816A|Car-race|Car-Race|Car Race|Race, Driving,||||Ample Software|1983
+185352|Carlos Sainz|Carlos Sainz|||||Zigurat Software S.L.|Zigurat Software S.L.|1990
+185087|Carry|Carry|Craze|,Shooter|||||
+95022A|Carry's Great Escape|Carry's Great Escape||||||Carry Lab|1985
+185353|Casanova|Casanova|||||Iber Soft|Iber Soft|1989
+94822A|Casio Pachinko-u.f.o.|Casio Pachinko-U.F.O.||||||Casio|1984
+94823A|Casio Ski Command|Casio Ski Command||,Skiing||||Casio|1984
+94825A|Casio Worldopen|Casio Worldopen||,Golf||||Casio|1985
+185770|Castelo Negro|Castelo Negro|||||||
+185771|Castillo de Godless, El|Castillo de Godless, El|||||||
+185200|Castle Combat|Castle Combat|||||||
+94830A|Castle Excellent|Castle Excellent||Adventure,|1||ASCII Corporation|ASCII Corporation|1986
+185002|Cat & Wolf|Cat & Wolf|||||||
+185004|Catch That Girl|Catch That Girl|||||||
+184973|Catch the Mouse Puzzle|Catch the Mouse Puzzle|||||||
+185354|Cavern of Death|Cavern of Death|||||||
+176977|caverns|caverns|Pitfall II - Lost Caverns|,Platform|||||
+185673|Caverns of Titan|Caverns of Titan|||||||
+185772|Cerebral|Cerebral|||||||
+185255|Cetus|Cetus|Anty|,Arcade|||||
+94843A|Chack'n Pop|Chack'n Pop||Action,Arcade|1||Taito Corporation|Taito Corporation|1984
+94844A|Challenge Derby|Challenge Derby||,Bets|||Tsukuda Original|Tsukuda Original|1984
+94848A|Champion Boxing|Champion Boxing||Sports,|2||SEGA Enterprises Ltd.|SEGA Enterprises Ltd.|1985
+94849A|Champion Ice Hockey|Champion Ice Hockey||Sports,|2||SEGA Enterprises Ltd.|SEGA Enterprises Ltd.|1986
+94851A|Champion Kendou|Champion Kendou||||||Pony Canyon|1986
+94852A|Champion Pro Wrestling|Champion Pro Wrestling||Sports,|2||SEGA Enterprises Ltd.|Pony Canyon, Inc.|1985
+94853A|Champion Soccer|Champion Soccer||Sports,|2||SEGA Enterprises Ltd.|SEGA Enterprises Ltd.|1984
+184872|Champions Grand National|Champions Grand National|||||||
+94855A|Championship Lode Runner|Championship Lode Runner|Championship Loderunner|Strategy,|1||Brøderbund Software, Inc.|Sony Computer Entertainment Japan|1985
+185175|Chase H.Q.|Chase H.Q.|||||Taito Corporation|Ocean Software Ltd.|1989
+185674|Cheating Wives|Cheating Wives|||||||
+94862A|Checkers In Tantan Tanuki|Checkers in Tantan Tanuki||,Arcade||||Pony Canyon|1985
+185245|Checkmate! First Moves in Chess|Checkmate! First Moves in Chess|||||||
+94864A|Cheese|Cheese||,Chess|||||
+176989|Cheese 2|Cheese 2|||||||
+94866A|Chess|Chess||,Chess|||Success Corp.|Agetec, Inc.|2001
+185355|Chess Player|Chess Player|||||||
+185356|Chessmaster 2000, The|Chessmaster 2000, The|||||||
+185357|Chicago 30's|Chicago 30's|||||Topo Soft|Topo Soft|1988
+184889|Chick Fighter. Hiyoko Fighter|Chick Fighter. Hiyoko Fighter|||||||
+185186|Chicken Chase|Chicken Chase|||||Positive Solutions|Big Fish Games, Inc|2007
+185135|Chiller|Chiller|||||Exidy, Inc.|Exidy, Inc.|1986
+97279A|Chima Chima Private Eye|Chima Chima Private Eye||||||Bothtec|1985
+185675|Chocobo Racing|Chocobo Racing|||||Square Co., Ltd.|Square Europe, Ltd.|1999
+94876A|Choplifter|Choplifter||Action|1||Dan Gorlin|Sony Corporation|1985
+185358|Chopper|Chopper|Hopper|,Arcade|||Severn Software|Severn Software|1984
+185359|Chopper One|Chopper One|||||||
+94880A|Choro Q|Choro Q||Action,Arcade|1||Taito Corporation|Taito Corporation|1984
+185360|Choy-Lee-Fut Kung-Fu Warrior|Choy-Lee-Fut Kung-Fu Warrior|||||Positive|Positive|1990
+185033|Chubby Gristle|Chubby Gristle|||||Teque Software Development Ltd.|Grandslam Entertainments Ltd.|1988
+185361|Chuck Yeager's Advanced Flight Trainer|Chuck Yeager's Advanced Flight Trainer|||||||
+185291|Chuckie Egg|Chuckie Egg|||||A&F Software Ltd.|A&F Software Ltd.|1984
+94886A|Chugaku Hisshu Eibunpo 1|Chugaku Hisshu Eibunpo 1||||||Stratford CCC|
+185363|Ci-U-Than Trilogy I - La Diosa de Cozumel|Ci-U-Than Trilogy I - La Diosa de Cozumel|||||||
+185364|Ci-U-Than Trilogy II - Los Templos Sagrados|Ci-U-Than Trilogy II - Los Templos Sagrados|||||||
+185365|Ci-U-Than Trilogy III - Chichen Itza|Ci-U-Than Trilogy III - Chichen Itza|||||||
+185362|Cid, El|Cid, El|||||||
+94891A|Circus Charlie|Circus Charlie||Action,Plateform / Run Jump,Platform,|1||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1984
+184987|City|City|City Connection|,Arcade|||||
+94893A|City Connection|City Connection||Race, Driving,|2||Hect Co. Ltd.|Jaleco Ltd.|1986
+185194|Classic Adventure|Classic Adventure||Adventure,||||Adventure International|1981
+184992|Cluedo|Cluedo||||||Leisure Genius|1986
+94903A|Coaster Race|Coaster Race||Race, Driving,|2||Sony Corporation|Sony Corporation|1986
+185366|Cobra's Arc|Cobra's Arc||Adventure,|||Dinamic Software|Dinamic Software|1986
+185110|Coco Castle|Coco Castle|||||||
+185367|Coco in the Castle|Coco in the Castle|||||||
+185368|Coliseum|Coliseum|||||Topo Soft|Kixx|1988
+185773|Colmena|Colmena|Cosmo|,Shooter|||||
+185116|Colony|Colony|C-So!|,Arcade||||Mindscape, Inc.|1988
+94914A|Color Ball|Color Ball||,Arcade||||Hudson Soft|1983
+184933|Colossus 4 Chess|Colossus 4 Chess|||||||
+176868|Colt 36|Colt 36|||||||
+185774|Columbia|Columbia|||||||
+185369|Comando Quatro|Comando Quatro|||||Gamesoft|Zigurat Software S.L.|1989
+185055|Comblot|Comblot|Cosmo|,Shooter|||||
+94929A|Come On! Picot|Come On! Picot||,Action||||Pony Canyon Inc.|1986
+94930A|Comecocos|Comecocos||,Arcade|||Sherwood Media|Planeta DeAgostini Interactive|2002
+94931A|Comet Tail|Comet Tail||||||ASCII Corporation|1983
+94933A|Comic Bakery|Comic Bakery||Strategy,Action,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1984
+185371|Compra y Vende|Compra y Vende|||||||
+94937A|Computer Billiards|Computer Billiards||,Pool||||Sony|1985
+99353A|Computer Chess|Computer Chess||Simulation,|2||B.U.G.|Sony Corporation|1985
+94940A|Computer Nyuumon - Computer Lessons|Computer Nyuumon - Computer Lessons|||||||
+94941A|Computer Othello|Computer Othello|||||Nintendo R&D1|Nintendo Leisure System|1978
+94942A|Computer Pachinko|Computer Pachinko||,Slot machine||||Sony|1984
+185249|Computer Scrabble|Computer Scrabble|||||Psion Software Ltd.|Leisure Genius|1985
+185676|Computer Wars|Computer Wars|||||||
+94946A|Con-dori|Con-dori||,Arcade||||Cross Talk|1983
+185775|Conde de Monte Cristo, O|Conde de Monte Cristo, O|||||||
+94947A|Confused|Confused||Puzzle-Game,|1||The Bytebusters|Eaglesoft|1986
+185372|Congo|Congo|Cosmo|,Shooter|||LiveWire Software UK|LiveWire Software UK|1986
+176869|Congo Bongo|Congo Bongo|||||SEGA Enterprises Ltd.|SEGA Enterprises Ltd.|1983
+185373|Continental Circus|Continental Circus|||||Taito Corporation|Virgin Mastertronic Ltd.|1989
+185253|Contract Bridge|Contract Bridge|||||||
+185776|Coppa Proibita|Coppa Proibita|||||||
+176870|Corsarios|Corsarios|||||Opera Soft S.A.|Opera Soft S.A.|1989
+185374|Cosa Nostra|Cosa Nostra|||||Opera Soft S.A.|Opera Soft S.A.|1986
+185777|Cosme Estible|Cosme Estible|||||||
+185677|Cosmic Battle|Cosmic Battle|||||||
+185375|Cosmic Sheriff|Cosmic Sheriff|||||Dinamic Software|Dinamic Software|1989
+185050|Cosmic Shock Absorber|Cosmic Shock Absorber|||||||
+184908|Cosmo Traveler|Cosmo Traveler|||||||
+94974A|Cosmo-explorer|Cosmo-Explorer|Cosmo Explorer|,Shooter||||Sony|1985
+94977A|Courageous Perseus|Courageous Perseus||Role playing games,|1||Cosmos Computer|Cosmos Computer|1985
+176871|cow|cow|Hero|,Action|||||
+176872|cpkids|cpkids|||||||
+94979A|Craze|Craze||,Shooter|1||Heart Denshi|Heart Soft|1988
+176978|crazy|crazy|Crazy Bullet|,Racing|||||
+185679|Crazy Buggy|Crazy Buggy|||||||
+94981A|Crazy Bullet|Crazy Bullet||||||ASCII Corporation|1983
+94982A|Crazy Cars|Crazy Cars||Race, Driving,|1||Titus France SA|Titus France SA|1988
+185376|Crazy Golf|Crazy Golf|||||Mr. Micro Ltd.|Mr. Micro Ltd.|1983
+94985A|Crazy Train|Crazy Train||Strategy,|2||Konami Industry Co. Ltd.|Sony Corporation|1983
+185061|Cresta Run|Cresta Run|||||||
+185067|Cribbage|Cribbage|||||Pogo.com|Pogo.com|
+185778|Cronos|Cronos|Aramo|,Adventure|||||
+94993A|Cross Blaim|Cross Blaim||Action,|1||dB-SOFT|dB-SOFT|1986
+94996A|Crusader|Crusader|Craze|,Arcade||||Pony Canyon Inc.|1985
+185053|Crux|Crux|Craze|,Shooter|||||
+185051|Crystal Out|Crystal Out|||||||
+185040|Cubit|Cubit|Jump|Puzzle-Game,|||Inkling Games|Inkling Games|
+185779|Cubos Malucos|Cubos Malucos|||||||
+185680|Cure, The|Cure, The|||||||
+185377|Curro Jimenez|Curro Jimenez|||||||
+185210|Cyberbig|Cyberbig|||||||
+176873|Cyberun|Cyberun||||||Ultimate - Play the Game|1986
+184976|Cyclon|Cyclon|Cosmo|,Shooter||||Boone Corporation|1983
+185202|Cyrus II|Cyrus II|Mars II|,Shooter|||||
+95043A|D-day|D-Day||Action,Shooter|||Digital Reality Software Kft|O~3 Entertainment|1984
+95027A|Daiva Story 4 - Asura's Bloodfeud|Daiva Story 4 - Asura's Bloodfeud||||||T&E Soft|1987
+185378|Damas|Damas|Aramo|,Adventure|||||
+185379|Danger Mouse in The Black Forest Chateau|Danger Mouse in The Black Forest Chateau||Adventure,||||Alternative Software Ltd.|1986
+95031A|Danger X4|Danger X4||,Shooter||||ASCII Corporation|1984
+185780|Dark|Dark|Hydlide II - Shine of Darkness|,Shooter|||Himeya Soft, Inc|Himeya Soft, Inc|
+185380|Darkwood Manor|Darkwood Manor|||||||
+185151|Darts|Darts|Fairy|,Arcade|||||1991
+95040A|David 2|David II||||||ASCII Corporation|1984
+95041A|Dawn Patrol|Dawn Patrol||Simulation,|||Rowan Software Ltd.|Empire Interactive Entertainment|1986
+176874|DDUNGEON|DDUNGEON|||||||
+185381|Death Valley Gold Rush|Death Valley Gold Rush|||||||
+185382|Death Wish 3|Death Wish 3|||||Gremlin Graphics Software Limited|Gremlin Graphics Software Limited|1987
+95049A|Decathlon|Decathlon||Sports,|2||Computer & Entertainment Inc.|Computer & Entertainment Inc.|1984
+95050A|Deep Dungeon|Deep Dungeon||,Adventure||||Scaptrust|1988
+95053A|Deep Dungeon 2|Deep Dungeon II||||||Scaptrust|1988
+185383|Defcom 1|Defcom 1|||||||
+185189|Defender Foxx|Defender Foxx|||||||
+95058A|Demonia I|Demonia I||,Action||||Microïds|1986
+185781|Descubrimiento de America, El|Descubrimiento de America, El|||||||
+96964A|Designer's Pencil, The|Designer's Pencil, The||,Drawing|||||
+185130|Desolator|Desolator|||||Gremlin Graphics Software Limited|Erbe Software, S.A.|1986
+185384|Desperado|Desperado|||||||
+185385|Desperado 2|Desperado 2|||||Gamart|Topo Soft|1991
+185386|Destroyer|Destroyer||Simulation,|||Epyx, Inc.|Epyx, Inc.|1986
+185782|Detective Orson Welles|Detective Orson Welles|||||||
+185387|Deus Ex Machina|Deus Ex Machina||Simulation,|||Automata U.K. Limited|Nu Wave UK|1985
+184860|Devil Hunter|Devil Hunter|||||||
+185783|Devil's Castle, The|Devil's Castle, The|||||||
+95067A|Devil's Heaven|Devil's Heaven||||||Paxon|1984
+185065|Devorado|Devorado|||||||
+185388|Dezeni Land|Dezeni Land||Adventure,|||Hudson Soft Company, Ltd.|Hudson Soft Company, Ltd.|1984
+184865|Diamond Luis I|Diamond Luis I|||||Ikesoft|Ikesoft|1986
+184949|Diamond Mine II|Diamond Mine II||||||Blue Ribbon Software Ltd.|1986
+95075A|Dig Dug|Dig Dug||Action,Arcade|2||Namco Limited|Namco Limited|1984
+95076A|Digital Devil Monogatari Megami Tensei|Digital Devil Monogatari Megami Tensei||,Adventure||||Telenet Japan|1987
+185389|Dimension Omega|Dimension Omega|||||||
+95080A|Dip Dip|Dip Dip||,Arcade||||Indescomp|1985
+185187|Disc Warrior|Disc Warrior|||||||
+185390|Discovery|Discovery||||||CRL Group PLC|1987
+184901|Dizzy Ball|Dizzy Ball|||||||
+185391|Dizzy Balloon|Dizzy Balloon|||||||
+185183|Dizzy Dice|Dizzy Dice||Simulation,||||Players Software|1988
+176877|DMZ-004_Gommy MD_msx|DMZ-004_Gommy MD_msx|||||||
+176876|DMZ002 - Teodoro no sabe volar|DMZ002 - Teodoro no sabe volar|||||||
+184963|Docteur Galaxie|Docteur Galaxie|||||||
+184939|Dog Fighter|Dog Fighter|Car Fighter|,Racing|||||
+95091A|Doki Doki Penguin Land|Doki Doki Penguin Land||Action,|2||SEGA Enterprises Ltd.|Pony Canyon, Inc.|1985
+185392|Domino|Domino|Sofia|,Action|||Donut Games|Donut Games|
+185393|Don Quijote|Don Quijote||Adventure,|||Dinamic Software|Dinamic Software|1987
+185394|Donkey Kong|Donkey Kong||,Arcade|||Nintendo Co., Ltd.|Ocean Software Ltd.|1986
+185238|Donpan|Donpan|Janka|,Puzzle|||||
+95099A|Door Door Mkii|Door Door mkII||Action,|1||Enix|Enix|1985
+95101A|Dorodon|Dorodon||Action,Arcade|1||UPL Co., Ltd|UPL Co., Ltd|1984
+95102A|Double Dragon|Double Dragon||Action,|1||Technos Japan Corp.|Zemina Co.|1990
+185395|Double Dragon II - The Revenge|Double Dragon II - The Revenge|||||||
+185074|Double Rotation|Double Rotation|||||||
+176993|Double Vision|Double Vision|||||||
+185784|Dr. Archie|Dr. Archie|||||||
+95106A|Dr. Copy|Dr. Copy||,Arcade|||||
+185014|Dr. Jackle and Mr. Wide|Dr. Jackle and Mr. Wide|||||||
+95111A|Dragon Attack|Dragon Attack||,Shooter||||HAL Laboratory|1983
+185259|Dragon Ninja|Dragon Ninja|||||||
+185682|Dragon Quest|Dragon Quest||,RPG|||Armor Project|Square Enix Co., Ltd.|
+185683|Dragon Quest II|Dragon Quest II||,RPG|||||
+95122A|Dragon Slayer|Dragon Slayer||Role playing games,|1||Nihon Falcom Corp.|Square Co., Ltd.|1985
+185685|Dragon Slayer 4 - Drasle Family|Dragon Slayer 4 - Drasle Family|||||||
+95130A|Dragon Slayer Jr. - Romancia|Dragon Slayer Jr. - Romancia||,Adventure||||Falcom|1987
+95135A|Drainer|Drainer||,Arcade||||Victor|1987
+185296|Draughts|Draughts||||||Stack Computer Services Limited|1983
+185396|Drazen Petrovic Basket|Drazen Petrovic Basket|||||Topo Soft|Topo Soft|1989
+185000|Dream Runaway|Dream Runaway|||||||
+176979|Driller Tanks|Driller Tanks||,Arcade|||Hudson Soft Company, Ltd.|Hudson Soft Company, Ltd.|1983
+185686|Drink It!|Drink It!|Kick It|,Arcade|||||
+185785|Droids - The White Witch|Droids - The White Witch|||||||
+185397|Drome|Drome|Aramo|,Adventure|||||
+185786|Dropgame|Dropgame|||||||
+97325A|Druaga No Tou|Druaga no Tou||||||Namcot|1986
+185398|Duck out|Duck out||||||Dro Soft|1989
+185146|Ducky|Ducky|Becky|,Arcade|||||
+95151A|Dungeon Hunter|Dungeon Hunter||Action,Adventure|1||ASCII Corporation|ASCII Corporation|1989
+95152A|Dungeon Master|Dungeon Master||,Adventure|||FTL Games|FTL Games|1986
+95154A|Dunk Shot|Dunk Shot||,Basketball||||HAL Laboratory|1986
+185399|Dustin|Dustin|||||Dinamic Software|Dinamic Software|1987
+95157A|Dx7 Voicing Program|DX7 Voicing Program|||||||
+185687|Dynamite Bowl|Dynamite Bowl|||||Softvision Co., Ltd.|Toshiba-EMI Ltd.|1987
+184955|Dynamite Dan|Dynamite Dan||||||Mirrorsoft Ltd.|1986
+185787|Eagle|Eagle|Jagur|,Shooter|||||
+185788|Eagle Control|Eagle Control|||||||
+95163A|Eagle Fighter|Eagle Fighter||Action,Shooter|1||Casio Computer Co., Ltd.|Casio Computer Co., Ltd.|1985
+153193|Eagles 5|Eagles 5||||||Zemina Co.|
+185273|Eat Blue!|Eat Blue!|||||||
+185689|Eat Blue! 2004|Eat Blue! 2004|||||||
+176878|Eat Blue! 2004 v2|Eat Blue! 2004 v2|||||||
+185789|Eat It|Eat It|||||||
+185057|Eddie Kidd Jump Challenge|Eddie Kidd Jump Challenge|||||Martech Games Ltd.|Martech Games Ltd.|1986
+95171A|Eddy 2|Eddy 2|||||||
+96014A|Eggerland 2|Eggerland 2||Action,|||HAL Laboratory, Inc.|HAL Laboratory, Inc.|1986
+95176A|Eggerland Mystery|Eggerland Mystery||Strategy,|2||HAL Laboratory, Inc.|HAL Laboratory, Inc.|1985
+184907|Eggy|Eggy|Anty|,Arcade|||||
+95180A|Eiwa Jiten - English Japanese|Eiwa Jiten - English Japanese|||||||
+184920|Eletron|Eletron|Exerion|,Shooter|||||
+95185A|Elevator Action|Elevator Action||Action,Arcade|1||Taito Corporation|Nidecom Soft|1985
+184974|Elidon|Elidon|Erika|,Adventure|||Orpheus Ltd|Aackosoft International B.V.|1985
+184918|Elite|Elite|Erika|,Adventure||||Firebird Software|1987
+185159|Emerald Isle|Emerald Isle||Adventure,|||Level 9 Computing, Ltd.|Level 9 Computing, Ltd.|1985
+185178|Emilio Butragueno Futbol|Emilio Butragueno Futbol|||||||
+185400|Emilio Butragueno Futbol II|Emilio Butragueno Futbol II|||||||
+185080|Emilio Butragueno Futbol II - Campeonato|Emilio Butragueno Futbol II - Campeonato|||||||
+185401|Emilio Sanchez Vicario Grand Slam|Emilio Sanchez Vicario Grand Slam|||||Zigurat Software S.L.|Zigurat Software S.L.|1989
+176879|EN-NIGHT|EN-NIGHT|||||||
+185402|Enchanted|Enchanted|||||Altron Corporation|Disney Interactive Studios, Inc.|
+185281|Enemy|Enemy|Anty|,Arcade|||||
+185267|Enigma|Enigma|Erika|Puzzle-Game,|||GO! Games|iWin.com|
+95200A|Erika|Erika||,Adventure||||Jast|1987
+176996|Erusurid - Elslid|Erusurid - Elslid|||||||
+185790|Escalador|Escalador|||||||
+185791|Estrada de Ferro|Estrada de Ferro|||||||
+185792|Esvay|Esvay|D-Day|,Shooter|||||
+185103|European Games|European Games||||||Tynesoft Computer Software|1987
+185044|European Higway Racing|European Higway Racing|||||||
+185793|Ewoks and the Dandelion Warriors|Ewoks and the Dandelion Warriors|||||||
+185688|E.I. - Exa Innova|Exa Innova||Shoot'em Up,|2|||Sony|1984
+185794|Excalibur|Excalibur||||||Atari Program Exchange|1983
+95211A|Exchanger|Exchanger||||||ASCII Corporation|1983
+96204A|Exciting Baseball|Exciting Baseball||||||Casio|1984
+94821A|Exciting Jockey|Exciting Jockey||||||Casio|1984
+95214A|Exerion|Exerion||Action,Shoot'em Up,|2||Jaleco Ltd.|Dempa Shimbunsha|1984
+95218A|Exerion 2 - Zorni|Exerion II - Zorni||,Shooter||||Jaleco|1984
+185795|Exodus|Exodus|||||Apex Developments|Apex Developments|1993
+95222A|Exoide-z|Exoide-Z||Shooter,Shoot'em up / Vertical,Shoot'em Up,|1||Casio|Casio Computer Co., Ltd.|1986
+95223A|Exoide-z Area 5|Exoide-z Area 5||Shooter,Shoot'em up / Vertical,Shoot'em Up,|1||Casio|Casio Computer Co., Ltd.|1986
+176880|exoidez|exoidez|Exoide-Z|,Shooter|||||
+184871|Exploding Atoms|Exploding Atoms|||||||
+185404|Exterminator|Exterminator||||||Bubble Bus Software|1982
+176881|extra|extra|Anty|,Arcade|||||
+185171|Eye|Eye|Mitsumega Toohru - Three-Eyed One Comes Here, The|,Action||||Endurance Games Ltd.|1987
+95233A|F-1 Spirit - The Way To Formula-1|F-1 Spirit - The Way to Formula-1||Race, Driving,|1||Konami|Konami|1987
+185797|F-15 Strike Eagle|F-15 Strike Eagle||Simulation,|||MicroProse Software, Inc.|Systemsoft|1987
+95235A|F16 Fighting Falcon|F16 Fighting Falcon||Simulation,|2||Nexa Corporation|ASCII Corporation|1984
+95237A|Fa Tetris|Fa Tetris||,Puzzle||||FA Soft|1989
+176983|Factory Infection|Factory Infection|||||||
+185798|Faeton|Faeton|Fairy|,Arcade|||||
+95241A|Fairy|Fairy||Action,Arcade|1||ZAP Corporation|ASCII Corporation|1985
+176848|Falc|Falc|F16 Fighting Falcon|,Racing|||||
+185405|Fall Out|Fall Out|||||||
+95245A|Family Automation Language Community|Family Automation Language Community|||||||
+153192|Family Stadium|Family Stadium|||||||1989
+95246A|Fandom Library #1|Fandom Library #1|||||||
+95247A|Fandom Library #2|Fandom Library #2|||||||
+95248A|Fandom Library #3|Fandom Library #3|||||||
+185406|Fanky Punky|Fanky Punky|||||||
+96169A|Fantasm Soldier Valis|Fantasm Soldier Valis||||||Telenet Japan|1986
+95250A|Fantasy Zone|Fantasy Zone||Action,Shooter|1||SEGA Enterprises Ltd.|Pony Canyon, Inc.|1986
+185089|Farge|Farge|Fairy|,Arcade|||||
+95254A|Farm Kit|Farm Kit||Simulation,|1||Joyce Hakkanson Associates|Sony|
+95255A|Fathom|Fathom||,Arcade|||Imagic|Toshiba-EMI Ltd.|1985
+95256A|Fb-01 Voicing Program|FB-01 Voicing Program|||||||
+185408|Fernando Martin Basket Master|Fernando Martin Basket Master|||||||
+185407|Fernando Martin Basket Master - Executive|Fernando Martin Basket Master - Executive|||||||
+176882|Feud|Feud|Hero|,Action|||Binary Design, Ltd.|Bulldog Software|1987
+185409|Fharanx|Fharanx|||||||
+184929|Field Master|Field Master|||||||
+185260|Fighting Rider|Fighting Rider|||||||
+185410|Final Countdown|Final Countdown|||||Demonware Softwarehaus GmbH|Demonware Softwarehaus GmbH|1990
+95270A|Final Justice|Final Justice||Action,Shooter|1||Compile|Pony Canyon, Inc.|1985
+95271A|Final Mahjong|Final Mahjong||,Mahjong||||MIA|1983
+185799|Final War|Final War|||||||
+95273A|Final Zone Wolf|Final Zone Wolf||Action,Shooter|1||Wolf Team|Telenet Japan Co., Ltd.|1986
+184954|Finders Keepers|Finders Keepers||||||Mastertronic Ltd.|1986
+95277A|Fire Rescue|Fire Rescue||Action,Arcade|1||Hudson Soft Company, Ltd.|Kuma Computers Ltd.|1984
+185800|Fire Star|Fire Star|||||||
+185801|Fire Warrior|Fire Warrior|||||||
+185411|Firehawk|Firehawk||||||Players Software|1987
+185058|First Steps with the Mr. Men|First Steps with the Mr. Men|||||||
+95286A|Flappy|Flappy||Strategy,Puzzle-Game,|1||dB-SOFT|dB-SOFT|1984
+95289A|Flappy - Limited 85|Flappy - Limited 85|Flappy Limited 85|Action,Arcade|1||dB-SOFT|dB-SOFT|1985
+177050|flappybird|flappybird|||||||
+185246|Flash Gordon|Flash Gordon|||||||
+95291A|Flash Point|Flash Point||,Puzzle||||Classic Consoles Center|1990
+95292A|Flash Splash|Flash Splash||Action,Shooter|3||Isoco|Toshiba-EMI Ltd.|1984
+95295A|Flicky|Flicky||Action,Arcade|1||SEGA Enterprises Ltd.|Micronet Co. Ltd.|1985
+95297A|Flight Deck|Flight Deck||,Action||||Aackosoft|1986
+98711A|Flight Deck 2|Flight Deck 2||||||Pony Canyon|1986
+185138|Flight Path 737|Flight Path 737||Simulation,||||Anirog Software Ltd.|1985
+95301A|Flight Simulator|Flight Simulator||Simulation,|||SubLogic|SubLogic|1986
+184937|Flintstones, The|Flintstones, The|||||||
+95303A|Flipper Slipper|Flipper Slipper||,Breakout||||ASCII Corporation|1984
+185802|Flop Chop|Flop Chop|||||||
+185251|Flyboat|Flyboat|Futbol|,Soccer|||||
+95306A|Fm Music Composer|FM Music Composer|||||||
+95307A|Fm Music Composer 2|FM Music Composer II|||||||
+95308A|Fm Music Macro|FM Music Macro|||||||
+95309A|Fm Pana Amusement Cartridge|FM Pana Amusement Cartridge|||||||
+95310A|Fm Voicing Program|FM Voicing Program|||||||
+185803|Follow the Clues|Follow the Clues|||||||
+185007|Foot Volley|Foot Volley|||||||
+185097|Football Manager|Football Manager|||||Addictive Games Ltd|Endurance Games Ltd.|1987
+185199|Football Manager - World Cup Edition|Football Manager - World Cup Edition|||||||
+185157|Footballer of the Year|Footballer of the Year|||||||
+185413|Forbidden Fruit|Forbidden Fruit|||||Krypton Force |Mind Games España S.A.|1985
+95320A|Formation Z|Formation Z||Action,Shooter|2||Hect Co. Ltd.|Nippon Dexter Co., Ltd.|1985
+185150|Formula 1 Simulator|Formula 1 Simulator|||||Spirit Software|Mastertronic Ltd.|1985
+185414|Four excitement mah-jong|Four excitement mah-jong|||||||
+185804|Fracta|Fracta|Aramo|,Adventure|||||
+185064|Freccette|Freccette|||||||
+185805|Fred and the Bubloids|Fred and the Bubloids|||||||
+185415|Freddy Hardest|Freddy Hardest|||||Dinamic Software|Dinamic Software|1987
+185416|Freddy Hardest in South Manhattan|Freddy Hardest in South Manhattan|||||Iron Byte|Dinamic Software|1989
+185417|Frog|Frog|Aramo|,Arcade||||Code Works, The|
+95333A|Frogger|Frogger||Action,Arcade|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1983
+95334A|Front Line|Front Line|Frontline|Action|1||Taito Corporation|Electric Software Limited|1984
+185806|Fronton|Fronton|Frontline|,Action|||||
+185042|Fruit Machine|Fruit Machine||Simulation,|||||1991
+176883|Fruit Panic|Fruit Panic||,Arcade||||Philips Export B.V.|1984
+95339A|Fruit Search|Fruit Search||,Arcade||||HAL Laboratory|1983
+185211|Fruity Frank|Fruity Frank||||||Kuma Computers Ltd.|1985
+95344A|Funky Mouse|Funky Mouse||Action,Arcade|1||ZAP Corporation|ZAP Corporation|1984
+95345A|Futbol|Futbol||,Soccer||||Indescomp|1985
+184943|Future Knight|Future Knight|||||Gremlin Graphics Software Limited|Gremlin Graphics Software Limited|1986
+185807|Fuzzball|Fuzzball|Futbol|,Soccer|||The Bytebusters|Eaglesoft|1986
+185808|FX-15|FX-15|||||||
+185165|Galactic Mercenaries|Galactic Mercenaries|||||||
+95353A|Galaga|Galaga||Action,Shoot'em Up,|2||Namco Limited|Namco Limited|1984
+185005|Galaxia|Galaxia|Galaxian|,Shooter||||Romik Software Ltd|1983
+95355A|Galaxian|Galaxian||Action,Shoot'em Up,|1||Namco Limited|Bug-Byte Software Ltd.|1984
+94665A|Galaxy Drift Motorcycle Femme|Galaxy Drift Motorcycle Femme||||||Bandai|1984
+185809|Galf|Galf|Galaga|,Shooter|||||
+95359A|Gall Force - Defense Of Chaos|Gall Force - Defense of Chaos|Gall Force - Defence of Chaos|Shoot'em up / Vertical,Shoot'em Up,|1||HAL Laboratory|Sony|1986
+185076|Galleon|Galleon|Galaga|,Shooter|||Confounding Factor|Atlus U.S.A., Inc.|
+95365A|Gambler Jiko Chuushinha|Gambler Jiko Chuushinha||||||Game Arts|1988
+95366A|Game Land|Game Land||,Arcade||||Casio|1984
+95367A|Game Master|Game Master||,Software|||Konami|Konami|
+95368A|Game Master 2|Game Master II||Sports,|2||Konami|Konami|
+176884|Game Over|Game Over|||||Dinamic Software|Dinamic Software|1987
+95372A|Game World - 126 Games|Game World - 126 Games|||||||
+184983|Games, The - Winter Edition|Games, The - Winter Edition|||||||
+185810|Ganbare Goemon. Samurai|Ganbare Goemon. Samurai|||||||
+185419|Gang Man|Gang Man|||||||
+95379A|Gang Master|Gang Master||,Software||||ASCII Corporation|1983
+184900|Gangman|Gangman|Banana|,Arcade|||||
+185230|Gary Lineker's Super Star Soccer|Gary Lineker's Super Star Soccer|||||||
+95382A|Gate Of Labyrinth|Gate of Labyrinth|||1||Dempa Shinbunsha|Dempa Shinbunsha|1987
+185282|Gauntlet|Gauntlet|||||Atari Games Corporation|U.S. Gold Ltd.|1986
+184979|Gekiso Battle|Gekiso Battle|||||||
+185811|Gema Negra, La|Gema Negra, La|||||||
+185420|Gemini Wing|Gemini Wing|||||Tecmo, Ltd.|Virgin Mastertronic Ltd.|1989
+177001|Genchohisi|Genchohisi|||||||
+176885|genesis|genesis|Manes|,Arcade|||||
+185421|Genghis Khan|Genghis Khan|||||KOEI Co., Ltd.|KOEI Co., Ltd.|1988
+185812|Genova|Genova|Hero|,Action|||||
+185422|Gerente, El|Gerente, El|||||||
+185423|Geste d'Artillac, La|Geste d'Artillac, La|||||||
+176886|ggeftsdp|ggeftsdp|||||||
+185424|Ghost|Ghost|Ghostbusters|,Action|||||
+185197|Ghost Maze|Ghost Maze|||||||
+185813|Ghost Time|Ghost Time|||||||
+95402A|Ghostbusters|Ghostbusters||Action|1||Activision, Inc.|Activision (UK) Limited|1985
+185016|Ghostbusters II|Ghostbusters II|||||Dynamix, Inc.|Activision, Inc.|1989
+185024|Ghostly Manor|Ghostly Manor|||||||
+185425|Gilbert - Escape from Drill|Gilbert - Escape from Drill|||||||
+177003|Gitahei|Gitahei|||||||
+185247|Glass|Glass|Chess|,Chess|||Channel 8 Software|Quicksilva Ltd.|1985
+95412A|Glider|Glider|Flics|,Flight simulator|||Soft Dorothy Software|Soft Dorothy Software|1985
+185814|Globiblood|Globiblood|||||||
+185691|Gniffel v2|Gniffel v2|||||||
+95417A|Godzilla|Godzilla||Action,|||Hudson Soft Company, Ltd.|Toho Co.,Ltd.|1985
+97326A|Godzilla VS 3 Major Monsters|The Godzilla VS 3 Major Monsters|||||Bandai|Bandai|1984
+97327A|Gojira-kun|Gojira-kun|Gozira-Kun|,Arcade|||Compile|Toho|1985
+95423A|Gokiburi Daisakusen - Bug Bomb|Gokiburi Daisakusen - Bug Bomb||,Arcade||||Magic Software|1983
+185815|Gold Mines - La Mina de Oro|Gold Mines - La Mina de Oro|||||||
+185426|Golden Basket|Golden Basket|||||Opera Soft S.A.|Opera Soft S.A.|1990
+184867|Golden Tomb - Mystery of Egypt|Golden Tomb - Mystery of Egypt|||||||
+185070|Golem|Golem|||||Longsoft Multimedia|PC Treasures, Inc. |2004
+95428A|Golf Game|Golf Game||||||ASCII Corporation|1983
+184969|Golf Simulator|Golf Simulator|||||||
+95434A|Golvellius|Golvellius||Action / Adventure,Action,|1|||Compile|1987
+95437A|Gomok Narabe - Omo Go|Gomok Narabe - Omo Go||,Puzzle||||Toshiba-EMI|1984
+176887|Gonzzalezz|Gonzzalezz||Action,|||Opera Soft S.A.|Opera Soft S.A.|1989
+185427|Goody|Goody|||||Opera Soft S.A.|Opera Soft S.A.|1988
+95448A|Gp World|GP World||Race, Driving,|1||Sega|Pony Canyon|1985
+185816|Gradius. Nemesis|Gradius. Nemesis|||||||
+95459A|Green Beret|Green Beret||Action|1||Konami|Konami|1986
+185428|Gremlins 2 - La Nueva Generacion|Gremlins 2 - La Nueva Generacion|||||||
+184911|Grid Trap|Grid Trap|||||||
+176888|GRIDWARS|GRIDWARS|||||||
+176889|griel|griel|Craze|,Shooter|||||
+176890|grielex|grielex|||||||
+95466A|Grog's Revenge|Grog's Revenge||,Platform|2|||Comptiq|1985
+185818|Gruta de Maquine|Gruta de Maquine|||||||
+185819|Guardian Stripdobeleen II|Guardian Stripdobeleen II|||||||
+95470A|Guardic|Guardic||Action,Shoot'em up / Vertical,Shoot'em Up,|1||Compile|Compile|1986
+185429|Guillermo Tell|Guillermo Tell|||||Comix|Opera Soft S.A.|1989
+95472A|Gulkave|Gulkave||Action,Shoot'em up / Horizontal,Shoot'em Up,|2||Compile|Pony Canyon, Inc.|1986
+185208|Gum Shoe Logic|Gum Shoe Logic|||||||
+95474A|Gun Fright|Gun Fright||,Gun shooter||||Nippon Dexter|1986
+95478A|Gunjin Shougi Mars|Gunjin Shougi Mars||,Puzzle||||Toshiba-EMI|1986
+184903|Gunman. Submarine Shooter|Gunman. Submarine Shooter|||||||
+177058|Gunsmoke|Gunsmoke|||||Capcom Co., Ltd.|Topo Soft|1987
+185820|Gunstreet|Gunstreet|||||||
+185430|Gusano|Gusano|Sasa|,Shooter|||||
+185431|Guttblaster|Guttblaster|||||||
+176891|Gyro Adventure|Gyro Adventure|||||||
+95488A|Gyrodine|Gyrodine||Action,Shoot'em up / Vertical,Shoot'em Up,|1||Crux|Taito Corporation|1986
+176892|Gyruss|Gyruss|||||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|
+95489A|H.e.r.o.|H.E.R.O.||Action,Action / Adventure,|1||Activision, Inc.|Activision (UK) Limited|1984
+185432|Habilit|Habilit|||||||
+95493A|Hades No Monsho|Hades no Monsho||,Shooter|1||Casio|Casio|1986
+95496A|Hafanuda Koi Koi - Gostop Godori|Hafanuda Koi Koi - Gostop Godori||,Puzzle||||ASCII|1984
+185821|Haller|Haller|Hopper|,Arcade|||||
+185433|Hammer Boy|Hammer Boy|||||Dinamic Software|Dinamic Software|1991
+95504A|Hanafuta|Hanafuta||,Puzzle||||Toshiba EMI|1984
+95506A|Hang-on|Hang-On||Race, Driving,Race, Driving / Motorcycle,|1||SEGA Enterprises Ltd.|Pony Canyon, Inc.|1986
+176980|Happy Fret|Happy Fret||,Arcade|||||
+95508A|Harapeko Pakkun|Harapeko Pakkun||,Arcade||||ASCII Corporation|1984
+185434|Hard Boiled|Hard Boiled|||||Cryo Interactive Entertainment|Cryo Interactive Entertainment|
+95514A|Harryfox Msx Special|Harryfox MSX Special||,Adventure||||Micro Cabin|1986
+95515A|Harryfox Yki No Maoh|Harryfox Yki no Maoh||||||Micro Cabin|1985
+184960|Harvey Smith's Showjumper|Harvey Smith's Showjumper|||||||
+95517A|Haunted Boynight|Haunted Boynight|||1||Casio|Casio|
+185435|Haunted House|Haunted House|||||Atari, Inc.|Atari, Inc.|1981
+176893|Head over Heels|Head over Heels|||||Ocean Software Ltd.|Ocean Software Ltd.|1987
+185436|Heat Seeker - Missil|Heat Seeker - Missil|||||||
+95524A|Heavy Boxing|Heavy Boxing||Sports,|2||Takara|HAL Laboratory|1983
+185822|Heli War|Heli War|||||||
+95527A|Helitank|Helitank||,Action|1|||ASCII|1984
+185297|Hercule|Hercule|Hero|,Action|||Infogrames|Infogrames|
+184934|Hercules - Slayer of the Damned|Hercules - Slayer of the Damned|||||||
+185154|Here & There with the Mr. Men|Here & There with the Mr. Men|||||||
+185241|Hero-X|Hero-X|Hero|,Action|||Amazing Games, Ltd.|Infogrames, Inc.|
+142954|Heroes Arena|Heroes Arena|||||||
+185823|Het Damspel MSX Dammes|Het Damspel MSX Dammes|||||||
+185824|Het Verlaten Kerkhof|Het Verlaten Kerkhof|||||||
+185437|Highway Encounter|Highway Encounter|||||Vortex Software|Vortex Software|1985
+95545A|Hisya|Hisya||,Puzzle||||Micro Cabin|1985
+184930|Hitchika|Hitchika|||||||
+95548A|Hitsuji Yai - Preety Sheep|Preety Sheep||||||Hudson Soft|1984
+184957|Hobbit, The|Hobbit, The|||||||
+95550A|Hole In One|Hole in One||Sports,Sports / Golf,Simulation,|2||RISC|BMG Interactive Entertainment|1984
+95551A|Hole In One Professional|Hole in One Professional||Action,Sports,|2||HAL Laboratory, Inc.|HAL Laboratory, Inc.|1986
+185181|Hollywood Hijinx|Hollywood Hijinx||Adventure,|||Infocom, Inc.|Infocom, Inc.|1987
+176894|holympic|holympic|||||||
+95554A|Home Calc|Home Calc|||||||
+95555A|Home Writer|Home Writer||,Software|||||
+95557A|Honkball|Honkball||,Baseball|||||
+95558A|Hopper|Hopper||Action,Arcade|1||Aackosoft International B.V.|Al Alamiah|1986
+185825|Horror em Amityville|Horror em Amityville|||||||
+185438|Horse Race. Carreras de caballos|Horse Race. Carreras de caballos|||||||
+185439|Hostages|Hostages|||||||
+185826|Hot Dog|Hot Dog|Lot Lot|,Puzzle|||||
+184977|Hot Shoe|Hot Shoe|||||||
+184967|Howard the Duck|Howard the Duck|||||||
+176895|hsports2|hsports2|||||||
+95567A|Hudson 3d Golf|Hudson 3D Golf||||||Hudson Soft|1984
+185827|Hugh|Hugh|Hero|,Action|||||
+185289|Humphrey|Humphrey|||||Made in Spain|Zigurat Software S.L.|1988
+184952|Hunchback|Hunchback|||||Century Electronics|Tomo Soft International|1985
+185440|Hundra|Hundra|||||Zeus Software|Dinamic Software|1988
+185047|Hungry Harry|Hungry Harry|||||||
+185029|Hunt for Red October, The|The Hunt for Red October||Simulation,|||Oxford Digital Enterprises Ltd.|Grandslam Entertainments Ltd.|1989
+184965|Hunter Killer|Hunter Killer||Simulation,|||Protek Computing Ltd|Protek Computing Ltd|1983
+185828|Hurricane|Hurricane||||||First Class Simulations|2007
+185248|Hustle|Hustle|Hisya|,Pool|||Gremlin Industries, Inc.|Taito Corporation|1977
+95579A|Hustle! Chumy|Hustle! Chumy||Action,|1||Compile|NISSO Corporation|1983
+184948|Hustler|Hustler|Video Hustler|,Pool|||||
+185190|Hyde|Hyde|Hero|,Arcade|||||
+95582A|Hydlide|Hydlide|Hydlide I|Role playing games,|1||T&E Soft, Inc.|T&E Soft, Inc.|1985
+95588A|Hydlide 2 - Shine Of Darkness|Hydlide II - Shine of Darkness||||||T&E Soft|1986
+185696|Hydlide III - The Space Memories|Hydlide III - The Space Memories|||||||
+176896|Hype|Hype|Hero|Action,Sports|||The Bytebusters|Eaglesoft|1987
+95593A|Hyper Rally|Hyper Rally||Race, Driving,|1||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1985
+95595A|Hyper Sports 1|Hyper Sports 1||Sports,|2||Konami|Konami|1984
+95596A|Hyper Sports 2|Hyper Sports 2||Sports,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1984
+95597A|Hyper Sports 3|Hyper Sports 3||Sports,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1985
+185172|Hyper Viper|Hyper Viper||||||Retro Software|
+185441|Hypsys|Hypsys|Hisya|,Puzzle|||||
+185442|Ice|Ice|Champion Ice Hockey|,Hockey|||||
+184982|Ice King, The|Ice King, The|||||||
+95603A|Ice World|Ice World||,Arcade|1||Casio|Casio|1985
+185443|Ice-Breaker|Ice-Breaker|||||||
+185265|Icicle Works|Icicle Works||||||Commodore Business Machines (UK) Ltd.|1985
+185829|Iconia|Iconia|Scion|,Shooter|||||
+95612A|Iga Ninpouten - Small Ninja|Iga Ninpouten - Small Ninja||Action|1||Casio|Casio|1985
+95610A|Iga Ninpouten 2 - Small Ninja 2|Iga Ninpouten 2 - Small Ninja 2||Action,|1||Casio|Casio|1986
+185444|Igloo|Igloo|Angelo|,Arcade|||||
+185830|Ilha do Tesouro, A|Ilha do Tesouro, A|||||||
+95644A|Iligks Episode One - Theseus|Iligks Episode One - Theseus|||1||ASCII Corporation|ASCII|1984
+185084|Illusions|Illusions|||||||
+185445|Inca|Inca|Anty|,Arcade|||Coktel Vision|Sierra On-Line, Inc.|1992
+95622A|Indian No Bouken|Indian no Bouken||,Arcade|1|||Hudson Soft|1984
+185446|Indiana Jones and the Last Crusade|Indiana Jones and the Last Crusade|||||||
+185286|Indiana Jones and the Temple of Doom|Indiana Jones and the Temple of Doom|||||||
+185831|Indoor Race|Indoor Race|||||||
+185832|Indy 500|Indy 500|||||Atari, Inc.|Sears, Roebuck and Co.|1977
+185833|Indy 555|Indy 555|||||||
+185118|Infernal Miner|Infernal Miner|||||||
+185834|Inhumanos, Los|Inhumanos, Los|||||||
+184959|International Karate|International Karate|||||||
+185447|Intrepido|Intrepido|||||||
+185448|Invaders|Invaders|Space Invaders|,Shooter||||Budgie UK|1991
+185227|Invaders Revenge|Invaders Revenge|||||||
+176897|Invasion|Invasion|||||Icon Design Ltd.|Bulldog Software|1987
+185449|Invierte y Gana|Invierte y Gana|||||||
+95643A|Iriegas|Iriegas||,Adventure|1||ASCII Corporation|ASCII|1984
+185835|Iron Eagle|Iron Eagle|||||||
+184914|Iron Gauntz, The|Iron Gauntz, The|||||||
+185450|Iron of the War|Iron of the War|||||||
+95649A|Issunhoushi No Donnamondai|Issunhoushi no Donnamondai||,Action||||Casio|1987
+185451|Italia '90 - World Cup Soccer|Italia '90 - World Cup Soccer|||||||
+185012|Ito Ipi|Ito Ipi|||||||
+142830|J.e.t.p.a.c.|J.e.t.p.a.c.|||||Ashby Computers and Graphics Ltd.|Ultimate - Play the Game|1983
+95656A|J.p. Winkle|J.P. Winkle||,Arcade||||MSX Magazine|1986
+185452|Jabato|Jabato|Jagur|Adventure,|||Aventuras AD|Aventuras AD|1989
+154293|Jack The Nipper|Jack The Nipper|||||Gremlin Graphics Software Limited|Gremlin Graphics Software Limited|1986
+154294|Jack The Nipper 2 - In Coconut Capers|Jack The Nipper 2 - In Coconut Capers|||||||
+185454|Jackson City|Jackson City|||||Diabolic Software|G.LL. Software S.A.|1990
+95667A|Jagur|Jagur||,Shooter||||Hudson Soft|1987
+185455|Jai Alai|Jai Alai|||||Opera Soft S.A.|Opera Soft S.A.|1991
+185836|Jake in the Caves|Jake in the Caves|||||||
+95673A|Janka|Janka||,Puzzle||||Uchudo|1985
+95675A|Japanese Msx-write|Japanese MSX-Write|||||||
+185109|Jaws|Jaws|Jagur|,Shooter|||Westone Co., Ltd.|LJN Toys, Ltd.|1987
+185456|Jet Bomber|Jet Bomber|||||||
+185457|Jet Fighter|Jet Fighter|Car Fighter|,Racing|||Atari, Inc.|Atari, Inc.|1975
+95683A|Jet Set Willy|Jet Set Willy||Adventure,|1||Software Projects Ltd.|Software Projects Ltd.|1985
+185092|Jet Set Willy II - The Final Frontier|Jet Set Willy II - The Final Frontier|||||||
+184968|Jetalfs Strikes Back|Jetalfs Strikes Back|||||||
+95689A|Jigsaw Set|Jigsaw Set||||||MIA|1983
+176898|jinj2-v2|jinj2-v2|||||||
+185700|Jissen - 4-nin Mahjong. Four Battle Mahjong|Jissen - 4-nin Mahjong||||||Sony|1984
+95694A|Bunsetsu Henkan Jisho Data|Jisyo Data|||||||
+185036|Joe Blade|Joe Blade||||||Players Software|1986
+185458|Johny Comomolo in 3-2-1 Fire|Johny Comomolo in 3-2-1 Fire|||||||
+185837|Joquei|Joquei|Jagur|,Shooter|||||
+185006|Journey to the Centre of the Earth|Journey to the Centre of the Earth|||||||
+95702A|Joytelop|Joytelop|||||||
+185088|Jumbo|Jumbo|Futbol|,Soccer|||||
+95706A|Jump|Jump|Jump Coaster|Action,Arcade|1||Zigurat Software S.L.|Zigurat Software S.L.|1985
+95707A|Jump Coaster|Jump Coaster||Action,Arcade|1||Nippon Columbia|Colpax|1984
+95709A|Jump Land|Jump Land||,Arcade||||Nippon Columbia - Colpax - Universal|1985
+185263|Jumper 2|Jumper 2|||||||
+185459|Jumping Jack|Jumping Jack||||||Imagine Software|1983
+95712A|Jumping Rabbit|Jumping Rabbit||,Arcade||||MIA|1984
+185213|Jungle Jim|Jungle Jim||||||Energize|1991
+185460|Jungle Warrior|Jungle Warrior|||||True Soft|Zigurat Software S.L.|1990
+95715A|Juno First|Juno First||Action,Shooter|2||Konami Industry Co. Ltd.|Sony Computer Entertainment Japan|1983
+95716A|Jyan Friend|Jyan Friend||||||Taito Corp.|1984
+95717A|Jyankyo|Jyankyo||,Puzzle||||Hudson Soft|1984
+95718A|Jyanyuu|Jyanyuu||,Puzzle||||Tecno Soft|1987
+184898|Kaeru Shooter|Kaeru Shooter|||||||
+176858|Kageno Densetsu|Kageno Densetsu||,Action|||||
+95722A|Kakikukekon|Kakikukekon|||||||
+95724A|Karamaru|Karamaru||,Shooter||||HAL Laboratory|1984
+176899|karateka|karateka||||||Dro Soft|1990
+95726A|Karuizawa|Karuizawa||||||Enix|1986
+185838|Kate II|Kate II|Mars II|,Shooter|||||
+185839|Katmosis Faraon|Katmosis Faraon|||||||
+185461|Ke Rulen los Petas|Ke Rulen los Petas|||||||
+95734A|Keystone Kapers|Keystone Kapers||Action,Arcade|1||Activision, Inc.|Pony Canyon, Inc.|1984
+185462|Khazzad-Dum|Khazzad-Dum|||||||
+95736A|Kick It|Kick It||Strategy,|1||Aackosoft International B.V.|HAL Laboratory, Inc.|1986
+177009|Kikikaikai|Kikikaikai|||||||
+184877|Killer Station. Biotech|Killer Station. Biotech|||||Hudson Soft|Hudson Soft|1983
+176900|killmice|killmice|||||||
+176901|kimpo|kimpo|Jump|,Arcade|||||
+95741A|Kinasai|Kinasai||,Arcade|||||1984
+95743A|King And Balloon|King & Balloon||Action,|1||Namco|Namcot|1984
+95744A|King Knight|King Knight||,Shooter||||Square|1986
+95867A|King Leonard|King Leonard||||||Omega System|1986
+95748A|King's Valley|King's Valley|King's Valley II|Adventure,|1||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1985
+95751A|King's Valley 2|King's Valley II||Puzzle-Game,|1||Konami|Konami|1988
+184869|King's Valley Plus|King's Valley Plus|King's Valley II|,Arcade|||||
+95758A|Kinnikuman - Muscle Man|Colosseum Deathmatch||,Wrestling||||Bandai|1985
+177010|Kisei|Kisei|Hisya|,Puzzle|||||
+185011|Klaverjassen|Klaverjassen|||||||
+185149|Klax|Klax|Sasa|Puzzle-Game,|||Atari Games Corporation|Erbe Software, S.A.|1990
+185840|Kleiduif|Kleiduif|||||||
+185463|Knight Ghost|Knight Ghost|||||||
+95766A|Knight Lore|Knight Lore||Adventure,|1||Ashby Computers and Graphics Ltd.|Aackosoft International B.V.|1985
+185054|Knight Tyme|Knight Tyme|Knight Lore|Adventure,||||M.A.D.|1986
+177056|KNIGHT1S|KNIGHT1S|||||||
+176859|knightma|knightma||,Adventure|||||
+95776A|Knightmare - Majou Densetsu|Knightmare - Majou Densetsu||Lightgun Shooter,|1||Konami|Konami|1986
+177053|knightmare god|knightmare god|||||||
+185841|Knightmare II - The Maze of Galious|Knightmare II - The Maze of Galious|Knight Mare II - The Maze Of Galious|Action / Adventure,Action,|1||Konami|Konami|1987
+185842|Knightmare III - Shalom|Knightmare III - Shalom||,Adventure||||Konami|1987
+185681|Demon Crystal Saga II - Knither Special|Knither Special||Action,|1||Dempa Shinbunsha|Dempa|1987
+185464|Knockout|Knockout|||||Microcomputer Games, Inc.|The Avalon Hill Game Company|1982
+176860|knuckle joe|knuckle joe|||||Seibu Kaihatsu Inc.|Taito Corporation|1985
+176861|Kobashi|Kobashi|Kinasai|,Arcade|||||
+176927|koedoli|koedoli|||||||
+95782A|Konami's Baseball|Konami's Baseball||Sports,Sports / Baseball,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1984
+95783A|Konami's Billiards|Konami's Billiards||Sports,Sports / Pool,|2||Konami|Konami|1984
+95784A|Konami's Boxing|Konami's Boxing||Sports,Sports / Boxing,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1985
+95785A|Konami's Football|Konami's Football||,Soccer||||Konami|1985
+95790A|Konami's Golf|Konami's Golf||Sports,Sports / Golf,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1985
+95791A|Konami's Mahjong|Konami's Mahjong||,Mahjong|||Konami|Konami|1984
+95794A|Konami's Ping-pong|Konami's Ping-Pong||Sports,Sports / Table tennis,|2||Konami|Konami|1985
+95796A|Konami's Soccer|Konami's Soccer||Sports,Sports / Soccer,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1985
+95797A|Konami's Synthesizer|Konami's Synthesizer||,Software|||||
+95798A|Konami's Tennis|Konami's Tennis||Sports / Tennis,Sports,|2||Konami|Konami|1984
+177055|Konami_Road_Fighter|Konami_Road_Fighter|||||||
+95801A|Koneko No Daibouken - Catboy|Koneko No Daibouken - Catboy||||||Casio|1986
+185465|Kong|Kong|Scion|,Arcade|||Ocean Software Ltd.|Ocean Software Ltd.|1983
+185466|Kong's Revenge|Kong's Revenge|Grog's Revenge|,Platform|||Zigurat Software S.L.|Zigurat Software S.L.|1991
+185299|Krakout|Krakout|Aramo|,Adventure|||Gremlin Graphics Software Limited|Gremlin Graphics Software Limited|1987
+185701|Kralizec 8k Tetris|Kralizec 8k Tetris|||||||
+185702|Kralizec Battle Tetris|Kralizec Battle Tetris|||||||
+177048|kralizec tetris|kralizec tetris|||||||
+185467|Krom - El Guerrero Invencible|Krom - El Guerrero Invencible|||||||
+185468|Krypton|Krypton||||||ACE (Advanced Computer Entertainment)|1984
+185113|Kubus|Kubus|Jump|,Arcade||||Kuma Computers Ltd.|1985
+95815A|Kung Fu Acho|Kung Fu Acho||||||Irem - ASCII|1985
+95816A|Kung Fu Master|Kung Fu Master||Action,Fighting|1||Irem Corp.|ASCII Corporation|1984
+95817A|Kung Fu Taigun|Kung Fu Taigun||,Action||||Toshiba-EMI|1985
+177054|KUNGFU2P|KUNGFU2P|||||||
+185034|L'Heritage - Panique a Las Vegas|L'Heritage - Panique a Las Vegas|||||||
+185001|Labboss|Labboss|Macross|,Shooter|||||
+185469|Laberinto|Laberinto|||||||
+95834A|Ladder Building|Ladder Building||||||ASCII Corporation|1984
+185470|Lady Safary|Lady Safary|||||||
+95841A|Laptick 2|Laptick 2||,Arcade||||dB-SOFT|1986
+185646|Las Vegas Video Poker|Las Vegas Video Poker|||||Starshine Software|Starshine Software|1999
+185266|Laser Warriors|Laser Warriors|||||||
+153195|Last Mission, The|Last Mission, The|||||||
+184906|Last War|Last War|||||||
+185169|Last War II|Last War II|||||||
+185195|Lazer Bykes|Lazer Bykes||||||Personal Software Services|1985
+176928|Lazy Jones|Lazy Jones||||||Terminal Software|1985
+185158|Le Mans|Le Mans|Le Mans 2|,Racing|||Electric Software Limited|Electric Software Limited|1984
+185471|Legend|Legend|Legendly Knight|Action|||Toka S.a.r.l.|Funsoft|1998
+96986A|Legend of Kage, The|The Legend of Kage|Kage no Densetsu - Legend of Kage, The|,Action||||Taito|1986
+184896|Legend of Ladra. Radola Fantasia|Legend of Ladra. Radola Fantasia|||||||
+109063|Legend of Takeru|Legend of Takeru||||||Brother Industries|1987
+95859A|Legendly Knight|Legendly Knight||,Arcade|||Topia|Topia|1988
+185472|Legends - Leyendas|Legends - Leyendas|||||||
+185473|Legends of Star Arthur - Planet Mephius|Legends of Star Arthur - Planet Mephius|||||||
+184972|Legion|Legion|Exerion|,Shooter|||Paradox Entertainment AB|Strategy First, Inc.|
+185843|Lenda da Gavea, A|Lenda da Gavea, A|||||||
+95296A|Les Flics|Les Flics||||||Micro Cabin Corp.|1985
+185844|Leucocyt|Leucocyt|||||||
+185474|Licantropo|Licantropo|||||||
+176929|Life in the Fast Lane|Life in the Fast Lane|||||||
+96994A|Links, The|Links, The||,Software|||||
+185295|Lives Ball|Lives Ball|||||||
+176930|Livingstone Supongo|Livingstone Supongo|||||||
+176931|Livingstone Supongo II|Livingstone Supongo II|||||||
+185475|Lizard|Lizard|Leonard|,Arcade|||Xtalsoft Co., Ltd.|Micro Cabin Corp.|1985
+185703|Lode Run|Lode Run|Lode Runner|,Arcade|||||
+95895A|Lode Runner|Lode Runner||Action,Arcade|1||Brøderbund Software, Inc.|Sony Corporation|1983
+95898A|Lode Runner 2|Lode Runner II||Platform,|||Presage Software, Inc.|GT Interactive Software Corp.|1985
+184902|Lonesome Tank|Lonesome Tank|||||||
+185104|Loppan|Loppan|Hopper|,Arcade|||||
+95901A|Lord Over|Lord Over||||||ASCII Corporation|1983
+185476|Lorna|Lorna|Hero|,Action|||Topo Soft|Erbe Software, S.A.|1990
+95906A|Lot Lot|Lot Lot||Strategy,Puzzle-Game,|2||Irem|Technopolis Soft|1985
+176932|lotusf3|lotusf3|||||||
+95910A|Lunar Ball|Lunar Ball||Sports,|2||Compile|Pony Canyon Inc.|1985
+185487|M-Droid|M-Droid|Warroid|,Action|||||
+95914A|M36 - A Life Planet|M36 - A Life Planet||||||Pixel|1987
+95916A|Mac Attack|Mac Attack||,Arcade||||Eaglesoft|1986
+184879|Macadam Bumper|Macadam Bumper||Simulation,|||ERE Informatique|Sony Corporation|1985
+185845|Mach 3|Mach 3|Manes|,Arcade|||Loriciels|Loriciels|1989
+95920A|Machinegun Joe Vs The Mafia|Machinegun Joe vs the Mafia|Machinegune Joe Vs The Mafia|,Arcade||||Hudson Soft|1984
+95921A|Macross|Macross||Shooter,Action,|||Bothtec|Bothtec, Inc.|1985
+185224|Mad Max|Mad Max|||||Gray Matter Inc.|Mindscape, Inc.|1990
+185477|Mad Mix 2 - En el Castillo de los Fantasmas|Mad Mix 2 - En el Castillo de los Fantasmas|||||||
+185478|Mad Mix Game|Mad Mix Game|||||Topo Soft|U.S. Gold Ltd.|1988
+185846|Mad-Fox|Mad-Fox|||||||
+185479|Made in Spain - 5 Estrellas|Made in Spain - 5 Estrellas|||||||
+185480|Magic Johnson's Basketball|Magic Johnson's Basketball|||||||
+185481|Magic Pinball|Magic Pinball|||||||
+95932A|Magical Kid Wiz|Magical Kid Wiz||Adventure,|1||Seibu Kaihatsu|Sony|1986
+185704|Magical Stones|Magical Stones|||||||
+185705|Magical Stones 8k|Magical Stones 8k|||||||
+95935A|Magical Tree|Magical Tree||Action,Action / Climbing,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1984
+95936A|Magnum Prohibition 1931|Magnum Prohibition 1931||,Gun shooter||||Toshiba-EMI|1988
+184883|Mahjong|Mahjong|Final Mahjong|Puzzle-Game,||||dtp young entertainment GmbH & Co. KG|
+185240|Major 1. Maliop Nuctorejog|Major 1. Maliop Nuctorejog|||||||
+185052|Major 2. Nuctoretog Ha Bagom|Major 2. Nuctoretog Ha Bagom|||||||
+177062|Malaika|Malaika|Galaga|,Shooter|||||
+177016|Malaya no Hibou|Malaya no Hibou|||||||
+185847|Maldicao da Vila Sinistra, A|Maldicao da Vila Sinistra, A|||||||
+185482|Mambo|Mambo|Aramo|,Adventure|||Positive|Positive|1989
+184993|Mandragore|Mandragore|||||Infogrames Multimedia SA|Infogrames Multimedia SA|1986
+95955A|Manes|Manes|Craze|Action,Arcade|1||ZAP Corporation|ASCII Corporation|1984
+176933|Manic Miner|Manic Miner||||||Software Projects Ltd.|1985
+185706|Manicomio|Manicomio|||||||
+185707|Mansion, The|Mansion, The|||||||
+185196|Manus|Manus|Jagur|,Shooter|||||
+95960A|Mappy|Mappy||Action,Arcade|1||Namco Limited|Bug-Byte Software Ltd.|1984
+184961|Marble Choco Let|Marble Choco Let|||||||
+95963A|Marchen Veil I|Marchen Veil I||,Adventure||||System Sacom|1986
+185848|Marie Celeste|Marie Celeste|||||||
+95967A|Marine Battle|Marine Battle|||1||ASCII Corporation|ASCII Corporation|1983
+185285|Mars|Mars|Fairy|Adventure,||||Aardvark-80|1982
+95969A|Mars 2|Mars II||||||Nagi-P Soft|1990
+185708|Mars Lander|Mars Lander|||||||
+176934|Martianoids|Martianoids|||||A.C.G.|A.C.G.|1987
+95973A|Mashou No Tachi Goblin|Mashou no Tachi Goblin|||1||Pony Canyon|Pony Canyon|1987
+109053|Mashou No Yakata Gabalin|Mashou No Yakata Gabalin||,Shooter||||Pony Canyon|1987
+185294|Mask II|Mask II|Mars II|,Shooter|||||
+185483|Mask III - Venom Strikes Back|Mask III - Venom Strikes Back|||||||
+95979A|Master Chess|Master Chess||Strategy,|||Mastertronic|Mastertronic Ltd.|1985
+185077|Master of the Lamps|Master of the Lamps|||||||
+185145|Masters of the Universe - The Movie|Masters of the Universe - The Movie|||||||
+185849|Matagal|Matagal|Banana|,Arcade|||||
+185484|Matamarcianos. Batalla Espacial|Matamarcianos. Batalla Espacial|||||||
+185123|Match Day II|Match Day II|||||Ocean Software Ltd.|Erbe Software, S.A.|1987
+185850|Mateo|Mateo|Anty|,Arcade|||||
+185283|Maxima|Maxima|Manes|,Arcade|||||
+176981|Mayhem|Mayhem|Manes|,Shooter|||Revival Studios|Revival Studios|
+185101|Maze Chase|Maze Chase|||||||
+185485|Maze Master|Maze Master|Game Master|,Software||||Human Engineered Software|1983
+185279|Maze Max|Maze Max||||||Loriciels|1985
+177063|Maze Of Galious Fr|Maze Of Galious Fr|||||||
+185851|Maze of the Black Spider, The|Maze of the Black Spider, The|||||||
+185486|Mazes Unlimited|Mazes Unlimited|||||The Bytebusters|Eaglesoft|1986
+184971|Maziacs|Maziacs|||||dk'tronics|dk'tronics|1985
+185488|Mean Streets|Mean Streets||Adventure,|||Access Software, Inc.|Access Software, Inc.|1989
+185852|Meaning of Life|Meaning of Life|||||||
+176935|mecha8|mecha8|Becky|,Arcade|||||
+185489|Mecom|Mecom|Becky|,Arcade|||||
+185490|Mega Chess|Mega Chess|||||||
+185219|Mega Desolators|Mega Desolators|||||||
+96006A|Megalopolis Sos|Megalopolis SOS||,Shooter||||Compile|1983
+109054|Megamitensho|Megamitensho||||||Telenet Japan|1987
+185491|Meganova|Meganova|||||Dinamic Software|Dinamic Software|1988
+185492|Megaphoenix|Megaphoenix|||||||
+185493|Memory - C.04|Memory - C.04|||||||
+176936|menace|menace|Zenji|,Puzzle|||DMA Design Limited|Psygnosis Limited|1988
+185853|Menphis|Menphis|Zenji|,Puzzle|||||
+185059|Meteoros. Meteors. Meteor Storm|Meteoros. Meteors. Meteor Storm|||||||
+185494|Metropolis|Metropolis||Adventure,|||Arcadia Systems, Inc.|Mastertronic Ltd.|1987
+184996|Meurtres sur l'Atlantique. Murder on the Atlantic|Meurtres sur l'Atlantique. Murder on the Atlantic|||||||
+185495|Michel Futbol Master|Michel Futbol Master|||||||
+185271|Micro Man Id-Man|Micro Man Id-Man|||||||
+96030A|Midi Macro|MIDI Macro|||||||
+96031A|Midnight Brothers|Midnight Brothers||,Action||||Sony|1986
+96032A|Midnight Building|Midnight Building||Action,Arcade|1||Way Limit|ASCII Corporation|1983
+96033A|Midway|Midway||,Flight simulator||||Magic Software|1983
+185496|Mike Gunner|Mike Gunner|||||Dinamic Software|Dinamic Software|1988
+96038A|Mil Caras|Mil Caras||,Other||||Idealogic|1985
+185156|Milk Race|Milk Race||Simulation,|||Icon Design Ltd.|Mastertronic Ltd.|1987
+185854|Mina, A|Mina, A|||||||
+185234|Minder|Minder|Glider|,Flight simulator|||Apocalyptic Coders|Apocalyptic Coders|
+185497|Miner Machine|Miner Machine|||||||
+96045A|Mini Golf|Mini Golf||,Golf|||James Ralph Pty. Ltd.|Spectravideo International Ltd.|1984
+185498|Mini-Golf|Mini-Golf|Mini Golf|,Golf|||James Ralph Pty. Ltd.|Spectravideo International Ltd.|1984
+95497A|Miracle Warriors - Seal of the Dark Lord|Miracle Warriors: Seal of the Dark Lord||Action,|||Kogado Studio, Inc.|Kogado Studio, Inc.|1987
+185142|Miraculus|Miraculus|||||||
+96052A|Mirai - Future|Mirai - Future||,Shooter||||Xain|1987
+185855|Mision de Combate|Mision de Combate|||||||
+185856|Missile Command|Missile Command|||||Meyer Glass Interactive Ltd.|Hasbro Interactive, Inc.|1999
+185857|Mister Jaws|Mister Jaws|||||||
+185499|Misterio del Nilo, El|Misterio del Nilo, El|||||||
+96999A|Mitsumega Toohru - Three-Eyed One Comes Here, The|The Three-Eyed One Comes Here||||||Natsume|1989
+184888|MJ-05|MJ-05|||||||
+185091|Mj-O5|Mj-O5|||||||
+96065A|Moai No Hibou|Moai no Hibou||Puzzle-Game,|1||Casio|Casio|1986
+96070A|Mobile Planet Suthirus - Approach From The Westgate|Mobile Planet Suthirus - Approach from the Westgat||,Action||||HAL Laboratory|1986
+96073A|Mobile-suit Gundam - Last Shooting|Mobile-Suit Gundam - Last Shooting||||||Bandai|1984
+96074A|Mokarimakka|Mokarimakka||,Arcade||||Leben Pro|1986
+96076A|Mole|Mole|Mole Mole 2|,Puzzle||||ASCII Corporation|1983
+176982|mole mole|mole mole|Mole Mole 2|Puzzle-Game,||||Cross Media Soft|1985
+96078A|Mole Mole 2|Mole Mole 2||Action,Puzzle-Game,|1||Cross Media Soft|Cross Media Soft|1987
+185128|Molecule Man|Molecule Man||Adventure,||||Mastertronic Ltd.|1986
+177018|Mon Mon Monstar|Mon Mon Monstar|||||||
+96080A|Monkey Academy|Monkey Academy||Educational,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1983
+185858|Monks|Monks|Janka|,Puzzle|||||
+185085|Monopoly|Monopoly|||||Westwood Studios, Inc.|Hasbro Interactive Ltd.|1995
+177060|monster hunter|monster hunter|||||Capcom Production Studio 1|Capcom Entertainment, Inc.|
+96086A|Monster's Fair|Monster's Fair||,Action||||Toho|1984
+177051|MontanaJones|MontanaJones|||||||
+176937|MONTY|MONTY|||||||
+96087A|Moon Landing|Moon Landing||Simulation,||||ASCII Corporation|1976
+96088A|Moon Patrol|Moon Patrol|Dawn Patrol|Action,Shooter|2||Irem Corp.|Irem Corp.|1984
+185226|Moon Race|Moon Race|||||||
+185500|Moon Rider|Moon Rider|||||||
+185258|Moonbase|Moonbase||Simulation,|||Wesson International|KDT Industries Inc.|1990
+96093A|Moonsweeper|Moonsweeper||Action,Shooter|||Imagic|Toshiba-EMI Ltd.|1985
+185229|Moonwalker|Moonwalker|||||Emerald Software Ltd.|U.S. Gold Ltd.|1989
+176938|mopirang|mopirang|Mopiranger|,Arcade|||||
+96096A|Mopiranger|Mopiranger||Action,Action / Labyrinth,|1||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1985
+96097A|Morita Kazuo No Othello|Morita Kazuo no Othello||||||Toshiba-EMI|1986
+176939|Mortadelo y Filemon|Mortadelo y Filemon|||||||
+176940|Mortadelo y Filemon II - Safari Callejero|Mortadelo y Filemon II - Safari Callejero|||||||
+185501|Most Amazing Memory Game, The|Most Amazing Memory Game, The|||||||
+185502|Mot|Mot|Anty|,Moto racing|||Opera Soft S.A.|Opera Soft S.A.|1989
+185025|Motorbike Madness|Motorbike Madness|||||Binary Design, Ltd.|M.A.D.|1988
+185503|Mountain Bike Racer|Mountain Bike Racer|||||Zeppelin Games Limited|Zeppelin Games Limited|1990
+185859|Mouse Jump|Mouse Jump|||||||
+96110A|Mouser|Mouser||Action,Arcade|2||Gebelli Software, Inc.|IBM|1983
+186551|Mr Do|Mr Do|Aramo|,Adventure|||Universal Co., Ltd.|Colpax|1984
+186552|Mr Do's Wild Ride|Mr Do's Wild Ride|Mr. Do's Wild Ride|,Arcade||||Nippon Columbia - Colpax - Uni|1985
+177061|mr balloon|mr balloon|||||||
+185710|Mr. Chef & the Sausages|Mr. Chef & the Sausages|||||||
+96114A|Mr. Chin|Mr. Chin||,Arcade|1||HAL Laboratory|HAL Laboratory|1984
+109058|Mr. Do Vs. Unicorns|Mr. Do Vs. Unicorns|Mr. Do Vs Unicorns|Action,Arcade|2||Universal|Sony|1984
+185711|Mr. Do!|Mr. Do!|Mr. Do|,Arcade|||||
+184947|Mr. Do's Wildride|Mr. Do's Wildride|Mr. Do's Wild Ride|,Arcade|||||
+185193|Mr. Wong's Loopy Laundry|Mr. Wong's Loopy Laundry|||||Artic Computing Ltd||1984
+176941|mrchin|mrchin|||||||
+176942|ms16k|ms16k|||||||
+96125A|Msx 21|MSX 21||||||ASCII|1983
+96127A|Msx Audio|MSX Audio|||||||
+96128A|Msx Baseball|MSX Baseball|MSX Baseball II National|Sports,|2||Matsushita Electric Industrial Co., Ltd.|Matsushita Electric Industrial Co., Ltd.|1984
+96132A|Msx Baseball 2 National|MSX Baseball II National||||||Panasoft|1986
+96134A|Msx Basic-kun|MSX Basic-kun|||||||
+96135A|Msx Basic-kun Plus|MSX Basic-kun Plus|||||||
+96136A|Bunsetsu Henkan Jisho Unit|MSX Bunsetsu Henkan Jisyo||||||National|1985
+185166|MSX Chess Turbo Chess|MSX Chess Turbo Chess|||||||
+184890|MSX Daikoshin. Rompe MSX|MSX Daikoshin. Rompe MSX|||||||
+96141A|Msx Derby|MSX Derby||||||ASCII Corporation|1983
+185860|MSX Pac-4. Cocos|MSX Pac-4. Cocos|||||||
+184921|MSX Panic|MSX Panic|Pai Panic|,Puzzle|||||
+96149A|Msx Rugby|MSX Rugby||Sports,|2||Panasoft|Matsushita Electric Industrial Co., Ltd.|1985
+109059|Msx Shogi Game|Msx Shogi Game|MSX Shougi Game|,Puzzle||||Sony|1985
+96152A|Msx Soccer|MSX Soccer||Sports,|2||Panasoft|Matsushita Electric Industrial Co., Ltd.|1985
+96163A|Msx-aid|MSX-Aid|||||ASCII Corporation|ASCII Corporation|
+96167A|Msx-logo|MSX-Logo||,Arcade|||||
+176943|msxsocce|msxsocce|||||||
+176968|mtanks|mtanks|Janka|,Puzzle|||||
+176969|mumonty|mumonty|||||||
+185861|Munchy|Munchy|Manes|,Arcade|||||
+185504|Mundial de Futbol|Mundial de Futbol|||||||
+185862|Mundo Perdido da 3a Dimensao, O|Mundo Perdido da 3a Dimensao, O|||||||
+185505|Mundo Perdido, El|Mundo Perdido, El|||||||
+185021|Munsters, The|The Munsters|||||||
+96180A|Music Editor|Music Editor||,Compilation|||||
+96181A|Music Harmonizer 3|Music Harmonizer 3|||||||
+96182A|Music Studio G7|Music Studio G7||,Software|||||
+96183A|Musiwriter|Musiwriter||,Software|||||
+185506|Mutan Zone|Mutan Zone|||||Opera Soft S.A.|Opera Soft S.A.|1988
+184988|Mutant Monty|Mutant Monty||||||Artic Computing Ltd|1986
+185507|Mystery House|Mystery House|||||||
+185508|Mystery House II|Mystery House II|||||||
+185509|Mystical|Mystical|Tatica|,Arcade|||Infogrames Europe SA|Infogrames Europe SA|1991
+185510|Mythos|Mythos|||||Comix|Opera Soft S.A.|1990
+185863|Nachtwacht, De|Nachtwacht, De|||||||
+185017|NAM|NAM|Dynamite Bowl|,Action|||TNT Team|Brasoft Produtos de Informática Ltda.|1998
+176970|Namake's Bridgedrome|Namake's Bridgedrome|||||||
+185511|Narco Police|Narco Police|||||Iron Byte|Dinamic Software|1990
+96197A|Nausicaa|Nausicaa||,Arcade||||Tecnopolis Soft|1984
+185512|Navy Moves|Navy Moves|||||Dinamic Software|Dinamic Software|1988
+176921|nayade|nayade|Payload|,Arcade|||||
+185864|Nebula Wars|Nebula Wars|||||||
+96200A|Nemesis|Nemesis|Nemesis 2|Shooter,Shoot'em up / Horizontal,Shoot'em Up,|2||Konami Industry Co. Ltd.|Ultra Software Corporation|1986
+96201A|Nemesis 2|Nemesis 2||Action,Shoot'em up / Horizontal,Shoot'em Up,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1987
+96202A|Nemesis 3 - The Eve Of Destruction|Nemesis 3 - The Eve of Destruction||Shoot'em up / Horizontal,Shoot'em Up,|2||Konami|Konami|1988
+185712|New Bubble Bobble. Boggle Boggle|New Bubble Bobble. Boggle Boggle|||||||
+96211A|New Horizon - English Course 1|New Horizon - English Course 1|||||||
+176857|NGA|NGA|||||||
+176856|NGA 2|NGA 2|||||||
+185276|Nibbles MSX|Nibbles MSX|||||||
+185235|Night Flight|Night Flight|||||Nintendo Co., Ltd.|Wizards of the Coast, Inc.|
+96221A|Night Shade|Night Shade||,Adventure||||Nippon Dexter|1985
+96224A|Nihon-shi Nenpyou|Nihon-Shi Nenpyou|||||||
+109060|Ningyo Densetsu - Fathom|Ningyo Densetsu - Fathom||||||Toshiba-EMI|1985
+96232A|Ninja Jajamaru-kun|Ninja Jajamaru-kun||Action,|2||Jaleco Ltd.|Jaleco Ltd.|1986
+96237A|Ninja Princess|Ninja Princess||,Action|||SEGA Enterprises Ltd.|Ponyca|1986
+96239A|Ninja-kun - Magic Castle Adventure|Ninja-kun - Magic Castle Adventure||||||Nippon Dexter|1985
+96238A|Ninjakun|Ninjakun|Ninjakun Majou|,Action||||Micro Cabin|1983
+96241A|Ninjya Kage|Ninjya Kage|Ninja Kage|Action|1|||Hudson Soft|1984
+176922|NLKMSX006EN_PRETTYKINGDOM|NLKMSX006EN_PRETTYKINGDOM|||||||
+185865|No Fuss|No Fuss|||||||
+185713|Nobunaga no Yabou - Zenkoku Han|Nobunaga no Yabou - Zenkoku Han|Nobunaga No Yabou - Zenkokuhan|,Strategy|||||
+185514|Nonamed|Nonamed|||||Dinamic Software|Dinamic Software|1986
+185714|Norseman|Norseman|||||GST Video|Electric Software Limited|1984
+185515|North & South|North & South|||||||
+185516|North Sea Bullion Adventure|North Sea Bullion Adventure|||||||
+185517|North Sea Helicopter|North Sea Helicopter|||||||
+185866|Northsea|Northsea|||||||
+185022|Noughts & Crosses|Noughts & Crosses|||||||
+185518|Nuclear Bowls|Nuclear Bowls|||||Diabolic Software|Zigurat Software S.L.|1986
+185867|Nuts & Milk|Nuts & Milk|||||Hudson Soft Company, Ltd.|Hudson Soft Ltd.|1984
+96260A|Nyan Nyan Pro Wrestling|Nyan Nyan Pro Wrestling||,Wrestling||||Victor|1986
+96263A|Nyorols|Nyorols||,Arcade||||MIA|1983
+96279A|O'mac Farmer|O'mac Farmer||,Arcade||||ASCII|1984
+185519|Oberon 69|Oberon 69|||||Diabolic Soft|G.LL. Software S.A.|1990
+185520|Obliterator|Obliterator|||||Psygnosis Limited|Animagic S.A.|1989
+185163|Ocean Conqueror|Ocean Conqueror||Simulation,||||Rack-It|1987
+185182|Octagon Squad|Octagon Squad||Puzzle-Game,||||Mastertronic Ltd.|1986
+185868|Ogro, O - A Mansao dos Ogros Monstros|Ogro, O - A Mansao dos Ogros Monstros|||||||
+185027|Oh Mummy!!|Oh Mummy!!|||||||
+185521|Oh Shit!|Oh Shit!|||||||
+96276A|Oil's Well|Oil's Well||Action / Labyrinth,Action,|1||Banana Development, Inc.|Sierra On-Line, Inc.|1985
+96277A|Okami No Su|Okami no Su||,Adventure||||Pony Canyon|1986
+185043|Ole!|Ole!|||||||
+184915|Operation Havoc|Operation Havoc|||||||
+185254|Operation Wolf|Operation Wolf|||||Taito Corporation|Ocean Software Ltd.|1988
+185522|Ormuz|Ormuz|Aramo|,Adventure|||||
+96287A|Othello|Othello|Computer Othello|,Puzzle|||HAL Laboratory, Inc.|Kawada Co., Ltd.|1985
+185869|Othello Competicao|Othello Competicao|||||||
+185523|Out Run|Out Run|||||SEGA Enterprises Ltd.|Pony Canyon, Inc.|1988
+184866|Outland|Outland|Actman|Puzzle-Game,|||Housemarque Ltd.|Ubisoft Entertainment SA|
+184905|Outroyd|Outroyd|Futbol|,Soccer|||||
+177020|Outrun|Outrun|||||SEGA Enterprises Ltd.|Pony Canyon, Inc.|1988
+96294A|Oyoide Tango|Oyoide Tango||,Arcade||||Hal|
+184989|Pac-Land|Pac-Land|Pac-Man|,Arcade|||Namco Limited|Grandslam Entertainments Ltd.|1989
+96302A|Pac-man|Pac-Man|Actman|Action,Arcade|2||Namco Limited|Bug-Byte Software Ltd.|1984
+185524|Pac-Mania|Pac-Mania|Pac-Man|,Arcade|||Namco Limited|Grandslam Entertainments Ltd.|1988
+184985|Pac-Maniac|Pac-Maniac|Pac-Man|,Arcade|||||
+96296A|Pachi Com|Pachi Com||,Slot machine||||Toshiba-EMI|1985
+184893|Pacman 84|Pacman 84|||||||
+96307A|Pai Panic|Pai Panic||,Puzzle||||ASCII Corporation|1983
+185716|Pair Logic|Pair Logic|||||||
+96309A|Pairs|Pairs|Fairy|Strategy,Puzzle-Game,|2||ASCII Corporation|ASCII Corporation|1983
+185525|Panel Panic|Panel Panic|Bank Panic|,Gun shooter|||The Bytebusters|Eaglesoft|1986
+185870|PanelPan|PanelPan|||||||
+185056|Panic Junction|Panic Junction|||||||
+185871|Panico en el Bel-Air|Panico en el Bel-Air|||||||
+185526|Panique|Panique|Pairs|,Puzzle|||The Bytebusters|Eaglesoft|1986
+96320A|Panther|Panther||Action,Shooter|1||Irem Corp.|Irem Corp.|1986
+185062|Panzer Attack|Panzer Attack|||||M.C. Lothlorien Ltd|M.C. Lothlorien Ltd|1985
+185717|Parachuteless Joe|Parachuteless Joe|||||||
+185527|Paris-Dakar|Paris-Dakar|||||Made in Spain|Zigurat Software S.L.|1988
+96325A|Parodius|Parodius||Action,Shoot'em up / Horizontal,Shoot'em Up,|2||Konami|Konami|1988
+185300|Parodius - Tako Saves Earth|Parodius - Tako Saves Earth|||||||
+96327A|Pasokon Sakkyokuka|Pasokon Sakkyokuka|||||Rittor Music - MCS||1983
+96328A|Pass Ball|Pass Ball||,Baseball||||ASCII Corporation|1983
+185046|Passing Shot|Passing Shot|||||SEGA Enterprises Ltd.|Image Works|1989
+185173|Pasteman Pat - Billboard|Pasteman Pat - Billboard||||||Silverbird Software Ltd.|1989
+96332A|Pastfinder|Pastfinder||Action,Shoot'em up / Vertical,Shoot'em Up,|1||Activision, Inc.|Activision (UK) Limited|1984
+184986|Patience|Patience||Puzzle-Game,|||J.S.C. Gamos|J.S.C. Gamos|1998
+96336A|Pay Load|Pay Load||,Arcade||||Sony|1985
+96340A|Peetan|Peetan||,Puzzle|1||Colpax|Nippon Columbia - Colpax - Universal|1984
+96341A|Pegasus|Pegasus||,Action|||Optimus Software Ltd|Gremlin Graphics Software Limited|1988
+185872|Pelota Vasca|Pelota Vasca|||||||
+176924|PENGMIND|PENGMIND|||||||
+185873|Penguin|Penguin|Doki Doki Penguin Land|,Action|||||
+96345A|Penguin Adventure|Penguin Adventure||Action|1||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1986
+177059|penguin cafe|penguin cafe|||||||
+185874|Penguin Crown, The|Penguin Crown, The|||||||
+185718|Penguin Race|Penguin Race|||||||
+96352A|Penguin-kun Wars|Penguin-kun Wars|Penguin Kun Wars|Action,Arcade|1||ASCII Corporation|ASCII Corporation|1985
+176925|penguincafe|penguincafe|||||||
+176926|Pentagram|Pentagram|||||Ultimate - Play the Game|Ultimate - Play the Game|1986
+185528|Perico Delgado Maillot Amarillo|Perico Delgado Maillot Amarillo|||||Topo Soft|Erbe Software, S.A.|1989
+185117|Peter Beardsley's International Football|Peter Beardsley's International Football|||||Teque London Ltd.|Grandslam Entertainments Ltd.|1988
+185418|Phantis - Game Over II|Phantis - Game Over II|||||Dinamic Software|Dinamic Software|1987
+185531|Pharaoh's Revenge|Pharaoh's Revenge|||||Manley & Associates, Inc.|Publishing International|1988
+96370A|Pico Pico|Pico Pico||,Arcade||||Micro Cabin|1983
+96371A|Picture Puzzle|Picture Puzzle||Strategy,Puzzle-Game,|2||HAL Laboratory, Inc.|HAL Laboratory, Inc.|1983
+96373A|Pillbox|Pillbox||,Action||||Magic Software|1983
+96375A|Pinball Blaster|Pinball Blaster||,Pinball||||Eurosoft|1988
+97106A|Pinball Game|Pinball Game||||||T&E Soft|1984
+143249|Pinball Maker|Pinball Maker||,Pinball|||||
+96378A|Pine Applin|Pine Applin|Pine Aplin|Action,Arcade|1||ZAP Corporation|ZAP Corporation|1984
+96380A|Pingball Maker|Pingball Maker||||||Nippon Columbia - Colpax - Universal|1985
+176910|pingpong|pingpong|||||||
+185140|Pinguino|Pinguino|||||||
+185532|Pink Panther|Pink Panther|||||Magic Bytes|Dro Soft|1988
+96384A|Pinky Chase|Pinky Chase||,Arcade||||Nippon Columbia - Colpax - Universal|1984
+185875|Pipeline|Pipeline|Pipi|Puzzle-Game,|||||1992
+96386A|Pipi|Pipi||,Arcade|||UPL|Nippon Dexter|1985
+96387A|Pippols|Pippols||Platform,|1||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1985
+185876|Piso Zero|Piso Zero|||||Zigurat Software S.L.|Zigurat Software S.L.|1991
+96392A|Pitfall 2 - Lost Caverns|Pitfall II - Lost Caverns|||1||Activision|Activision|1985
+96394A|Pitfall!|Pitfall!||Action,Platform|1||Activision|Activision|1983
+184950|Pitman 2|Pitman 2|||||||
+176911|pjoe|pjoe|Hero|,Action|||||
+185252|Planet Earth|Planet Earth|||||||
+185877|Platoon|Platoon|||||Ocean Software Ltd.|Data East Corporation|1987
+96402A|Play Ball|Play Ball||,Baseball||||Sony|1986
+176855|Playball|Playball|Play Ball|,Baseball|||||
+185534|Playhouse Strippoker|Playhouse Strippoker|||||Playhouse|Eurosoft|1988
+176912|Poder Oscuro, El|Poder Oscuro, El|||||||
+185220|Pointless Drive|Pointless Drive|||||||
+96412A|Poiny X Senryosakusen - Operation Thanksgiving|Poiny X Senryosakusen - Operation Thanksgiving||||||Victor|1986
+185082|Poker2|Poker2|||||||
+184882|Polar Star|Polar Star|||||||
+185878|Polaris|Polaris|||||Taito Corporation|Taito Corporation|
+185535|Poli Diaz|Poli Diaz|||||||
+185536|Police Academy|Police Academy|||||||
+185537|Police Academy II|Police Academy II|||||||
+185879|Pongo|Pongo|Cosmo|,Shooter|||Drixy Games|Black Shell Media|
+185538|Poogaboo|Poogaboo|Pooyan|,Arcade|||||
+96427A|Pooyan|Pooyan||Action,Arcade|2||Konami Industry Co. Ltd.|Hudson Soft Company, Ltd.|1985
+185264|Popcummi|Popcummi|||||||
+96429A|Poppaq The Fish|Poppaq the Fish||,Arcade|1||Mass Tael|ASCII|1986
+185880|Popular Cyclops|Popular Cyclops|||||||
+185539|Post Mortem|Post Mortem||Adventure,|||Microïds|DreamCatcher Interactive Inc.|
+185540|Power and Magic|Power and Magic|||||||
+185198|Power Drift|Power Drift|||||SEGA Enterprises Ltd.|Activision (UK) Limited|1989
+97007A|Price Of Magik, The|Price of Magik, The||,Adventure|||||
+176913|princess_quest_msx|princess_quest_msx|||||||
+185881|Profesion Detective|Profesion Detective|||||||
+96441A|Professional Baseball|Professional Baseball||,Baseball||||Tecnopolis Soft|1986
+185541|Professional Baseball Super Simulation|Professional Baseball Super Simulation|||||||
+96443A|Professional Mahjong|Professional Mahjong||,Mahjong||||Chatnoir|1986
+185719|Professional Mahjong v2.2|Professional Mahjong v2.2|||||||
+185543|Professional Tennis Simulator|Professional Tennis Simulator|||||Alucine Soft|Dinamic Software|1990
+185882|Proffesional Tennis Simulator|Proffesional Tennis Simulator|||||||
+185883|Profissao Perigo|Profissao Perigo|||||||
+184863|Project A|Project A|||||||
+97009A|Protector, The|Protector, The||||||Pony Canyon|1985
+96454A|Psychedelia|Psychedelia||||||Aackosoft|
+96456A|Psychic War - Cosmic Soldier 2|Psychic War - Cosmic Soldier 2||||||Kogado|1987
+185270|Psycho Pig U.X.B.|Psycho Pig U.X.B.|||||||
+185288|Punchy|Punchy||||||Mr. Micro Ltd.|1984
+96466A|Puzzle Panic|Puzzle Panic||,Arcade||||Pony Canyon Inc.|1986
+185121|Pyramid Quest|Pyramid Quest|||||||
+96469A|Pyramid Warp|Pyramid Warp||,Arcade||||T&E Soft|1983
+184917|Pyro-Man|Pyro-Man|Pac-Man|,Arcade|||||
+96472A|Q-bert|Q-bert||Action,|||Konami|Konami|1986
+184994|Quasar|Quasar|Sasa|,Shooter|||Decroix - Garofalo|Loriciels|
+185544|Quebert|Quebert|||||||
+184884|Queen's Golf Joy Pack|Queen's Golf Joy Pack|||||||
+96476A|Queen's Golf Joy Pack|Queen´s Golf Joy Pack||Sports,Simulation,|2||Marionette Co., Ltd.|ASCII Corporation|1984
+185141|Quickie|Quickie|Flicky|,Arcade|||||
+96567A|R-type|R-Type||Action,Shooter|1||Irem Corp.|Irem Corp.|1988
+185720|R-Type v2|R-Type v2|||||||
+185545|R.A.M.|R.A.M.|A.E.|Simulation,|||The Avalon Hill Game Company|The Avalon Hill Game Company|1985
+185546|Race City|Race City||Race, Driving,|1||Iber Soft|Conosis|1983
+185188|Race in the Wilds|Race in the Wilds|||||||
+185884|Radar|Radar|Bandai|,Shooter|||||
+96489A|Raid On Bungeling Bay|Raid on Bungeling Bay||Action,Shooter|2||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1985
+184861|Railway|Railway|||||||
+96492A|Rally-x|Rally-X||Race, Driving,|1||Namco Limited|Namco Limited|1984
+96494A|Rambo|Rambo||,Action|1||CCS|Pack-In-Video Co., Ltd|1985
+185069|Rambo - First Blood Part II|Rambo - First Blood Part II|||||||
+185277|Rambo III|Rambo III|Rambo|,Action|||Ocean Software Ltd.|Ocean Software Ltd.|1988
+185547|Rampart, The|Rampart, The|||||||
+184962|Rasterscan|Rasterscan||Puzzle-Game,|||Binary Design, Ltd.|Mastertronic Ltd.|1987
+185548|Rath-Tha|Rath-Tha|||||Positive|Positive|1989
+96506A|Real Tennis|Real Tennis||Sports / Tennis,Simulation,Sports,|||TAKARA Co., Ltd.|TAKARA Co., Ltd.|1983
+185549|Red Dawn|Red Dawn|||||||
+96510A|Red Zone|Red Zone||,Shooter|||Psygnosis Limited|Psygnosis Limited|1985
+185184|Reflex|Reflex||||||Players Software|1987
+185132|Regate - La Coupe de L'America|Regate - La Coupe de L'America|||||||
+185550|Relics|Relics||,Action|||||
+185551|Renegade III - The Final Chapter|Renegade III - The Final Chapter|||||||
+96517A|Renju And Ojama Dogs|Renju & Ojama Dogs||||||Pony Canyon Inc.|1985
+185552|Rescate Atlantida|Rescate Atlantida|||||||
+185553|Rescate en el Golfo|Rescate en el Golfo|||||True Soft|Opera Soft S.A.|1990
+185261|Retour du Jedi, Le|Retour du Jedi, Le|||||||
+184975|Reversi Challenger|Reversi Challenger|||||||
+185885|Rex Hard|Rex Hard|||||||
+96530A|Rise Out From Dungeons|Rise Out from Dungeons||,Arcade|||ASCII Corporation|ASCII Corporation|1983
+185554|Risky Holding|Risky Holding|||||||
+96533A|River Raid|River Raid||Action,Shoot'em up / Vertical,Shoot'em Up,|2||Activision, Inc.|Activision (UK) Limited|1984
+176914|riyadh|riyadh|Erika|,Adventure|||||
+176915|rk708en|rk708en|||||||
+176916|rlv903_british_bob|rlv903_british_bob|||||||
+176917|RLV914_MALAIKA|RLV914_MALAIKA|||||||
+176918|RLV917_MR_CRACKSMAN|RLV917_MR_CRACKSMAN|||||||
+176919|RLV921_Ninja_Savior|RLV921_Ninja_Savior|||||||
+96536A|Road Fighter|Road Fighter|Car Fighter|Race, Driving,|1||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1985
+185147|Road Wars|Road Wars|||||Phenom Productions|Warcry Corp|2001
+96538A|Robo Wres 2001|Robo Wres 2001||Sports,|2||SEGA Enterprises Ltd.|Micronet Co. Ltd.|1987
+184981|Robocop|Robocop|Robofrog|,Arcade|||Data East Corporation|Data East USA, Inc.|1988
+96540A|Robofrog|Robofrog||,Arcade||||Mass Tael|1985
+185555|Robot Wars|Robot Wars|||||Eaglesoft|Aackosoft International B.V.|1986
+185556|Roboy|Roboy|Cosmo|,Shooter|||||
+185557|Rock 'n Roller|Rock 'n Roller|||||||
+96551A|Rock'n Bolt|Rock'n Bolt||,Puzzle|1||Action Graphics|Pony Canyon|1985
+176920|Rock'nRoller|Rock'nRoller|||||||
+185275|Rocket Roger|Rocket Roger||||||Alligata Software Ltd.|1986
+185129|Rocks & Snakes|Rocks & Snakes|||||||
+185558|Rocky|Rocky|Becky|,Arcade|||Rage Games Ltd.|Ubi Soft Entertainment Software|
+96556A|Roger Rubbish|Roger Rubbish||||||Spectravideo|1985
+185886|Roller|Roller|Hopper|,Pinball|||||
+96558A|Roller Ball|Roller Ball|Color Ball|Puzzle-Game,|1|||HAL Laboratory|1984
+185559|Roma - La Conquista del Imperio|Roma - La Conquista del Imperio|||||||
+96565A|Rotors|Rotors||||||ASCII Corporation|1984
+184999|Rough Road|Rough Road|||||||
+185032|Runner|Runner|Blockade Runner|,Shooter||||Firebird Software|1985
+185560|Running Man, The|Running Man, The|||||||
+185561|Sabotaje|Sabotaje|||||||
+185562|Sabrina|Sabrina|||||Iber Soft|MCM Software|1987
+184886|Safari X|Safari X|||||||
+185563|Saint Dragon|Saint Dragon|||||NMK Co. Ltd.|Storm|1990
+185887|Sajedrez|Sajedrez|||||||
+96584A|Salamander|Salamander||Shooter,Shoot'em up / Horizontal,Shoot'em Up,|2||Konami|Konami|1987
+177064|salamander plus|salamander plus|||||||
+185066|Salvage|Salvage|Galaga|Adventure,||||LiveWire Software UK|1986
+185218|Samantha Fox Strip Poker|Samantha Fox Strip Poker|||||Software Communications Ltd.|Martech Games Ltd.|1986
+184995|Sand Game|Sand Game|||||||
+185721|Sangokushi. Romance of Three Kingdoms|Sangokushi. Romance of Three Kingdoms|Sangokushi - Romance of Three Kingdoms|,Strategy|||||
+96592A|Sasa|Sasa|Hisya|,Shooter|||Mass Tael Co., Ltd.|ASCII Corporation|1983
+185564|Satan|Satan|Actman|,Arcade|||Dinamic Software|Dinamic Software|1989
+96594A|Saurus Land|Saurusland||,Action||||Nippon Columbia - Colpax - Universal|1982
+96598A|Scarlet 7 - The Mightiest Women|Scarlet 7 - The Mightiest Women||||||Toshiba-EMI|1986
+185565|Scentipede|Scentipede|||||Aackosoft International B.V.|Eaglesoft|1985
+184927|Schach fuer MSX-Computer v1.0 MSX|Schach fuer MSX-Computer v1.0 MSX|||||||
+185889|Schuif Puzzle|Schuif Puzzle|||||||
+185890|Schuiff|Schuiff|||||||
+185566|Science Fiction|Science Fiction|||||||
+96607A|Scion|Scion||Action,Shooter|1||Seibu Denshi|Sony Corporation|1985
+96610A|Scope On - Fight In Space|Scope On - Fight in Space||||||ASCII|1983
+185567|Score 3020|Score 3020|||||Topo Soft|Topo Soft|1988
+96613A|Scramble Eggs|Scramble Eggs||Action,Shooter|1||Ample Software|Ample Software|1983
+185568|Scramble Spirits|Scramble Spirits|||||SEGA Enterprises Ltd.|Grandslam Entertainments Ltd.|1990
+185891|Sea Battle|Sea Battle|||||APh Technological Consulting|Mattel Electronics|1980
+96619A|Sea Hunter|Sea Hunter||,Shooter||||Spectravideo|1985
+184913|Sea King|Sea King||||||Players Software|1986
+185892|Search and Rescue|Search and Rescue||Simulation,|||Interactivision A/S|Intense Entertainment Interactive, LLC|1997
+184944|Secret Diary of Adrian Mole, The|Secret Diary of Adrian Mole, The|||||||
+185569|Secreto de la piramide, El|Secreto de la piramide, El|||||||
+176985|Seleniak|Seleniak|||||||
+185722|Seleniak vM1|Seleniak vM1|||||||
+185570|Senda Salvaje|Senda Salvaje|||||||
+96631A|Senjyo|Senjyo||Simulation,Action,|2||Tehkan Ltd.|Sony|1984
+185893|Serra Pelada|Serra Pelada||Adventure,|||||1987
+96642A|Sewer Sam|Sewer Sam||Action|2||Interphase Technologies Inc.|Toshiba-EMI Ltd.|1984
+185072|Shark Hunter|Shark Hunter|Sea Hunter|,Shooter|||Electric Software Limited|Electric Software Limited|1984
+184891|Shindobaddo Nanatsu no Bouken. The Seven Adventures of Sindbad|Shindobaddo Nanatsu no Bouken. The Seven Adventures of Sindbad|||||||
+185571|Shinobi|Shinobi|Scion|,Shooter|||Team Shinobi|Virgin Mastertronic Ltd.|1989
+185572|Ship|Ship|Battleship Clapton II|,Shooter|||Outerlight Ltd.|Merscom LLC|
+185894|Ship Wars|Ship Wars|||||||
+176908|shmup!|shmup!|Jump|,Arcade|||||
+185124|Shnax|Shnax|Janka|,Puzzle|||Jon Sawyer|Jon Sawyer|1985
+176904|shoganai|shoganai|||||||
+185895|Shop Boy|Shop Boy|||||||
+96661A|Shougi|Shougi|Gunjin Shougi Mars|,Puzzle||||Pony Canyon|1985
+96662A|Shougi 2|Shougi 2||||||Micro Cabin|1985
+96663A|Shougi Meijin|Shougi Meijin||,Puzzle||||Toshiba EMI|1985
+96664A|Shougi Sinan 1|Shougi Sinan 1||,Puzzle||||Pony Canyon Inc.|1986
+96665A|Shout Match|Shout Match||,Arcade||||Victor|1987
+185573|Shup - Trebol|Shup - Trebol|||||||
+176905|sieco_robocop_|sieco_robocop_|||||||
+176906|sieco_superpenguin_|sieco_superpenguin_|||||||
+185574|Silent Shadow|Silent Shadow|||||Topo Soft|Kixx|1988
+185575|Silfi|Silfi|Pipi|,Arcade|||||
+96673A|Simple Asm 1.0|Simple ASM 1.0||||||Coral|
+185576|Simulador Profesional de Tenis|Simulador Profesional de Tenis|||||||
+96675A|Sinbad|Sinbad||Action|1||Casio|Atlantis Software Limited|1984
+185723|Sink King|Sink King|||||||
+176907|sinkking|sinkking|||||||
+185577|Sir Fred|Sir Fred|||||Made in Spain|Made in Spain|1986
+185578|Sirwood|Sirwood|||||Opera Soft S.A.|Opera Soft S.A.|1990
+185579|Sito Pons 500cc Grand Prix|Sito Pons 500cc Grand Prix|||||Zigurat Software S.L.|Zigurat Software S.L.|1990
+185580|Skate Dragon|Skate Dragon|||||||
+176902|SKATE_AIR_en|SKATE_AIR_en|||||||
+176903|skicomma|skicomma|||||||
+176967|skicommb|skicommb|||||||
+96686A|Skooter|Skooter||,Arcade||||Eaglesoft|1987
+185581|Skramble|Skramble|||||MicroDeal Ltd.|Tom Mix Software|1983
+185582|Skull Exilon|Skull Exilon|||||||
+185583|Sky Diver|Sky Diver|||||||
+96690A|Sky Galdo|Sky Galdo||,Shooter||||Magical Zoo|1986
+96691A|Sky Jaguar|Sky Jaguar||Action,Shoot'em up / Vertical,Shoot'em Up,|1||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1984
+185584|Sky Vision|Sky Vision|||||||
+185585|Sky War|Sky War|||||Mirco Games, Inc.|Mirco, Inc.|1976
+185896|Skyfox|Skyfox|||||Raymond E. Tobey, Inc.|Electronic Arts, Inc.|1984
+185257|Skyhawk|Skyhawk||||||Bug-Byte Software Ltd.|1986
+176952|skyjagua|skyjagua|||||||
+185207|Slalom|Slalom|Aramo|,Adventure|||Rare, Ltd.|Nintendo of America Inc.|
+96700A|Slapshot|Slapshot||Sports,|2||Numix Entertainment Co., Ltd|Nival Online|1985
+185023|Slot Machinex|Slot Machinex|||||||
+185586|Smack Wacker|Smack Wacker|||||The Bytebusters|Eaglesoft|1986
+185587|Smaily|Smaily|Fairy|,Arcade|||||
+185144|Small Jones|Small Jones||||||Visiogame|1985
+185588|Smash|Smash|Sasa|,Shooter|||Magma Mobile|Magma Mobile|
+184880|Smash Out|Smash Out|||||Knights|Mitsubishi Electric|1984
+96711A|Snake It|Snake It||Action,Arcade|1||Eaglesoft|Aackosoft International B.V.|1986
+185167|Snakeman|Snakeman|Snake It|,Arcade|||||
+185269|Snaky|Snaky|Anty|,Arcade|||||
+185724|Snoopy Town|Snoopy Town|||||||
+185725|Snow Climber|Snow Climber|||||||
+185079|Snowman, The|The Snowman||||||Quicksilva Ltd.|1984
+185897|Sobra Um|Sobra Um|||||||
+96721A|Sofia|Sofia||,Action|||YMCAT|Dempa Shimbunsha|1988
+185589|Sol Negro|Sol Negro||Action,|||Opera Soft S.A.|Opera Soft S.A.|1988
+185590|Soldier of Light|Soldier of Light|||||Taito Corporation|Dro Soft|1989
+185591|Solo|Solo|C-So!|,Arcade|||Opera Soft S.A.|Opera Soft S.A.|1989
+185592|Sootland|Sootland|Pooyan|,Arcade|||||
+176953|Sorcery|Sorcery|Hopper|,Arcade||||Virgin Games, Ltd.|1984
+96735A|Soukoban|Soukoban||,Puzzle||||ASCII Corporation|1984
+185107|Soul of a Robot|Soul of a Robot|||||Action Byte|Mastertronic Ltd.|1987
+185096|Souzan|Souzan|Pooyan|,Arcade|||||
+185593|Soviet|Soviet|Sofia|,Action|||Opera Soft S.A.|Opera Soft S.A.|1990
+185215|Spac|Spac|Pipi|,Shooter|||||
+185594|Space Busters|Space Busters||||||The Bytebusters|1985
+96743A|Space Camp|Space Camp||Action,Shooter|2||Pack-In-Video Co., Ltd|Pack-In-Video Co., Ltd|1986
+185726|Space Crussader|Space Crussader|||||||
+96746A|Space Invaders|Space Invaders||Action,Shooter|2||Z-Axis, Ltd.|Activision, Inc.|1985
+96748A|Space Maze Attack|Space Maze Attack||,Shooter||||HAL Laboratory, Inc.|1983
+185595|Space Rescue|Space Rescue|||||Gameday Software LLC|Gameday Software LLC|
+185596|Space Shuttle - A Journey into Space|Space Shuttle - A Journey into Space|||||||
+185597|Space Smugglers|Space Smugglers|||||||
+96753A|Space Trouble|Space Trouble||Action,Shooter|2||HAL Laboratory, Inc.|Panasoft|1984
+96754A|Space Walk|Space Walk||Action,Shooter|1|||Mastertronic Ltd.|1985
+96756A|Sparkie|Sparkie||Action,Arcade|2||Konami Industry Co. Ltd.|Sony Computer Entertainment Japan|1983
+184885|Spartan X|Spartan X|||||||
+184980|Special Operations|Special Operations||Adventure,||||M.C. Lothlorien Ltd|1984
+184931|Speed Black|Speed Black|||||||
+185274|Speed King|Speed King||||||Mastertronic Ltd.|1986
+185898|Speed Turbo|Speed Turbo|||||||
+185598|Speedboat Racer|Speedboat Racer|||||||
+96764A|Spelunker|Spelunker||Action,Arcade|1||Micro Graphic Image|Brøderbund Software, Inc.|1986
+185228|Spiderzoid|Spiderzoid|||||||
+185048|Spirit Power|Spirit Power|||||||
+185599|Spirits|Spirits|Sparkie|,Arcade|||Topo Soft|Topo Soft|1987
+185094|Spitfire '40|Spitfire '40||Simulation,|||Novotrade Software Kft.|Mirrorsoft Ltd.|1986
+185600|Splash|Splash|Flash Splash|,Shooter|||GameHouse, Inc.|GameHouse, Inc.|2005
+176954|Spooks & Ladders|Spooks & Ladders|||||||
+96773A|Spread Sheet|Spread Sheet||,Software|||||
+185899|Sprinter, De|Sprinter, De|||||||
+185018|Sprites Man|Sprites Man|||||||
+185601|Spy Story|Spy Story|||||||
+96778A|Spy Vs Spy 2 - The Island Caper|Spy vs Spy II - The Island Caper||||||Databyte|1987
+185106|Square Battle|Square Battle|||||||
+96781A|Square Dancer|Square Dancer||,Pinball||||Toshiba EMI|1984
+96784A|Squish'em|Squish'em||,Arcade||||ASCII Corporation|1984
+153191|Star Avenger|Star Avenger|||||||
+96787A|Star Blazer|Star Blazer||Action,Shooter|1||StarCraft, Inc.|Sony Corporation|1983
+185603|Star Bowls|Star Bowls|||||||
+96789A|Star Command|Star Command||||||Strategic Simulations, Inc.|1983
+185604|Star Fighter|Star Fighter|Car Fighter|,Racing|||J. Morrison (Micros) Ltd.|J. Morrison (Micros) Ltd.|1984
+96792A|Star Force|Star Force||Action,Shooter|||Tehkan Ltd.|Hudson Soft Company, Ltd.|1985
+185136|Star Laser|Star Laser|Star Blazer|,Shooter|||||
+185164|Star Road|Star Road|Star Trap|,Adventure|||||
+185605|Star Runner|Star Runner|||||||
+96797A|Star Soldier|Star Soldier||Action,Shooter|1||Hudson Soft Company, Ltd.|Hudson Soft Company, Ltd.|1986
+96798A|Star Trap|Star Trap||Adventure,|||Loriciels|Loriciels|1987
+184874|Star Trek - Strategic Operations Simulator|Star Trek - Strategic Operations Simulator|||||||
+185606|Star Wars|Star Wars|Star Trap|,Adventure|||Atari, Inc.|Parker Brothers|1983
+185607|Starbuggy|Starbuggy|||||||
+185608|Starbyte|Starbyte|||||||
+185609|Stardust|Stardust|||||Bloodhouse Ltd.|Bloodhouse Ltd.|1993
+185290|Starquake|Starquake||||||Bubble Bus Software|1986
+96806A|Starship Simulator|Starship Simulator||,Spaceship||||ASCII Corporation|1984
+96808A|Step Up|Step Up||Action,Arcade|2||Marvel Soft|Toshiba-EMI Ltd.|1983
+96809A|Stepper|Stepper||,Arcade|1||Isoco|ASCII Corporation|1985
+176955|stepup|stepup|Step Up|,Arcade|||||
+185139|Steve Davis Snooker|Steve Davis Snooker||Simulation,||||Blue Ribbon Software Ltd.|1988
+97018A|Stone of Wisdom, The|Stone of Wisdom, The||,Adventure||||Casio|1986
+185610|Stop Ball|Stop Ball|||||||
+184876|Stop the Express|Stop the Express|||||||
+185131|Storm - Una's Lair|Storm - Una's Lair|||||||
+185185|Stormbringer|Stormbringer||Adventure,||||M.A.D.|1987
+96816A|Strange Loop|Strange Loop||Adventure,|1||Virgin|Nippon Dexter Co., Ltd.|1987
+185727|Stratos v3|Stratos v3|||||||
+176956|straycat|straycat|||||||
+185039|Streaker|Streaker|Stepper|,Arcade||||Bulldog Software|1987
+185162|Strike Force Harrier|Strike Force Harrier||Simulation,|||H&H Software|Mirrorsoft Ltd.|1986
+185900|Strip Girl|Strip Girl|||||||
+185119|Strip Poker II|Strip Poker II|||||Artworx Software Company, Inc.|Artworx Software Company, Inc.|1988
+176957|Subacuatic_|Subacuatic_|||||||
+185901|Suerte, Bruce!|Suerte, Bruce!|||||||
+96830A|Suparobo|Suparobo||,Arcade||||ASCII Corporation|1984
+184868|Super Baby|Super Baby|||||||
+96832A|Super Billiards|Super Billiards||Sports,|2||HAL Laboratory, Inc.|HAL Laboratory, Inc.|1983
+96833A|Super Bioman 4|Super Bioman 4||||||Zemina|
+96835A|Super Boy 3|Super Boy 3||,Platform|||Zemina Co.|Zemina|1991
+96836A|Super Boy I|Super Boy I|Super Boy II|Action,Platform|1||Zemina Co.|Zemina Co.|
+96837A|Super Boy 2|Super Boy II||Action,|1||Zemina Co.|Zemina Co.|
+96839A|Super Bubble Bobble|Super Bubble Bobble||Action,Arcade|2||Taito Corporation|Zemina Co.|1988
+185143|Super Chess|Super Chess||||||CP Software|1982
+96842A|Super Cobra|Super Cobra||Action,Shoot'em up / Horizontal,Shoot'em Up,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1983
+96843A|Super Columns|Super Columns||Puzzle-Game,|||SEGA Enterprises Ltd.|SEGA of America, Inc.|1990
+96844A|Super Cross Force|Super Cross Force||,Shooter||||Spectravideo|1983
+184916|Super Doors|Super Doors|Super Cobra|,Shooter|||||
+96847A|Super Drinker|Super Drinker||Action,Arcade|1||Ample Software|Ample Software|1983
+96849A|Super Golf|Super Golf||,Golf||||Sigma Enterprises, Inc.|1985
+96852A|Super Laydock - Mission Striker|Super Laydock - Mission Striker||,Shooter||||T&E Soft|1987
+185902|Super Master Mind|Super Master Mind|||||||
+96855A|Super Monitor|Super Monitor|||||||
+96862A|Super Pachinko|Super Pachinko||||||Nippon Columbia - Colpax - Universal|1985
+96863A|Super Pierrot|Super Pierrot||Action,|2||Universal Co., Ltd.|Universal Co., Ltd.|1987
+96866A|Super Snake|Super Snake||Action,Arcade|1||HAL Laboratory, Inc.|HAL Laboratory, Inc.|1983
+96867A|Super Soccer|Super Soccer||Sports,|||TAKARA Co., Ltd.|Sony Corporation|1985
+96868A|Super Synth|Super Synth||,Music|||||
+96869A|Super Tennis|Super Tennis||Sports / Tennis,Sports,|||Tokyo Shoseki Co., Ltd.|Nintendo of America Inc.|1985
+96870A|Super Tripper|Super Tripper||,Action||||Indescomp|1985
+177037|Super Triton|Super Triton|||||||
+185611|Superbowl|Superbowl||||||Budgie Software Ltd|1985
+185090|Supermind|Supermind|||||||
+185612|Survivor|Survivor|||||Synapse Software Corporation|Synapse Software Corporation|1982
+185209|Survivors|Survivors||||||Atlantis Software Limited|1987
+185081|Sushi|Sushi|Jump|,Arcade|||||
+96881A|Sweet Acorn|Sweet Acorn||,Arcade||||Taito Corp.|1985
+185256|Swimming Game|Swimming Game|||||||
+96884A|Swing|Swing|Sasa|Action,Arcade|1||Compile|Pony Canyon, Inc.|1985
+184919|Swing-Man|Swing-Man|Swing|,Arcade|||||
+185613|SWIV|SWIV|Sasa|,Shooter||Coop|Sales Curve Ltd., The|Dro Soft|1991
+96888A|Syougun|Syougun||,Puzzle||||Jaleco|1987
+185731|T-Virus - Brain Dead! v2|T-Virus - Brain Dead! v2|||||||
+184922|Ta Yu|Ta Yu|Sasa|,Shooter|||||
+185903|Taca Magica, A|Taca Magica, A|||||||
+185019|Tai-Pan|Tai-Pan|Pac-Man|,Arcade|||Ocean Software Ltd.|Ocean Software Ltd.|1987
+185904|Tank Attack|Tank Attack|Mac Attack|,Arcade|||IQ Games|CDS Software Ltd|1988
+96900A|Tank Battalion|Tank Battalion||Action|1||Namco Limited|Namco Limited|1984
+185614|Target Plus|Target Plus|||||Dinamic Software|Dinamic Software|1988
+185026|Tarot|Tarot|Aramo|,Adventure|||||
+96904A|Tatica|Tatica||,Arcade||||Mass Tael|1984
+96907A|Tawara|Tawara|Banana|,Arcade||||ASCII|1984
+176854|Tawarakun|Tawarakun||,Arcade|||||
+96908A|Tear Of Nile|Tear of Nile||,Action||||Victor|1986
+184958|Teenage Mutant Hero Turtles|Teenage Mutant Hero Turtles|||||||
+185728|Teki Paki|Teki Paki|||||||
+96912A|Telebunnie|Telebunnie||,Arcade||||ASCII Corporation|1983
+176958|temptati|temptati|||||||
+185615|Temptations|Temptations|||||Topo Soft|Topo Soft|1988
+96915A|Tensai Rabbian Daifunsen|Tensai Rabbian Daifunsen||,Arcade||||Toshiba EMI|1986
+96920A|Tensidachino Gogo|Tensidachino Gogo||,Adventure||||Jast|1987
+96921A|Tension|Tension||,Action||||System 4|1988
+184941|Terminus - The Prison Planet|Terminus - The Prison Planet||||||M.A.D.|1987
+185105|Terramex|Terramex|||||Teque Software Development Ltd.|Grandslam Entertainments Ltd.|1988
+185617|Terrorpods|Terrorpods|||||Psygnosis Limited|Dro Soft|1989
+185618|Test Drive II - The Duel|Test Drive II - The Duel|||||||
+96930A|Tetra Horror|Tetra Horror||Action|1||Mass Tael|Spectravideo International Ltd.|1984
+96931A|Tetris|Tetris|Fa Tetris|,Puzzle|||Elorg|Mirrorsoft Ltd.|1988
+176960|tetrisa|tetrisa|Tetris|,Puzzle|||||
+176961|tetrisb|tetrisb|Tetris|,Puzzle|||||
+176959|tetris_n|tetris_n|Tetris|,Puzzle|||||
+96933A|Tetsuman|Tetsuman||,Puzzle||||HAL Laboratory|1985
+96943A|Black Onyx, The|The Black Onyx||,RPG||||ASCII|1985
+94678A|Black Onyx 2 - Search for the Fire Crystal, The|The Black Onyx II - Search for the Fire Crystal||||||ASCII|1986
+96949A|Brain, The|The Brain||||||ASCII|1983
+96953A|Castle, The|The Castle||Adventure,|1||ASCII Corporation|ASCII|1986
+96955A|Chess Game, The|The Chess Game||,Chess||||Al Alamiah|1985
+96960A|Dam Busters, The|The Dam Busters|Dambusters, The|,Flight simulator||||Comptiq|1985
+96963A|Demon Crystal, The|The Demon Crystal||||||Radio Wave Newspaper Publisher|1986
+96968A|Fairy Land Story, The|The Fairy Land Story||,Arcade||||Hot-b|1987
+96977A|Goonies, The|The Goonies||Action / Adventure,Action,|1||Konami|Konami|1986
+96978A|Heist, The|The Heist||||||Comptiq|1985
+96989A|Keiba, The|The Keiba||||||Champion Soft|1986
+185370|The Last Commando|The Last Commando|||||Zeus Software|Dinamic Software|1988
+96993A|Light Corridor, The|The Light Corridor||,Breakout||||Infogrames|1990
+97005A|Police Story, The|The Police Story||||||Pony Canyon|1985
+97016A|Spider, The|The Spider||,Shooter||||Hudson Soft|1983
+185108|The Untouchables|The Untouchables|||||Special FX Software Ltd.|Ocean Software Ltd.|1989
+97034A|Wreck, The|The Wreck||,Puzzle||||Electric Software|1984
+176974|thecure|thecure|||||||
+97036A|Thexder|Thexder||Action,Shooter|1||Game Arts Co., Ltd.|Game Arts Co., Ltd.|1986
+184997|Thing Bounces Back|Thing Bounces Back|||||Gremlin Graphics Software Limited|Gremlin Graphics Software Limited|1987
+185619|Thor|Thor|Hero|,Action|||Proein S.L.|Proein S.L.|1988
+176973|thrdrsto|thrdrsto|||||||
+97040A|Thunder Ball|Thunder Ball||,Pinball||||ASCII Corporation|1985
+185125|Thunder Blade|Thunder Blade|Thunder Ball|,Pinball|||SEGA Enterprises Ltd.|U.S. Gold Ltd.|1989
+184925|Thunderbirds|Thunderbirds|||||||
+97045A|Thunderbolt|Thunderbolt|Thunder Bolt|,Action|||Codemasters Software Company Limited, The|Codemasters Software Company Limited, The|1986
+185013|Thundercats|Thundercats|||||Gargoyle Games Ltd|Elite Systems Ltd.|1987
+176962|ti ti! pang pang!|ti ti! pang pang!|||||||
+177057|tiles of shalom|tiles of shalom|||||||
+185620|Time and Magik II - Red Moon|Time and Magik II - Red Moon|||||||
+185120|Time Bandits|Time Bandits|||||||
+185621|Time Bomb|Time Bomb||Puzzle-Game,|||||1996
+185622|Time Curb|Time Curb||||||Aackosoft International B.V.|1986
+185028|Time Fighter|Time Fighter||||||CRL Group PLC|1988
+185623|Time Out|Time Out|Rise Out|,Arcade|||||
+97058A|Time Pilot|Time Pilot||Action,Shoot'em Up,|2||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1983
+185624|Time Rider|Time Rider|||||||
+185625|Time Scanner|Time Scanner|||||SEGA Enterprises Ltd.|Activision, Inc.|1989
+185015|Time Trax|Time Trax|||||Binary Design, Ltd.|Bug-Byte Software Ltd.|1987
+185626|Titanic|Titanic|||||Topo Soft|Topo Soft|1988
+176963|togk|togk|||||||
+185627|Toi Acid Game|Toi Acid Game|||||Iber Soft|Iber Soft|1989
+185278|Toke Kong|Toke Kong|||||||
+185628|Tokyo Gang|Tokyo Gang|||||||
+185629|Tokyo Nampa Street|Tokyo Nampa Street|||||||
+185630|Tom & Jerry|Tom & Jerry|||||||
+97073A|Toobin|Toobin||Action,Shooter|||Atari Games Corporation|Domark Limited|1988
+97076A|Top Roller!|Top Roller!||,Racing|||E.L.S.|Jaleco Ltd.|1984
+185729|Topple Zip|Topple Zip||,Shooter|||MiCROViSion Inc.|Bothtec, Inc.|1986
+185631|Tour 91|Tour 91|||||Topo Soft|Topo Soft|1991
+185122|Tournament Snooker|Tournament Snooker||Simulation,|||Hard Software|Magnificent 7 Software|1985
+185153|Tower of Angel, The|Tower of Angel, The|||||||
+97085A|Track And Field 1|Track & Field 1||Sports,|2||Konami|Konami|1984
+97087A|Track And Field 2|Track & Field 2||Sports,|2||Konami|Konami|1984
+97090A|Traffic|Traffic||Strategy,Puzzle-Game,|4||Andromeda Software|Sony Corporation|1986
+185730|Tragaperras|Tragaperras|||||||
+185205|Trailblazer|Trailblazer|||||Mr Chip Software|Gremlin Graphics Software Limited|1986
+185907|Trans-Europe Rallye|Trans-Europe Rallye|||||||
+177049|transball|transball|||||||
+185127|Transit|Transit|Traffic|,Puzzle|||||
+185179|Trantor - The Last Stormtrooper|Trantor - The Last Stormtrooper|||||Probe Software Ltd.|GO! Media Holdings Ltd.|1987
+185632|Tras el Unicornio|Tras el Unicornio|||||||
+185098|Trashman|Trashman|Tetsuman|,Puzzle|||New Generation Software Ltd.|New Generation Software Ltd.|1984
+185633|Tres Luces de Glaurung, Las|Tres Luces de Glaurung, Las|||||||
+97104A|Trial Ski|Trial Ski||||||ASCII Corporation|1984
+185908|Tribur|Tribur|Erika|,Adventure|||||
+185634|Triple Comando|Triple Comando|||||||
+109065|Triton|Tritorn|Aramo|,Adventure|||Sein-Soft|Xain|1986
+185231|Triversi|Triversi|Tritorn|,Action|||||
+97116A|Trumpaid|Trumpaid||,Cards||||Toshiba-EMI|1986
+185635|TT Racer|TT Racer|Car Race|,Racing|||Digital Integration Ltd.|Digital Integration Ltd.|1986
+185636|Tuareg|Tuareg|Craze|,Shooter|||Topo Soft|Topo Soft|1988
+185909|Tuma 7|Tuma 7|Jump|,Arcade|||||
+97122A|Tumego 120|Tumego 120||,Puzzle||||Champion Soft|1987
+185637|Tunel del tiempo, El|Tunel del tiempo, El|||||||
+176964|Turbo Girl|Turbo Girl|||||Gamesoft|Dinamic Software|1988
+185910|Turbo Racing|Turbo Racing|||||||
+97129A|Turboat|Turboat||Action,Shooter|2||Mass Tael Co., Ltd.|ASCII Corporation|1984
+97130A|Turmoil|Turmoil|Turboat|Action,Shooter|1||Sirius Software, Inc.|ASCII Corporation|1983
+185280|Tuxy|Tuxy|Anty|,Arcade|||||
+176965|tvirus|tvirus|Fairy|,Arcade|||||
+97134A|Twin Bee|Twin Bee||Shoot'em up / Vertical,Shooter,Shoot'em Up,|2||Konami|Konami|1986
+185221|Twin Fleaz|Twin Fleaz|Twin Bee|,Shooter|||||
+97136A|Twin Hammer|Twin Hammer||,Arcade||||Best|1989
+177052|txupinazo|txupinazo|||||||
+97141A|Tzr - Grand Prix Rider|TZR - Grand Prix Rider||,Moto racing||||ASCII|1986
+185638|U-Boot|U-Boot|C-So!|,Arcade|||||
+185168|Uchi Mata|Uchi Mata|||||Martech Games Ltd.|Martech Games Ltd.|1987
+185911|UFO|UFO|||||||1989
+185639|Ulises|Ulises|Flics|,Arcade|||Opera Soft S.A.|Opera Soft S.A.|1989
+185640|Ultra Chess|Ultra Chess||Simulation,|||Aackosoft International B.V.|Al Alamiah|1985
+97150A|Ultraman|Ultraman|||||BEC Co., Ltd.|Banpresto Co., Ltd.|1984
+185641|Underground|Underground|||||SYSTEM 4 de España, S.A.|SYSTEM 4 de España, S.A.|1988
+185732|Universe - Unknown|Universe - Unknown|||||||
+185733|Universe - Unknown v2|Universe - Unknown v2|||||||
+176966|UniverseUnknown|UniverseUnknown|||||||
+176944|unleashed|unleashed|||||||
+185912|Uranio|Uranio|Aramo|,Shooter|||||
+176945|URDIUM48|URDIUM48|||||||
+185272|Vacuumania|Vacuumania||||||Philips Export B.V.|1984
+184932|Valiant|Valiant|Galaxian|,Shooter|||||
+185225|Valkyr|Valkyr|Becky|,Arcade|||Gremlin Graphics Software Limited|Gremlin Graphics Software Limited|1986
+185642|Vampire - Phantomas 2|Vampire - Phantomas 2||||||Dinamic Software|1987
+185643|Vampire's Empire|Vampire's Empire|||||Magic Bytes|Dro Soft|1988
+97168A|Vaxol - Heavy Armed Storm Vehicle|Vaxol - Heavy Armed Storm Vehicle||,Shooter||||Heart Soft|1987
+185913|Vector|Vector|Becky|,Arcade|||Nekki Ltd.|Nekki Ltd.|
+185644|Venganza de Johny Comomolo, La|Venganza de Johny Comomolo, La|||||||
+185075|Veno Monsters|Veno Monsters|||||||
+97174A|Venus Fire|Venus Fire||,Strategy||||Victor|1987
+185020|Vera Cruz Affair, The|Vera Cruz Affair, The||Adventure,|||Infogrames Multimedia SA|Infogrames Multimedia SA|1986
+176946|Vesikauhu|Vesikauhu|||||||
+185155|Vestron|Vestron|Hero|,Action||||Players Software|1986
+185645|Viaje al Centro de la Tierra|Viaje al Centro de la Tierra|||||Topo Soft|Topo Soft|1989
+185914|Viaje Espacial|Viaje Espacial|||||||
+184887|Vicious Viper|Vicious Viper|||||||
+185243|Video Tennis|Video Tennis|||||||
+185115|Vietnam|Vietnam|||||||
+176972|vigilante_|vigilante_|||||||
+185735|Viking|Viking|Pipi|,Arcade|||||
+185647|Visitor - Bazar Catalunya|Visitor - Bazar Catalunya|||||||
+185010|Voidrunner|Voidrunner|||||Llamasoft Ltd.|M.A.D.|1987
+185073|Voitures dans Autoroute, Les|Les Voitures dans Autoroute||||||Infogrames|1985
+97195A|Volguard|Volguard||Action,Shooter|1||dB-SOFT|dB-SOFT|1985
+185648|Vortex Raider|Vortex Raider|||||||
+185232|Vtennis|Vtennis|Zenji|,Puzzle|||||
+185916|Vuilnisman|Vuilnisman|||||||
+185649|Wall, The|Wall, The|||||||
+185650|Wallball|Wallball|||||||
+185236|Wally Weevil vs the Pyramid of Doom!|Wally Weevil vs the Pyramid of Doom!|||||||
+185651|Wamp Cola|Wamp Cola|||||||
+185652|War Chess|War Chess|||||SuperEmpire Interactive Inc.|XS Games Ltd.|2003
+184864|War Head|War Head|||||||
+185653|War in Middle Earth|War in Middle Earth|||||||
+97208A|Warp And Warp|Warp & Warp||,Arcade||||Namcot|1984
+109066|Warrior|Warrior|Warroid|,Action||||ASCII|1984
+97211A|Warroid|Warroid||Action|2||Yellow Horn Co., Ltd.|ASCII Corporation|1985
+97212A|Water Driver|Water Driver||,Racing||||Apollo Technica|1984
+184892|Water Falls. Ame|Water Falls. Ame|||||||
+185233|Way of the Tiger, The|Way of the Tiger, The|||||Gremlin Graphics Software Limited|Gremlin Graphics Software Limited|1986
+185223|WEC Le Mans|WEC Le Mans|||||Coreland|Imagine Software|1988
+176947|Wedding bells|Wedding bells||,Arcade|||||
+185654|Wells & Fargo|Wells & Fargo|||||||
+185298|West|West|Mobile Planet Suthirus - Approach from the Westgate|Adventure,||||Talent Computer Systems|1984
+185655|West Bank|West Bank|||||Dinamic Software|Dinamic Software|1985
+185656|Who Dares Wins II|Who Dares Wins II||||||Alligata Software Ltd.|1987
+185657|Whopper Chase|Whopper Chase|||||Erbe Software, S.A.|Erbe Software, S.A.|1987
+185658|Wing Man|Wing Man|Wing Man 2|,Action|||||
+97222A|Wing Man 2|Wing Man 2||,Action||||Enix|1987
+176948|WingWarriors|WingWarriors|||||||
+184966|Winter Events|Winter Events||||||Anco Software Ltd.|1987
+184964|Winter Games|Winter Games|||||Action Graphics, Inc.|U.S. Gold Ltd.|1986
+184923|Winter Olympics|Winter Olympics|||||Art Crew, The|Tynesoft Computer Software|1986
+185659|Winterhawk|Winterhawk|||||||
+185008|Wizard's Lair|Wizard's Lair|||||Bubble Bus Software|Bubble Bus Software|1986
+96630A|Wolf of the Battlefield - Commando|Wolf of the Battlefield: Commando|||||Capcom Co., Ltd.|ASCII Corporation|1987
+185917|Wood|Wood|Cosmo|,Shooter|||||
+185660|World Cup Soccer|World Cup Soccer|||||SIMS Co., Ltd.|Tengen Inc.|1993
+184970|World Games|World Games|||||Epyx, Inc.|U.S. Gold Ltd.|1987
+97240A|Wrangler|Wrangler||Action,Shooter|||Indescomp|Sony Corporation|1985
+185918|Xadrama|Xadrama|||||||
+185100|Xarchon|Xarchon|||||||
+185661|Xenon|Xenon|Hero|,Action|||Bitmap Brothers, The|Melbourne House|1988
+185191|Xeros|Xeros|Hero|,Action|||||
+185201|Xetra|Xetra|Anty|,Arcade|||||
+185292|Xybots|Xybots|||||Atari Games Corporation|Domark Limited|1989
+97256A|Xyxolog|Xyxolog||Action,Arcade|1|||Nidecom|1985
+185919|Y'ahtzee|Y'ahtzee|||||DIMensionNEW|DIMensionNEW|2007
+97260A|Yab Yum|Yab Yum||,Arcade||||Gerritsen, Tom|1985
+176949|yakungfu|yakungfu|||||||
+109067|Yakyukyo - Baseball Crazy|Yakyukyo - Baseball Crazy||||||Hudson Soft|1984
+97266A|Yamaha Play Card System|Yamaha Play Card System|||||||
+185102|Yellow Submarin|Yellow Submarin|Yellow Submarine|,Shooter|||||
+97268A|Yellow Submarine|Yellow Submarine||Action,Shooter|2||Takeru|Takeru|1987
+97270A|Yie Ar Kung-fu|Yie Ar Kung-Fu||Action,Fight / 2D,Fight,|1||Konami Industry Co. Ltd.|Konami Industry Co. Ltd.|1985
+97274A|Yie Ar Kung-fu 2 - The Emperor Yie-gah|Yie Ar Kung-Fu II - The Emperor Yie-Gah||Fight / 2D,Fight,|2||Konami|Konami|1985
+185177|Yobai|Yobai|Sasa|,Shooter|||||
+109068|Yokai Yasiki|Yokai Yasiki||||||Casio|1986
+97285A|Young Sherlock - The Legacy Of Doyle|Young Sherlock - The Legacy of Doyle||,Adventure||||Pack In Video|1985
+177045|Yuureikun|Yuureikun|||||||
+97293A|Zaider - Battle Of Peguss|Zaider - Battle of Peguss||,Shooter||||Cosmos Computer|1986
+185662|Zakil Wood|Zakil Wood|||||||
+176950|zambezefacil|zambezefacil|||||||
+97296A|Zanac|Zanac|Banana|Shooter,Shoot'em up / Vertical,Shoot'em Up,|1||Compile|Pony Canyon Inc.|1986
+185663|Zarth|Zarth|Fairy|Adventure,|||Studio Jandora|Enix Corporation|1985
+97302A|Zaxxon|Zaxxon|Rambo|Action,Shoot'em up / Diagonal,Shoot'em Up,|2||SEGA Enterprises Ltd.|Philips Export B.V.|1985
+185921|Zeilen|Zeilen|Zenji|,Puzzle|||||
+97304A|Zen|Zen|Nobunaga no Yabou - Zenkoku Ban|,Strategy|||||
+97305A|Zenji|Zenji|Hero|Strategy,|1||Activision, Inc.|Pony Canyon, Inc.|1984
+185083|Zero Gravity|Zero Gravity|||||EAS Software|EAS Software|1988
+184873|Zeta 2000|Zeta 2000|||||||
+184862|Zexas|Zexas|Hero|,Shooter|||dB-SOFT|dB-SOFT|1984
+97309A|Zexas Limited|Zexas Limited||,Shooter||||dB-SOFT|1985
+185664|Zipi y Zape|Zipi y Zape|||||||
+184953|Zipper|Zipper|Hopper|,Arcade||||Scandsoft|1983
+185086|Zizi|Zizi|Pipi|,Arcade|||||
+184956|Zobitronics, The|Zobitronics, The|||||||
+185665|Zoids - The Battle Begins|Zoids - The Battle Begins|||||||
+153190|Zombie Near|Zombie Near|||||||
+176951|ZombieIncident|ZombieIncident|||||||
+185666|Zona 0|Zona 0|Zenji|,Puzzle|||Topo Soft|Topo Soft|1991
+185667|Zond|Zond|Scion|,Shooter|||||
+97318A|Zoom 909|Zoom 909||,Shooter||||Sega|1985
+185093|Zoot|Zoot|Cosmo|,Shooter|||||
+185922|Zorax|Zorax|Hero|,Action|||||
+185063|Zork I - The Great Underground Empire|Zork I - The Great Underground Empire|||||||
+185242|Zork II - The Wizard of Frobozz|Zork II - The Wizard of Frobozz|||||||
+184928|Zork III - The Dungeon Master|Zork III - The Dungeon Master|||||||

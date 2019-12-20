@@ -1,0 +1,47 @@
+4731AA|3d Tetris|3D Tetris||Puzzle-Game,|1||T&E Soft|Nintendo|1996
+172279|Ballface|Ballface||Shooter,|1||DanB||2013
+143416|Blox|Blox|Blox V1.0 by KR155E|Puzzle-Game,|1||Christian Radke (KR155E)|KR155E|2003
+44479A|Bound High|Bound High||Various,|1||Japan System Supply|Nintendo|1996
+172272|Capitan Sevilla 2|Capitan Sevilla 2||Action / Adventure,Action,|1||Hi Score||2010
+172273|Castle of Doom|Castle of Doom|||||||
+172280|Deathchase|Deathchase|||1||Matej Horvat||2014
+44480A|Nikochan Battle|Faceball||Shooter / 1st person,Shooter,|1||Bullet-Proof Software|Bullet-Proof Software|1996
+172278|Fishbone|Fishbone||Action,|1||ThunderStruck|ThunderStruck|2012
+4740AA|Galactic Pinball|Galactic Pinball||Pinball,|1||Intelligent Systems|Nintendo|1995
+172264|Game Hero|Game Hero||Music and Dance,|1||||2012
+4741AA|Golf|Golf||Sports,|1||Technical Engineering Support|Nintendo|1995
+172276|Hunter|Hunter|||1||DanB||2010
+172277|Hyper Fighting|Hyper Fighting||Fight,|1||M.K., Mr. Anon||2013
+4732AA|Insmouse No Yakata|Insmouse no Yakata||Lightgun Shooter,|1||Betop|I'Max|1995
+4730AA|Jack Bros|Jack Bros||Adventure,|1||Atlus|Atlus|1995
+4725AA|Mario Clash|Mario Clash||Platform,|1||Nintendo|Nintendo|1995
+172268|Mario Combat|Mario Combat||Shooter,|1||||
+172267|Mario Kart Virtual Cup|Mario Kart Virtual Cup|||1||||2008
+172266|Mario VB|Mario VB|||1||||2008
+4727AA|Mario's Tennis|Mario's Tennis||Sports,Sports / Tennis,|1||Nintendo|Nintendo|1995
+4737AA|Nester's Funky Bowling|Nester's Funky Bowling||Sports,|1||Saffire Corporation|Nintendo|1996
+4738AA|Panic Bomber|Panic Bomber||Puzzle-Game,|1||Hudson Soft|Nintendo|1995
+172265|Platformer Demo|Platformer Demo|||||||
+4734AA|Red Alarm|Red Alarm||Simulation,|1||Technical Engineering Support|Nintendo|1995
+4735AA|Sd Gundam - Dimension War|SD Gundam: Dimension War|SD Gundam Dimension War|Strategy,|1||Bandai|Bandai|1995
+143436|Simon!|Simon!|Simon by Pat Daderko|Casual Game,|1||Pat Daderko|Public Domain|2003
+172269|Snatcher|Snatcher||Adventure,|1||Hideo Kojima||2015
+172270|Soviet Union 2010|Soviet Union 2010|||1||Matej Horvat||2010
+172271|Soviet Union 2011|Soviet Union 2011||Shoot'em Up,|1||Matej Horvat||2011
+4728AA|Space Invaders Virtual Collection|Space Invaders Virtual Collection||Shoot'em Up,|1||Taito|Taito|1995
+4742AA|Space Squash|Space Squash||Sports,|1||Tomcat System|Coconuts Japan Entertainment|1995
+4744AA|Teleroboxer|Teleroboxer||Sports,|1||Nintendo|Nintendo|1995
+143417|Tic Tac Toe|Tic Tac Toe|Tic Tac Toe by Pat Daderko|Puzzle-Game,|2||DogP|DogP|2003
+145306|Tron|Tron|Tron VB by Pat Daderko|Puzzle,|1||Alberto Covarrubias|Planet Virtual Boy|2008
+4733AA|V-tetris|V-Tetris|V Tetris|Puzzle-Game,|1||Locomotive Corporation|Bullet Proof Software|1995
+172275|VB Racing|VB Racing||Race, Driving,|1||Martin Kujaczynski||2008
+4736AA|Vertical Force|Vertical Force||Shoot'em Up,|1||Hudson|Nintendo|1995
+3726AA|Virtual Bowling|Virtual Bowling||Sports,|1||Athena|Athena|1995
+4726AA|Virtual Boy Wario Land|Virtual Boy Wario Land||Platform,|1||Nintendo|Nintendo|1995
+3727AA|Virtual Fishing|Virtual Fishing||Various,|1||Locomotive Corporation|Pack-In-Video|1995
+4739AA|Virtual Lab|Virtual Lab||Puzzle-Game,|1||Nacoty|J-Wing - Nacoty|1995
+4743AA|Virtual League Baseball|Virtual League Baseball||Sports,|1||Kemco|Kemco|1995
+143420|Virtual Pong|Virtual Pong||Action,|1||VirtualE|Planet Virtual Boy|1999
+172274|VUE Snake|VUE Snake|||||KR155E||2009
+4729AA|Waterworld|Waterworld||Shoot'em Up,|1||Ocean|Ocean|1995
+172281|Zpace Racers|Zpace Racers|||1||DanB||2014
