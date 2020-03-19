@@ -60,7 +60,7 @@
 5591AA|Clay Fighter - Sculptor's Cut|Clay Fighter : Sculptor's Cut||Fight,|2||Interplay|Interplay|1998
 5522AA|Clay Fighters 63 1/3|Clay Fighters 63 1/3||Fight,|2||Interplay|Interplay|1997
 5447AA|Command And Conquer|Command & Conquer||Strategy,|1||Nintendo|Westwood Studios|1999
-5402AA|Conker's Bad Fur Day|Conker's Bad Fur Day||Action,Adventure|4||Rareware|Rare - THQ|2001
+5402AA|Conker's Bad Fur Day|Conker's Bad Fur Day||Action,Adventure,|4||Rareware|Rare - THQ|2001
 59512A|World Cup 98|World Cup 98|FIFA - Road to World Cup 98|Sports,|4|Coop|EA Sports|EA Sports|1998
 5674AA|Cruis'n Exotica|Cruis'n Exotica||Race, Driving,|4||Midway|Gratuitous Games|2000
 5537AA|Cruis'n Usa|Cruis'n USA||Race, Driving,|2||Midway|Nintendo|1996
@@ -87,7 +87,7 @@
 59768A|Doraemon 2 - Nobita To Hikari No Shinden|Doraemon 2 - Nobita To Hikari No Shinden||Action,Action / Adventure,Platform,|1||Epoch Co.|Epoch Co.|1998
 59769A|Doraemon 3 - Nobita No Machi Sos!|Doraemon 3 - Nobita No Machi Sos!||Action,Action / Adventure,Platform,|1||Epoch Co.|Epoch Co.|2000
 5529AA|Dr. Mario 64|Dr. Mario 64||Puzzle-Game,|4|Coop|Nintendo|Nintendo|2001
-186688|Dragon King by CrowTRobo|Dragon King by CrowTRobo|||||||
+186688|Dragon King by CrowTRobo|Dragon King by CrowTRobo||Fighter,|||||
 59771A|Dragon Sword 64|Dragon Sword 64||Fight,|4|Coop|Team Storm|MGM Interactive|1998
 59524A|40 Winks|40 Winks||Action,Platform,|2||Eurocom|GT Interactive|1999
 5569AA|Dual Heroes|Dual Heroes||Fight,Action,|2||Electro Brain|Electro Brain|1997
@@ -115,7 +115,7 @@
 5633AA|Flying Dragon|Flying Dragon||Shoot'em Up,Action,Fight,|2||Natsume|Natsume|1997
 71708A|Forsaken 64|Forsaken 64||Action,Shooter,Shooter / 1st person,|4||Iguana Entertainment, Inc.|Acclaim Entertainment|1998
 5657AA|Fox Sports College Hoops 99|Fox Sports College Hoops '99||Sports,Sports / Basketball,|2||Z-Axis|Fox Interactive|1998
-59949A|Frogger 2 - Swampy's Revenge|Frogger 2||Action,|4||Blitz Games|Hasbro Interactive, Inc.|1999
+59949A|Frogger 2 - Swampy's Revenge|Frogger 2||Action,Arcade,|4||Blitz Games|Hasbro Interactive, Inc.|1999
 59861A|Fushigi No Dungeon - Fuurai No Shiren 2 - Oni Shuurai! Shiren Jou!|Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuu||Race, Driving,Role playing games,|1||Chunsoft|Chunsoft|2000
 5509AA|Gauntlet Legends|Gauntlet Legends||Role playing games,|4|Coop|Atari|Midway|1999
 59864A|Getter Love!! Cho Renai Party Game|Getter Love!! Cho Renai Party Game|Getter Love!!|Various,Simulation,|4||Hudson Soft|Hudson|1998
@@ -169,16 +169,16 @@
 5700AA|Ken Griffey Jr.'s Slugfest|Ken Griffey Jr.'s Slugfest||Sports,|4||Angel Studios|Nintendo|1999
 5415AA|Killer Instinct Gold|Killer Instinct Gold||Sports,Action,|2||Rareware|Nintendo|1996
 59522A|Kiratto Kaiketsu! 64 Tanteidan|Kiratto Kaiketsu! 64 Tanteidan|Kira to Kaiketsu! 64 Tanteidan|Various,Casual Game,|4||Pandora Box|Imagineer|1998
-5438AA|Kirby 64 - The Crystal Shards|Kirby 64 : The Crystal Shards||Action,Platform|4||Nintendo|HAL Laboratory - Nintendo|2000
+5438AA|Kirby 64 - The Crystal Shards|Kirby 64 : The Crystal Shards||Action,Platform,|4||Nintendo|HAL Laboratory - Nintendo|2000
 5551AA|Knife Edge - Nose Gunner|Knife Edge - Nose Gunner||Shoot'em Up,|4||Kemco|Infogrames|1998
 5578AA|Knockout Kings 2000|Knockout Kings 2000||Sports,|2||EA Sports|EA Sports|1999
 5622AA|Kobe Bryant In Nba Courtside|Kobe Bryant's NBA Courtside||Sports,Sports / Basketball,|4|Coop|Left Field|Nintendo|1998
 59521A|Last Legion Ux|Last Legion UX||Shoot'em Up,|2||Yuke's|Hudson|1999
 5507AA|Lego Racers|LEGO Racers||Action,Race, Driving,|2||High Voltage|Lego Media|1999
-59545A|Rugrats - Scavenger Hunt|Rugrats : Scavenger Hunt||Action,Board game|4||THQ|Realtime Associates|1999
+59545A|Rugrats - Scavenger Hunt|Rugrats : Scavenger Hunt||Action,Board game,|4||THQ|Realtime Associates|1999
 99346A|Rugrats In Paris - The Movie|Rugrats in Paris : The Movie||Platform,|4||Avalanche Software|THQ|2000
 5590AA|Lode Runner 3-d|Lode Runner 3-D||Puzzle-Game,Action,|1||Big Bang Software|Infogrames|1999
-5510AA|Mace - The Dark Age|Mace : The Dark Age||Action,Fighting|2||Midway|Midway|1997
+5510AA|Mace - The Dark Age|Mace : The Dark Age||Action,Fighting,|2||Midway|Midway|1997
 5721AA|Madden Football 64|Madden Football 64||Sports,Sports / Football,|4||EA Sports|Electronic Arts|1997
 5730AA|Madden Nfl 2000|Madden NFL 2000||Sports,Sports / Football,|4|Coop|EA Sports|Electronic Arts|1999
 5690AA|Madden Nfl 2001|Madden NFL 2001||Sports,Sports / Football,|4|Coop|EA Sports|Electronic Arts|2000
@@ -253,7 +253,7 @@
 59533A|Onegai Monsters|Onegai Monsters||Role playing games,|1||Bottom Up|Bottom Up|1999
 108713|Pachinko 365 Nichi|Pachinko 365 Nichi||Casino,Casual Game,|1||Seta|Seta|1998
 5400AA|Paper Mario|Paper Mario||Role playing games,|1||Nintendo|Intelligent Systems|2000
-5545AA|Paperboy|Paperboy||Action,Arcade|1||Midway|Atari - High Voltage Software - Midway|1999
+5545AA|Paperboy|Paperboy||Action,Arcade,|1||Midway|Atari - High Voltage Software - Midway|1999
 5719AA|Parlor! Pro 64 - Pachinko Jikki Simulation Game|Parlor! Pro 64 - Pachinko Jikki Simulation Game||Various,Casino,|1||Telenet|Telenet Japan|1999
 5572AA|Pd Ultraman Battle Collection|Pd Ultraman Battle Collection|PD Ultraman Battle Collection 64|Role playing games,|1||Bandai|Bandai|1997
 5587AA|Penny Racers|Penny Racers||Race, Driving,|4||Takara|THQ|1998
@@ -277,7 +277,7 @@
 5542AA|Tom Clancy's Rainbow Six|Rainbow Six||Action,Strategy,Simulation,Shooter / 1st person,Shooter,|2||Saffire|Take 2 Interactive|1999
 5693AA|Rakuga Kids|Rakuga Kids||Race, Driving,Fight,|2||KCET|Konami|1998
 5688AA|Rally Challenge 2000|Rally Challenge 2000||Race, Driving,|4||Imagineer|Southpeak Interactive|1999
-5535AA|Rampage 2 - Universal Tour|Rampage 2 : Universal Tour||Action,Arcade|3||Avalanche Software|Midway|1999
+5535AA|Rampage 2 - Universal Tour|Rampage 2 : Universal Tour||Action,Arcade,|3||Avalanche Software|Midway|1999
 5500AA|Rampage - World Tour|Rampage : World Tour||Puzzle-Game,Action,|3||Saffire|Midway|1998
 5611AA|Rat Attack!|Rat Attack!|Rat Attack|Various,Puzzle-Game,|4||Pure Entertainment|Mindscape|2000
 5417AA|Rayman 2 - The Great Escape|Rayman 2 : The Great Escape||Action,Action / Adventure,|1||Ubisoft|Ubisoft|1999
@@ -312,7 +312,7 @@
 5458AA|South Park|South Park|South Park - Chef's Luv Shack|Shoot'em Up,Action,Shooter / 1st person,Shooter,|4||Iguana Entertainment|Acclaim Entertainment|1998
 5515AA|South Park - Chef's Luv Shack|South Park : Chef's Luv Shack||Casual Game,|4||Acclaim Entertainment|Acclaim Entertainment|1999
 5531AA|South Park Rally|South Park Rally||Fight,Race, Driving,|4||Tantalus Media|Acclaim Entertainment|2000
-5607AA|Space Invaders|Space Invaders||Action,Shooter|2|Coop|Z-Axis|Activision|1999
+5607AA|Space Invaders|Space Invaders||Action,Shooter,|2|Coop|Z-Axis|Activision|1999
 5521AA|Space Station Silicon Valley|Space Station Silicon Valley||Platform,Action,|1||Rockstar North|Take 2 Interactive|1998
 5452AA|Spider-man|Spider-Man||Shoot'em Up,Action,Action / Adventure,|1||Neversoft|Activision|2000
 5734AA|St. Andrews Golf|St. Andrews Golf||Sports,Sports / Golf,|4||SETA Corporation|SETA Corporation|1996
@@ -325,16 +325,16 @@
 5444AA|Starcraft 64|StarCraft 64||Strategy,|2|Coop|Blizzard Entertainment|Nintendo|2000
 5506AA|Starshot - Space Circus Fever|Starshot : Space Circus Fever||Action,Platform,|1||Infogrames|Infogrames|1998
 5717AA|Stunt Racer 64|Stunt Racer 64||Race, Driving,|4||Boss Game Studios|Midway|2000
-59537A|Super B-daman - Battle Phoenix 64|Super B-daman - Battle Phoenix 64||Action,Arcade|4||Takara|Hudson - Takara|1998
+59537A|Super B-daman - Battle Phoenix 64|Super B-daman - Battle Phoenix 64||Action,Arcade,|4||Takara|Hudson - Takara|1998
 5709AA|Super Bowling|Super Bowling||Sports,Sports / Bowling,|4||Athena|UFO Interactive|1999
-142979|Super Irishley Drunk Giant Waluigi 64|Super Irishley Drunk Giant Waluigi 64|||||||
+142979|Super Irishley Drunk Giant Waluigi 64|Super Irishley Drunk Giant Waluigi 64||Action,Platform,|||||
 5396AA|Super Mario 64|Super Mario 64|Super Mario 64 - Shindou Edition|Action,Platform,|1||Nintendo|Nintendo|1996
-108717|Super Mario 64 - Star Road [hack]|Super Mario 64||Action,|||Skelux|Nintendo|1996
-150814|Super Mario 64 - Shindou Edition (rumble Pack Edition)|Super Mario 64 - Shindou Edition (rumble Pack Edition)||||||Nintendo|1997
+108717|Super Mario 64 - Star Road [hack]|Super Mario 64||Action,Platform,,|||Skelux||1996
+150814|Super Mario 64 - Shindou Edition (rumble Pack Edition)|Super Mario 64 - Shindou Edition (rumble Pack Edition)||Platform,||||Nintendo|1997
 5701AA|Super Robot Spirits|Super Robot Spirits||Fight,|1||Banpresto|Banpresto|1998
 59538A|Super Robot Taisen 64|Super Robot Taisen 64||Role playing games,Strategy,|1||AI|Banpresto|1999
 5398AA|Super Smash Bros.|Super Smash Bros.||Fight,Action,|4||HAL Laboratory|HAL Laboratory - Nintendo|1999
-142977|Super Wario 64|Super Wario 64|Super Mario 64|,Platform|||||
+142977|Super Wario 64|Super Wario 64|Super Mario 64|Platform,|||||
 5726AA|Supercross 2000|Supercross 2000|Jeremy McGrath Supercross 2000|Sports,Race, Driving,Motorcycle Race, 3rd Pers.,|2||EA Sports|EA Sports|1999
 5427AA|Superman - The New Superman Adventures|Superman : The New Superman Adventures||Action,Action / Adventure,|4||Titus|Titus|1999
 59539A|Susume! Taisen Puzzle Dama - Toukon! Marutama Chou|Susume! Taisen Puzzle Dama - Toukon! Marutama Chou|Susume! Taisen Puzzle Dama Toukon! Marumata Chou|Puzzle-Game,|2||KCEK|Konami|1998

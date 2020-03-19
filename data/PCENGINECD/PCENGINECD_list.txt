@@ -1,43 +1,43 @@
 106847|1552 Tenka Tairan|1552 Tenka Tairan||Strategy,|1||ASK Kodansha|ASK Kodansha|1993
 106876|3 Games In 1 - Gate Of Thunder Bonk's Adventure Bonk's Revenge|3 Games In 1 - Gate Of Thunder Bonk's Adventure Bonk's Revenge||Compilation,|||||1992
-14551A|3x3 Eyes - Sanjiyan Henjyo|3x3 Eyes : Sanjiyan Henjyo|3x3 Eyes - Sanjiyan Hensei|,Adventure|1||Nihon Create|NEC|1994
-102826|4 In 1 Super Cd|4 In 1 Super Cd||Compilation,|||||
-118878|Addams Family, The|Addams Family, The|Addams Familly, The|,Platform|1||ICOM Simulations|NEC|1991
-103560|Advanced V.g.|Advanced V.g.||Fight / 2D,Fight,|2||TGL|TGL|1994
+14551A|3x3 Eyes - Sanjiyan Henjyo|3x3 Eyes : Sanjiyan Henjyo|3x3 Eyes - Sanjiyan Hensei|Adventure,|1||Nihon Create|NEC|1994
+102826|4 In 1 Super Cd|4 In 1 Super Cd||Compilation,|||||1993
+118878|Addams Family, The|Addams Family, The|Addams Familly, The|Action,Platform|1||ICOM Simulations|NEC|1991
+103560|Advanced V.g.|Advanced V.g.||Fight / 2D,Fight,|2|Coop|TGL|TGL|1994
 106989|Adventure Quiz - Capcom World + Hatena No Daibouken|Adventure Quiz - Capcom World + Hatena No Daibouken|Adventure Quiz - Capcom World & Hatena no Daibouken|Quiz / Japanese,Quiz,|||Capcom||1992
-14483A|Ai Cho Aniki|Ai Cho Aniki|Ai Chou Aniki|Shoot'em Up,Shoot'em up / Horizontal,|2||Masaya|NCS Corp|1995
+14483A|Ai Cho Aniki|Ai Cho Aniki|Ai Chou Aniki|Shoot'em Up,Shoot'em up / Horizontal,|2|Coop|Masaya|NCS Corp|1995
 153408|Alshark|Alshark||Role playing games,|1||Right Stuff Corp.|Victor Entertainment Inc.|1994
-106882|Juu Ou Ki - Altered Beast|Altered Beast||Action,|1||Sega|NEC Avenue|1989
-106986|Ane-san|Ane-san||Beat'em Up,|2||NEC Avenue|NEC Avenue|1995
-153402|Aoki Ookami To Shiroki Mejika - Genchou Hishi|Aoki Ookami To Shiroki Mejika - Genchou Hishi||Strategy,|1||||1993
+106882|Juu Ou Ki - Altered Beast|Altered Beast||Action,Beat'em Up,|1||Sega|NEC Avenue|1989
+106986|Ane-san|Ane-san||Beat'em Up,|2|Coop|NEC Avenue|NEC Avenue|1995
+153402|Aoki Ookami To Shiroki Mejika - Genchou Hishi|Aoki Ookami To Shiroki Mejika - Genchou Hishi||Strategy,|2|Coop||KOEI Corporation|1993
 106987|Arunamu No Kiba|Arunamu No Kiba||Role playing games,|1||Right Stuff|Right Stuff|1994
 119201|Asuka 120% Maxima Burning Fest|Asuka 120% Maxima Burning Fest||Beat'em Up,|1||Fill in Café|NEC Avenue|1995
-106985|Atlas - Renaissance Voyager, The|Atlas - Renaissance Voyager, The|||||||
+106985|Atlas - Renaissance Voyager, The|Atlas - Renaissance Voyager, The||Strategy,|||||
 106990|Aurora Quest - Otaku No Seiza In Another World|Aurora Quest - Otaku No Seiza In Another World||Role playing games,|1||Pack-In-Video Co., Ltd|Pack-In-Video Co., Ltd|1993
 106988|Av Tanjou|Av Tanjou|AV Tanjo|Adult,|1||Games Express|Games Express|1995
 106991|Avenger|Avenger||Shooter / Vehicle, Vertical,Shoot'em up / Vertical,Shooter,Shoot'em Up,|1||Nippon Telenet|Laser Soft|1990
 106877|Babel|Babel||Role playing games,|1||Shin-Nihon Laser Soft Co., Ltd.|Telenet Japan Co., Ltd.|1992
-141153|Baby Jo - The Super Hero|Baby Jo - The Super Hero||Action,Platform|1||Loriciel SA|Loriciel SA|1994
+141153|Baby Jo - The Super Hero|Baby Jo - The Super Hero||Action,Platform,|1||Loriciel SA|Loriciel SA|1994
 153393|Bakuden - Unbalance Zone|Bakuden - Unbalance Zone|Bakuden Unbalanced Zone|Adventure,|1||Kogado Studio, Inc.|Sony Music Entertainment (Japan), Inc.|1994
 106978|Bakushou Yoshimoto Shinkigeki|Bakushou Yoshimoto Shinkigeki|Bakushou Yoshimoto no Shinkigeki|Platform,|1||Hudson Soft|Hudson Soft|1994
-107053|Battle Shanghai - Dragon's Eye ~ Shanghai 3 - Dragon's Eye|Battle Shanghai - Dragon's Eye ~ Shanghai 3 - Dragon's Eye|||||||
-106905|Shin Nihon Pro Wrestling - '94 Battlefield In Tokyo Dome|BATTLEFIELD '94 IN SUPER BATTLE DREAM||Fight / Versus,Fight,|||Fujicom|Fujicom|1994
-141154|Bazaru Degozaru No Game Degozaru|Bazaru Degozaru No Game Degozaru||Puzzle-Game,|||Game Freak, Inc.|NEC Home Electronics, Ltd.|1996
+107053|Battle Shanghai - Dragon's Eye ~ Shanghai 3 - Dragon's Eye|Battle Shanghai - Dragon's Eye ~ Shanghai 3 - Dragon's Eye||Board game,|5|Coop|||
+106905|Shin Nihon Pro Wrestling - '94 Battlefield In Tokyo Dome|BATTLEFIELD '94 IN SUPER BATTLE DREAM||Fight / Versus,Fight,|2|Coop|Fujicom|Fujicom|1994
+141154|Bazaru Degozaru No Game Degozaru|Bazaru Degozaru No Game Degozaru||Puzzle-Game,|1||Game Freak, Inc.|NEC Home Electronics, Ltd.|1996
 14538A|Beyond Shadowgate|Beyond Shadowgate||Adventure,|1||Turbo Technologies|Icom|1993
-106881|Bikkuriman Daijikai|Bikkuriman Daijikai||Simulation,|||Hudson Soft||1988
+106881|Bikkuriman Daijikai|Bikkuriman Daijikai||Simulation,|||Hudson Soft|Mutech|1988
 106979|Bishoujo Senshi Sailor Moon|Bishoujo Senshi Sailor Moon||Adventure,|1||Banpresto|Banpresto|1994
-107056|Bishoujo Senshi Sailor Moon Collection|Bishoujo Senshi Sailor Moon Collection||,Arcade|||Banpresto|Banpresto|1994
-107054|Black Hole Assault|Black Hole Assault||Action|||Micronet Co. Ltd.|Micronet Co. Ltd.|1993
+107056|Bishoujo Senshi Sailor Moon Collection|Bishoujo Senshi Sailor Moon Collection||Arcade,|||Banpresto|Banpresto|1994
+107054|Black Hole Assault|Black Hole Assault||Action,Fighter,|2|Coop|Micronet Co. Ltd.|Micronet Co. Ltd.|1993
 106878|Blood Gear|Blood Gear||Action / Adventure,Action,|1||Westone Co., Ltd.|Hudson Soft Company, Ltd.|1994
-103567|Bomberman - Panic Bomber|Bomberman - Panic Bomber|Bomberman's Panic Bomber|Puzzle-Game,|2||Hudson Soft|Hudson Soft|1994
+103567|Bomberman - Panic Bomber|Bomberman - Panic Bomber|Bomberman's Panic Bomber|Puzzle-Game,|5|Coop|Hudson Soft|Hudson Soft|1994
 14587A|Bonanza Bros.|Bonanza Bros.||Platform,|2|Coop|Sega|Sega|1992
-103568|Bonk 3 - Bonk's Big Adventure|Bonk 3 - Bonk's Big Adventure|Bonk III - Bonk's Big Adventure|Platform,|1||Hudson|NEC|1993
+103568|Bonk 3 - Bonk's Big Adventure|Bonk 3 - Bonk's Big Adventure|Bonk III - Bonk's Big Adventure|Platform,|2|Coop|Hudson|NEC|1993
 14536A|Brandish|Brandish||Role playing games,|1||Nihon Falcom|Nec Interchannel|1994
-153994|Bravoman|Bravoman|||||||
-103569|Browning|Browning||Action|1||Riot|Telenet Japan Co., Ltd.|1992
-103570|Builder Land|Builder Land|Builderland|,Puzzle|||||
-106879|Builderland - The Story Of Melba|Builderland - The Story Of Melba|||||||
-107055|Burai - Yatsudama No Yuushi Densetsu|Burai - Yatsudama No Yuushi Densetsu||Role playing games,|1||Pandora Box|Riverhill Soft Inc.|
+153994|Bravoman|Bravoman||Action,Arcade,,|||||
+103569|Browning|Browning||Action,Shooter,,|1||Riot|Telenet Japan Co., Ltd.|1992
+103570|Builder Land|Builder Land|Builderland|Platformer,Puzzle,||||Loriciel|1992
+106879|Builderland - The Story Of Melba|Builderland - The Story Of Melba||Puzzle,Platform,,|1|||Micro World|1993
+107055|Burai - Yatsudama No Yuushi Densetsu|Burai - Yatsudama No Yuushi Densetsu||Role playing games,|1||Pandora Box|Riverhill Soft Inc.|1991
 106880|Burai 2 - Yami Koutei No Gyakushuu|Burai 2 - Yami Koutei No Gyakushuu||Role playing games,|1||Riverhill Soft Inc.|Pandora Box|1992
 103571|Buster Bros|Buster Bros||Action,Puzzle-Game,|2||Mitchell|Hudson Soft|1991
 106861|Cal 2|Cal 2||Adventure,|1||Birdy Soft|NEC Avenue, Ltd.|1993
@@ -46,333 +46,333 @@
 106863|Campaign Version - Daisenryaku 2|Campaign Version - Daisenryaku 2||Strategy,|2||Systemsoft|Micro Cabin Corp.|1992
 106848|Cardangels|Cardangels||Casino,|1||Fujicom||1994
 14466A|Akumajou Dracula X - Chi No Rondo|Castlevania : Rondo of Blood||Platform,|1||Konami|Konami|1993
-106873|Cd Battle - Hikari No Yuusha-tachi|Cd Battle - Hikari No Yuusha-tachi|||2||King Record Co. Ltd.|King Record Co. Ltd.|1993
-153154|Cd Hanafuda - Bishoujo Fan Club|Cd Hanafuda - Bishoujo Fan Club|||||||
-106866|Cd Mahjong Bishoujo Chuushinha|Cd Mahjong Bishoujo Chuushinha|CD Mahjong Bishoujo Tyuushinha|,Mahjong|||||
-141121|Cd Pachi-slot - Bishoujo Gambler|Cd Pachi-slot - Bishoujo Gambler|||||||
-119200|Chiki Chiki Boys|Chiki Chiki Boys||Action,Platform,|2||Capcom|NEC Avenue, Ltd.|1994
+106873|Cd Battle - Hikari No Yuusha-tachi|Cd Battle - Hikari No Yuusha-tachi||Role-Playing,|2|Coop|King Record Co. Ltd.|King Record Co. Ltd.|1993
+153154|Cd Hanafuda - Bishoujo Fan Club|Cd Hanafuda - Bishoujo Fan Club||Casino,||||Game Express|1994
+106866|Cd Mahjong Bishoujo Chuushinha|Cd Mahjong Bishoujo Chuushinha|CD Mahjong Bishoujo Tyuushinha|Board Game,|1|||Game Express|1993
+141121|Cd Pachi-slot - Bishoujo Gambler|Cd Pachi-slot - Bishoujo Gambler||Casino,Adult,|||||
+119200|Chiki Chiki Boys|Chiki Chiki Boys||Action,Platform,|2|Coop|Capcom|NEC Avenue, Ltd.|1994
 14480A|Cho Aniki - Super Big Brothers|Cho Aniki : Super Big Brothers||Shoot'em Up,|||Masaya|NCS Corp|1992
 106870|Chou Jikuu Yousai Macross - Eien No Love Song|Chou Jikuu Yousai Macross - Eien No Love Song||Strategy,|1||Nippon Computer System|Masaya|1992
 106869|Chou Jikuu Yousai Macross 2036|Chou Jikuu Yousai Macross 2036||Shoot'em up / Horizontal,Shoot'em Up,|1||NCS|Masaya|1992
-106857|Space Adventure Cobra - Kokuryuuou No Densetsu|COBRA - KOKURYO'S LEGEND|||||||
-141155|Color Wars|Color Wars||Puzzle-Game,|4||Tomcat System|Coconuts Japan Entertainment Co., Ltd.|1992
+106857|Space Adventure Cobra - Kokuryuuou No Densetsu|COBRA - KOKURYO'S LEGEND||Adventure,|1|||Hudson Soft|1994
+141155|Color Wars|Color Wars||Puzzle-Game,|4|Coop|Tomcat System|Coconuts Japan Entertainment Co., Ltd.|1992
 106868|Cosmic Fantasy - Bouken Shounen Yuu|Cosmic Fantasy - Bouken Shounen Yuu||Role playing games,|||Shin-Nihon Laser Soft Co., Ltd.|Telenet Japan Co., Ltd.|1990
 103577|Cosmic Fantasy 2|Cosmic Fantasy 2||Role playing games,|1||Nippon Telenet|Telenet Japan|1991
 106867|Cosmic Fantasy 3 - Bouken Shounen Rei|Cosmic Fantasy 3 - Bouken Shounen Rei|Cosmic Fantasy III - Bouken Shounen Rei|Role playing games,|1||Shin-Nihon Laser Soft Co., Ltd.|Telenet Japan Co., Ltd.|1992
-106864|Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen|Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen||Role playing games,|||Shin-Nihon Laser Soft Co., Ltd.|Telenet Japan Co., Ltd.|1994
+106864|Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen|Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen||Role playing games,|1||Shin-Nihon Laser Soft Co., Ltd.|Telenet Japan Co., Ltd.|1994
 143378|Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen|Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen||Role playing games,|1||Shin-Nihon Laser Soft Co., Ltd.|Telenet Japan Co., Ltd.|1994
 103578|Cotton - Fantastic Night Dreams|Cotton - Fantastic Night Dreams||Shoot'em up / Horizontal,Shoot'em Up,|1||Success Corporation|Hudson|1993
 106865|Cyber City Oedo 808 - Kemono No Alignment|Cyber City Oedo 808 - Kemono No Alignment||Adventure,|||NCS Corporation|Masaya|1991
-109085|Daisenpuu Custom|Daisenpuu Custom|Daisenpu Custom|Shooter,|||Toaplan Co., Ltd.|NEC Avenue, Ltd.|1991
-107021|Davis Cup Tennis, The|Davis Cup Tennis, The||Sports,|||Loriciels|Micro World|1992
+109085|Daisenpuu Custom|Daisenpuu Custom|Daisenpu Custom|Shooter,|1||Toaplan Co., Ltd.|NEC Avenue, Ltd.|1991
+107021|Davis Cup Tennis, The|The Davis Cup Tennis||Sports,|4|Coop|Loriciels|Micro World|1992
 107026|De-ja|De-ja|De Ja|Adventure,|1||Elf Co., Ltd.|NEC Interchannel, Ltd.|1996
 107022|Death Bringer - The Knight Of Darkness|Death Bringer - The Knight Of Darkness||Role playing games,|1||Renovation Game|Telenet Japan Co., Ltd.|1990
-107027|Dekoboko Densetsu - Hashiru Wagamanmaa|Dekoboko Densetsu - Hashiru Wagamanmaa|Dekoboko Densetsu - Hashire Wagamanma|,Racing|||||
-107028|Dennou Tenshi - Digital Ange|Dennou Tenshi - Digital Ange|Dennou Tenshi - Digital Angel|,Adventure|||||
-119202|Doraemon - Nobita No Dorabian Night|Doraemon - Nobita No Dorabian Night||Action / Adventure,Action,|||Now Production Co., Ltd.|Hudson Soft|1992
-14477A|Double Dragon 2 - The Revenge|Double Dragon II : The Revenge||Beat'em Up,|||Virgin|Tecmo|1993
-107023|Doukyuusei|Doukyuusei||,Adventure|||||
+107027|Dekoboko Densetsu - Hashiru Wagamanmaa|Dekoboko Densetsu - Hashiru Wagamanmaa|Dekoboko Densetsu - Hashire Wagamanma|Action,Racing,Arcade,,|5|||Telenet Japan Co., Ltd.|1990
+107028|Dennou Tenshi - Digital Ange|Dennou Tenshi - Digital Ange|Dennou Tenshi - Digital Angel|Adventure,,|1|||Tokuma Shoten Intermedia Inc|1994
+119202|Doraemon - Nobita No Dorabian Night|Doraemon - Nobita No Dorabian Night||Action / Adventure,Action,|1||Now Production Co., Ltd.|Hudson Soft|1992
+14477A|Double Dragon 2 - The Revenge|Double Dragon II : The Revenge||Beat'em Up,|2|Coop|Virgin|Tecmo|1993
+107023|Doukyuusei|Doukyuusei||Simulation,||||Flight-Plan|1995
 109088|Download 2|Download 2||Shoot'em up / Horizontal,Shoot'em Up,|1||AlfaSystem Co., Ltd.|NEC Avenue|1991
-141156|Downtown Nekketsu Monogatari|Downtown Nekketsu Monogatari||Fighting,|2||Kid|Naxat Soft|1993
-107024|Dragon Ball Z - Idainaru Son Gokuu Densetsu|Dragon Ball Z : Idainaru Goku Densetsu||Fight,|||Bandai|Bandai|1994
-107025|Dragon Half|Dragon Half||,RPG|||||
-107029|Dragon Knight 2|Dragon Knight 2|||||||
-143938|Dragon Knight And Grafitti|Dragon Knight And Grafitti|Dragon Knight & Grafitti|,RPG|||||
-14486A|Dragon Knight 3|Dragon Knight III|Dragon Knight II|,Adventure|||Elf Co.|NEC|1994
+141156|Downtown Nekketsu Monogatari|Downtown Nekketsu Monogatari||Fighting,|2|Coop|Kid|Naxat Soft|1993
+107024|Dragon Ball Z - Idainaru Son Gokuu Densetsu|Dragon Ball Z : Idainaru Goku Densetsu||Fight,|1||Bandai|Bandai|1994
+107025|Dragon Half|Dragon Half||Board game,|4|Coop||Micro Cabin|1994
+107029|Dragon Knight 2|Dragon Knight 2||RPG,Adult,,|1||||
+143938|Dragon Knight And Grafitti|Dragon Knight And Grafitti|Dragon Knight & Grafitti|Role-Playing,|1|||NEC Avenue, Ltd.|1995
+14486A|Dragon Knight 3|Dragon Knight III|Dragon Knight II|RPG,|1||Elf Co.|NEC|1994
 14533A|Dragon Slayer - The Legend Of Heroes|Dragon Slayer : The Legend of Heroes||Role playing games,|1||Falcom|Hudson|1991
-14595A|Dragon Slayer - The Legend Of Heroes 2|Dragon Slayer : The Legend of Heroes II|||||Falcom|Hudson|1992
-103580|Dungeon Explorer 2|Dungeon Explorer II||Action,|5||Atlus|Hudson Soft|1993
-103579|Dungeon Master - Theron's Quest|Dungeon Master - Theron's Quest||Role-Playing,|||FTL Games|Victor Musical Industries, Inc.|1992
-141175|Tenchi Wo Kurau|Dynasty Wars||,Fighter|||||
-106871|Efera And Jiliora - The Emblem From Darkness|Efera And Jiliora - The Emblem From Darkness|Efera & Jiliora - The Emblem From Darkness|,Adventure|||||
-106872|Eikan Wa Kimi Ni - Koukou Yakyuu Zenkoku Taikai|Eikan Wa Kimi Ni - Koukou Yakyuu Zenkoku Taikai|||||||
-153406|Eiyuu Sangokushi|Eiyuu Sangokushi|Eiyuu Sankokushi|,Strategy|||||
+14595A|Dragon Slayer - The Legend Of Heroes 2|Dragon Slayer : The Legend of Heroes II||RPG,|1||Falcom|Hudson|1992
+103580|Dungeon Explorer 2|Dungeon Explorer II||Action,RPG,|5|Coop|Atlus|Hudson Soft|1993
+103579|Dungeon Master - Theron's Quest|Dungeon Master - Theron's Quest||Role-Playing,|1||FTL Games|Victor Musical Industries, Inc.|1992
+141175|Tenchi Wo Kurau|Dynasty Wars||Action,,|2|Coop|||1994
+106871|Efera And Jiliora - The Emblem From Darkness|Efera And Jiliora - The Emblem From Darkness|Efera & Jiliora - The Emblem From Darkness|Role-Playing,|2|Coop||Brain Grey|1991
+106872|Eikan Wa Kimi Ni - Koukou Yakyuu Zenkoku Taikai|Eikan Wa Kimi Ni - Koukou Yakyuu Zenkoku Taikai||Sports,|1|||ArtDink|1994
+153406|Eiyuu Sangokushi|Eiyuu Sangokushi|Eiyuu Sankokushi|Strategy,||||Irem|1993
 106874|Emerald Dragon|Emerald Dragon||Role-Playing,|1||Alfa System|NEC Home Electronics|1994
 14564A|Exile|Exile||Role playing games,|1||Working Designs|Telenet|1991
-103563|Exile 2 - Wicked Phenomenon|Exile 2 - Wicked Phenomenon||Role playing games,|||AlfaSystem Co., Ltd.|Working Designs|1992
-106889|F1 Circus Special - Pole To Win|F1 Circus Special - Pole To Win||,F1 racing|||Nihon Bussan Co., Ltd.|Nihon Bussan Co., Ltd.|1992
-106890|F1 Team Simulation - Project F|F1 Team Simulation - Project F|||||||
-107001|Faceball|Faceball||Shooter,|2||Xanth Software F/X, Inc.|Riverhill Soft Inc.|1993
-107002|Faerie Dust Story - Meikyuu No Elfeene|Faerie Dust Story - Meikyuu No Elfeene||,Adventure|||||
+103563|Exile 2 - Wicked Phenomenon|Exile 2 - Wicked Phenomenon||Role playing games,|1||AlfaSystem Co., Ltd.|Working Designs|1992
+106889|F1 Circus Special - Pole To Win|F1 Circus Special - Pole To Win||F1 racing,|1||Nihon Bussan Co., Ltd.|Nihon Bussan Co., Ltd.|1992
+106890|F1 Team Simulation - Project F|F1 Team Simulation - Project F||Racing,Simulation,,|1|||Shin-Nihon Laser Soft Co., Ltd.|1992
+107001|Faceball|Faceball||Shooter,|2|Coop|Xanth Software F/X, Inc.|Riverhill Soft Inc.|1993
+107002|Faerie Dust Story - Meikyuu No Elfeene|Faerie Dust Story - Meikyuu No Elfeene||Adventure,|1|||Nippon Telenet|1990
 103574|Fantasy Star Soldier|Fantasy Star Soldier||Shoot'em up / Vertical,Shoot'em Up,|1||Inter State|Hudson Soft / Konami|1992
-107003|Far East Of Eden - Tengai Makyou - Fuun Kabuki-den|Far East Of Eden - Tengai Makyou - Fuun Kabuki-den|||||||
-14561A|Far East Of Eden - Kabuki|Far East of Eden : Kabuki|||||Red Entertainment|Hudson|1993
-14569A|Far East Of Eden - Ziria|Far East of Eden : Ziria|||||Red Entertainment|Hudson|1989
-14540A|Far East Of Eden 2 - Manjimaru|Far East of Eden II : Manjimaru|||||Red Entertainment|Hudson|1992
-153392|Farjius No Jakoutei - Neo Metal Fantasy|Farjius No Jakoutei - Neo Metal Fantasy||,RPG|||||
-106966|Garou Densetsu Special|Fatal Fury Special||Fight / 2D,Fight,|2||SNK Corporation|Hudson Soft|1994
+107003|Far East Of Eden - Tengai Makyou - Fuun Kabuki-den|Far East Of Eden - Tengai Makyou - Fuun Kabuki-den||RPG,|||||
+14561A|Far East Of Eden - Kabuki|Far East of Eden : Kabuki||RPG,|||Red Entertainment|Hudson|1993
+14569A|Far East Of Eden - Ziria|Far East of Eden : Ziria||RPG,|||Red Entertainment|Hudson|1989
+14540A|Far East Of Eden 2 - Manjimaru|Far East of Eden II : Manjimaru||RPG,|||Red Entertainment|Hudson|1992
+153392|Farjius No Jakoutei - Neo Metal Fantasy|Farjius No Jakoutei - Neo Metal Fantasy||RPG,|1|||Human Entertaiment|1992
+106966|Garou Densetsu Special|Fatal Fury Special||Fight / 2D,Fight,|2|Coop|SNK Corporation|Hudson Soft|1994
 119203|Fausseté Amour|Fausseté Amour|Faussete Amour|Platform,|1||AIM|Naxat Soft|1993
-107004|Fiend Hunter|Fiend Hunter||Action,Adventure|||Right Stuff|Right Stuff|1993
-14485A|Fighting Street|Fighting Street||Fight,|2||Nec Interchannel|Capcom|1989
-103575|Final Zone 2|Final Zone II||Action,|||Renovation Game|NEC Technologies, Inc.|1990
-109089|Flash Hiders|Flash Hiders||,Fighting|||Right Stuff Corp.|Right Stuff Corp.|1993
+107004|Fiend Hunter|Fiend Hunter||Action,Beat'em Up,|||Right Stuff|Right Stuff|1993
+14485A|Fighting Street|Fighting Street||Fight,|2|Coop|Nec Interchannel|Capcom|1989
+103575|Final Zone 2|Final Zone II||Action,Shooter,|1||Renovation Game|NEC Technologies, Inc.|1990
+109089|Flash Hiders|Flash Hiders||Fighter,|2|Coop|Right Stuff Corp.|Right Stuff Corp.|1993
 14578A|Forgotten Worlds|Forgotten Worlds||Shooter,|1||U.S. Gold|Capcom|1992
-153398|Formation Soccer 95 Della Serie A|Formation Soccer 95 Della Serie A|Formation Soccer '95 - Della Serie A|,Soccer|||||
-106887|In Magical Adventure - Fray Cd - Xak Gaiden|Fray in Magical Adventure|||||||
-107005|Fushigi No Umi No Nadia - The Secret Of Blue Water|Fushigi No Umi No Nadia - The Secret Of Blue Water|||||||
+153398|Formation Soccer 95 Della Serie A|Formation Soccer 95 Della Serie A|Formation Soccer '95 - Della Serie A|Sports,Soccer,,|4|Coop||Human Entertaiment|1995
+106887|In Magical Adventure - Fray Cd - Xak Gaiden|Fray in Magical Adventure||Action,Shooter,,|||||
+107005|Fushigi No Umi No Nadia - The Secret Of Blue Water|Fushigi No Umi No Nadia - The Secret Of Blue Water||Adventure,|1|||Hudson Soft|1993
 14494A|Gain Ground Sx|Gain Ground SX||Strategy,|||NEC Avenue|Sega|1992
-141157|Galaxy Keiji Gayvan|Galaxy Keiji Gayvan||Action,|||Fill in Café Co., Ltd.|Intec Inc.|1993
-106972|Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi|Gambler Jiko Chuushinha|||||||
-78655A|Games Express Cd Card|Games Express CD Card|||||NEC Corporation|NEC Corporation|
-106965|Garou Densetsu 2 - Aratanaru Tatakai|Fatal Fury 2||Fight,|||SNK Corporation|Hudson Soft|1994
+141157|Galaxy Keiji Gayvan|Galaxy Keiji Gayvan||Action,|2|Coop|Fill in Café Co., Ltd.|Intec Inc.|1993
+106972|Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi|Gambler Jiko Chuushinha||Board game,|||||
+78655A|Games Express Cd Card|Games Express CD Card||Software,|||NEC Corporation|NEC Corporation|
+106965|Garou Densetsu 2 - Aratanaru Tatakai|Fatal Fury 2||Fight,|2|Coop|SNK Corporation|Hudson Soft|1994
 14496A|Gate Of Thunder|Gate of Thunder||Shoot'em Up,Shoot'em up / Horizontal,|1||Red Company|Hudson|1992
-106967|Genocide|Genocide||Action|1||Brain Grey||1992
-106968|Ginga Fukei Densetsu Sapphire|Ginga Fukei Densetsu Sapphire||Shoot'em up / Vertical,Shoot'em Up,|2||CAProduction|Hudson|1995
-106977|Ginga Ojousama Densetsu Yuna|Ginga Ojousama Densetsu Yuna|||||||
-106969|Ginga Ojousama Densetsu Yuna 2 - Eien No Princess|Ginga Ojousama Densetsu Yuna 2 - Eien No Princess|||||||
-153394|Go! Go! Birdie Chance|Go! Go! Birdie Chance||,Adventure|||||
-106970|God Panic - Shijou Saikyou No Gundan|God Panic - Shijou Saikyou No Gundan|||||Teichiku Co., LTD.|Teichiku Co., LTD.|1992
-103561|Godzilla|Godzilla||Fighting,|2||Hudson Soft Company, Ltd.|Toho Co.,Ltd.|1993
+106967|Genocide|Genocide||Action|1||Brain Grey|Zoom|1992
+106968|Ginga Fukei Densetsu Sapphire|Ginga Fukei Densetsu Sapphire||Shoot'em up / Vertical,Shoot'em Up,|2|Coop|CAProduction|Hudson|1995
+106977|Ginga Ojousama Densetsu Yuna|Ginga Ojousama Densetsu Yuna||Adventure,||||Will|1995
+106969|Ginga Ojousama Densetsu Yuna 2 - Eien No Princess|Ginga Ojousama Densetsu Yuna 2 - Eien No Princess||Adventure,|1||||1995
+153394|Go! Go! Birdie Chance|Go! Go! Birdie Chance||Sports,|3|Coop||HuneX|1996
+106970|God Panic - Shijou Saikyou No Gundan|God Panic - Shijou Saikyou No Gundan||Shoot'em Up,|1||Teichiku Co., LTD.|Teichiku Co., LTD.|1992
+103561|Godzilla|Godzilla||Fighting,|2|Coop|Hudson Soft Company, Ltd.|Toho Co.,Ltd.|1993
 106973|Golden Axe|Golden Axe||Fighting,|2||Team Shinobi|Telenet Japan Co., Ltd.|1990
-106971|Gotzendiener|Gotzendiener||,RPG|||Gainax Co., Ltd., Studio Alex, Ltd.|Nec Home|1994
-106974|Gradius 2 - Gofer No Yabou|Gradius 2 - Gofer No Yabou|||||Konami|Konami|1992
-153409|Gs|Gs||,Puzzle|||||
-106975|Gulclight Tdf 2|Gulclight Tdf 2||,Strategy|||||
-106976|Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection|Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection|||||||
-107038|Hataraku Shoujo - Tekipaki Working Love|Hataraku Shoujo - Tekipaki Working Love|||||||
-107039|Hatsukoi Monogatari|Hatsukoi Monogatari||,Adventure|||||
-141158|Hawk F-123|Hawk F-123||,Shooter|||||
-109090|Hellfire S - The Another Story|Hellfire S - The Another Story||,Shooter|||Toaplan Co., Ltd.|NEC Avenue|1991
-107040|High Grenadier|High Grenadier||,Strategy|||||
-119204|Hihou Densetsu - Chris No Bouken|Hihou Densetsu - Chris No Bouken|||||||
-107041|Himitsu No Hanazono|Himitsu No Hanazono||,Adventure|||||
-107042|Hokutosei No Onna - Nishimura Kyoutarou|Hokutosei No Onna - Nishimura Kyoutarou|||||||
-107045|Horror Story|Horror Story||Platform,Shooter,|2||Toaplan Co., Ltd.|NEC Avenue, Ltd.|1993
-145303|Hu Pga Tour - Powergolf 2 - Golfer|Hu Pga Tour - Powergolf 2 - Golfer|||||||
-107043|Human Sports Festival|Human Sports Festival||Sports,|2||Human Entertainment|Human Entertainment|1992
-107044|Hyaku Monogatari - Honto Ni Atta Kowai Hanashi|Hyaku Monogatari - Honto Ni Atta Kowai Hanashi||,Adventure|||||
-109096|Hyper Dyne Sidearms Special|Hyper Dyne Sidearms Special||,Shooter|||||
+106971|Gotzendiener|Gotzendiener||RPG,|||Gainax Co., Ltd., Studio Alex, Ltd.|Nec Home|1994
+106974|Gradius 2 - Gofer No Yabou|Gradius 2 - Gofer No Yabou||Shooter,|2||Konami|Konami|1992
+153409|GS Mikami|GS Mikami||Adventure,|1||||
+106975|Gulclight Tdf 2|Gulclight Tdf 2||Strategy,|||||1991
+106976|Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection|Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection||Board game,Mahjong,|||||
+107038|Hataraku Shoujo - Tekipaki Working Love|Hataraku Shoujo - Tekipaki Working Love||Simulation,|||||
+107039|Hatsukoi Monogatari|Hatsukoi Monogatari||Adventure,||||Tokuma Shoten|1994
+141158|Hawk F-123|Hawk F-123||Shooter,||||Make Software|1992
+109090|Hellfire S - The Another Story|Hellfire S - The Another Story||Shooter,|2|Coop|Toaplan Co., Ltd.|NEC Avenue|1991
+107040|High Grenadier|High Grenadier||Simulation,Strategy,||||Renovation Game|1991
+119204|Hihou Densetsu - Chris No Bouken|Hihou Densetsu - Chris No Bouken||Action,Adventure,|1|||Pack-In-Video|1991
+107041|Himitsu No Hanazono|Himitsu No Hanazono||Adventure,|1|||Tokuma Shoten|1993
+107042|Hokutosei No Onna - Nishimura Kyoutarou|Hokutosei No Onna - Nishimura Kyoutarou||Adventure,|1||||
+107045|Horror Story|Horror Story||Platform,Shooter,|2|Coop|Toaplan Co., Ltd.|NEC Avenue, Ltd.|1993
+145303|Hu Pga Tour - Powergolf 2 - Golfer|Hu Pga Tour - Powergolf 2 - Golfer||Sports,|4|Coop|||
+107043|Human Sports Festival|Human Sports Festival||Sports,|2|Coop|Human Entertainment|Human Entertainment|1992
+107044|Hyaku Monogatari - Honto Ni Atta Kowai Hanashi|Hyaku Monogatari - Honto Ni Atta Kowai Hanashi||Adventure,|1|||Hudson Soft Company, Ltd.|1995
+109096|Hyper Dyne Sidearms Special|Hyper Dyne Sidearms Special||Shooter,|1|||NEC Interchannel|1989
 107046|Hyper Wars|Hyper Wars||Strategy,|1||Hudson Soft|Hudson Soft|1994
-106845|Iga Ninden Gaiou|Iga Ninden Gaiou|Iga Ninden Gaou|,Action|1||||1993
-153997|Image Fight|Image Fight||,Shooter|1|||Irem|1992
-106886|Imagefight 2 - Operation Deepstriker|Imagefight 2 - Operation Deepstriker||Shooter / Vertical,Shooter,|||Irem|Irem|1992
+106845|Iga Ninden Gaiou|Iga Ninden Gaiou|Iga Ninden Gaou|Action,Platform,|1||||1993
+153997|Image Fight|Image Fight||Action,Arcade,Shooter,,|1|||Irem|1992
+106886|Imagefight 2 - Operation Deepstriker|Imagefight 2 - Operation Deepstriker||Shooter / Vertical,Shooter,|1||Irem|Irem|1992
 103581|Implode|Implode||Action,Puzzle,Strategy,|1||MindRec|MindRec|2002
-106923|Inoue Mami - Kono Hoshi Ni Tatta Hitori No Kimi|Inoue Mami - Kono Hoshi Ni Tatta Hitori No Kimi||,Adventure|||||
-106888|Iq Panic|Iq Panic||,Quiz|||||
-103582|It Came From The Desert|It Came From The Desert||Action,Adventure,|||Cinemaware|NEC|1992
-170097|J. League Tremendous Soccer '94|J. League Tremendous Soccer '94||,Soccer|||||
-103583|Jack Nicklaus Turbo Golf|Jack Nicklaus' World Tour Golf||Sports,|||Accolade|Victor Interactive Software|
-106884|Jantei Monogatari|Jantei Monogatari||,Mahjong|||||
-106885|Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen|Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen|||||||
-106883|Jantei Monogatari 3 - Saver Angels|Jantei Monogatari 3 - Saver Angels||,Mahjong|||||
-103585|Jb Harold Murder Club|Jb Harold Murder Club|||||||
-14498A|Jim Power In Mutant Planet|Jim Power in Mutant Planet|Jim Power - In Mutant Planet|,Action|||Loriciels|Loriciels|1993
-103584|John Madden Duo Cd Football|John Madden Duo Cd Football||Sports / Football,Sports,|||||1993
-106993|Kagami No Kuni No Legend|Kagami No Kuni No Legend|Kagamai no Kuni no Legend|,Adventure|||||
-106994|Kaizou Choujin Shubibinman 3 - Ikai No Princess|Kaizou Choujin Shubibinman 3 - Ikai No Princess|||||Masaya|NEC|1992
-141160|Kakutou Haou Densetsu Algunos|Kakutou Haou Densetsu Algunos||,Fighting|||||
-153396|Kawa No Nushitsuri - Shizen-ha|Kawa No Nushitsuri - Shizen-ha|||||||
+106923|Inoue Mami - Kono Hoshi Ni Tatta Hitori No Kimi|Inoue Mami - Kono Hoshi Ni Tatta Hitori No Kimi||Adventure,|1|||Hudson Soft|1992
+106888|Iq Panic|Iq Panic||Simulation,Strategy,,|5|Coop||Information Global Service|1992
+103582|It Came From The Desert|It Came From The Desert||Action,Adventure,|1||Cinemaware|NEC|1992
+170097|J. League Tremendous Soccer '94|J. League Tremendous Soccer '94||Soccer,|4|Coop|||1990
+103583|Jack Nicklaus Turbo Golf|Jack Nicklaus' World Tour Golf||Sports,|2||Accolade|Victor Interactive Software|1990
+106884|Jantei Monogatari|Jantei Monogatari||Board game,Adventure,||||Atlus|1990
+106885|Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen|Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen||Strategy,|1|||Atlus Co., Ltd|1992
+106883|Jantei Monogatari 3 - Saver Angels|Jantei Monogatari 3 - Saver Angels||Mahjong,|1|||Atlus Co., Ltd|1993
+103585|Jb Harold Murder Club|Jb Harold Murder Club||Adventure,|1|||Hudson Soft|1991
+14498A|Jim Power In Mutant Planet|Jim Power in Mutant Planet|Jim Power - In Mutant Planet|Action,Platform,Shooter,,|1||Loriciels|Loriciels|1993
+103584|John Madden Duo Cd Football|John Madden Duo Cd Football||Sports / Football,Sports,|2|Coop||Hudson Soft|1993
+106993|Kagami No Kuni No Legend|Kagami No Kuni No Legend|Kagamai no Kuni no Legend|Adventure,|1|||Mutech|1989
+106994|Kaizou Choujin Shubibinman 3 - Ikai No Princess|Kaizou Choujin Shubibinman 3 - Ikai No Princess||Action,|2|Coop|Masaya|NEC|1992
+141160|Kakutou Haou Densetsu Algunos|Kakutou Haou Densetsu Algunos||Fighter,|2|Coop||Fill In Cafe|1994
+153396|Kawa No Nushitsuri - Shizen-ha|Kawa No Nushitsuri - Shizen-ha||Role-Playing,Sports,|1|||Pack-In Video Co. LTD.|1992
 119205|Kaze Kiri - Ninja Action|Kaze Kiri - Ninja Action||Action|1||Naxat Soft|Naxat Soft|1994
-106951|Legend Of Xanadu - Kaze No Densetsu Xanadu|Kaze no Densetsu Xanadu |||||||
+106951|Legend Of Xanadu - Kaze No Densetsu Xanadu|Kaze no Densetsu Xanadu ||Action,RPG,|1||||1994
 106995|Kiaidan 00|Kiaidan 00|Kiaiden 00|Shoot'em up / Horizontal,Shoot'em Up,|||Riot|Telenet|1992
-106996|Kick Boxing, The|Kick Boxing, The||,Fighting|||||
+106996|Kick Boxing, The|Kick Boxing, The||Fighting,|2|Coop|||1992
 106997|Kisou Louga|Kisou Louga||Role playing games,|1||Kogado Studio|Kogado Studio|1993
-106998|Kisou Louga 2 - The Ends Of Shangrila|Kisou Louga 2 - The Ends Of Shangrila|||||||
-106999|Ko Seiki Beast Sanjuushi - Gaia Fukkatsu Kanketsu-hen|Ko Seiki Beast Sanjuushi - Gaia Fukkatsu Kanketsu-hen|||||||
-107000|Kuusou Kagaku Sekai Gulliver Boy|Kuusou Kagaku Sekai Gulliver Boy||,Adventure|||||
-106947|L-dis|L-dis||Shoot'em Up,|||||1991
+106998|Kisou Louga 2 - The Ends Of Shangrila|Kisou Louga 2 - The Ends Of Shangrila||Role-Playing,Strategy,|1|||NEC Home Electronics|1995
+106999|Ko Seiki Beast Sanjuushi - Gaia Fukkatsu Kanketsu-hen|Ko Seiki Beast Sanjuushi - Gaia Fukkatsu Kanketsu-hen||Role-Playing,|1|||Pack-In-Video|1994
+107000|Kuusou Kagaku Sekai Gulliver Boy|Kuusou Kagaku Sekai Gulliver Boy||Adventure,|1|||Hudson Soft Co., Ltd.|1995
+106947|L-dis|L-dis||Shoot'em Up,||||Dual|1991
 106948|Lady Phantom|Lady Phantom||Strategy,|1||Telenet Japan|Shin-Nihon Laser Soft Co., Ltd.|1991
-106949|Langrisser - Hikari No Matsuei|Langrisser - Hikari No Matsuei|Langrisser Hikari no Matsuei|,RPG|||||
-106950|Laplace No Ma|Laplace No Ma||,RPG|||||
+106949|Langrisser - Hikari No Matsuei|Langrisser - Hikari No Matsuei|Langrisser Hikari no Matsuei|Role-Playing,Strategy,||||NCS|1993
+106950|Laplace No Ma|Laplace No Ma||RPG,,|||||1993
 103565|Last Alert|Last Alert||Shooter,|||Shin-Nihon Laser Soft|NEC|1990
-106955|Last Armageddon|Last Armageddon||,RPG|||||
-106956|Legend Of Xanadu - Kaze No Densetsu Xanadu 2|Legend Of Xanadu - Kaze No Densetsu Xanadu 2|||||||
-141161|Legion|Legion|L-Dis|Shooter,|2||Renovation Game|Telenet Japan Co., Ltd.|1990
-141162|Lemmings|Lemmings||Puzzle,|||Kuusou Kagaku|Sunsoft|1992
-106952|Linda^3|Linda Cube|Linda?|,Adventure|||||
+106955|Last Armageddon|Last Armageddon||RPG,||||Brain Grey|1990
+106956|Legend Of Xanadu - Kaze No Densetsu Xanadu 2|Legend Of Xanadu - Kaze No Densetsu Xanadu 2||Action,RPG,|1||||1995
+141161|Legion|Legion|L-Dis|Shooter,|2|Coop|Renovation Game|Telenet Japan Co., Ltd.|1990
+141162|Lemmings|Lemmings||Puzzle,|2|Coop|Kuusou Kagaku|Sunsoft|1992
+106952|Linda^3|Linda Cube|Linda?|RPG,|1||AlfaSystem Co., Ltd., MARS Corporation|NEC Home Electronics, Ltd.|1995
 14473A|Loom|Loom||Adventure,|1||Turbo Technologies|LucasArts|1992
-106953|Lord Of Wars|Lord Of Wars||,Strategy|||||
-103564|Lords Of The Rising Sun|Lords Of The Rising Sun||,Strategy|||||
+106953|Lord Of Wars|Lord Of Wars||Strategy,,|||||1991
+103564|Lords Of The Rising Sun|Lords Of The Rising Sun||Action,Strategy,,|1|||NEC Technologies, Inc.|1992
 14547A|Lords Of Thunder|Lords of Thunder||Shoot'em Up,Shoot'em up / Horizontal,|1||Red Company|Hudson|1993
-141163|Mad Stalker - Full Metal Force|Mad Stalker - Full Metal Force|Mad Stalker Full Metal Force|,Action|||||
-14585A|Madou Monogatari I|Madou Monogatari I||,RPG|||NEC Avenue|Compile|1996
-106891|Magicoal|Magicoal||Action,Role-Playing,|2|Coop|NEC Home Electronics, Ltd.||1993
+141163|Mad Stalker - Full Metal Force|Mad Stalker - Full Metal Force|Mad Stalker Full Metal Force|Action,Fighting,,|2|Coop||NEC Interchannel|1994
+14585A|Madou Monogatari I|Madou Monogatari I||RPG,,|||NEC Avenue|Compile|1996
+106891|Magicoal|Magicoal||Action,Role-Playing,|2|Coop|NEC Home Electronics, Ltd.|NEC|1993
 106893|Mahjong Lemon Angel|Mahjong Lemon Angel||Strategy,|1||Micronics|Naxat|1994
-153397|Mahjong On The Beach|Mahjong On The Beach||,Mahjong|||||
-106892|Mahjong Vanilla Syndrome|Mahjong Vanilla Syndrome|||||||
-153404|Mamono Hunter Youko - Makai Kara No Tenkousei|Mamono Hunter Youko - Makai Kara No Tenkousei||,Adventure|||||
-153405|Mamono Hunter Youko - Tooki Yobigoe|Mamono Hunter Youko - Tooki Yobigoe||,Adventure|||||
-141164|Manhole|Manhole||,Adventure|||||
-106957|Manhole, The|Manhole, The||,Adventure|||||
-106894|Martial Champion|Martial Champion||Fight / 2D,Fight,|2||Konami|Konami|1993
-106895|Mashou Denki - La Valeur|Mashou Denki - La Valeur|Mashou Denki La Valeur|,RPG|||||
-14599A|Master Of Monsters|Master of Monsters||,Strategy|||System Soft|MicroCabin|1991
-106958|Mateki Densetsu Astralius|Mateki Densetsu Astralius|||||||
-106954|Megami Paradise|Megami Tengoku: Megami Paradise||,RPG|||||
-106959|Metal Angel|Metal Angel||,RPG|||||
-153189|Metal Angel 2|Metal Angel 2|||||||
-109091|Metamor Jupiter|Metamor Jupiter||,Shooter|||||
-141165|Meteor Blaster Dx|Meteor Blaster Dx|||||||
+153397|Mahjong On The Beach|Mahjong On The Beach||Board game,|1|||Home Data|1993
+106892|Mahjong Vanilla Syndrome|Mahjong Vanilla Syndrome||Strategy,Adult,,|1|||Nihon Bussan|1991
+153404|Mamono Hunter Youko - Makai Kara No Tenkousei|Mamono Hunter Youko - Makai Kara No Tenkousei||Adventure,|1|||Masaya|1992
+153405|Mamono Hunter Youko - Tooki Yobigoe|Mamono Hunter Youko - Tooki Yobigoe||Adventure,|1|||Masaya|1993
+141164|Manhole|Manhole||Adventure,Educational,,|1||||
+106957|Manhole, The|Manhole, The||Adventure,|1||||1991
+106894|Martial Champion|Martial Champion||Fight / 2D,Fight,|2|Coop|Konami|Konami|1993
+106895|Mashou Denki - La Valeur|Mashou Denki - La Valeur|Mashou Denki La Valeur|RPG,,|1|||Kogado Studio|1991
+14599A|Master Of Monsters|Master of Monsters||Strategy,|1||System Soft|MicroCabin|1991
+106958|Mateki Densetsu Astralius|Mateki Densetsu Astralius||RPG,||||Multimedia Intelligence Transfer|1991
+106954|Megami Paradise|Megami Tengoku: Megami Paradise||RPG,|||||1994
+106959|Metal Angel|Metal Angel||Strategy,||||Pack-in-Video|1993
+153189|Metal Angel 2|Metal Angel 2||Simulation,||||Pack-in-Video|1995
+109091|Metamor Jupiter|Metamor Jupiter||Shooter,|3|Coop||Flight-Plan|1993
+141165|Meteor Blaster Dx|Meteor Blaster Dx||Action,Arcade,Shooter,,|1|||MindRec|2004
 14505A|Might And Magic Book I|Might and Magic Book I||Role playing games,|||NEC Avenue|New World Computing|1992
-14475A|Might And Magic 3 - Isles Of Terra|Might and Magic III : Isles of Terra||Role playing games,|||New World Computing|Hudson|1993
-106960|Minesweeper|Minesweeper|Mine Sweeper|,Puzzle|||||
+14475A|Might And Magic 3 - Isles Of Terra|Might and Magic III : Isles of Terra||Role playing games,|1||New World Computing|Hudson|1993
+106960|Minesweeper|Minesweeper|Mine Sweeper|Puzzle,,|||||
 106896|Mirai Shounen Conan|Mirai Shounen Conan|Mirai Shonen Conan|Platform,|1||Telnet Japan|Telnet Japan|1992
-106962|Mitsubachi Gakuen|Mitsubachi Gakuen||,Adventure|||||
-106964|Monster Maker - Yami No Ryuukishi|Monster Maker - Yami No Ryuukishi||,Adventure|||||
-106961|Moonlight Lady|Moonlight Lady||Action,Role-Playing,|1||NEC Home Electronics, Ltd.||1993
-109094|Motoroader Mc|Motoroader Mc||,Racing|||||
-103573|Motteke Tamago|Motteke Tamago||Puzzle,|4||NAXAT Soft|Naxat Soft|1997
-106963|Mugen Senshi Valis - The Legend Of A Fantasm Soldier|Mugen Senshi Valis - The Legend Of A Fantasm Soldier|||||||
-145304|Mysterious Song|Mysterious Song|||||||
-109092|Mystic Formula|Mystic Formula||Shooter,|2||Micro Cabin Corp.|Micro Cabin Corp.|1993
+106962|Mitsubachi Gakuen|Mitsubachi Gakuen||Adventure,||||Hudson Soft|1990
+106964|Monster Maker - Yami No Ryuukishi|Monster Maker - Yami No Ryuukishi||Adventure,|||||1994
+106961|Moonlight Lady|Moonlight Lady||Action,Role-Playing,|1||NEC Home Electronics, Ltd.|NEC|1993
+109094|Motoroader Mc|Motoroader Mc||Racing,|5|Coop||Masaya|1992
+103573|Motteke Tamago|Motteke Tamago||Puzzle,|4|Coop|NAXAT Soft|Naxat Soft|1997
+106963|Mugen Senshi Valis - The Legend Of A Fantasm Soldier|Mugen Senshi Valis - The Legend Of A Fantasm Soldier||Action,Platform,|1|||NEC|1992
+145304|Mysterious Song|Mysterious Song||RPG,,|||||
+109092|Mystic Formula|Mystic Formula||Shooter,|2|Coop|Micro Cabin Corp.|Micro Cabin Corp.|1993
 106992|Nekketsu Koukou Dodgeball-bu Cd - Soccer-hen|Nekketsu Koukou Dodgeball-bu Cd - Soccer-hen||Sports / Soccer,Sports,|||||
-141166|Nekketsu Koushinkyoku - Soreyuke Daiundoukai|Nekketsu Koushinkyoku - Soreyuke Daiundoukai|||||||
-153395|Nekketsu Legend - Baseballer|Nekketsu Legend - Baseballer|Nekketsu Legend Baseball|,Baseball|||||
-107006|Nemurenu Yoru No Chiisana Ohanashi|Nemurenu Yoru No Chiisana Ohanashi||,Adventure|||||
-107009|Neo Nectaris|Neo Nectaris||,Strategy|||||
+141166|Nekketsu Koushinkyoku - Soreyuke Daiundoukai|Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai||Beat'em Up,|4|Coop|Technos Japan Corp.|Naxat Soft|1992
+153395|Nekketsu Legend - Baseballer|Nekketsu Legend - Baseballer|Nekketsu Legend Baseball|RPG,,|1|||Pack-In Video Co. LTD.|1995
+107006|Nemurenu Yoru No Chiisana Ohanashi|Nemurenu Yoru No Chiisana Ohanashi||Adventure,|1|||NEC|1993
+107009|Neo Nectaris|Neo Nectaris||Strategy,|2|Coop||Hudson Soft|1994
 107007|Nexzr|Nexzr||Shoot'em Up,|||Kaneko|Naxat Soft|1992
-107008|No-ri-ko|No-ri-ko||,Adventure|||||
-107010|Nobunaga No Yabou - Bushou Fuuunroku|Nobunaga No Yabou - Bushou Fuuunroku|Nobunaga no Yabou - Bushou Fuunroku|,Strategy|||||
-107011|Nobunaga No Yabou - Zenkokuban|Nobunaga No Yabou - Zenkokuban|Nobunaga no Yabou Zenkokuban|,Strategy|||||
-106924|Pachio-kun - Maboroshi No Densetsu|Pachio-kun - Maboroshi No Densetsu|||||||
-106925|Pachio-kun - Warau Uchuu|Pachio-kun - Warau Uchuu|Pachiokun Warau Uchuu|,Slot machine|||||
-106926|Pachio-kun 3 - Pachi-slot And Pachinko|Pachio-kun 3 - Pachi-slot And Pachinko|||||||
-106927|Palladion - Auto Crusher Palladium|Palladion - Auto Crusher Palladium|Paradion - Auto Crusher Palladium|,Fighting|||||
-106931|Pastel Lime|Pastel Lime||,Adventure|||||
-106932|Patlabor - Chapter Of Griffon|Patlabor - Chapter Of Griffon||,Action|||||
-153411|Police Connection|Police Connection||,Adventure|||||
-119206|Pop'n Magic|Pop'n Magic|Pop 'n Magic|Platform,|2||Riot|Telenet|
-14605A|Popful Mail|Popful Mail||,Adventure|||NEC Home Electronics|Nihon Falcom|
-14504A|Populous - The Promised Lands|Populous : The Promised Lands||Strategy,|||Bullfrog|Electronic Arts|1989
-103562|Prince Of Persia|Prince Of Persia||,Action|||||
+107008|No-ri-ko|No-ri-ko||Adventure,|||||1988
+107010|Nobunaga No Yabou - Bushou Fuuunroku|Nobunaga No Yabou - Bushou Fuuunroku|Nobunaga no Yabou - Bushou Fuunroku|Strategy,|8|||Koei Co., Ltd.|1993
+107011|Nobunaga No Yabou - Zenkokuban|Nobunaga No Yabou - Zenkokuban|Nobunaga no Yabou Zenkokuban|Strategy,|1|||Koei Co., Ltd.|1993
+106924|Pachio-kun - Maboroshi No Densetsu|Pachio-kun - Maboroshi No Densetsu||Simulation,Casino,,|1|||Coconuts Japan|1991
+106925|Pachio-kun - Warau Uchuu|Pachio-kun - Warau Uchuu|Pachiokun Warau Uchuu|Simulation,Casino,,|1|||Coconuts Japan|1992
+106926|Pachio-kun 3 - Pachi-slot And Pachinko|Pachio-kun 3 - Pachi-slot And Pachinko||Casino,|1|||Coconuts Japan|1994
+106927|Palladion - Auto Crusher Palladium|Palladion - Auto Crusher Palladium|Paradion - Auto Crusher Palladium|Strategy,|1|||Pack-In Video Co. LTD.|1994
+106931|Pastel Lime|Pastel Lime||Adventure,||||Naxact Soft|1992
+106932|Patlabor - Chapter Of Griffon|Patlabor - Chapter Of Griffon||Adventure,|1||Riverhill Soft Inc.|Riverhill Soft Inc.|1993
+153411|Police Connection|Police Connection||Board game,|5|Coop||Laser Soft|1993
+119206|Pop'n Magic|Pop'n Magic|Pop 'n Magic|Platform,|2|Coop|Riot|Telenet|1992
+14605A|Popful Mail|Popful Mail||Beat'em Up,Platformer,RPG,|||NEC Home Electronics|Nihon Falcom|1994
+14504A|Populous - The Promised Lands|Populous : The Promised Lands||Strategy,|1||Bullfrog|Electronic Arts|1989
+103562|Prince Of Persia|Prince Of Persia||Platformer,|1|||Agenda|1991
 106933|Princess Maker 1|Princess Maker 1||Role-Playing,|||Gainax Co. Ltd.|NEC Corporation|1995
-106928|Princess Maker 2|Princess Maker 2||,Adventure|||||
-106929|Princess Minerva|Princess Minerva|Princess Maker|,RPG|||||
-106936|Private Eye Dol|Private Eye Dol||,Adventure|||||
-106930|Pro Yakyuu Super, The|Pro Yakyuu Super, The||,Baseball|||||
-106934|Pro Yakyuu, The|Pro Yakyuu, The||,Baseball|||||
-106939|Psychic Detective Series Vol. 3 - Aya|Psychic Detective Series Vol. 3 - Aya||,Adventure|||||
-141123|Psychic Detective Series Vol. 4 - Orgel|Psychic Detective Series Vol. 4 - Orgel||,Adventure|||||
+106928|Princess Maker 2|Princess Maker 2||Simulation,||||NEC|1995
+106929|Princess Minerva|Princess Minerva|Princess Maker|RPG,||||RED Entertainment|1994
+106936|Private Eye Dol|Private Eye Dol||Adventure,||||HuneX|1995
+106930|Pro Yakyuu Super, The|Pro Yakyuu Super, The||Baseball,|2|Coop|||1992
+106934|Pro Yakyuu, The|Pro Yakyuu, The||Baseball,|2|Coop|||1990
+106939|Psychic Detective Series Vol. 3 - Aya|Psychic Detective Series Vol. 3 - Aya||Adventure,|1|||Data West|1992
+141123|Psychic Detective Series Vol. 4 - Orgel|Psychic Detective Series Vol. 4 - Orgel||Adventure,|1|||DataWest|1993
 106935|Psychic Storm|Psychic Storm||Shoot'em up / Vertical,Shoot'em Up,|2||Alfa System|Laser Soft|1992
-106937|Puyo Puyo Cd|Puyo Puyo Cd||,Puzzle|||||
-106938|Puyo Puyo Cd Tsuu|Puyo Puyo Cd Tsuu|||2|||Compile|1994
-107012|Quest Of Jongmaster - Janshin Densetsu|Quest Of Jongmaster - Janshin Densetsu|||||||
-107013|Quiz Avenue|Quiz Avenue||Strategy,|||Sofix Corporation|NEC Corporation|1991
-107018|Quiz Avenue 2|Quiz Avenue 2|||||||
-153400|Quiz Avenue 3|Quiz Avenue 3|Quiz Avenue|,Quiz|||||
-107014|Quiz Caravan Cult Q|Quiz Caravan Cult Q||,Quiz|||||
-107015|Quiz De Gakuensai|Quiz De Gakuensai||,Quiz|||||
-107016|Quiz Marugoto The World|Quiz Marugoto The World||,Quiz|||||
-107019|Quiz Marugoto The World 2 - Time Machine Ni Onegai!|Quiz Marugoto The World 2 - Time Machine Ni Onegai!||,Quiz|||||
-107017|Quiz No Hoshi - Star Of Quiz|Quiz No Hoshi - Star Of Quiz|||||||
-107020|Quiz Tonosama No Yabou|Quiz Tonosama No Yabou||,Quiz|||||
-106981|R-type Complete Cd|R-type Complete Cd||Shoot'em up / Horizontal,Shoot'em Up,|||Irem||1991
-14586A|Rainbow Islands|Rainbow Islands||Platform,|2||NEC Avenue|Taito|1993
-106982|Rally Championship|Rally Championship||,Racing|||||
-14570A|Ranma 1/2|Ranma 1/2|||||Combat|Combat|1990
-14542A|Ranma 1/2 - Datou Ganso Musabetsu Kakutou-ryuu!|Ranma 1/2 : Datou Ganso Musabetsu Kakutou-ryuu!|||||Combat|Aventure|1992
-14575A|Ranma 1/2 - Toraware No Hanayome|Ranma 1/2 : Toraware no Hanayome|||||||1991
+106937|Puyo Puyo Cd|Puyo Puyo||Puzzle,|2|Coop||Compile;Goo!|1994
+106938|Puyo Puyo Cd Tsuu|Puyo Puyo 2||Puzzle,|2|Coop||Compile|1994
+107012|Quest Of Jongmaster - Janshin Densetsu|Quest Of Jongmaster - Janshin Densetsu||Mahjong,RPG,|2|Coop|||1994
+107013|Quiz Avenue|Quiz Avenue||Strategy,|5|Coop|Sofix Corporation|NEC Corporation|1991
+107018|Quiz Avenue 2|Quiz Avenue 2||Strategy,Board Game,,|5|Coop|||
+153400|Quiz Avenue 3|Quiz Avenue 3|Quiz Avenue|RPG,Strategy,,|||||
+107014|Quiz Caravan Cult Q|Quiz Caravan Cult Q||Quiz,|5|Coop|||1993
+107015|Quiz De Gakuensai|Quiz De Gakuensai||Quiz,||||Naxact Soft|1993
+107016|Quiz Marugoto The World|Quiz Marugoto The World||Simulation,,|5|Coop||Atlus Co., Ltd|1991
+107019|Quiz Marugoto The World 2 - Time Machine Ni Onegai!|Quiz Marugoto The World 2 - Time Machine Ni Onegai!||Quiz,|5|Coop||Atlus Co., Ltd|1992
+107017|Quiz No Hoshi - Star Of Quiz|Quiz No Hoshi - Star Of Quiz||Quiz,|2|Coop|||1992
+107020|Quiz Tonosama No Yabou|Quiz Tonosama No Yabou||Quiz,||||CAPCOM|1992
+106981|R-type Complete Cd|R-type Complete Cd||Shoot'em up / Horizontal,Shoot'em Up,|2||Irem|Irem|1991
+14586A|Rainbow Islands|Rainbow Islands||Platform,|2|Coop|NEC Avenue|Taito|1993
+106982|Rally Championship|Rally Championship||Racing,Sports,,|||||1993
+14570A|Ranma 1/2|Ranma 1/2||Action,Arcade,Fighting,,|2|Coop|Combat||
+14542A|Ranma 1/2 - Datou Ganso Musabetsu Kakutou-ryuu!|Ranma 1/2 : Datou Ganso Musabetsu Kakutou-ryuu!||Action,Fighting,|1||Combat|Aventure|1992
+14575A|Ranma 1/2 - Toraware No Hanayome|Ranma 1/2 : Toraware no Hanayome||Adventure,,|1|||Masaya|1991
 107057|Rayxanber 2|Rayxanber 2||Shoot'em up / Vertical,Shoot'em Up,|1||Datawest|Datawest|1991
 109093|Rayxanber 3|Rayxanber 3|Rayxanber II|Shoot'em up / Horizontal,Shoot'em Up,|1||Datawest|Datawest|1992
-106980|Record Of Lodoss War|Record Of Lodoss War||,RPG|||||
-106983|Record Of Lodoss War 2|Record Of Lodoss War 2|||||||
-141167|Renny Blaster|Renny Blaster||,Action|||||
-106875|Ookami-teki Monshou - Crest Of Wolf|Riot Zone|||||||
+106980|Record Of Lodoss War|Record Of Lodoss War||RPG,,|1|||Hudson Soft|1992
+106983|Record Of Lodoss War 2|Record Of Lodoss War 2||RPG,,|||||
+141167|Renny Blaster|Renny Blaster||Action,Fighting,,|||||1995
+106875|Ookami-teki Monshou - Crest Of Wolf|Riot Zone||Beat'em Up,||||Hudson|1993
 107058|Road Spirits|Road Spirits||Racing,|1||Arc Co., Ltd.|Pack-In-Video Co., Ltd|1991
-107059|Rom Rom Stadium|Rom Rom Stadium||,Baseball|||||
-153412|Rom^2 Karaoke Vol. 1 - Suteki Ni Standard|Rom^2 Karaoke Vol. 1 - Suteki Ni Standard|||||||
-153413|Ruin - Kami No Isan|Ruin - Kami No Isan||,RPG|||||
-106984|Ryuuko No Ken|Ryuuko No Ken||,Fighting|||||
-106851|Sangokushi - Eiketsu Tenka Ni Nozomu|Sangokushi - Eiketsu Tenka Ni Nozomu|||||||
-106852|Sangokushi 3|Sangokushi 3|||||||
+107059|Rom Rom Stadium|Rom Rom Stadium||Sports,|2|Coop||Dual|1989
+153412|Rom^2 Karaoke Vol. 1 - Suteki Ni Standard|Rom^2 Karaoke Vol. 1 - Suteki Ni Standard||Miscellaneous,|4|Coop|||1990
+153413|Ruin - Kami No Isan|Ruin - Kami No Isan||RPG,|1|||Victor Entertainment Inc.|1993
+106984|Ryuuko No Ken|Art of Fighting||Fighter,|2|Coop||SNK|1994
+106851|Sangokushi - Eiketsu Tenka Ni Nozomu|Sangokushi - Eiketsu Tenka Ni Nozomu||Strategy,,|3|Coop||Naxat Soft|1991
+106852|Sangokushi 3|Sangokushi III||Strategy,|8||||1992
 106853|Seirei Senshi Spriggan|Seirei Senshi Spriggan||Shoot'em Up,|||Compile|Naxat Soft|1991
-106897|Seiryuu Densetsu - Monbit|Seiryuu Densetsu - Monbit|Seiryuu Densetsu Monbit|,RPG|||||
-143934|Seiya Monogatari - Anearth Fantasy Stories|Seiya Monogatari - Anearth Fantasy Stories||,Adventure|||||
-106898|Sengoku Kantou Sangokushi|Sengoku Kantou Sangokushi|Sengoku Kantou Sankokushi|,Strategy|||||
-106899|Sexy Idol Mahjong|Sexy Idol Mahjong||,Mahjong|||||
-106900|Sexy Idol Mahjong - Fashion Monogatari|Sexy Idol Mahjong - Fashion Monogatari|Sexy Idol Mahjong Fashion Monogatari|,Mahjong|||||
-106903|Sexy Idol Mahjong - Yakyuuken No Uta|Sexy Idol Mahjong - Yakyuuken No Uta|||||||
-14530A|Shadow Of The Beast|Shadow of the Beast||Beat'em Up,|||Reflections Interactive Limited|Psygnosis|1992
-106904|Shanghai 2|Shanghai 2|||||||
-103586|Shape Shifter|Shape Shifter|Shapeshifter|Action|11||ICOM Simulations, Inc.ICOM Simulations|Turbo Technologies, Inc.Turbo Technologies, Inc.|1992
-14508A|Sherlock Holmes - Consulting Detective - Vol. I|Sherlock Holmes : Consulting Detective : Vol. I|||||Victor Musical Industries|Icom|1991
-14579A|Sherlock Holmes - Consulting Detective - Vol. 2|Sherlock Holmes : Consulting Detective : Vol. II|||||Victor Musical Industries|Icom|1993
+106897|Seiryuu Densetsu - Monbit|Seiryuu Densetsu - Monbit|Seiryuu Densetsu Monbit|RPG,,|1|||Hudson Soft Company, Ltd.|1991
+143934|Seiya Monogatari - Anearth Fantasy Stories|Seiya Monogatari - Anearth Fantasy Stories||Adventure,|1|||Hudson Soft Company, Ltd.|1995
+106898|Sengoku Kantou Sangokushi|Sengoku Kantou Sangokushi|Sengoku Kantou Sankokushi|Strategy,,|||||
+106899|Sexy Idol Mahjong|Sexy Idol Mahjong||Strategy,,|||||1993
+106900|Sexy Idol Mahjong - Fashion Monogatari|Sexy Idol Mahjong - Fashion Monogatari|Sexy Idol Mahjong Fashion Monogatari|Strategy,,|4|||Nihon Bussan Co., Ltd.|1994
+106903|Sexy Idol Mahjong - Yakyuuken No Uta|Sexy Idol Mahjong - Yakyuuken No Uta||Strategy,Board Game,|1|||Nihon Bussan Co., Ltd.|1995
+14530A|Shadow Of The Beast|Shadow of the Beast||Beat'em Up,|1||Reflections Interactive Limited|Psygnosis|1992
+106904|Shanghai 2|Shanghai 2||Board game,|||||
+103586|Shape Shifter|Shape Shifter|Shapeshifter|Action,Beat'em Up,|11||ICOM Simulations, Inc.ICOM Simulations|Turbo Technologies, Inc.Turbo Technologies, Inc.|1992
+14508A|Sherlock Holmes - Consulting Detective - Vol. I|Sherlock Holmes : Consulting Detective : Vol. I||Adventure,|1||Victor Musical Industries|Icom|1991
+14579A|Sherlock Holmes - Consulting Detective - Vol. 2|Sherlock Holmes : Consulting Detective : Vol. II||Adventure,,|1||Victor Musical Industries|Icom|1993
 14472A|Shin Megami Tensei|Shin Megami Tensei||Role-Playing,|1||Atlus|Atlus|1992
-141124|Shin Onryou Senki|Shin Onryou Senki||,Adventure|||||
-106908|Shinsetsu Shiawase Usagi 2 - Kairaku E No Invitation|Shinsetsu Shiawase Usagi 2 - Kairaku E No Invitation|||||||
-141168|Shougi Database Kiyuu|Shougi Database Kiyuu|Shougi Database Giyuu|,Puzzle|||||
-14506A|Sim Earth - The Living Planet|Sim Earth : The Living Planet||Simulation,|||Maxis|Hudson|1993
+141124|Shin Onryou Senki|Shin Onryou Senki||Adventure,|||||1995
+106908|Shinsetsu Shiawase Usagi 2 - Kairaku E No Invitation|Shinsetsu Shiawase Usagi 2 - Kairaku E No Invitation||Miscellaneous,Miscellaneous,Miscellaneous,Miscellaneous,Visual Novel,|||||1996
+141168|Shougi Database Kiyuu|Shougi Database Kiyuu|Shougi Database Giyuu|Strategy,Board Game,,|2|Coop|||
+14506A|Sim Earth - The Living Planet|Sim Earth : The Living Planet||Simulation,|1||Maxis|Hudson|1993
 141170|Slime World|Slime World||Platform,Puzzle,|1||Epyx, Inc.|Micro World|1992
-106915|Snatcher Cd-romantic|Snatcher Cd-romantic|||||||
-106854|Sol Bianca|Sol Bianca||,RPG|||||
-153410|Sol Moonarge|Sol Moonarge||,RPG|||||
+106915|Snatcher Cd-romantic|Snatcher Cd-romantic||Adventure,|1||||
+106854|Sol Bianca|Sol Bianca||RPG,||||NCS Masaya|1990
+153410|Sol Moonarge|Sol Moonarge||RPG,,|||||1994
 144020|Solid Force|Solid Force||Strategy,|1||Kogado Studio|NEC Home Electronics|1995
-14600A|Sorcerian|Sorcerian||,RPG|||Nihon Falcom|Sega|1992
-106856|Sotsugyou - Graduation|Sotsugyou - Graduation||,Adventure|||||
-106855|Sotsugyou 2 - Neo Generation|Sotsugyou 2 - Neo Generation|||||||
-106916|Sotsugyou Shashin - Miki|Sotsugyou Shashin - Miki||,Adventure|||||
-106858|Space Adventure Cobra 2 - Densetsu No Otoko|Space Adventure Cobra 2 - Densetsu No Otoko|||||||
-141169|Space Fantasy Zone|Space Fantasy Zone||Action,Shooter,|1||NEC Avenue|NEC Avenue|
-119207|Space Invaders - The Original Game|Space Invaders - The Original Game||,Shooter|||||
-103587|Splash Lake|Splash Lake||Action,Strategy,|2||Bits Laboratory|Turbo Technologies, Inc.|1991
+14600A|Sorcerian|Sorcerian||Action,RPG,|||Nihon Falcom|Sega|1992
+106856|Sotsugyou - Graduation|Sotsugyou - Graduation||Adventure,|1|||NEC Avenue, Ltd.|1993
+106855|Sotsugyou 2 - Neo Generation|Sotsugyou 2 - Neo Generation||RPG,|1|||Riverhill Soft|1994
+106916|Sotsugyou Shashin - Miki|Sotsugyou Shashin - Miki||Adventure,|1|||Coconuts Japan Entertainment Co., Ltd.|1994
+106858|Space Adventure Cobra 2 - Densetsu No Otoko|Space Adventure Cobra 2 - Densetsu No Otoko||Miscellaneous,Miscellaneous,Miscellaneous,Miscellaneous,Visual Novel,|1|||Hudson Soft|1991
+141169|Space Fantasy Zone|Space Fantasy Zone||Action,Shooter,|1||NEC Avenue|NEC Avenue|1991
+119207|Space Invaders - The Original Game|Space Invaders - The Original Game||Shooter,|2|Coop||NEC Avenue, Ltd.|1995
+103587|Splash Lake|Splash Lake||Action,Strategy,|2|Coop|Bits Laboratory|Turbo Technologies, Inc.|1991
 109095|Spriggan Mark 2 - Re Terraform Project|Spriggan Mark 2 - Re Terraform Project||Shoot'em Up,Shoot'em up / Horizontal,|1||Compile|Naxat Soft|1992
-106860|Star Breaker|Star Breaker||,Adventure|||||
+106860|Star Breaker|Star Breaker||RPG,||||Ray Force|1994
 141171|Star Mobile|Star Mobile||Puzzle,|1||M.N.M Software|Naxat Soft|1992
-106917|Startling Odyssey|Startling Odyssey||,RPG|||||
-106901|Startling Odyssey 2 - Maryuu Sensou|Startling Odyssey 2 - Maryuu Sensou|||||||
-109101|Steam Hearts|Steam Hearts|||||||
-14528A|Strider|Strider||Adventure,|||NEC Avenue|Capcom|1994
-106909|Sugoroku, The '92 - Nari Tore - Nariagari Trendy|Sugoroku, The '92 - Nari Tore - Nariagari Trendy|||||||
-141172|Summer Carnival '92 - Alzadick|Summer Carnival '92 - Alzadick|Summer Carnival '92 - Alzadic|,Shooter|||||
-141173|Summer Carnival '93 - Nexzr Special|Summer Carnival '93 - Nexzr Special||,Shooter|||||
+106917|Startling Odyssey|Startling Odyssey||RPG,||||RayForce|1993
+106901|Startling Odyssey 2 - Maryuu Sensou|Startling Odyssey 2 - Maryuu Sensou||RPG,,|||||
+109101|Steam Hearts|Steam Hearts||Action,Arcade,Shooter,Adult,,|||||
+14528A|Strider|Strider||Adventure,|1||NEC Avenue|Capcom|1994
+106909|Sugoroku, The '92 - Nari Tore - Nariagari Trendy|Sugoroku, The '92 - Nari Tore - Nariagari Trendy||Board game,|4||||1991
+141172|Summer Carnival '92 - Alzadick|Summer Carnival '92 - Alzadick|Summer Carnival '92 - Alzadic|Action,Arcade,Shooter,,|1|||Naxat Soft|1992
+141173|Summer Carnival '93 - Nexzr Special|Summer Carnival '93 - Nexzr Special||Shooter,|1|||Naxat Soft|1993
 14518A|Super Air Zonk - Rockabilly Paradise|Super Air Zonk : Rockabilly Paradise||Shoot'em Up,|||Red Company|Hudson|1993
 106902|Super Albatross|Super Albatross||Sports,|1||Shin-Nihon Laser Soft Co., Ltd.|Telenet Japan Co., Ltd.|1989
-78777A|Super Cd-rom System|Super CD-ROM System|||||||
-106910|Super Darius|Super Darius||Shooter / Horizontal,Shooter,|||Taito|NEC Avenue|1990
-109097|Super Darius 2|Super Darius 2||Shooter / Horizontal,Shooter,|||Taito|Taito|1993
-106920|Super Daisenryaku|Super Great Strategy||,Strategy|||||
-106911|Super Mahjong Taikai|Super Mahjong Taikai||,Mahjong|||||
+78777A|Super Cd-rom System|Super CD-ROM System||Software,|||||
+106910|Super Darius|Super Darius||Shooter / Horizontal,Shooter,|1||Taito|NEC Avenue|1990
+109097|Super Darius 2|Super Darius 2||Shooter / Horizontal,Shooter,|1||Taito|Taito|1993
+106920|Super Daisenryaku|Super Great Strategy||Strategy,||||Micro Cabin|1990
+106911|Super Mahjong Taikai|Super Mahjong Taikai||Strategy,,|||||1992
 109104|Super Raiden|Super Raiden||Shoot'em Up,|1||Seibu Kaihatsu|Hudson Soft|1992
-106912|Super Real Mahjong P.v Custom|Super Real Mahjong P.v Custom|Super Real Mahjong P IV Custom|,Mahjong|||||
-106906|Super Real Mahjong Pii-iii Custom|Super Real Mahjong Pii-iii Custom|||||||
-106913|Super Real Mahjong Piv Custom|Super Real Mahjong Piv Custom|Super Real Mahjong P IV Custom|,Mahjong|||||
-106907|Super Real Mahjong Special - Miki Kasumi Shouko No Omoide Yori|Super Real Mahjong Special - Miki Kasumi Shouko No Omoide Yori|||||||
-106919|Super Schwarzschild|Super Schwarzschild||Strategy,|1||Kogado Software||1991
-106914|Super Schwarzschild 2|Super Schwarzschild 2||Strategy,|1||Kogado Software||1992
-153403|Sword Master|Sword Master||,RPG|||||1993
-141174|Syd Mead's Terra Forming|Syd Mead's Terra Forming|Sydmead's Terra Forming|,Shooter|||||
+106912|Super Real Mahjong P.v Custom|Super Real Mahjong P.v Custom|Super Real Mahjong P IV Custom|Board game,||||Seta Corporation|1995
+106906|Super Real Mahjong Pii-iii Custom|Super Real Mahjong Pii-iii Custom||Board game,Mahjong,|||||
+106913|Super Real Mahjong Piv Custom|Super Real Mahjong Piv Custom|Super Real Mahjong P IV Custom|Board game,Mahjong,|||||
+106907|Super Real Mahjong Special - Miki Kasumi Shouko No Omoide Yori|Super Real Mahjong Special - Miki Kasumi Shouko No Omoide Yori||Board game,Mahjong,|||||
+106919|Super Schwarzschild|Super Schwarzschild||Strategy,|1||Kogado Software|Kogado Studio|1991
+106914|Super Schwarzschild 2|Super Schwarzschild 2||Strategy,|1||Kogado Software|Kogado Studio|1992
+153403|Sword Master|Sword Master||RPG,||||Right Stuff|1993
+141174|Syd Mead's Terra Forming|Syd Mead's Terra Forming|Sydmead's Terra Forming|Action,Shooter,,|1|||Turbo Technologies, Inc.|1993
 109099|Sylphia|Sylphia||Shooter,|||Tonkin House|Tokyo Shoseki|1993
-153399|Tadaima Yuusha Boshuu-chuu|Tadaima Yuusha Boshuu-chuu|Tadaima Yusha Boshuuchuu|,Adventure|||||
-106849|Taiheiki|Taiheiki||,Strategy|||||
+153399|Tadaima Yuusha Boshuu-chuu|Tadaima Yuusha Boshuu-chuu|Tadaima Yusha Boshuuchuu|Role-Playing,|1|||Human Entertainment, Inc.|1993
+106849|Taiheiki|Taiheiki||Strategy,,|||||1991
 14525A|A.iii. - A Ressha De Ikou 3|Take the A-Train III||Simulation,|||Artdink|Artdink|1993
-106850|Tanjou - Debut|Tanjou - Debut|Tanjou Debut|,Adventure|||||
+106850|Tanjou - Debut|Tanjou - Debut|Tanjou Debut|Simulation,,|||||
 107030|Tecmo World Cup Super Soccer|Tecmo World Cup Super Soccer||Sports / Soccer,Sports,|2|Coop|Media Rings Corporation, Tecmo|Media Rings Corporation|1992
-107031|Tenchi Muyou! Ryououki|Tenchi Muyou! Ryououki|||||||
-141176|Tengai Makyou - Deden No Den|Tengai Makyou - Deden No Den||,Arcade|||||
+107031|Tenchi Muyou! Ryououki|Tenchi Muyou! Ryououki||Adventure,|1|||NEC Avenue, Ltd.|1995
+141176|Tengai Makyou - Deden No Den|Tengai Makyou - Deden No Den||Arcade,|5|Coop||Hudson Soft|1994
 145305|Tengai Makyou - Kabuki Ittouryoudan|Tengai Makyou - Kabuki Ittouryoudan|Tengai Makyou - Kabuki Itouryodan|Fight,|2||Hudson Soft|Hudson Soft|1995
-107032|Tenshi No Uta|Tenshi No Uta||,RPG|||||
-107037|Tenshi No Uta 2 - Datenshi No Sentaku|Tenshi No Uta 2 - Datenshi No Sentaku|||||||
+107032|Tenshi No Uta|Tenshi No Uta||RPG,||||Riot|1991
+107037|Tenshi No Uta 2 - Datenshi No Sentaku|Tenshi No Uta 2 - Datenshi No Sentaku||Role-Playing,|1|||Telenet Japan Co., Ltd.|1993
 14582A|Dynastic Hero, The|The Dynastic Hero||Role playing games,|||Westone|Hudson|1991
-107033|Tokimeki Memorial|Tokimeki Memorial||,Adventure|||||
-107034|Top O Nerae! Gunbuster Vol. 1|Top O Nerae! Gunbuster Vol. 1|||||||
-107035|Top O Nerae! Gunbuster Vol. 2|Top O Nerae! Gunbuster Vol. 2|||||||
-107036|Travel Eple|Travel Eple|Travel Epuru|Action,Arcade|2||Riot|Nippon Telenet|1992
-141177|Tv Show|Tv Show||,Arcade|||||
-106943|Uchuu Senkan Yamato|Uchuu Senkan Yamato||,Strategy|||||
-106946|Urusei Yatsura - Stay With You|Urusei Yatsura - Stay With You||,Adventure|||||
-103588|Valis 2|Valis 2|||||||1989
-103589|Valis 3|Valis 3|Valis II|,Action|||Telenet Japan||1990
-14584A|Valis Iv 4|Valis IV|Valis II|Platform,|||Laser Soft|Laser Soft|
-107060|Vasteel|Vasteel|Basted|Strategy,|1||Human Entertainment|Working Designs|1993
+107033|Tokimeki Memorial|Tokimeki Memorial||Adventure,||||Peach Princess|1994
+107034|Top O Nerae! Gunbuster Vol. 1|Top O Nerae! Gunbuster Vol. 1||Adventure,Visual Novel,,|||||
+107035|Top O Nerae! Gunbuster Vol. 2|Top O Nerae! Gunbuster Vol. 2||Adventure,,|||||
+107036|Travel Eple|Travel Eple|Travel Epuru|Action,Arcade|2|Coop|Riot|Nippon Telenet|1992
+141177|Tv Show|Tv Show||Action,Arcade,,|5|Coop|||
+106943|Uchuu Senkan Yamato|Uchuu Senkan Yamato||Strategy,|||||1992
+106946|Urusei Yatsura - Stay With You|Urusei Yatsura - Stay With You||Adventure,|1|||Hudson Soft Company, Ltd.|1990
+103588|Valis 2|Valis 2||Action,Platform,|1||||1989
+103589|Valis 3|Valis 3|Valis II|Platform,|1||Telenet Japan||1990
+14584A|Valis Iv 4|Valis IV|Valis II|Platform,|1||Laser Soft|Laser Soft|1991
+107060|Vasteel|Vasteel|Basted|Strategy,|2|Coop|Human Entertainment|Working Designs|1993
 107061|Vasteel 2|Vasteel 2||Strategy,|1||HuneX Co., Ltd.|Human Entertainment|1994
-106842|Where In The World Is Carmen Sandiego|Where In The World Is Carmen Sandiego|Where in The World is Carmen Sandiego?|,Adventure|||||
-106844|Wizardry 3-iv|Wizardry 3-iv|||||||
-106843|Wizardry I-ii|Wizardry I-ii|||||||
-14571A|Wizardry 5 - Heart Of The Maelstrom|Wizardry V : Heart of the Maelstrom|Wizardry V - Heart of The Maelstrom|,RPG|||Naxat Soft|Sir-tech|1992
-14517A|Wonder Boy 3 - Monster Lair|Wonder Boy III : Monster Lair|Wonder Boy III - Monster Lair|Shoot'em Up,Platform,|2||Alfa System|Hudson Soft|1989
-14576A|World Heroes 2|World Heroes 2||Fight,|2||Hudson|Hudson|1994
-153407|Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo Vs. Jwp|Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo Vs. Jwp|||||||
-106921|Xak|Xak||,Adventure|||||
-106922|Xak 3 - The Eternal Recurrence|Xak 3 - The Eternal Recurrence|Xak III - The Eternal Recurrence|,RPG|||||
-107047|Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken|Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken|||||||
-153401|Yami No Ketsuzoku - Harukanaru Kioku|Yami No Ketsuzoku - Harukanaru Kioku|Yami no Ketsuzoku Harukanaru Kioku|,Adventure|||||
-107051|Yawara! 2 - A Fashionable Judo Girl!|Yawara! 2 - A Fashionable Judo Girl!|||||||
-107052|Yawara! A Fashionable Judo Girl!|Yawara! A Fashionable Judo Girl!|||||||
-107048|Yokoyama Mitsuteru Shin Sangokushi - Tenka Wa Ware Ni|Yokoyama Mitsuteru Shin Sangokushi - Tenka Wa Ware Ni|||||||
+106842|Where In The World Is Carmen Sandiego|Where In The World Is Carmen Sandiego|Where in The World is Carmen Sandiego?|Educational,,|1|||Pack-In-Video Co., Ltd|1990
+106844|Wizardry 3-iv|Wizardry III.IV||RPG,|||||
+106843|Wizardry I-ii|Wizardry I.II||RPG,|1||||
+14571A|Wizardry 5 - Heart Of The Maelstrom|Wizardry V : Heart of the Maelstrom|Wizardry V - Heart of The Maelstrom|Role-Playing,|1||Naxat Soft|Sir-tech|1992
+14517A|Wonder Boy 3 - Monster Lair|Wonder Boy III : Monster Lair|Wonder Boy III - Monster Lair|Shoot'em Up,Platform,|2|Coop|Alfa System|Hudson Soft|1989
+14576A|World Heroes 2|World Heroes 2||Fight,|2|Coop|Hudson|Hudson|1994
+153407|Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo Vs. Jwp|Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo Vs. Jwp||Sports,|4|Coop|||1995
+106921|Xak|Xak||Action,RPG,,|1||||1992
+106922|Xak 3 - The Eternal Recurrence|Xak 3 - The Eternal Recurrence|Xak III - The Eternal Recurrence|Action,RPG,,|1|||NEC Home Electronics, Ltd.|1994
+107047|Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken|Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken||Adventure,|1|||Naxat Soft|1992
+153401|Yami No Ketsuzoku - Harukanaru Kioku|Yami No Ketsuzoku - Harukanaru Kioku|Yami no Ketsuzoku Harukanaru Kioku|Adventure,Visual Novel,,|1|||Naxat Soft|1993
+107051|Yawara! 2 - A Fashionable Judo Girl!|Yawara! 2 - A Fashionable Judo Girl!||Fighter,Adventure,Quiz,|2|Coop|||1994
+107052|Yawara! A Fashionable Judo Girl!|Yawara! A Fashionable Judo Girl!||Adventure,|1||||1992
+107048|Yokoyama Mitsuteru Shin Sangokushi - Tenka Wa Ware Ni|Yokoyama Mitsuteru Shin Sangokushi - Tenka Wa Ware Ni||Strategy,,|1|||Naxat Soft|1992
 14489A|Ys I And 2|Ys Book I & II||Role playing games,|1||Nihon Falcom|Hudson|1989
 14471A|Ys 3 - Wanderers From Ys|Ys III : Wanderers from Ys||Role playing games,|1||Nihon Falcom|Hudson|1991
 14499A|Ys 4 - The Dawn Of Ys|Ys IV : The Dawn of Ys|Ys IV - The Dawn of Ys|Role playing games,|1||Hudson|Hudson|1993
-141178|Yu Yu Hakusho - Anshoubu!! Ankoku Bujutsukai|Yu Yu Hakusho - Anshoubu!! Ankoku Bujutsukai|||||||
-106941|Zan - Kagerou No Toki|Zan - Kagerou No Toki|||||||
-106940|Zero 4 Champ 2|Zero 4 Champ 2|||||||
+141178|Yu Yu Hakusho - Anshoubu!! Ankoku Bujutsukai|Yu Yu Hakusho - Anshoubu!! Ankoku Bujutsukai||Shooter,|1||||1993
+106941|Zan - Kagerou No Toki|Zan - Kagerou No Toki||Strategy,|1|||Taito Corporation|1991
+106940|Zero 4 Champ 2|Zero 4 Champ 2||Racing,Simulation,,|5|Coop|||
 14539A|Zero Wing|Zero Wing||Shoot'em Up,|11||Naxat Soft|Toaplan|1992

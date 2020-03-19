@@ -1,7 +1,7 @@
 12809A|3 Ninjas Kick Back|3 Ninjas Kick Back||Platform,|2||Psygnosis|Sony|1994
 58728A|A-rank Thunder Tanjouhen|A-rank Thunder Tanjouhen||Role playing games,|||Telenet|Riot|1993
 12791A|After Armageddon Gaiden - Majuu Toushouden Eclipse|After Armageddon Gaiden - Majuu Toushouden Eclipse||Role playing games,|1||Pandora Box|Sega|1994
-12769A|After Burner 3|After Burner III||Action,Shooter|1||Sega|Sega|1992
+12769A|After Burner 3|After Burner III||Action,Shooter,|1||Sega|Sega|1992
 12802A|Thunderhawk|AH-3 Thunderstrike||Simulation,|1||JVC|Core Design|1993
 12744A|Aisle Lord|Aisle Lord||Role playing games,|1||RPG|RPG|1992
 12786A|Alshark|Alshark||Role playing games,|1||RPG|RPG|1993
@@ -21,8 +21,8 @@
 12770A|Blackhole Assault|Blackhole Assault|Black Hole Assault|Fight,Action,|2||Micronet|Micronet|1992
 12826A|Bloodshot|Bloodshot||Action,|2||Domark|Acclaim Entertainment|1994
 12818A|Bouncers|Bouncers||Sports,|2||Sega|Dynamix|1994
-12750A|Bram Stoker's Dracula|Bram Stoker's Dracula||Action|1||Sony|Psygnosis|1993
-58712A|Brutal - Paws Of Fury|Brutal: Paws of Fury||Action,Fighting|2||GameTek|GameTek|1994
+12750A|Bram Stoker's Dracula|Bram Stoker's Dracula||Action,Beat'em Up,|1||Sony|Psygnosis|1993
+58712A|Brutal - Paws Of Fury|Brutal: Paws of Fury||Action,Fighter,|2||GameTek|GameTek|1994
 97344A|Bug Blasters - The Exterminators|Bug Blasters - The Exterminators||Adventure,|1||Stargate|Good Deal Games|2000
 12805A|Burai - Hachigyoku No Yuushi Densetsu|Burai - Hachigyoku No Yuushi Densetsu|Burai - Hachigyaku no Yuushi Densetsu|Adventure,Role playing games,|1||Sega|Sega|1992
 97345A|Burning Fists - Force Striker|Burning Fists - Force Striker||Fight,|2||Sega|Good Deal Game|2006
@@ -30,32 +30,32 @@
 97346A|Capcom No Quiz Tonosama No Yabou|Capcom No Quiz Tonosama No Yabou||Quiz / Japanese,Quiz,|2||Sims|Capcom|1992
 12734A|Captain Tsubasa|Captain Tsubasa||Sports,|2||Tecmo|Tecmo|1994
 12814A|Sensible Soccer - European Champions|Championship Soccer '94||Sports,|2||Renegade Kid|Sony|1993
-12743A|Chuck Rock|Chuck Rock||Action,Platform|1||Core Design|Core Design|1992
+12743A|Chuck Rock|Chuck Rock||Action,Platformer,|1||Core Design|Core Design|1992
 12732A|Chuck Rock 2|Chuck Rock II: Son of Chuck||Action,Platform,|1||Core Design|Core Design|1993
 97347A|Citizen X|Citizen X||Strategy,|1||Digital Pictures|OlderGames|2002
-12811A|Cliffhanger|Cliffhanger||Action,Fighter|1||Malibu Games|Sony|1993
+12811A|Cliffhanger|Cliffhanger||Action,Fighter,|1||Malibu Games|Sony|1993
 12783A|Thunder Storm|Cobra Command||Shoot'em Up,Simulation,|1||Sega|Sega|1992
-102823|Compton's Interactive Encyclopedia|Compton's Interactive Encyclopedia||,Other|1||The Learning Company|Sega|1994
+102823|Compton's Interactive Encyclopedia|Compton's Interactive Encyclopedia||Other,|1||The Learning Company|Sega|1994
 12775A|Corpse Killer|Corpse Killer||Lightgun Shooter,Action,|1||Digital Pictures|Digital Pictures|1994
 58732A|Cosmic Fantasy Stories|Cosmic Fantasy Stories||Role playing games,|1||Shin-Nihon Laser Soft|Working Designs|1992
-97349A|Crime Patrol|Crime Patrol||Action,Gun shooter|2||American Laser Games|American Laser Games|1994
-12828A|Cyborg 009|Cyborg 009||Action|1||Action|Action|1993
+97349A|Crime Patrol|Crime Patrol||Action,Shooter,|2||American Laser Games|American Laser Games|1994
+12828A|Cyborg 009|Cyborg 009||Action,Platformer,|1||Action|Action|1993
 58734A|Daihoushinden|Daihoushinden|Dai Fushinden|Role playing games,|1||Flashback|Victor Entertainment|1995
 12829A|Dark Wizard|Dark Wizard||Role playing games,Strategy,|1||Sega|Sega|1993
 12806A|Death Bringer|Death Bringer||Role playing games,|1||Telenet|Telenet|1992
-12729A|Demolition Man|Demolition Man||Action|1||Alexandria, Inc.|Acclaim Entertainment|1995
+12729A|Demolition Man|Demolition Man||Action,Platformer,|1||Alexandria, Inc.|Acclaim Entertainment|1995
 58735A|Detonator Orgun|Detonator Orgun||Adventure,|1||Hot-b|Hot-b|1992
-58736A|Devastator|Devastator||Action,|1||Wolf Team|Wolf Team|1993
+58736A|Devastator|Devastator||Action,Shooter,|1||Wolf Team|Wolf Team|1993
 12827A|Double Switch|Double Switch||Adventure,|1||Digital Pictures|Digital Pictures|1993
-58733A|Dracula Unleashed|Dracula Unleashed||Action,|1||ICOM Simulations|Sega|1993
-12719A|Dragon's Lair|Dragon's Lair||Action,Adventure|1||ReadySoft Incorporated|ReadySoft Incorporated|1993
+58733A|Dracula Unleashed|Dracula Unleashed||Action,Adventure,|1||ICOM Simulations|Sega|1993
+12719A|Dragon's Lair|Dragon's Lair||Action,Adventure,|1||ReadySoft Incorporated|ReadySoft Incorporated|1993
 12706A|Dune|Dune||Strategy,|1||Avalon Interactive|Cryo Interactive|1993
 12724A|Dungeon Explorer|Dungeon Explorer||Role playing games,|4||Sega|Hudson|1995
 12733A|Dungeon Master 2 - Skullkeep|Dungeon Master II: Skullkeep||Role playing games,|1||Interplay|Interplay|1994
 97351A|Dynamic Country Club|Dynamic Country Club||Sports,|4||Sega|Sega|1993
-12771A|Earnest Evans|Earnest Evans||Action|1||Renovation Products|Renovation Products|1991
+12771A|Earnest Evans|Earnest Evans||Action,Beat'em Up,|1||Renovation Products|Renovation Products|1991
 12711A|Earthworm Jim - Special Edition|Earthworm Jim: Special Edition||Platform,|1||Shiny Entertainment|Interplay|1995
-12718A|Ecco The Dolphin|Ecco the Dolphin||Action,Platform|1||Novotrade International|Sega|1993
+12718A|Ecco The Dolphin|Ecco the Dolphin||Action,Adventure,|1||Novotrade International|Sega|1993
 12754A|Ecco The Dolphin 2|Ecco: The Tides of Time||Adventure,Action,|1||Novotrade International|Sega|1994
 97352A|Egawa Suguru No Super League Cd|Egawa Suguru No Super League Cd||Sports,|8||Sega|Sega|1993
 12839A|Espn Baseball Tonight|ESPN Baseball Tonight||Sports,|2||Sony|Stormfront Studios|1994
@@ -65,39 +65,39 @@
 12735A|Eternal Champions - Challenge From The Dark Side|Eternal Champions: Challenge from the Dark Side||Fight,|2||Deep Water|Sega|1995
 12739A|Advanced Dungeons And Dragons - Eye Of The Beholder|Eye of the Beholder||Role playing games,|1||SSI|Westwood Studios|1994
 58737A|F1 Circus Cd|F1 Circus Cd||Race, Driving,|2||Nichibutsu|Nihon Bussan|1994
-12766A|Fahrenheit|Fahrenheit||Action,Adventure|1||Sega|Sega|1995
+12766A|Fahrenheit|Fahrenheit||Action,Adventure,|1||Sega|Sega|1995
 12736A|Garou Densetsu Special|Fatal Fury Special||Action,Fight,|2||JVC|JVC|1995
 12748A|Fifa International Soccer - Championship Edition|FIFA International Soccer||Sports,|4||Extended Play Productions|EA Sports|1994
 12708A|Final Fight Cd|Final Fight CD||Beat'em Up,|2||Capcom|Sega|1992
-12710A|Flashback|Flashback: The Quest for Identity||Action,Platform|1||U.S. Gold|Delphine Software International|1993
+12710A|Flashback|Flashback: The Quest for Identity||Action,Platformer,Adventure,|1||U.S. Gold|Delphine Software International|1993
 12725A|Misadventures of Flink, The|Flink||Platform,Adventure,|1||Sony|Psygnosis|1994
 12763A|Formula One World Championship - Beyond the Limit|Formula One World Championship: Beyond the Limit|F1 World Championship Edition|Race, Driving,|1||Sega|Sega|1994
 18389A|Frog Feast|Frog Feast||Strategy,|2||Rastersoft|Chaos89.com|2005
-97355A|Gambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjong Land Hen|Gambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjong Land Hen|||2||Game Arts|Game Arts|1992
+97355A|Gambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjong Land Hen|Gambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjong Land Hen||Board game,Mahjong,|2||Game Arts|Game Arts|1992
 97356A|Game No Kanzume Vol.1|Game No Kanzume Vol.1||Compilation,|1||Sega|Sega|1994
 102113|Game No Kanzume Vol.2|Game No Kanzume Vol.2||Action,|2||Sega|Sega|1994
 97350A|Genei Toshi - Illusion City|Genei Toshi - Illusion City|Denei Toshi - Illusion City|Role-Playing,|1||Aisystem Tokyo|MicroCabin|1993
-12749A|Ground Zero Texas|Ground Zero Texas||Action,Gun shooter|1||SCE Santa Monica Studio|Polyphony Digital|1993
+12749A|Ground Zero Texas|Ground Zero Texas||Action,Gun shooter,|1||SCE Santa Monica Studio|Polyphony Digital|1993
 12715A|Heart Of The Alien - Out Of This World Parts I And 2|Heart of the Alien: Out of this World Parts I and II||Adventure,Platform,|1||Avalon Interactive|Delphine Software International|1994
 58717A|Heavy Nova|Heavy Nova||Beat'em Up,|1||Holocronet|Micronet|1991
 12745A|Heimdall|Heimdall||Adventure,Role playing games,|1||JVC|Core Design|1994
-12751A|Hook|Hook||Action|1||Sony|Sony|1992
+12751A|Hook|Hook||Action,Platformer,|1||Sony|Sony|1992
 58739A|Iron Helix|Iron Helix||Strategy,|1||Drew Pictures|Spectrum Holobyte|1994
 97357A|Ishii Hisaichi No Daiseikai|Ishii Hisaichi No Daiseikai||Simulation,|1||Sega|Sega|1994
 12812A|Jaguar Xj220|Jaguar XJ220||Race, Driving,|2||Sega|Core Design|1993
 97358A|Jangou World Cup|Jangou World Cup||Asiatic board game,|1||Victor Entertainment|Victor Entertainment|1993
 58718A|Jeopardy!|Jeopardy!||Puzzle,|2||Sony|Sega|1993
 97359A|Joe Montana's Nfl Football|Joe Montana's NFL Football||Sports,|2||Sega|Sega|1993
-108017|Johnny Mnemonic|Johnny Mnemonic|||||Sony|Sony|
+108017|Johnny Mnemonic|Johnny Mnemonic||Adventure,|||Sony|Sony|1995
 12714A|Jurassic Park|Jurassic Park||Adventure,|1||Sega|Sega|1993
 12740A|Keio Flying Squadron|Keio Flying Squadron|Keio's Flying Squadron|Shoot'em Up,Action,|1||JVC|JVC|1993
-97362A|Kids On Site|Kids on Site||Action,|1||Digital Pictures|Digital Pictures|1994
+97362A|Kids On Site|Kids on Site||Action,Simulation,,|1||Digital Pictures|Digital Pictures|1994
 12730A|Les Schtroumpfs|The Smurfs||Platform,|1||Infogrames|Infogrames|1994
 58720A|Lethal Enforcers|Lethal Enforcers|Lethal Enforcers II - Gun Fighters|Shoot'em Up,Action,|2||Konami|Konami|1993
 12792A|Lethal Enforcers 2 - The Western|Lethal Enforcers II: Gun Fighters||Lightgun Shooter,|2||Konami|Konami|1994
 58740A|Links - The Challenge Of Golf|Links: The Challenge of Golf||Sports,|||Papyrus|Virgin|1994
 12837A|Loadstar - The Legend Of Tully Bodine|Loadstar: The Legend of Tully Bodine||Lightgun Shooter,|1||Rocket Science Games|Rocket Science Games|1994
-58741A|Lodoss-tou Senki - Eiyuu Sensou|Lodoss-tou Senki - Eiyuu Sensou|||1||Sega|Sega|1994
+58741A|Lodoss-tou Senki - Eiyuu Sensou|Lodoss-tou Senki - Eiyuu Sensou||RPG,|1||Sega|Sega|1994
 12767A|Lords Of Thunder|Lords of Thunder||Shoot'em Up,Action,|2||Red Company|Hudson|1995
 12781A|Lunar - Eternal Blue|Lunar: Eternal Blue|Lunar 2 - Eternal Blue|Role playing games,|1||Game Arts|Game Arts|1994
 12741A|Lunar - The Silver Star|Lunar: The Silver Star||Role playing games,|1||Working Designs|Game Arts|1992
@@ -111,22 +111,22 @@
 97375A|Mega Schwarzschild|Mega Schwarzschild||Adventure,Role-Playing,|1||Kogado Studio|Sega|1993
 12776A|Megarace|Megarace||Race, Driving,|1||Cryo Interactive|Cryo Interactive|1994
 140537|Mega Race|MegaRace||Race, Driving,|||Cryo Interactive|The Software Toolworks|1993
-12707A|Mickey Mania - The Timeless Adventures Of Mickey Mouse|Mickey Mania: The Timeless Adventures of Mickey Mouse|Mickey Mania - Timeless Adventures of Mickey Mouse|Action,|1||SCE Santa Monica Studio|Traveller's Tales|1994
-12774A|Microcosm|Microcosm||Action,Shooter|1||Psygnosis|Psygnosis|1993
-97376A|Midnight Raiders|Midnight Raiders||Action,Gun shooter|1||Stargate Films|Sega|1994
+12707A|Mickey Mania - The Timeless Adventures Of Mickey Mouse|Mickey Mania: The Timeless Adventures of Mickey Mouse|Mickey Mania - Timeless Adventures of Mickey Mouse|Action,Platformer,|1||SCE Santa Monica Studio|Traveller's Tales|1994
+12774A|Microcosm|Microcosm||Action,Shooter,|1||Psygnosis|Psygnosis|1993
+97376A|Midnight Raiders|Midnight Raiders||Action,Shooter,|1||Stargate Films|Sega|1994
 12727A|Might And Magic 3 - Isles Of Terra|Might and Magic III: Isles of Terra||Role playing games,|1||New World Computing|New World Computing|1993
-97377A|Mighty Mighty Missile!|Mighty Mighty Missile!|||||FVRING|Good Deal Games|
+97377A|Mighty Mighty Missile!|Mighty Mighty Missile!||Puzzle,|4||FVRING|Good Deal Games|2004
 12731A|Mighty Morphin Power Rangers|Mighty Morphin Power Rangers||Beat'em Up,Fight,Action,|1||Banpresto|Sega|1994
-12704A|Mortal Kombat|Mortal Kombat||Action,Fighting|2||Midway|Acclaim Entertainment|1993
+12704A|Mortal Kombat|Mortal Kombat||Action,Fighter,|2||Midway|Acclaim Entertainment|1993
 12846A|My Paint - The Animated Paint Program|My Paint: The Animated Paint Program||Various,|1||Wayforward|Saddleback Graphics|1993
 12779A|Nba Jam|NBA Jam||Sports,|4||Midway|Acclaim Entertainment|1994
-97369A|Nfl Football Trivia Challenge|NFL Football Trivia Challenge|||4||Capitol Disc Interactive Corporation|Capitol Disc Interactive Corporation|1993
+97369A|Nfl Football Trivia Challenge|NFL Football Trivia Challenge||Sports,Quiz,|4||Capitol Disc Interactive Corporation|Capitol Disc Interactive Corporation|1993
 12851A|Nfl's Greatest - San Francisco Vs. Dallas 1978-1993|Nfl's Greatest - San Francisco Vs. Dallas 1978-1993||Sports,|2||Sega|Sega|1993
 12778A|Nhl Hockey '94|NHL '94|NHL Hockey 94|Sports,|4||High Score Productions|Electronic Arts|1993
 97370A|Night Striker|Night Striker||Shoot'em Up,|1||Taito|Taito|1993
 12720A|Night Trap|Night Trap||Adventure,|1||Digital Pictures|Sega|1992
 12753A|Ninja Warriors, The|Ninja Warriors, The||Beat'em Up,Action,|1||Taito|Taito|1993
-97371A|Nobunaga No Yabou - Haouden|Nobunaga No Yabou - Haouden||,Strategy|1||Koei|Koei|1994
+97371A|Nobunaga No Yabou - Haouden|Nobunaga No Yabou - Haouden||Strategy,|1||Koei|Koei|1994
 12830A|Nostalgia 1907|Nostalgia 1907||Adventure,|1||Takeru|Takeru|1991
 12820A|Novastorm|Novastorm||Shoot'em Up,|1||Psygnosis|Psygnosis|1994
 12793A|Switch|Panic!||Adventure,Puzzle-Game,|1||Data East|Sega|1993
@@ -135,24 +135,24 @@
 12807A|Popful Mail|Popful Mail||Role playing games,Action,|1||Working Designs|Falcom|1994
 12835A|Power Factory Featuring C+c Music Factory|Power Factory Featuring C+C Music Factory||Various,Action,|1||Digital Pictures|Sony|1992
 12816A|Power Monger|Power Monger||Strategy,|1||Bullfrog|Electronic Arts|1994
-12721A|Prince Of Persia|Prince of Persia||Action|1||Broderbund Software|Broderbund Software|1992
+12721A|Prince Of Persia|Prince of Persia||Action,Platformer,Adventure,|1||Broderbund Software|Broderbund Software|1992
 12821A|Prize Fighter|Prize Fighter||Fight,Sports,|1||Digital Pictures|Sega|1993
 12842A|Pro Yakyuu Super League Cd|Pro Yakyuu Super League Cd||Sports,|2||Sega|Hudson|1992
-97372A|Psychic Detective Series Vol. 3 - Aya|Psychic Detective Series Vol. 3 - Aya|||1||Data West|Data West|1993
+97372A|Psychic Detective Series Vol. 3 - Aya|Psychic Detective Series Vol. 3 - Aya||Adventure,|1||Data West|Data West|1993
 102114|Psychic Detective Series Vol. 4 - Orgel|Psychic Detective Series Vol. 4 - Orgel||Adventure,|1||Data West|Data West|1993
-12782A|Puggsy|Puggsy||Action,Platform|1||Traveller's Tales|Psygnosis|1993
+12782A|Puggsy|Puggsy||Action,Platformer,|1||Traveller's Tales|Psygnosis|1993
 97373A|Quiz Scramble Special|Quiz Scramble Special||Educational,|2||Sega|Sega|1992
 12813A|Racing Aces|Racing Aces||Race, Driving,|1||Sega|Sega|1993
 12834A|Radical Rex|Radical Rex||Sports,Action,|2||Beam Software|Activision|1994
-12788A|Ranma 1/2 - Byakuran Aika|Ranma 1/2 - Byakuran Aika|||||Banpresto|Banpresto|1993
-97374A|Rdf - Global Conflict|RDF: Global Conflict||Action,|1||Imagineering|Absolute Entertainment|1994
+12788A|Ranma 1/2 - Byakuran Aika|Ranma 1/2 - Byakuran Aika||Adventure,|1||Banpresto|Banpresto|1993
+97374A|Rdf - Global Conflict|RDF: Global Conflict||Action,Shooter,|1||Imagineering|Absolute Entertainment|1994
 12804A|Revenge Of The Ninja|Revenge of the Ninja||Adventure,Action,|1||Wolf Team|Renovation Products|1993
-102821|Battle Fantasy|Revengers of Vengeance||Action,|||Micronet|Extreme Entertainment Group|1994
+102821|Battle Fantasy|Revengers of Vengeance||Action,Fighter,Shooter,RPG,|||Micronet|Extreme Entertainment Group|1994
 12831A|Rise Of The Dragon - A Blade Hunter Mystery|Rise of the Dragon||Adventure,|1||Sega|Dynamix|1992
 12746A|Road Blaster Fx|Road Avenger||Adventure,|1||Wolf Team|Sega|1992
 12722A|Road Rash|Road Rash||Sports,|2||Electronic Arts|Electronic Arts|1994
 12756A|Dennin Aleste - Nobunaga And His Ninja Force|Robo Aleste||Shoot'em Up,Action,|1||Compile|Tengen|1992
-108016|Rock Paintings/hot Hits|Rock Paintings/hot Hits|||||||
+108016|Rock Paintings/hot Hits|Rock Paintings/hot Hits||Software,Music,|||||
 12810A|Sangokushi 3|Romance of the Three Kingdoms III: Dragon of Destiny|Sangokushi III|Strategy,|||Koei|Koei|1993
 58725A|Samurai Spirits|Samurai Shodown||Fight,|2||SNK|JVC Musical Industries|1993
 12712A|Sega Classics Arcade Collection|Sega Classics Arcade Collection|Classic Collection|Compilation,|2||Sega|Sega|1992
@@ -169,49 +169,49 @@
 12768A|Simearth|Simearth||Simulation,|||Maxis|Sega|1993
 97381A|Slam City With Scottie Pippen|Slam City with Scottie Pippen||Sports,|1||Digital Pictures|Digital Pictures|1994
 12726A|Snatcher|Snatcher||Adventure,|1||Konami|Konami|1994
-12794A|Sol-feace|Sol-Feace|Sol-Deace|Action,Shooter|1||Wolf Team|Sega|1991
+12794A|Sol-feace|Sol-Feace|Sol-Deace|Action,Shooter,|1||Wolf Team|Sega|1991
 12702A|Sonic The Hedgehog Cd|Sonic the Hedgehog CD||Platform,|1||Sonic Team|Sega|1993
 12777A|Soul Star|Soul Star||Shoot'em Up,|2||Core Design|Core Design|1994
 12798A|Space Ace|Space Ace||Adventure,|1||ReadySoft Incorporated|ReadySoft Incorporated|1994
-97382A|Star Strike|Star Strike||Action,|1||Sony|Sony|2000
+97382A|Star Strike|Star Strike||Action,Arcade,Shooter,,|1||Sony|Sony|2000
 12717A|Star Wars - Rebel Assault|Star Wars: Rebel Assault||Shooter,|1||JVC|LucasArts|1994
 12800A|Starblade|StarBlade||Lightgun Shooter,Action,|1||Namco|Namco|1994
-97383A|Stellar-fire|Stellar-Fire|Stellar Fire|Action,Shooter|1||Infinite Laser Dog|Dynamix, Inc.|1993
+97383A|Stellar-fire|Stellar-Fire|Stellar Fire|Action,Shooter,Strategy,|1||Infinite Laser Dog|Dynamix, Inc.|1993
 189046|Super Strike Trilogy|Super Strike Trilogy||Shooter,|1||Electronic Arts|Electronic Arts|1995
 12801A|Supreme Warrior|Supreme Warrior||Adventure,Fight,Action,|1||Digital Pictures|Digital Pictures|1994
-12795A|Surgical Strike|Surgical Strike||Action,Gun shooter|1||Sega|Sega|1995
+12795A|Surgical Strike|Surgical Strike||Action,Gun shooter,|1||Sega|Sega|1995
 12772A|Syndicate|Syndicate||Strategy,|1||Domark|Bullfrog|1994
-97367A|Tenbu Mega Cd Special|Tenbu Mega Cd Special||,Strategy|||Wolf Team|Wolf Team|1992
-12824A|Tenka Fubu - Eiyuutachi No Houkou|Tenka Fubu - Eiyuutachi No Houkou|||||Game Arts|Game Arts|1991
+97367A|Tenbu Mega Cd Special|Tenbu Mega Cd Special||Strategy,|||Wolf Team|Wolf Team|1992
+12824A|Tenka Fubu - Eiyuutachi No Houkou|Tenka Fubu - Eiyuutachi No Houkou||Strategy,|1||Game Arts|Game Arts|1991
 12780A|Amazing Spider-Man vs. The Kingpin, The|The Amazing Spider-Man vs. The Kingpin|Spider-Man vs The Kingpin|Action,Platform,|1||Sega|Sega|1993
 12737A|Adventures of Batman and Robin, The|The Adventures of Batman & Robin||Race, Driving,|1||Clockwork Tortoise|Sega|1995
 12803A|Adventures of Willy Beamish, The|The Adventures of Willy Beamish||Adventure,|1||Dynamix|Sierra|1993
-102822|Colors of Modern Rock, The|The Colors of Modern Rock|||||Digital Pictures|Sega|1993
+102822|Colors of Modern Rock, The|The Colors of Modern Rock||Software,Music,|||Digital Pictures|Sega|1993
 12833A|Lawnmower Man, The|The Lawnmower Man||Action,Platform,|1||The Sales Curve|Time Warner Interactive|1994
-97360A|Kamen Rider Zo|The Masked Rider: Kamen Rider ZO||Action,Arcade|1||Toei Video Co.|Sega|1994
-108015|San Diego Zoo Presents... The Animals!, The|The San Diego Zoo Presents... The Animals!|||||Software Toolworks|Sega|1994
+97360A|Kamen Rider Zo|The Masked Rider: Kamen Rider ZO||Action,Adventure,|1||Toei Video Co.|Sega|1994
+108015|San Diego Zoo Presents... The Animals!, The|The San Diego Zoo Presents... The Animals!||Software,|1||Software Toolworks|Sega|1994
 12705A|Secret of Monkey Island ,The|The Secret of Monkey Island||Adventure,|1||LucasArts|LucasArts|1990
 12728A|Software Toolworks' Star Wars Chess, The|The Software Toolworks' Star Wars Chess||Puzzle-Game,Board game,|2||Software Toolworks|Mindscape|1993
 58742A|Space Adventure - Cobra the Legendary Bandit, The|The Space Adventure||Action,|1||Hudson|Hudson|1995
 12709A|Terminator, The|The Terminator||Action|1||Probe Software|Virgin|1993
 12773A|Third World War, The|The Third World War||Strategy,|1||Micronet|Micronet|1993
 12703A|Theme Park|Theme Park||Strategy,|1||Domark|Bullfrog|1995
-12759A|Time Gal|Time Gal|Time Cop|Action,Adventure|1||Renovation Products|Taito|1992
-97368A|Timecop|Timecop|Time Cop|,Shooter|||Cryo|JVC|
-12796A|Tomcat Alley|Tomcat Alley||Action,Aerial fighting|1||The Code Monkeys|Sega|1994
+12759A|Time Gal|Time Gal|Time Cop|Action,Adventure,|1||Renovation Products|Taito|1992
+97368A|Timecop|Timecop|Time Cop|Action,Platform,,|||Cryo|JVC|
+12796A|Tomcat Alley|Tomcat Alley||Action,Shooter,|1||The Code Monkeys|Sega|1994
 12843A|Trivial Pursuit - Interactive Multimedia Game|Trivial Pursuit: Interactive Multimedia Game||Puzzle-Game,Board game,|6||Western Technologies|Parker Brothers|1993
-12838A|Ultraverse Prime|Ultraverse Prime||Action,Fighter|1||Malibu Interactive|Sony|1994
+12838A|Ultraverse Prime|Ultraverse Prime||Action,Beat'em Up,|1||Malibu Interactive|Sony|1994
 97366A|Urusei Yatsura - Dear My Friends|Urusei Yatsura - Dear My Friends||Adventure,|1||Game Arts|Game Arts|1993
 58743A|Vay - Ryuusei No Yoroi|Vay||Role playing games,|1||SIMS Co., Ltd.|Working Designs|1993
-97363A|Wakusei Woodstock - Funky Horror Band|Wakusei Woodstock - Funky Horror Band|||||Sega|Sega|1991
+97363A|Wakusei Woodstock - Funky Horror Band|Wakusei Woodstock - Funky Horror Band||RPG,|1||Sega|Sega|1991
 12847A|Warau Salesman|Warau Salesman||Adventure,|1||Compile|Sega|1993
 12825A|Wheel Of Fortune|Wheel of Fortune||Puzzle-Game,Board game,Strategy,|3||Sony|Sony|1994
-97364A|Who Shot Johnny Rock?|Who Shot Johnny Rock?|Who Shot Johnny Rock|Action,Adventure|2||American Laser Games|American Laser Games|1994
-97365A|Wild Woody|Wild Woody||Action,Platform|1||Sega|Sega|1995
+97364A|Who Shot Johnny Rock?|Who Shot Johnny Rock?|Who Shot Johnny Rock|Adventure,|2||American Laser Games||
+97365A|Wild Woody|Wild Woody||Action,Platformer,|1||Sega|Sega|1995
 12747A|Wing Commander|Wing Commander||Simulation,|1||Origin Systems|Origin Systems|1994
 12844A|Winning Post|Winning Post||Simulation,Sports,|1||Koei|Koei|1993
 12832A|Wirehead|Wirehead||Action,|1||Sega|Sega|1995
-12787A|Wolfchild|Wolfchild|Wolf Child|Action|1||Sega|Core Design|1992
+12787A|Wolfchild|Wolfchild|Wolf Child|Action,Platformer,|1||Sega|Core Design|1992
 12758A|Wonder Dog|Wonder Dog|Wonderdog|Platform,Action,|1||JVC|Core Design|1992
 106453|Wondermega Collection|Wondermega Collection||Compilation,|2||JVC|Victor Interactive Software|1992
 58727A|World Cup Usa 94|World Cup USA 94||Sports,|4||Tiertex Ltd.|U.S. Gold|1993

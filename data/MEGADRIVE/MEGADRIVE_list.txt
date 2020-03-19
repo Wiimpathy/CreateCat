@@ -1,7 +1,7 @@
-64827A|12 In 1|12 in 1||Compilation,|||||
+64827A|12 In 1|12 in 1||Compilation,|1||||2
 107165|13 Tiles Mahjong - 98 Pretty Girl|13 Tiles Mahjong - 98 Pretty Girl||Mahjong,Asiatic board game,|||||
 38950A|16 Zhang Mahjong|16 Zhang Mahjong||Puzzle-Game,|1||Gamtec|Sun Green|1992
-155444|16 Zhang Mahjong II|16 Zhang Mahjong II|||||||
+155444|16 Zhang Mahjong II|16 Zhang Mahjong II||Casino,|1|||City Man Technologies|1993
 1011AA|16t|16t|16 Ton|Platform,Action,|1||Sega|Sega|1991
 107181|20 In 1 Golden Mega Game|20 In 1 Golden Mega Game||Compilation,|||||
 574AAA|3 Ninjas Kick Back|3 Ninjas Kick Back||Platform,Action,|2|Coop|Malibu Interactive|Psygnosis|1994
@@ -13,27 +13,27 @@
 18364A|A Ressha De Ikou Md|A Ressha De Ikou Md|A Ressha de Gyoukou MD|Simulation,|1||MNM Software|Artdink - Sega|1992
 1012AA|Aa Harimanada|Aa Harimanada|Aah! Harimanada|Fight,Sports,|2||Megasoft|Sega|1993
 1013AA|Aaahh!!! Real Monsters|Aaahh!!! Real Monsters||Platform,|1||Realtime Associates, Inc.|Realtime Associates|1995
-189651|Abbaye des Morts|L'Abbaye des Morts|||1||Gryzor|Locomalito|
+189651|Abbaye des Morts|L'Abbaye des Morts||Action,Arcade,Platform,,|1||Gryzor|Locomalito|2017
 108693|Abnormal Family - Butt Babies And Tranny Tramps|Abnormal Family - Butt Babies And Tranny Tramps||Platform,|2||Jomb|Holy Teste Inc|2008
-189105|Academia do Saber|Academia do Saber|||1||TecToy|TecToy|2007
+189105|Academia do Saber|Academia do Saber||Puzzle,Educational,|1||TecToy|TecToy|2007
 1014AA|Action 52|Action 52||Compilation,Action,|2||Active Enterprises|Active Enterprises - FarSight Technologies|1993
-195AAA|Addams Family Values|Addams Family Values||Action,Adventure|1||Ocean|Ocean|1994
+195AAA|Addams Family Values|Addams Family Values||Action,Adventure,RPG,|1||Ocean|Ocean|1994
 283AAA|Advanced Busterhawk Gley Lancer|Advanced Busterhawk Gley Lancer||Shoot'em Up,|1||Masaya|NCS Corp|1992
 38952A|Advanced Daisenryaku - Deutsch Dengeki Sakusen|Advanced Military Commander|Advanced Daisenryaku|Various,|4||Systemsoft|Sega - SystemSoft|1991
 124843|Adventures Of Stickboy|Adventures Of Stickboy||Role playing games,|1||Devster|Devster|2005
-143963|Adventures Of The Gummi Bears|Adventures Of The Gummi Bears|||1||||
+143963|Adventures Of The Gummi Bears|Adventures Of The Gummi Bears||Adventure,|1||||
 1015AA|Adventurous Boy - Mao Xian Xiao Zi|Adventurous Boy - Mao Xian Xiao Zi||Shoot'em Up,|1||GameTek, Inc.|Gamtec|1992
 129AAA|Aero The Acro-bat|Aero the Acro-Bat|Aero the Acro-Bat 2|Platform,Action,|1||Iguana Entertainment|Iguana Entertainment - Sunsoft|1993
 556AAA|Aero The Acro-bat 2|Aero the Acro-Bat 2||Platform,Action,|1||Iguana Entertainment|Iguana Entertainment - Sunsoft|1994
 501AAA|Air Management - Oozora Ni Kakeru|Aerobiz||Simulation,|4||Koei|Koei|1992
 537AAA|Air Management 2 - Koukuuou O Mezase|Aerobiz Supersonic||Simulation,|4||Koei|Koei|1994
 198AAA|After Burner 2|After Burner II||Action,Adventure,Fight,|1||Sega|Dempa - Sega|1990
-124844|Agent Hugo - Environment At Risk|Agent Hugo - Environment At Risk|||1||||
-124845|Agent Hugo - In The World Of Dinosaurs|Agent Hugo - In The World Of Dinosaurs|||1||||
+124844|Agent Hugo - Environment At Risk|Agent Hugo - Environment At Risk||Platform,|1||||
+124845|Agent Hugo - In The World Of Dinosaurs|Agent Hugo - In The World Of Dinosaurs||Platform,|1||||
 64831A|Ahriboy So Goood|Ahriboy So Goood||Adventure,|||DevBros||1999
 609AAA|Aero Blasters - Trouble Specialty Raid Unit|Air Buster||Shoot'em Up,|2||Kaneko|Kaneko|1991
 510AAA|Air Diver|Air Diver||Simulation,Action,|1||Copya System|Seismic|1990
-189104|Air Hockey|Air Hockey|EA Hockey|,Hockey|2||Devworks Game Technology|TecToy|2005
+189104|Air Hockey|Air Hockey|EA Hockey|Sports,Arcade,Hockey,,|2||Devworks Game Technology|TecToy|2005
 124866|Airstriker|Airstriker||Shoot'em up / Vertical,Shoot'em Up,|||Syniphas||
 8AAAAA|Disney's Aladdin|Aladdin||Platform,Action,|1||Virgin|Sega - Virgin|1993
 109050|Aladdin 2|Aladdin 2||Action,Platform,|1|||X BOY|1993
@@ -44,16 +44,17 @@
 53AAAA|Alisia Dragoon|Alisia Dragoon||Platform,Action,|1||Game Arts|Sega|1992
 15AAAA|Altered Beast|Altered Beast||Beat'em Up,Action,|2||Sega|Sega|1988
 512AAA|American Gladiators|American Gladiators||Fight,Sports,Simulation,|2||Imagitec Design|GameTek - Imagitec Design|1992
-189113|Anaconda|Anaconda|||1||Devworks Game Technology|TecToy|2005
+189113|Anaconda|Anaconda||Miscellaneous,|1||Devworks Game Technology|TecToy|2005
 422AAA|Andre Agassi Tennis|Andre Agassi Tennis||Sports,|2||Tecmagik|Tecmagik|1992
-143964|Angry Birds - Star Wars|Angry Birds - Star Wars|||||||
-143969|Angry Birds In Russia|Angry Birds In Russia|||1||zhengyaxin_8bit||2012
+143964|Angry Birds - Star Wars|Angry Birds - Star Wars||Strategy,,|||||
+143969|Angry Birds In Russia|Angry Birds In Russia||Miscellaneous,Strategy,|1||zhengyaxin_8bit||2012
 156AAA|Animaniacs|Animaniacs||Platform,Action,|1||Konami|Konami|1994
-189109|Aniversario|Aniversario|||1||Devworks Game Technology|TecToy|2005
+189109|Aniversario|Aniversario||Adventure,Point and Click,|||||
+Shoot'em Up|1||16 Ton|Devworks Game Technology,|TecToy|2005|||
 38953A|Aq Renkan Awa|Aq Renkan Awa||Educational,|1||C&E Inc.|C&E Inc.|1995
-189108|Aquaduto|Aquaduto|||1||TecToy|TecToy|2007
+189108|Aquaduto|Aquaduto||Puzzle-Game,|1||TecToy|TecToy|2007
 289AAA|Arcade Classics|Arcade Classics||Compilation,Action,|2||Sega|Sega|1996
-155443|Arcade Legends Street Fighter 2' - Special Champion Edition|Arcade Legends Street Fighter II': Special Champion Edition|||2||||
+155443|Arcade Legends Street Fighter 2' - Special Champion Edition|Arcade Legends Street Fighter II': Special Champion Edition||Compilation,|2||||
 493AAA|Arch Rivals - The Arcade Game|Arch Rivals : The Arcade Game|Arch Rivals|Sports,|2||Arc Entertainment|Acclaim - Flying Edge - Midway|1992
 433AAA|Arcus Odyssey|Arcus Odyssey||Adventure,Action,|2||Aventure|Action|1991
 137AAA|Ariel - The Little Mermaid|Ariel the Little Mermaid||Sports,Action,Various,|1||Sega|Sega|1992
@@ -61,46 +62,46 @@
 212AAA|Arrow Flash|Arrow Flash||Shoot'em Up,Action,|1||Renovation Products|Renovation Products|1990
 503AAA|Art Alive!|Art Alive||Various,|1||FarSight Studios|Sega|1991
 456AAA|Ryuuko No Ken|Art of Fighting||Fight,Action,|2||SNK|Sega - SNK|1992
-189120|Asa Delta|Asa Delta|||1||Devworks Game Technology|TecToy|2005
-124853|Assassin's Creed (dragon's Lair)|Assassin's Creed (dragon's Lair)|||||Cinematronics||
-143968|Assassins Creed 4 - Black Flag|Assassins Creed 4 - Black Flag|||||||
+189120|Asa Delta|Asa Delta||Sports,|1||Devworks Game Technology|TecToy|2005
+124853|Assassin's Creed (dragon's Lair)|Assassin's Creed (dragon's Lair)||Platform,Action,|1||Cinematronics||
+143968|Assassins Creed 4 - Black Flag|Assassins Creed 4 - Black Flag||Action,Adventure,|1||||
 86AAAA|Astérix And The Great Rescue|Astérix and the Great Rescue|Asterix and the Great Rescue|Platform,|1||Core Design|Sega|1993
 100AAA|Asterix And The Power Of The Gods|Asterix And The Power Of The Gods||Platform,Action,|1||Core Design|Sega|1995
-114413|Astroduel|Astroduel|||1||||
+114413|Astroduel|Astroduel||Arcade,Shooter,|1||||
 363AAA|Atomic Robo-kid|Atomic Robo-Kid||Shoot'em Up,Action,|1||UPL|Sega|1990
-272AAA|Chelnov|Atomic Runner||Action|1||Data East|Data East|1992
+272AAA|Chelnov|Atomic Runner||Action,Platformer,Shooter,|1||Data East|Data East|1992
 481AAA|Atp Tour Championship Tennis|ATP Tour Championship Tennis||Sports,|4||Sims|Sega|1994
-124867|Attack Of The Irish Globs|Attack of the Irish Globs|||1||Devster||2004
+124867|Attack Of The Irish Globs|Attack of the Irish Globs||Software,|1||Devster||2004
 1017AA|Australian Rugby League|Australian Rugby League||Sports,|4||Electronic Arts UK Ltd.|I-Space Interactice|EA Sports
 528AAA|Awesome Possum Kicks Dr. Machino's Butt!|Awesome Possum... ...Kicks Dr. Machino's Butt||Platform,Action,|1||Tengen|Tengen|1993
 1018AA|Aworg - Hero In The Sky|Aworg - Hero In The Sky||Platform,|1||Sega|Sega|1991
 296AAA|Ayrton Senna's Super Monaco Gp 2|Ayrton Senna's Super Monaco GP II||Race, Driving,|1||Sega|Sega|1992
 184AAA|Space Funky B.o.b.|B.O.B.||Fight,Action,|1||Gray Matter|Electronic Arts - Foley Hi-Tech Systems|1993
-107166|Baby Boom|Baby Boom||Action,||||Sega|
+107166|Baby Boom|Baby Boom||Action,||||Sega|1
 1019AA|Baby's Day Out|Baby's Day Out||Platform,|||Designer Software|Designer Software|1994
-269AAA|Back To The Future Part 3|Back to the Future Part III||Action,|1||Probe Software|Imageworks|1991
+269AAA|Back To The Future Part 3|Back to the Future Part III||Action,Platformer,|1||Probe Software|Imageworks|1991
 18366A|Bahamut Senki|Bahamut Senki||Strategy,|4||Sega|Sega|1991
 563AAA|Ball Jacks|Ball Jacks||Puzzle-Game,Action,|2||Sega|Sega|1993
 449AAA|Ballz 3d|Ballz 3D : Fighting at Its Ballziest|Ballz|Fight,|2||Accolade|Accolade - PF Magic|1994
-155462|Bao Xiao San Guo|Bao Xiao San Guo|||||C&E Inc.||
-513AAA|Barbie Super Model|Barbie Super Model||Action,Adventure|2||Tahoe|Hi-Tech Expressions|1992
+155462|Bao Xiao San Guo|Bao Xiao San Guo||Role-Playing,Strategy,|||C&E Inc.||1
+513AAA|Barbie Super Model|Barbie Super Model||Action,Arcade,,|2||Tahoe|Hi-Tech Expressions|1992
 602AAA|Barbie Vacation Adventure|Barbie Vacation Adventure||Various,|2||Software Creations|HiTech Creations|1994
 557AAA|Barkley Shut Up And Jam 2|Barkley Shut Up and Jam 2|Barkley Shut Up and Jam! 2|Sports,|4||Accolade|Accolade|1995
 594AAA|Barkley Shut Up And Jam!|Barkley Shut Up and Jam!|Barkley Shut Up and Jam! 2|Sports,|4||Accolade|Accolade|1994
 627AAA|Barney's Hide And Seek Game|Barney's Hide & Seek Game||Platform,Educational,|1||Realtime Associates|Sega|1993
 691AAA|Bass Masters Classic|Bass Masters Classic|Bass Masters Classics|Simulation,Sports,|1||Black Pearl Software|Black Pearl Software|1995
 727AAA|Bass Masters Classic - Pro Edition|Bass Masters Classic : Pro Edition|Bass Masters Classic Pro Edition|Action,Hunting and Fishing,Fishing,|1||Black Pearl Software|Black Pearl Software|1996
-189117|Batalha Naval|Batalha Naval|||1||Devworks Game Technology|TecToy|2005
+189117|Batalha Naval|Batalha Naval||Board game,|1||Devworks Game Technology|TecToy|2005
 199AAA|Batman - Revenge Of The Joker|Batman : Revenge of the Joker||Platform,|1||Ringler Studios|Sunsoft|1992
 62AAAA|Batman|Batman : The Video Game|Batman Forever|Platform,|1||Sunsoft|Sunsoft|1990
 92AAAA|Batman Forever|Batman Forever||Platform,Action,|2||Iguana Entertainment|Acclaim Entertainment|1995
 103AAA|Batman Returns|Batman Returns||Platform,Action,|1||Malibu Games|Sega|1992
-124878|Battle City|Battle City|||||||
+124878|Battle City|Battle City||Action,Shooter,,|||||
 1021AA|Battle Golfer Yui|Battle Golfer Yui||Sports,Sports / Golf,Role playing games,|2||Santos|Sega|1991
 1022AA|Battle Mania Daiginjou|Battle Mania 2: Trouble Shooter Vintage|Battle Mania - Dai Gin Jou|Shoot'em Up,Shoot'em up / Horizontal,|1||Vic Tokai Corporation|Vic Tokai|1993
 338AAA|Battle Squadron|Battle Squadron||Shoot'em Up,Action,|2||Electronic Arts|Electronic Arts|1990
 1023AA|Battlemaster|Battlemaster||Platform,|1||Personal Software Services|Mirrorsoft|1991
-615AAA|Battletech - A Game Of Armored Combat|BattleTech : A Game of Armored Combat|Battletech|Action,|2||Extreme Entertainment Group|Malibu Games|1994
+615AAA|Battletech - A Game Of Armored Combat|BattleTech : A Game of Armored Combat|Battletech|Action,Arcade,Shooter,,|2||Extreme Entertainment Group|Malibu Games|1994
 1AAAAA|Battletoads|Battletoads||Beat'em Up,Action,|2|Coop|Rareware|Tradewest|1991
 2AAAAA|Battletoads And Double Dragon - The Ultimate Team|Battletoads & Double Dragon||Beat'em Up,|2||Rareware|Tradewest|1995
 716AAA|Beast Warriors|Beast Wrestler||Fight,Action,|2||Riot Games|Renovation Products|1991
@@ -109,33 +110,33 @@
 181AAA|Beauty And The Beast - Roar Of The Beast|Beauty and the Beast : Roar of the Beast||Sports,Platform,Adventure,|1||Sunsoft|Sunsoft|1993
 370AAA|Beavis And Butt-head|Beavis and Butt-Head||Platform,|2||Viacom|Viacom|1994
 1024AA|Xin Qi Gai Wang Zi|Beggar Prince||Role playing games,|1||Computer & Entertainment Inc.|C&E Inc.|1996
-124882|Ben 10 - Alien Force|Ben 10 - Alien Force|||||BMB|Kudos|
-124883|Berzerk|Berzerk|||||||
+124882|Ben 10 - Alien Force|Ben 10 - Alien Force||Beat'em Up,|||BMB|Kudos|
+124883|Berzerk|Berzerk||Action,Arcade,Shooter,,|||||
 480AAA|Kick Boxing, The|Best of the Best : Championship Karate||Sports,Fight,|2||Loriciels|Electro Brain|1993
-142764|Beyond Zero Tolerance|Beyond Zero Tolerance||Shoot'em Up,|1||Technopop|Technopop|
+142764|Beyond Zero Tolerance|Beyond Zero Tolerance||Shoot'em Up,|1||Technopop|Technopop|1994
 514AAA|Bible Adventures|Bible Adventures||Platform,|1||Color Dreams|Wisdom Tree|1995
-124884|Big Cheese, The|Big Cheese, The|||||||
+124884|Big Cheese, The|Big Cheese, The||RPG,|||||
 747AAA|Bill Walsh College Football|Bill Walsh College Football|Bill Walsh College Football '95|Sports,|4||EA Sports|Visual Concepts|1993
 729AAA|Bill Walsh College Football '95|Bill Walsh College Football 95||Sports,|4||High Score Productions|EA Sports|1994
-78345A|Bill's Tomato Game|Bill's Tomato Game||Puzzle-Game,|||Tempest Software|Psygnosis|
+78345A|Bill's Tomato Game|Bill's Tomato Game||Puzzle-Game,|||Tempest Software|Psygnosis|1
 1025AA|Bimini Run|Bimini Run||Race, Driving,Race, Driving / Boat,|2||Microsmiths, Inc.|Nuvision Entertainment|1990
 152AAA|Crying - Aseimei Sensou|Bio Hazard Battle|Crying - Asia Seimei Sensou|Adventure,Shoot'em Up,|2||Sega|Sega|1992
-143967|Biohazard 3 - Sars War|Biohazard 3 - Sars War|||||||
+143967|Biohazard 3 - Sars War|Biohazard 3 - Sars War||Gun shooter,|2||||
 333AAA|Blades Of Vengeance|Blades of Vengeance||Platform,Role playing games,|2||Beam Software|Electronic Arts|1993
 628AAA|Blaster Master 2|Blaster Master 2||Platform,Action,|1||Software Creations|Sunsoft|1993
 1026AA|Blockbuster World Video Game Championship 2|Blockbuster World Video Game Championship II||Various,|2||Various|Various|1995
 1027AA|Blockout|Blockout|Block Out|Puzzle-Game,|2||P.Z.Karen Co. Development Group|California Dreams|1991
-408AAA|Bloodshot|Bloodshot|Blood Shot|Action,FPS|1||Domark|Acclaim Entertainment|1994
+408AAA|Bloodshot|Bloodshot|Blood Shot|Action,Shooter,|1||Domark|Acclaim Entertainment|1994
 492AAA|Body Count|Body Count||Lightgun Shooter,Action,|2||Sega|Sega|1994
-124888|Bomber|Bomber|Mega Bomberman|Action,Puzzle,|||Sega|Sega|
+124888|Bomber|Bomber|Mega Bomberman|Action,Puzzle,|||Sega|Sega|2
 64833A|Bomboy|Bomboy|Domino|Action,Puzzle|1||Gamtec|Gamtec|1993
 334AAA|Bonanza Bros.|Bonanza Bros.||Platform,Action,|2||Sega|Sega|1991
 232AAA|Bonkers|Bonkers||Action,Race, Driving,|1||Sega|Sega|1994
-18371A|Boogerman - A Pick And Flick Adventure|Boogerman : A Pick and Flick Adventure||Action,|1||Interplay Entertainment Corp.|Interplay Entertainment Corp.|1994
+18371A|Boogerman - A Pick And Flick Adventure|Boogerman : A Pick and Flick Adventure||Action,Platform,,|1||Interplay Entertainment Corp.|Interplay Entertainment Corp.|1994
 1028AA|Boxing Legends Of The Ring|Boxing Legends of the Ring||Sports,|2||Sculptured Software|Sculptured Software|1993
 268AAA|Bram Stoker's Dracula|Bram Stoker's Dracula||Platform,Action,|1||Sony|Traveller's Tales|1993
 1020AA|Barver Battle Saga - Tai Kong Zhan Shi|Brave Battle Saga: Legend of the Magic Warrior||Role playing games,|1||Chuanpu Technologies|Chuanpu|1996
-124890|Brave Spacy Pixy V.final|Brave Spacy Pixy V.final|||||||
+124890|Brave Spacy Pixy V.final|Brave Spacy Pixy V.final||Platform,|||||
 741AAA|Brett Hull Hockey '95|Brett Hull Hockey '95||Sports,|2||Radical Entertainment|Accolade|1994
 573AAA|Brian Lara Cricket|Brian Lara Cricket|Brian Lara Cricket 96|Sports,|4|Coop|Audiogenic|Codemasters|1995
 108003|Brian Lara Cricket 96|Brian Lara Cricket 96||Sports,|4|Coop|Audiogenic|Codemasters|1996
@@ -146,7 +147,7 @@
 279AAA|Bubsy In Claws Encounters Of The Furred Kind|Bubsy in : Claws Encounters of the Furred Kind||Platform,|1||Accolade|Accolade|1993
 401AAA|Buck Rogers - Countdown To Doomsday|Buck Rogers : Countdown to Doomsday||Role playing games,|1||SSI|Electronic Arts|1991
 388AAA|Budokan - The Martial Spirit|Budokan : The Martial Spirit||Fight,|2||Electronic Arts|Electronic Arts|1990
-143861|Bug Hunt|Bug Hunt||Action,|||||
+143861|Bug Hunt|Bug Hunt||Action,Shooter,,|||||1
 356AAA|Bugs Bunny In Double Trouble|Bugs Bunny in Double Trouble||Platform,Action,|1||Sega|Sega|1996
 554AAA|Nba Playoffs - Bulls Vs Blazers|Bulls versus Blazers and the NBA Playoffs||Sports,|2||EA Sports|Electronic Arts|1993
 742AAA|Nba Pro Basketball - Bulls Vs Lakers|Bulls vs Lakers and the NBA Playoffs||Sports,|2||Capcom|Electronic Arts|1992
@@ -156,15 +157,15 @@
 730AAA|Cal Ripken Jr. Baseball|Cal Ripken Jr. Baseball||Sports,Sports / Baseball,|2||Mindscape|Beam Software|1992
 1030AA|Caliber.50|Caliber.50|Caliber Fifty|Shooter / Run and Gun,Shooter,Action,|1||SETA Corporation|Visco|1991
 348AAA|California Games|California Games||Sports,|8+||Epyx|Epyx|1991
-189123|Canhao|Canhao|||2||Devworks Game Technology|TecToy|2005
+189123|Canhao|Canhao||Shoot'em Up,|2||Devworks Game Technology|TecToy|2005
 241AAA|Cannon Fodder|Cannon Fodder||Strategy,|1||Sensible Software|Avalon Interactive|1994
 258AAA|Captain America And The Avengers|Captain America and the Avengers||Beat'em Up,Action,|2|Coop|Data East|Data East|1992
 446AAA|Captain Planet And The Planeteers|Captain Planet and the Planeteers||Platform,Action,|1||Sega|Novalogic|1992
-155467|Cascade|Cascade|||2||Epyx|Super Fighter Team|
+155467|Cascade|Cascade||Strategy,Puzzle,|2||Epyx|Super Fighter Team|2015
 22AAAA|Castle Of Illusion Starring Mickey Mouse|Castle of Illusion Starring Mickey Mouse||Platform,Action,|1||Sega|Sega|1990
 40AAAA|Castlevania - The New Generation|Castlevania : Bloodlines||Platform,|1||Konami|Konami|1994
-124898|Cat At Crossroad|Cat At Crossroad|||||||
-189121|Cavalos e Peoes|Cavalos e Peoes|||1||Devworks Game Technology|TecToy|2005
+124898|Cat At Crossroad|Cat At Crossroad||Puzzle,|||||
+189121|Cavalos e Peoes|Cavalos e Peoes||Board game,|1||Devworks Game Technology|TecToy|2005
 247AAA|Centurion - Defender Of Rome|Centurion : Defender of Rome||Strategy,|1||Bits of Magic|Electronic Arts|1991
 133AAA|Chakan|Chakan|Chakan - The Forever Man|Platform,|1||Sega|Sega|1992
 639AAA|Champions World Class Soccer|Champions World Class Soccer||Sports,Sports / Soccer,|2||Park Place Productions|Flying Edge|1993
@@ -172,23 +173,23 @@
 743AAA|Championship Pool|Championship Pool||Sports,Sports / Pool,|8||Bitmasters|Mindscape|1993
 603AAA|Championship Pro-am|Championship Pro-Am||Race, Driving,|2||Rare|Tradewest|1992
 38954A|Chao Ji Da Fu Weng|Chao Ji Da Fu Weng||Board game,|1||Gamtec|Gamtec|1994
-155495|Chao Ji Mahjong Club|Chao Ji Mahjong Club|||||||
-155496|Chao Ji Poker|Chao Ji Poker|||||||
+155495|Chao Ji Mahjong Club|Chao Ji Mahjong Club||Board Game,||||Creaton Softech|1
+155496|Chao Ji Poker|Chao Ji Poker||Casino,|||||1
 1032AA|Chaos Engine 2, The|Chaos Engine 2, The||Shoot'em Up,|2|Coop|The Bitmap Brothers|The Bitmap Brothers|1996
 423AAA|Super H.q.|Chase H.Q. II|Super HQ|Race, Driving,|1||Taito|Taito|1992
 152481|Chavez 2|Chavez II||Sports / Boxing,Sports,|2||Sculptured Software|Electro Brain|1993
-189115|Fica Um|Checker|||1||Devworks Game Technology|TecToy|2003
+189115|Fica Um|Checker||Puzzle,,|1||Devworks Game Technology|TecToy|2003
 298AAA|Cheese Cat-astrophe Starring Speedy Gonzales|Cheese Cat-astrophe Starring Speedy Gonzales||Platform,Action,|1||Sega|Time Warner Interactive|1995
-124915|Chess|Chess||,Chess|||Grandstand|Grandstand|
+124915|Chess|Chess||Board game,|||Grandstand|Grandstand|1998
 376AAA|Chester Cheetah - Too Cool To Fool|Chester Cheetah : Too Cool to Fool|Chester Cheetah|Platform,|1||Kaneko|Kaneko|1993
 692AAA|Chester Cheetah - Wild Wild Quest|Chester Cheetah : Wild Wild Quest|Chester Cheetah 2 - Wild Wild Quest|Platform,|1||Kaneko|Kaneko|1994
 672AAA|Chi Chi's Pro Challenge Golf|Chi Chi's Pro Challenge Golf|Chi Chi's Pro Challenge|Sports / Golf,Sports,|4||Virgin|Virgin|1993
 18373A|Chibi Maruko-chan - Waku Waku Shopping|Chibi Maruko-chan - Waku Waku Shopping|Chibi Maruko-Chan - Wakuwaku Shopping|Strategy,|4||Namco|Namco|1992
-124868|Chicken Go Wee!|Chicken Go Wee!|||||Devster||2004
+124868|Chicken Go Wee!|Chicken Go Wee!||Platform,|||Devster||2004
 320AAA|Chiki Chiki Boys|Chiki Chiki Boys||Platform,Adventure,|1||Capcom|Sega|1992
 109352|Chinese Chess|Chinese Chess||Asiatic board game,|2||Dragons Team|Realtec|1992
-143966|Chip And Dale - Rescue Rangers|Chip And Dale - Rescue Rangers|||||||
-143965|Chip And Dale - Rescue Rangers 2|Chip And Dale - Rescue Rangers 2|||||||
+143966|Chip And Dale - Rescue Rangers|Chip And Dale - Rescue Rangers||Platform,|||||
+143965|Chip And Dale - Rescue Rangers 2|Chip And Dale - Rescue Rangers 2||Platform,|||||
 1034AA|Chou Kyuukai Miracle Nine|Chou Kyuukai Miracle Nine|Chou Yakyuu Miracle Nine|Sports / Baseball,Sports,|1||Sega|Sega|1995
 165AAA|Chuck Rock|Chuck Rock||Platform,|1||Virgin|Core Design|1991
 251AAA|Chuck Rock 2|Chuck Rock II : Son of Chuck||Platform,|1||Virgin|Core Design|1993
@@ -204,18 +205,18 @@
 658AAA|College Slam|College Slam||Sports / Basketball,Sports,|4||Iguana Entertainment|Acclaim Entertainment|1996
 264AAA|Columns|Columns||Puzzle-Game,|2||Sega|Sega|1990
 567AAA|Columns 3 - Revenge Of Columns|Columns III||Puzzle-Game,|5||Vic Tokai|Sega|1993
-124932|Combat Aces|Combat Aces||,Shooter|||||
+124932|Combat Aces|Combat Aces||Shooter,|1||||1995
 659AAA|Combat Cars|Combat Cars||Race, Driving,|2||Accolade|Accolade|1994
 35AAAA|Comix Zone|Comix Zone||Beat'em Up,Action,|1||Sega|Sega|1995
-108948|Commandos - Behind Enemy Lines|Commandos - Behind Enemy Lines|||||||
+108948|Commandos - Behind Enemy Lines|Commandos - Behind Enemy Lines||Strategy,|||||
 1038AA|Congo|Congo|Congo - The Game|Platform,|1||Visual Concepts Entertainment, Inc.|Visual Concepts|1994
 104AAA|Cool Spot|Cool Spot||Platform,Action,|1||Virgin|Virgin|1994
 38955A|Cyber-cop|Cyber-Cop||Shooter / 1st person,Shooter,|1||Virgin|Core Design - Virgin|1992
-189110|Corrida de Tampinhas|Corrida de Tampinhas|||1||Devworks Game Technology|TecToy|2005
-124937|Cosmic Ark|Cosmic Ark|||||||
+189110|Corrida de Tampinhas|Corrida de Tampinhas||Racing,|1||Devworks Game Technology|TecToy|2005
+124937|Cosmic Ark|Cosmic Ark||Action,,|||||
 548AAA|Cosmic Spacehead|Cosmic Spacehead||Adventure,Platform,|1||Codemasters|Codemasters|1993
-124939|Counter-strike 2d|Counter-strike 2d|||||||
-257AAA|Crack Down|Crack Down||Action|2||Sega|Sega|1990
+124939|Counter-strike 2d|Counter-strike 2d||Shooter,|||||
+257AAA|Crack Down|Crack Down||Action,Puzzle,Shooter,|2||Sega|Sega|1990
 1040AA|Crayon Shin-chan - Arashi O Yobu Enji|Crayon Shin-chan - Arashi O Yobu Enji|Crayon Shin-Chan - Arashi o Yobu Sono Ko|Platform,|2||Ma-Ba|Ma-Ba|1994
 64834A|Crazybus|CrazyBus||Race, Driving,|1||Tom Maniero|Tom Maniero|2004
 495AAA|Super Airwolf|Cross Fire||Shoot'em up / Vertical,Shoot'em Up,Action,|1||Kyugo Boueki|Kyugo Boueki|1991
@@ -229,9 +230,9 @@
 274AAA|Daffy Duck In Hollywood|Daffy Duck In Hollywood||Platform,Action,|1||Sega|Probe|1994
 611AAA|Dahna Megami Tanjou|Dahna Megami Tanjou|Dahna - Megami Tanjou|Beat'em Up,|1||IGS|IGS|1991
 538AAA|Dangerous Seed|Dangerous Seed||Shoot'em Up,Action,|1||Namco|Namco|1990
-109253|Danny Sullivan's Indy Heat|Danny Sullivan's Indy Heat||Race, Driving,|||Leland Corporation|Tradewest|
+109253|Danny Sullivan's Indy Heat|Danny Sullivan's Indy Heat||Race, Driving,|||Leland Corporation|Tradewest|2
 175AAA|Dark Castle|Dark Castle||Platform,|1||Silicon Beach Software|Electronic Arts|1991
-143961|Darkwing Duck|Darkwing Duck|||||||
+143961|Darkwing Duck|Darkwing Duck||Platformer,|||||
 1043AA|Darwin 4081|Darwin 4081||Shoot'em Up,Action,|1||Data East|Sega|1990
 266AAA|Dashin' Desperadoes|Dashin' Desperadoes||Race, Driving,|2||Data East|Data East|1993
 532AAA|David Crane's Amazing Tennis|David Crane's Amazing Tennis||Sports,|2||Sega|Sega|1992
@@ -240,19 +241,19 @@
 551AAA|Davis Cup Tennis|Davis Cup Tennis|Davis Cup World Tour Tennis|Sports,Sports / Tennis,|2||Tengen|Loriciels|1993
 1045AA|Daze Before Christmas|Daze Before Christmas|Daze Before Christmas, The|Platform,Action,|2||Funcom Oslo A/S|Funcom - Sunsoft|1994
 642AAA|Power Athlete|Deadly Moves||Fight,Action,|2||Kaneko|Kaneko|1992
-124950|Death Caliber|Death Caliber|||||||
-629AAA|Death Duel|Death Duel||Action,Gun shooter|1||Action|Action|1992
-124951|Deboomer|Deboomer|Doom|,Action|||||
+124950|Death Caliber|Death Caliber||Shooter,|||||
+629AAA|Death Duel|Death Duel||Action,Shooter,|1||Action|Action|1992
+124951|Deboomer|Deboomer|Doom|Puzzle,|||||
 1046AA|Decap Attack|DEcapAttack||Platform,Action,|1||Vic Tokai Corporation|VIC Toka|1991
-124952|Deer Hunter|Deer Hunter||,Sports|||||
+124952|Deer Hunter|Deer Hunter||Simulation,Hunting,,|||||
 245AAA|Demolition Man|Demolition Man||Platform,Action,|1||Digital Extremes|Acclaim Entertainment|1995
-180AAA|Desert Demolition Starring Road Runner And Wile E. Coyote|Desert Demolition Starring Road Runner and Wile E. Coyote|Desert Demolition|Action,|1||BlueSky Software, Inc.|Sega|1994
+180AAA|Desert Demolition Starring Road Runner And Wile E. Coyote|Desert Demolition Starring Road Runner and Wile E. Coyote|Desert Demolition|Action,Platform,,|1||BlueSky Software, Inc.|Sega|1994
 63AAAA|Desert Strike - Return To The Gulf|Desert Strike : Return to the Gulf||Shoot'em Up,|1||Visual Concepts|Electronic Arts|1992
-143971|Despicable Me 2|Despicable Me 2|||||||
+143971|Despicable Me 2|Despicable Me 2||Platform,|||||
 409AAA|Devilish / Bad Omen|Devilish : The Next Possession||Various,Action,|2||Genki|Genki|1992
-172284|Dexstar|Dexstar|Ristar|,Platform|||||1994
-143972|Diablo - Labyrinth|Diablo - Labyrinth|||||||
-38956A|Dial Q O Mawase!|Dial Q O Mawase!||,Mahjong|||||
+172284|Dexstar|Dexstar|Ristar|Platform,|||||1994
+143972|Diablo - Labyrinth|Diablo - Labyrinth||RPG,|||||
+38956A|Dial Q O Mawase!|Dial Q O Mawase!||Strategy,Board Game,Adult,,|1|||Studio Fazzy|1992
 121AAA|Dick Tracy|Dick Tracy||Beat'em Up,Lightgun Shooter,Action,|1||Sega|Sega|1991
 1047AA|Dick Vitale's |Dick Vitale's 'Awesome, Baby!' College Hoops|Dick Vitale's Awesome Baby! College Hoops|Sports / Basketball,Sports,|2||Time Warner Interactive, Inc.|Time Warner Interactive|1994
 677AAA|Dino Dini's Soccer|Dino Dini's Soccer||Sports,|8+||Virgin|Virgin|1994
@@ -260,9 +261,9 @@
 209AAA|Disney Collection, The|Disney Collection, The|Disney Collection - Castle of Illusion & Quack Shot|Action,Various,Adventure,|1||Compilation|Plate-Forme|1996
 693AAA|Divine Sealing|Divine Sealing||Shoot'em Up,Action,|1||CYX|Studio Fazzy|1991
 418AAA|Dj Boy|DJ Boy||Beat'em Up,Action,|1|Coop|Sega|Sega|1990
-143973|Doctor Robotniks Creature Capture|Doctor Robotniks Creature Capture|||1||||
-189114|Domine o Territorio|Domine o Territorio|||2||TecToy|TecToy|2005
-124958|Domino|Domino||,Puzzle|||Unlicensed|Unlicensed|
+143973|Doctor Robotniks Creature Capture|Doctor Robotniks Creature Capture||Platform,|1||||2012
+189114|Domine o Territorio|Domine o Territorio||Action,Strategy,|2||TecToy|TecToy|2005
+124958|Domino|Domino||Board game,|||Unlicensed|Unlicensed|
 1049AA|Dominus|Dominus||Adventure,|1||Asciiware|Asciiware|1993
 70AAAA|Donald In Maui Mallard|Donald In Maui Mallard||Platform,|1||Disney|Eurocom|1991
 459AAA|Doom Troopers|Doom Troopers|Doom Troopers - The Mutant Chronicles|Platform,|2||Playmates|Adrenalin Interactive|1995
@@ -270,29 +271,29 @@
 143970|Doroppu|Doroppu|Doom|Puzzle-Game,|2||Repixel8||2015
 635AAA|Double Clutch|Double Clutch||Race, Driving,|2||Sega|Sega|1993
 126AAA|Double Dragon|Double Dragon|Battletoads and Double Dragon|Beat'em Up,Action,|2||Tecmo|Accolade|1992
-177AAA|Double Dragon 2 - The Revenge|Double Dragon 2 - The Revenge||Action,Fighter|2||PAL Soft|Tecmo|1991
-240AAA|Double Dragon 3 - The Arcade Game|Double Dragon 3 : The Arcade Game|Double Dragon 3 - The Rosetta Stone|Action,|2||Flying Edge|Acclaim - Flying Edge - Technos|1992
-352AAA|Double Dragon 5 - The Shadow Falls|Double Dragon V : The Shadow Falls|Double Dragon V - The Shadow Falls|Action,Fighting|2||Leland Interactive Media|Tradewest|1994
+177AAA|Double Dragon 2 - The Revenge|Double Dragon 2 - The Revenge||Action,Fighter,|2||PAL Soft|Tecmo|1991
+240AAA|Double Dragon 3 - The Arcade Game|Double Dragon 3 : The Arcade Game|Double Dragon 3 - The Rosetta Stone|Action,Beat'em Up,|2||Flying Edge|Acclaim - Flying Edge - Technos|1992
+352AAA|Double Dragon 5 - The Shadow Falls|Double Dragon V : The Shadow Falls|Double Dragon V - The Shadow Falls|Action,Fighting,|2||Leland Interactive Media|Tradewest|1994
 71AAAA|Dr. Robotnik's Mean Bean Machine|Dr. Robotnik's Mean Bean Machine||Puzzle-Game,|2||Compile|Sega|1993
 91AAAA|Dragon - The Bruce Lee Story|Dragon : The Bruce Lee Story||Beat'em Up,|3||Acclaim Entertainment|Avalon Interactive|1993
 21AAAA|Dragon Ball Z - Buyuu Retsuden|Dragon Ball Z: The Call of Destiny||Fight,|2||Bandai|Bandai|1994
 18380A|Dragon Slayer - Eiyuu Densetsu|Dragon Slayer - Eiyuu Densetsu|Dragon Slayer II - The Legend of Heroes|Adventure,|1||Nihon Falcom Corp.|Sega|1994
 641AAA|Dragon Slayer - Eiyuu Densetsu 2|Dragon Slayer - Eiyuu Densetsu 2||Role playing games,|1||Falcom|Sega|1995
-18379A|Dragon's Eye Plus - Shanghai 3|Dragon's Eye Plus - Shanghai 3||Action,|2||Home Data Corp.|Home Data Corp.|1991
-160AAA|Devil Crash Md|Dragon's Fury||Action,Pinball|2||Naxat Soft|Tengen|1991
-143960|Dragon's Lair|Dragon's Lair||Action,|||ReadySoft|Sega|1994
+18379A|Dragon's Eye Plus - Shanghai 3|Dragon's Eye Plus - Shanghai 3||Action,Puzzle,|2||Home Data Corp.|Home Data Corp.|1991
+160AAA|Devil Crash Md|Dragon's Fury||Action,Pinball,|2||Naxat Soft|Tengen|1991
+143960|Dragon's Lair|Dragon's Lair||Action,Platform,,|||ReadySoft|Sega|1994
 1051AA|Dragon's Lair - The Adventure Continues|Dragon's Lair - The Adventure Continues||Platform,|||Advanced Microcomputer Systems|Advanced Microcomputer Systems|1994
 477AAA|Dragon's Revenge|Dragon's Revenge||Pinball,Action,|2||Tengen|Tengen|1993
-124960|Dragonball - Final Bout|Dragonball - Final Bout|||||||
-23AAAA|Duke Nukem 3d|Duke Nukem 3D||Action,FPS|1||Tec Toy|3D Realms|1998
-143974|Dune - Mission Sardaukar|Dune - Mission Sardaukar|||||||
+124960|Dragonball - Final Bout|Dragonball - Final Bout||Fighting,|2|||DVS|1998
+23AAAA|Duke Nukem 3d|Duke Nukem 3D||Action,Shooter,|1||Tec Toy|3D Realms|1998
+143974|Dune - Mission Sardaukar|Dune - Mission Sardaukar||Strategy,|||||
 93AAAA|Dune 2 - Battle For Arrakis|Dune : The Battle for Arrakis||Strategy,|1||Virgin|Virgin - Westwood Studios|1994
 135AAA|Dungeons And Dragons - Warriors Of The Eternal Sun|Dungeons & Dragons : Warriors of the Eternal Sun||Role playing games,|1||Sega|Sega|1992
 38958A|Dyna Brothers|Dyna Brothers|Dyna Brothers 2|Strategy,|1||CRI|CRI|1992
 18381A|Dyna Brothers 2|Dyna Brothers 2||Simulation,Strategy,|2||CSK Research Institute Corp.|CSK Research Institute Corp.|1993
 451AAA|Dynamite Duke|Dynamite Duke||Lightgun Shooter,Action,|1||Seibu Kaihatsu|Sega|1990
-157AAA|Dynamite Headdy|Dynamite Headdy||Action,Platform|1||Treasure|Sega|1994
-124963|Dyno Blaze|Dyno Blaze|||1||Bonsai Entertainment|Virgin Interactive Entertainment|
+157AAA|Dynamite Headdy|Dynamite Headdy||Action,Platformer,|1||Treasure|Sega|1994
+124963|Dyno Blaze|Dyno Blaze||Beat'em Up,|1||Bonsai Entertainment|Virgin Interactive Entertainment|1
 1052AA|Ea Sports Double Header|Ea Sports Double Header||Sports,|2||Park Place Productions|Electronic Arts|1992
 435AAA|Earnest Evans|Earnest Evans||Platform,Action,|1||Renovation Products|Renovation Products|1992
 1053AA|Earth Defense|Earth Defense||Shoot'em Up,Action,|2||AV Artisan|AV Artisan - Realtec|1994
@@ -311,9 +312,9 @@
 103616|Eswat - City Under Siege|ESWAT : City Under Siege||Various,|1||Sega|Sega|1990
 83AAAA|Eternal Champions|Eternal Champions||Fight,Action,|2||Sega|Sega|1993
 434AAA|Evander Holyfield Boxing|Evander Holyfield's "Real Deal" Boxing||Fight,Sports,|2||Acme Animation|Sega|1992
-248AAA|Ex-mutants|Ex-Mutants||Action|1||Malibu Games|Sega|1992
+248AAA|Ex-mutants|Ex-Mutants||Action,Platformer,Shooter,|1||Malibu Games|Sega|1992
 442AAA|Exile - Toki No Hazama He|Exile||Role playing games,|1||Renovation Products|Telenet|1991
-385AAA|Exo Squad|Exo Squad|Exo-Squad|Action,Shooter|2||Playmates|Virgin|1995
+385AAA|Exo Squad|Exo Squad|Exo-Squad|Action,Fighting,Platform,Shooter,,|2||Playmates|Virgin|1995
 568AAA|Exodus - Journey To The Promised Land|Exodus : Journey to the Promised Land||Puzzle-Game,|2||Wisdom Tree|Wisdom Tree|1993
 569AAA|F-117 Stealth Operation - Night Storm|F-117 Night Storm||Simulation,|1||Rare|Electronic Arts|1993
 578AAA|F-15 Strike Eagle 2|F-15 Strike Eagle II||Simulation,|1||MicroProse|MicroProse|1993
@@ -323,18 +324,18 @@
 1058AA|Family Feud|Family Feud||Various,|2||Imagineering Inc.|Eurocom Entertainment Software|1993
 58AAAA|Fantasia - Mickey Mouse Magic|Fantasia||Platform,Action,|1||Sega|Infogrames|1991
 301AAA|Fantastic Dizzy|Fantastic Dizzy||Platform,|1||Chameleon|Codemasters|1993
-189111|Fantasy Pinball|Fantasy Pinball|||2||TecToy|TecToy|2005
-143975|Fast And Furious 5 - Fast Five|Fast And Furious 5 - Fast Five|||||||
+189111|Fantasy Pinball|Fantasy Pinball||Pinball,|2||TecToy|TecToy|2005
+143975|Fast And Furious 5 - Fast Five|Fast And Furious 5 - Fast Five||Action,Racing,|||||
 153AAA|Garou Densetsu - Shukumei No Tatakai|Fatal Fury||Fight,Action,|2||SNK|SNK - Takara|1991
 147AAA|Fatal Fury 2|Fatal Fury 2||Sports,Action,|2||SNK|Takara|1994
 233AAA|Shi No Meikyu - Labyrinth Of Death|Fatal Labyrinth||Role playing games,|1||Sega|Sega|1990
 402AAA|Fatal Rewind|Fatal Rewind||Platform,Action,|2||Bizarre Creations|Electronic Arts|1991
 143976|Felix The Cat|Felix The Cat||Platform,|1||BMB|Kudos|2012
-38959A|Feng Kuang Tao Hua Yuan|Feng Kuang Tao Hua Yuan||Strategy,|||Creaton Softech|Creaton Softech|
+38959A|Feng Kuang Tao Hua Yuan|Feng Kuang Tao Hua Yuan||Strategy,|4||Creaton Softech|Creaton Softech|1998
 1060AA|Feng Shen Ying Jie Chuan|Heroic Legends of Sealing Gods||Role playing games,Strategy,|1||Chuanpu Technologies|Chuanpu Technologies|1996
 1061AA|Ferias Frustradas do Pica-Pau|Ferias Frustradas do Pica-Pau||Platform,|1||Tec Toy S.A.|Tec Toy|1996
 441AAA|Nakajima Satoru Kanshuu F1 Hero Md|Ferrari Grand Prix Challenge||Race, Driving,|2||Aisystem Tokyo|Flying Edge|1992
-242AAA|Fido Dido|Fido Dido||Action,Platform|1||Teeny Weeny Games|Kaneko|1993
+242AAA|Fido Dido|Fido Dido||Action,Platformer,|1||Teeny Weeny Games|Kaneko|1993
 124AAA|Fifa Road To World Cup 98|Fifa Road To World Cup 98||Sports,|4||EA Sports|EA Sports|1996
 221AAA|Fifa International Soccer|FIFA International Soccer||Sports,|4||Extended Play Productions|EA Sports|1993
 109AAA|Fifa Soccer 95|FIFA Soccer 95||Sports,|4||Extended Play Productions|EA Sports|1994
@@ -344,87 +345,87 @@
 1062AA|Fz Senki Axis|Final Zone||Shoot'em Up,Action,|1||Wolf Team|Wolf Team|1990
 630AAA|Fire Mustang|Fire Mustang||Shoot'em Up,Action,|1||Taito|Taito|1991
 462AAA|Same! Same! Same!|Fire Shark||Shoot'em Up,Action,|1||Toaplan|Sega|1990
-109051|Fix It Felix Jr|Fix-It Felix, Jr.||Puzzle-Game,|1||||2013
+109051|Fix It Felix Jr|Fix-It Felix, Jr.||Puzzle-Game,|1|||Tobi Komi|2013
 1063AA|Flash Point|Flash Point||Puzzle-Game,|2||Zemina|Zemina|1993
 32AAAA|Flashback|Flashback : The Quest for Identity||Adventure,Platform,Action,|1||U.S. Gold|Delphine Software International|1992
 293AAA|Flicky|Flicky||Platform,Action,|1||Sega|Sega|1991
-189122|Forca Alienigena|Forca Alienigena|||1||Devworks Game Technology|TecToy|2002
+189122|Forca Alienigena|Forca Alienigena||Shooter,|1||Devworks Game Technology|TecToy|2002
 616AAA|Foreman For Real|Foreman for Real||Fight,Sports,|8||Software Creations|Acclaim Entertainment|1995
 316AAA|Forgotten Worlds|Forgotten Worlds||Shoot'em Up,Action,|2||Capcom|Capcom|1988
 337AAA|F1|Formula One|F1 Circus MD|Race, Driving,Simulation,Sports,|2||Domark|Lankhor|1993
 740AAA|Frank Thomas Big Hurt Baseball|Frank Thomas Big Hurt Baseball||Simulation,Sports,|2||Acclaim Entertainment|Iguana Entertainment|1995
-78346A|Frog Dude|Frog Dude|||||Twilight||
-504AAA|Frogger|Frogger||Action,Arcade|2||Morning Star Multimedia|Majesco|1998
-1064AA|From Tv Animation Slam Dunk - Kyougou Makkou Taiketsu!|From Tv Animation Slam Dunk - Kyougou Makkou Taiketsu!||Action,|2||Bandai|Bandai|1995
+78346A|Frog Dude|Frog Dude||Platform,|||Twilight||1
+504AAA|Frogger|Frogger||Action,Arcade,,|2||Morning Star Multimedia|Majesco|1998
+1064AA|From Tv Animation Slam Dunk - Kyougou Makkou Taiketsu!|From Tv Animation Slam Dunk - Kyougou Makkou Taiketsu!||Action,Sports,|2||Bandai|Bandai|1995
 604AAA|Fun 'n' Games|Fun 'n' Games||Various,|1||Leland Interactive Media|Tradewest|1993
-1065AA|Fun Car Rally|Fun Car Rally||,Racing|||Leland Interactive Media|Leland Interactive Media|1993
-125020|Funny Of Three Kingdoms|Funny Of Three Kingdoms|||||||
+1065AA|Fun Car Rally|Fun Car Rally||Action,Racing,|||Leland Interactive Media|Leland Interactive Media|1993
+125020|Funny Of Three Kingdoms|Funny Of Three Kingdoms||RPG,|||||
 1066AA|Funny World And Balloon Boy|Funny World & Balloon Boy||Compilation,Action,|1||AV Artisan|Realtec|1993
 414AAA|G-loc - Air Battle|G-LOC Air Battle||Shoot'em Up,Action,|1||Sega|Sega|1993
-617AAA|Gadget Twins, The|Gadget Twins||Action,Shooter|2||Imagitec Design|GameTek|1992
-172AAA|Gaiares|Gaiares||Action,Shooter|1||Telenet|Renovation|1990
+617AAA|Gadget Twins, The|Gadget Twins||Action,Shooter,,|2||Imagitec Design|GameTek|1992
+172AAA|Gaiares|Gaiares||Action,Shooter,|1||Telenet|Renovation|1990
 238AAA|Gain Ground|Gain Ground||Strategy,|2||Renovation Products|Sega|1991
-224AAA|Legend of Galahad, The|Galahad||Action|1||Psygnosis|Electronic Arts|1992
-125022|Galaxian|Galaxian|Sagaia|,Shooter|||Namco|HiCom|
+224AAA|Legend of Galahad, The|Galahad||Action,Beat'em Up,Platformer,|1||Psygnosis|Electronic Arts|1992
+125022|Galaxian|Galaxian|Sagaia|Action,Arcade,Shooter,,|||Namco|HiCom|
 369AAA|Galaxy Force 2|Galaxy Force II||Shoot'em Up,Action,|1||AM R&D Dept. #2|Sega|1991
 18457A|Gambler Jiko Chuushinha - Katayama Masayuki No Mahjong Doujou|Gambler Jiko Chuushinha - Katayama Masayuki No Mahjong Doujou||Strategy,|1||Game Arts Co., Ltd.|Yellow Horn Co., Ltd.|Game Arts Co., Ltd.
-38962A|Game No Kanzume Otokuyou|Game No Kanzume Otokuyou||Compilation,|||Sega|Sega|
+38962A|Game No Kanzume Otokuyou|Game No Kanzume Otokuyou||Compilation,|2||Sega|Sega|1995
 185AAA|Garfield - Caught In The Act|Garfield : Caught in the Act||Various,|1||Sega|Sega|1995
 169AAA|Gargoyles|Gargoyles||Various,Sports,Action,|1||Buena Vista Interactive|Disney|1995
 1068AA|Garry Kitchen's Super Battletank - War In The Gulf|Garry Kitchen's Super Battletank : War in the Gulf||Simulation,|1||Absolute Entertainment|Absolute Entertainment|1992
 350AAA|Gauntlet|Gauntlet IV||Adventure,|4||Tengen|M2TO|1993
-125025|Gem Quest|Gem Quest|||1||||
+125025|Gem Quest|Gem Quest||Action,Arcade,|1||||
 1069AA|Royal Blood|Gemfire||Strategy,|2||Koei|Koei|1992
 281AAA|General Chaos Daikonsen|General Chaos||Strategy,|4||Game Refuge|Electronic Arts|1993
 489AAA|Generations Lost|Generations Lost||Platform,Action,|1||Time Warner Interactive|Time Warner Interactive|1994
-125026|Genesis Boulder Dash|Genesis Boulder Dash|||||||
+125026|Genesis Boulder Dash|Genesis Boulder Dash||Action,Puzzle,|||||
 640AAA|Aoki Ookami To Shiroki Meshika - Genchou Hishi|Genghis Khan II : Clan of the Gray Wolf||Strategy,|2||Koei|Koei|1993
-125031|Gennypong|Gennypong|||||||
+125031|Gennypong|Gennypong||Action,Arcade,|||||
 673AAA|George Foreman's Ko Boxing|George Foreman's KO Boxing||Fight,Sports,|2||Flying Edge|Beam Software|1992
 85AAAA|Ghostbusters|Ghostbusters||Platform,Action,|1||Compile|Sega|1990
-45AAAA|Ghouls'n Ghosts|Ghouls'n Ghosts|Ghouls 'N Ghosts|Action|1||Capcom|Capcom|1989
-39838A|Mick And Mack As The Global Gladiators|Mick & Mack as the Global Gladiators||Action,|1||Virgin|Virgin|1992
+45AAAA|Ghouls'n Ghosts|Ghouls'n Ghosts|Ghouls 'N Ghosts|Action,Platform,|1||Capcom|Capcom|1989
+39838A|Mick And Mack As The Global Gladiators|Mick & Mack as the Global Gladiators||Action,Platform,Shooter,,|1||Virgin|Virgin|1992
 78347A|Go Net|Go Net|Gods|Go,Asiatic board game,|2||Aisystem Tokyo|Sega|1992
-357AAA|Gods|Gods|Asterix and the Power of The Gods|Action,Platform|1||Graftgold|Mindscape|1992
+357AAA|Gods|Gods|Asterix and the Power of The Gods|Action,Platformer,|1||Graftgold|Mindscape|1992
 28AAAA|Golden Axe|Golden Axe||Beat'em Up,|2||Sega|Sega|1989
 88AAAA|Golden Axe 2|Golden Axe II||Beat'em Up,Action,|2||Sega|Sega|1991
 61AAAA|Golden Axe 3|Golden Axe 3|Golden Axe|Beat'em Up,Action,|2||Sega|Sega|1993
 321AAA|Goofy's Hysterical History Tour|Goofy's Hysterical History Tour||Platform,Action,|1||Imagineering Inc|Imagineering Inc|1993
 395AAA|Granada|Granada||Shoot'em Up,Action,|1||Wolf Team|Renovation Products|1990
-143977|Grand Theft Auto V|Grand Theft Auto V|||||||
+143977|Grand Theft Auto V|Grand Theft Auto V||Action,Racing,Shooter,,,|||||
 290AAA|Grandslam - The Tennis Tournament '92|Jennifer Capriati Tennis||Sports,|2||System Sacom|System Sacom|1992
 1071AA|Greatest Heavyweights|Greatest Heavyweights||Sports,|2||Acme Animation|Sega|1993
-255AAA|Greendog - The Beached Surfer Dude!|Greendog : The Beached Surfer Dude!|Greendog - The Beached Surfer Dude|Action,Platform|1||Data Design Interactive|Sega|1992
+255AAA|Greendog - The Beached Surfer Dude!|Greendog : The Beached Surfer Dude!|Greendog - The Beached Surfer Dude|Action,Platform,,|1||Data Design Interactive|Sega|1992
 498AAA|V-five|Grind Stormer||Shoot'em Up,Action,|1||Toaplan|Tengen|1994
 631AAA|Runark|Growl||Beat'em Up,Action,|1||Taito|Taito|1991
-189107|Guerra dos Monstros|Guerra dos Monstros|||1||TecToy|TecToy|2005
-78348A|Gunfight 3 In 1|Gunfight 3 in 1||Lightgun Shooter,|2||||
+189107|Guerra dos Monstros|Guerra dos Monstros||Cards,|1||TecToy|TecToy|2005
+78348A|Gunfight 3 In 1|Gunfight 3 in 1||Lightgun Shooter,|2|||Unknown|2
 653AAA|Gunship|Gunship||Shoot'em Up,Race, Driving,|1||U.S. Gold|Probe|1993
 89AAAA|Gunstar Heroes|Gunstar Heroes||Beat'em Up,Action,|2||Treasure|Sega|1993
 579AAA|Hard Drivin'|Hard Drivin'||Race, Driving,|1||Tengen|Atari|1990
-1072AA|Hardball '94|HardBall '94||Action,Baseball|2||MindSpan|MindSpan|1994
-1073AA|Hardball '95|HardBall '95||Action,Baseball|2||MindSpan|MindSpan|1995
+1072AA|Hardball '94|HardBall '94||Action,Sports,|2||MindSpan|MindSpan|1994
+1073AA|Hardball '95|HardBall '95||Action,Sports,|2||MindSpan|MindSpan|1995
 736AAA|Al Michaels Announces Hardball 3|HardBall III||Sports,|2||MindSpan|Accolade|1993
 618AAA|Hardball!|HardBall!||Sports,|2||Ballistic|Accolade|1991
-125057|Harry Potter|Harry Potter||Action,Arcade|||KuKzz||
+125057|Harry Potter|Harry Potter||Action,Puzzle,|||KuKzz||
 364AAA|Haunting Starring Polterguy|Haunting Starring Polterguy||Various,Simulation,|2||Electronic Arts|Electronic Arts|1993
 18391A|Captain Lang|High Seas Havoc||Action,Adventure,|1||Data East|Codemasters - Data East|1993
 605AAA|Fever Pitch Soccer|Head-On Soccer||Sports,|8||U.S. Gold|U.S. Gold|1995
 1074AA|Heavy Nova|Heavy Nova||Platform,Action,|2||Holocronet|Micronet|1992
 1075AA|Heavy Unit - Mega Drive Special|Heavy Unit - Mega Drive Special||Shoot'em Up,|1||Kaneko Co., Ltd.|Toho|1990
-38976A|Hei Tao 2 - Super Big 2|Hei Tao 2 - Super Big 2|||||Chuanpu|King Tec Information Co., Ltd.|1996
+38976A|Hei Tao 2 - Super Big 2|Hei Tao 2 - Super Big 2||Cards,|||Chuanpu|King Tec Information Co., Ltd.|1996
 196AAA|Hellfire|Hellfire||Action,Fight,|1||Toaplan|Sega|1990
-125064|Hercules 2|Hercules 2||,Platform|||Unlicensed|IGS|1991
+125064|Hercules 2|Hercules 2||Platformer,|||Unlicensed|IGS|1991
 397AAA|Herzog Zwei|Herzog Zwei||Strategy,|2||Technosoft|Sega|1988
-189119|Hexagono|Hexagonos|||2||TecToy|TecToy|2005
-59387A|Nekketsu Kouko Dodgeball Bu - Soccer Hen Md|High School Soccer - Kunio Kun||Sports,Sports / Soccer,|||Technos|PALSOFT|1990
+189119|Hexagono|Hexagonos||Board game,|2||TecToy|TecToy|2005
+59387A|Nekketsu Kouko Dodgeball Bu - Soccer Hen Md|High School Soccer - Kunio Kun||Sports,Sports / Soccer,|2||Technos|PALSOFT|1990
 619AAA|Hit The Ice|Hit the Ice : VHL, The Official Video Hockey League||Sports,|2||Taito|Taito|1992
 327AAA|Home Alone|Home Alone||Adventure,|1||Brian A. Rice|Sega|1992
 1077AA|Home Alone 2 - Lost In New York|Home Alone 2 : Lost in New York||Platform,|1||Interactive Designs|Sega|1993
 18392A|Honoo No Toukyuuji Dodge Danpei|Honoo No Toukyuuji Dodge Danpei||Sports,|1||Sega|Sega|1992
 305AAA|Hook|Hook||Platform,Action,|1||Sony|Ukiyotei|1992
 1079AA|Huan Le Tao Qi Shu - Smart Mouse|Huan Le Tao Qi Shu - Smart Mouse||Puzzle-Game,|2||Ming Super Chip Electronic Co., Ltd.|Ming Super Chip Electronic Co., Ltd.|1991
-143978|Hugo - Ecology In Danger|Hugo - Ecology In Danger|||||||
+143978|Hugo - Ecology In Danger|Hugo - Ecology In Danger||Platform,|||||
 516AAA|Hurricanes|Hurricanes||Platform,|2||Arc Developments|U.S. Gold|1994
 38977A|Hybrid Front, The|Hybrid Front, The||Strategy,|1||Sega|Sega|1994
 18393A|Hyokkori Hyoutanjima - Daitouryou Wo Mezase!|Hyokkori Hyoutanjima - Daitouryou Wo Mezase!||Strategy,|4||JSH|Sega|1992
@@ -432,24 +433,24 @@
 1081AA|Hyper Marbles|Hyper Marbles||Various,Action,|2||Sega|Sega|1991
 1082AA|Ikasuze! Koi No Doki Doki Penguin Land Md|Ikasuze! Koi No Doki Doki Penguin Land Md||Puzzle-Game,|1||Sega|Sega|1992
 517AAA|Img International Tour Tennis|IMG International Tour Tennis||Sports,|4||High Score Productions|Electronic Arts|1994
-183AAA|Indiana Jones And The Last Crusade|Indiana Jones and the Last Crusade||Action|1||U.S. Gold|Tiertex Design Studios|1992
-125078|Insane Paradise|Insane Paradise|||||||
+183AAA|Indiana Jones And The Last Crusade|Indiana Jones and the Last Crusade||Action,Platformer,|1||U.S. Gold|Tiertex Design Studios|1992
+125078|Insane Paradise|Insane Paradise||Board game,|||||
 478AAA|Insector X|Insector X||Shoot'em Up,|1||Sage's Creation|Taito|1990
 239AAA|Instruments Of Chaos Starring Young Indiana Jones|Instruments of Chaos Starring Young Indiana Jones||Action,|1||Brian A. Rice|LucasArts|1994
 494AAA|International Rugby|International Rugby||Sports,|2||Domark|Tiertex Design Studios|1993
 134AAA|International Superstar Soccer Deluxe|International Superstar Soccer Deluxe||Sports,|8||Konami|Konami|1995
 119062|Iraq War 2003|Iraq War 2003||Shoot'em Up,|1||Tomsoft|Dragon Software|
-143979|Iron Man|Iron Man|||||Secret Level|Sega|
+143979|Iron Man|Iron Man||Action,Shooter,,|||Secret Level|Sega|
 649AAA|Ishido - The Way Of Stones|Ishido : The Way of Stones||Puzzle-Game,Fight,|1||Publishing International|Accolade|1990
 1083AA|It Came From The Desert|It Came from the Desert||Adventure,|1||Cinemaware|Cinemaware|1989
 482AAA|Izzy's Quest For The Olympic Rings|Izzy's Quest for the Olympic Rings||Platform,Action,|1||U.S. Gold|U.S. Gold|1995
 1085AA|J. League Pro Striker|J. League Pro Striker|J. League Pro Striker 2|Sports,|4||Sega|Sega|1993
 1086AA|J. League Pro Striker 2|J. League Pro Striker 2||Sports,|4||Sega|Sega|1994
-1088AA|J. League Pro Striker Perfect|J. League Pro Striker Perfect||Action,|4||Sega|Sega|1993
+1088AA|J. League Pro Striker Perfect|J. League Pro Striker Perfect||Action,Sports,|4||Sega|Sega|1993
 694AAA|Jack Nicklaus' Power Challenge Golf|Jack Nicklaus' Power Challenge Golf||Sports,|4||Accolade|Accolade|1993
 614AAA|Final Blow|James 'Buster' Douglas Knockout Boxing||Simulation,Fight,Sports,|2||Taito|Sega|1990
 190AAA|James Bond 007 - The Duel|James Bond 007 : The Duel||Action,Adventure,|1||Domark|Domark|1993
-259AAA|James Pond 3 - Operation Starfish|James Pond 3||Action,Platform|1||Millennium|Electronic Arts|1993
+259AAA|James Pond 3 - Operation Starfish|James Pond 3||Action,Platform,|1||Millennium|Electronic Arts|1993
 335AAA|James Pond - Underwater Agent|James Pond : Underwater Agent||Platform,|1||Electronic Arts|Electronic Arts|1991
 171AAA|James Pond 2 - Codename Robocod|James Pond II : Codename, Robocod||Sports,|1||Vectordean|Electronic Arts|1991
 595AAA|Jammit|Jammit||Sports,|2||GTE Vantage Inc.|Virgin|1994
@@ -460,13 +461,13 @@
 1090AA|Jeopardy! - Deluxe Edition|Jeopardy! : Deluxe Edition||Various,|3||Park Place Productions|Park Place Productions|1993
 687AAA|Jeopardy! Sports Edition|Jeopardy! : Sports Edition||Puzzle-Game,|3||Slapdash Games|GameTek|1993
 646AAA|Jerry Glanville's Pigskin Footbrawl|Jerry Glanville's Pigskin Footbrawl||Race, Driving,Sports,|2||Developer Resources|Midway|1990
-155396|Jesse |Jesse "the Body" Ventura - Wrestling Superstars|Chess|,Chess|||||
+155396|Jesse |Jesse "the Body" Ventura - Wrestling Superstars|Chess|Sports,|||||
 366AAA|Jewel Master|Jewel Master||Platform,Action,|1||Sega|Sega|1991
-125080|Jezball|Jezball|||||||
+125080|Jezball|Jezball||Action,Puzzle,|||||
 1091AA|Jim Power - The Arcade Game|Jim Power : The Arcade Game||Platform,|1||Loriciels|Loriciels|1993
 1092AA|Jimmy White's Whirlwind Snooker|Jimmy White's Whirlwind Snooker||Sports,|2||Virgin|Virgin|1991
-39005A|Jiu Ji Ma Jiang 2 - Ye Yan Bian|Jiu Ji Ma Jiang 2 - Ye Yan Bian||Mahjong,Asiatic board game,||||Sun Green|
-125082|Jizz Wars|Jizz Wars|||||Public Domain|Public Domain|
+39005A|Jiu Ji Ma Jiang 2 - Ye Yan Bian|Jiu Ji Ma Jiang 2 - Ye Yan Bian||Mahjong,Asiatic board game,|1|||Sun Green|1995
+125082|Jizz Wars|Jizz Wars||Shooter,Adult,|||Public Domain|Public Domain|
 430AAA|Joe And Mac - Caveman Ninja|Joe & Mac||Platform,|2||Data East|Takara|1991
 559AAA|Joe Montana 2 Sports Talk Football|Joe Montana II Sports Talk Football||Sports,|2||Sega|Sega|1991
 1093AA|Joe Montana Football|Joe Montana Football||Sports,|2||Park Place Productions|Park Place Productions|1990
@@ -476,22 +477,22 @@
 1094AA|John Madden Football - Championship Edition|John Madden Football : Championship Edition||Sports,|2||Electronic Arts|Looking Glass Studios|1992
 427AAA|Jordan Vs Bird - One On One|Jordan vs Bird||Sports,|2||Electronic Arts|Electronic Arts|1992
 683AAA|Joshua And The Battle Of Jericho|Joshua & the Battle of Jericho||Puzzle-Game,|2||Wisdom Tree|Wisdom Tree|1994
-253AAA|Judge Dredd|Judge Dredd||Action|1||Probe|Acclaim Entertainment|1995
-125088|Jumping Game|Jumping Game|||||||
+253AAA|Judge Dredd|Judge Dredd||Action,Platformer,Shooter,|1||Probe|Acclaim Entertainment|1995
+125088|Jumping Game|Jumping Game||Action,|||||
 695AAA|Junction|Junction||Puzzle-Game,Strategy,|1||Micronet|Konami|1990
 105AAA|Jungle Strike - Uketsugareta Kyouki|Jungle Strike : The Sequel to Desert Strike||Action,|1||High Score Productions|Electronic Arts|1993
-189116|Junte Quatro|Junte Quatro|||2||Devworks Game Technology|TecToy|2003
+189116|Junte Quatro|Junte Quatro||Puzzle-Game,|2||Devworks Game Technology|TecToy|2003
 49AAAA|Jurassic Park|Jurassic Park||Adventure,Action,|1||Tec Toy|BlueSky Software, Inc.|1993
-94AAAA|Jurassic Park - Rampage Edition|Jurassic Park : Rampage Edition||Action|1||BlueSky Software, Inc.|Sega|1994
-270AAA|Justice League Task Force|Justice League Task Force||Action,Fighting|2||Blizzard Entertainment|Acclaim Entertainment|1995
+94AAAA|Jurassic Park - Rampage Edition|Jurassic Park : Rampage Edition||Action,Shooter,,|1||BlueSky Software, Inc.|Sega|1994
+270AAA|Justice League Task Force|Justice League Task Force||Action,Fighter,|2||Blizzard Entertainment|Acclaim Entertainment|1995
 696AAA|Ka-ge-ki|Ka-Ge-Ki : Fists of Steel||Beat'em Up,Fight,|1||Kaneko|Sage's Creation|1991
 632AAA|Kawasaki Superbike Challenge|Kawasaki Superbike Challenge||Race, Driving,|2||Time Warner Interactive|Lankhor|1994
 610AAA|Kick Off 3 - European Challenge|Kick Off 3 - European Challenge||Sports,|2||Vic Tokai|Anco|1994
 38AAAA|Kid Chameleon|Kid Chameleon||Platform,Adventure,|2||Sega|Sega|1992
 1095AA|Kidou Keisatsu Patlabor - 98-shiki Kidou Seyo!|Kidou Keisatsu Patlabor - 98-shiki Kidou Seyo!||Adventure,|||Ma-Ba|Ma-Ba|1992
-125101|King of Fighters '98, The|King of Fighters '98, The||,Fighting|||||
-125102|King of Fighters '99, The|King of Fighters '99, The|King of Fighters '98, The|,Fighting|||||
-155447|King of Fighters 2000, The|King of Fighters 2000, The|||||||
+125101|King of Fighters '98, The|King of Fighters '98, The||Fighting,|||||
+125102|King of Fighters '99, The|King of Fighters '99, The|King of Fighters '98, The|Fighter,|||||
+155447|King of Fighters 2000, The|King of Fighters 2000, The||Fighter,|||||
 518AAA|King Of The Monsters|King of the Monsters|King of the Monsters 2|Beat'em Up,Action,|2||SNK|Takara|1991
 533AAA|King Of The Monsters 2|King of the Monsters 2||Beat'em Up,|2||Takara|Takara|1993
 650AAA|King Salmon|King Salmon : The Big Catch||Fight,|1||SNK|Takara|1992
@@ -499,24 +500,24 @@
 39002A|Kishi Densetsu|Kishi Densetsu||Strategy,|||Kodansha|Kodansha|1993
 1096AA|Kiss Shot|Kiss Shot||Various,Sports,|4||Sega|Sega|1992
 479AAA|Klax|Klax||Puzzle-Game,Strategy,|1||Tengen|Tengen|1990
-125110|Knuckles' Chaotix|Knuckles' Chaotix||,Platform|||||
-125111|Kokushin|Kokushin|||1||||
-143980|Kolobok - Pyramid|Kolobok - Pyramid|||||||
+125110|Knuckles' Chaotix|Knuckles' Chaotix||Action,Platform,,|||||1995
+125111|Kokushin|Kokushin||Shoot'em Up,Shoot'em Up / Vertical,|1||||
+143980|Kolobok - Pyramid|Kolobok - Pyramid||Platform,|||||
 201AAA|Krusty's Super Fun House|Krusty's Super Fun House|Krusty's Super Funhouse|Action,Various,Adventure,Puzzle-Game,Fight,|1||Acclaim Entertainment|Audiogenic|1992
-143981|Kung Fu Panda|Kung Fu Panda|||||||
-1097AA|Kyuukai Douchuuki|Kyuukai Douchuuki||Action,Baseball|2||Namco|Namco|1991
+143981|Kung Fu Panda|Kung Fu Panda||Action,Fighting,Platform,,|||||
+1097AA|Kyuukai Douchuuki|Kyuukai Douchuuki||Action,Sports,|2||Namco|Namco|1991
 24AAAA|Story of Thor - A Successor of the Light, The|Beyond Oasis||Role playing games,|1||Sega|Ancient - Sega|1994
-1098AA|La Russa Baseball 95|La Russa Baseball 95||Action,Baseball|2||High Score Productions|High Score Productions|1994
+1098AA|La Russa Baseball 95|La Russa Baseball 95||Action,Sports,Baseball,,|2||High Score Productions|High Score Productions|1994
 541AAA|Lakers Versus Celtics And The Nba Playoffs|Lakers versus Celtics and the NBA Playoffs||Sports,|2||Electronic Arts|Electronic Arts|1990
 6AAAAA|Landstalker - Koutei No Zaihou|Landstalker||Role playing games,|1||Climax Entertainment|Sega|1992
-173AAA|Langrisser 2|Langrisser 2||Action,|1||Masaya|NCS Corp|1994
+173AAA|Langrisser 2|Langrisser 2||Action,RPG,Strategy,,|1||Masaya|NCS Corp|1994
 464AAA|Last Action Hero|Last Action Hero||Race, Driving,|1||Sony|Bits Studios|1993
 76AAAA|Hokuto No Ken - Shin Seikimatsu Kyuuseishu Densetsu|Last Battle||Beat'em Up,Action,|1||Sega|Sega|1989
 75AAAA|Jungle Book, The|The Jungle Book||Platform,|1||Virgin|Disney - Eurocom - Virgin|1994
 9AAAAA|Lion King, The|The Lion King|Lion King 3|Platform,|1||Westwood Studios|Avalon Interactive|1994
 1099AA|Wu Kong Wai Zhuan|Legend of Wukong||Role playing games,|1||GameTek, Inc.|Gamtec|1998
-143982|Lego Batman|Lego Batman|||||||
-143983|Lego Pirates Of The Caribbean|Lego Pirates Of The Caribbean|||||||
+143982|Lego Batman|Lego Batman||Platform,|||||
+143983|Lego Pirates Of The Caribbean|Lego Pirates Of The Caribbean||Platform,|||||
 66AAAA|Lemmings|Lemmings||Puzzle-Game,Strategy,|2||DMA Design|Psygnosis|1991
 562AAA|Lemmings 2 - The Tribes|Lemmings 2 : The Tribes||Puzzle-Game,|1||DMA Design|Psygnosis|1993
 56AAAA|Les Schtroumpfs|The Smurfs||Platform,|1||Infogrames|Infogrames|1994
@@ -532,14 +533,14 @@
 107183|Lion King 3, The|Lion King 3, The|Lion King II, The|Action,Platform|||||
 1101AA|Lobo|Lobo|Doom|Beat'em Up,|2||Ocean|Ocean|1995
 1103AA|Lord Monarch - Tokoton Sentou Densetsu|Lord Monarch - Tokoton Sentou Densetsu||Strategy,|1||Nihon Falcom Corp.|Nihon Falcom|1998
-143941|Lord of the Rings - The Return of the King, The|Lord of the Rings - The Return of the King, The||||||Glorysun|
+143941|Lord of the Rings - The Return of the King, The|Lord of the Rings - The Return of the King, The||Fighter,||||Glorysun|
 107185|Lotus 2 - Recs|Lotus II||Race, Driving,|2||Gremlin|Electronic Arts|1993
 438AAA|Lotus Turbo Challenge|Lotus Turbo Challenge||Race, Driving,|2||Gremlin|Electronic Arts|1992
-78349A|Lufia And The Fortress Of Doom|Lufia & the Fortress of Doom|||||||
+78349A|Lufia And The Fortress Of Doom|Lufia & the Fortress of Doom||RPG,,|||||1
 404AAA|M-1 Abrams Battle Tank|M-1 Abrams Battle Tank||Simulation,|1||Sega|Dynamix|1991
-39008A|Ma Jiang Qing Ren - Ji Ma Jiang Zhi|Ma Jiang Qing Ren - Ji Ma Jiang Zhi||Strategy,|1||Creaton Softech Inc.||
-39009A|Ma Qiao E Mo Ta - Devilish Mahjong Tower|Ma Qiao E Mo Ta - Devilish Mahjong Tower||Strategy,|1||C&E Inc.|C&E Inc.|
-143984|Madagascar - Operation Penguin|Madagascar - Operation Penguin|||||||
+39008A|Ma Jiang Qing Ren - Ji Ma Jiang Zhi|Ma Jiang Qing Ren - Ji Ma Jiang Zhi||Strategy,|1||Creaton Softech Inc.|松诠资讯|1995
+39009A|Ma Qiao E Mo Ta - Devilish Mahjong Tower|Ma Qiao E Mo Ta - Devilish Mahjong Tower||Strategy,|1||C&E Inc.|C&E Inc.|1994
+143984|Madagascar - Operation Penguin|Madagascar - Operation Penguin||Platform,|||||
 467AAA|Madden Nfl 94|Madden NFL '94|Madden NFL 95|Sports,|4||High Score Productions|Electronic Arts|1993
 717AAA|Madden Nfl 95|Madden NFL 95||Sports,|4||High Score Productions|EA Sports|1994
 718AAA|Madden Nfl 96|Madden NFL 96||Sports,|4||High Score Productions|EA Sports|1995
@@ -547,16 +548,16 @@
 645AAA|Madden Nfl 98|Madden NFL 98||Sports,|4||Tiertex Design Studios|Electronic Arts - THQ|1997
 656AAA|Madou Monogatari I|Madou Monogatari I||Puzzle-Game,Race, Driving,|1||Compile|Compile|1996
 125624|Magic Bubble|Magic Bubble||Puzzle-Game,|2||C&E|C&E|1993
-155497|Magic Girl Featuring Ling Ling The Little Witch|Magic Girl Featuring Ling Ling The Little Witch|||||Gamtec|Super Fighter Team|2015
+155497|Magic Girl Featuring Ling Ling The Little Witch|Magic Girl Featuring Ling Ling The Little Witch||Shooter,|||Gamtec|Super Fighter Team|2015
 508AAA|Magical Hat No Buttobi Turbo! Daibouken|Magical Hat no Buttopi Turbo||Platform,|1||Vic Tokai|Sega|1990
 1104AA|Magical Taruruuto-kun|Magical Taruruuto-kun||Platform,Action,|1||Game Freak, Inc.|Sega|1992
-39010A|Mahjong Cop Ryuu - Hakurou No Yabou|Mahjong Cop Ryuu - Shiro Ookami no Yabou|||||Whiteboard|Sega|1989
+39010A|Mahjong Cop Ryuu - Hakurou No Yabou|Mahjong Cop Ryuu - Shiro Ookami no Yabou||Mahjong,|||Whiteboard|Sega|1989
 18403A|Mallet Legend|Mallet Legend's Whac-a-Critter|Marvel Land|Platform,Action,|1||AV Artisan|Realtec Corporation|1993
 674AAA|Mamono Hunter Youko - Dai 7 No Keishou|Mamono Hunter Yohko : Dai-7 no Keishou||Adventure,|1||NCsoft|NCsoft|1991
-428AAA|Marble Madness|Marble Madness||Action,Arcade|2||Atari|Atari|1984
-125640|Mario 3|Mario 3|||||||
-125641|Mario 4|Mario 4|||||||
-125639|Mario And Battle City|Mario And Battle City|||||||
+428AAA|Marble Madness|Marble Madness||Action,Puzzle,|2||Atari|Atari|1984
+125640|Mario 3|Mario 3||Platform,|||||
+125641|Mario 4|Mario 4||Platform,|||||
+125639|Mario And Battle City|Mario And Battle City||Platform,|||||
 285AAA|Mario Andretti Racing|Mario Andretti Racing||Race, Driving,|2||EA Sports|Stormfront Studios|1994
 353AAA|Mario Lemieux Hockey|Mario Lemieux Hockey||Sports,|2||Ringler Studios|Sega|1991
 597AAA|Marko's Magic Football|Marko||Platform,Action,|1||Domark|Domark|1994
@@ -566,12 +567,12 @@
 697AAA|Master Of Weapon|Master of Weapon||Shoot'em Up,Action,|4||Taito|Taito|1991
 1106AA|Maten No Soumetsu|Maten no Soumetsu||Role playing games,|1||Kodansha Ltd.|Kodansha Research Institute|1993
 1107AA|Math Blaster Episode 1 - In Search Of Spot|Math Blaster : Episode 1||Educational,|1||Western Technologies Inc.|Western Technologies|1994
-125643|Maziacs|Maziacs|||||||
+125643|Maziacs|Maziacs||Action,Arcade,Platform,,|||||
 18405A|Mazinsaga|Mazin Saga : Mutant Fighter|Mazin Saga|Beat'em Up,Action,|1||Almanic Corp.|Vic Tokai, Inc.|1993
-261AAA|Mcdonald's Treasure Land Adventure|McDonald's Treasure Land Adventure||Action,Platform|1||Treasure Co|Sega|1993
+261AAA|Mcdonald's Treasure Land Adventure|McDonald's Treasure Land Adventure||Action,Platformer,|1||Treasure Co|Sega|1993
 39011A|Medal City|Medal City||Casino / Cards,Casino / Slot machine,Casino,|1||Sega|Sega|1991
-39012A|Mega Anser|Mega Anser|||||Sega|Sega|1990
-154AAA|Mega Bomberman|Mega Bomberman||Action,Arcade|4||Westone|Sega|1994
+39012A|Mega Anser|Mega Anser||Software,|||Sega|Sega|1990
+154AAA|Mega Bomberman|Mega Bomberman||Action,Arcade,,|4||Westone|Sega|1994
 18406A|Mega Games 10|Mega Games 10||Sports,Strategy,Compilation,|8+||Epyx, Inc.|SEGA Enterprises Ltd.|Sonic Team
 440AAA|Mega Games 2|Mega Games 2||Action,Compilation,|2||Sega|Sega|1992
 1108AA|Mega Games 3|Mega Games 3||Compilation,Race, Driving,|2||Sega|Sega|1993
@@ -579,17 +580,17 @@
 1109AA|Mega Games 6 Vol. 2|Mega Games 6 Vol. 2||Compilation,|2||Sega|Sega|1995
 1111AA|Mega Games 6 Vol. 3|Mega Games 6 Vol. 3||Compilation,|2||Sega|Sega|1995
 151AAA|Rockman Mega World|Mega Man : The Wily Wars|Rockman Megaworld|Action,Platform|1||Capcom|Capcom|1994
-125650|Mega Q-bert|Mega Q-bert|||||||
+125650|Mega Q-bert|Mega Q-bert||Puzzle,|2|||Jaklub|2016
 387AAA|Mega Swiv|Mega SWIV||Shoot'em Up,|1||Storm|The Sales Curve|1992
-231AAA|Mega Turrican|Mega Turrican||Action|1||Factor 5|Data East|1994
+231AAA|Mega Turrican|Mega Turrican||Action,Platformer,Shooter,|1||Factor 5|Data East|1994
 211AAA|Mega Lo Mania|Tyrants : Fight through Time||Sports,Strategy,|1||Sensible Software|Virgin|1993
-18407A|Megamind|MegaMind||Action,|1||Sega|Sega|1991
+18407A|Megamind|MegaMind||Action,Puzzle,|1||Sega|Sega|1991
 1113AA|Megapanel|MegaPanel||Puzzle-Game,|2||Namco|Namco|1990
 1114AA|Menacer 6-game Cartridge|Menacer 6-Game Cartridge||Various,Action,|1||Johnson-Voorsanger Productions|Western Technologies Inc.|Western Technologies Inc.
 39014A|Meng Huan Shui Guo Pan - 777 Casino|Meng Huan Shui Guo Pan - 777 Casino||Casino,|2||Gamtec|City Man Technology Co., Ltd.|1993
-118AAA|Senjou No Ookami 2|Mercs||Action,|1||Capcom|Capcom|1991
+118AAA|Senjou No Ookami 2|Mercs||Action,Shooter,|1||Capcom|Capcom|1991
 739AAA|Metal Fangs|Metal Fangs||Race, Driving,|1||Victor Interactive|Sega|1993
-125658|Metal Gear 2 Solid Snake|Metal Gear 2 Solid Snake|||||||
+125658|Metal Gear 2 Solid Snake|Metal Gear 2 Solid Snake||Action,|||||
 41AAAA|Michael Jackson's Moonwalker|Michael Jackson's Moonwalker||Platform,Action,|2||Ultimate Productions|Sega|1990
 37AAAA|Mickey Mania - The Timeless Adventures Of Mickey Mouse|Mickey Mania : The Timeless Adventures of Mickey Mouse||Platform,|1||Traveller's Tales|Sony|1994
 176AAA|Mickey's Ultimate Challenge|Mickey's Ultimate Challenge||Fight,Strategy,|1||Hi-Tech Expressions|Hi-Tech Expressions|1994
@@ -601,43 +602,43 @@
 452AAA|Mig-29|MIG-29 Fighter Pilot||Simulation,|1||Domark|Tiertex Design Studios|1993
 244AAA|Might And Magic - Gates To Another World|Might and Magic : Gates to Another World||Role playing games,|1||New World Computing|New World Computing|1991
 1116AA|Might And Magic 3 - Isles Of Terra|Might and Magic III : Isles of Terra||Role playing games,|||New World Computing, Inc.|New World Computing's|1993
-125666|Mighty Mighty Missile 2004|Mighty Mighty Missile 2004|||||||
+125666|Mighty Mighty Missile 2004|Mighty Mighty Missile 2004||Action,Puzzle,|||||
 123AAA|Mighty Morphin Power Rangers|Mighty Morphin Power Rangers||Beat'em Up,Action,|2||Bandai|Sega|1994
-155441|Mighty Morphin Power Rangers - The Fighting Edition|Mighty Morphin Power Rangers - The Fighting Edition|||||||
+155441|Mighty Morphin Power Rangers - The Fighting Edition|Mighty Morphin Power Rangers - The Fighting Edition||Action,Fighting,,|||||2
 191AAA|Mighty Morphin Power Rangers - The Movie|Mighty Morphin Power Rangers : The Movie||Beat'em Up,|2|Coop|Sims|Sega|1995
 719AAA|Mike Ditka Power Football|Mike Ditka Power Football||Sports,|2||Accolade|Accolade|1991
-125672|Miniball|Miniball|||||||
+125672|Miniball|Miniball||Action,Breakout,|||||
 1117AA|Side Pocket 2|Minnesota Fats : Pool Legend||Sports,|2||Data East|Data East|1995
 96AAAA|Misadventures of Flink, The|Misadventures of Flink, The||Platform,Adventure,|1||Sony|Psygnosis|1994
-125675|Mk 5 - Mortal Combat - Subzero|Mk 5 - Mortal Combat - Subzero||,Fighting|||||
-1118AA|Mlbpa Baseball|MLBPA Baseball||Action,Baseball|4||High Score Productions|Sega|1992
-125679|Monk And Monkeys|Monk And Monkeys|||||||
+125675|Mk 5 - Mortal Combat - Subzero|Mk 5 - Mortal Combat - Subzero||Fighting,|||||
+1118AA|Mlbpa Baseball|MLBPA Baseball||Action,Sports,|4||High Score Productions|Sega|1992
+125679|Monk And Monkeys|Monk And Monkeys||Action,|||||
 443AAA|Monopoly|Monopoly||Board game,Strategy,|8||Parker Brothers|Sculptured Software|1992
 139AAA|Monster World Iv 4|Monster World IV||Platform,Adventure,|1||Westone|Sega|1994
-143985|Monsters, Inc.|Monsters, Inc.|||||||
-125682|Moonbase|Moonbase|||||||
+143985|Monsters, Inc.|Monsters, Inc.||Platform,|||||
+125682|Moonbase|Moonbase||Simulation,,|||||
 12AAAA|Mortal Kombat|Mortal Kombat|Mortal Kombat 3|Fight,Action,|2||Midway|Acclaim Entertainment|1993
 18AAAA|Mortal Kombat 3|Mortal Kombat 3||Fight,Action,|2||Midway|Acclaim Entertainment|1995
 33AAAA|Mortal Kombat 2 - Kyuukyoku Shinken|Mortal Kombat II||Fight,Action,|2||Midway|Acclaim Entertainment|1993
-189106|Mosaico|Mosaico|||1||TecToy|TecToy|2005
-125686|Most Greatest Game|Most Greatest Game|||||||
-64836A|Mr. Nutz 2|Mr Nutz 2|||||Ocean|NEON Software GmbH|1994
-189112|Bill Bolha|Mr. Balls|||1||Devworks Game Technology|TecToy|2005
+189106|Mosaico|Mosaico||Puzzle-Game,|1||TecToy|TecToy|2005
+125686|Most Greatest Game|Most Greatest Game||Shooter,|||||
+64836A|Mr. Nutz 2|Mr Nutz 2||Platformer,|||Ocean|NEON Software GmbH|1994
+189112|Bill Bolha|Mr. Balls||Puzzle-Game,|1||Devworks Game Technology|TecToy|2005
 67AAAA|Mr. Nutz|Mr. Nutz||Action,Platform,|1||Ocean|Ocean|1994
 1119AA|Ms. Pac-man|Ms. Pac-Man||Platform,Action,|2||General Computer Corporation|Midway|Innerprise Software
 542AAA|Muhammad Ali Heavyweight Boxing|Muhammad Ali Heavyweight Boxing||Fight,Sports,|2||Park Place Productions|Virgin|1992
 1078AA|Mulan|Mulan|Klax|Platform,|||Sega|Sega|1993
-186AAA|Musha Aleste - Full Metal Fighter Ellinor|MUSHA : Metallic Uniframe Super Hybrid Armor||Action,Shooter|1||Compile|Seismic Software|1990
+186AAA|Musha Aleste - Full Metal Fighter Ellinor|MUSHA : Metallic Uniframe Super Hybrid Armor||Action,Shooter,|1||Compile|Seismic Software|1990
 500AAA|Mutant League Football|Mutant League Football||Sports,|2||Mutant Productions|Electronic Arts|1993
 468AAA|Mutant League Hockey|Mutant League Hockey||Sports,|4||Mutant Productions|Electronic Arts|1994
-125697|My Little Pony Friendship Is Magic|My Little Pony Friendship Is Magic|||||||
+125697|My Little Pony Friendship Is Magic|My Little Pony Friendship Is Magic||Miscellaneous,|||||
 117AAA|Kujakuou 2 - Geneijou|Mystic Defender||Platform,Action,|1||Sega|Sega|1989
 1120AA|Maou Renjishi|Mystical Fighter||Beat'em Up,Action,|2||KID Corp.|Kid|1991
 1067AA|Fushigi No Umi No Nadia|Nadia: The Secret of Blue Water||Adventure,|1||Namco|Namco|1991
 1121AA|Nakajima Satoru Kanshuu F1 Grand Prix|Nakajima Satoru Kanshuu : F-1 Grand Prix||Race, Driving,|1||Varie Corporation|Varie|1991
 1122AA|Nakajima Satoru Kanshuu F1 Super License|Nakajima Satoru Kanshuu : F-1 Super License||Race, Driving,|1||Aprinet|Varie|1992
-143986|Narnia 3|Narnia 3|||||||
-143987|Naruto 2 - Second Adventure|Naruto 2 - Second Adventure|||||||
+143986|Narnia 3|Narnia 3||Platform,|||||
+143987|Naruto 2 - Second Adventure|Naruto 2 - Second Adventure||Beat'em Up,|||||
 637AAA|Nba Action '94|NBA Action '94|NBA Action '95|Sports,|5||Sega|Sega|1994
 746AAA|Nba Action '95 Starring David Robinson|NBA Action '95 Starring David Robinson||Sports,|5||Sega|Sega|1995
 636AAA|Nba All-star Challenge|NBA All-Star Challenge||Sports,|2||LJN|Beam Software|1992
@@ -648,11 +649,11 @@
 308AAA|Nba Live 96|NBA Live 96||Sports,|4||EA Sports|Electronic Arts|1995
 317AAA|Nba Live 97|NBA Live 97||Sports,|4||EA Sports|Electronic Arts|1996
 543AAA|Nba Live 98|NBA Live 98||Sports,|2||EA Sports|Electronic Arts|1997
-1124AA|Nba Pro Basketball '94|NBA Showdown '94||Action,Basketball|4||Electronic Arts|Electronic Arts|1994
+1124AA|Nba Pro Basketball '94|NBA Showdown '94||Action,Sports,|4||Electronic Arts|Electronic Arts|1994
 1125AA|Ncaa Final Four Basketball|NCAA Final Four Basketball||Action,Sports,|4||Bitmasters, Inc.|Bitmasters|1994
 1126AA|Ncaa Football|NCAA Football||Sports,|2||Software Toolworks, Inc., The|Mindscape|1994
 1128AA|New 3d Golf Simulation - Devil's Course|New 3D Golf Simulation : Devil's Course||Sports,|4||T&E Soft|T&E Soft|1994
-1129AA|New 3d Golf Simulation - Harukanaru Augusta|New 3D Golf Simulation : Harukanaru Augusta|New 3D Golf Simulation Harukanaru Augusta|Sports,|||T&E Soft|T&E Soft|1993
+1129AA|New 3d Golf Simulation - Harukanaru Augusta|New 3D Golf Simulation : Harukanaru Augusta|New 3D Golf Simulation Harukanaru Augusta|Sports,|4||T&E Soft|T&E Soft|1993
 1131AA|New 3d Golf Simulation - Waialae No Kiseki|New 3D Golf Simulation : Waialae no Kiseki||Sports,|||T&E Soft|T&E Soft|1994
 431AAA|Daikoukai Jidai 2|New Horizons||Adventure,Role playing games,|1||Koei|Koei|1994
 525AAA|Nigel Mansell Indycar|Newman Haas IndyCar featuring Nigel Mansell||Race, Driving,|2||Acclaim Entertainment|Gremlin|1994
@@ -663,7 +664,7 @@
 720AAA|Nfl Quarterback Club '95|NFL Quarterback Club||Sports,|5||Iguana Entertainment|Acclaim Entertainment|1994
 749AAA|Nfl Quarterback Club 96|NFL Quarterback Club 96||Sports,|5||Iguana Entertainment|Acclaim Entertainment|1995
 1132AA|Nfl Sports Talk Football '93 Starring Joe Montana|NFL Sports Talk Football '93 Starring Joe Montana||Sports,|2||BlueSky Software, Inc.|Bluesky Innovations|1992
-39839A|Nhk Taiga Drama - Taiheiki|NHK Taiga Drama - Taiheiki||Simulation,|||Sega|NHK - Sega|1991
+39839A|Nhk Taiga Drama - Taiheiki|NHK Taiga Drama - Taiheiki||Simulation,|1||Sega|NHK - Sega|1991
 469AAA|Nhl 95|NHL 95||Sports,|4||High Score Productions|Electronic Arts|1994
 621AAA|Nhl 96|NHL 96||Sports,|4||High Score Productions|Electronic Arts|1995
 598AAA|Nhl 97|NHL 97||Sports,|4||High Score Productions|EA Sports|1996
@@ -676,53 +677,53 @@
 1133AA|Nigel Mansell's World Championship Racing|Nigel Mansell's World Championship Racing||Race, Driving,|1||Gremlin|Gremlin|1993
 1134AA|Nightmare Circus|Nightmare Circus||Platform,Action,|2||Funcom Oslo A/S|TecToy|1996
 39840A|Ninja Burai Densetsu|Ninja Burai Densetsu||Strategy,|1||Sega|Sega|1991
-403AAA|Ninja Gaiden|Ninja Gaiden||Beat'em Up,|1||Sega|Sega|
+403AAA|Ninja Gaiden|Ninja Gaiden||Beat'em Up,|1||Sega|Sega|1992
 1135AA|No Escape|No Escape||Platform,Action,|1||Bits Corporation|Bits Studios|1994
-120709|Nobunaga No Yabou - Bushou Fuuunroku|Nobunaga No Yabou - Bushou Fuuunroku|Nobunaga no Yabou - Bushou Fuuunsoku|Simulation,|||Koei|Koei|1991
-120710|Nobunaga No Yabou - Haouden|Nobunaga No Yabou - Haouden||Simulation,|||Koei|Koei|1994
-143220|Nobunaga No Yabou Haouden - Lord Of Darkness|Nobunaga No Yabou Haouden - Lord Of Darkness||,Strategy|||Koei|Koei|1994
+120709|Nobunaga No Yabou - Bushou Fuuunroku|Nobunaga No Yabou - Bushou Fuuunroku|Nobunaga no Yabou - Bushou Fuuunsoku|Simulation,|8||Koei|Koei|1991
+120710|Nobunaga No Yabou - Haouden|Nobunaga No Yabou - Haouden||Simulation,|8||Koei|Koei|1994
+143220|Nobunaga No Yabou Haouden - Lord Of Darkness|Nobunaga No Yabou Haouden - Lord Of Darkness||Strategy,|||Koei|Koei|1994
 1136AA|Nobunaga's Ambition|Nobunaga's Ambition||Strategy,|8||Koei|Koei|1993
 560AAA|Normy's Beach Babe-o-rama|Normy's Beach Babe-O-Rama||Platform,Action,|1||Realtime Associates|Electronic Arts - High Score Productions - RealTime Associates|1994
 78350A|Oh Mummy Genesis|Oh Mummy Genesis||Action / Labyrinth,Action,|2||1985 Alternativo|1985 Alternativo|2012
-143988|Old Ship|Old Ship|||||||
-125127|Old Skill|Old Skill|||1||||
+143988|Old Ship|Old Ship||Adventure,|1||||
+125127|Old Skill|Old Skill||Shoot'em Up,|1||||
 300AAA|Olympic Gold - Barcelona '92|Olympic Gold||Sports,|4||U.S. Gold|U.S. Gold|1992
 681AAA|Olympic Summer Games|Olympic Summer Games||Sports,|8||U.S. Gold|THQ - U.S. Gold|1996
-125129|Omega Race|Omega Race|||||Public Domain|Public Domain|
+125129|Omega Race|Omega Race||Action,Arcade,Shooter,,|||Public Domain|Public Domain|
 530AAA|Onslaught|Onslaught||Platform,Action,|1||Ballistic|Next Gen Books|1991
-125133|Ooga Booga!|Ooga Booga!|||||||
+125133|Ooga Booga!|Ooga Booga!||Action,Platform,|||||
 1137AA|Europa Sensen|Operation Europe : Path to Victory 1939-45||Strategy,|2||Koei|Koei|1993
 1138AA|Osomatsu-kun Hachamecha Gekijou|Osomatsu-kun Hachamecha Gekijou|Osomatsu-kun - Hachamecha Gekijou|Platform,|1||Sega|Sega|1988
 10AAAA|Another World|Out of this World||Adventure,Action,|1||Delphine Software International|Delphine - Virgin|1992
-351AAA|Outlander|Outlander||Action,Racing|1||Mindscape|Mindscape|1992
+351AAA|Outlander|Outlander||Action,Adventure,Racing,|1||Mindscape|Mindscape|1992
 162AAA|Outrun|OutRun|OutRun 2019|Action,Fight,Race, Driving,|1||Sega|Sega|1991
 182AAA|Outrun 2019|OutRun 2019||Action,Sports,Race, Driving,|1||Sims|Sega - Sims|1993
 470AAA|Outrunners|OutRunners||Race, Driving,|2||Data East|Data East - Sega|1994
 1139AA|Teitoku No Ketsudan|P.T.O. : Pacific Theater of Operations||Puzzle-Game,|2||Koei|Namco|1992
 330AAA|Pac-man 2 - The New Adventures|Pac-Man 2 : The New Adventures||Puzzle-Game,|1||Namco|Namco|1994
-458AAA|Pac-mania|Pac-Mania||Action,Arcade|2||Tengen|Namco - Sculptured Software - Tengen|1991
+458AAA|Pac-mania|Pac-Mania||Action,Arcade,,|2||Tengen|Namco - Sculptured Software - Tengen|1991
 1140AA|Pac-attack|Pac-Attack||Puzzle-Game,|2||Namco|Namco|1993
 18414A|Pachinko Kuunyan|Pachinko Kuunyan||Role playing games,Simulation,|1||Soft Vision International Co., Ltd.|Soft Vision International Co., Ltd.|1992
 1141AA|Paddle Fighter|Paddle Fighter||Sports,Action,|2||Sega|Sega|1991
 1142AA|Panorama Cotton|Panorama Cotton||Shoot'em Up,Action,|1||Success Corp.|Success - Sunsoft|1994
-250AAA|Paperboy|Paperboy||Action,Arcade|2||Tengen|Atari - Motivetime - Tengen|1991
+250AAA|Paperboy|Paperboy||Action,Racing,|2||Tengen|Atari - Motivetime - Tengen|1991
 483AAA|Paperboy 2|Paperboy 2||Action,|2||Tengen|Midway|1992
-143943|Papi Commando|Papi Commando||Action,|||Studio Vetea|WaterMelon|2015
+143943|Papi Commando|Papi Commando||Action,Platformer,Shooter,|||Studio Vetea|WaterMelon|2015
 39000A|Party Quiz Mega Q|Party Quiz Mega Q||Quiz,|4||Minato Giken|Sega|1993
 552AAA|Super Real Basketball|Pat Riley Basketball||Sports,|2||Sega|Sega|1990
 1130AA|New 3d Golf Simulation - Pebble Beach No Hatou|New 3D Golf Simulation : Pebble Beach no Hatou||Sports,|4||T&E Soft|Sega - T&E Soft|1993
-189124|Pedreiro Polar|Pedreiro Polar|||1||Devworks Game Technology|TecToy|2005
+189124|Pedreiro Polar|Pedreiro Polar||Action,Adventure,|1||Devworks Game Technology|TecToy|2005
 1144AA|Pele 2 - World Tournament Soccer|Pelé II : World Tournament Soccer||Sports,Sports / Soccer,|4||Radical Entertainment Inc.|Accolade - Radical Entertainment|1994
 1145AA|Pele!|Pelé!||Sports,|2||Radical Entertainment Inc.|Accolade - Radical Entertainment|1993
-1146AA|Pengo|Pengo|Pele!|Action,Arcade|4||JSH|Sega|1995
-189118|Pense Bem|Pense Bem|||1||Devworks Game Technology|TecToy|2003
+1146AA|Pengo|Pengo|Pele!|Action,Arcade,,|4||JSH|Sega|1995
+189118|Pense Bem|Pense Bem||Quiz,Educational,|1||Devworks Game Technology|TecToy|2003
 371AAA|Pete Sampras Tennis|Pete Sampras Tennis||Sports,|4||Codemasters|Codemasters|1994
 699AAA|Pga European Tour|PGA European Tour||Sports,|4||Polygames|Electronic Arts - Polygames|1994
 733AAA|Pga Tour 96|PGA Tour 96||Sports,|4||Hitmen Productions|EA Sports|1995
 721AAA|Pga Tour Golf|PGA Tour Golf|PGA Tour Golf III|Sports,|4||Sterling Silver Software|Electronic Arts - Sterling Silver Software|1991
 700AAA|Pga Tour Golf 2|PGA Tour Golf II||Sports,|4||Polygames|Electronic Arts - Polygames|1992
 701AAA|Pga Tour Golf 3|PGA Tour Golf III|PGA Tour Golf|Sports,|4||High Score Productions|Electronic Arts - High Score Productions - Polygames|1994
-143221|Phantasy Star 2 - Amia's Adventure|Phantasy Star 2 - Amia's Adventure|||||Sega|Sega|1991
+143221|Phantasy Star 2 - Amia's Adventure|Phantasy Star 2 - Amia's Adventure||Adventure,RPG,|||Sega|Sega|1991
 143214|Phantasy Star 2 - Huey's Adventure|Phantasy Star 2 - Huey's Adventure||Adventure,|||Sega|Sega|1991
 54AAAA|Phantasy Star 2|Phantasy Star II||Role playing games,|1||Sega|Sega|1989
 1147AA|Phantasy Star 2 - Anne's Adventure|Phantasy Star II : Anne's Adventure||Adventure,|1||Sega|Sega|1991
@@ -734,24 +735,24 @@
 77AAAA|Phantasy Star 3 - Generations Of Doom|Phantasy Star III : Generations of Doom||Role playing games,|1||Sega|Sega|1990
 30AAAA|Phantasy Star 4 - The End Of The Millennium|Phantasy Star IV||Fight,Adventure,Role playing games,|1||Sega|Sega|1992
 187AAA|Phantom 2040|Phantom 2040||Adventure,Platform,Various,Action,|1||Viacom|Viacom|1995
-267AAA|Phelios|Phelios||Action,Shooter|1||Namco|Namco|1990
+267AAA|Phelios|Phelios||Action,Shooter,|1||Namco|Namco|1990
 1155AA|Pier Solar And The Great Architects|Pier Solar and the Great Architects||Role playing games,|1||Watermelon|Watermelon|2010
 375AAA|Pink Goes To Hollywood|Pink Goes to Hollywood||Platform,Action,|1||Headgames|Headgames - TecMagik - Tec Toy|1993
 189AAA|Pinocchio|Pinocchio||Various,Adventure,Fight,Action,|1||Avalon Interactive|Disney - Virgin|1995
-125750|Pirates Of The Caribbean - On Stranger Tides|Pirates Of The Caribbean - On Stranger Tides|||||||
-143989|Pirates Of The Caribbean 3 - At World's End|Pirates Of The Caribbean 3 - At World's End|||||||
-143990|Pirates Of The Caribbean 4 - On Stranger Tides|Pirates Of The Caribbean 4 - On Stranger Tides|||||||
+125750|Pirates Of The Caribbean - On Stranger Tides|Pirates Of The Caribbean - On Stranger Tides||Shooter,|1||||
+143989|Pirates Of The Caribbean 3 - At World's End|Pirates Of The Caribbean 3 - At World's End||Beat'em Up,Action,|1||||
+143990|Pirates Of The Caribbean 4 - On Stranger Tides|Pirates Of The Caribbean 4 - On Stranger Tides||Shooter,|1||||
 753AAA|Pirates! Gold|Pirates! Gold||Adventure,|1||MicroProse|MicroProse|1993
 311AAA|Pit-fighter|Pit-Fighter|Pit Fighter|Fight,Action,|2||Tengen|Atari - Tengen|1991
 249AAA|Pitfall - The Mayan Adventure|Pitfall : The Mayan Adventure||Plateform / Run Jump,Platform,|1||Activision|Activision|1994
-143991|Planet Contra|Planet Contra|||||||
-143992|Plants Vs Zombies|Plants Vs Zombies|||||||
-125752|Platformer|Platformer|||||||
+143991|Planet Contra|Planet Contra||Platform,Shooter,|1||||
+143992|Plants Vs Zombies|Plants Vs Zombies||Shooter,Strategy,|1||||2013
+125752|Platformer|Platformer||Platform,Demo,|||||
 132AAA|Pocahontas|Pocahontas||Platform,|1||Disney|Disney - Funcom|1996
-125700|Pocket Monsters|Pocket Monsters|Pocket Monsters 2|Action,Platform|||DVS Electronic Co|DVS Electronic Co|2000
-125701|Pocket Monsters 2|Pocket Monsters 2||Action,Platform|||DVS Electronic Co|DVS Electronic Co|
-125754|Pokémon Crazy Drummer|Pokémon Crazy Drummer|Pokemon Crazy Drummer|Rhythm,Music and Dance,|||||
-125756|Pokémon Stadium|Pokémon Stadium|||||||
+125700|Pocket Monsters|Pocket Monsters|Pocket Monsters 2|Action,Platform,|1||DVS Electronic Co|DVS Electronic Co|2000
+125701|Pocket Monsters 2|Pocket Monsters 2||Action,Platform,|1||DVS Electronic Co|DVS Electronic Co|2001
+125754|Pokémon Crazy Drummer|Pokémon Crazy Drummer|Pokemon Crazy Drummer|Rhythm,Music and Dance,||||Tomsoft|2003
+125756|Pokémon Stadium|Pokémon Stadium||RPG,,||||SKOB|2
 329AAA|Populous|Populous||Strategy,|1||Bullfrog|Electronic Arts|1990
 323AAA|Populous 2 - Two Tribes|Populous II : Two Tribes||Strategy,|1||Bullfrog|Bullfrog Productions - Virgin|1992
 347AAA|Power Drive|Power Drive||Race, Driving,|1||U.S. Gold|Rage Software - U.S. Gold|1994
@@ -765,32 +766,32 @@
 1156AA|Prime Time Nfl Starring Deion Sanders|Prime Time NFL Starring Deion Sanders||Sports,|4||Spectacular Games, Inc.|Farsight Technologies|1995
 144AAA|Prince Of Persia|Prince of Persia||Various,Action,|1||Domark|Broderbund Software|1993
 1157AA|Prince Of Persia 2 - The Shadow And The Flame|Prince of Persia 2 : The Shadow and the Flame||Platform,|||Brøderbund Software, Inc.|Broderbund|1995
-125767|Pringles|Pringles|||||||
+125767|Pringles|Pringles||Platform,||||Future Driver|2009
 726AAA|Pro Moves Soccer|Pro Moves Soccer|AWS Pro Moves Soccer|Sports,|2||ASCII|ASCII|1993
 1158AA|Pro Quarterback|Pro Quarterback||Sports,|2||Leland Interactive Media|Tradewest|1992
 1087AA|Pro Striker Final Stage|Pro Striker Final Stage|J. League Pro Striker Final Stage|Action,Sports / Soccer,Sports,|4||Sega|Sega|1995
-1159AA|Pro Yakyuu Super League '91|Pro Yakyuu Super League '91||Action,|||Sega|Sega|1991
+1159AA|Pro Yakyuu Super League '91|Pro Yakyuu Super League '91||Action,Sports,Baseball,,|||Sega|Sega|1991
 69AAAA|Probotector|Contra : Hard Corps||Shoot'em Up,Shoot'em up / Horizontal,Shooter,Shooter / Run and Gun,|2||Konami|Konami|1994
-125702|Project Md|Project Md|||||||
+125702|Project Md|Project Md||Action,Platform,|1|||Sik|2012
 1160AA|Psy-o-blade|Psy-O-Blade||Adventure,|1||T&E Soft|Sigma Enterprises - T&E Soft|1990
 581AAA|Psycho Pinball|Psycho Pinball||Pinball,Action,|4||Codemasters|Codemasters|1994
 302AAA|Puggsy|Puggsy||Platform,Action,|1||Traveller's Tales|Psygnosis - Traveller's Tales|1993
 210AAA|Pulseman|Pulseman||Platform,Action,|1||Game Freak|Game Freak - Sega|1994
 1161AA|Putter Golf|Putter Golf||Sports,|1||Sega|Sega|1991
-99395A|Putty Squad|Putty Squad||Action,|1||System 3|Ocean|
+99395A|Putty Squad|Putty Squad||Action,Platformer,|1||System 3|Ocean|1995
 243AAA|Puyo Puyo|Puyo Puyo||Strategy,|2||Compile|Compile - Sega|1991
 319AAA|Puyo Puyo 2|Puyo Puyo 2||Puzzle-Game,|2||Compile|Sega|1994
 744AAA|Puzzle And Action|Puzzle & Action||Puzzle-Game,|||Sega|Sega|1995
 1162AA|Puzzle And Action - Tanto-r|Puzzle & Action : Tanto-R||Puzzle-Game,|2||Sega|Sega|1994
-18418A|Puzzle And Action - Ichidant-r|Puzzle & Action: Ichidant-R||Action,|2||Sega|Sega|1995
+18418A|Puzzle And Action - Ichidant-r|Puzzle & Action: Ichidant-R||Action,Board Game,,|2||Sega|Sega|1995
 1163AA|Pyramid Magic|Pyramid Magic|Pyramid Magic III|Puzzle-Game,Strategy,|1||Sega|Sega|1991
 1164AA|Pyramid Magic 2|Pyramid Magic II||Puzzle-Game,Simulation,|1||Sega|Sega|1991
 1165AA|Pyramid Magic 3|Pyramid Magic III|Pyramid Magic|Puzzle-Game,Strategy,|1||Sega|Sega|1991
 1166AA|Pyramid Magic Special|Pyramid Magic Special||Puzzle-Game,Strategy,|1||Sega|Sega|1991
 27AAAA|Quackshot Starring Donald Duck|QuackShot Starring Donald Duck|Quack Shot Starring Donald Duck|Platform,Action,|1||Disney Interactive Studios|Sega|1991
 688AAA|Megatrax|Quad Challenge||Race, Driving,|2||Namco|Namco|1991
-125091|Quadrant|Quadrant|||||||
-125139|Queen Of Poker Club|Queen Of Poker Club|||||Sachen|Sachen|
+125091|Quadrant|Quadrant||Simulation,Strategy,,|||||
+125139|Queen Of Poker Club|Queen Of Poker Club||Casino,|||Sachen|Sachen|1
 460AAA|R.b.i. Baseball '93|R.B.I. Baseball '93||Sports,|2||Tengen|Atari - Tengen|1993
 724AAA|R.b.i. Baseball '94|R.B.I. Baseball '94||Sports,|2||Tengen|Atari - Tengen|1994
 722AAA|R.b.i. Baseball 3|R.B.I. Baseball 3||Sports,|2||Tengen|Atari - Tengen|1991
@@ -801,17 +802,17 @@
 497AAA|Rainbow Islands Extra|Rainbow Islands Extra||Platform,Action,|1||Taito|Taito|1990
 145AAA|Rambo 3|Rambo III||Fight,Sports,Action,|2||Sega|Sega|1989
 315AAA|Rampart|Rampart||Strategy,|2||Tengen|Atari - Tengen|1991
-227AAA|Ranger X|Ranger X|Ranger-X|Action,Shooter|1||GAU Entertainment|GAU Entertainment- Sega|1993
-39841A|Ransei No Hasha|Ransei no Hasha||Strategy,|||Asmik Ace Entertainment, Inc.|Asmik Ace Entertainment, Inc.|1991
+227AAA|Ranger X|Ranger X|Ranger-X|Action,Shooter,|1||GAU Entertainment|GAU Entertainment- Sega|1993
+39841A|Ransei No Hasha|Ransei no Hasha||Strategy,|1||Asmik Ace Entertainment, Inc.|Asmik Ace Entertainment, Inc.|1991
 550AAA|Rastan Saga 2|Rastan Saga II||Platform,Action,|1||Taito|Taito|1990
-228AAA|Red Zone|Red Zone||Action,Aerial fighting|1||Time Warner Interactive|Time Warner Interactive - Zyrinx|1994
+228AAA|Red Zone|Red Zone||Action,Shooter,|1||Time Warner Interactive|Time Warner Interactive - Zyrinx|1994
 521AAA|Ren Et Stimpy - L'invention De Stimpy|The Ren & Stimpy Show Presents : Stimpy's Invention||Platform,|2||BlueSky Software, Inc.|Blue Sky Software - Sega|1993
 633AAA|Rent A Hero|Rent A Hero||Role playing games,|1||Sega|Sega|1991
-143993|Resident Evil|Resident Evil|||||NexTech|Capcom|
+143993|Resident Evil|Resident Evil||Action,,|||NexTech|Capcom|
 1167AA|Resq|Resq||Platform,|1||Tempest Software|Psygnosis - Tempest Software|1993
 534AAA|Revolution X|Revolution X||Lightgun Shooter,Action,|2||Midway|Acclaim Entertainment|1995
 651AAA|Richard Scarry's Busytown|Richard Scarry's Busytown||Puzzle-Game,Race, Driving,|2||Novotrade International|Sega|1993
-125786|Rick Dangerous|Rick Dangerous|||||||
+125786|Rick Dangerous|Rick Dangerous||Action,Platform,,|||||1
 18421A|Riddle Wired - Quiz Dokusen Kigy No Hkai|Riddle Wired: Quiz Dokusen Kigy no Hkai||Action,|2||Sega|Sega|
 294AAA|Rings Of Power|Rings of Power||Role playing games,|1||Naughty Dog|Electronic Arts - Naughty Dog|1991
 164AAA|Rise Of The Robots|Rise of the Robots||Various,Action,|2||Time Warner Interactive|Acclaim - Data Design Interactive - Mirage|1994
@@ -821,31 +822,31 @@
 119AAA|Road Rash|Road Rash|Road Rash 3|Race, Driving,|2||Electronic Arts|Electronic Arts|1991
 192AAA|Road Rash 3|Road Rash 3||Action,Adventure,|2||Electronic Arts|Electronic Arts|1995
 102AAA|Road Rash 2|Road Rash II||Race, Driving,|2||Electronic Arts|Electronic Arts|1992
-64837A|Road Wars 2000|Road Wars 2000|||||Jason Meehan|Jason Meehan|1998
+64837A|Road Wars 2000|Road Wars 2000||Racing,|1||Jason Meehan|Jason Meehan|1998
 607AAA|Roadblasters|RoadBlasters|Road Blasters|Race, Driving,|1||Sterling Silver Software|Atari - Tengen|1991
-439AAA|Robocop 3|RoboCop 3||Action|1||Flying Edge|Acclaim - Flying Edge - Ocean|1993
+439AAA|Robocop 3|RoboCop 3||Action,Platformer,Shooter,|1||Flying Edge|Acclaim - Flying Edge - Ocean|1993
 84AAAA|Robocop Vs Terminator|RoboCop versus The Terminator||Action,Shooter / Run and Gun,Shooter,|1||Virgin|Virgin|1993
 1168AA|Robot Battler|Robot Wreckage||Beat'em Up,|2||Sega|Sega|1991
 213AAA|Rock N' Roll Racing|Rock n' Roll Racing||Race, Driving,|2||Silicon & Synapse|Blizzard Entertainment - Interplay|1994
 72AAAA|Rocket Knight Adventures|Rocket Knight Adventures||Platform,Action,|1||Konami|Konami|1993
-125703|Rockman X3|Rockman X3||Action|1||台灣三協資訊股份有限公司|台灣三協資訊股份有限公司|
+125703|Rockman X3|Rockman X3||Action,Platformer,|1||台灣三協資訊股份有限公司|台灣三協資訊股份有限公司|1994
 702AAA|Roger Clemens' Mvp Baseball|Roger Clemens' MVP Baseball||Sports,|2||Flying Edge|Acclaim - Flying Edge - Sculptured Software|1992
-318AAA|Rolling Thunder 2|Rolling Thunder 2||Action|2||Namco|Namco|1991
-310AAA|Rolling Thunder 3|Rolling Thunder 3||Action|1||Namco|Namco|1993
-226AAA|Rolo To The Rescue|Rolo to the Rescue||Action,Platform|1||Vectordean|Electronic Arts|1992
+318AAA|Rolling Thunder 2|Rolling Thunder 2||Action,Platformer,Shooter,|2||Namco|Namco|1991
+310AAA|Rolling Thunder 3|Rolling Thunder 3||Action,Platformer,Shooter,|1||Namco|Namco|1993
+226AAA|Rolo To The Rescue|Rolo to the Rescue||Action,Platformer,|1||Vectordean|Electronic Arts|1992
 714AAA|Sangokushi 2|Romance of the Three Kingdoms II||Strategy,Action,|8+||Koei|Koei|1991
 39849A|Sangokushi 3|Romance of the Three Kingdoms III : Dragon of Destiny|Sangokushi II|Strategy,|8||Koei|Koei|1992
 125793|Sangokushi 5|Romance of the Three Kingdoms V|Sangokushi II|Simulation,|||SKOB|SKOB|
-125795|Rondoudou|Rondoudou|||||||
+125795|Rondoudou|Rondoudou||Action,|||||
 331AAA|Rugby World Cup 1995|Rugby World Cup 95||Sports,|4||EA Sports|EA Sports|1994
-143282|S Factor - Sonia and Silver, The|S Factor: Sonia and Silver, The|||1||Aquaslash & Pals||2013
+143282|S Factor - Sonia and Silver, The|S Factor: Sonia and Silver, The||Platform,|1||Aquaslash & Pals||2013
 634AAA|S.s. Lucifer - Man Overboard!|S.S. Lucifer Man Overboard !||Puzzle-Game,|1||Codemasters|Codemasters|1994
-360AAA|Sagaia|Sagaia||Action,Shooter|1||Taito|Taito|1990
+360AAA|Sagaia|Sagaia||Action,Shooter,,|1||Taito|Taito|1990
 273AAA|Sailor Moon|Sailor Moon|Bishoujo Senshi Sailor Moon|Action,Fighter|1||Ma-Ba|Angel Studios|1994
 453AAA|Saint Sword|Saint Sword||Platform,Adventure,|1||Taito|Taito|1991
 555AAA|Sampras Tennis 96|Sampras Tennis 96||Sports,|4||Codemasters|Codemasters|1995
 372AAA|Samurai Shodown|Samurai Shodown||Fight,Action,|2||SNK|Saurus - SNK - Takara|1993
-125210|Samurai Spirits 2|Samurai Spirits 2|||||||
+125210|Samurai Spirits 2|Samurai Spirits 2||Fighting,|2||||1998
 39850A|Sangokushi Retsuden - Ransei No Eiyuutachi|Sangokushi Retsuden - Ransei no Eiyuutachi|Sangokushi Retsuden - Ransei no Eiyuu Tachi|Simulation,|3||Sega|Sega|1991
 18425A|Sansan|Sansan|Batman|Go,Asiatic board game,|2||Sansan Co., Ltd.|Sansan Co., Ltd.|1994
 608AAA|Saturday Night Slam Masters|Saturday Night Slammasters||Fight,Sports,|2||Capcom|Capcom|1994
@@ -854,7 +855,7 @@
 708AAA|Seaquest Dsv|SeaQuest DSV||Shoot'em Up,Action,|1||Black Pearl Software|Black Pearl Software - Sculptured Software|1994
 410AAA|Second Samurai|Second Samurai||Platform,Adventure,|2||Vivid Image|Psygnosis - Sega - Vivid Image|1994
 1170AA|Sega Sports 1|Sega Channel Demo||Compilation,|8||Sega|Sega|1995
-140549|Sega Master System Brawl|Sega Master System Brawl|||||||
+140549|Sega Master System Brawl|Sega Master System Brawl||Fighter,|2||||2014
 125230|Sega Top 5|Sega Top 5||Compilation,|2|||TecToy|1997
 64838A|Seggala|SegGala|Sagaia|Shooter / Space Invaders Like,Shooter,|1||Bill Eubanks|Bill Eubanks|1998
 591AAA|Sensible Soccer - International Edition|Sensible Soccer - International Edition||Sports,Sports / Soccer,|8+||Renegade Software|Sensible Software|1994
@@ -862,36 +863,36 @@
 1171AA|Sesame Street Counting Cafe|Sesame Street Counting Cafe||Adventure,|1||Electronic Arts|Electronic Arts|1994
 582AAA|Shadow Blasters|Shadow Blasters||Platform,Action,|2||Sigma-team|Sigma-team|1990
 82AAAA|Shadow Dancer - The Secret Of Shinobi|Shadow Dancer : The Secret of Shinobi||Beat'em Up,|1||Sega|Sega|1990
-246AAA|Shadow Of The Beast|Shadow of the Beast||Action|1||Reflections Interactive Limited|Electronic Arts - Psygnosis|1991
-336AAA|Shadow Of The Beast 2|Shadow of the Beast II||Action|1||Reflections Interactive Limited|Electronic Arts - Psygnosis|1992
+246AAA|Shadow Of The Beast|Shadow of the Beast||Action,Beat'em Up,Platformer,|1||Reflections Interactive Limited|Electronic Arts - Psygnosis|1991
+336AAA|Shadow Of The Beast 2|Shadow of the Beast II||Action,Beat'em Up,Platformer,Adventure,|1||Reflections Interactive Limited|Electronic Arts - Psygnosis|1992
 197AAA|Shadowrun|Shadowrun||Action,Role playing games,|1||Sky Fallen|Sega|1994
 731AAA|Shanghai 2 - Dragon's Eye|Shanghai II : Dragon's Eye||Puzzle-Game,|2||Activision|Activision|1994
 1172AA|Shaq-fu|Shaq-Fu|Shaq Fu|Fight,|2||Delphine Software International|Delphine Software International|1994
-18428A|Shogi No Hoshi|Shgi no Hoshi||Action,Puzzle|1||Home Data Corp.|Home Data Corp.|1991
-155513|Shi San Zhang Ma Jiang 98 - Mei Shao Nv|Shi San Zhang Ma Jiang 98 - Mei Shao Nv|||||||
+18428A|Shogi No Hoshi|Shgi no Hoshi||Action,Board game,|1||Home Data Corp.|Home Data Corp.|1991
+155513|Shi San Zhang Ma Jiang 98 - Mei Shao Nv|Shi San Zhang Ma Jiang 98 - Mei Shao Nv||Board Game,|1||||1998
 18461A|Shi-kin-joh|Shikinjou||Strategy,Asiatic board game,Mahjong,|1||Scap Trust|Sunsoft|1991
 51AAAA|Shining Force|Shining Force|Burning Force|Role playing games,Strategy,|1||Climax Entertainment|Climax - Sega - Sonic! Software Planning|1992
 44AAAA|Shining Force 2|Shining Force II||Role playing games,|1||Camelot Software|Sega - Sonic! Software Planning|1993
 90AAAA|Shining In The Darkness|Shining in the Darkness||Role playing games,|1||Climax Entertainment|Climax - Sega - Sonic! Software Planning|1991
 11AAAA|Shinobi 3 - Return Of The Ninja Master|Shinobi III : Return of the Ninja Master||Platform,|1||Megasoft|Sega|1993
-125264|Ship|Ship|ATP Tour Championship Tennis|Shoot'em Up,|||Technopop|Technopop|
-124872|Shnakee Part 2!!!|Shnakee Part 2!!!|||1||Devster||2004
+125264|Ship|Ship|ATP Tour Championship Tennis|Shoot'em Up,|||Technopop|Technopop|2
+124872|Shnakee Part 2!!!|Shnakee Part 2!!!||Action,Arcade,|1||Devster||2004
 623AAA|Shove It! The Warehouse Game|Shove It! ...The Warehouse Game|Shove It! - The Warehouse Game|Strategy,Puzzle-Game,|1||Masaya|Dreamworks Interactive|1989
-18429A|Show Do Milhao|Show Do Milhao||Action,Quiz|1||Tec Toy S.A.|Tec Toy S.A.|2001
-18430A|Show Do Milhao Volume 2|Show Do Milhao Volume 2||Action,Quiz|1||Tec Toy S.A.|Tec Toy S.A.|2002
+18429A|Show Do Milhao|Show Do Milhao||Action,Quiz,|1||Tec Toy S.A.|Tec Toy S.A.|2001
+18430A|Show Do Milhao Volume 2|Show Do Milhao Volume 2||Action,Quiz,|1||Tec Toy S.A.|Tec Toy S.A.|2002
 1175AA|Shui Hu - Feng Yun Zhuan|Shui Hu - Feng Yun Zhuan||Beat'em Up,|2||Chuanpu Technologies|Never Ending Soft Team|1994
 18432A|Shura No Mon|Shura no Mon||Adventure,Strategy,|1||SIMS Co., Ltd.|Sega|1992
 522AAA|Side Pocket|Side Pocket||Sports,Sports / Pool,|2||Data East|Data East|1992
-143994|Silent Hill - Genesis|Silent Hill - Genesis|||1||||
-398AAA|Skeleton Krew|Skeleton Krew||Action|2||Front Street Publishing|Core Design|1995
+143994|Silent Hill - Genesis|Silent Hill - Genesis||Horror,Miscellaneous,Miscellaneous,Miscellaneous,Miscellaneous,Visual Novel,|1||||2001
+398AAA|Skeleton Krew|Skeleton Krew||Action,Shooter,|2||Front Street Publishing|Core Design|1995
 1176AA|Skitchin'|Skitchin'||Race, Driving,Sports,|2||Electronic Arts|Electronic Arts|1993
 78352A|Slam - Shaq Vs. The Legends|Slam : Shaq vs. the Legends||Sports / Basketball,Sports,|2||High Score Productions|Electronic Arts|1995
 1177AA|Slap Fight Md|Slap Fight MD|Slap Fight|Shoot'em Up,Action,|1||MNM Software|Toaplan Co., Ltd.|Toaplan/MNM Software
-18445A|Slaughter Sport|Slaughter Sport||Action,Fighting|2||Brian A. Rice, Inc.|RazorSoft, Inc.|1990
-64839A|Snake 3d|Snake 3D|||||||
+18445A|Slaughter Sport|Slaughter Sport||Action,Fighter,|2||Brian A. Rice, Inc.|RazorSoft, Inc.|1990
+64839A|Snake 3d|Snake 3D||Action,Arcade,|||||
 1178AA|Snake Rattle N Roll|Snake Rattle n Roll|Snake Rattle 'n' Roll|Platform,|2||Rare, Ltd.|Rare|1993
 583AAA|Snow Bros. Nick And Tom|Snow Bros. Nick & Tom||Platform,Action,|2||Toaplan|Tengen - Toaplan|1991
-143995|Snow Queen, The|Snow Queen, The|||||||
+143995|Snow Queen, The|Snow Queen, The||Platform,Shooter,|1||||
 1181AA|Socket|Socket||Platform,Action,|1||Vic Tokai Corporation|Vic Tokai|1994
 1182AA|Sol-deace|Sol-Deace||Shoot'em Up,|1||Wolf Team|Renovation - Wolf Team|1992
 13AAAA|Crusader Of Centy|Crusader of Centy||Role playing games,|1||Sega|Atlus - Nextech - Sega|1994
@@ -899,26 +900,26 @@
 1185AA|Sonic 3 And Knuckles|Sonic & Knuckles + Sonic The Hedgehog 3|Sonic and Knuckles|Platform,|2||Sonic Team|Sega|1994
 1183AA|Sonic and Knuckles - Blue Sphere|Sonic & Knuckles + Sonic the Hedgehog : Blue Sphere||Platform,|1||Sega|Sega|1991
 1184AA|Sonic 2 And Knuckles|Sonic & Knuckles + Sonic The Hedgehog 2||Platform,|1||Sonic Team|Sega|1994
-18434A|Sonic 3d Blast|Sonic 3D Blast||Action,Platform|1||Traveller's Tales Ltd.|Sega|1996
+18434A|Sonic 3d Blast|Sonic 3D Blast||Action,Puzzle,Platformer,|1||Traveller's Tales Ltd.|Sega|1996
 18435A|Sonic Compilation|Sonic Classics||Platform,Compilation,|2||Compile|Sonic Team|Majesco Sales, Inc.
 1186AA|Sonic Crackers|Sonic Crackers|Sonic Eraser|Platform,|2|Coop|Sega|Sega|1994
 291AAA|Sonic Eraser|Sonic Eraser||Puzzle-Game,|2||Sega|Sega|1991
-143944|Sonic In Streets Of Rage 3|Sonic In Streets Of Rage 3|||||||
+143944|Sonic In Streets Of Rage 3|Sonic In Streets Of Rage 3||Beat'em Up,|2|Coop|||
 115AAA|Sonic The Hedgehog Spinball|Sonic Spinball||Pinball,|4||Sega|Sega|1993
 5AAAAA|Sonic The Hedgehog|Sonic The Hedgehog||Platform,Action,|1||Sega|Sega|1991
 3AAAAA|Sonic The Hedgehog 2|Sonic the Hedgehog 2||Platform,Action,|2||Sega|Sega|1992
 1187AA|Sonic The Hedgehog 3|Sonic The Hedgehog 3|Sonic The Hedgehog|Platform,Action,|2||Sonic Team|Sega|1994
-155465|Sonic The Hedgehog 3 Limited Edition|Sonic The Hedgehog 3 Limited Edition|||||||
+155465|Sonic The Hedgehog 3 Limited Edition|Sonic The Hedgehog 3 Limited Edition||Platform,|1||||
 1188AA|Sorcerer's Kingdom|Sorcerer's Kingdom||Role playing games,|1||Technical Wave|Treco|1992
 507AAA|Sorcerian|Sorcerian||Role playing games,|1||Nihon Falcom|Falcom - Sega|1990
-125482|Soul Blade|Soul Blade||Action,Fighting|2||||1998
-125483|Soul Edge Vs Samurai Spirits|Soul Edge Vs Samurai Spirits|||||||
+125482|Soul Blade|Soul Blade||Action,Fighter,|2||||1998
+125483|Soul Edge Vs Samurai Spirits|Soul Edge Vs Samurai Spirits||Fighting,|2|||X Boy|1997
 168AAA|Space Harrier 2|Space Harrier II||Various,Action,|1||Sega|Sega|1988
 420AAA|Space Invaders '91|Space Invaders '91||Shoot'em Up,Action,|1||Taito|Taito|1990
 219AAA|Sparkster|Sparkster||Action,Platform,|1||Konami|Konami|1994
 223AAA|Speedball 2|Speedball 2 : Brutal Deluxe||Sports,Action,|2||Imageworks|The Bitmap Brothers|1991
 1059AA|Fastest 1|Speedway Pro Challenge||Race, Driving,|2||Human Entertainment|Human Entertainment|1991
-286AAA|Spider-man The Animated Series|Spider-Man|Spider-Man - The Animated Series|Action|1||Western Technologies|Acclaim Entertainment|1995
+286AAA|Spider-man The Animated Series|Spider-Man|Spider-Man - The Animated Series|Action,Platformer,|1||Western Technologies|Acclaim Entertainment|1995
 65AAAA|Spider-man And Venom - Maximum Carnage|Spider-Man & Venom : Maximum Carnage||Beat'em Up,|1||Software Creations|Acclaim Entertainment|1994
 207AAA|Spider-man And The X-men - Arcade's Revenge|Spider-Man & X-Men : Arcade's Revenge||Action,Fight,Platform,|1||Software Creations|Acclaim - Flying Edge - Software Creations|1993
 97409A|Spider-man Vs. The Kingpin|Spider-Man vs. The Kingpin|Spider-Man vs The Kingpin|Platform,Plateform / Fighter Scrolling,|1||Technopop|Sega|1991
@@ -926,10 +927,10 @@
 170AAA|Spirou|Spirou||Sports,Action,|1||Infogrames|Infogrames|1995
 120AAA|Splatterhouse 2|Splatterhouse 2||Beat'em Up,Action,|1||Namco|Namco|1992
 194AAA|Splatterhouse 3|Splatterhouse 3||Action,Sports,|1||Now Production|Namco|1993
-144000|Sponge Bob|Sponge Bob|||||||
+144000|Sponge Bob|Sponge Bob||Platform,|||||
 752AAA|Sports Talk Baseball|Sports Talk Baseball||Sports,|2||Sega|Sega|1991
-345AAA|Spot Goes To Hollywood|Spot Goes to Hollywood||Action,Platform|1||Virgin|Acclaim - Eurocom - Virgin|1995
-144001|Spy Kids 4 - All The Time In The World|Spy Kids 4 - All The Time In The World|||||||
+345AAA|Spot Goes To Hollywood|Spot Goes to Hollywood||Action,Platformer,|1||Virgin|Acclaim - Eurocom - Virgin|1995
+144001|Spy Kids 4 - All The Time In The World|Spy Kids 4 - All The Time In The World||Platform,|||||
 1189AA|Squirrel King|Squirrel King||Platform,Action,|2||GameTek, Inc.|Gamtec|1991
 485AAA|Star Control|Star Control||Strategy,|2||Ballistic|Toys For Bob|1991
 1190AA|Star Cruiser|Star Cruiser||Adventure,|1||Arsys|Arsys Software - NCS|1990
@@ -941,38 +942,38 @@
 188AAA|Empire Of Steel|Steel Empire||Puzzle-Game,Action,|1||Flying Edge|Hot-b|1992
 655AAA|Steel Talons|Steel Talons||Race, Driving,Simulation,|1||Tengen|Atari - Tengen|1992
 1192AA|Stone Protectors|Stone Protectors||Beat'em Up,|2||Kemco/Eurocom|Kemco/Eurocom|1994
-144002|Stone Rangers|Stone Rangers|||||||
+144002|Stone Rangers|Stone Rangers||Beat'em Up,|2||||
 509AAA|Stormlord|Stormlord||Platform,Action,|1||Razorsoft|Hewson Consultants - Micro World - Punk Development - RazorSoft|1990
 57AAAA|Street Fighter 2' - Special Champion Edition|Street Fighter II' : Special Champion Edition||Fight,|2||Capcom|Sega|1993
 166AAA|Street Racer|Street Racer||Sports,Race, Driving,|4||Vivid Image|Ubisoft - Vivid Image|1995
 1193AA|Street Smart|Street Smart||Fight,Action,|2||SNK|Treco|1991
-7AAAAA|Streets Of Rage|Streets of Rage||Beat'em Up,|2||Sega|Sega|1991
-20AAAA|Streets Of Rage 2|Streets of Rage 2||Beat'em Up,|2||Sega|Sega|1992
-143230|Streets Of Rage 3|Streets of Rage 3||Action,Beat'em Up,|2||Sega|Sega|1994
+7AAAAA|Streets Of Rage|Streets of Rage||Beat'em Up,|2|Coop|Sega|Sega|1991
+20AAAA|Streets Of Rage 2|Streets of Rage 2||Beat'em Up,|2|Coop|Sega|Sega|1992
+143230|Streets Of Rage 3|Streets of Rage 3||Action,Beat'em Up,|2|Coop|Sega|Sega|1994
 78AAAA|Strider|Strider|Strider Hiryuu|Platform,Action,|1||Capcom|Capcom - Sega|1990
-237AAA|Strider 2|Strider Returns : Journey from Darkness||Action,|1||Tiertex Design Studios|Capcom - Tiertex Design Studio - U.S. Gold|1993
+237AAA|Strider 2|Strider Returns : Journey from Darkness||Action,Arcade,,|1||Tiertex Design Studios|Capcom - Tiertex Design Studio - U.S. Gold|1993
 349AAA|Striker|Striker|J. League Pro Striker 2|Sports,|2||Sega|Rage Software - Sega|1994
 1194AA|Sub-terrania|Sub-Terrania||Shoot'em Up,Platform,Action,|1||Zyrinx|Zyrinx|1994
-125595|Sudoku Master|Sudoku Master|||||||
+125595|Sudoku Master|Sudoku Master||Puzzle,|||||
 1195AA|Summer Challenge|Summer Challenge||Sports,|8+||MindSpan|MindSpan|1993
 81AAAA|Sunset Riders|Sunset Riders||Shoot'em Up,Platform,Action,|2||Konami|Konami|1992
-64841A|Super 15 In 1|Super 15 in 1|||||||
-144003|Super 5 In 1|Super 5 In 1|||||||
+64841A|Super 15 In 1|Super 15 in 1||Compilation,|||||
+144003|Super 5 In 1|Super 5 In 1||Compilation,|||||
 455AAA|Super Baseball 2020|Super Baseball 2020||Sports,|2||SNK|Electronic Arts - SNK|1993
 561AAA|Super Battleship - The Classic Naval Combat Game|Super Battleship||Strategy,|1||Mindscape|Mindscape|1993
-125601|Super Big 2|Super Big 2|||||||
+125601|Super Big 2|Super Big 2||Cards,|||||
 1196AA|Super Bubble Bobble|Super Bubble Bobble||Platform,|2||GameTek, Inc.|Gamtec?|1993
 18442A|Super Daisenryaku|Super Daisenryaku||Simulation,Strategy,|4||Systemsoft|Sega - SystemSoft|1989
-125602|Super Donkey Kong 99|Super Donkey Kong 99||Action,Platform|||Unlicensed|Unlicensed|
+125602|Super Donkey Kong 99|Super Donkey Kong 99||Action,Platformer,|||Unlicensed|Unlicensed|1998
 379AAA|Super Fantasy Zone|Super Fantasy Zone||Shoot'em Up,Action,|1||Sunsoft|Sega - Sunsoft|1992
 114AAA|Super Hang-on|Super Hang-On||Race, Driving,|1||Sega|Sega|1989
 662AAA|Super High Impact|Super High Impact||Sports,|2||Arena Entertainment|Acclaim - Arena Entertainment - Iguana Entertainment - Midway|1992
 222AAA|Super Hydlide|Super Hydlide||Role playing games,|1||Seismic Software|Asmik - T&E Soft|1989
 475AAA|Super Kick Off|Super Kick Off||Sports,|2||U.S. Gold|Tiertex Design Studios|1992
 1054AA|Ling Huan Daoshi|Super Magician||Role playing games,|||GameTek, Inc.|Gamtec|1992
-108916|Super Mario Bros.|Super Mario Bros.||,Platform|||Unlicensed|Gamtec|
-109052|Super Mario Bros. 2 1998|Super Mario Bros. 2 1998||Action,|||Gamtec|Gamtec|
-143231|Super Mario World|Super Mario World||Action,Platform|||Chuanpu|Jazz Dark|
+108916|Super Mario Bros.|Super Mario Bros.||Action,Arcade,Platform,,|2||Unlicensed|Gamtec|1996
+109052|Super Mario Bros. 2 1998|Super Mario Bros. 2 1998||Action,Platform,|1||Gamtec|Gamtec|1998
+143231|Super Mario World|Super Mario World||Action,Platform,,|||Chuanpu|Jazz Dark|
 155461|Super Mario World 64|Super Mario World 64|Super Mario World|Platform,|1||||1998
 263AAA|Super Monaco Gp|Super Monaco GP|Ayrton Senna's Super Monaco GP II|Race, Driving,|1||Sega|Sega|1990
 1197AA|Super Off Road|Super Off Road||Race, Driving,|2||Software Creations Ltd.|Software Creations|1992
@@ -980,25 +981,25 @@
 668AAA|Super Skidmarks|Super Skidmarks||N/A,Race, Driving,|4||Acid|Codemasters|1995
 1198AA|Super Smash T.v.|Super Smash T.V.|Super Smash TV|Shoot'em Up,Action,|2||Probe Entertainment Ltd.|Probe Entertainment|1992
 80AAAA|Super Street Fighter 2 - The New Challengers|Super Street Fighter II||Fight,|2||Capcom|Capcom|1994
-155445|Super Tank War|Super Tank War||Action,|2||Gamtec||
+155445|Super Tank War|Super Tank War||Action,|2||Gamtec||2
 214AAA|Super Thunder Blade|Super Thunder Blade||Action,Shoot'em Up,|1||Sega|Sega|1988
 393AAA|Super Volleyball|Super Volley Ball||Strategy,Sports,|2||Microforum|Video System|1991
 1199AA|Superman - The Man Of Steel|Superman||Beat'em Up,|1||Sunsoft|Sunsoft - Virgin|1992
 1200AA|Surging Aura|Surging Aura||Role playing games,|1||Japan Media Programming Inc.|Sega|1995
 1201AA|Swamp Thing|Swamp Thing||Platform,|1||Microsmiths, Inc.|Microsmiths|1991
-278AAA|Sword Of Sodan|Sword of Sodan||Action|1||Soren Gronbech|Electronic Arts|1990
+278AAA|Sword Of Sodan|Sword of Sodan||Action,Beat'em Up,|1||Soren Gronbech|Electronic Arts|1990
 200AAA|Sword Of Vermilion|Sword of Vermilion||Fight,Action,|1||Sega|Sega|1989
 535AAA|Syd Of Valis|Syd of Valis||Platform,Action,|1||Renovation Products|Laser Soft|1992
 287AAA|Syndicate|Syndicate||Strategy,|1||Bullfrog|Electronic Arts|1994
 131AAA|Terminator 2 - Judgment Day|T2 : Terminator 2, Judgment Day||Action / Adventure,Action,|1||Flying Edge|Bits Studios|1991
 295AAA|T2 - The Arcade Game|T2 : The Arcade Game||Lightgun Shooter,|2||Arena Entertainment|Acclaim - Arena Entertainment - Midway - Probe|1992
 39842A|Taikou Risshiden|Taikou Risshiden||Strategy,|||Koei|Koei|1993
-125800|Taiwan Tycoon|Taiwan Daheng||,Board game|||C&E Inc.|C&E Inc.|
+125800|Taiwan Tycoon|Taiwan Daheng||Puzzle,|4||C&E Inc.|C&E Inc.|1994
 142AAA|Talespin|TaleSpin|Tale Spin|Sports,Puzzle-Game,|2||Sega|Disney - Sega|1992
 381AAA|Marvel Land|Marvel Land||Platform,Action,|1||Plate-Forme|Plate-Forme|1991
 183791|Tanglewood|Tanglewood||Casual Game,Platform,|1||Big Evil Corp.|Matt Phillips|2018
-125801|Tank 2011|Tank 2011|||||||
-144004|Tanks Classic|Tanks Classic|||||||
+125801|Tank 2011|Tank 2011||Shooter,Strategy,|||||
+144004|Tanks Classic|Tanks Classic||Shooter,|||||
 540AAA|Target Earth|Target Earth||Platform,Action,|1||NCS Corp|Dreamworks Interactive|1990
 689AAA|Task Force Harrier Ex|Task Force Harrier EX||Shoot'em Up,Action,|1||UPL|UPL|1989
 161AAA|Taz In Escape From Mars|Taz in Escape from Mars||Sports,Action,|1||Sega|Sega|1994
@@ -1015,59 +1016,59 @@
 447AAA|Tecmo Super Nba Basketball|Tecmo Super NBA Basketball||Sports,|2||Tecmo|Tecmo|1993
 675AAA|Tecmo World Cup 92|Tecmo World Cup||Sports,|2||Sims|Sega - Tecmo|1993
 1206AA|Teddy Boy Blues|Teddy Boy Blues||Platform,Action,|1||Sega|Sega|1990
-144005|Teenage Mutant Ninja Turtles - The Legend Returns|Teenage Mutant Ninja Turtles - The Legend Returns||Action,|||||
+144005|Teenage Mutant Ninja Turtles - The Legend Returns|Teenage Mutant Ninja Turtles - The Legend Returns||Action,Beat'em Up,|1|||KDS|2
 60AAAA|Teenage Mutant Ninja Turtles - The Hyperstone Heist|Teenage Mutant Ninja Turtles : The Hyperstone Heist||Beat'em Up,|2|Coop|Konami|Konami|1992
 122AAA|Teenage Mutant Ninja Turtles - Tournament Fighters|Teenage Mutant Ninja Turtles : Tournament Fighters||Fight,|2||Konami|Konami|1993
-125806|Tekken 3 Special|Tekken 3 Special||Action,Fighting|||Unlicensed|Unlicensed|
+125806|Tekken 3 Special|Tekken 3 Special||Action,Fighter,|2||Unlicensed|Unlicensed|1997
 18443A|Tel-tel Mahjong|Tel-Tel Mahjong|Tel Tel Mahjong|Strategy,|1||Sunsoft|Sunsoft|1990
 1207AA|Tel-tel Stadium|Tel-Tel Stadium|Tel Tel Stadium|Action,Sports,|2||Sunsoft|Sunsoft|1990
-125807|Tenchi O Kurau 3 - Sangoku Gaiden - Chinese Fighter|Tenchi O Kurau 3 - Sangoku Gaiden - Chinese Fighter|||||||
+125807|Tenchi O Kurau 3 - Sangoku Gaiden - Chinese Fighter|Tenchi O Kurau 3 - Sangoku Gaiden - Chinese Fighter||Fighter,|2|Coop|||1996
 590AAA|Duel - Test Drive 2, The|Test Drive II : The Duel||Race, Driving,|1||Distinctive Software|Accolade - Ballistic - Distinctive Software|1992
-64843A|Tetman|Tetman|Batman|,Action|||||
-124874|Tetrex|Tetrex|Tempo|,Action|||||
+64843A|Tetman|Tetman|Batman|Puzzle,|||||2005
+124874|Tetrex|Tetrex|Tempo|Puzzle,|||||2008
 68AAAA|Tetris|Tetris||Puzzle-Game,|2|Coop|Sega|Sega|1989
 307AAA|Addams Family, The|The Addams Family||Platform,Action,|1||Flying Edge|Ocean|1993
 52AAAA|Adventures of Batman and Robin, The|The Adventures of Batman & Robin||Beat'em Up,Action,|2||Clockworks Entertainment|Sega|1995
 303AAA|Adventures of Mighty Max, The|The Adventures of Mighty Max||Platform,Adventure,Action,|2||Ocean|Ocean|1994
 588AAA|Adventures of Rocky and Bullwinkle and Friends, The|The Adventures of Rocky and Bullwinkle and Friends||Platform,|1||Absolute Entertainment|Imagineering Inc|1993
 1016AA|Aquatic Games Starring James Pond and The Aquabats, The|The Aquatic Games Starring James Pond and the Aquabats||Sports,|4||Millennium Interactive Ltd.|Millenium Interactive|1992
-125792|Battle of Red Cliffs, The|The Battle of Red Cliffs||Action,|||Gamtec|Gamtec|
+125792|Battle of Red Cliffs, The|The Battle of Red Cliffs||Action,Beat'em Up,|||Gamtec|Gamtec|
 728AAA|Berenstain Bears' Camping Adventure, The|The Berenstain Bears' Camping Adventure||Platform,Action,|2||Realtime Associates|Sega|1994
 205AAA|Chaos Engine, The|The Chaos Engine||Action,Shooter / Run and Gun,Shooter,|2||The Bitmap Brothers|MicroProse|1993
-262AAA|Death And Return Of Superman, The|The Death and Return of Superman||Action,Fighter|1||Sunsoft|Blizzard Entertainment|1995
+262AAA|Death And Return Of Superman, The|The Death and Return of Superman||Action,Beat'em Up,|1||Sunsoft|Blizzard Entertainment|1995
 309AAA|Faery Tale Adventure, The|The Faery Tale Adventure||Role playing games,Various,|1||New World Computing|Electronic Arts|1991
 324AAA|Flintstones, The|The Flintstones||Platform,Action,|1||Taito|Taito|1993
-203AAA|Mickey To Minnie Magical Adventure 2|The Great Circus Mystery Starring Mickey & Minnie||Action,|2||Capcom|Capcom|1994
+203AAA|Mickey To Minnie Magical Adventure 2|The Great Circus Mystery Starring Mickey & Minnie||Action,Platformer,|2||Capcom|Capcom|1994
 547AAA|Great Waldo Search, The|The Great Waldo Search||Various,Strategy,|2||Radiance Software|THQ|1992
 644AAA|Humans, The|The Humans||Sports,Puzzle-Game,|1||GameTek|Imagic Online|1992
 19AAAA|Immortal, The|The Immortal||Adventure,|1||Sandcastle|Electronic Arts|1991
 523AAA|Incredible Crash Dummies, The|The Incredible Crash Dummies||Platform,Action,|1||Flying Edge|Gray Matter|1993
 355AAA|Incredible Hulk, The|The Incredible Hulk||Action,Platform,|1||U.S. Gold|Probe|1994
-386AAA|Itchy and Scratchy Game, The|The Itchy & Scratchy Game||Action|1||Bits Studios|Acclaim Entertainment|1995
+386AAA|Itchy and Scratchy Game, The|The Itchy & Scratchy Game||Action,Platformer,|1||Bits Studios|Acclaim Entertainment|1995
 647AAA|Lawnmower Man, The|The Lawnmower Man||Shoot'em Up,Fight,Action,|2||The Sales Curve|Time Warner Interactive|1994
 43AAAA|Lost Vikings, The|The Lost Vikings||Puzzle-Game,Platform,Strategy,|3||Silicon & Synapse|Interplay|1992
 107AAA|Lost World - Jurassic Park, The|The Lost World : Jurassic Park||Action,|2||Appaloosa|Sega|1997
 378AAA|Scholastic's The Magic School Bus - Space Exploration Game|The Magic School Bus||Platform,|1||Sega|Sega|1995
 18408A|Miracle Piano Teaching System, The|The Miracle Piano Teaching System||Various,Educational,|1||Software Toolworks, Inc., The|Software Toolworks, Inc., The|1992
 392AAA|Ooze, The|The Ooze||Action|1||Sega|Sega|1995
-252AAA|Ottifants, The|The Ottifants||Action,Platform|1||Graftgold|Graftgold|1993
+252AAA|Ottifants, The|The Ottifants||Action,Platformer,|1||Graftgold|Graftgold|1993
 373AAA|Pagemaster, The|The Pagemaster||Platform,Action,|1||Probe|Fox Interactive - Probe - Sega|1994
 332AAA|Pirates of Dark Water, The|The Pirates of Dark Water||Platform,Adventure,|1||Iguana Entertainment|Sunsoft|1994
-288AAA|Punisher, The|The Punisher||Action,Fighter|2||Capcom|Capcom - Sculptured Software|1994
+288AAA|Punisher, The|The Punisher||Action,Beat'em Up,|2||Capcom|Capcom - Sculptured Software|1994
 39AAAA|Revenge of Shinobi, The|The Revenge of Shinobi||Platform,Action,|1||Sega|Sega|1989
 149AAA|Simpsons - Bart vs. the Space Mutants, The|The Simpsons : Bart vs. the Space Mutants||Puzzle-Game,Action,Sports,Fight,|1||Arc Developments|Imagineering Inc|1992
 235AAA|Simpsons - Bart's Nightmare, The|The Simpsons : Bart's Nightmare||Action,|1||Sculptured Software|Acclaim Entertainment|1992
-116AAA|Terminator, The|The Terminator||Action|1||Probe Software|Virgin|1992
+116AAA|Terminator, The|The Terminator||Action,Shooter,|1||Probe Software|Virgin|1992
 652AAA|Tick, The|The Tick||Sports,Action,|1||Software Creations|Fox Interactive - Software Creations|1994
-1241AA|Young Indiana Jones Chronicles, The|The Young Indiana Jones Chronicles|||||Brian A. Rice, Inc.|Brian A. Rice, Inc.|1994
+1241AA|Young Indiana Jones Chronicles, The|The Young Indiana Jones Chronicles||Beat'em Up,Platformer,|||Brian A. Rice, Inc.|Brian A. Rice, Inc.|1994
 25AAAA|Theme Park|Theme Park||Simulation,Strategy,|1||Bullfrog|Bullfrog Productions - Electronic Arts|1995
 684AAA|Thomas The Tank Engine And Friends|Thomas the Tank Engine & Friends||Race, Driving,|1||Malibu Games|Malibu Interactive - THQ|1993
 275AAA|Thunder Force 2|Thunder Force II||Action,Shoot'em Up,|1||Technosoft|Sega|1989
 141AAA|Thunder Force 3|Thunder Force III|Thunder Force II|Shoot'em Up,Puzzle-Game,Action,|1||Technosoft|Sega|1990
-472AAA|Thunder Fox|Thunder Fox||Action|1||Aisystem Tokyo|Taito|1991
+472AAA|Thunder Fox|Thunder Fox||Action,Beat'em Up,Shooter,|1||Aisystem Tokyo|Taito|1991
 665AAA|Thunder Pro Wrestling|Thunder Pro Wrestling||Action,Sports,|1||Human Entertainment|Human Entertainment|1992
-143831|Thunderbolt 2|Thunderbolt 2||Shooter,||||Ming Super Chip|1995
-64844A|Time Invaders|Time Invaders|||||||
+143831|Thunderbolt 2|Thunderbolt 2||Shooter,|1|||Ming Super Chip|1995
+64844A|Time Invaders|Time Invaders||Shoot'em Up,|||||
 572AAA|Time Killers|Time Killers||Fight,Action,|2||Incredible Technologies|Black Pearl Software - Incredible Technologies|1996
 1208AA|Time Trax|Time Trax||Platform,|1||Malibu Interactive|Malibu Interactive|1994
 648AAA|Tinhead|TinHead||Platform,Adventure,Action,|1||MicroProse|MicroProse - Spectrum HoloByte|1993
@@ -1075,7 +1076,7 @@
 125820|Tiny Toon Adventures 3|Tiny Toon Adventures 3||Action,|1||Gamtec|Gamtec|1996
 217AAA|Tiny Toon Adventures - Acme All-stars|Tiny Toon Adventures : Acme All-Stars||Sports,|4||Konami|Konami|1994
 79AAAA|Tiny Toon Adventures - Buster's Hidden Treasure|Tiny Toon Adventures : Buster's Hidden Treasure||Platform,|1||Konami|Konami|1993
-471AAA|Sylvester And Tweety In Cagey Capers|Sylvester & Tweety in Cagey Capers||Action,|1||Time Warner Interactive|TecMagik - Time Warner Interactive|1993
+471AAA|Sylvester And Tweety In Cagey Capers|Sylvester & Tweety in Cagey Capers||Action,Platformer,|1||Time Warner Interactive|TecMagik - Time Warner Interactive|1993
 1209AA|Tnn Bass Tournament Of Champions|TNN Bass Tournament of Champions||Sports,|1||Imagitec Design Inc.|ASC Games - Imagitec Design|1994
 745AAA|Tnn Outdoors - Bass Tournament '96|TNN Outdoors Bass Tournament '96||Sports,|1||Imagitec Design|ASC Games - Imagitec Design|1996
 486AAA|Todd's Adventures In Slime World|Todd's Adventures in Slime World||Platform,Action,|2||Micro World|Epyx|1991
@@ -1083,19 +1084,19 @@
 271AAA|Toejam And Earl 2 - Panic On Funkotron|ToeJam & Earl in Panic on Funkotron||Platform,|2||Sega|Sega|1993
 101AAA|Toki|Toki : Going Ape Spit|Doom|Platform,Action,|2||Tad Corporation|Taito|1989
 461AAA|Tom And Jerry - Frantic Antics|Tom and Jerry : Frantic Antics||Adventure,|2||Aventure|Action|1993
-155466|Tom Clown|Tom Clown|||||AV Artisan|Realtec|
+155466|Tom Clown|Tom Clown||Action,|1||AV Artisan|Realtec|1993
 577AAA|Dinosaurs For Hire|Tom Mason's Dinosaurs for Hire||Platform,|2|Coop|Sega|Sega|1993
 666AAA|Tommy Lasorda Baseball|Tommy Lasorda Baseball||Sports,|2||Sega|Sega|1989
 1210AA|Tony La Russa Baseball|Tony La Russa Baseball||Action,Sports,|2||Beyond Software, Inc.|SSI|1993
-64845A|Top Fighter 2000 Mk Viii 8|Top Fighter 2000 MK VIII||Fight / 2D,Fight,Action,|||X BOY|X BOY|
+64845A|Top Fighter 2000 Mk Viii 8|Top Fighter 2000 MK VIII||Fight / 2D,Fight,Action,|2||X BOY|X BOY|2000
 473AAA|Top Gear 2|Top Gear 2||Race, Driving,|2||Gremlin|Kotobuki System|1993
 1211AA|Top Pro Golf|Top Pro Golf|Top Pro Golf 2|Sports,|2||Coconuts Japan Entertainment Co., Ltd.|Soft Vision|1992
-125828|Top Shooter|Top Shooter|||||Unlicensed|Unlicensed|
+125828|Top Shooter|Top Shooter||Sports,Basketball,|||Unlicensed|Unlicensed|
 679AAA|Total Football|Total Football||Sports,|2||Domark|Acclaim Entertainment|1995
 667AAA|Toughman Contest|Toughman Contest||Fight,Sports,|2||EA Sports|Electronic Arts - High Score Productions - Visual Concepts|1995
 1212AA|Tougi Ou King Colossus|King Colossus||Role playing games,|1||Sega|Sega|1992
 1213AA|Toxic Crusaders|Toxic Crusaders||Beat'em Up,Action,|2||Infogrames|Infogrames|1992
-74AAAA|Toy Story|Toy Story||Action,Platform|1||Disney|Disney - Psygnosis - Traveller's Tales|1996
+74AAAA|Toy Story|Toy Story||Action,Platformer,|1||Disney|Disney - Psygnosis - Traveller's Tales|1996
 1214AA|Toys|Toys||Platform,Action,|1||Imagineering Inc.|Imagineering|1993
 624AAA|Trampoline Terror|Trampoline Terror!||Action,Various,|1||Masaya|Dreamworks Interactive|1990
 669AAA|Minato No Traysia|Traysia||Role playing games,|1||Renovation Products|Telenet Japan|1992
@@ -1104,14 +1105,14 @@
 416AAA|Mega Games I|Triple Score: 3 Games in 1||Compilation,|2||Sega|Sega|1992
 313AAA|Battle Mania|Trouble Shooter||Shoot'em Up,Action,|1||Vic Tokai|Vic Tokai|1991
 707AAA|Troy Aikman Nfl Football|Troy Aikman NFL Football||Sports,|2||Williams Entertainment|Tradewest|1994
-155511|Truco '96|Truco '96|||||Miky|Miky|
-193AAA|True Lies|True Lies||Action|1||Acclaim Entertainment|Acclaim - Beam Software|1994
+155511|Truco '96|Truco '96||Casino,|1||Miky|Miky|1996
+193AAA|True Lies|True Lies||Action,Shooter,,|1||Acclaim Entertainment|Acclaim - Beam Software|1994
 299AAA|Tatsujin|Truxton||Shoot'em Up,Action,|1||Toaplan|Sega - Toaplan|1989
-125835|Tubes|Tubes|Clue|,Puzzle|||||
-1215AA|Tun Shi Tian Di 3|Tun Shi Tian Di III|||||SKOB|SKOB|2003
+125835|Tubes|Tubes|Clue|Puzzle,,|||||
+1215AA|Tun Shi Tian Di 3|Tun Shi Tian Di III||Role-Playing,|1||SKOB|SKOB|2003
 424AAA|Turbo Outrun|Turbo Out Run||Race, Driving,|1||AM2|Sega|1992
 1216AA|Turma Da Monica Na Terra Dos Monstros|Turma da Monica na Terra dos Monstros||Platform,|1||Westone Co., Ltd.|TecToy|1994
-411AAA|Turrican|Turrican|Mega Turrican|Action|1||The Code Monkeys|Accolade - Ballistic|1991
+411AAA|Turrican|Turrican|Mega Turrican|Action,Platformer,Shooter,|1||The Code Monkeys|Accolade - Ballistic|1991
 437AAA|Twin Cobra|Twin Cobra : Desert Attack Helicopter||Shoot'em Up,Action,|1||Toaplan|Sega|1991
 474AAA|Twin Hawk|Twin Hawk||Shoot'em Up,Action,|1||Toaplan|Sega - Toaplan|1990
 553AAA|Twinkle Tale|Twinkle Tale||Shoot'em Up,Action,|1||Wonder Amusement Studio|Toyo Recording - Wonder Amusement Studio|1992
@@ -1121,16 +1122,16 @@
 143945|Ultimate Mortal Kombat Trilogy|Ultimate Mortal Kombat Trilogy||Fighting,|2||KABAL_MK|KABAL_MK|2014
 690AAA|Ultimate Qix|Ultimate QIX||Puzzle-Game,Action,|1||Taito|Taito|1991
 413AAA|Ultimate Soccer|Ultimate Soccer||Sports,|8||Sega|Rage Software - Sega|1993
-64846A|Ultimate Tetris|Ultimate Tetris|||||||
+64846A|Ultimate Tetris|Ultimate Tetris||Puzzle,|||||
 1218AA|Ultraman|Ultraman||Fight,Action,|8||BEC Co., Ltd.|Human|1993
 415AAA|Daikoukai Jidai|Uncharted Waters||Adventure,Role playing games,|1||Koei|Koei|1992
 1219AA|Undead Line|Undead Line||Shoot'em Up,Action,|1||T&E Soft|PALSOFT|1991
-576AAA|Universal Soldier|Universal Soldier||Action|1||The Code Monkeys|Accolade - Ballistic|1992
-142061|Unknown Chinese Game 1|Unknown Chinese Game 1|||||||
-151394|Unknown Chinese Game 2|Unknown Chinese Game 2|||||||
+576AAA|Universal Soldier|Universal Soldier||Action,Platformer,Shooter,|1||The Code Monkeys|Accolade - Ballistic|1992
+142061|Unknown Chinese Game 1|Unknown Chinese Game 1||RPG,|1||||
+151394|Unknown Chinese Game 2|Unknown Chinese Game 2||RPG,|1||||
 676AAA|Unnecessary Roughness '95|Unnecessary Roughness '95|Unnecessary Roughness 95|Sports,|4||Accolade|Accolade|1994
-229AAA|Urban Strike|Urban Strike||Action|1||Electronic Arts|Electronic Arts|1994
-125112|Uwol - Quest For Money|Uwol - Quest For Money|||||||
+229AAA|Urban Strike|Urban Strike||Action,Shooter,,|1||Electronic Arts|Electronic Arts|1994
+125112|Uwol - Quest For Money|Uwol - Quest For Money||Action,Platform,|||||2013
 1220AA|Uzu Keobukseon|Uzu Keobukseon||Shoot'em Up,|||Samsung Electronics Co., Ltd.|Samsung|1992
 585AAA|Valis - The Fantasm Soldier|Valis||Platform,Role playing games,|1||Action|Action|1991
 412AAA|Valis 3|Valis III|Valis|Platform,|1||Telenet|Telenet Japan|1991
@@ -1141,7 +1142,7 @@
 625AAA|Verytex|Verytex||Shoot'em Up,Action,|1||Asmik Ace Entertainment, Inc.|Asmik Ace Entertainment, Inc.|1991
 564AAA|Viewpoint|Viewpoint||Shoot'em Up,Action,|2||Sammy|Sega|1994
 99AAAA|Virtua Fighter 2|Virtua Fighter 2||Fight,Action,|2||Sega|Sega|1996
-64849A|Virtua Fighter 2 Vs Tekken 2|Virtua Fighter 2 vs. Tekken 2||Fight / 2D,Fight,|||||
+64849A|Virtua Fighter 2 Vs Tekken 2|Virtua Fighter 2 vs. Tekken 2||Fight / 2D,Fight,|2||||2002
 97AAAA|Virtua Racing|Virtua Racing||Race, Driving,|2||Sega|Sega|1994
 445AAA|Virtual Bart|Virtual Bart||Platform,|1||Sculptured Software|Acclaim Entertainment|1994
 704AAA|Virtual Pinball|Virtual Pinball||Pinball,Simulation,|4||Headgames|Electronic Arts|1993
@@ -1171,11 +1172,11 @@
 111AAA|Gynoug|Wings of Wor||Shoot'em Up,Action,|1||Masaya|DreamWorks|1991
 1231AA|Winter Challenge|Winter Challenge||Sports,|8+||MindSpan|MindSpan|1992
 444AAA|Winter Olympics - Lillehammer '94|Winter Olympic Games||Sports,|4||U.S. Gold|Tiertex Design Studios|1993
-144006|Winx - School Of Fairies|Winx - School Of Fairies|||||||
-144007|Winx 3d - Magical Adventure|Winx 3d - Magical Adventure|||||||
+144006|Winx - School Of Fairies|Winx - School Of Fairies||Platform,|||||
+144007|Winx 3d - Magical Adventure|Winx 3d - Magical Adventure||Platform,|||||
 282AAA|Wiz 'n' Liz - The Frantic Wabbit Wescue|Wiz'n'Liz||Platform,|2||Wizard Soft|Psygnosis|1993
 1232AA|Wolfchild|Wolfchild|Wolf Child|Platform,Action,|1||Core Design|Core Design|1993
-254AAA|Wolverine - Adamantium Rage|Wolverine : Adamantium Rage|Wolverine Adamantium Rage|Action|1||Teeny Weeny Games|Acclaim Entertainment|1994
+254AAA|Wolverine - Adamantium Rage|Wolverine : Adamantium Rage|Wolverine Adamantium Rage|Action,Fighting,Platform,,|1||Teeny Weeny Games|Acclaim Entertainment|1994
 202AAA|Wonder Boy 3 - Monster Lair|Wonder Boy III : Monster Lair|Wonder Boy III - Monster Lair|Action,Adventure,|2||Westone|Sega|1990
 29AAAA|Wonder Boy In Monster World|Wonder Boy in Monster World||Role playing games,Platform,|1||Westone|Sega|1991
 18452A|World Championship Soccer|World Championship Soccer|World Championship Soccer II|Sports,Sports / Soccer,|4||Sega|Sega|1989
@@ -1184,12 +1185,12 @@
 484AAA|World Cup Usa 94|World Cup USA 94||Sports,|4||U.S. Gold|Tiertex Design Studios|1994
 1233AA|World Heroes|World Heroes||Fight,Action,|2||ADK|Sega|1994
 46AAAA|World Of Illusion Starring Mickey Mouse And Donald Duck|World of Illusion Starring Mickey Mouse and Donald Duck||Platform,Action,|2||Sega|Sega|1992
-144008|World Of Tanks|World Of Tanks|||||||
-1173AA|Shi Jie Zhi Bang Zheng Ba Zhan - World Pro Baseball 94|World Pro Baseball '94||Action,|4||C&E Inc.|C&E Inc.|1994
+144008|World Of Tanks|World Of Tanks||Shooter,|||||
+1173AA|Shi Jie Zhi Bang Zheng Ba Zhan - World Pro Baseball 94|World Pro Baseball '94||Action,Sports,|4||C&E Inc.|C&E Inc.|1994
 715AAA|World Series Baseball|World Series Baseball|World Series Baseball '95|Sports,|2||Sega|Sega|1994
 1234AA|World Series Baseball '95|World Series Baseball '95||Action,Sports,|2||BlueSky Software, Inc.|Blue Sky Software|1995
-1235AA|World Series Baseball '96|World Series Baseball '96||Action,Baseball|2||BlueSky Software, Inc.|Blue Sky Software|1996
-1236AA|World Series Baseball 98|World Series Baseball 98|World Series Baseball '95|Action,Baseball|2||BlueSky Software, Inc.|Blue Sky Software|1997
+1235AA|World Series Baseball '96|World Series Baseball '96||Action,Sports,|2||BlueSky Software, Inc.|Blue Sky Software|1996
+1236AA|World Series Baseball 98|World Series Baseball 98|World Series Baseball '95|Action,Sports,Baseball,,|2||BlueSky Software, Inc.|Blue Sky Software|1997
 344AAA|European Club Soccer|World Trophy Soccer||Sports,Sports / Soccer,|2||Krisalis Software|Krisalis - Virgin|1992
 158AAA|Worms|Worms||Strategy,|4||Ocean|Team 17|1994
 680AAA|Wrestle War|Wrestle War||Fight,Sports,|2||Sega|Sega|1991
@@ -1197,28 +1198,28 @@
 454AAA|Wwf Royal Rumble|WWF Royal Rumble||Fight,Sports,|2||Sculptured Software|Acclaim Entertainment|1993
 405AAA|Wwf Super Wrestlemania|WWF Super WrestleMania||Fight,Sports,|2||Flying Edge|Acclaim - Flying Edge - Sculptured Software|1992
 463AAA|Wwf Wrestlemania - The Arcade Game|WWF WrestleMania : The Arcade Game||Fight,Sports,|2||Sculptured Software|Acclaim Entertainment|1995
-220AAA|X-men|X-Men|Clue|Action,Platform|2||Western Technologies|Sega|1993
-59AAAA|X-men 2 - Clone Wars|X-Men 2 : Clone Wars||Action|2|Coop|Headgames|Headgames - Sega|1995
+220AAA|X-men|X-Men|Clue|Action,Beat'em Up,Platformer,|2||Western Technologies|Sega|1993
+59AAAA|X-men 2 - Clone Wars|X-Men 2 : Clone Wars||Action,Platform,|2|Coop|Headgames|Headgames - Sega|1995
 586AAA|X-perts|X-Perts|X-Men|Beat'em Up,Adventure,|1||Abalone|Abalone|1996
 1237AA|Xdr - X Dazedly Ray|Xdr - X Dazedly Ray||Shoot'em Up,|1||Affect|UNIPACC|1990
 306AAA|Xenon 2 - Megablast|Xenon 2 - Megablast||Shoot'em Up,|2||Imageworks|The Bitmap Brothers|1992
-1238AA|Xiao Monv - Magic Girl|Xiao Monv - Magic Girl|||||GameTek, Inc.|Gamtec|1993
+1238AA|Xiao Monv - Magic Girl|Xiao Monv - Magic Girl||Shoot'em Up,|1||GameTek, Inc.|Gamtec|1993
 1239AA|Ya Se Chuan Shuo|Ya Se Chuan Shuo|Ya-Se Chuan Shuo|Role playing games,|1||Chuanpu Technologies|ChuanPu Technology - Super Chip Electronic|1995
 1240AA|Yi Men Ying Lie - Yang Jia Jiang|Yang Warrior Family||Beat'em Up,|1||Sega|Sega|1990
-125186|Yie Ar Kung-fu|Yie Ar Kung-Fu||Action,|1||Konami|Evgeny|2008
+125186|Yie Ar Kung-fu|Yie Ar Kung-Fu||Action,Fighting,,|1||Konami|Evgeny|2008
 377AAA|Yogi Bear - Cartoon Capers|Yogi Bear - Cartoon Capers|Yogi Bear's Cartoon Capers|Platform,|2||Blue Turtle|Blue Turtle - Empire Interactive|1994
 155AAA|Ys 3 - Wanderers From Ys|Ys III||Puzzle-Game,|1||Nihon Falcom|Falcom - Renovation Products|1991
-362AAA|Yuu Yuu Hakusho - Makyou Toitsusen|Yuu Yuu Hakusho - Makyou Toitsusen||Action,Fighting|4||Treasure Co|Sega - Treasure|1994
+362AAA|Yuu Yuu Hakusho - Makyou Toitsusen|Yuu Yuu Hakusho - Makyou Toitsusen||Action,Fighting,|4||Treasure Co|Sega - Treasure|1994
 490AAA|Yuu Yuu Hakusho Gaiden|Yuu Yuu Hakusho Gaiden||Adventure,|1||Sega|Sega|1994
 18455A|Zan Yasha Enbukyoku|Zan Yasha Enbukyoku||Strategy,|2||Wolf Team|Wolf Team|1991
 1242AA|Zany Golf|Zany Golf||Sports,Sports / Golf,|4||Sandcastle|Sandcastle|1990
 600AAA|Zero The Kamikaze Squirrel|Zero the Kamikaze Squirrel||Platform,Action,|1||Iguana Entertainment|Iguana Entertainment - Sunsoft|1994
-361AAA|Zero Tolerance|Zero Tolerance||Action,FPS|1||Accolade|Accolade - Technopop|1994
+361AAA|Zero Tolerance|Zero Tolerance||Action,Shooter,,|1||Accolade|Accolade - Technopop|1994
 326AAA|Zero Wing|Zero Wing||Shoot'em Up,Action,|1||Toaplan|Toaplan|1991
-155514|Zhong Guo Xiang Qi|Zhong Guo Xiang Qi|||||||
+155514|Zhong Guo Xiang Qi|Zhong Guo Xiang Qi||Board game,|||||
 1243AA|Zhuo Gui Da Shi - Ghost Hunter|Zhuo Gui Da Shi - Ghost Hunter||Puzzle-Game,|2||Senchi Technology|Senchi Technology|1994
 1244AA|Zombie High|Zombie High||Platform,|1||Electronic Arts|Electronic Arts|1994
-87AAAA|Zombies Ate My Neighbors|Zombies Ate My Neighbors||Action|2||LucasArts|Konami|1993
+87AAAA|Zombies Ate My Neighbors|Zombies Ate My Neighbors||Action,Puzzle,Shooter,|2||LucasArts|Konami|1993
 346AAA|Zool - Ninja Of The Nth Dimension|Zool : Ninja of the 'Nth' Dimension||Platform,Action,|1||Gremlin|Electronic Arts - Gremlin|1993
 421AAA|Zoom!|Zoom!||Puzzle-Game,|2||Discovery Software|Discovery Software|1990
 502AAA|Zoop|Zoop||Puzzle-Game,Strategy,|1||Viacom|Viacom|1995

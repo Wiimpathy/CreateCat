@@ -20,6 +20,7 @@
 100799|Big Thinkers Kindergarten|Big Thinkers!: Kindergarten||Point and Click,Adventure,|1||Humongous Entertainment|Infogrames|1997
 100018|Bizarre Adventures of Woodruff and the Schnibble, The|Bizarre Adventures of Woodruff and the Schnibble, The||Point and Click,Adventure,|1||Coktel Vision|Sierra On-Line, Inc.|1995
 99906A|Black Cauldron, The|Black Cauldron, The||Point and Click,Adventure,|1||Sierra|Sierra|1986
+90000A|Blade Runner|Blade Runner||Point and Click,Adventure,|1||Westwood Studios|Virgin Interactive|1997
 100335|Blue Force|Blue Force||Point and Click,Adventure,|1||TSUNAMI|TSUNAMI MEDIA, INC.|1993
 99503A|Blue's Clues - Blue's 123 Time Activities|Blue's Clues - Blue's 123 Time Activities||Educational,|1||Humongous Entertainment|Humongous Entertainment|
 99504A|Blue's Clues - Blue's Abc Time Activities|Blue's Clues - Blue's Abc Time Activities||Point and Click,Adventure,|1||Humongous Entertainment|Humongous Entertainment|
@@ -35,10 +36,10 @@
 99534A|Conquests Of The Longbow - The Legend Of Robin Hood|Conquests Of The Longbow - The Legend Of Robin Hood||Point and Click,Adventure,|1||Sierra|Sierra|1991
 155476|Cranston Manor|Hi-Res Adventure #3: Cranston Manor||Adventure,|1||On-Line Systems|On-Line Systems|1981
 99542A|Cruise For A Corpse|Cruise for a Corpse||Point and Click,Adventure,|1||Delphine Software International|U.S. Gold|1991
-99907A|Curse of Monkey Island, The|Curse of Monkey Island, The||Point and Click,Adventure,|1||LucasArts|LucasArts|1997
+99907A|Monkey Island 3 - The Curse of Monkey Island|Monkey Island 3 - The Curse of Monkey Island||Point and Click,Adventure,|1||LucasArts|LucasArts|1997
 101878|Darby The Dragon|Darby The Dragon||Point and Click,Adventure,|1|||Brøderbund|1996
 155479|Dark Crystal, The|Hi-Res Adventure #6: The Dark Crystal||Adventure,|1||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1983
-99908A|Dig, The|Dig, The||Point and Click,Adventure,|1||LucasArts|LucasArts|1995
+99908A|The Dig|Dig, The||Point and Click,Adventure,|1||LucasArts|LucasArts|1995
 100341|Discworld|Discworld||Point and Click,Adventure,|1||Perfect Entertainment|Psygnosis|1995
 100342|Discworld 2 - Mortality Bytes!|Discworld II - Missing presumed...!?||Point and Click,Adventure,|1||Perfect Entertainment|Psygnosis|1996
 102087|Dr. Seuss's Abc|Dr. Seuss's Abc||Point and Click,Adventure,|1||Living Books|Brøderbund|1995
@@ -64,7 +65,6 @@
 101307|Freddi Fish And Luther's Maze Madness|Freddi Fish And Luther's Maze Madness||Point and Click,Adventure,|||Humongous Entertainment, Inc.|Humongous Entertainment, Inc.|
 101308|Freddi Fish And Luther's Water Worries|Freddi Fish And Luther's Water Worries||Point and Click,Adventure,|||Humongous Entertainment, Inc.|Humongous Entertainment, Inc.|
 99592A|Freddy Pharkas - Frontier Pharmacist |Freddy Pharkas: Frontier Pharmacist||Point and Click,Adventure,|1||Sierra|Sierra|1993
-;AAAAA|;||||||PIPE studio|1C Company|2003
 155471|Full Pipe|Full Pipe||Adventure,|1||PIPE studio|1C Company|2003
 99593A|Full Throttle|Full Throttle||Point and Click,Adventure,|1||LucasArts|LucasArts|1995
 155472|Gabriel Knight - Sins Of The Fathers|Gabriel Knight - Sins Of The Fathers||Point and Click,Adventure,|1||Sierra On-Line|Sierra On-Line|1993
@@ -87,7 +87,7 @@
 99641A|Hugo 1 - Hugo's House Of Horrors|Hugo 1 - Hugo's House Of Horrors||Point and Click,Adventure,|1||Gray Design Associates|Gray Design Associates|
 99642A|Hugo 2 - Whodunit?|Hugo 2 - Whodunit?||Point and Click,Adventure,|1||Gray Design Associates|Gray Design Associates|
 99643A|Hugo 3 - Jungle Of Doom|Hugo III: Jungle of Doom||Point and Click,Adventure,|1||Gray Design Associates|Gray Design Associates|
-99645A|I Have No Mouth, And I Must Scream|I Have No Mouth, And I Must Scream||Point and Click,Adventure,|1||The Dreamers Guild|Cyberdreams|
+99645A|I Have No Mouth And I Must Scream|I Have No Mouth, And I Must Scream||Point and Click,Adventure,|1||The Dreamers Guild|Cyberdreams|1995
 99961A|Indiana Jones And The Last Crusade|Indiana Jones and the Last Crusade||Point and Click,Adventure,|1||Lucasfilm Games|Lucasfilm Games|1989
 99647A|Indiana Jones And The Fate Of Atlantis|Indiana Jones and the Fate of Atlantis||Point and Click,Adventure,|1||LucasArts|LucasArts|1992
 99661A|Inherit The Earth - Quest For The Orb|Inherit the Earth: Quest for the Orb||Point and Click,Adventure,|1||New World Computing|New World Computing|1994
@@ -108,14 +108,14 @@
 155481|King's Questions|King's Questions||Quiz,|||Sierra On-Line|Sierra On-Line|1994
 99580A|Flight Of The Amazon Queen|Flight Of The Amazon Queen||Point and Click,Adventure,|1||Interactive Binary Illusions|Renegade Software|1995
 100484|Labyrinth of Time, The|Labyrinth of Time, The||Point and Click,Adventure,|||Terra Nova Development|Electronic Arts, Inc.|1993
-99689A|Lands Of Lore - The Throne Of Chaos|Lands Of Lore - The Throne Of Chaos||Point and Click,Adventure,|1||Westwood Studios, Inc.|Virgin Games, Ltd.|1993
+99689A|Lands Of Lore - The Throne Of Chaos|Lands Of Lore - The Throne Of Chaos||Role playing game,|1||Westwood Studios, Inc.|Virgin Games, Ltd.|1993
 99695A|Laura Bow - The Colonel's Bequest|Laura Bow - The Colonel's Bequest||Point and Click,Adventure,|1||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1989
 99698A|Laura Bow In The Dagger Of Amon Ra|Laura Bow: The Dagger of Amon Ra||Point and Click,Adventure,|1||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1992
 100016|Once Upon A Time - Little Red Riding Hood|Once Upon A Time: Little Red Riding Hood||Point and Click,Adventure,|||Coktel Vision|Coktel Vision|1991
 99478A|3 Skulls Of The Toltecs|3 Skulls Of The Toltecs||Point and Click,Adventure,|1||Revistronic|Warner Interactive Entertainment Ltd.|1996
 99699A|Leather Goddesses Of Phobos 2|Leather Goddesses of Phobos! 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X||Point and Click,Adventure,|1||Infocom, Inc.|Activision, Inc.|
-99919A|Legend of Kyrandia - Book Three - Malcolm's Revenge, The|Legend of Kyrandia - Book Three - Malcolm's Revenge, The||Point and Click,Adventure,|1||Westwood Studios, Inc.|Virgin Interactive Entertainment (Europe) Ltd.|1994
-100486|Legend of Kyrandia - Book Two - Hand of Fate, The|The Legend of Kyrandia: Hand of Fate||Point and Click,Adventure,|||Westwood Studios, Inc.|Virgin Games, Inc.|1993
+99919A|Legend of Kyrandia - Book 3 - Malcolm's Revenge|Legend of Kyrandia - Book 3: Malcolm's Revenge, The||Point and Click,Adventure,|1||Westwood Studios, Inc.|Virgin Interactive Entertainment (Europe) Ltd.|1994
+100486|Legend of Kyrandia - Book 2 - The Hand of Fate|Legend of Kyrandia - Book 2: The Hand of Fate||Point and Click,Adventure,|1||Westwood Studios, Inc.|Virgin Games, Inc.|1993
 99700A|Leisure Suit Larry Goes Looking For Love|Leisure Suit Larry Goes Looking For Love||Point and Click,Adventure,|1||Sierra|Sierra|1988
 99702A|Leisure Suit Larry 3 - Passionate Patti In Pursuit Of The Pulsating Pectorals|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals||Point and Click,Adventure,|1||Sierra|Sierra|1989
 99704A|Leisure Suit Larry 5 - Passionate Patti Does Some Undercover Work|Leisure Suit Larry 5 - Passionate Patti Does Some Undercover Work||Point and Click,Adventure,|1||Sierra|Sierra|1991
@@ -142,8 +142,11 @@
 99763A|Manhunter - New York|Manhunter - New York||Point and Click,Adventure,|1||Evryware|Sierra On-Line, Inc.|1988
 99765A|Manhunter 2 - San Francisco|Manhunter 2 - San Francisco||Point and Click,Adventure,|1||Evryware|Sierra|1989
 99767A|Maniac Mansion|Maniac Mansion||Point and Click,Adventure,|1||Lucasfilm Games|Lucasfilm Games|1987
-99777A|Maniac Mansion - Day Of The Tentacle|Maniac Mansion: Day of the Tentacle||Point and Click,Adventure,|1||LucasArts|LucasArts|1993
+99777A|Maniac Mansion 2 - Day Of The Tentacle|Maniac Mansion: Day of the Tentacle||Point and Click,Adventure,|1||LucasArts|LucasArts|1993
 99778A|Mickey's Space Adventure|Mickey's Space Adventure||Point and Click,Adventure,|1||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1984
+155895|Might And Magic 4 - Clouds Of Xeen|Might and Magic 4 - Clouds of Xeen||Role playing games,|1||New World Computing, Inc.|New World Computing, Inc.|1992
+155896|Might And Magic 4+5 - World Of Xeen|Might And Magic 4+5 - World Of Xeen||Role playing game,|1||New World Computing, Inc.|New World Computing, Inc.|1994
+155897|Might And Magic 5 - Darkside Of Xeen|Might and Magic 5 - Darkside of Xeen||Role playing game,|1||New World Computing, Inc.|New World Computing, Inc.|1993
 126588|Mission Asteroid|Hi-Res Adventure #0: Mission Asteroid||Adventure,|||On-Line Systems|On-Line Systems|1980
 99847A|Mixed-up Fairy Tales|Mixed-up Fairy Tales||Point and Click,Adventure,|1||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1991
 99779A|Monkey Island 2 - Lechuck's Revenge|Monkey Island 2 - Lechuck's Revenge||Point and Click,Adventure,|1||LucasArts|LucasArts|1991
@@ -191,7 +194,7 @@
 99980A|Return To Zork|Return to Zork||Point and Click,Adventure,|1||Activision, Inc.|Activision, Inc.|1993
 100478|Rex Nebular And The Cosmic Gender Bender|Rex Nebular And The Cosmic Gender Bender||Point and Click,Adventure,|1||Tsunami Media|Tsunami Media|1992
 100479|Ringworld - Revenge Of The Patriarch|Ringworld: Revenge of the Patriarch||Point and Click,Adventure,|1||Tsunami Media, Inc.|Tsunami Media, Inc.|1992
-155491|Riven|Riven: The Sequel to Myst||Point and Click,Adventure,|1||Cyan Productions|Red Orb Entertainment|1997
+155491|Myst 2 - Riven|Riven: The Sequel to Myst||Point and Click,Adventure,|1||Cyan Productions|Red Orb Entertainment|1997
 99849A|Roberta Williams' Mixed-up Mother Goose|Roberta Williams' Mixed-Up Mother Goose||Point and Click,Adventure,|1||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1991
 99852A|Rodney's Funscreen|Rodney's Funscreen||Point and Click,Adventure,|1||Art in the Box|Activision|1992
 102092|Ruff's Bone|Ruff's Bone||Point and Click,Adventure,|||||
@@ -225,9 +228,9 @@
 102094|Stellaluna|Stellaluna||Point and Click,Adventure,|||||
 99898A|Teenagent|Teenagent||Point and Click,Adventure,|1||Metropolis Software House|Metropolis Software House|1994
 99899A|7th Guest, The|The 7th Guest||Point and Click,Adventure,|1||Trilobyte|Virgin|1993
-99917A|Legend of Kyrandia - Book One, The|The Legend of Kyrandia: Book One||Point and Click,Adventure,|1||Westwood Studios, Inc.|Westwood Studios, Inc.|1992
+99917A|Legend of Kyrandia - Book 1|The Legend of Kyrandia: Book 1||Point and Click,Adventure,|1||Westwood Studios, Inc.|Westwood Studios, Inc.|1992
 99926A|Manhole, The|The Manhole||Point and Click,Adventure,|1||Cyan Worlds|Activision|1988
-99855A|The Secret of Monkey Island|The Secret of Monkey Island||Point and Click,Adventure,|1||Lucasfilm Games|Lucasfilm Games|1990
+99855A|Monkey Island - The Secret of Monkey Island|Monkey Island - The Secret of Monkey Island||Point and Click,Adventure,|1||Lucasfilm Games|Lucasfilm Games|1990
 155478|Time Zone|Time Zone||Adventure,|1||Sierra On-Line, Inc.|Sierra On-Line, Inc.|
 100631|Tony Tough And The Night Of Roasted Moths|Tony Tough And The Night Of Roasted Moths||Point and Click,Adventure,|1||Burst|Virgin Games, Ltd.|1996
 99929A|Toonstruck|Toonstruck||Point and Click,Adventure,|1||Burst|Virgin|1996
@@ -243,4 +246,4 @@
 155475|Wizard And The Princess|Wizard And The Princess||Point and Click,Adventure,|1||On-Line Systems|On-Line Systems|1980
 99960A|Zak Mckracken And The Alien Mindbenders|Zak Mckracken And The Alien Mindbenders||Point and Click,Adventure,|1||Lucasfilm Games|Lucasfilm Games|1988
 100635|Zork - Grand Inquisitor|Zork: Grand Inquisitor||Point and Click,Adventure,|1||Activision, Inc.|Activision, Inc.|1997
-100636|Zork Nemesis - The Forbidden Lands|Zork Nemesis: The Forbidden Lands||Point and Click,Adventure,|||Zombie LLC|Activision, Inc.|1996
+100636|Zork Nemesis - The Forbidden Lands|Zork Nemesis: The Forbidden Lands||Point and Click,Adventure,|1||Zombie LLC|Activision, Inc.|1996

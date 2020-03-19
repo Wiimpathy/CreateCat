@@ -1,257 +1,257 @@
-117368|15-in-1 Mega Collection - Backtracking Ten Years|15-in-1 Mega Collection - Backtracking Ten Years||,Compilation|||||1992
-78593A|1943 Kai|1943 Kai||Shoot'em Up,Action,|2||Capcom|Naxat Soft|1991
-78594A|21 Emon - Mezase Hotel Ou!!|21 Emon - Mezase Hotel Ou!!|21-Emon - Mezase Hotel Ou!!|Board game,|4||NEC Corporation|NEC Corporation|1994
-117369|5-in-1 Fami Collection - Nes Collection Nr 1|5-in-1 Fami Collection - Nes Collection Nr 1||,Compilation|||||
-117370|6-in-1 Fami Collection - Nes Collection Nr 2|6-in-1 Fami Collection - Nes Collection Nr 2||,Compilation|||||
-125854|7 Wizards|7 Wizards|||1||||
+117368|15-in-1 Mega Collection - Backtracking Ten Years|15-in-1 Mega Collection - Backtracking Ten Years||Compilation,|||||1992
+78593A|1943 Kai|1943 Kai||Shoot'em Up,Action,|2|Coop|Capcom|Naxat Soft|1991
+78594A|21 Emon - Mezase Hotel Ou!!|21 Emon - Mezase Hotel Ou!!|21-Emon - Mezase Hotel Ou!!|Board game,|4|Coop|NEC Corporation|NEC Corporation|1994
+117369|5-in-1 Fami Collection - Nes Collection Nr 1|5-in-1 Fami Collection - Nes Collection Nr 1||Compilation,|||||1993
+117370|6-in-1 Fami Collection - Nes Collection Nr 2|6-in-1 Fami Collection - Nes Collection Nr 2||Compilation,|||||1993
+125854|7 Wizards|7 Wizards||Action,|1||||
 59772A|Aero Blasters|Aero Blasters||Shoot'em Up,Action,|2|Coop|Hudson Soft|Kaneko|1990
 14523A|After Burner 2|After Burner II||Shooter,Action,|1||Sega|NEC Avenue, Ltd.|1990
 14526A|Pc Denjin - Punkic Cyborgs|Air Zonk||Shoot'em Up,Action,|1||Hudson|Hudson|1992
 14543A|Alien Crush|Alien Crush||Pinball,Action,|1||Compile|NEC Home Electronics (U.S.A.) Inc.|1988
-14470A|Juuouki|Altered Beast||Beat'em Up,Action,|1||Sega|NEC Avenue, Ltd.|1989
-59818A|Andre Panza Kick Boxing|Andre' Panza Kick Boxing||Sports,Fight,Action,|2||Futura||1991
-78597A|Aoi Blink|Aoi Blink||Action|2||West One|Hudson|1990
-78598A|Appare Gateball|Appare Gateball||Sports,|2||West One|Hudson|1988
+14470A|Juuouki|Altered Beast||Beat'em Up,Action,|2|Coop|Sega|NEC Avenue, Ltd.|1989
+59818A|Andre Panza Kick Boxing|Andre' Panza Kick Boxing||Sports,Fight,Action,|2|Coop|Futura|NEC|1991
+78597A|Aoi Blink|Aoi Blink||Action,Platformer,|2||West One|Hudson|1990
+78598A|Appare Gateball|Appare Gateball||Sports,|2|Coop|West One|Hudson|1988
 78599A|Artist Tool|Artist Tool||N/A,|1||Hudson|NEC Corporation|1989
 59773A|Atomic Robo-kid Special|Atomic Robo-Kid Special||Shooter,|2||UPL Co., Ltd|UPL Co., Ltd|1990
-125847|Attack Force|Attack Force|||||||
+125847|Attack Force|Attack Force||Action,Arcade,Shooter,,|||||
 78600A|Av Poker|AV Poker||Casino,|4||Games Express|Games Express|1992
-59774A|Ballistix|Ballistix||Action,Arcade|2||Reflections Interactive|Turbo Technologies, Inc.|1991
+59774A|Ballistix|Ballistix||Action,Platformer,|2|Coop|Reflections Interactive|Turbo Technologies, Inc.|1991
 78601A|Bari Bari Densetsu|Bari Bari Densetsu||Race, Driving,|2||Taito|Taito|1989
 78602A|Barunba|Barunba||Shoot'em Up,Action,|1||ZAP Corporation|Namco|1990
 78603A|Batman|Batman||Platform,Action,|1||Sunsoft|Sunsoft|1990
-14566A|Battle Lode Runner|Battle Lode Runner||Action,Arcade|1||Broderbund Software|Broderbund Software|1993
-59775A|Battle Royale|Battle Royale||Fight,Sports,|4||Incredible Technologies|Turbo Technologies, Inc.|1990
+14566A|Battle Lode Runner|Battle Lode Runner||Action,Platformer,Puzzle,|2|Coop|Broderbund Software|Broderbund Software|1993
+59775A|Battle Royale|Battle Royale||Fight,Sports,|4|Coop|Incredible Technologies|Turbo Technologies, Inc.|1990
 78721A|Benkei Gaiden|Benkei Gaiden||Role playing games,|1||Sunsoft|Sunsoft|1989
 78606A|Blazing Lazers|Blazing Lazers||Shoot'em Up,Action,|1||Compile|NEC|1989
-125848|Blockos|Blockos|Blodia|,Puzzle|||||
+125848|Blockos|Blockos|Blodia|Platform,|||||
 59776A|Bloody Wolf|Bloody Wolf||Action,Adventure,|1||Data East|Data East|1989
 78608A|Body Conquest 2|Body Conquest II||Role playing games,|1||Games Express|Games Express|1993
-59777A|Bomberman|Bomberman|Bomberman '93|Action,Arcade|5||Hudson|Turbo Technologies, Inc.|1990
-14484A|Bomberman '93|Bomberman '93||Action,Arcade|2||Nec Interchannel|Hudson|1992
-14481A|Bomberman '94|Bomberman '94||Action,Arcade|5||Hudson|Hudson|1993
-78610A|Bomberman - Users Battle|Bomberman - Users Battle|Bomberman Users Battle|Action,Arcade|5||Hudson|Hudson|1990
-59779A|Pc Genjin 3 - Pithecanthropus Computerurus|Bonk III : Bonk's Big Adventure||Action,Platform,|1||Hudson|Turbo Technologies, Inc.|1993
-59780A|Pc Genjin - Pithecanthropus Computerurus|Bonk's Adventure||Action,Platform,|1||Atlus|Hudson|1989
+59777A|Bomberman|Bomberman|Bomberman '93|Action,Puzzle,|5|Coop|Hudson|Turbo Technologies, Inc.|1990
+14484A|Bomberman '93|Bomberman '93||Action,Puzzle,|5|Coop|Nec Interchannel|Hudson|1992
+14481A|Bomberman '94|Bomberman '94||Action,Puzzle,|5|Coop|Hudson|Hudson|1993
+78610A|Bomberman - Users Battle|Bomberman - Users Battle|Bomberman Users Battle|Action,Arcade|5|Coop|Hudson|Hudson|1990
+59779A|Pc Genjin 3 - Pithecanthropus Computerurus|Bonk III : Bonk's Big Adventure||Action,Platform,|2|Coop|Hudson|Turbo Technologies, Inc.|1993
+59780A|Pc Genjin - Pithecanthropus Computerurus|Bonk's Adventure||Action,Platform,|1|Coop|Atlus|Hudson|1989
 78611A|Pc Genjin 2 - Pithecanthropus Computerurus|Bonk's Revenge||Action,Platform,|1||Red Company|NEC|1991
 78609A|Bouken Danshaku Don - The Lost Sunheart|Bouken Danshaku Don - The Lost Sunheart||Shoot'em Up,|2||Manjyudo|I'Max Corp.|1992
 78612A|Boxyboy|Boxyboy|Boxy Boy|Puzzle-Game,|2||NEC Corporation|Media Rings Corporation|1990
 78613A|Bravoman|Bravoman||Beat'em Up,Action,|1||Now Production|Turbo Technologies, Inc.|1990
-14598A|Break In|Break in||Sports,Sports / Pool,|1||Naxat Soft|Naxat Soft|1989
+14598A|Break In|Break in||Sports,Sports / Pool,|4|Coop|Naxat Soft|Naxat Soft|1989
 59781A|Bubblegum Crash! - Knight Sabers 2034|Bubblegum Crash! - Knight Sabers 2034||Adventure,|1||Spiel|Naxat Soft|1991
-59782A|Bull Fight - Ring No Haja|Bull Fight - Ring no Haja|Bullfight - Ring no Hasha|Action,Sports,Sports / Boxing,|8||Cream|Cream|1989
-59783A|Burning Angels|Burning Angels||Shoot'em Up,Shoot'em up / Vertical,|2||Zap|Naxat Soft|1990
+59782A|Bull Fight - Ring No Haja|Bull Fight - Ring no Haja|Bullfight - Ring no Hasha|Action,Sports,Sports / Boxing,|2|Coop|Cream|Cream|1989
+59783A|Burning Angels|Burning Angels||Shoot'em Up,Shoot'em up / Vertical,|2|Coop|Zap|Naxat Soft|1990
 14511A|Cadash|Cadash||Role playing games,Action,|2|Coop|Taito|Working Designs|1991
-78615A|Champion Wrestler|Champion Wrestler||Sports,Fight,|4||Taito|Taito|1990
-78616A|Champions Forever Boxing|Champions Forever Boxing||Sports / Boxing,Sports,|2||Distinctive Software, Inc|NEC Corporation|1991
+78615A|Champion Wrestler|Champion Wrestler||Sports,Fight,|4|Coop|Taito|Taito|1990
+78616A|Champions Forever Boxing|Champions Forever Boxing||Sports / Boxing,Sports,|2|Coop|Distinctive Software, Inc|NEC Corporation|1991
 14520A|Chase H.q.|Chase H.Q.|Taito Chase H.Q.|Race, Driving,|1||Taito|Taito|1990
-14556A|Chew Man Fu|Chew Man Fu||Puzzle-Game,Action,|2||Now Production|NEC|1990
+14556A|Chew Man Fu|Chew Man Fu||Puzzle-Game,Action,|2|Coop|Now Production|NEC|1990
 78617A|Chibi Maruko Chan - Quiz De Piihyara|Chibi Maruko Chan - Quiz de Piihyara|Chibi Maruko-Chan Quiz de Pihyara|Quiz,|2||Namco|Namco|1992
 78618A|Chikudenya Toubei - Kubikiri Yakata Yori|Chikudenya Toubei - Kubikiri Yakata Yori|Chikuden Yatoubei - Kubikiri Yakata Yori|Adventure,|1||Naxat Soft|Naxat Soft|1990
 78788A|China Warrior|China Warrior||Beat'em Up,Action,|2||Hudson|NEC|1987
 78620A|Circus Lido|Circus Lido||Puzzle,|1||Uni Post Company|Uni Post Company|1991
-125849|City Bomber|City Bomber|||||||
-59789A|City Hunter|City Hunter||Action|2||Sunsoft|Sunsoft|1990
-125850|Collision 8|Collision 8|||||||
-59788A|Columns|Columns||Action,Puzzle-Game,|2||Laser Soft|Laser Soft|1991
+125849|City Bomber|City Bomber||Action,Racing,Shooter,,|||||
+59789A|City Hunter|City Hunter||Action,Platformer,Shooter,|2||Sunsoft|Sunsoft|1990
+125850|Collision 8|Collision 8||Platform,|||||
+59788A|Columns|Columns||Action,Puzzle-Game,|2|Coop|Laser Soft|Laser Soft|1991
 78621A|Coryoon - Child Of Dragon|Coryoon - Child of Dragon||Shoot'em Up,Shoot'em up / Horizontal,|1||Naxat Soft|Naxat Soft|1991
-125886|Crash|Crash|Bubblegum Crash! - Knight Sabers 2034|,Adventure|||||
+125886|Crash|Crash|Bubblegum Crash! - Knight Sabers 2034|Action,Racing,Arcade,Shooter,,|||||
 14527A|Cratermaze|Cratermaze||Strategy,Action,|1||Hudson|NEC|1989
-59784A|Cross Wiber - Cyber Combat Police|Cross Wiber - Cyber Combat Police||Action|1||Sankindo|FACE|1990
-125851|Cubman|Cubman|Batman|,Arcade|||||
+59784A|Cross Wiber - Cyber Combat Police|Cross Wiber - Cyber Combat Police||Action,Platform,,|1||Sankindo|FACE|1990
+125851|Cubman|Cubman|Batman|Platform,|||||
 59785A|Cyber Core|Cyber Core||Shoot'em Up,|1||Alfa System|NEC|1990
-78614A|Cyber Cross|Cyber Cross|Busou Keiji Cyber Cross|Action|1||FACE|FACE|1989
-78622A|Cyber Dodge|Cyber Dodge|Cyber Core|Sports,|2||Tonkin House|Tonkin House|1992
+78614A|Cyber Cross|Cyber Cross|Busou Keiji Cyber Cross|Action,Beat'em Up,Platformer,|1||FACE|FACE|1989
+78622A|Cyber Dodge|Cyber Dodge|Cyber Core|Sports,|2|Coop|Tonkin House|Tonkin House|1992
 59787A|Cyber Knight|Cyber Knight||Adventure,Role playing games,|1||Compile|Tonkin House|1990
 78623A|Daichi-kun Crisis - Do Natural|Daichi-kun Crisis - Do Natural|Daichikun Crisis|Strategy,|1||Salio, Inc.|Salio, Inc.|1989
 78624A|Daisenpuu|Daisenpuu||Shoot'em Up,|2||Toaplan|NEC Corporation|1990
 59790A|Darius Alpha|Darius Alpha||Shoot'em Up,Action,|1||Bits Laboratory|Nec Interchannel|1990
 59791A|Darius Plus|Darius Plus||Shoot'em Up,|1||Bits Laboratory|Nec Interchannel|1990
 14487A|Darkwing Duck|Darkwing Duck||Action,Platform,|1||Turbo Technologies|Radiance Software|1992
-78625A|Davis Cup Tennis|Davis Cup Tennis||Sports / Tennis,Sports,|4||Loriciels|Micro World|1991
+78625A|Davis Cup Tennis|Davis Cup Tennis||Sports / Tennis,Sports,|4|Coop|Loriciels|Micro World|1991
 59792A|Dead Moon|Dead Moon||Shoot'em Up,Action,|1||Studio Ducks|Natsume, Inc.|1991
 59793A|Deep Blue|Deep Blue|Deep Blue - Kaitei Shinwa|Shoot'em Up,|1||Pack-In-Video|NEC|1989
-14541A|Detana!! Twinbee|Detana!! Twinbee||Shoot'em Up,Action,|1||Konami|Konami|1992
+14541A|Detana!! Twinbee|Detana!! Twinbee||Shoot'em Up,Action,|2|Coop|Konami|Konami|1992
 78626A|Devil's Crush|Devil's Crush||Various,Pinball,Action,|2||Compile|NEC Technologies, Inc.|1990
-14515A|Die Hard|Die Hard||Action|1||Pack-In-Video|Nec Interchannel|1990
+14515A|Die Hard|Die Hard||Action,Shooter,|1||Pack-In-Video|Nec Interchannel|1990
 78627A|Digital Champ|Digital Champ||Sports,Sports / Boxing,|||Naxat Soft|Naxat Soft|1989
-78628A|Don Doko Don!|Don Doko Don!|Don Doko Don|Platform,Action,|2||Taito|Taito|1990
+78628A|Don Doko Don!|Don Doko Don!|Don Doko Don|Platform,Action,|2|Coop|Taito|Taito|1990
 59795A|Doraemon - Nobita No Dorabian Night|Doraemon - Nobita No Dorabian Night||Action,Platform,|1||Now Production|Hudson|1991
-78630A|Double Dungeons|Double Dungeons||Role playing games,|1||NCS Corporation|Masaya|1989
+78630A|Double Dungeons|Double Dungeons||Role playing games,|2|Coop|NCS Corporation|Masaya|1989
 78631A|Download|Download||Shoot'em Up,|1||Alfa System|Nec Interchannel|1990
-125905|Dragon 2 Win Prototype|Dragon 2 Win Prototype|||||||
+125905|Dragon 2 Win Prototype|Dragon 2 Win Prototype||Platform,|||||
 78632A|Dragon Egg!|Dragon Egg!||Action,Platform,|1||Masaya|NCS Corporation|1991
 78633A|Dragon Saber - After Story Of Dragon Spirit|Dragon Saber - After Story of Dragon Spirit||Shoot'em Up,|2|Coop|Namco|Namco|1991
 78634A|Dragon Spirit|Dragon Spirit|Dragon Saber - After Story of Dragon Spirit|Shoot'em Up,|1||Namco|NEC|1988
 14468A|Dragon's Curse|Dragon's Curse||Action,Platform,|1||Westone|NEC|1990
 78635A|Drop Off|Drop.Off||Action / Breakout games,Action,|2||Data East|NEC Corporation|1990
-59794A|Dungeon Explorer|Dungeon Explorer||Role playing games,|5||Atlus|NEC|1989
-125915|Echo|Echo|||1||||
-78636A|Energy|Energy||Action,Fighter|5||Quasar Soft|NCS|1989
+59794A|Dungeon Explorer|Dungeon Explorer||Role playing games,|5|Coop|Atlus|NEC|1989
+125915|Echo|Echo||Action,Shooter,,|1||||
+78636A|Energy|Energy||Action,Platformer,Shooter,|5||Quasar Soft|NCS|1989
 78640A|F-1 Dream|F-1 Dream||Race, Driving,|1||Nec Interchannel|Nec Interchannel|1989
-78641A|F-1 Pilot - You're King Of Kings|F-1 Pilot - You're King of Kings||Race, Driving,|||Pack-In-Video|Pack-In-Video|1989
+78641A|F-1 Pilot - You're King Of Kings|F-1 Pilot - You're King of Kings||Race, Driving,|1||Pack-In-Video|Pack-In-Video|1989
 78637A|F1 Circus|F1 Circus|F1 Circus '91 - World Championship|Race, Driving,|5||Nihon Bussan Co., Ltd.|Nichibutsu|1990
 78638A|F1 Circus '91 - World Championship|F1 Circus '91 - World Championship||Race, Driving,|1||Nihon Bussan Co., Ltd.|Nichibutsu|1991
 78639A|F1 Circus '92 - The Speed Of Sound|F1 Circus '92 - The Speed of Sound||Racing,|1||Nihon Bussan Co., Ltd.|Nichibutsu|1992
-78642A|F1 Triple Battle|F1 Triple Battle||Race, Driving,|3||Human Entertainment|Human Entertainment|1989
-78643A|Falcon|Falcon||Simulation,|1||Spectrum Holobyte|Spectrum Holobyte|1992
+78642A|F1 Triple Battle|F1 Triple Battle||Race, Driving,|3|Coop|Human Entertainment|Human Entertainment|1989
+78643A|Falcon|Falcon||Simulation,|1|Coop|Spectrum Holobyte|Spectrum Holobyte|1992
 59796A|Fantasy Zone|Fantasy Zone||Shoot'em Up,|2||Bits Laboratory|Nec Interchannel|1988
-78644A|Fighting Run|Fighting Run||Action,Arcade|2||Nihon Bussan Co., Ltd.|Nihon Bussan Co., Ltd.|1991
+78644A|Fighting Run|Fighting Run||Action,Arcade,|2|Coop|Nihon Bussan Co., Ltd.|Nihon Bussan Co., Ltd.|1991
 59797A|Final Blaster|Final Blaster||Shoot'em Up,|1||Aisystem Tokyo|Namco|1990
-14593A|Final Lap Twin|Final Lap Twin||Race, Driving,Role playing games,|2||Nec Interchannel|Namco|1989
-14577A|Final Match Tennis|Final Match Tennis||Sports,Sports / Tennis,|2||Human Entertainment|Human Entertainment|1991
+14593A|Final Lap Twin|Final Lap Twin||Race, Driving,Role playing games,|2|Coop|Nec Interchannel|Namco|1989
+14577A|Final Match Tennis|Final Match Tennis||Sports,Sports / Tennis,|2|Coop|Human Entertainment|Human Entertainment|1991
 14580A|Final Soldier|Final Soldier||Shoot'em Up,Action,|1||Hudson|Hudson|1991
-78647A|Fire Pro Wrestling - Combination Tag|Fire Pro Wrestling - Combination Tag||Sports,Fight,|4||Human Entertainment|Human Entertainment|1989
-78645A|Fire Pro Wrestling 2 - 2nd Bout|Fire Pro Wrestling 2 - 2nd Bout|Fire Pro Wrestling - 2nd Bout|Fight,Sports,|4||Human|Human|1991
-78646A|Fire Pro Wrestling 3 - Legend Bout|Fire Pro Wrestling 3 - Legend Bout||Fight,Sports,|4||Human|Human|1992
-125933|Fire Tag|Fire Tag|||||||
-125934|Flipit|Flipit|||||||
+78647A|Fire Pro Wrestling - Combination Tag|Fire Pro Wrestling - Combination Tag||Sports,Fight,|4|Coop|Human Entertainment|Human Entertainment|1989
+78645A|Fire Pro Wrestling 2 - 2nd Bout|Fire Pro Wrestling 2 - 2nd Bout|Fire Pro Wrestling - 2nd Bout|Fight,Sports,|4|Coop|Human|Human|1991
+78646A|Fire Pro Wrestling 3 - Legend Bout|Fire Pro Wrestling 3 - Legend Bout||Fight,Sports,|4|Coop|Human|Human|1992
+125933|Fire Tag|Fire Tag||Platform,|||||
+125934|Flipit|Flipit||Puzzle,,|||||
 78648A|Formation Armed F|Formation Armed F|Armed Formation F|Shoot'em Up,|2||Manjyudo|Pack-In-Video|1990
-78649A|Formation Soccer - Human Cup '90|Formation Soccer - Human Cup '90||Sports,|2||Human Entertainment|Human Entertainment|1990
-78650A|Formation Soccer - On J. League|Formation Soccer - On J. League|Formation Soccer on J. League|Sports,|2||Human Entertainment|Human Entertainment|1994
-125939|French Staff|French Staff|||||||
-125940|Frothigu|Frothigu|||||||
+78649A|Formation Soccer - Human Cup '90|Formation Soccer - Human Cup '90||Sports,|4|Coop|Human Entertainment|Human Entertainment|1990
+78650A|Formation Soccer - On J. League|Formation Soccer - On J. League|Formation Soccer on J. League|Sports,|4|Coop|Human Entertainment|Human Entertainment|1994
+125939|French Staff|French Staff||Platform,|||||
+125940|Frothigu|Frothigu||Platform,|||||
 78651A|Fushigi No Yume No Alice|Fushigi no Yume no Alice||Platform,Action,|1||FACE|FACE|1990
-125941|G And w-fire|G And w-fire|||||||
+125941|G And w-fire|G And w-fire||Platform,|||||
 78653A|Gai Flame|Gai Flame||Strategy,|1||Masaya|NCS|1990
 78652A|Gaia No Monshou|Gaia no Monshou||Strategy,|2||NCS Corporation|NCS Corporation|1988
 14510A|Galaga '90|Galaga '90||Shoot'em Up,Action,|1||Namco|NEC Technologies, Inc.|1988
-125948|Game Of Life|Game Of Life|||||||
+125948|Game Of Life|Game Of Life||Puzzle,,|||||
 78656A|Ganbare! Golf Boys|Ganbare! Golf Boys|Ganbare Golf Boys|Sports / Golf,Sports,|4||NCS Corporation|NCS Corporation|1989
-78657A|Gekibo - Gekisha Boy|Gekibo : Gekisha Boy||Action,|1||Tomcat System|Irem|1992
+78657A|Gekibo - Gekisha Boy|Gekibo : Gekisha Boy||Action,Shooter,|1||Tomcat System|Irem|1992
 78658A|Genji Tsuushin Agedama|Genji Tsuushin Agedama||Platform,Action,|1||NEC Corporation|NEC Corporation|1991
-189146|Genpei Toumaden|Genpei Toumaden||Action|1||Namco Limited|Namco Limited|1990
-59798A|Ghost Manor|Ghost Manor||Action|||ICOM Simulations|Turbo Technologies, Inc.|1992
+189146|Genpei Toumaden|Genpei Toumaden||Action,Beat'em Up,Platformer,|1||Namco Limited|Namco Limited|1990
+59798A|Ghost Manor|Ghost Manor||Action,Platformer,|||ICOM Simulations|Turbo Technologies, Inc.|1992
 78661A|Gokuraku! Chuuka Taisen|Gokuraku! Chuuka Taisen||Shoot'em Up,|1||Daiei Seisakusho|Taito|1992
-125954|Goldmage|Goldmage|||||||
-78662A|Gomola Speed|Gomola Speed||Action,Arcade|1||UPL|UPL|1990
+125954|Goldmage|Goldmage||Demo,RPG,|||||
+78662A|Gomola Speed|Gomola Speed||Action,Puzzle,|1||UPL|UPL|1990
 59799A|Gradius|Gradius||Shoot'em Up,Action,|2||Konami|Konami|1991
 14590A|Gunboat|Gunboat||Simulation,|||Accolade|Accolade|1992
 78664A|Hana Taaka Daka!|Hana Taaka Daka!|Hana Taka Daka!|Shoot'em Up,|1||Taito|Taito|1991
 78666A|Hanii In The Sky|Hanii in the Sky||Action,Shoot'em Up,|1||FACE|FACE|1989
-78665A|Hanii On The Road|Hanii on the Road||Action,|2||FACE|FACE|1990
+78665A|Hanii On The Road|Hanii on the Road||Action,Platform,|2|Coop|FACE|FACE|1990
 59801A|Hatris|Hatris||Puzzle-Game,|1||Micro Cabin|Micro Cabin|1991
 59802A|Heavy Unit|Heavy Unit||Shoot'em Up,Action,|1||Inter State|Taito|1989
 78667A|Hisou Kihei - Xserd|Hisou Kihei - Xserd|Hisou Kihei X Serd|Strategy,|1||NCS Corporation|NCS Corporation|1990
-78668A|Hit The Ice - Vhl The Official Video Hockey League|Hit the Ice - VHL the Official Video Hockey League|Hit the Ice - VHL - The Video Hockey League|Action,Sports / Hockey,Sports,|2||Taito|Taito|1991
-78669A|Honoo No Toukyuuji Dodge Danpei|Honoo no Toukyuuji Dodge Danpei||Sports,|||Aim Software|Hudson|1992
-125968|Hucnoid|Hucnoid|||||||
+78668A|Hit The Ice - Vhl The Official Video Hockey League|Hit the Ice - VHL the Official Video Hockey League|Hit the Ice - VHL - The Video Hockey League|Action,Sports / Hockey,Sports,|2|Coop|Taito|Taito|1991
+78669A|Honoo No Toukyuuji Dodge Danpei|Honoo no Toukyuuji Dodge Danpei||Sports,|2|Coop|Aim Software|Hudson|1992
+125968|Hucnoid|Hucnoid||Breakout,|||||
 78670A|Idol Hanafuda Fan Club|Idol Hanafuda Fan Club||Asiatic board game,|1||Games Express|Games Express|1991
 59803A|Image Fight|Image Fight||Shoot'em Up,Action,|1||Irem|Irem|1990
 14604A|Impossamole|Impossamole||Action,Platform,|1||Nec Interchannel|Core Design|1991
-78671A|J. League Greatest Eleven|J. League Greatest Eleven||Sports,|||Cream|Nichibutsu|1993
+78671A|J. League Greatest Eleven|J. League Greatest Eleven||Sports,|2|Coop|Cream|Nichibutsu|1993
 78672A|Kato-chan And Ken-chan|J.J. & Jeff||Platform,Action,|1||Hudson|Nec Interchannel|1987
-78673A|Jack Nicklaus' Turbo Golf|Jack Nicklaus' Turbo Golf||Sports,Sports / Golf,|4||Sculptured Software|Accolade|1989
+78673A|Jack Nicklaus' Turbo Golf|Jack Nicklaus' Turbo Golf||Sports,Sports / Golf,|4|Coop|Sculptured Software|Accolade|1989
 78675A|Jackie Chan's Action Kung Fu|Jackie Chan's Action Kung Fu||Action,Platform,|1||Hudson|Hudson|1991
-125972|Jamanoid|Jamanoid|Paranoia|,Shooter|||||
-78676A|Jigoku Meguri|Jigoku Meguri||Action|1||Taito|Taito|1990
+125972|Jamanoid|Jamanoid|Paranoia|Breakout,|||||
+78676A|Jigoku Meguri|Jigoku Meguri||Action,Platformer,|1||Taito|Taito|1990
 78677A|Jinmu Denshou|Jinmu Denshou||Shoot'em Up,|||Big Club|Wolf Team|1989
-78679A|Kaizou Choujin Shubibinman|Kaizou Choujin Shubibinman||Action,Platform,|2||Masaya|Masaya|1989
+78679A|Kaizou Choujin Shubibinman|Kaizou Choujin Shubibinman||Action,Platform,|2|Coop|Masaya|Masaya|1989
 78682A|Kattobi! Takuhai Kun|Kattobi! Takuhai Kun|Kattobi! Takuhaikun|Action,Adventure|||Advance Communication Company|Tonkin House|1990
 78683A|Keith Courage In Alpha Zones|Keith Courage in Alpha Zones||Action,Platform,Adventure,|1||Hudson|NEC Home Electronics (U.S.A.) Inc.|1988
-59804A|Kickball|KickBall|Kick Ball|Sports,|||Dual|NCS|1990
+59804A|Kickball|KickBall|Kick Ball|Sports,||Coop|Dual|NCS|1990
 78684A|Kiki Kai Kai|Kiki Kai Kai|Kiki Kaikai|Shoot'em Up,|1||Taito|Taito|1990
-59805A|King Of Casino|King of Casino||Casino,|5||NEC|NEC|1990
+59805A|King Of Casino|King of Casino||Casino,|5|Coop|NEC|NEC|1990
 59807A|Klax|Klax||Puzzle-Game,Strategy,|1||Atari|Tengen|1990
 78685A|Knight Rider Special|Knight Rider Special||Race, Driving,|1||Pack-In-Video|Pack-In-Video|1989
-78686A|Kore Ga Pro Yakyuu '89|Kore ga Pro Yakyuu '89||Sports,Sports / Baseball,|||TOSE|Intec|1989
-78687A|Kore Ga Pro Yakyuu '90|Kore ga Pro Yakyuu '90||Sports,Sports / Baseball,|||TOSE|Intec|1990
-125985|Krunch|Krunch|||||||
+78686A|Kore Ga Pro Yakyuu '89|Kore ga Pro Yakyuu '89||Sports,Sports / Baseball,|2|Coop|TOSE|Intec|1989
+78687A|Kore Ga Pro Yakyuu '90|Kore ga Pro Yakyuu '90||Sports,Sports / Baseball,|2|Coop|TOSE|Intec|1990
+125985|Krunch|Krunch||Action,Arcade,,|||||
 78689A|Kyuukyoku Mahjong - Idol Graphics|Kyuukyoku Mahjong - Idol Graphics|Kyuukyoku Mahjong Idol Graphic|Strategy,|1||Games Express|Games Express|1992
-78688A|Kyuukyoku Mahjong 2|Kyuukyoku Mahjong II|||||Games Express|Games Express|
+78688A|Kyuukyoku Mahjong 2|Kyuukyoku Mahjong II||Action,Platform,,|1||Games Express|Games Express|1993
 78690A|Kyuukyoku Tiger|Kyuukyoku Tiger||Shoot'em Up,|1||Toaplan|Taito|1989
 59809A|Lady Sword|Lady Sword||Role playing games,|1||Hacker International|Games Express|1992
 14583A|Legend Of Hero Tonma|Legend of Hero Tonma||Action,Platform,|2||Irem|Irem|1991
-125988|Link Collision|Link Collision|||||||
-59808A|Lode Runner - Lost Labyrinth|Lode Runner - Lost Labyrinth||Action,Arcade|1||Broderbund|Pack-In-Video|1990
-78701A|Maerchen Maze|Maerchen Maze|Marchen Maze|Action,Shooter|1||Nihon System|Namco|1990
+125988|Link Collision|Link Collision||RPG,Demo,|||||
+59808A|Lode Runner - Lost Labyrinth|Lode Runner - Lost Labyrinth||Action,Arcade,|1||Broderbund|Pack-In-Video|1990
+78701A|Maerchen Maze|Maerchen Maze|Marchen Maze|Action,Arcade,Shooter,,|1||Nihon System|Namco|1990
 59810A|Magical Chase|Magical Chase||Shoot'em Up,|1||Quest|NEC|1991
-78692A|Mahjong Gakuen - Touma Soushirou Toujou|Mahjong Gakuen - Touma Soushirou Toujou|Mahjong Gakuen - Toumasou Shirou Toujou|Mahjong,Asiatic board game,|||Sankindo|FACE|1989
+78692A|Mahjong Gakuen - Touma Soushirou Toujou|Mahjong Gakuen - Touma Soushirou Toujou|Mahjong Gakuen - Toumasou Shirou Toujou|Mahjong,Asiatic board game,|1||Sankindo|FACE|1989
 78691A|Mahjong Gakuen Mild - Touma Soushirou Toujou|Mahjong Gakuen Mild - Touma Soushirou Toujou|Mahjong Gakuen Mild - Touma Soujirou Toujou|Strategy,|1||Sankindo|FACE|1990
 78693A|Mahjong Gokuu Special|Mahjong Gokuu Special||Asiatic board game,|||Sunsoft|Sunsoft|1990
-78694A|Mahjong Haou Den - Kaiser's Quest|Mahjong Haou Den - Kaiser's Quest|Mahjong Haouden - Kaiser's Quest|,Mahjong|||UPL|UPL|1992
-78695A|Mahjong Shikyaku Retsuden - Mahjong Wars|Mahjong Shikyaku Retsuden - Mahjong Wars||Asiatic board game,|||Nihon Bussan|Nihon Bussan|1990
+78694A|Mahjong Haou Den - Kaiser's Quest|Mahjong Haou Den - Kaiser's Quest|Mahjong Haouden - Kaiser's Quest|Strategy,|2||UPL|UPL|1992
+78695A|Mahjong Shikyaku Retsuden - Mahjong Wars|Mahjong Shikyaku Retsuden - Mahjong Wars||Asiatic board game,|1||Nihon Bussan|Nihon Bussan|1990
 59811A|Maison Ikkoku|Maison Ikkoku||Adventure,|1||Micro Cabin|Micro Cabin|1989
 78697A|Makai Hakken Den Shada|Makai Hakken Den Shada|Makai Hakkenden Shada|Action,Role playing games,|1||Data East Corporation|Data East Corporation|1989
 78698A|Makai Prince Dorabocchan|Makai Prince Dorabocchan||Action,Platform,|1||Red Company|Naxat Soft|1990
 78700A|Maniac Pro Wres - Asu E No Tatakai|Maniac Pro Wres - Asu e no Tatakai||Sports,Fight,|2||Hudson|Hudson|1990
-126000|Mario Remix|Mario Remix|||||||
+126000|Mario Remix|Mario Remix||Platform,|||||
 126001|Mechanized Assault Unit - Valkrye|Mechanized Assault Unit - Valkrye|||||||
 59812A|Metal Stoker|Metal Stoker||Shoot'em Up,|1||Sankindo|FACE|1991
-14554A|Military Madness|Military Madness||Strategy,|2||Hudson|NEC Technologies, Inc.|1989
+14554A|Military Madness|Military Madness||Strategy,|2|Coop|Hudson|NEC Technologies, Inc.|1989
 78703A|Mizubaku Dai Bouken|Mizubaku Dai Bouken|Mizubaku Daibouken|Action,Platform,|1||Taito|Taito|1992
-78704A|Momotarou Densetsu Gaiden Dai 1 Shuu|Momotarou Densetsu Gaiden Dai 1 Shuu|Momotarou Densetsu Gaiden - Dai 1 Shuu|Adventure,Role playing games,|||Hudson|Hudson|1992
+78704A|Momotarou Densetsu Gaiden Dai 1 Shuu|Momotarou Densetsu Gaiden Dai 1 Shuu|Momotarou Densetsu Gaiden - Dai 1 Shuu|Adventure,Role playing games,|1||Hudson|Hudson|1992
 78705A|Momotarou Densetsu 2|Momotarou Densetsu II||Adventure,Role playing games,|||Hudson|Hudson|1990
 78706A|Momotarou Densetsu Turbo|Momotarou Densetsu Turbo||Adventure,Role playing games,|1||Hudson|Hudson|1990
 78707A|Momotarou Katsugeki|Momotarou Katsugeki||Action,Platform,|1||Hudson|Hudson|1990
-78814A|Monster Pro Wrestling|Monster Pro Wrestling||Fight,|1||Lenar|Ask|1991
-78709A|Morita Shougi Pc|Morita Shougi PC||Board game,|||Random House|Nec Interchannel|1991
-14529A|Moto Roader|Moto Roader|Moto Roader II|Race, Driving,Action,|5||NCS Corporation|NEC Home Electronics (U.S.A.) Inc.|1989
-59813A|Moto Roader 2|Moto Roader II||Race, Driving,|||NCS|NCS|1991
+78814A|Monster Pro Wrestling|Monster Pro Wrestling||Fight,|2|Coop|Lenar|Ask|1991
+78709A|Morita Shougi Pc|Morita Shougi PC||Board game,|1||Random House|Nec Interchannel|1991
+14529A|Moto Roader|Moto Roader|Moto Roader II|Race, Driving,Action,|5|Coop|NCS Corporation|NEC Home Electronics (U.S.A.) Inc.|1989
+59813A|Moto Roader 2|Moto Roader II||Race, Driving,|1|Coop|NCS|NCS|1991
 14537A|Mr. Heli|Mr. Heli|Mr. Heli no Daibouken|Shoot'em Up,Action,|1||Irem|Irem|1989
-126015|Muchie|Muchie|||||||
-152282|Nantettatte Engine|Nantettatte Engine|||||Aetherbyte|Aetherbyte|2017
-78712A|Naxat Open|Naxat Open||Simulation,Sports,Sports / Golf,|1||Naxat Soft|Naxat Soft|1989
-78713A|Naxat Stadium|Naxat Stadium||Sports,Sports / Baseball,|2||Sting|Naxat Soft|1990
-78714A|Nazo No Mascarade|Nazo no Mascarade|Nazo no Masquerade|Adventure,|||Riverhillsoft|NCS|1990
+126015|Muchie|Muchie||Demo,|||||
+152282|Nantettatte Engine|Nantettatte Engine||Shoot'em Up,|||Aetherbyte|Aetherbyte|2017
+78712A|Naxat Open|Naxat Open||Simulation,Sports,Sports / Golf,|4|Coop|Naxat Soft|Naxat Soft|1989
+78713A|Naxat Stadium|Naxat Stadium||Sports,Sports / Baseball,|2|Coop|Sting|Naxat Soft|1990
+78714A|Nazo No Mascarade|Nazo no Mascarade|Nazo no Masquerade|Adventure,|1||Riverhillsoft|NCS|1990
 59814A|Necromancer|Necromancer||Role playing games,|1||Hudson|Hudson|1988
 78715A|Necros No Yousai|Necros no Yousai||Role playing games,|1||Adventure Planning Service|Ask|1990
-78717A|Nekketsu Koukou Dodgeball Bu - Soccer Pc Hen|Nekketsu Koukou Dodgeball Bu - Soccer PC Hen|Nekketsu Koukou Dodgeball Bu PC Soccer Hen|Sports,|2||Kid|Naxat Soft|1992
-78716A|Nekketsu Koukou Dodgeball-bu - Pc Bangai Hen|Nekketsu Koukou Dodgeball-bu - PC Bangai Hen|Nekketsu Koukou Dodgeball Bu PC Bangai Hen|Sports,|2||Kid|Naxat Soft|1990
+78717A|Nekketsu Koukou Dodgeball Bu - Soccer Pc Hen|Nekketsu Koukou Dodgeball Bu - Soccer PC Hen|Nekketsu Koukou Dodgeball Bu PC Soccer Hen|Sports,|4|Coop|Kid|Naxat Soft|1992
+78716A|Nekketsu Koukou Dodgeball-bu - Pc Bangai Hen|Nekketsu Koukou Dodgeball-bu - PC Bangai Hen|Nekketsu Koukou Dodgeball Bu PC Bangai Hen|Sports,|2|Coop|Kid|Naxat Soft|1990
 14568A|Neutopia|Neutopia|Neutopia II|Action,Adventure,|1||Hudson|NEC Technologies, Inc.|1989
 14552A|Neutopia 2|Neutopia II||Adventure,Action,|1||Hudson|Hudson|1991
 14555A|New Adventure Island|New Adventure Island||Action,Platform,|1||Hudson|Hudson|1992
-78719A|Nhk Taiga Drama - Taiheiki|NHK Taiga Drama - Taiheiki|NHK Taiga Drama Taiheiki|Strategy,|||NHK|NHK|1992
+78719A|Nhk Taiga Drama - Taiheiki|NHK Taiga Drama - Taiheiki|NHK Taiga Drama Taiheiki|Strategy,|1||NHK|NHK|1992
 59816A|Night Creatures|Night Creatures||Action,Adventure,|1||Manley and Associates Inc.|Nec Interchannel|1991
 78720A|Niko Niko Pun|Niko Niko Pun||Platform,|1||ISCO|NHK|1991
 14500A|Ninja Gaiden|Ninja Gaiden|Benkei Gaiden|Action,Platform,|1||Tecmo|Hudson|1992
-14512A|Ninja Spirit|Ninja Spirit||Action|2||Irem|Irem|1990
+14512A|Ninja Spirit|Ninja Spirit||Action,Beat'em Up,Platformer,Shooter,|2||Irem|Irem|1990
 78723A|Obocchama Kun|Obocchama Kun|Obocchamakun|Action,Platform,|1||Pack-In-Video|Namco|1991
-14535A|Operation Wolf|Operation Wolf||Shooter,Action,|1||Taito|NEC Avenue, Ltd.|1990
+14535A|Operation Wolf|Operation Wolf||Shooter,Action,|2|Coop|Taito|NEC Avenue, Ltd.|1990
 59817A|Order Of The Griffon|Order of the Griffon||Adventure,Role playing games,|1||Westwood Associates|Turbo Technologies, Inc.|1992
-78724A|Ordyne|Ordyne||Shoot'em Up,Action,|2||Namco|NEC Technologies, Inc.|1989
+78724A|Ordyne|Ordyne||Shoot'em Up,Action,|2|Coop|Namco|NEC Technologies, Inc.|1989
 78725A|Out Live|Out Live|Out Live - It's Far a Future on Planet|Role playing games,|2||Sunsoft|Sunsoft|1989
 14519A|Out Run|Out Run|OutRun|Race, Driving,|1||NEC|Sega|1990
 78727A|Override|Override|Override - Mission Code -Override-|Shoot'em Up,|1||Sting|Data East|1991
 78728A|P-47 - The Freedom Fighter|P-47 - The Freedom Fighter||Shoot'em Up,|1||NMK|Aicom|1989
 14495A|Pac-land|Pac-Land||Action,Platform,|2||Namco|NEC Technologies, Inc.|1989
 78737A|Pachi-slot Pc - Idol Gambler|Pachi-Slot PC: Idol Gambler||Casino,|1||Games Express|Games Express|1992
-78729A|Pachiokun - Juban Shobu|Pachiokun: Juban Shobu||Casino,|||Coconuts Japan|Coconuts Japan|1992
-78731A|Parasol Stars - The Story Of Bubble Bobble 3|Parasol Stars : The Story of Bubble Bobble III||Platform,Action,|2||Taito Corporation|Working Designs|1991
+78729A|Pachiokun - Juban Shobu|Pachiokun: Juban Shobu||Casino,|1||Coconuts Japan|Coconuts Japan|1992
+78731A|Parasol Stars - The Story Of Bubble Bobble 3|Parasol Stars : The Story of Bubble Bobble III||Platform,Action,|2|Coop|Taito Corporation|Working Designs|1991
 78732A|Parodius Da! - Shinwa Kara Owarai He|Parodius da! - Shinwa Kara Owarai he||Shoot'em Up,|2||Konami|Konami|1992
-109024|Pce Invaders V1.0 By Zeograd|Pce Invaders V1.0 By Zeograd|||||Zeograd|Zeograd|2000
-126043|Perso|Perso|||||||
-126049|Pong! The Hu-go! Game|Pong! The Hu-go! Game|||||||
+109024|Pce Invaders V1.0 By Zeograd|Pce Invaders V1.0 By Zeograd||Shoot'em Up,|||Zeograd|Zeograd|2000
+126043|Perso|Perso||Demo,|||||
+126049|Pong! The Hu-go! Game|Pong! The Hu-go! Game||Action,Arcade,|||||
 14501A|Populous|Populous||Strategy,|1||Bullfrog|Hudson|1991
 14603A|Power Drift|Power Drift||Race, Driving,|1||Asmik Ace Entertainment, Inc.|Sega|1990
 59819A|Power Eleven|Power Eleven||Sports / Soccer,Sports,|2||West One|Hudson|1991
 78738A|Power Gate|Power Gate||Shoot'em Up,|1||Make|Pack-In-Video|1991
-14567A|Power Golf|Power Golf||Sports,Sports / Golf,|3||Hudson|Hudson|1989
-78740A|Power League '93|Power League '93||Sports,Sports / Baseball,|2||Hudson|Hudson|1993
-78741A|Power League 2|Power League II||Sports,|2||Hudson|Hudson|1989
-78742A|Power League 3|Power League III|Power League '93|Sports,Sports / Baseball,|||Hudson|Hudson|1990
-78743A|Power League Iv 4|Power League IV|Power League '93|Sports,Sports / Baseball,|2||Hudson|Hudson|1991
-78744A|Power League 5|Power League V|Power League '93|Sports,Sports / Baseball,|||Hudson|Hudson|1992
-78746A|Power Tennis|Power Tennis||Sports,Sports / Tennis,|4||Now Production|Hudson|1993
-78748A|Pro Yakyuu World Stadium|Pro Yakyuu World Stadium|Pro Yakyuu World Stadium '91|Sports,Sports / Baseball,|2||Namco|Namco|1988
-78749A|Pro Yakyuu World Stadium '91|Pro Yakyuu World Stadium '91||Sports,Sports / Baseball,|||Namco|Namco|1991
+14567A|Power Golf|Power Golf||Sports,Sports / Golf,|3|Coop|Hudson|Hudson|1989
+78740A|Power League '93|Power League '93||Sports,Sports / Baseball,|4|Coop|Hudson|Hudson|1993
+78741A|Power League 2|Power League II||Sports,|2|Coop|Hudson|Hudson|1989
+78742A|Power League 3|Power League III|Power League '93|Sports,Sports / Baseball,|4|Coop|Hudson|Hudson|1990
+78743A|Power League Iv 4|Power League IV|Power League '93|Sports,Sports / Baseball,|4|Coop|Hudson|Hudson|1991
+78744A|Power League 5|Power League V|Power League '93|Sports,Sports / Baseball,|4|Coop|Hudson|Hudson|1992
+78746A|Power Tennis|Power Tennis||Sports,Sports / Tennis,|4|Coop|Now Production|Hudson|1993
+78748A|Pro Yakyuu World Stadium|Pro Yakyuu World Stadium|Pro Yakyuu World Stadium '91|Sports,Sports / Baseball,|2|Coop|Namco|Namco|1988
+78749A|Pro Yakyuu World Stadium '91|Pro Yakyuu World Stadium '91||Sports,Sports / Baseball,|2|Coop|Namco|Namco|1991
 78750A|Psycho Chaser|Psycho Chaser||Shoot'em Up,Action,|1||Sting, Inc.|Naxat Soft|1990
 141201|Paranoia|Psychosis||Action,Shoot'em Up,|1||Naxat Soft|Nec Interchannel|1990
-59820A|Puzzle Boy|Puzzle Boy||Puzzle-Game,|2||Atlus|Nippon Telenet|1991
+59820A|Puzzle Boy|Puzzle Boy||Puzzle-Game,|2|Coop|Atlus|Nippon Telenet|1991
 14602A|Puzznic|Puzznic||Strategy,Puzzle-Game,|1||Taito|Taito|1990
 78751A|Quiz Toukou Shashin|Quiz Toukou Shashin||Quiz,|1||Games Express|Games Express|1992
 14553A|R-type|R-Type||Shoot'em Up,|1||Irem|NEC Home Electronics (U.S.A.) Inc.|1988
 78756A|R-type Part-2|R-Type Part-2||Shoot'em Up,Action,|1||Hudson|Hudson|1988
 78752A|Rabio Lepus Special|Rabio Lepus Special||Shoot'em Up,|1||Video System Co., Ltd.|Video System Co., Ltd.|1990
-78753A|Racing Damashii|Racing Damashii||Race, Driving,|2||Irem|Irem|1991
+78753A|Racing Damashii|Racing Damashii||Race, Driving,|2|Coop|Irem|Irem|1991
 14545A|Raiden|Raiden||Shoot'em Up,Action,|1||Seibu Kaihatsu|NEC Technologies, Inc.|1991
 14563A|Rastan Saga 2|Rastan Saga II||Action,Platform,|1||Taito|Taito|1990
 97395A|Reflectron|Reflectron||Action,|1||Andrew Darovich|Aetherbyte|2013
 78754A|Rock-on|Rock-On|Rock On|Shoot'em Up,|1||Manjyudo|Big Club|1989
-126073|RPG, The|RPG, The|||||||
+126073|RPG, The|RPG, The||RPG,Demo,|||||
 78757A|Ryuukyuu|Ryuukyuu||Puzzle-Game,|1||Sankindo|FACE|1990
-78758A|Sadakichi 7 Series - Hideyoshi No Ougon|Sadakichi 7 Series - Hideyoshi no Ougon|Sadakichi Nanaban Series Hideyoshi no Ougon|Adventure,|||Hudson|Hudson|1988
-14521A|Salamander|Salamander||Shoot'em Up,|2||Konami|Konami|1991
+78758A|Sadakichi 7 Series - Hideyoshi No Ougon|Sadakichi 7 Series - Hideyoshi no Ougon|Sadakichi Nanaban Series Hideyoshi no Ougon|Adventure,|1||Hudson|Hudson|1988
+14521A|Salamander|Salamander||Shoot'em Up,|2|Coop|Konami|Konami|1991
 14548A|Genpei Toumaden Ni No Maki|Samurai-Ghost||Platform,Action,|1||Bandai Namco|Bandai Namco|1990
 97396A|Santatlantean|Santatlantean||Shoot'em up / Horizontal,Shoot'em Up,|1||Andrew Darovich|Aetherbyte|2014
 78760A|Sekigahara|Sekigahara||Strategy,|1||Tonkin House|Tonkin House|1990
@@ -259,45 +259,45 @@
 59822A|Shanghai|Shanghai||Mahjong,Asiatic board game,Strategy,Puzzle-Game,|1||Hudson Soft|Hudson Soft|1987
 14469A|Shinobi|Shinobi||Action,Platform,|1||Asmik Ace Entertainment, Inc.|Sega|1989
 59823A|Shiryou Sensen|Shiryou Sensen||Action,Role playing games,|1||||1989
-14601A|Shockman|Shockman||Action,Platform,|2||Winds Co., Ltd.|NCS Corporation|1991
-78762A|Shougi Shodan Icchokusen|Shougi Shodan Icchokusen||Shougi,Asiatic board game,|1||Home Data|Home Data|1990
-78763A|Shougi Shoshinsha Muyou|Shougi Shoshinsha Muyou||Shougi,Asiatic board game,|||Home Data|Home Data|1991
+14601A|Shockman|Shockman||Action,Platform,|2|Coop|Winds Co., Ltd.|NCS Corporation|1991
+78762A|Shougi Shodan Icchokusen|Shougi Shodan Icchokusen||Shougi,Asiatic board game,|1|Coop|Home Data|Home Data|1990
+78763A|Shougi Shoshinsha Muyou|Shougi Shoshinsha Muyou||Shougi,Asiatic board game,|2|Coop|Home Data|Home Data|1991
 14591A|Side Arms Hyper Dyne|Side Arms Hyper Dyne|Side Arms - Hyper Dyne|Shoot'em Up,Action,|1||Capcom|Radiance Software|1989
 59828A|Silent Debuggers|Silent Debuggers||Shooter / 1st person,Action,|1||Data East|Nec Interchannel|1991
 78765A|Sindibad Chitei No Dai Makyuu|Sindibad Chitei no Dai Makyuu|Sindibad - Chitei no Daimakyuu|Role playing games,|1|||Information Global Service|1990
 78766A|Sinistron|Sinistron||Shoot'em Up,Action,|1||Information Global Service|NEC Technologies, Inc.|1990
 14513A|Skweek|Skweek||Strategy,Action,Puzzle-Game,|1||Loriciel SA|Victor Musical Industries, Inc.|1991
 14565A|Soldier Blade|Soldier Blade||Shoot'em Up,Action,|1||Hudson|Hudson|1992
-141206|Soldier Blade Special - Caravan Stage|Soldier Blade Special - Caravan Stage||Shooter,|1||||
-78768A|Somer Assault|Somer Assault||Action,Shooter|1||Atlus|Atlus|1991
+141206|Soldier Blade Special - Caravan Stage|Soldier Blade Special - Caravan Stage||Shooter,|1||||1992
+78768A|Somer Assault|Somer Assault||Action,Shooter,|1||Atlus|Atlus|1991
 14532A|Son Son 2|Son Son II||Platform,Adventure,|1||NEC Avenue|Capcom|1989
-78770A|Sonic Spike - World Championship Beach Volleyball|Sonic Spike : World Championship Beach Volleyball||Sports,Sports / Volleyball,|2||Information Global Service|Information Global Service|1990
+78770A|Sonic Spike - World Championship Beach Volleyball|Sonic Spike : World Championship Beach Volleyball||Sports,Sports / Volleyball,|4|Coop|Information Global Service|Information Global Service|1990
 14514A|Space Harrier|Space Harrier||Shoot'em Up,Action,|1||AM R&D Dept. #2|NEC Technologies, Inc.|1988
 78771A|Space Invaders - Fukkatsu No Hi|Space Invaders - Fukkatsu no Hi||Shoot'em Up,Action,|1||Taito|Taito|1990
 78772A|Special Criminal Investigation|Special Criminal Investigation|S.C.I. - Special Criminal Investigation|Race, Driving,Action,|1||Taito|Taito Corporation|1991
-78773A|Spin Pair|Spin Pair||Puzzle-Game,|2||Media Rings|Media Rings|1990
+78773A|Spin Pair|Spin Pair||Puzzle-Game,|2|Coop|Media Rings|Media Rings|1990
 78774A|Spiral Wave|Spiral Wave||Shooter,|1||Media Rings|Media Rings|1991
 78775A|Splatterhouse|Splatterhouse||Beat'em Up,Action,|1||Namco|NEC Technologies, Inc.|1990
 59827A|Stratego|Stratego||Board game,|1||Accolade|Victor Interactive Software|1992
-78776A|Street Fighter 2' - Champion Edition|Street Fighter II' - Champion Edition||Fight,Action,|2||Capcom|Nec Interchannel|1993
-59825A|Strip Fighter 2|Strip Fighter II||Fight,Action,|2||Games Express|Games Express|1993
-126142|Super Mario Bros|Super Mario Bros||,Platform|||||
+78776A|Street Fighter 2' - Champion Edition|Street Fighter II' - Champion Edition||Fight,Action,|2|Coop|Capcom|Nec Interchannel|1993
+59825A|Strip Fighter 2|Strip Fighter II||Fight,Action,|2|Coop|Games Express|Games Express|1993
+126142|Super Mario Bros|Super Mario Bros||Platform,|||||
 59824A|Super Metal Crusher|Super Metal Crusher||Strategy,|2||Make|Pack-In-Video|1991
-78778A|Super Momotarou Dentetsu|Super Momotarou Dentetsu|Super Momotarou Dentetsu II|Board game,|4||Hudson|Hudson|1989
-78779A|Super Momotarou Dentetsu 2|Super Momotarou Dentetsu II||Board game,|||Hudson|Hudson|1991
+78778A|Super Momotarou Dentetsu|Super Momotarou Dentetsu|Super Momotarou Dentetsu II|Board game,|4|Coop|Hudson|Hudson|1989
+78779A|Super Momotarou Dentetsu 2|Super Momotarou Dentetsu II||Board game,|5|Coop|Hudson|Hudson|1991
 14588A|Super Star Soldier|Super Star Soldier||Shoot'em Up,Action,|1||Inter State Software|Hudson|1990
-78780A|Super Volleyball|Super Volleyball|Super Volley Ball|Sports / Volleyball,Sports,|2||Video System Co., Ltd.|NEC Corporation|1990
+78780A|Super Volleyball|Super Volleyball|Super Volley Ball|Sports / Volleyball,Sports,|2|Coop|Video System Co., Ltd.|NEC Corporation|1990
 78781A|Susano O Densetsu|Susano O Densetsu|Susanoou Densetsu|Role playing games,|2||Alfa System|Hudson|1989
-78784A|Takeda Shingen|Takeda Shingen||Action,Fighter|1||Aicom|Aicom|1989
-59840A|Takin' It To The Hoop|Takin' It to the Hoop||Sports,Sports / Basketball,|||Aicom|NEC|1989
+78784A|Takeda Shingen|Takeda Shingen||Action,Beat'em Up,|1||Aicom|Aicom|1989
+59840A|Takin' It To The Hoop|Takin' It to the Hoop||Sports,Sports / Basketball,|1|Coop|Aicom|NEC|1989
 59849A|Talespin|TaleSpin||Platform,|1||Interactive Designs|NEC|1991
-125891|Tank|Tank|Klax|,Puzzle|||||
-78785A|Tatsu No Ko Fighter|Tatsu no Ko Fighter||Action,Platform,|||Advance Communication Company|Tonkin House|1989
+125891|Tank|Tank|Klax|Action,Shooter,,|||||
+78785A|Tatsu No Ko Fighter|Tatsu no Ko Fighter||Action,Platform,|1||Advance Communication Company|Tonkin House|1989
 59848A|Tatsujin|Tatsujin||Shoot'em Up,|1||Sting|Taito|1992
 78787A|Tenseiryuu - Saint Dragon|Tenseiryuu - Saint Dragon||Shoot'em Up,|1||NMK Co. Ltd.|Aicom Corporation|1990
 59847A|Terra Cresta 2 - Mandoraa No Gyakushuu|Terra Cresta II - Mandoraa no Gyakushuu||Shoot'em Up,|1||Nichibutsu|Nichibutsu|1992
-126097|Tetris|Tetris|Hatris|,Puzzle|||||
-14550A|Legendary Axe, The|The Legendary Axe||Action|1||Marvelous Interactive, Inc.|NEC Home Electronics (U.S.A.) Inc.|1988
+126097|Tetris|Tetris|Hatris|Puzzle,|||||
+14550A|Legendary Axe, The|The Legendary Axe||Action,Platform,|1||Marvelous Interactive, Inc.|NEC Home Electronics (U.S.A.) Inc.|1988
 14607A|Legendary Axe 2, The|The Legendary Axe II||Platform,Action,|1||Atlus|NEC Technologies, Inc.|1990
 59815A|New Zealand Story, The|The New Zealand Story||Action,Platform,|1||Taito|Taito|1990
 14488A|Ninja Warriors, The|The Ninja Warriors||Beat'em Up,|1||Taito|Taito|1989
@@ -307,16 +307,16 @@
 78791A|Time Cruise|Time Cruise|Time Cruise II|Pinball,Strategy,|1||FACE|NEC Corporation|1991
 125863|Blodia|Timeball||Puzzle-Game,|2||NEC Corporation|Hudson Soft|1990
 14509A|Titan|Titan||Strategy,Action / Breakout games,Action,|1||Naxat Soft|Titus|1991
-78792A|Toilet Kids|Toilet Kids||Shoot'em Up,Action,|2||Bits Laboratory|Media Rings|1992
-78794A|Toshi Tensou Keikaku - Eternal City|Toshi Tensou Keikaku - Eternal City||Action|1||Naxat Soft|Naxat Soft|1991
+78792A|Toilet Kids|Toilet Kids||Shoot'em Up,Action,|2|Coop|Bits Laboratory|Media Rings|1992
+78794A|Toshi Tensou Keikaku - Eternal City|Toshi Tensou Keikaku - Eternal City||Action,Platform,Shooter,,|1||Naxat Soft|Naxat Soft|1991
 78795A|Toy Shop Boys|Toy Shop Boys||Shoot'em Up,|2||Victor Musical Industries, Inc.|Victor Musical Industries, Inc.|1990
 78796A|Tricky Kick|Tricky Kick||Puzzle-Game,Strategy,|1||IGS Corp.|IGS Corp.|1990
-78797A|Tsuppari Oozumou - Heisei Ban|Tsuppari Oozumou - Heisei Ban|Tsuppari Oozumo - Heiseiban|Sports / Sumo,Sports,|||Naxat Soft|Naxat Soft|1993
-78798A|Tsuru Teruhito No Jissen Kabushiki Bai Bai Game|Tsuru Teruhito no Jissen Kabushiki Bai Bai Game||,Adventure|||TOSE|Intec|1989
+78797A|Tsuppari Oozumou - Heisei Ban|Tsuppari Oozumou - Heisei Ban|Tsuppari Oozumo - Heiseiban|Sports / Sumo,Sports,|2|Coop|Naxat Soft|Naxat Soft|1993
+78798A|Tsuru Teruhito No Jissen Kabushiki Bai Bai Game|Tsuru Teruhito no Jissen Kabushiki Bai Bai Game||Simulation,|||TOSE|Intec|1989
 14546A|Turrican|Turrican||Plateform / Shooter Scrolling,Platform,Action,|1||Rainbow Arts Software GmbH|Accolade|1991
-59844A|Tv Sports Basketball|TV Sports Basketball||Sports,Sports / Basketball,|5||Cinemaware|NEC|1991
-59843A|Tv Sports Football|TV Sports Football||Sports,Sports / Football,|5||Cinemaware|NEC|1990
-59841A|Tv Sports Hockey|TV Sports Hockey||Sports,Sports / Hockey,|5||Cinemaware|NEC|1991
+59844A|Tv Sports Basketball|TV Sports Basketball||Sports,Sports / Basketball,|5|Coop|Cinemaware|NEC|1991
+59843A|Tv Sports Football|TV Sports Football||Sports,Sports / Football,|5|Coop|Cinemaware|NEC|1990
+59841A|Tv Sports Hockey|TV Sports Hockey||Sports,Sports / Hockey,|5|Coop|Cinemaware|NEC|1991
 14479A|Valkyrie No Densetsu|Valkyrie no Densetsu||Adventure,Action,|1||Namco|Namco|1990
 78800A|Veigues - Tactical Gladiator|Veigues - Tactical Gladiator|Veigues Tactical Gladiator|Shoot'em Up,|1||Game Arts|NEC Corporation|1990
 14573A|Victory Run|Victory Run||Race, Driving,|1||Hudson|Hudson|1987
@@ -324,19 +324,19 @@
 14606A|Volfied|Volfied||Puzzle-Game,|1||Taito|Empire Interactive|1989
 78804A|W-ring - The Double Rings|W-Ring - The Double Rings|W Ring - The Double Rings|Shoot'em Up,|1||Naxat Soft|Naxat Soft|1990
 78801A|Wai Wai Mahjong - Yukaina Janyuu Tachi|Wai Wai Mahjong - Yukaina Janyuu Tachi|Wai Wai Mahjong - Yukai na Janyuutachi|Mahjong,Asiatic board game,|||Video System|Video System|1989
-78799A|Wallaby!! - Usagi No Kuni No Kangaroo Race|Wallaby!! - Usagi no Kuni no Kangaroo Race|Usagi no Kuni no Kangaroo Race Wallaby!!|Horses race,Sports with Animals,|||Tenky|NCS|1990
-59833A|Winning Shot|Winning Shot||Sports,Sports / Golf,|1||Data East|Data East|1989
+78799A|Wallaby!! - Usagi No Kuni No Kangaroo Race|Wallaby!! - Usagi no Kuni no Kangaroo Race|Usagi no Kuni no Kangaroo Race Wallaby!!|Horses race,Sports with Animals,|1||Tenky|NCS|1990
+59833A|Winning Shot|Winning Shot||Sports,Sports / Golf,|4|Coop|Data East|Data East|1989
 38336A|Wonder Boy In Monster Land|Wonder Boy in Monster Land||Platform,Action,Action / Adventure,|1||Westone Co., Ltd.|Hudson|1987
 14502A|Wonder Momo|Wonder Momo||Beat'em Up,|1||Namco|Namco|1989
 59835A|World Circuit|World Circuit||Race, Driving / Race,Race, Driving,|2||Game Studio|Namco|1991
-59836A|World Class Baseball|World Class Baseball||Sports,Sports / Baseball,|2||Hudson|Nec Interchannel|1988
-59837A|World Court Tennis|World Court Tennis||Sports,Sports / Tennis,|4||Namco|NEC|1988
-78802A|World Jockey|World Jockey||Horses race,Sports with Animals,|4||Namco|Namco|1991
-78803A|World Sports Competition|World Sports Competition||Sports,|5||Hudson|Hudson|1992
+59836A|World Class Baseball|World Class Baseball||Sports,Sports / Baseball,|2|Coop|Hudson|Nec Interchannel|1988
+59837A|World Court Tennis|World Court Tennis||Sports,Sports / Tennis,|4|Coop|Namco|NEC|1988
+78802A|World Jockey|World Jockey||Horses race,Sports with Animals,|4|Coop|Namco|Namco|1991
+78803A|World Sports Competition|World Sports Competition||Sports,|5|Coop|Hudson|Hudson|1992
 59831A|Xevious - Fardraut Densetsu|Xevious - Fardraut Densetsu||Shoot'em Up,|1||Compile|Namco|1990
-59830A|Yo' Bro|Yo, Bro||Action,Skateboarding|2||ICOM Simulations|NEC|1991
+59830A|Yo' Bro|Yo, Bro||Action,Sports,|2|Coop|ICOM Simulations|NEC|1991
 78805A|Youkai Douchuuki|Youkai Douchuuki||Action,Platform,|1||Namco|Namco|1988
-78806A|Yuu Yuu Jinsei - Victory Life|Yuu Yuu Jinsei - Victory Life||Board game,|||Hudson|Hudson|1988
-125889|Zelda|Zelda|||||||
-78807A|Zero 4 Champ|Zero 4 Champ||Race, Driving / Race,Race, Driving,|1||Media Rings Corporation|Media Rings Corporation|1991
+78806A|Yuu Yuu Jinsei - Victory Life|Yuu Yuu Jinsei - Victory Life||Board game,|1||Hudson|Hudson|1988
+125889|Zelda|Zelda||RPG,Demo,|||||
+78807A|Zero 4 Champ|Zero 4 Champ||Race, Driving / Race,Race, Driving,|1|Coop|Media Rings Corporation|Media Rings Corporation|1991
 78808A|Zipang|Zipang||Action,Puzzle-Game,|1||Arc System Works|Pack-In-Video|1990

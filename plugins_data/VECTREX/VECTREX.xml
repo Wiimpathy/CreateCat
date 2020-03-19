@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812050837" games="76"/>
+    <WiiTDB version="201812050837" games="76"/>
   <game name="3d Crazy Coaster">
     <id>58798A</id>
     <locale lang="EN">
@@ -95,6 +95,8 @@ Your mission is to navigate through the narrow and fast-moving passages of the f
     <id>109027</id>
     <locale lang="EN">
       <title>Magic 8 Ball</title>
+      <genre>Sports</genre>
+      <synopsis/>
     </locale>
     <publisher>Tumber, Christopher</publisher>
     <date year="2001" month="" day=""/>
@@ -222,6 +224,8 @@ You don't have to be a super-artist to use and enjoy Art Master. All you need is
     <id>109033</id>
     <locale lang="EN">
       <title>Battle Earth Terror Hazard</title>
+      <genre>Shooter</genre>
+      <synopsis/>
     </locale>
     <publisher>Parssinen, Manu</publisher>
     <date year="2000" month="" day=""/>
@@ -238,6 +242,8 @@ You don't have to be a super-artist to use and enjoy Art Master. All you need is
     <id>109029</id>
     <locale lang="EN">
       <title>Battle Earth Terror Hazard And Vecsports Boxing</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -247,6 +253,8 @@ You don't have to be a super-artist to use and enjoy Art Master. All you need is
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Bedlam">
     <id>58823A</id>
@@ -362,6 +370,8 @@ future groups begin firing at you! Added danger lurks when Evil Otto enters. He 
     <id>109023</id>
     <locale lang="EN">
       <title>Bubble Bobble</title>
+      <genre>Action,Arcade,Platform,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -371,13 +381,15 @@ future groups begin firing at you! Added danger lurks when Evil Otto enters. He 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Clean Sweep">
     <id>58831A</id>
     <locale lang="EN">
       <title>Clean Sweep</title>
       <synopsis>Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -610,6 +622,8 @@ HEADS-UP! And get ready for an exciting and demanding soccer tournament... compl
     <id>109034</id>
     <locale lang="EN">
       <title>Labyrinth</title>
+      <genre>Action,Shooter,</genre>
+      <synopsis/>
     </locale>
     <publisher>Salomon, Christopher</publisher>
     <date year="1998" month="" day=""/>
@@ -779,7 +793,7 @@ This game is rare, because most of the gamers didn't know about the offer, and a
       <genre>Demo</genre>
       <synopsis>Published by Public Domain in 1997, developed by Clay Cowgill.</synopsis>
     </locale>
-    <publisher>1997</publisher>
+    <publisher/>
     <rating type="NOTE" value="">
 		</rating>
     <input players="1">
@@ -852,8 +866,7 @@ The player controls a series of ground-level cannons and must use them to protec
   </game>
   <game name="Patriots By John Dondzila">
     <id>109112</id>
-    <locale lang="EN">
-      <title>Patriots</title>
+    <locale lang="EN"><title>Patriots</title>
 1996-01-01
       <genre>Shooter</genre>
       <synopsis>The player controls a series of ground-level cannons and must use them to protect six bases which have no defenses. Waves of missiles will descend on a course to take out both the player's cannons and bases. The farther along the waves get, the more missiles will attack simultaneously in addition to descending at a faster rate. To create even more difficulty, later in each wave, there will both be ships that fly over and release more missiles and smart bombs will fall from the sky. The ships' missiles acts just as the common missiles; however, the smart bombs will pick a target and avoid the player's cannon fire. These smart bombs will stop and even rise to avoid the player's fire. If an enemy successfully destroys a cannon, the player will lose the ability to fire from that cannon for the remainder of that wave. If all bases are destroyed, the game will be over. </synopsis>
@@ -868,7 +881,6 @@ The player controls a series of ground-level cannons and must use them to protec
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
-
   </game>
   <game name="Patriots Remix By John Dondzila">
     <id>108927</id>
@@ -928,7 +940,7 @@ The player controls a series of ground-level cannons and must use them to protec
       <title>Polar Rescue</title>
       <synopsis>Journey to the icy waters beneath the North Pole. As commander of a powerful and highly maneuverable submarine, you must rescue the survivors of an ill-fated expedition.
 Seek out the survivors on your sonar screen and pilot your sub to their rescue! To complete your mission, you must avoid deadly mine fields, enemy submarines and the terror of the maelstrom! Monitor your oxygen supply carefully and hurry! Lives are at stake!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1278,7 +1290,7 @@ Un rendu 3D assez novateur pour ce qui est sans doute l'un des meilleurs jeux de
     <id>109116</id>
     <locale lang="EN">
       <title>Spike Hoppin'</title>
-      <genre>Action</genre>
+      <genre>Action,Platformer,Puzzle</genre>
       <synopsis>Spike Hoppin' is a clone of the game Q*Bert, where the player must jump on all areas of a structure to make them the same color in order to advance to the next level. (With the Vectrex not being in color though, in this case, the player needs to make all the areas [which are represented by triangles] on a playfield either brighter or darker, depending on what the current level's requirement is.) 
 
 Several enemies with various mannerisms will attempt Spike's downfall, although a few items can help Spike out as well during a game. 
@@ -1512,6 +1524,7 @@ Early work on a Star Wars based conversion.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Tour De France">
     <id>58966A</id>
@@ -1583,15 +1596,19 @@ Early work on a Star Wars based conversion.</synopsis>
     <id>109121</id>
     <locale lang="EN">
       <title>Vaboom! By Ronen Habot</title>
+      <genre>Action,Arcade</genre>
+      <synopsis>Like with Kaboom!, it is the player's job to catch all of the bombs "the man" (as he is called in this version) at the top of the screen drops down with a set of paddles. Unlike with Kaboom! though, the game starts off faster, and if the player misses a bomb, the action keeps right on going, with a paddle being lost, unlike how it will stop with the original before starting over at the previous round. But like the original though, the game will pause in between every successful round. If the player loses all of their paddles the game will end. </synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="2000"/>
+    <publisher/>
   </game>
   <game name="Vecmania Part 1">
     <id>109122</id>
@@ -1654,7 +1671,7 @@ The games can be scrolled through at the main menu by moving the joystick or D-p
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
-      <developer>Manu</developer>
+    <developer>Manu</developer>
   </game>
   <game name="Vectopia By John Dondzila">
     <id>109125</id>
@@ -1829,6 +1846,8 @@ Verzerk is a hack of Berzerk, adding speech this time around, with a robotic voi
     <id>109133</id>
     <locale lang="EN">
       <title>Vexperience - B.e.t.h. And Vecsports Boxing By Manu</title>
+      <genre>Compilation</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1838,11 +1857,15 @@ Verzerk is a hack of Berzerk, adding speech this time around, with a robotic voi
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="We Wish You A Merry Christmas By J. Woolsey">
     <id>109135</id>
     <locale lang="EN">
       <title>We Wish You A Merry Christmas By J. Woolsey</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1852,6 +1875,8 @@ Verzerk is a hack of Berzerk, adding speech this time around, with a robotic voi
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Web Wars">
     <id>58994A</id>

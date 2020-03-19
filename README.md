@@ -28,7 +28,7 @@ You can modify the options in the scripts.
 
 createcat.exe Path Option
 
-### Path
+### File
 
 The path to the WiiFlow .db file.
 

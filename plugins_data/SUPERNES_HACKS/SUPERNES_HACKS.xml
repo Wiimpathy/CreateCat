@@ -1,0 +1,2859 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+	<WiiTDB version="202001211409" games="178"/>
+	<game name="3000 Leagues In Search Of Bowser">
+		<id>123571</id>
+	<locale lang="EN">
+	<title>3000 Leagues In Search Of Bowser</title>
+	<synopsis>3000 Leagues in Search of Bowser is a hack originally created by Shimeji. Also included is a version that translates the Touhou version of the hack. All the levels have been changed, music has been changed, and also the graphics have been redone for most of the game.</synopsis>
+	</locale>
+	<locale lang="ES">
+	<synopsis>3000 Leagues in Search of Bowser es un hack creado originalmente por Shimeji. También se incluye una versión que traduce la versión de Touhou del hack. Todos los niveles han sido cambiados, la música ha cambiado, y también los gráficos han sido rehechos durante la mayor parte del juego.</synopsis>
+	</locale>
+	<locale lang="FR">
+	<synopsis>3000 Leagues in Search of Bowser est un hack créé à l'origine par Shimeji. Une traduction de la version Touhou du hack est également incluse. Tous les niveaux ont été changés, la musique a été changée, et les graphismes ont été refaits pour la majorité du jeu.</synopsis>
+	</locale>
+		<developer>Shimeji</developer>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="5 Orbs">
+		<id>190889</id>
+	<locale lang="EN">
+	<title>5 Orbs</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Alex Kidd Mario World">
+		<id>192742</id>
+	<locale lang="EN">
+	<title>Alex Kidd Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Archie 2 K's World">
+		<id>154007</id>
+	<locale lang="EN">
+	<title>Archie 2 K's World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Banzai Mario World">
+		<id>190801</id>
+	<locale lang="EN">
+	<title>Banzai Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Basic Land Demo 1">
+		<id>154008</id>
+	<locale lang="EN">
+	<title>Basic Land Demo 1</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Beginning Of Mithareio, The">
+		<id>154009</id>
+	<locale lang="EN">
+	<title>The Beginning Of Mithareio</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Bowser's Revenge">
+		<id>154010</id>
+	<locale lang="EN">
+	<title>Bowser's Revenge</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Brutal Mario">
+		<id>124690</id>
+	<locale lang="EN">
+	<title>Brutal Mario</title>
+	<synopsis>Brutal Mario also known as Super Kitiku Mario, is a Super Mario World ROM hack created by a mysterious Japanese ROM-hacker who goes by the name of Carol.
+
+It's well known for being a hack with a large amount of custom bosses and ASM gimmicks, with its development being started when such things were but a dream in the SMW hacking scene.
+
+The hack contains several references to many other video games, from Final Fantasy, to Twinbee, to Kirby, to Mega Man, to even Cho Aniki of all things.</synopsis>
+	<genre>Plateform / Run Jump Scrolling,Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Brutal Mario World es un hack basado en Super Mario World, que toma prestados los gráficos y la mecánica del juego. Pero no solo. ¡Encontraremos elementos de Super Mario Bros 2 y 3, Yoshi's Island, incluso Donkey Kong Country! La jugabilidad también se mejora y hay nuevas jugadas en el juego. La dificultad ha sido revisada al alza, y los jugadores tendrán que ser pacientes para llegar al final del juego y triunfar sobre jefes cada vez más originales.</synopsis>
+	<genre>Plataforma / Corre y Salta con deslizamiento,Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Brutal Mario World est un hack basé sur Super Mario World, auquel il emprunte les graphismes et mécaniques de jeu. Mais pas seulement. On retrouvera des éléments de Super Mario Bros 2 et 3, Yoshi's Island, voire de Donkey Kong Country ! Le Gameplay s'en trouve lui aussi amélioré et de nouveaux mouvements sont de la partie. La difficulté a été revue à la hausse, et les joueurs devront s'armer de patience pour arriver à la fin du jeu et triompher de boss toujours plus originaux.</synopsis>
+	<genre>Plateforme / Run Jump Scrolling,Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform / Jump'n'Run Scrolling,Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Plataforma / Corre e Pula com rolagem,Plataforma</genre>
+	</locale>
+		<developer>Carol</developer>
+		<date year="2008" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Call Of Cthulhu">
+		<id>109293</id>
+	<locale lang="EN">
+	<title>Call Of Cthulhu</title>
+	<synopsis>A fantastic mod of Super Mario World pitting the infamous plumber against the ancient ones of H.P. Lovecraft's mythos. The atmosphere is completely changed to a survival-horror setting with new character models, terrain tiles, and music. The game features some interesting elements ? such as reverse parallax ? that bring some unique and refreshing game play to the familiar Mario universe. Features original music and music from other notable SNES titles such as Terranigma.</synopsis>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Sobriamente titulado Call of Cthulhu, este SMW hack está ubicado en el fantástico mundo de H.P. Lovecraft. El juego presenta nuevos gráficos con atmósferas oscuras y sombrías, todo acompañado por un bestiario igual de inquietante (tortugas zombis, Hellhounds y otros monstruos estarán en el juego). El jugador enfrentará el despertar de Cthulhu the Great Old y progresará a través de niveles de geometría no euclidiana, es evidente. Y para no quedarse atrás, Call of Cthulhu está dotado de una música totalmente adaptada e inédita, para el placer de los oídos.</synopsis>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Sobrement intitulé Call of Cthulhu, ce hack de SMW se place dans l'univers très fantastique de H.P. Lovecraft. Le jeu arbore de tout nouveaux graphismes aux ambiances sombres et glauques, le tout accompagné d'un bestiaire tout aussi dérangeant (tortues zombies, chiens de l'enfer et autres monstres seront de la partie). Le joueur devra faire face au réveil de Cthulhu le Grand Ancien et progresser au travers de niveaux à la géométrie non-euclidienne, cela va de soi. Et pour ne pas être en reste, Call of Cthulhu se dote de musiques totalement adaptées et inédites, pour le plaisir des oreilles.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Cartuchito World">
+		<id>192743</id>
+	<locale lang="EN">
+	<title>Cartuchito World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Classic Mario World - The Magical Crystals">
+		<id>192744</id>
+	<locale lang="EN">
+	<title>Classic Mario World 1</title>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Bowser est de retour et il a trouvé les cristaux magiques qui l'aideront à prendre à nouveau le monde de Dinosaur Land!nnC'est un hack de Super Mario World qui change tous les niveaux dans le jeu.</synopsis>
+	<genre>Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform</genre>
+	</locale>
+		<developer>Bandicoot</developer>
+		<date year="2014" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Classic Mario World 2 - The Great Alliance">
+		<id>192745</id>
+	<locale lang="EN">
+	<title>Classic Mario World 2</title>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<genre>Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform</genre>
+	</locale>
+		<developer>Bandicoot</developer>
+		<date year="2014" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Codename Castles">
+		<id>154011</id>
+	<locale lang="EN">
+	<title>Codename Castles</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Coolmario's Super Mario World">
+		<id>154012</id>
+	<locale lang="EN">
+	<title>Coolmario's Super Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Cpubasic's Land 1 World">
+		<id>154013</id>
+	<locale lang="EN">
+	<title>Cpubasic's Land 1 World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Crazy Mario World">
+		<id>154014</id>
+	<locale lang="EN">
+	<title>Crazy Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Cyber Mario World">
+		<id>154015</id>
+	<locale lang="EN">
+	<title>Cyber Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Dario's Adventure">
+		<id>154016</id>
+	<locale lang="EN">
+	<title>Dario's Adventure</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Gywall's Smw!">
+		<id>154017</id>
+	<locale lang="EN">
+	<title>Gywall's Smw!</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Hyper Mario">
+		<id>155708</id>
+	<locale lang="EN">
+	<title>Hyper Mario</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Just Another Mario Hack">
+		<id>154018</id>
+	<locale lang="EN">
+	<title>Just Another Mario Hack</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Kaizo Mario World 1">
+		<id>192746</id>
+	<locale lang="EN">
+	<title>Kaizo Mario World 1</title>
+	<synopsis>Kaizo Mario World features extremely difficult level designs on the Super Mario World engine. The series is notable for deliberately breaking all normal rules of "accepted" level design, and introduced many staples of later Kaizo Hacks, such as placing hidden blocks where the player is likely to jump, extremely fast autoscrollers, dying after the goal post and various other traps. This cruelty and the resulting frustration, as well as the skill level required, is both the purpose of the hacks and the appeal of any Let's Play videos made of them.</synopsis>
+	<genre>Plateform / Run Jump Scrolling,Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma / Corre y Salta con deslizamiento,Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<genre>Plateforme / Run Jump Scrolling,Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform / Jump'n'Run Scrolling,Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Plataforma / Corre e Pula com rolagem,Plataforma</genre>
+	</locale>
+		<developer>T. Takemoto</developer>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Kaizo Mario World 2">
+		<id>192747</id>
+	<locale lang="EN">
+	<title>Kaizo Mario World 2</title>
+	<synopsis>Kaizo Mario World features extremely difficult level designs on the Super Mario World engine. The series is notable for deliberately breaking all normal rules of "accepted" level design, and introduced many staples of later Kaizo Hacks, such as placing hidden blocks where the player is likely to jump, extremely fast autoscrollers, dying after the goal post and various other traps. This cruelty and the resulting frustration, as well as the skill level required, is both the purpose of the hacks and the appeal of any Let's Play videos made of them.</synopsis>
+	<genre>Plateform / Run Jump Scrolling,Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma / Corre y Salta con deslizamiento,Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<genre>Plateforme / Run Jump Scrolling,Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform / Jump'n'Run Scrolling,Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Plataforma / Corre e Pula com rolagem,Plataforma</genre>
+	</locale>
+		<developer>T. Takemoto</developer>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Kaizo Mario World 3">
+		<id>192748</id>
+	<locale lang="EN">
+	<title>Kaizo Mario World 3</title>
+	<synopsis>Kaizo Mario World features extremely difficult level designs on the Super Mario World engine. The series is notable for deliberately breaking all normal rules of "accepted" level design, and introduced many staples of later Kaizo Hacks, such as placing hidden blocks where the player is likely to jump, extremely fast autoscrollers, dying after the goal post and various other traps. This cruelty and the resulting frustration, as well as the skill level required, is both the purpose of the hacks and the appeal of any Let's Play videos made of them.</synopsis>
+	<genre>Plateform / Run Jump Scrolling,Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma / Corre y Salta con deslizamiento,Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<genre>Plateforme / Run Jump Scrolling,Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform / Jump'n'Run Scrolling,Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Plataforma / Corre e Pula com rolagem,Plataforma</genre>
+	</locale>
+		<developer>T. Takemoto</developer>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Kamakaze">
+		<id>155709</id>
+	<locale lang="EN">
+	<title>Kamakaze</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Kyouji's Mario World">
+		<id>154019</id>
+	<locale lang="EN">
+	<title>Kyouji's Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Legend Of Zelda In Smb World">
+		<id>155710</id>
+	<locale lang="EN">
+	<title>Legend Of Zelda In Smb World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Luigi And The New Quest - Spiffy Version">
+		<id>165677</id>
+	<locale lang="EN">
+	<title>Luigi And The New Quest - Spiffy Version</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Luigi's Adventure">
+		<id>154020</id>
+	<locale lang="EN">
+	<title>Luigi's Adventure</title>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Luigi's Adventure est un jeu "Hack" de "Super Mario World" sur Super Nintendo. Dans cette version, Mario laisse sa place à son frère Luigi.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mario E Luigi Kola Kingdom Quest">
+		<id>192749</id>
+	<locale lang="EN">
+	<title>Mario E Luigi Kola Kingdom Quest</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mario In Midgard">
+		<id>176742</id>
+	<locale lang="EN">
+	<title>Mario In Midgard</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mario Kart Offroad">
+		<id>154021</id>
+	<locale lang="EN">
+	<title>Mario Kart Offroad</title>
+	</locale>
+		<developer>GalaxySoft Inc.</developer>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mario Legacy">
+		<id>154022</id>
+	<locale lang="EN">
+	<title>Mario Legacy</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mario Legend 1 - World Of Mystery, The">
+		<id>154023</id>
+	<locale lang="EN">
+	<title>The Mario Legend 1 - World Of Mystery</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mario Legends 1 - The Spectral Room">
+		<id>154024</id>
+	<locale lang="EN">
+	<title>Mario Legends 1 - The Spectral Room</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mario World Super">
+		<id>154025</id>
+	<locale lang="EN">
+	<title>Mario World Super</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mario's Fun Levels">
+		<id>154026</id>
+	<locale lang="EN">
+	<title>Mario's Fun Levels</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Mario's Fun World">
+		<id>154027</id>
+	<locale lang="EN">
+	<title>Mario's Fun World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Master Mario Bros.">
+		<id>154028</id>
+	<locale lang="EN">
+	<title>Master Mario Bros.</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Maximum Mario Quest">
+		<id>154029</id>
+	<locale lang="EN">
+	<title>Maximum Mario Quest</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Morton's Story">
+		<id>154030</id>
+	<locale lang="EN">
+	<title>Morton's Story</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="New Retro Mario Bros">
+		<id>192750</id>
+	<locale lang="EN">
+	<title>New Retro Mario Bros</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="New Super Mario World, The">
+		<id>154031</id>
+	<locale lang="EN">
+	<title>The New Super Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Omg">
+		<id>154032</id>
+	<locale lang="EN">
+	<title>Omg</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Powerfest 94 - Super Mario Bros. - The Lost Levels">
+		<id>64857</id>
+	<locale lang="EN">
+	<title>PowerFest 94 : Scoring</title>
+	<synopsis>PowerFest 94 - Super Mario Bros. - The Lost Levels
+
+Nintendo PowerFest '94 was a 1994 Nintendo-promoted video game competition. Most of the town competitions were held in customized trailers outside of department stores. It was based on scoring points in a special Game Pak. The three Super Nintendo Entertainment System games (Super Mario Bros.: The Lost Levels, Super Mario Kart, and Ken Griffey, Jr. Presents Major League Baseball) were played within a time limit of six minutes.
+
+The tasks on the games are as follows:
+
+Super Mario Bros.: The Lost Levels: Players must complete the first level as quickly as possible.
+Super Mario Kart: Players must finish the first track of five laps.
+Ken Griffey, Jr. Presents Major League Baseball: Players must play a home run derby and hit as many home runs as possible.
+
+After the time expires, the final score is calculated like this:
+
+Score from Super Mario Bros.: The Lost Levels+ ((Coins collected in Super Mario Kart x 1,000) + Finishing position score)+ ((Total distance in Major League Baseball x 100) + (Number of home runs x 10,000 in the regional events or 1,000,000 in the Finals)) = Grand Total</synopsis>
+	</locale>
+	<locale lang="ES">
+	<synopsis>PowerFest 94 - Super Mario Bros. - The Lost Levels Nintendo PowerFest '94 fue una competencia de videojuegos promovida por Nintendo en 1994. La mayoría de las competiciones de la ciudad se llevaron a cabo en remolques personalizados fuera de los grandes almacenes. Se basó en puntos de puntuación en un Game Pak especial. Los tres juegos del Sistema de entretenimiento Super Nintendo (Super Mario Bros .: The Lost Levels, Super Mario Kart y Ken Griffey, Jr. Presents Major League Baseball) se jugaron dentro de un límite de tiempo de seis minutos. Las tareas en los juegos son las siguientes: Super Mario Bros .: The Lost Levels: los jugadores deben completar el primer nivel lo más rápido posible. Super Mario Kart: los jugadores deben terminar la primera pista de cinco vueltas. Ken Griffey, Jr. Presents Major League Baseball: los jugadores deben jugar un derby de jonrones y batear tantos jonrones como sea posible. Una vez que el tiempo expira, el puntaje final se calcula así: Puntaje de Super Mario Bros .: The Lost Levels + ((Monedas recolectadas en Super Mario Kart x 1,000) + Puntaje de posición final) + ((Distancia total en Major League Baseball x 100 ) + (Número de jonrones x 10,000 en los eventos regionales o 1,000,000 en las finales)) = Gran Total</synopsis>
+	</locale>
+	<locale lang="FR">
+	<synopsis>PowerFest 94 - Super Mario Bros. - Les niveaux perdus
+
+Nintendo PowerFest '94 était un concours de jeux vidéo promu en 1994 par Nintendo. La plupart des compétitions de la ville ont eu lieu dans des remorques personnalisées à l'extérieur des grands magasins. Il était basé sur des points de score dans un Game Pak spécial. Les trois jeux de Super Nintendo Entertainment System (Super Mario Bros .: Les niveaux perdus, Super Mario Kart et Ken Griffey, Jr. Presents Major League Baseball) ont été joués dans un délai de six minutes.
+
+Les tâches sur les jeux sont les suivantes:
+
+Super Mario Bros .: Les niveaux perdus: Les joueurs doivent compléter le premier niveau le plus rapidement possible.
+Super Mario Kart: Les joueurs doivent terminer la première piste de cinq tours.
+Ken Griffey, Jr. Présente la Ligue majeure de baseball: Les joueurs doivent jouer un derby de course à domicile et frapper autant de courses de maison que possible.
+
+Après l'expiration du délai, le score final est calculé comme suit:
+
+Score de Super Mario Bros .: Les niveaux perdus + ((Coins collectés en Super Mario Kart x 1000) + Score de position finale) + ((Distance totale en Ligue majeure de baseball x 100) + (Nombre de tournois x 10 000 dans les épreuves régionales ou 1 000 000 en finale)) = Grand total</synopsis>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Nintendo PowerFest '94 war ein 1994 von Nintendo beworbener Videospielwettbewerb. Die meisten Stadtwettbewerbe fanden in maßgeschneiderten Anhängern außerhalb von Kaufhäusern statt. Es basierte auf Punkten in einem speziellen Game Pak. Die drei Super Nintendo Entertainment System-Spiele (Super Mario Bros .: The Lost Levels, Super Mario Kart und Ken Griffey, Jr. Presents Major League Baseball) wurden innerhalb einer Frist von sechs Minuten gespielt.
+
+Die Aufgaben in den Spielen sind wie folgt:
+
+Super Mario Bros .: Die verlorenen Levels: Die Spieler müssen das erste Level so schnell wie möglich beenden.
+Super Mario Kart: Die Spieler müssen die erste Strecke von fünf Runden beenden.
+Ken Griffey, Jr. stellt Major League Baseball vor: Die Spieler müssen ein Heimrennen-Derby spielen und so viele Heimrennen wie möglich absolvieren.</synopsis>
+	</locale>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Pro Mario World">
+		<id>154033</id>
+	<locale lang="EN">
+	<title>Pro Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Retro Mario World Super Mario Bros">
+		<id>154034</id>
+	<locale lang="EN">
+	<title>Retro Mario World Super Mario Bros</title>
+	<synopsis>Fixes:
+Toad now has a better color and says "Thank You".
+level 5-2 has been fixed!
+
+Super Mario Bros. with SMAS Graphics.
+
+Now I used the 1 Player Only patch and the ips files are separated into Mario and Luigi games.
+
+NOTE: This is an open-source hack which can be used as a base hack.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Return Of Mario">
+		<id>154035</id>
+	<locale lang="EN">
+	<title>Return Of Mario</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Second Reality Project, The">
+		<id>192756</id>
+	<locale lang="EN">
+	<title>The Second Reality Project</title>
+	<synopsis>The Second Reality Project is a series of ROM hacks of Super Mario World by FPI. The games feature Mario's adventures in Another Dimension.
+
+The series begins with Mario learning that Bowser had discovered a new power source and is using the resources to construct an invasion fleet of airships in order to strike the Mushroom Kingdom. Eventually, Mario discovers the Second Reality and must put a stop to Bowser's plot. The second game concerns Mario's unexpected return to the Second Reality and a new foe named Zycloboo. The upcoming conclusion to the trilogy will involve a quest to destroy the Power Switch.</synopsis>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Das Second Reality Project ist eine Reihe von ROM-Hacks von Super Mario World von FPI. Die Spiele zeigen Marios Abenteuer in einer anderen Dimension.
+
+Die Serie beginnt damit, dass Mario erfährt, dass Bowser eine neue Energiequelle entdeckt hat und die Ressourcen nutzt, um eine Invasionsflotte von Luftschiffen zu bauen, um das Pilzreich zu treffen. Schließlich entdeckt Mario die Zweite Realität und muss Bowsers Verschwörung stoppen. Das zweite Spiel betrifft Marios unerwartete Rückkehr in die zweite Realität und einen neuen Feind namens Zycloboo. Der bevorstehende Abschluss der Trilogie beinhaltet die Aufgabe, den Netzschalter zu zerstören.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Senate, The">
+		<id>192757</id>
+	<locale lang="EN">
+	<title>The Senate</title>
+	<synopsis>While Mario was asleep due to poisonous wine, a group of mysterious and powerful enemies which call themselves "The Senate" took over the Mushroom Kingdom. 
+Is Mario able to defeat all of its members through a lot of new worlds and enemies? Only time will tell.</synopsis>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Während Mario wegen eines giftigen Weins schlief, übernahm eine Gruppe mysteriöser und mächtiger Feinde, die sich "The Senat" nannten das Pilzreich. 
+Ist Mario in der Lage, alle seine Mitglieder durch viele neue Welten und Feinde zu besiegen? Nur die Zeit kann es verraten.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Sendy's World">
+		<id>190996</id>
+	<locale lang="EN">
+	<title>Sendy's World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Sicari Remastered">
+		<id>192761</id>
+	<locale lang="EN">
+	<title>Sicari Remastered</title>
+	<synopsis>Thousands of years ago, there was a war between the Gods of creation. Due to its effect on the mortal plane, the Gods were forced to punish themselves - to prevent such a thing from happening again. As such, they were all but cut off from the mortal world, with little to no influence, leading humanity to lose their faith.
+
+However, one group survived the thousands of years that passed after the war - the Sanguis vampire family. Their goal across those millennia was to undo the binding that their patron deity, Niscura was under. They wanted the Goddess of Dimensions and Shadow to be free again...
+
+...and they succeeded.</synopsis>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Vor Tausenden von Jahren gab es einen Krieg zwischen den Göttern der Schöpfung. Aufgrund ihrer Auswirkung auf die sterbliche Ebene waren die Götter gezwungen, sich selbst zu bestrafen - um zu verhindern, dass so etwas erneut passiert. Als solche waren sie von der Welt der Sterblichen so gut wie abgeschnitten, ohne großen Einfluss, und führten die Menschheit dazu, ihren Glauben zu verlieren.
+
+Eine Gruppe überlebte jedoch die Jahrtausende nach dem Krieg - die Sanguis-Vampirfamilie. Ihr Ziel über diese Jahrtausende hinweg war es, die Bindung zu lösen, unter der ihre Schutzgottheit Niscura stand. Sie wollten, dass die Göttin der Dimensionen und des Schattens wieder frei ist ...
+
+... und sie haben es geschafft.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Smw Master Quest 7 - Redrawn">
+		<id>192751</id>
+	<locale lang="EN">
+	<title>Smw Master Quest 7 - Redrawn</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Demo World - The Legend Continues">
+		<id>151384</id>
+	<locale lang="EN">
+	<title>Super Demo World - The Legend Continues</title>
+	<synopsis>This is the Super Mario World hack made by the man who made Super Mario World hacking easy with Lunar Magic, FuSoYa! What started out as just a demo of what Lunar Magic could do, it turned into a full hack of Super Mario World that's complete right to the end. This patch is so expansive it expands the size of the ROM to 48mbits! It showcases many of the features in Lunar Magic, including the new tile and palette animation feature included in version 1.60. And it has new custom blocks such as screen-scrolling type pipes that are similar to what you'd see in Mario 3.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario Bros. 3x">
+		<id>192752</id>
+	<locale lang="EN">
+	<title>Super Mario Bros. 3x</title>
+	<synopsis>Bowser and the Koopa Kids have invaded South Mushroom Kingdom. 
+Mario must stop them before it's too late. 
+This hack features new levels styled after levels found in Super Mario Bros, Super Mario Bros 3, Super Mario Bros 2, Super Mario World 2: Yoshi's Island, and a few from Super Mario Land.</synopsis>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Bowser und die Koopa Kids sind in South Mushroom Kingdom eingedrungen. 
+Mario muss sie aufhalten, bevor es zu spät ist. 
+Dieser Hack enthält neue Levels, die an die Levels von Super Mario Bros, Super Mario Bros 3, Super Mario Bros 2, Super Mario World 2: Yoshi's Island und einige von Super Mario Land angelehnt sind.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario Bros. Mario And Luigi">
+		<id>190997</id>
+	<locale lang="EN">
+	<title>Super Mario Bros. Mario And Luigi</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario Dark World">
+		<id>191879</id>
+	<locale lang="EN">
+	<title>Super Mario Dark World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario Dream World V0.2">
+		<id>191880</id>
+	<locale lang="EN">
+	<title>Super Mario Dream World V0.2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario Kart - F1 Tracks">
+		<id>192753</id>
+	<locale lang="EN">
+	<title>Super Mario Kart - F1 Tracks</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario Odyssey">
+		<id>186590</id>
+	<locale lang="EN">
+	<title>Super Mario Odyssey</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario War Hol Pirate Cart">
+		<id>108160</id>
+	<locale lang="EN">
+	<title>Super Mario War Hol Pirate Cart</title>
+	</locale>
+	<locale lang="ES">
+	<synopsis>Si tienes este juego en tu colección. Juega durante 15 minutos... Seras castigado con solo tener este juego.</synopsis>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Si vous avez ce jeu dans votre collection. Jouez y pendant 15 minutes. Ça vous punira de garder de tel jeux.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - 2012 Master Hands Doomsday">
+		<id>108174</id>
+	<locale lang="EN">
+	<title>Super Mario World - 2012 Master Hands Doomsday</title>
+	<synopsis>2012 marks the end of world. Master Hand plans to destroy everything. Mario should stop Master Hand before it's too late!!
+
+Graphics changes, music changes, and the overworld has been changed with this hack.</synopsis>
+	</locale>
+	<locale lang="FR">
+	<synopsis>2012 signe la fin du monde. La grande main planifie de tout détruire, Mario doit l'arrêter avant que ce ne soit trop tard</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - A Super Mario Thing">
+		<id>154037</id>
+	<locale lang="EN">
+	<title>Super Mario World - A Super Mario Thing</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - An Smw Central Production">
+		<id>154038</id>
+	<locale lang="EN">
+	<title>Super Mario World - An Smw Central Production</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Bermuda Triangle Edition">
+		<id>154039</id>
+	<locale lang="EN">
+	<title>Super Mario World - Bermuda Triangle Edition</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Big Boo's Revenge">
+		<id>154040</id>
+	<locale lang="EN">
+	<title>Super Mario World - Big Boo's Revenge</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Brutal Mario">
+		<id>192738</id>
+	<locale lang="EN">
+	<title>Super Mario World - Brutal Mario</title>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<genre>Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Brutal Mario World est un hack basé sur Super Mario World, auquel il emprunte les graphismes et mécaniques de jeu. Mais pas seulement. On retrouvera des éléments de Super Mario Bros 2 et 3, Yoshi's Island, voire de Donkey Kong Country ! Le Gameplay s'en trouve lui aussi amélioré et de nouveaux mouvements sont de la partie. La difficulté a été revue à la hausse, et les joueurs devront s'armer de patience pour arriver à la fin du jeu et triompher de boss toujours plus originaux.</synopsis>
+	<genre>Plattform</genre>
+	</locale>
+		<developer>Carol</developer>
+		<date year="2008" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Dr.mario">
+		<id>154042</id>
+	<locale lang="EN">
+	<title>Super Mario World - Dr.mario</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Enhanced">
+		<id>154043</id>
+	<locale lang="EN">
+	<title>Super Mario World - Enhanced</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Expansion Deluxe">
+		<id>154044</id>
+	<locale lang="EN">
+	<title>Super Mario World - Expansion Deluxe</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Fahhbulous Hack">
+		<id>154045</id>
+	<locale lang="EN">
+	<title>Super Mario World - Fahhbulous Hack</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Frank's Super Mario World">
+		<id>154046</id>
+	<locale lang="EN">
+	<title>Super Mario World - Frank's Super Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Hack Special Edition">
+		<id>154047</id>
+	<locale lang="EN">
+	<title>Super Mario World - Hack Special Edition</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Ice Village Test Hack">
+		<id>154048</id>
+	<locale lang="EN">
+	<title>Super Mario World - Ice Village Test Hack</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Infinity 2 - The Cursed Gem">
+		<id>154049</id>
+	<locale lang="EN">
+	<title>Super Mario World - Infinity 2 - The Cursed Gem</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Jazz411's Super Mario World">
+		<id>154050</id>
+	<locale lang="EN">
+	<title>Super Mario World - Jazz411's Super Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Koopa Troopa">
+		<id>154051</id>
+	<locale lang="EN">
+	<title>Super Mario World - Koopa Troopa</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Le Avventure Di Mario 1">
+		<id>154052</id>
+	<locale lang="EN">
+	<title>Super Mario World - Le Avventure Di Mario 1</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Le Avventure Di Mario 2">
+		<id>154053</id>
+	<locale lang="EN">
+	<title>Super Mario World - Le Avventure Di Mario 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Le Avventure Di Mario 3">
+		<id>154054</id>
+	<locale lang="EN">
+	<title>Super Mario World - Le Avventure Di Mario 3</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Legend Of Luigi">
+		<id>108191</id>
+	<locale lang="EN">
+	<title>Super Mario World - Legend Of Luigi</title>
+	<synopsis>It''s time to enter that strange but familiar land once again and discover the delights of Luigi's quest in to Dinosaur land to rescue Princess Toadstool from the evil grips of the nasty Bowser! in the legendary Legend of Luigi (SMW1 Hack) you must fight through the hordes of baddies to jump, swim and navigate the awesomely fun and tricky levels to save the princess from a fate worse than death!</synopsis>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Il est temps d'entrer une fois de plus dans cette terre étrange mais familière et de découvrir les délices de la quête de Luigi dans la terre des dinosaures pour sauver la princesse Crapaud des griffes maléfiques du méchant Bowser ! Dans Legend of Luigi (SMW1 Hack) vous devez sauter, nager et naviguer à travers les hordes de méchants, dans des niveaux incroyablement amusants et plein de pièges pour sauver la princesse d'un destin pire que la mort !</synopsis>
+	</locale>
+		<publisher>Nintendo</publisher>
+		<date year="1991" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Lost In Monochrome Land">
+		<id>154055</id>
+	<locale lang="EN">
+	<title>Super Mario World - Lost In Monochrome Land</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Luigi And The Island Of Mystery">
+		<id>154056</id>
+	<locale lang="EN">
+	<title>Super Mario World - Luigi And The Island Of Mystery</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Luigis Adventure Overseas">
+		<id>108189</id>
+	<locale lang="EN">
+	<title>Super Mario World - Luigis Adventure Overseas</title>
+	<synopsis>While Mario was away fighting to save Daisy, Bowser, with the help of King Boo, launched an attack on the Mushroom Kingdom! Peach managed to evade capture, but the castle was overrun by Bowser's minions. She ran to Mario's house only to find that Luigi was there. Peach asked for Mario, but Luigi told her that he was in another kingdom. So Peach asked Luigi for his help, and thus he set out on an adventure to free the Mushroom Kingdom.
+
+The game plays like any old sidescrolling platformer. The high jump technique from Super Mario Bros. 2 returns, where you hold down on the directional pad. Luigi will start vibrating once the jump is ready to be pulled off. The game features 46 levels split into nine worlds, and 123 Star Coins. The ninth world has no collectable Star Coins - instead, Moon Coins are found here with the same purpose as New Super Mario Bros. 2. A multiplayer mode is available with a co-op, and versus mode. The second player is a Luigi with a Mario outfit. Both modes are played with both players in the same level at the same time (i.e. like NSMBWii).</synopsis>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Pendant que Mario était parti sauver Daisy, Bowser, avec l'aide du roi Boo, lança une attaque contre le royaume Champignon ! Peach parvint à échapper à la capture, mais le château fut envahi par les sous-fifres de Bowser. Elle se réfugia chez Mario et tomba sur Luigi. Elle le supplia de l'aider, et c'est ainsi qu'il partit à l'aventure pour libérer le Royaume Champignon.
+
+Le jeu se joue comme n'importe quel jeu de plates-formes. La technique du super saut de Super Mario Bros. 2 est de retour. Le jeu comporte 46 niveaux répartis en 9 mondes, et 123 Star Coins. Le neuvième monde ne contient pas de Star Coins - au lieu de cela, des Moon Coins qui ont la même utilité que dans New Super Mario Bros. 2. Un mode multijoueur est disponible avec un mode coopératif, et un mode versus. Le deuxième joueur est un Luigi avec une tenue Mario. Les deux modes sont joués avec les deux joueurs dans le même niveau en même temps (comme NSMBWii).</synopsis>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Während Mario unterwegs war Daisy zu befreien startete Bowser, mit der Hilfe von König Buh eine Atacke auf das Pilzkönigreich! Peach konnte verhindern gefangen zu werden, aber das Schloss wurde von Bowsers Schergen überrant. Sie lief zu Marios Haus und fand dort nur Luigi. Peach wollte sich nach Mario erkundigen und Luigi erzählte ihr , das er in einem anderen Königreich ist. Also bat Peach Luigi um seine Hilfe und somit brach er in ein Abenteuer auf das Pilzkönigreich zu retten. Das Speil spielt sich wie jeder alte sidescrolling Platformer. Die Hochsprung technik von Super Mario Bros. 2 wurde übernommen, mit der du die Richtungstaste gedrückt hältst. Luigi wird anfange zu vibrieren, wenn der Sprung bereit ist. Das Spiel bietet 46 Level, welche in 9 Welten aufgeteilt sind, sowie 123 Stern Münzen. Die 9te Welt enthält keine Sternmünzen - stadtdessen Mond Münzen, mit der selben funktion wie in Super Mario Bros. 2. Ein Mehrspieler Modus ist verfügbar mit einem Co-Op und einem Versus Modus. Der 2te Spieler ist ein Luigi im Mario Kostüm. Beide Modi spielen mit beiden Spielern im selben Level zur selben Zeit (z.B. wie in NSMBWii)</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Luigis Adventure Overseas 3">
+		<id>154057</id>
+	<locale lang="EN">
+	<title>Super Mario World - Luigis Adventure Overseas 3</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Luigis Quest">
+		<id>154058</id>
+	<locale lang="EN">
+	<title>Super Mario World - Luigis Quest</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mario Gives Up 1">
+		<id>154059</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mario Gives Up 1</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mario Gives Up 2">
+		<id>154060</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mario Gives Up 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mario Is Missing 2">
+		<id>154061</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mario Is Missing 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mario Legends I - Elemental Quest">
+		<id>154062</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mario Legends I - Elemental Quest</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mario Master 2">
+		<id>154063</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mario Master 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mario World X">
+		<id>154064</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mario World X</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Marios 2 Ways 2 Victory">
+		<id>154065</id>
+	<locale lang="EN">
+	<title>Super Mario World - Marios 2 Ways 2 Victory</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Marios Treasure Hunt">
+		<id>154066</id>
+	<locale lang="EN">
+	<title>Super Mario World - Marios Treasure Hunt</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mariox World 2nd">
+		<id>154067</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mariox World 2nd</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mariox World 4th">
+		<id>154068</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mariox World 4th</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Massimo">
+		<id>154069</id>
+	<locale lang="EN">
+	<title>Super Mario World - Massimo</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Master Quest 1">
+		<id>154070</id>
+	<locale lang="EN">
+	<title>Super Mario World - Master Quest 1</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Master Quest 2">
+		<id>154071</id>
+	<locale lang="EN">
+	<title>Super Mario World - Master Quest 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Master Quest 4">
+		<id>154072</id>
+	<locale lang="EN">
+	<title>Super Mario World - Master Quest 4</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Master Quest 6">
+		<id>154073</id>
+	<locale lang="EN">
+	<title>Super Mario World - Master Quest 6</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mew2's Super Mario World">
+		<id>154074</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mew2's Super Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Multiplayer">
+		<id>190802</id>
+	<locale lang="EN">
+	<title>Super Mario World - Multiplayer</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mushroom Kingdom Meltdown">
+		<id>154076</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mushroom Kingdom Meltdown</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mushroom Kingdom Meltdown 2">
+		<id>154075</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mushroom Kingdom Meltdown 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Mystery Of The Magic Wand">
+		<id>154077</id>
+	<locale lang="EN">
+	<title>Super Mario World - Mystery Of The Magic Wand</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Omega">
+		<id>154078</id>
+	<locale lang="EN">
+	<title>Super Mario World - Omega</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Redrawn">
+		<id>154079</id>
+	<locale lang="EN">
+	<title>Super Mario World - Redrawn</title>
+	<synopsis>Once again, the evil Bowser has captured Princess Peach (who was on vacation on Yoshis Island), and saving her is a job for Mario. To help you on this adventure, Mario must use the feather flight skill to reach places that are difficult to reach. Even more important is his new friend, the dinosaur Yoshi, where Mario can ride on each level and swallow enemies.
+
+But wait, there is something different! This is a hack from the classic Super Mario World game, and amazing artwork has been done to change the whole look of the game. All graphics, without exception, are more beautifully designed, almost as good as in SMB2 - Yoshi's Island!</synopsis>
+	<genre>Plateform / Run Jump,Platform,Platform,Platform,Platform,Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma / Corre y Salta,Plataforma,Plataforma,Plataforma,Plataforma,Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<genre>Plateforme / Run Jump,Plateforme,Plateforme,Plateforme,Plateforme,Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform / Jump'n'Run,Plattform,Plattform,Plattform,Plattform,Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Mais uma vez, o malígno Bowser capturou a Princesa Peach (que estava de férias na Ilha dos Yoshis), e salvá-la é um trabalho para Mario. Para ajudá-lo nessa aventura, Mario deve usar a habilidade de vôo da pena para chegar a lugares difíceis de alcançar. Ainda mais importante é seu novo amigo, o dinossauro Yoshi, em que Mario pode montar em cada nível e engolir inimigos.
+
+Mas, espere, há algo diferente! Esta é uma hack do Clássico jogo Super Mario World, e foi feito um trabalho incrível de arte para trocar toda a aparência do jogo. Todos os gráficos, sem excessão estão mais desenhados e bonitos, quase tão bons quanto em SMB2 - Yoshi's Island!</synopsis>
+	<genre>Plataforma / Corre e Pula,Plataforma,Plataforma,Plataforma,Plataforma,Plataforma</genre>
+	</locale>
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Return To Dinosaur Land">
+		<id>108259</id>
+	<locale lang="EN">
+	<title>Super Mario World - Return To Dinosaur Land</title>
+	<synopsis>This is a complete hack of Super Mario World. All the levels and worlds are new, and some of the worlds have themes not present in the original, such as a water world and an ice world. Don?t expect any new graphics here, though. This hack is all about the level design. The game is moderately challenging, and some of the last levels can get very hard.</synopsis>
+	<genre>Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Super Mario World Return to Dinosaur Land est un hack de Super Mario World.
+Tous les niveaux et les mondes sont nouveaux et certains ont des thèmes qui ne figurent pas dans l'original comme un monde d'eau et un monde de glace.</synopsis>
+	<genre>Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Este é um hack completo de Super Mario World. Todos as fases e mundos são novos, e alguns dos mundos possuem temas que não estavam presentes no original, com um mundo de água e um de gelo. Não espere novos gráficos aqui, este hack é sobre desenvolvimento de fases. O jogo é moderadamente desafiador, e algumas das últimas fases podem ser bem difíceis.</synopsis>
+	</locale>
+		<developer>RAGB</developer>
+		<publisher>RAGB</publisher>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Rob-omb's Quest Easy">
+		<id>154080</id>
+	<locale lang="EN">
+	<title>Super Mario World - Rob-omb's Quest Easy</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Rob-omb's Quest Hard">
+		<id>154089</id>
+	<locale lang="EN">
+	<title>Super Mario World - Rob-omb's Quest Hard</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Scorpion's Ravage">
+		<id>154081</id>
+	<locale lang="EN">
+	<title>Super Mario World - Scorpion's Ravage</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Smb2dx">
+		<id>154082</id>
+	<locale lang="EN">
+	<title>Super Mario World - Smb2dx</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Smb4 The Mystery Of The Five Stones">
+		<id>154084</id>
+	<locale lang="EN">
+	<title>Super Mario World - Smb4 The Mystery Of The Five Stones</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Smw Returns">
+		<id>154086</id>
+	<locale lang="EN">
+	<title>Super Mario World - Smw Returns</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Smw Returns 2">
+		<id>154085</id>
+	<locale lang="EN">
+	<title>Super Mario World - Smw Returns 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Starlight Remix">
+		<id>154087</id>
+	<locale lang="EN">
+	<title>Super Mario World - Starlight Remix</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Sunny Side World">
+		<id>154088</id>
+	<locale lang="EN">
+	<title>Super Mario World - Sunny Side World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super">
+		<id>154090</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super 2">
+		<id>154091</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super Awesome World">
+		<id>154092</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super Awesome World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super Mario Bros 5 - Reborn">
+		<id>154093</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super Mario Bros 5 - Reborn</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super Mario Bros. 3x V2.5">
+		<id>108278</id>
+	<locale lang="EN">
+	<title>Super Mario Bros. 3 X</title>
+	<synopsis>This is a hack with SMB,SMB3,SMB2,YI and a few SML styled levels. Graphics and music changes have also been made to this hack as well.nnStory:Bowser and the Koopa Kids Invaded South Mushroom Kingdom. Mario must stop them before it's too late.nnNOTE:USE ZSNESW 1.51 if possible.</synopsis>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Ce Rom hack de Super Mario World, reprend les styles de niveau de SMB, SMB2, SMB3, YI et SML. Les graphismes et la musique ont aussi changés.nnHistoire: Bowser et les enfants Koppa ont envahient le royaume Mushroom. Mario doit les arrêter avant qu'il ne soit trop tard (encore !).</synopsis>
+	</locale>
+		<developer>Koyuki</developer>
+		<date year="2014" month="06" day="24"/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super Mario Bros. 4">
+		<id>191878</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super Mario Bros. 4</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super Mario Place">
+		<id>154094</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super Mario Place</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super Mario's Crystal Island Adventure">
+		<id>154095</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super Mario's Crystal Island Adventure</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super Mario's Quest">
+		<id>154096</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super Mario's Quest</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super Marioyji World 2">
+		<id>154097</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super Marioyji World 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super Pika Land Chocolate">
+		<id>154098</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super Pika Land Chocolate</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Super Pika Land Vanilla">
+		<id>154099</id>
+	<locale lang="EN">
+	<title>Super Mario World - Super Pika Land Vanilla</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Tenper World">
+		<id>154100</id>
+	<locale lang="EN">
+	<title>Super Mario World - Tenper World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The 2nd Try">
+		<id>154101</id>
+	<locale lang="EN">
+	<title>Super Mario World - The 2nd Try</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The After Years Ultra">
+		<id>154102</id>
+	<locale lang="EN">
+	<title>Super Mario World - The After Years Ultra</title>
+	<synopsis>Many years into the future, after the former heroes of the Mushroom Kingdom no longer exist; strange events begin to take place when the new antagonist: Nova, moves onto the island. A young boy by the name of Mute, has been recruited by the new princess of the Mushroom Kingdom to help fight for what's left of the land. But does he have what it takes to defeat Nova?</synopsis>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Viele Jahre in der Zukunft, nachdem die ehemaligen Helden des Pilzreiches nicht mehr existieren; seltsame Ereignisse beginnen sich zu ereignen, als der neue Antagonist: Nova, auf die Insel zieht. 
+Ein kleiner Junge namens Mute wurde von der neuen Prinzessin des Pilzkönigreichs angeworben, um für das zu kämpfen, was noch vom Land übrig ist. Aber hat er das Zeug, um Nova zu besiegen?</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The Lost Adventure">
+		<id>154103</id>
+	<locale lang="EN">
+	<title>Super Mario World - The Lost Adventure</title>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<genre>Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform</genre>
+	</locale>
+		<developer>isaix</developer>
+		<date year="2012" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The Lost Adventure Episode 2">
+		<id>154104</id>
+	<locale lang="EN">
+	<title>Super Mario World - The Lost Adventure Episode 2</title>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Super Mario World: The Lost Adventure - Episode 2 est un hack de Super Mario World.
+Il comporte:
+- 79 nouveaux niveaux (plus que le SMW originale)
+- Plus de 100 musiques personnalisées
+- Graphiques personnalisés
+- Nouveaux combats de boss
+- Nouveaux power-ups
+- Les palettes personnalisées
+- Un peu plus difficile que le jeu original
+- Refonte de la carte du monde
+- Et plus encore ...</synopsis>
+	<genre>Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform</genre>
+	</locale>
+		<developer>isaix</developer>
+		<date year="2013" month="" day=""/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The New Land 3">
+		<id>154105</id>
+	<locale lang="EN">
+	<title>Super Mario World - The New Land 3</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The New Lands">
+		<id>154106</id>
+	<locale lang="EN">
+	<title>Super Mario World - The New Lands</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The New Mario World">
+		<id>154107</id>
+	<locale lang="EN">
+	<title>Super Mario World - The New Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The New World 2">
+		<id>154108</id>
+	<locale lang="EN">
+	<title>Super Mario World - The New World 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The Ninji Saga">
+		<id>154109</id>
+	<locale lang="EN">
+	<title>Super Mario World - The Ninji Saga</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The Pit Of 100 Trials">
+		<id>154110</id>
+	<locale lang="EN">
+	<title>Super Mario World - The Pit Of 100 Trials</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The Second Reality Project">
+		<id>154111</id>
+	<locale lang="EN">
+	<title>Super Mario World - The Second Reality Project</title>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Super Mario World - The Second Reality Project est un homebrew de super Mario world: Bowser est de retour, plus puissant qu'il ne l'était autrefois: il a trouvé une source d'énergie lui permettant de reconstruire sa flotte de dirigeables. Bientôt, il prévoit d'attaquer le royaume des champignons une fois de plus! C'est à Mario de l'arrêter!</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The Second Realityy Project Reloaded">
+		<id>154112</id>
+	<locale lang="EN">
+	<title>Super Mario World - The Second Realityy Project Reloaded</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The Secret Of The 7 Golden Statues">
+		<id>154113</id>
+	<locale lang="EN">
+	<title>Super Mario World - The Secret Of The 7 Golden Statues</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - The Unworld">
+		<id>154114</id>
+	<locale lang="EN">
+	<title>Super Mario World - The Unworld</title>
+	<synopsis>Where does Mario go when he dies? When one of his death falls goes awry, he finds himself in a completely different place and does not restart where he previously left off.nnnnThis hack is more centered around story, rather than platforming (that is saved for later levels which are not part of this demo). Since this hack is story driven, there is obviously going to be a lot of text. Also, pretty much all the graphics are custom drawn.</synopsis>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Où va Mario quand il meurt? Quand l'une de ses morts tombe mal, il se trouve dans un endroit complètement différent et ne redémarre pas là où il s'était arrêté auparavant.nnnnCe hack est plus centré sur l'histoire que sur la plate-forme (qui est sauvegardé pour les niveaux ultérieurs qui ne font pas partie de cette démo). Puisque ce hack est basé sur une histoire, il y aura évidemment beaucoup de texte. En outre, à peu près tous les graphiques sont personnalisés.</synopsis>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Para onde Mario vai quando morre? Quando uma de suas mortes cai mal, ele se encontra em um lugar completamente diferente e não recomeça de onde parou anteriormente.nnnnEsse hack é mais centrado na história, e não na plataforma (que é salva para níveis posteriores que não fazem parte desta demonstração). Como esse hack é guiado por histórias, obviamente haverá muito texto. Além disso, praticamente todos os gráficos são desenhados sob medida.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Ultra Mario World">
+		<id>191188</id>
+	<locale lang="EN">
+	<title>Super Mario World - Ultra Mario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Universe">
+		<id>154115</id>
+	<locale lang="EN">
+	<title>Super Mario World - Universe</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Worldwide 2">
+		<id>154116</id>
+	<locale lang="EN">
+	<title>Super Mario World - Worldwide 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World - Yellow Bros">
+		<id>154117</id>
+	<locale lang="EN">
+	<title>Super Mario World - Yellow Bros</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World 3 - Islands Of Mistery">
+		<id>192754</id>
+	<locale lang="EN">
+	<title>Super Mario World 3 - Islands Of Mistery</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World 3 - The New Islands">
+		<id>154036</id>
+	<locale lang="EN">
+	<title>Super Mario World 3 - The New Islands</title>
+	<synopsis>Mario's off on his biggest adventure ever, and this time he's brought along a friend. Yoshi the dinosaur teams up with Mario to battle Bowser, who has kidnapped Princess Toadstool once again. Guide Mario and Yoshi through nine peril-filled worlds to the final showdown in Bowser's castle. Use Mario's new powers and Yoshi's voracious monster-gobbling appetite as you explore 96 levels filled with dangerous new monsters and traps. Climb mountains and cross rivers, and descend into subterranean depths. Destroy the seven Koopa castles and find keys to gain entrance to hidden levels. Discover more warps and thrilling bonus worlds than ever before!</synopsis>
+	</locale>
+	<locale lang="DE">
+	<synopsis>Mario macht sein bisher größtes Abenteuer und dieses Mal hat er einen Freund mitgebracht. 
+Yoshi, der Dinosaurier, tritt gemeinsam mit Mario gegen Bowser an, der erneut Prinzessin Toadstool entführt hat. 
+Führe Mario und Yoshi durch neun gefährdete Welten zum finalen Showdown in Bowsers Burg. 
+Nutze Marios neue Kräfte und Yoshis unersättlichen Appetit auf Monsterfresser, während du 96 Levels mit gefährlichen neuen Monstern und Fallen erkundest. 
+Erklimmen Sie Berge und überqueren Sie Flüsse und steigen Sie in unterirdische Tiefen ab. 
+Zerstöre die sieben Koopa-Schlösser und finde Schlüssel, um Zugang zu verborgenen Ebenen zu erhalten. 
+Entdecken Sie mehr Warps und aufregende Bonuswelten als je zuvor!</synopsis>
+	</locale>
+	<locale lang="PT">
+	<synopsis>Mario terá a maior aventura de todos os tempos e desta vez ele trouxe um amigo. Yoshi, o dinossauro, junta-se a Mario para combater Bowser, que raptou a Princesa mais uma vez. Guie Mario e Yoshi pelos nove mundos cheios de perigos até o confronto final, no Castelo de Bowser. Use os novos poderes de Mario e o voraz apetite de Yoshi enquanto explora 96 níveis cheios de novos monstros e armadilhas perigosas. Escale montanhas, atravesse rios e desça em profundezas subterrâneas. Destrua os sete castelos de Koopa e encontre chaves para ganhar acesso a níveis ocultos. Descubra diversas zonas secretas e mundos de bônus, mais emocionantes do que nunca!</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Advanced - Normal Mode">
+		<id>191891</id>
+	<locale lang="EN">
+	<title>Super Mario World Advanced - Normal Mode</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Advanced - Very Easy Mode">
+		<id>191881</id>
+	<locale lang="EN">
+	<title>Super Mario World Advanced - Very Easy Mode</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Co-op">
+		<id>192737</id>
+	<locale lang="EN">
+	<title>Super Mario World Co-op</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Deluxe">
+		<id>154118</id>
+	<locale lang="EN">
+	<title>Super Mario World Deluxe</title>
+	<synopsis>Previously known as Super Mario Bros. DX, this is an upgraded version made to work on modern emulators, and has a few audio problems fixed. There is little to no change in gameplay, so if you've played this hack before, there's not much new for you.
+
+This is a remake of the classic Super Mario Bros. in the SMW engine using SMB3 graphics. There are also two new worlds for you to explore.</synopsis>
+	<genre>Plateform / Run Jump,Platform</genre>
+	</locale>
+	<locale lang="ES">
+	<genre>Plataforma / Corre y Salta,Plataforma</genre>
+	</locale>
+	<locale lang="FR">
+	<genre>Plateforme / Run Jump,Plateforme</genre>
+	</locale>
+	<locale lang="DE">
+	<genre>Plattform / Jump'n'Run,Plattform</genre>
+	</locale>
+	<locale lang="PT">
+	<genre>Plataforma / Corre e Pula,Plataforma</genre>
+	</locale>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<date year="2012" month="09" day="23"/>
+		<rating type="NOTE" value="20">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Hack">
+		<id>154119</id>
+	<locale lang="EN">
+	<title>Super Mario World Hack</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Iceballz 2">
+		<id>191882</id>
+	<locale lang="EN">
+	<title>Super Mario World Iceballz 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Laughs">
+		<id>191883</id>
+	<locale lang="EN">
+	<title>Super Mario World Laughs</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Master Quest 8 The Final Quest">
+		<id>192740</id>
+	<locale lang="EN">
+	<title>Super Mario World Master Quest 8 The Final Quest</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Odyssey V1 Beta">
+		<id>189699</id>
+	<locale lang="EN">
+	<title>Super Mario World Odyssey V1 Beta</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Plus 3 - The New Home Easy">
+		<id>191884</id>
+	<locale lang="EN">
+	<title>Super Mario World Plus 3 - The New Home Easy</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Plus 3 - The New Home Hard">
+		<id>191885</id>
+	<locale lang="EN">
+	<title>Super Mario World Plus 3 - The New Home Hard</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Plus 4 - Super Mario Survivor">
+		<id>154120</id>
+	<locale lang="EN">
+	<title>Super Mario World Plus 4 - Super Mario Survivor</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Plus 5 - Training Days">
+		<id>191886</id>
+	<locale lang="EN">
+	<title>Super Mario World Plus 5 - Training Days</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Plus 6 World 1">
+		<id>191887</id>
+	<locale lang="EN">
+	<title>Super Mario World Plus 6 World 1</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario World Redblazer">
+		<id>191888</id>
+	<locale lang="EN">
+	<title>Super Mario World Redblazer</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Mario Wuss">
+		<id>191889</id>
+	<locale lang="EN">
+	<title>Super Mario Wuss</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Smash Kart New">
+		<id>192739</id>
+	<locale lang="EN">
+	<title>Super Smash Kart New</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Spongebob Kart">
+		<id>192755</id>
+	<locale lang="EN">
+	<title>Super Spongebob Kart</title>
+	<synopsis>Super Spongebob Kart SNES is a Super Nintendo ROM hack based on the Super Mario Kart SNES game. This hack is themed around the titular sponge that lives in a pineapple under the sea.</synopsis>
+	</locale>
+	<locale lang="FR">
+	<synopsis>Super Spongebob Kart est un hack de la ROM de Super Mario Kart sur Super Nintendo. Ce hack a pour thème l'univers de Bob l'éponge qui vit dans un ananas sous la mer.</synopsis>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Super Wario World">
+		<id>191890</id>
+	<locale lang="EN">
+	<title>Super Wario World</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Ultimate Mario World Bean World Crisis">
+		<id>172282</id>
+	<locale lang="EN">
+	<title>Ultimate Mario World Bean World Crisis</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Ultra Mario World 2">
+		<id>166655</id>
+	<locale lang="EN">
+	<title>Ultra Mario World 2</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Ultra Mario World V3.6">
+		<id>192758</id>
+	<locale lang="EN">
+	<title>Ultra Mario World V3.6</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Vanilla Level Design Contest">
+		<id>192759</id>
+	<locale lang="EN">
+	<title>Vanilla Level Design Contest</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Very Super Mario World, A">
+		<id>192741</id>
+	<locale lang="EN">
+	<title>Very Super Mario World, A</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Wario World Subcon">
+		<id>154122</id>
+	<locale lang="EN">
+	<title>Wario World Subcon</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Wario's Adventure">
+		<id>192760</id>
+	<locale lang="EN">
+	<title>Wario's Adventure</title>
+	</locale>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+</datafile>

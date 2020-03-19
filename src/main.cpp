@@ -3,7 +3,7 @@
  *
  * Create Category for WiiFlow
  *
- * Wiimpathy 2019
+ * Wiimpathy 2020
  *
  ***************************************************************************/
 #include <iostream>
@@ -30,7 +30,7 @@ static void Usage(const char *exename, int error, const char *arg_error)
 {
 	ClearScreen();
 
-	fprintf(stderr, "\nCategories %s (Wiimpathy 2019)\n", VERSION_STR);
+	fprintf(stderr, "\nCategories %s (Wiimpathy 2020)\n", VERSION_STR);
 
 	if(error == ARGV_MISSING_OPTION)
 	{
@@ -46,7 +46,7 @@ static void Usage(const char *exename, int error, const char *arg_error)
 	fprintf(stderr, "\n");
 	fprintf(stderr, "Usage: %s File [-OPTIONS] \n", exename);
 	fprintf(stderr, "\n");
-	fprintf(stderr, "#Path#\n");
+	fprintf(stderr, "#File#\n");
 	fprintf(stderr, "  The path to the WiiFlow .db file.\n");
 	fprintf(stderr, "\n");
 	fprintf(stderr, "#OPTIONS#\n");

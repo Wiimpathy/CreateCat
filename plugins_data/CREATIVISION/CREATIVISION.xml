@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201912061424" games="22"/>
-  <game name="Air/Sea Attack">
+    <WiiTDB version="201912061424" games="20"/>
+  <game name="Air Sea Attack">
     <id>122213</id>
     <locale lang="EN">
       <title>Air/Sea Attack</title>
@@ -206,14 +206,14 @@ Creatures of the deep! The nastiest creatures of the sea are after you. The Devi
       <control type="wiimote" required="true"/>
     </input>
     <developer/>
-    <publisher/>
-    <date year="" month="" day=""/>
+    <publisher>VTL</publisher>
+    <date year="1981" month="" day=""/>
   </game>
   <game name="Locomotive">
     <id>122237</id>
     <locale lang="EN">
       <title>Locomotive</title>
-      <genre>Action</genre>
+      <genre>Action,Miscellaneous</genre>
       <synopsis>You're a prisoner in a train factory
 
 The only way out is to build your own train. You have to run across dangerous catwalks, high in the air and drop all the right parts onto the tracks below, in the right order, if you want to survive.
@@ -293,7 +293,7 @@ Aliens, from a far galaxy are attacking earth, abut first they must conquer the 
     <id>122241</id>
     <locale lang="EN">
       <title>Police Jump</title>
-      <genre>Action</genre>
+      <genre>Action,Miscellaneous</genre>
       <synopsis>You are a Police Inspector
 
 The notorious criminal, Dangerous Dan, has kidnapped a beautiful rich girl and you've tracked him down to his sky-scraper hideaway, but that's the easy part. Now you have to up there, all by yourself and get him. There are twenty floors between you and your goal, every one of them filled with treacherous booby traps.</synopsis>
@@ -351,7 +351,7 @@ The time - A clock on the top of your screen will time the game. When time is up
     <id>122244</id>
     <locale lang="EN">
       <title>Stone Age</title>
-      <genre>Action</genre>
+      <genre>Action,Puzzle,</genre>
       <synopsis>A Pengo clone for the VTech Creativision and one of the last releases for the system. It stars a caveman who must shove rocks into dinosaurs in order to defeat them and clear levels.</synopsis>
     </locale>
     <rating type="NOTE" value="">
@@ -367,10 +367,26 @@ The time - A clock on the top of your screen will time the game. When time is up
     <id>122245</id>
     <locale lang="EN">
       <title>Tank Attack</title>
-      <genre>Vehicle Simulation</genre>
+      <genre>Simulation</genre>
       <synopsis>You are a tank commander! You are engaged in a battle to the death with another Tank commander who has the same weapons as you have, so only your superior skill can win the day!
 
 More dangers than the eye can see! Besides enemy tanks, there are many dangers to contend with. There may be hidden minefields that you will never see until it is too late. The terrain itself can prove deadly. A fall in the deep water of the river could be the end of you. In addition, your treacherous enemy can switch tanks, and attack from a completely different direction with no warning.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+    </input>
+    <developer>VTech</developer>
+    <publisher>VTech</publisher>
+    <date year="1981" month="" day=""/>
+  </game>
+  <game name="Tennis">
+    <id>122246</id>
+    <locale lang="EN">
+      <title>Tennis</title>
+      <genre>Sports</genre>
+      <synopsis>Now you can learn the strategies and tactics of one of the world's most popular sports without leaving your own living room with the amazing true-to-life: CREATIVISION TENNIS</synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>

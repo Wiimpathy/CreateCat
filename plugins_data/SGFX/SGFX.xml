@@ -32,7 +32,7 @@ The game consists of six levels and was the first in the series to introduce a +
 		<date year="1991" month="08" day="23"/>
 		<rating type="NOTE" value="15">
 		</rating>
-		<input players="1-2">
+		<input players="2">
 			<control type="wiimote" required="true"/>
 			<control type="nunchuk" required="false"/>
 			<control type="classiccontroller" required="false"/>
@@ -149,7 +149,49 @@ Players progress from left to right (from bottom to top in level 3), and have to
 		<date year="1990" month="07" day="27"/>
 		<rating type="NOTE" value="14">
 		</rating>
-		<input players="1-2">
+		<input players="2">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+<game name="Darius Alpha">
+		<id>100005</id>
+		<locale lang="EN">
+	<title>Darius Alpha</title>
+	<synopsis>Darius Alpha is a side-scrolling shoot-'em-up game for the PC Engine released as part of the Darius series. It can be enhanced if played on a PC Engine SuperGrafx.
+
+Darius Alpha was offered to those who had, for whatever reason, bought both the PC Engine and CD-ROM² versions of Darius Plus/Super Darius. However, it is essentially just a run of bosses found in that game, as opposed to a fully fledged Darius release. Only around 800 copies were ever produced.</synopsis>
+<genre>Shoot'em up / Horizontal,Shoot'em Up, Boss Rush</genre>
+	</locale>
+		<developer>Bits Laboratory</developer>
+		<publisher>NEC Avenue</publisher>
+		<date year="1990" month="3" day="16"/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true"/>
+			<control type="nunchuk" required="false"/>
+			<control type="classiccontroller" required="false"/>
+			<control type="gamecube" required="false"/>
+		</input>
+	</game>
+	<game name="Darius Plus">
+		<id>100006</id>
+		<locale lang="EN">
+			<title>Darius Plus</title>
+			<synopsis>Darius Plus is a 1990 port of Darius for the PC Engine, and a "light" version of Super Darius that was released earlier that year. It is mostly the same as the original game, but with music and sound rearranged for the PC Engine's sound hardware, a lower number of bosses, and certain bug fixes.
+
+		Plus is unusual for being the only PC Engine game to also have support for the SuperGrafx; the SG can handle sprites better than the normal PCE, so a lot of flickering is removed.</synopsis>
+		<genre>Shoot'em up / Horizontal,Shoot'em Up</genre>
+	</locale>
+		<developer>Bits Laboratory</developer>
+		<publisher>NEC Avenue</publisher>
+		<date year="1990" month="9" day="21"/>
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="1">
 			<control type="wiimote" required="true"/>
 			<control type="nunchuk" required="false"/>
 			<control type="classiccontroller" required="false"/>

@@ -1,8 +1,6 @@
 38564A|3 Ji No Wide Shou|3 Ji No Wide Shou|||||||
-88924A|Actraiser|Actraiser|ActRaiser 2|,Adventure|||||
 38574A|Ak Live Hit Gang|AK LIVE Hit Gang|||||St.GIGA|Nintendo|1995
 126171|Albert Odyssey|Albert Odyssey|Albert Odyssey 2 - Jashin no Taidou|,RPG|||||1998
-126172|Arkanoid - Doh It Again|Arkanoid - Doh It Again||,Breakout|||||1997
 38589A|B Dash - 2 Gatsugou|B Dash - 2 Gatsugou|||||||
 38592A|Bakusho Mondai No Shirikon Chounaikai|Bakusho Mondai no Shirikon Chounaikai|||||||
 189073|Bakushow Mondai no Totsugeki! Star Pirates : |Bakushow Mondai no Totsugeki! Star Pirates : |||||||
@@ -31,50 +29,35 @@
 38668A|Bs-x - Sore Wa Namae O Nusumareta Machi No Monogatari|Bs-x - Sore Wa Namae O Nusumareta Machi No Monogatari|||||||
 126176|Casino Bar Mokuyoubi|Casino Bar Mokuyoubi|||||||
 38671A|Cheap De Gorgeous Vol. 1|Cheap de Gorgeous Vol. 1|BS Cheap de Gorgeous Vol. 1||||||
-38675A|Chrono Trigger|Chrono Trigger|BS Chrono Trigger - Character Library|,Other|||||
 38679A|Cock-a-doodle-do|Cock-A-Doodle-Do|||||||
 38680A|Columbus No Tamagoyaki|Columbus No Tamagoyaki|BS Columbus no Tamagoyaki 1||||||
 189071|Cu-On-Pa BS Ban|Cu-On-Pa BS Ban|||||||
-126177|Cu-on-pa Sfc|Cu-on-pa Sfc|BS Cu-On-Pa SFC|,Puzzle|||||
-126178|Daibakushou Jinsei Gekijou|Daibakushou Jinsei Gekijou|BS Daibakushou Jinsei Gekijou|,Board game|||||
 38699A|Dandan Belt Conveyor - Gyuunyuu No Maki|Dandan Belt Conveyor - Gyuunyuu no Maki|||||||
 38701A|Dandan Belt Conveyor - Ukulele No Maki|Dandan Belt Conveyor - Ukulele no Maki|||||||
 126179|Darius Force|Darius Force||,Shooter|||||
-38710A|Derby Stallion 98|Derby Stallion 98||,Breeding|||Nintendo|Nintendo|1998
 189078|DerbyStal 96 : Taiou 97-nendo Ban|DerbyStal 96 : Taiou 97-nendo Ban|||||||
 38713A|Dezaemon Bsx Version - Bs-x Shooting|Dezaemon BSX Version - BS-X Shooting|||||||
 38715A|Digital Magazine Busters Bs|Digital Magazine Busters Bs|||||||
 38722A|Do-re-mi De Faa|Do-re-mi De Faa|||||||
-126163|Dokapon Gaiden - Honoo No Audition|Dokapon Gaiden - Honoo No Audition||,Board game|||||
-38728A|Doukyuusei 2|Doukyuusei 2||Simulation,|||Elf|Banpresto|1997
 126180|Dr. Mario|Dr. Mario|BS Dr. Mario|,Puzzle|||||
-126164|Dragon Slayer - Eiyuu Densetsu|Dragon Slayer - Eiyuu Densetsu|BS Dragon Slayer - Eiyuu Densetsu|,RPG|||||
 38738A|Dynami Tracer|Dynami Tracer|BS Dynami Tracer|,Racing|||||
 109025|Excitebike - Bun Bun Mario Battle|Excitebike - Bun Bun Mario Battle||Race, Driving / Race,Race, Driving,|2||Nintendo|Nintendo|
-126181|F-zero|F-zero||,Racing|||||
-38761A|Famicom Bunko - Hajimari No Mori|Famicom Bunko - Hajimari no Mori||Adventure,|||Pax Softonica|Nintendo|1999
 38762A|Famicom Tantei Club Part 2 - Ushiro Ni Tatsu Shoujo|Famicom Tantei Club Part II - Ushiro ni Tatsu Shou||Adventure,|1||TOSE|Nintendo|1998
 38763A|Famitsu Magazine Karara Ban|Famitsu Magazine Karara Ban|||||||
 38764A|Fenek - 6 Gatsugou|Fenek - 6 Gatsugou|||||||
-126182|Firemen, The|Firemen, The||,Action|||||
 38777A|Freud No Chousenjou|Freud No Chousenjou|||||||
 38784A|Gal Kan Bazooka - Dai-5-kan|Gal Kan Bazooka - Dai-5-kan|||||||
-126165|Gambler Jiko Chuushinha 2 - Dorapon Quest|Gambler Jiko Chuushinha 2 - Dorapon Quest|||||||
 126183|Game Tora No Chou Ooana 2|Game Tora No Chou Ooana 2|||||||
 189077|Game Tora no Ooana Special|Game Tora no Ooana Special|||||||
 38792A|Game Tora No Taikoban|Game Tora No Taikoban|||||||
 38802A|Gekkan Coin Toss - Deck 1|Gekkan Coin Toss - Deck 1|||||||
-38803A|Genjuu Ryodan|Genjuu Ryodan||,RPG|1||Crea-tech|Axela|1998
 38813A|Golf Daisuki! O.b. Club|Golf Daisuki! O.B. Club|||||||
 38816A|Goodspress|Goodspress|||||||
-18950A|Gs Mikami - Joreishi Wa Nice Body|GS Mikami: Joreishi wa Nice Body|GS Mikami - Joreishi ha Nice Body|Beat'em Up,|1||Natsume Co., Ltd.|Bandai|1993
-126184|Heisei Gunjin Shougi|Heisei Gunjin Shougi|BS Heisei Gunjin Shougi|,Arcade|||||
 126185|Ijuin Hikaru No Houkago No Ousama|Ijuin Hikaru No Houkago No Ousama|||||||
 126186|Ikari No Yousai|Ikari No Yousai||,Action|||||
 189075|Izumiya Shigeru & Hamasaki Ayumi : Okami Ga K|Izumiya Shigeru & Hamasaki Ayumi : Okami Ga K|||||||
 38901A|Jewel Of Live|Jewel of Live|||||||
-19096A|Kaiz Chjin Shubibinman Zero|Kaiz Chjin Shubibinman Zero|||2||Masaya|NCS Corporation|1997
-126166|Kessen! Dokapon Oukoku 4 - Densetsu No Yuusha-tachi|Kessen! Dokapon Oukoku 4 - Densetsu No Yuusha-tachi|||||||
+19096A|Kaiz Chjin Shubibinman Zero|Kaiz Chjin Shubibinman Zero|||2|Coop|Masaya|NCS Corporation|1997
 126187|Kid Klown No Crazy Chase|Kid Klown No Crazy Chase|Kid Klown in Crazy Chase|,Platform|||||
 126188|Kikikai-kai - Nazo No Kuro Manteau|Kikikai-kai - Nazo No Kuro Manteau|||||||
 38994A|Kirby No Omochabako - Baseball|Kirby no Omochabako - Baseball||,Baseball|||||
@@ -87,10 +70,8 @@
 44229A|Koi Wa Balance - Tatoeba K-kun No Tabou Na Ichinichi Hen|Koi wa Balance - Tatoeba K-kun no Tabou na Ichinic|||||||
 126192|Konae-chan No Dokidoki Penguin Kazoku|Konae-chan No Dokidoki Penguin Kazoku|||||||
 189074|Kouryaku Casino Bar Nichiyoubi : Roulette G |Kouryaku Casino Bar Nichiyoubi : Roulette G |||||||
-126193|Lemmings|Lemmings|Lemmings 2 - The Tribes|,Puzzle|||||
 44295A|Let's Pachinko Nante Gindama|Let's Pachinko Nante Gindama||,Slot machine|||||
 126194|Logos Panic Goaisatsu Bs Ban|Logos Panic Goaisatsu Bs Ban|||||||
-126195|Lord Monarch|Lord Monarch||,Puzzle|||||
 44475A|Machi Magazine|Machi Magazine|||||||
 59689A|Maria - Part 1|MARIA - Part 1|||||||
 126196|Mario Paint - Bs Ban|Mario Paint - Bs Ban|||||||
@@ -99,21 +80,16 @@
 59692A|Monopoly 2 Bs - Red Cup|Monopoly 2 BS - Red Cup|||||||
 59693A|Monopoly 2 Bs - Yellow Cup|Monopoly 2 BS - Yellow Cup|||||||
 126198|New 3d Golf Simulation - Waialae No Kiseki|New 3d Golf Simulation - Waialae No Kiseki|||||||
-126199|New Yatterman - Nandai Kandai Yajirobee|New Yatterman - Nandai Kandai Yajirobee||,Action|||||
-65247A|Nintama Rantarou 2|Nintama Rantarou 2||,Platform|||Culture Brain|Culture Brain|1996
 65288A|Nintendo Power Magazine 107|Nintendo Power Magazine 107|||||||
 65289A|Panel De Pon - Event '98|Panel de Pon - Event '98||,Puzzle|||||
 65290A|Pokekame Magazine|Pokekame Magazine|||||||
 65291A|Puyo Puyo Tsuu Bs Ban|Puyo Puyo Tsuu BS Ban|||||||
-2364AA|Radical Dreamers|Radical Dreamers||Role playing games,|1||Square Enix|Square Enix|1996
 65292A|Ryouma De Yuku|Ryouma de Yuku|||||||
-126200|Same Game|Same Game||,Puzzle|||||
 44340A|Samekame Dai Sakusen Mariobajon|Samekame Dai Sakusen Mariobajon|||||Hudson|Nintendo|1995
 65293A|Satella Walker 2|Satella Walker 2 - Sate Bou o Sukuidase!|||||||
 65294A|Satesupo Dx|Satesupo DX - Dai-4-gou|||||||
 126204|Sd Gundam G Next - Unit And Map Collection|Sd Gundam G Next - Unit And Map Collection|||||||
 65295A|Shanghai - Banri No Choujou|Shanghai - Banri no Choujou||,Puzzle|||||
-2470AA|Sonic Blast Man|Sonic Blast Man|Sonic Blast Man II|Beat'em Up,|1||Taito|Taito|1992
 65296A|Sound Journal For Lovers - Valentine Special Vol. 1|Sound Journal For Lovers - Valentine Special Vol. 1|||||||
 65297A|Sousa Sentai Wappers|Sousa Sentai Wappers|||||||
 65300A|Special Tee Shot|Special Tee Shot|BS Special Tee Shot|Sports,|||HAL Labs|Nintendo|1999
@@ -122,11 +98,6 @@
 88044A|Super Bomber Man|Super Bomber Man|Super Bomberman|,Arcade|||||
 126205|Super Bomber Man 2|Super Bomber Man 2|||||||
 2471AA|Super Earth Defense Force|Super Earth Defense Force|BS Super Earth Defense Force|Shoot'em Up,|1||Jaleco|Jaleco|1991
-65302A|Super Famicom Wars|Super Famicom Wars|BS Super Famicom Wars|,Strategy|||||
-65303A|Super Fire Pro Wrestling|Super Fire Pro Wrestling|Super Fire Pro Wrestling 2|,Wrestling|||||
-65304A|Super Mahjong Taikai|Super Mahjong Taikai|BS Super Mahjong Taikai|,Mahjong|||||
-65307A|Super Ninja-kun|Super Ninja-kun|BS Super Ninja-kun|,Action|||||
-65308A|Super Puyo Puyo Tsuu|Super Puyo Puyo Tsuu|Super Puyo Puyo 2 Remix|,Puzzle|||||
 65309A|Super Tsumeshougi 1000|Super Tsumeshougi 1000|||||||
 65310A|Super Volley 2|Super Volley II|||||||
 65311A|Sutte Hakkun - 98 Fuyu Event Version|Sutte Hakkun - 98 Fuyu Event Version|||||||

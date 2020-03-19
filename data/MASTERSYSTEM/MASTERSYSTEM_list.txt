@@ -26,7 +26,7 @@
 150972|Alex Kidd In Miracle World 2|Alex Kidd In Miracle World 2||Plateform / Run Jump,Platform,|1||Ian Wall|Ian Wall|2017
 778AAA|Alex Kidd In Shinobi World|Alex Kidd in Shinobi World||Platform,Action,|1||Sega|Sega|1990
 817AAA|Alf|Alf||Adventure,|1||Sega|Sega|1989
-78353A|Alibaba And 40 Thieves|Alibaba and 40 Thieves||Action,|1||HiCom|HiCom|1989
+78353A|Alibaba And 40 Thieves|Alibaba and 40 Thieves||Action,Arcade,,|1||HiCom|HiCom|1989
 797AAA|Alien 3|Alien 3||Platform,|2||Probe|Acclaim Entertainment|1992
 911AAA|Alien Storm|Alien Storm||Beat'em Up,Action,|1||Sega|Sega|1991
 852AAA|Alien Syndrome|Alien Syndrome||Shoot'em Up,Action,|2||Sega|Sega|1987
@@ -36,9 +36,9 @@
 64890A|Antiisda Warrior|AntiISDA Warrior||Shooter / Space Invaders Like,Shooter,|1||Tzvetkov & Ventzislav|Tzvetkov & Ventzislav|2004
 18465A|Arcade Smash Hits|Arcade Smash Hits||Role playing games,|2||Images Software Ltd.|Atari - Virgin|1992
 841AAA|Argos No Juujiken|Rygar||Platform,Action,|2||Tecmo|Salio - Tecmo|1986
-18477A|Ariel - The Little Mermaid|Ariel - The Little Mermaid||Action,Platform|1||BlueSky Software, Inc.|Tec Toy Indústria de Brinquedos S.A.|1993
+18477A|Ariel - The Little Mermaid|Ariel - The Little Mermaid||Action,Platform,|1||BlueSky Software, Inc.|Tec Toy Indústria de Brinquedos S.A.|1993
 64891A|Artillery Master 8k|Artillery Master 8k||Shooter,|2||Pinheiro & Haroldo|Pinheiro & Haroldo|2006
-18466A|As Aventuras Da Tv Colosso|As Aventuras da TV Colosso||Action,Platform|2||Sega|Tec Toy Indústria de Brinquedos S.A.|1996
+18466A|As Aventuras Da Tv Colosso|As Aventuras da TV Colosso||Action,Platform,|2||Sega|Tec Toy Indústria de Brinquedos S.A.|1996
 895AAA|Assault City|Assault City||Lightgun Shooter,Action,|1||Sanritsu|Sega|1990
 769AAA|Astérix|Astérix|Asterix and the Great Rescue|Platform,|2||Sega|Sega|1991
 795AAA|Astérix And The Great Rescue|Astérix and the Great Rescue|Asterix and the Great Rescue|Platform,|1||Core Design|Tec Toy|1994
@@ -46,8 +46,8 @@
 918AAA|Astro Warrior|Astro Warrior||Shoot'em Up,Action,|2||Sega|Sega|1986
 890AAA|Ayrton Senna's Super Monaco Gp 2|Ayrton Senna's Super Monaco GP II||Race, Driving,|1||Sega|Sega|1992
 834AAA|Aztec Adventure|Aztec Adventure|Aztec Adventure - The Golden Road to Paradise|Puzzle-Game,Strategy,|1||Sega|Sega|1987
-813AAA|Back To The Future Part 2|Back to the Future Part II||Action,|1||Images Software Ltd.|Imageworks|1990
-887AAA|Back To The Future Part 3|Back to the Future Part III||Action,|1||Probe Software|Imageworks|1991
+813AAA|Back To The Future Part 2|Back to the Future Part II||Action,Arcade,,|1||Images Software Ltd.|Imageworks|1990
+887AAA|Back To The Future Part 3|Back to the Future Part III||Action,Arcade,,|1||Probe Software|Imageworks|1991
 18467A|Baku Baku Animal|Baku Baku Animal|Baku Baku Animals|Action,Puzzle-Game,|1||Sega|Tec Toy Indústria de Brinquedos S.A.|1998
 962AAA|Bank Panic|Bank Panic||Lightgun Shooter,Action,|1||Sanritsu|Sega|1984
 929AAA|Basketball Nightmare|Basketball Nightmare|Basket Ball Nightmare|Sports,|2||Sega|Sega|1989
@@ -58,7 +58,7 @@
 821AAA|Black Belt|Black Belt||Beat'em Up,Action,|2||Sega|Sega|1986
 944AAA|Blade Eagle 3-d|Blade Eagle 3-D|Blade Eagle 3D|Shoot'em Up,Action,|1||Sega|Sega|1988
 78354A|Block Hole|Block Hole||Shoot'em Up,|2||Konami|Zemina|1990
-64893A|Blockhead|Blockhead|||||Proppy|Proppy|2004
+64893A|Blockhead|Blockhead||Puzzle,,|||Proppy|Proppy|2004
 78355A|Bobble Bobble|Bobble Bobble [Clover]|Bubble Bobble|Action,Arcade|1||Clover|Clover|1990
 189096|Bolas e Cores|Bolas e Cores||Puzzle-Game,|1||TecToy|TecToy|
 189094|Bolhas|Bolhas|||1||TecToy|TecToy|
@@ -67,7 +67,7 @@
 952AAA|Bonanza Bros.|Bonanza Bros.|Bonanza Bros|Platform,Action,|1||Sega|Sega|1991
 991AAA|Bonkers - Wax Up !|Bonkers : Wax Up !|Bonkers Wax Up!|Platform,|1||Al Baker & Associates|Disney - Sega - Tec Toy|1996
 18469A|Bram Stoker's Dracula|Bram Stoker's Dracula||Platform,Action,|1||Probe Software Ltd.|Probe - Psygnosis - Sony|1992
-186690|Bruce Lee|Bruce Lee|Dragon - The Bruce Lee Story|Action|1||Kagesan||2015
+186690|Bruce Lee|Bruce Lee|Dragon - The Bruce Lee Story|Action,Platform,,|1||Kagesan||2015
 770AAA|Bubble Bobble|Bubble Bobble||Platform,Action,|2|Coop|Taito|Taito|1986
 18470A|Buggy Run|Buggy Run||Race, Driving,|2||SIMS Co., Ltd.|Sega|1993
 840AAA|California Games|California Games|California Games II|Sports,|8||Epyx|Epyx - Sega|1989
@@ -85,14 +85,14 @@
 956AAA|Chase H.q. 2 - Special Criminal Investigation|Chase H.Q. II : Special Criminal Investigation||Race, Driving,|1||Taito|Taito|1992
 995AAA|Cheese Cat-astrophe Starring Speedy Gonzales|Cheese Cat-Astrophe starring Speedy Gonzales|Cheese Cat-astrophe|Platform,Action,|1||Sega|Time Warner Interactive|1995
 115856|Chip 8|Chip 8|||||Maxim|homebrew|
-838AAA|Choplifter|Choplifter||Action,Shooter|2||Sega|Sega|1985
+838AAA|Choplifter|Choplifter||Action,Shooter,|2||Sega|Sega|1985
 893AAA|Chuck Rock|Chuck Rock|Chuck Rock II - Son of Chuck|Platform,Action,|1||Core Design|Core Design - Virgin|1991
 934AAA|Chuck Rock 2 - Son Of Chuck|Chuck Rock II : Son of Chuck||Platform,|1||Core Design|Core Design|1993
 861AAA|Cloud Master|Cloud Master||Shoot'em Up,Action,|2||Taito|Sega|1989
 44243A|Color And Switch Test|Color & Switch Test|||||||
 872AAA|Columns|Columns||Puzzle-Game,|2||Sega|Sega|1990
-78356A|Comic Bakery|Comic Bakery||Action,|2||Konami|Konami|
-44244A|Comical Machine Gun Joe|Comical Machine Gun Joe||Action,|1||Sega|Sega|1986
+78356A|Comic Bakery|Comic Bakery||Action,Arcade,Platform,,|2||Konami|Konami|2
+44244A|Comical Machine Gun Joe|Comical Machine Gun Joe||Action,Shooter,|1||Sega|Sega|1986
 803AAA|Cool Spot|Cool Spot||Platform,Action,|1||Virgin|Virgin|1993
 18476A|Cosmic Spacehead|Cosmic Spacehead||Adventure,|2||Codemasters|Codemasters|1993
 189098|Creature Capture|Creature Capture|||1||Overplay|TecToy|
@@ -113,7 +113,7 @@
 44247A|Dinobasher Starring Bignose The Caveman|Dinobasher Starring Bignose the Caveman|Dinobasher - Starring Bignose the Caveman|Platform,|||Optimus Software|Codemasters|1993
 189085|Domino|Domino|||1||TecToy|TecToy|
 762AAA|Double Dragon|Double Dragon||Beat'em Up,Action,|2||Tecmo|Tradewest|1988
-18478A|Double Hawk|Double Hawk||Action,Gun shooter|2||Opera House|Sega|1990
+18478A|Double Hawk|Double Hawk||Action,Shooter,|2||Opera House|Sega|1990
 18479A|Dr. Robotnik's Mean Bean Machine|Dr. Robotnik's Mean Bean Machine||Puzzle-Game,|2||Compile|Sega|1991
 864AAA|Dragon - The Bruce Lee Story|Dragon : The Bruce Lee Story||Beat'em Up,|2||Avalon Interactive|Acclaim Entertainment|1993
 820AAA|Dragon Crystal|Dragon Crystal||Role playing games,|1||Sega|Sega|1991
@@ -129,7 +129,7 @@
 894AAA|Ecco - The Tides Of Time|Ecco : The Tides of Time|Ecco the Dolphin - Tides of Time|Adventure,|1||Novotrade International|Novotrade - Sega - Tec Toy|1994
 790AAA|Ecco The Dolphin|Ecco the Dolphin|Ecco the Dolphin - Tides of Time|Adventure,Action,|1||Sega|Novotrade - Sega|1993
 844AAA|Enduro Racer|Enduro Racer||Race, Driving,|1||Sega|Sega|1987
-97418A|Excellent Dizzy Collection|Excellent Dizzy Collection||Compilation,|||Codemasters|Codemasters|
+97418A|Excellent Dizzy Collection|Excellent Dizzy Collection||Compilation,|||Codemasters|Codemasters|2
 44256A|F-1 Spirit - The Way To Formula-1|F-1 Spirit - The Way to Formula-1||Race, Driving,|||Zemina|Zemina|1987
 989AAA|F-16 Fighter|F-16 Fighter||Simulation,|1||Nexa Corporation|ASCII - Sega|1985
 875AAA|F1|F1|F1 Championship|Race, Driving,Simulation,Sports,|2||Domark|Lankhor|1993
@@ -142,26 +142,26 @@
 115799|Felipe Em Ação|Felipe Em Ação|||||Tec Toy|Tec Toy|1985
 896AAA|Fifa International Soccer|FIFA International Soccer||Sports,|1||Tec Toy|EA Sports|1994
 961AAA|Fire And Forget 2|Fire & Forget II|Fire & Forget 2|Shoot'em Up,Race, Driving,|1||Titus|Titus|1990
-18484A|Fire And Ice|Fire & Ice||Action,Platform|2||Graftgold Creative Software|Tec Toy Indústria de Brinquedos S.A.|1993
+18484A|Fire And Ice|Fire & Ice||Action,Platformer,|2||Graftgold Creative Software|Tec Toy Indústria de Brinquedos S.A.|1993
 64900A|Fire Track|Fire Track|||||Ben Ryves|homebrew|2006
 44258A|Flashpoint|Flashpoint||Puzzle-Game,|2||Zemina|Zemina|1990
 903AAA|Forgotten Worlds|Forgotten Worlds||Lightgun Shooter,Action,|1||Sega|Capcom - Sega|1990
-18483A|Férias Frustradas Do Pica-pau|Frias Frustradas do Pica-Pau|Ferias Frustradas do Picapau|Action,|1||Tec Toy Indústria de Brinquedos S.A.|Tec Toy Indústria de Brinquedos S.A.|1996
-64901A|Frogger|Frogger|||||Konami|Konami|2005
-44259A|Fushigi No Oshiro Pit Pot|Fushigi no Oshiro Pit Pot||Action,Arcade|1||Sega|Sega|1985
-18493A|G-loc Air Battle|G-Loc Air Battle||Action,Aerial fighting|1||Sega|Sega|1991
-44254A|Gaegujangi Ggachi|Gaegujangi Ggachi||Platform,|||HiCom|HiCom|1993
+18483A|Férias Frustradas Do Pica-pau|Frias Frustradas do Pica-Pau|Ferias Frustradas do Picapau|Action,Platform,,|1||Tec Toy Indústria de Brinquedos S.A.|Tec Toy Indústria de Brinquedos S.A.|1996
+64901A|Frogger|Frogger||Action,Arcade,,|||Konami|Konami|2005
+44259A|Fushigi No Oshiro Pit Pot|Fushigi no Oshiro Pit Pot||Action,Arcade,|1||Sega|Sega|1985
+18493A|G-loc Air Battle|G-Loc Air Battle||Action,Aerial fighting,|1||Sega|Sega|1991
+44254A|Gaegujangi Ggachi|Gaegujangi Ggachi||Platform,|1||HiCom|HiCom|1993
 876AAA|Gain Ground|Gain Ground||Strategy,|2||Sega|Sega|1990
 18486A|Galactic Protector|Galactic Protector||Shoot'em Up,Action,|2||Sega|Sega|1988
-64902A|Galaxian|Galaxian|Sagaia|Shoot'em Up,|1||Namco|HiCom|
+64902A|Galaxian|Galaxian|Sagaia|Shoot'em Up,|1||Namco|HiCom|1
 863AAA|Galaxy Force|Galaxy Force||Shoot'em Up,Action,|1||AM R&D Dept. #2|Sega|1989
 18487A|Game Box Série Corridas|Game Box Srie Corridas||Sports,Race, Driving,|2||Sega|Tec Toy Indústria de Brinquedos S.A.|1994
 18489A|Game Box Srie Esportes Radicais|Game Box Srie Esportes Radicais||Sports,|8||Epyx|Tec Toy Indústria de Brinquedos S.A.|1989
 18490A|Game Box Série Lutas|Game Box Srie Lutas||Action,|2||Sega|Tec Toy Indústria de Brinquedos S.A.|1994
-78359A|Gangcheol Robocop|Gangcheol RoboCop||Action,|1||Sieco|Sieco|1992
+78359A|Gangcheol Robocop|Gangcheol RoboCop||Action,Platformer,Shooter,|1||Sieco|Sieco|1992
 885AAA|Gangster Town|Gangster Town||Lightgun Shooter,Action,|2||Sega|Sega|1987
-851AAA|Gauntlet|Gauntlet||Action,Adventure|2||U.S. Gold|Atari - Tengen - U.S. Gold|1990
-189429|Gekioko PunPun Maru|Gekioko PunPun Maru||Platform,|1||Future Driver||2013
+851AAA|Gauntlet|Gauntlet||Action,Puzzle,Shooter,|2||U.S. Gold|Atari - Tengen - U.S. Gold|1990
+189429|Gekioko PunPun Maru|Gekioko PunPun Maru||Platform,|1||Future Driver|Future Driver|2013
 18491A|George Foreman's Ko Boxing|George Foreman's KO Boxing||Sports,|2||SIMS Co., Ltd.|Flying Edge, Inc.|1992
 18492A|Geraldinho|Geraldinho||Action,Platform,|2||Sega|Tec Toy Indústria de Brinquedos S.A.|1985
 833AAA|Ghost House|Ghost House||Platform,Action,|2||Sega|Sega|1986
@@ -200,20 +200,20 @@
 953AAA|James Pond 2 - Codename Robocod|James Pond 2 : Codename RoboCod||Platform,|1||Tiertex Design Studios|Electronic Arts|1991
 141317|Jang Pung 2|Jang Pung 2||Fighting,|2||Open Corp.|Sieco|1993
 44252A|Jang Pung 3|Jang Pung 3||Fight,|2||Open Corp.|Sieco|1994
-97417A|Janggun-ui Adeul|Janggun-ui Adeul||Action,|2||Daou Infosys|Daou Infosys|1992
+97417A|Janggun-ui Adeul|Janggun-ui Adeul||Action,Beat'em Up,|2||Daou Infosys|Daou Infosys|1992
 18502A|Joe Montana Football|Joe Montana Football||Sports,|2||BlueSky Software, Inc.|Sega|1990
 115809|Jornada Do Mymo|Jornada Do Mymo|||||hack|hack|1989
 115810|Jornada Do Mymo 2|Jornada Do Mymo 2|||||hack|hack|1989
 782AAA|Jurassic Park|Jurassic Park||Fight,Sports,Action,|1||Sega|Sega|1993
-822AAA|Kenseiden|Kenseiden||Action|1||Sega|Samsung - Sega|1988
-78361A|King And Balloon|King & Balloon||Shoot'em Up,|||Namco|Namco|
+822AAA|Kenseiden|Kenseiden||Action,Beat'em Up,Platformer,|1||Sega|Samsung - Sega|1988
+78361A|King And Balloon|King & Balloon||Shoot'em Up,|||Namco|Namco|1
 823AAA|King's Quest - Quest For The Crown|King's Quest : Quest for the Crown||Adventure,|1||Parker Brothers|Sierra|1989
 988AAA|Klax|Klax||Puzzle-Game,Strategy,|1||Tengen|Atari - Tengen|1990
 904AAA|Krusty's Fun House|Krusty's Fun House||Puzzle-Game,Platform,Action,|1||Audiogenic|Acclaim Entertainment|1992
 827AAA|Kung Fu Kid|Kung Fu Kid||Beat'em Up,Action,|2||Sega|Sega|1987
 64903A|Kunkun And Kokokun|KunKun and KokoKun|||||Bock|Cornut, Omar|2006
 771AAA|Land Of Illusion Starring Mickey Mouse|Land of Illusion starring Mickey Mouse||Platform,Action,|1||Sega|Disney - Sega|1992
-189430|Lander 2|Lander 2||Action,Flight Simulator,|1||Jmimu||2015
+189430|Lander 2|Lander 2||Action,Flight Simulator,|1||Jmimu|Jmimu|2015
 970AAA|Laser Ghost|Laser Ghost||Lightgun Shooter,Action,|1||Sega|Sega|1991
 786AAA|Jungle Book, The|The Jungle Book||Race, Driving,|1||Virgin|Eurocom - Virgin|1993
 776AAA|Lion King, The|The Lion King||Platform,|1||Syrox Developments|Virgin|1994
@@ -223,23 +223,23 @@
 828AAA|Les Schtroumpfs|The Smurfs||Platform,|1||Infogrames|Infogrames|1994
 18527A|Les Schtroumpfs Autour Du Monde|The Smurfs Travel the World||Platform,|1||Virtual Studio|Infogrames|1996
 64904A|Lethal Weapon 3|Lethal Weapon 3|||||Probe||
-18503A|Line Of Fire|Line of Fire||Action,Shooter|1||Sanritsu Denki Co., Ltd.|Sega|1991
+18503A|Line Of Fire|Line of Fire||Action,Shooter,|1||Sanritsu Denki Co., Ltd.|Sega|1991
 881AAA|Lord Of The Sword|Lord of the Sword||Adventure,Role playing games,Action,|1||Sega|Sega|1988
 44249A|Loretta No Shouzou - Sherlock Holmes|Loretta no Shouzou||Adventure,|1||Saga|Sega|1987
 44273A|Mahjong Sengoku Jidai|Mahjong Sengoku Jidai||Mahjong,Puzzle-Game,Asiatic board game,|1||Sanritsu|Sega|1987
-905AAA|Marble Madness|Marble Madness||Action,Arcade|1||Tengen|Virgin|1992
+905AAA|Marble Madness|Marble Madness||Action,Arcade,|1||Tengen|Virgin|1992
 64905A|Marksman Shooting + Trap Shooting|Marksman Shooting & Trap Shooting|Marksman Shooting - Trap Shooting|Lightgun Shooter,Compilation,|2||Sega|Sega|1986
 18504A|Master Games 1|Master Games 1||Sports,Strategy,|2||Sega|Sega|1993
 115813|Master Mario Bros|Master Mario Bros|||||hack|hack|1985
 115814|Master Mega Man|Master Mega Man|||||hack|hack|1988
-809AAA|Master Of Darkness|Master of Darkness||Action|1||Sims|Sega|1988
+809AAA|Master Of Darkness|Master of Darkness||Action,Platformer,|1||Sims|Sega|1988
 115815|Master Smash Brothers|Master Smash Brothers|||||hack|hack|1989
 115817|Master Zelda|Master Zelda|||||hack|hack|1985
 44274A|Masters Of Combat|Masters of Combat||Fight,|2||Sims|Sega|1993
 921AAA|Maze Hunter 3-d|Maze Hunter 3-D|Maze Hunter 3D|Action|1||Sega|Sega|1987
-44275A|Megumi Rescue|Megumi Rescue||Action,Arcade|1||Sega|Sega|1988
+44275A|Megumi Rescue|Megumi Rescue||Action,Arcade,|1||Sega|Sega|1988
 189097|Memoria Master|Memoria Master|||1||TecToy|TecToy|
-932AAA|Mercs|Mercs||Action|1||Capcom|Capcom - Sega|1991
+932AAA|Mercs|Mercs||Action,Shooter,|1||Capcom|Capcom - Sega|1991
 800AAA|Michael Jackson's Moonwalker|Michael Jackson's Moonwalker||Platform,Action,|1||Sega|Sega|1990
 954AAA|Mick And Mack - Global Gladiators|Mick & Mack : Global Gladiators||Platform,Action,|1||Virgin|Virgin|1992
 829AAA|Mickey's Ultimate Challenge|Mickey's Ultimate Challenge||Puzzle-Game,Strategy,|1||Master Designer Software|Disney - Hi Tech Expressions - Tec Toy|1994
@@ -248,16 +248,16 @@
 189095|Mina Terrestre|Mina Terrestre|||1||TecToy|TecToy|
 189083|Minerador|Minerador|||1||TecToy|TecToy|
 891AAA|Miracle Warriors - Seal Of The Dark Lord|Miracle Warriors : Seal of the Dark Lord||Role playing games,|1||Sega|ASCII - Sega|1987
-18505A|Missile Defense 3-d|Missile Defense 3-D||Action,Gun shooter|1||Sega|Sega|1987
+18505A|Missile Defense 3-d|Missile Defense 3-D||Action,Shooter,|1||Sega|Sega|1987
 115818|Monica 3|Monica 3|||||hack|hack|1993
-18506A|Mônica No Castelo Do Dragão|Mônica no Castelo do Dragão|Monica no Castelo do Dragao|Action,|1||Westone Co., Ltd.|Tec Toy Indústria de Brinquedos S.A.|1991
+18506A|Mônica No Castelo Do Dragão|Mônica no Castelo do Dragão|Monica no Castelo do Dragao|Action,Platform,,|1||Westone Co., Ltd.|Tec Toy Indústria de Brinquedos S.A.|1991
 18507A|Monopoly|Monopoly||Board game,|10||Sega|Sega|1987
 993AAA|Montezuma's Revenge|Montezuma's Revenge featuring Panama Joe||Platform,Action,|1||Parker Brothers|Parker Brothers|1989
-78363A|Mopiranger|Mopiranger||Action,|1||Konami|Konami|
+78363A|Mopiranger|Mopiranger||Action,Arcade,,|1||Konami|Konami|1
 757AAA|Mortal Kombat|Mortal Kombat|Mortal Kombat 3|Fight,Action,|2||Midway|Acclaim Entertainment|1993
-18508A|Mortal Kombat 3|Mortal Kombat 3||Action,Fighting|2||Midway|Tec Toy Indústria de Brinquedos S.A.|1995
+18508A|Mortal Kombat 3|Mortal Kombat 3||Action,Fighter,|2||Midway|Tec Toy Indústria de Brinquedos S.A.|1995
 766AAA|Mortal Kombat 2|Mortal Kombat II||Fight,Action,|2||Midway|Acclaim Entertainment|1994
-899AAA|Ms. Pac-man|Ms. Pac-Man||Action,Arcade|2||General Computer Corporation|Namco - Tengen|1991
+899AAA|Ms. Pac-man|Ms. Pac-Man||Action,Puzzle,|2||General Computer Corporation|Namco - Tengen|1991
 922AAA|My Hero|My Hero||Beat'em Up,Action,|2||Coreland|Coreland - Sega|1986
 64908A|Nanowars 8k|NanoWars 8k||Puzzle-Game,||||Pinheiro, Haroldo|2006
 115819|Natal Do Mymo|Natal Do Mymo|||||hack|hack|1989
@@ -265,7 +265,7 @@
 44264A|Nekkyuu Koushien|Nekkyuu Koushien|Nekyuu Kousien|Sports,|2||Sega|Sega|1988
 44265A|Nemesis|Nemesis||Shooter,|2||Konami|Zemina|1987
 44266A|Nemesis 2|Nemesis 2||Shoot'em Up,|2||Konami|Zemina|1987
-78364A|New Boggle Boggle 2|New Boggle Boggle 2||Action,|2||MBitM|Zemina|1989
+78364A|New Boggle Boggle 2|New Boggle Boggle 2||Action,Arcade,Platform,,|2||MBitM|Zemina|1989
 788AAA|Ninja Gaiden|Ninja Gaiden||Action,Platform,|1||Tecmo|Sega - Tecmo|1990
 967AAA|Olympic Gold - Barcelona '92|Olympic Gold : Barcelona '92||Sports,|4||U.S. Gold|U.S. Gold|1992
 930AAA|Operation Wolf|Operation Wolf||Lightgun Shooter,Action,|1||Taito|Taito|1990
@@ -273,13 +273,13 @@
 870AAA|Outrun|OutRun|OutRun 3D|Race, Driving,|1||AM R&D Dept. #2|Sega|1987
 1004AA|Outrun 3-d|OutRun 3-D|OutRun 3D|Race, Driving,|1||Sega|Sega|1988
 975AAA|Outrun Europa|OutRun Europa||Race, Driving,|1||Probe Software|Probe - Sega - U.S. Gold|1991
-64909A|Pac-man|Pac-Man|Ms. Pac-man|,Arcade|2||Namco|Namco|2005
-942AAA|Pac-mania|Pac-Mania||Action,Arcade|1||Tengen|Namco - TecMagik - Tengen|1991
+64909A|Pac-man|Pac-Man|Ms. Pac-man|Action,Arcade,,|2||Namco|Namco|2005
+942AAA|Pac-mania|Pac-Mania||Action,Puzzle,|1||Tengen|Namco - TecMagik - Tengen|1991
 189088|Palhacos|Palhacos|||1||TecToy|TecToy|
-865AAA|Paperboy|Paperboy||Action,Arcade|1||U.S. Gold|Atari - Tengen - Tiertex Design Studio|1990
+865AAA|Paperboy|Paperboy||Action,Arcade,|1||U.S. Gold|Atari - Tengen - Tiertex Design Studio|1990
 18510A|Parlour Games|Parlour Games||Sports,|4||Compile|Sega|1987
 44261A|Pat Riley Basketball|Pat Riley Basketball||Sports,|2||Sega|Sega|1989
-44262A|Penguin Adventure|Penguin Adventure||Action,|1||Konami|Zemina|
+44262A|Penguin Adventure|Penguin Adventure||Action,Platform,,|1||Konami|Zemina|1
 877AAA|Penguin Land|Penguin Land||Platform,Action,|1||Sega|Sega|1987
 1010AA|Pga Tour Golf|PGA Tour Golf||Sports,|4||Sterling Silver Software|Electronic Arts - Sterling Silver Software - Tengen|1993
 768AAA|Phantasy Star|Phantasy Star||Role playing games,|1||Sega|Sega|1987
@@ -293,17 +293,17 @@
 115829|Pokemon Versao Vermelha|Pokemon Versao Vermelha|||||hack|hack|1985
 64912A|Pong Master|Pong Master|||||Haroldo O. Pinheiro|homebrew|2006
 64913A|Pong Master 4k|Pong Master 4k||Action,|2||Haroldo Pinheiro|homebrew|2012
-78365A|Pooyan|Pooyan|Hook|Shoot'em Up,|2||Konami|HiCom|
-64914A|Pop Breaker|Pop Breaker|||||MicroCabin|MicroCabin|2005
+78365A|Pooyan|Pooyan|Hook|Shoot'em Up,|2||Konami|HiCom|2
+64914A|Pop Breaker|Pop Breaker||Action,Arcade,,|||MicroCabin|MicroCabin|2005
 886AAA|Populous|Populous||Strategy,|1||Bullfrog|Bullfrog Productions - Electronic Arts - TecMagik|1991
 982AAA|Poseidon Wars 3-d|Poseidon Wars 3-D|Poseidon Wars 3D|Various,Simulation,|1||Sega|Sega|1988
 78366A|Power Boggle Boggle|Power Boggle Boggle||Action,|1||Screen Software|YM Soft|1990
 835AAA|Power Strike|Power Strike|Power Strike 2|Shoot'em Up,Action,|1||Compile|Compile - Sega|1988
 957AAA|Power Strike 2|Power Strike II||Shoot'em Up,Action,|1||Sega|Compile - Sega|1993
-923AAA|Predator 2|Predator 2||Action|1||Teeny Weeny Games|Acclaim Entertainment|1991
+923AAA|Predator 2|Predator 2||Action,Shooter,|1||Teeny Weeny Games|Acclaim Entertainment|1991
 806AAA|Prince Of Persia|Prince of Persia||Platform,Action,|1||Domark|Broderbund Software|1992
 907AAA|Pro Wrestling|Pro Wrestling||Fight,Sports,|2||Sega|Sega|1986
-172291|Pro Yakyuu Pennant Race, The|Pro Yakyuu Pennant Race, The||,Baseball|||Sega|Sega|1987
+172291|Pro Yakyuu Pennant Race, The|Pro Yakyuu Pennant Race, The||Baseball,|||Sega|Sega|1987
 897AAA|Psychic World|Psychic World||Platform,Action,|1||Sega|Sega|1991
 785AAA|Psycho Fox|Psycho Fox||Puzzle-Game,Action,|1||Sega|Sega|1989
 18512A|Putt And Putter|Putt & Putter||Sports,|2||SIMS Co., Ltd.|Sega|1992
@@ -315,7 +315,7 @@
 115830|R.h.w. 2000|R.h.w. 2000||Platform,|1||hack|hack|1989
 873AAA|Rainbow Islands|Rainbow Islands : Story of the Bubble Bobble 2||Platform,Action,|1||Sega|Sega - Taito|1993
 815AAA|Rambo 3|Rambo III||Lightgun Shooter,Action,|1||Sega|Sega|1988
-867AAA|Rampage|Rampage||Action,Arcade|2||Midway|Activision|1988
+867AAA|Rampage|Rampage||Action,Beat'em Up,Platformer,|2||Midway|Activision|1988
 986AAA|Rampart|Rampart||Strategy,|2||Tengen|Atari - Tengen|1991
 839AAA|Rastan|Rastan||Platform,Action,|1||Tonka|Taito|1988
 18514A|Reggie Jackson Baseball|Reggie Jackson Baseball||Sports,|2||Sega|Sega|1988
@@ -325,21 +325,21 @@
 78368A|Road Fighter|Road Fighter||Racing,|1||Konami|SG}} [[Jumbo (company)|Jumbo
 892AAA|Road Rash|Road Rash||Race, Driving,|2||U.S. Gold|Electronic Arts - Probe - U.S. Gold|1993
 64916A|Robbyie|Robbyie||,Boxing|||Ventzislav Tzvetkov|homebrew|2004
-940AAA|Robocop 3|RoboCop 3||Action|1||Ocean|Acclaim Entertainment|1993
-819AAA|Robocop Versus The Terminator|RoboCop Versus The Terminator||Action|1||Virgin|Virgin|1991
-172358|Rock N' Bolt|Rock N' Bolt||,Puzzle|||||
+940AAA|Robocop 3|RoboCop 3||Action,Platformer,Shooter,|1||Ocean|Acclaim Entertainment|1993
+819AAA|Robocop Versus The Terminator|RoboCop Versus The Terminator||Action,Platform,Shooter,,|1||Virgin|Virgin|1991
+172358|Rock N' Bolt|Rock N' Bolt||Action,Arcade,,|||||1985
 874AAA|Rocky|Rocky||Fight,Sports,|2||Sega|Sega|1987
 115831|Rodrigo 2 Em Mate O Leonardo|Rodrigo 2 Em Mate O Leonardo|||||hack|hack|1985
 115832|Rodrigo 2 Em Mate O Papai Noel-versao De Natal|Rodrigo 2 Em Mate O Papai Noel-versao De Natal|||||hack|hack|1985
 115833|Rodrigo O Resgate|Rodrigo O Resgate|||||hack|Sega|1986
 44260A|Running Battle|Running Battle||Beat'em Up,|1||Opera House|Sega|1991
-18516A|Sagaia|Sagaia||Action,Shooter|1||Taito|Tec Toy Indústria de Brinquedos S.A.|1992
+18516A|Sagaia|Sagaia||Action,Shooter,|1||Taito|Tec Toy Indústria de Brinquedos S.A.|1992
 44277A|Sangokushi 3|Sangokushi 3||Fight,|2||Open Corp.|Panda Software|1994
-18517A|Sapo Xule - O Mestre do Kung Fu|Sapo Xul: O Mestre do Kung Fu|Sapo Xule O Mestre do Kung Fu|Action,Fighter|2||Sega|Tec Toy Indústria de Brinquedos S.A.|1995
+18517A|Sapo Xule - O Mestre do Kung Fu|Sapo Xul: O Mestre do Kung Fu|Sapo Xule O Mestre do Kung Fu|Action,Beat'em Up,|2||Sega|Tec Toy Indústria de Brinquedos S.A.|1995
 18518A|Sapo Xule - S.O.S. Lagoa Poluida|Sapo Xul: S.O.S. Lagoa Poluda||Action,|2||Sega|Tec Toy Indústria de Brinquedos S.A.|1995
 18519A|Sapo Xule Vs Os Invasores do Brejo|Sapo Xule Vs Os Invasores do Brejo|Sapo Xule vs. os Invasores do Brejo|Action,Platform,|1||Sega|Tec Toy Indústria de Brinquedos S.A.|1995
 44278A|Satellite 7|Satellite 7||Shoot'em Up,|2||Sega|Sega|1985
-18520A|Scramble Spirits|Scramble Spirits||Action,Shooter|2||Sega|Sega|1988
+18520A|Scramble Spirits|Scramble Spirits||Action,Shooter,|2||Sega|Sega|1988
 793AAA|Ashura|Rambo: First Blood Part II||Shooter / Run and Gun,Shooter,Action,|2||Sega|Sega|1986
 18522A|Sega Chess|Sega Chess||Strategy,|2||Probe Software Ltd.|Sega|1991
 44279A|Sega World Tournament Golf|Sega World Tournament Golf||Sports,|4||Sega|Sega|1993
@@ -349,7 +349,7 @@
 882AAA|Shadow Of The Beast|Shadow of the Beast||Beat'em Up,Action,|1||Reflections Interactive Limited|Psygnosis|1991
 973AAA|Shanghai|Shanghai||Puzzle-Game,Strategy,|2||Sega|Activision - Sega|1988
 761AAA|Shinobi|Shinobi|Alex Kidd in Shinobi World|Platform,Action,|1||Sega|Sega|1987
-18524A|Shooting Gallery|Shooting Gallery||Action,Gun shooter|1||Sega|Sega|1987
+18524A|Shooting Gallery|Shooting Gallery||Action,Shooter,|1||Sega|Sega|1987
 99358A|Sky Fighter|Sky Fighter|Pit Fighter|Shoot'em Up,|2|Coop|Clover Soft|Clover Soft|1990
 44280A|Sky Jaguar|Sky Jaguar||Shooter,|1||Konami|Clover|1984
 917AAA|Slap Shot|Slap Shot||Sports,|2||Sanritsu|Sega|1990
@@ -363,7 +363,7 @@
 755AAA|Sonic The Hedgehog|Sonic the Hedgehog||Platform,Action,|1||Sega|Sega|1991
 756AAA|Sonic The Hedgehog 2|Sonic the Hedgehog 2||Platform,Action,|1||Sega|Sega|1992
 115849|Sonic Vs. Os Mauniks|Sonic Vs. Os Mauniks|||||hack|hack|1989
-44281A|Sonic's Edusoft|Sonic's Edusoft||Education,|1||Tiertex|U.S. Gold, Sega|
+44281A|Sonic's Edusoft|Sonic's Edusoft||Education,|1||Tiertex|U.S. Gold, Sega|1
 115855|Sonic-boy 3 - Eggman's Room|Sonic-boy 3 - Eggman's Room|||||hack|hack|1985
 115850|Sonic-boy In Monster Land|Sonic-boy In Monster Land|||||hack|hack|1988
 985AAA|Space Gun|Space Gun|Spacegun|Lightgun Shooter,Action,|1||Taito|Taito|1992
@@ -374,11 +374,11 @@
 843AAA|Speedball 2|Speedball 2||Sports,|2||Imageworks|The Bitmap Brothers|1991
 18529A|Spellcaster|SpellCaster||Adventure,|1||Sega|Sega|1988
 866AAA|Spider-man Vs. The Kingpin|Spider-Man vs. the Kingpin||Platform,Action,|1||Sega|Sega|1990
-18531A|Spider-man - Return Of The Sinister Six|Spider-Man: Return of the Sinister Six||Action,Platform|1||B.I.T.S., Ltd.|Acclaim Entertainment|1992
+18531A|Spider-man - Return Of The Sinister Six|Spider-Man: Return of the Sinister Six||Action,Platformer,|1||B.I.T.S., Ltd.|Acclaim Entertainment|1992
 44282A|Sports Pad Football|Sports Pad Football||Sports,|2||Sega|Sega|1987
 931AAA|Spy Vs Spy|Spy vs Spy|Spy vs. Spy|Strategy,|2||First Star Software|Sega|1986
 787AAA|Star Wars|Star Wars||Fight,Action,|1||Tiertex Design Studios|LucasArts - Tiertex Design Studio - U.S. Gold|1993
-18525A|Sítio Do Picapau Amarelo|Stio do Picapau Amarelo|Sitio do Picapau Amarelo|Action,Platform|2||Tec Toy Indústria de Brinquedos S.A.|Tec Toy Indústria de Brinquedos S.A.|1997
+18525A|Sítio Do Picapau Amarelo|Stio do Picapau Amarelo|Sitio do Picapau Amarelo|Action,Platform,|2||Tec Toy Indústria de Brinquedos S.A.|Tec Toy Indústria de Brinquedos S.A.|1997
 802AAA|Street Fighter 2'|Street Fighter II'|Street Fighter 2|Fight,|2||Tec Toy|Capcom - Sega - Tec Toy|1993
 44283A|Street Master|Street Master||Fight,|2||Zemina|Zemina|1992
 773AAA|Streets Of Rage|Streets of Rage|Streets of Rage 2|Beat'em Up,Action,|1||Sega|Sega|1991
@@ -386,36 +386,36 @@
 871AAA|Strider|Strider|Strider II|Platform,Action,|1||Capcom|Capcom - Sega|1991
 908AAA|Strider 2|Strider II||Platform,|1||Tiertex Design Studios|Capcom - U.S. Gold|1992
 920AAA|Submarine Attack|Submarine Attack||Shoot'em Up,Action,|1||Sega|Sega|1990
-189100|Sudoku|Sudoku|Hook|,Platform|1||TecToy|TecToy|
+189100|Sudoku|Sudoku|Hook|Puzzle,,|1||TecToy|TecToy|
 44284A|Suho Cheonsa|Suho Cheonsa||Action,|1||Open Corp.|Open Corp|1994
-44285A|Sukeban Deka 2 - Shoujo Tekkamen Densetsu|Sukeban Deka II - Shoujo Tekkamen Densetsu||Action,|||Sega|Saga|1987
+44285A|Sukeban Deka 2 - Shoujo Tekkamen Densetsu|Sukeban Deka II - Shoujo Tekkamen Densetsu||Action,Adventure,|1||Sega|Saga|1987
 960AAA|Summer Games|Summer Games||Sports,|4||Epyx|Epyx - Sega|1984
 154255|Super Arkanoid|Super Arkanoid|||||||
-44286A|Super Basketball|Super Basketball|||||||1989
+44286A|Super Basketball|Super Basketball||Sports,Basketball,,|||||1989
 64920A|Super Bioman 1|Super Bioman 1|||||Hello Soft|HiCom|1992
 64921A|Super Boy 3|Super Boy 3||Action,|||Zemina|Zemina|1991
-88438A|Super Boy 4|Super Boy 4||Action,|||Zemina|Zemina|1992
+88438A|Super Boy 4|Super Boy 4||Action,Platform,,|||Zemina|Zemina|1992
 64922A|Super Boy I|Super Boy I||Platform,|1||Zemina|Zemina|1989
-97416A|Super Boy 2|Super Boy II||Action,|||Zemina|Zemina|1989
+97416A|Super Boy 2|Super Boy II||Action,Platform,,|||Zemina|Zemina|1989
 78370A|Super Bubble Bobble|Super Bubble Bobble||Action / Climbing,Action,|2|Coop|Zemina|Zemina|1989
-142719|Super Columns And Tetris|Super Columns And Tetris|||||||
+142719|Super Columns And Tetris|Super Columns And Tetris||Puzzle,|2|||HiCom|1990
 18532A|Super Kick Off|Super Kick Off||Sports,|2||Anco|U.S. Gold|1991
 837AAA|Super Monaco Gp|Super Monaco GP|Ayrton Senna's Super Monaco GP II|Race, Driving,|2||Sega|Sega|1990
 44288A|Super Off Road|Super Off Road|Super Off-Road|Race, Driving,|2||Leland Corporation|Virgin|1992
 44289A|Super Racing|Super Racing||Race, Driving,|1||Sega|Sega|1988
-971AAA|Super Smash T.v.|Super Smash T.V.|Super Smash TV|Action,Shooter|2||Williams Electronics|Acclaim Entertainment|1992
+971AAA|Super Smash T.v.|Super Smash T.V.|Super Smash TV|Action,Shooter,|2||Williams Electronics|Acclaim Entertainment|1992
 44290A|Super Space Invaders|Super Space Invaders||Shooter / Space Invaders Like,Shooter,|2||The Kremlin|Domark|1991
 760AAA|Super Tennis|Super Tennis||Sports,|2||Sega|Sega|1986
 143198|Super Tetris|Super Tetris|Super Tennis|Puzzle-Game,|1||videosystem|Sega|1988
 889AAA|Superman - The Man Of Steel|Superman : The Man of Steel||Platform,|1||Virgin|Graftgold|1992
 948AAA|T2 - The Arcade Game|T2 : The Arcade Game||Lightgun Shooter,|1||Midway|Acclaim - Arena Entertainment - Midway - Probe|1991
-189091|Tangram|Tangram|||1||TecToy|TecToy|
+189091|Tangram|Tangram||Puzzle,,|1||TecToy|TecToy|
 18534A|Taz In Escape From Mars|Taz in Escape from Mars||Platform,Action,|1||HeadGames, Inc.|Tec Toy Indústria de Brinquedos S.A.|1996
 836AAA|Taz-mania|Taz-Mania||Platform,Action,|1||Sega|Sega|1992
 18535A|Tecmo World Cup '93|Tecmo World Cup '93||Sports,|2||Tecmo, Inc.|Sega - Tecmo|1993
 830AAA|Teddy Boy|Teddy Boy|Teddy Boy Blues|Various,Action,|2||Sega|Sega|1985
 902AAA|Tennis Ace|Tennis Ace||Sports,|2||Sega|Sega|1989
-44268A|Tensai Bakabon|Tensai Bakabon||Action,Adventure|1||Sega|Sega|1988
+44268A|Tensai Bakabon|Tensai Bakabon||Action,Platformer,Shooter,Adventure,|1||Sega|Sega|1988
 18536A|Terminator 2 - Judgment Day|Terminator 2: Judgment Day||Action,Race, Driving,|1||Arc Developments|Acclaim Entertainment|1993
 64923A|Tetracycline|Tetracycline|||||Nicolas Warren|homebrew|2000
 64889A|A-Team, The|The A-Team|||||Probe Software|U.S. Gold|
@@ -425,31 +425,31 @@
 816AAA|Flash, The|The Flash||Platform,|1||Sega|Probe - Sega|1993
 999AAA|Flintstones, The|The Flintstones||Platform,Action,|1||Grandslam Entertainments Ltd.|Tiertex Design Studios|1990
 955AAA|Incredible Crash Dummies, The|The Incredible Crash Dummies||Platform,Action,|2||Flying Edge|Gray Matter|1993
-18499A|Incredible Hulk, The|The Incredible Hulk||Action,Platform|1||Probe Software Ltd.|Probe - U.S. Gold|1994
+18499A|Incredible Hulk, The|The Incredible Hulk||Action,Platformer,|1||Probe Software Ltd.|Probe - U.S. Gold|1994
 781AAA|Lucky Dime Caper starring Donald Duck, The|The Lucky Dime Caper starring Donald Duck|Lucky Dime Caper, The - Starring Donald Duck|Shoot'em Up,Fight,Action,|1||Sega|Sega|1991
-64907A|Knightmare 2 - The Maze Of Galious|The Maze of Galious - Knightmare II||Action,|||Konami||
+64907A|Knightmare 2 - The Maze Of Galious|The Maze of Galious - Knightmare II||Action,Platform,|||Konami|Zemina|1
 906AAA|New Zealand Story, The|The New Zealand Story||Platform,Action,|1||Tecmagik|Taito - TecMagik|1992
-796AAA|Ninja, The|The Ninja||Action|2||Sega|Sega|1986
-18509A|Ottifants, The|The Ottifants||Action,Platform|1||Graftgold Ltd.|Sega|1993
+796AAA|Ninja, The|The Ninja||Action,Shooter,|2||Sega|Sega|1986
+18509A|Ottifants, The|The Ottifants||Action,Platformer,|1||Graftgold Ltd.|Sega|1993
 792AAA|Simpsons - Bart vs the Space Mutants, The|The Simpsons : Bart vs the Space Mutants||Adventure,N/A,Shoot'em Up,Sports,|1||Imagineering Inc|Acclaim - Flying Edge|1991
 951AAA|Simpsons - Bart vs the World, The|The Simpsons : Bart vs the World||Platform,|1||Imagineering Inc|Acclaim Entertainment|1992
-811AAA|Terminator, The|The Terminator||Action|1||Probe|Tec Toy - Virgin|1992
-44269A|Three Dragon Story, The|The Three Dragon Story||Action,Shooter|1||Zemina|Zemina|1989
+811AAA|Terminator, The|The Terminator||Action,Platformer,|1||Probe|Tec Toy - Virgin|1992
+44269A|Three Dragon Story, The|The Three Dragon Story||Action,Shooter,|1||Zemina|Zemina|1989
 849AAA|Thunder Blade|Thunder Blade||Shoot'em Up,|1||Sega|Sega|1988
 949AAA|Time Soldiers|Time Soldiers||Adventure,Action,|2||ADK|ADK|1989
 939AAA|Tom And Jerry - The Movie|Tom and Jerry : The Movie||Platform,|1||Sims|Sega|1992
-44270A|Toto World 3|Toto World 3||Action,Platform|1||Open Corp.|Daou Infosys Corp.|1995
+44270A|Toto World 3|Toto World 3||Action,Platformer,|1||Open Corp.|Daou Infosys Corp.|1995
 805AAA|Transbot|Transbot|Trans-Bot|Shoot'em Up,Action,|2||Sega|Sega|1985
 64924A|Trap Shooting + Marksman Shooting + Safari Hunt|Trap Shooting + Marksman Shooting + Safari Hunt|Trap Shooting - Marksman Shooting - Safari Hunt|Compilation,|2||Sega|Sega|1986
 115858|Treinamento Do Guerreiro Lobo|Treinamento Do Guerreiro Lobo|||||hack|hack|1993
-115859|Treinamento Do Mymo|Treinamento Do Mymo||,Arcade|||hack|hack|1989
+115859|Treinamento Do Mymo|Treinamento Do Mymo||Arcade,|||hack|hack|1989
 831AAA|Trivial Pursuit - Genius Edition|Trivial Pursuit : Genius Edition||Puzzle-Game,Board game,Strategy,|4||Domark|Teque Software|1992
 18539A|Turma Da Mônica Em - O Resgate|Turma Da Mônica Em - O Resgate||Role playing games,|1||Sega|Tec Toy Indústria de Brinquedos S.A.|1993
 64925A|Ultima 3|Ultima III||||||homebrew|2006
 818AAA|Ultima 4 - Quest Of The Avatar|Ultima IV : Quest of the Avatar||Role playing games,|1||Origin Systems|Sega|1990
 997AAA|Ultimate Soccer|Ultimate Soccer||Sports,|2||Sega|Rage Software - Sega|1993
 857AAA|Vigilante|Vigilante||Beat'em Up,Action,|1||Irem|Irem - Sega|1988
-18540A|Virtua Fighter Animation|Virtua Fighter Animation||Action,Fighting|2||Aspect Co|Tec Toy Indústria de Brinquedos S.A.|1996
+18540A|Virtua Fighter Animation|Virtua Fighter Animation||Action,Fighter,|2||Aspect Co|Tec Toy Indústria de Brinquedos S.A.|1996
 1005AA|American Pro Football|Walter Payton Football||Sports,|2||Sega|Sega|1989
 950AAA|Wanted|Wanted||Lightgun Shooter,Action,|1||Sanritsu Denki Co., Ltd.|Sega|1989
 935AAA|Wimbledon|Wimbledon|Wimbledon II|Sports,Sports / Tennis,|2|Coop|Sims|Sega|1992
@@ -468,9 +468,9 @@
 958AAA|World Games|World Games||Sports,|4||Sega|Sega|1989
 924AAA|World Grand Prix|World Grand Prix||Race, Driving,Simulation,|1||Sega|Sega|1986
 947AAA|Wwf Wrestlemania - Steel Cage Challenge|WWF WrestleMania : Steel Cage Challenge||Sports,|2||Flying Edge|Acclaim - Flying Edge|1992
-18545A|X-men - Mojo World|X-Men: Mojo World||Action|1||Sega|Tec Toy Indústria de Brinquedos S.A.|1996
+18545A|X-men - Mojo World|X-Men: Mojo World||Action,Beat'em Up,Platformer,|1||Sega|Tec Toy Indústria de Brinquedos S.A.|1996
 847AAA|Xenon 2 - Megablast|Xenon 2 : Megablast|Xenon 2|Shoot'em Up,|1||Data Design Interactive|Image Works|1991
-78371A|Xyzolog|Xyzolog||Action,Puzzle,|1||Compile||
+78371A|Xyzolog|Xyzolog||Action,Puzzle,|1||Compile||1
 824AAA|Ys - The Vanished Omens|Ys : The Vanished Omens||Role playing games,|1||Sega|Sega|1988
 936AAA|Zaxxon 3d|Zaxxon 3D||Shoot'em Up,|1||Sega|Sega|1987
 937AAA|Zillion|Zillion|Akai Koudan Zillion|Platform,Action,|1||Sega|Sega|1987

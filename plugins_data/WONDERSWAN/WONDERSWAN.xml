@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812050837" games="117"/>
+    <WiiTDB version="201812050837" games="117"/>
   <game name="Anchorz Field">
     <id>46248A</id>
     <locale lang="EN">
@@ -34,7 +34,7 @@
     <locale lang="EN">
       <title>Armored Unit</title>
       <synopsis>Armored Unit is an entertaining strategy game (once the Japanese menu's are conquered) that suffers to having enemies either too easy or far too hard.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Strategy</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -96,7 +96,7 @@ Dekotora is short for "decorated truck", and this racing game consists not only 
 After you select the music you want to play you'll have a vertical scroll which will indicate when you should hit one of the left directional buttons along with the music. The game also indicates when you should 'scratch' which should be be familiar to anyone who has played a beatmania arcade game. This refers to the scratching of a record, one might think that the WonderSwan is ill-equiped for such a for of input, well think again! beatmania for WonderSwan included in its packaging a miniature record that could be fitted over the right directional keys to  make scratching more realistic.
 
 As you finish songs you'll on lock more difficult and interesting(?) tunes. The game plays vertically.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -250,7 +250,7 @@ The story evolves from the opening movie when a fellow chocobo is "turned" evil 
       <genre>Adventure,Role playing games</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Este es el primer juego de la serie Chocobo's Dungeon. Controlarás un personaje chocobo y comenzarás la aventura a través de una mazmorra creada al azar.nnnnLa historia evoluciona desde la película de apertura cuando un compañero chocobo es "convertido" en malvado por un cristal que encuentra en un jardín. Cuando el malvado chocobo te encierra en una mazmorra, comienza la aventura. Viaja a través de una mazmorra en constante cambio, recolecta objetos y armas para ser más poderoso, para que puedas derrotar a unos enemigos que serán cada vez más difíciles.</synopsis>
+      <synopsis>Este es el primer juego de la serie Chocobo's Dungeon. Controlarás un personaje chocobo y comenzarás la aventura a través de una mazmorra creada al azar.La historia evoluciona desde la película de apertura cuando un compañero chocobo es "convertido" en malvado por un cristal que encuentra en un jardín. Cuando el malvado chocobo te encierra en una mazmorra, comienza la aventura. Viaja a través de una mazmorra en constante cambio, recolecta objetos y armas para ser más poderoso, para que puedas derrotar a unos enemigos que serán cada vez más difíciles.</synopsis>
       <genre>Aventura,Juegos de rol</genre>
     </locale>
     <locale lang="FR">
@@ -311,7 +311,7 @@ Now she must survive and get out of the mansion in this point-and-click horror a
       <genre>Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Jennifer y sus amigas son adoptadas por una bella dama llamada Mary. Esperan ir a un nuevo hogar maravilloso, en la Mansión Barrows. Allí vivirán con Mary y el Sr. Barrows. Desafortunadamente, algo va terriblemente mal y los amigos de Jennifer aparecen muertos uno por uno. Mientras esto sucede, Mary y Jennifer terminan siendo perseguidas por un psicópata loco conocido como ... Scissorman.nnnnAhora deben sobrevivir y salir de la mansión en esta aventura de terror "point and clik" ... Al ser una adolescente, no tienes habilidades especiales, solo tu ingenio y tu voluntad para sobrevivir, hay algunos enemigos que puede matarte instantáneamente, pero Scissorman es el verdadero horror que te dará problemas.</synopsis>
+      <synopsis>Jennifer y sus amigas son adoptadas por una bella dama llamada Mary. Esperan ir a un nuevo hogar maravilloso, en la Mansión Barrows. Allí vivirán con Mary y el Sr. Barrows. Desafortunadamente, algo va terriblemente mal y los amigos de Jennifer aparecen muertos uno por uno. Mientras esto sucede, Mary y Jennifer terminan siendo perseguidas por un psicópata loco conocido como ... Scissorman.Ahora deben sobrevivir y salir de la mansión en esta aventura de terror "point and clik" ... Al ser una adolescente, no tienes habilidades especiales, solo tu ingenio y tu voluntad para sobrevivir, hay algunos enemigos que puede matarte instantáneamente, pero Scissorman es el verdadero horror que te dará problemas.</synopsis>
       <genre>Aventura</genre>
     </locale>
     <locale lang="FR">
@@ -349,7 +349,7 @@ While climbing a building, windows will open and close simultaneously. If any wi
 The climber must try to avoid or overcome each of those hazards which he will encounter as he continues climbing in his attempt to reach the rooftop. If he falls to his death by windows or objects,  another climber will replace him and will start at the same location where the last one fell. The specific danger will not be present at the same point, so the climber can go further up to face the next danger. Most of the hazards are announced by certain recognizable musical themes. 
 
 Crazy Climber is awarded a bonus score on each building every time after getting carried off by the helicopter. However, each bonus score will decrease by every ten seconds that the climber will spend scaling each building as he attempts reach the top. Somewhere in the game, there is "The Lucky Balloon", which can lift Climber about ten stories and raise the player's bonus score if he catches it.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -618,15 +618,18 @@ The story of this game is identical to that of "Anode Tamer", and gameplay mecha
     <locale lang="EN">
       <title>Digimon Digital Monsters - Anode And Cathode Tamer - Veedramon Version</title>
       <synopsis>This release contains the first Digimon Adventure, both Anode Tamer and Cathode Tamer versions. The game is based on the manga and animé series Digimon. You play as an ordinary Japanese boy named Ryou who gets sucked into the mysterious digital world and has to help the digital monster Agumon and his friends to recruit digital monsters and send them into battles against evil ones.</synopsis>
+      <genre>Action,RPG</genre>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="2001"/>
+    <publisher/>
   </game>
   <game name="Digimon Tamers - Battle Spirit">
     <id>155311</id>
@@ -635,7 +638,7 @@ The story of this game is identical to that of "Anode Tamer", and gameplay mecha
       <synopsis>Digimon Battle Spirit is a fighting game originally published by Bandai and developed by Dimps for the Japanese-only WonderSwan Color handheld system under the name Digimon Tamers: Battle Spirit. It was later ported to Nintendo's Game Boy Advance for international releases in North America and Europe two years later.
 
 The game features characters and Digimon that were included in the first three seasons of the animated series of the same name in a somewhat simplistic fighting scenario, and also has slightly arranged samples of the show's soundtrack.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,RPG</genre>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -946,7 +949,7 @@ The power-ups that can be found in the bricks between tiers wear out after a cer
 11. Bombs: these items look like two speed boost orbs, or the wheels of the cart, however, they are a trap. Jumping into these means instant death for Jajamaru-kun
 
 12. Trusty Frog: Jajamaru-kun's noble steed, a humongous man-eating frog. Should you collect four power-ups instead of receiving the power of the fourth you will get to ride on your gigantic frog and eat all the enemies on the stage. This can be dangerous though if you have not yet gotten the stages petal as once on the frog it won't show up. There is no time limit on how long the frog stays, unless of course the time runs out entirely before you gobble up all the enemies. Once a stage ends you will have to repeat the item collection process to ride the frog again. Items in your collection carry over between stages so you can strategically pick a fourth on a stage where you need the frog.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Platform,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1425,7 +1428,7 @@ The gameplay "Langrisser Millenium" is divided into "Map Mode" and "Battle Mode"
 The Empire has sent robotic guards down to protect the gold, and contact with any of these will cost you a life. Your method of escaping them is to press fire to dig a hole in their line of movement, thus causing them to fall in briefly, allowing you to move across the gap safely. Once all the gold has been collected, a ladder allowing you to move onto the next screen is added. Completing these screens often requires forward planning and precision.
 
 This was one of the earliest games to include a level editor, allowing the creation of new level designs with no programming skill.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1812,6 +1815,7 @@ This game is played vertically.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
   </game>
@@ -2181,7 +2185,7 @@ The islands in this game are, here listed with their theme:
 4. Darius Island: Machines
 
 This game plays vertically.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2297,6 +2301,7 @@ While mainly used to program the movement of the physical robot, it also comes w
       <synopsis>Sangokushi, or Romance of the Three Kingdoms, is a video game based on the historical novel of the same name by Luo Guanzhong. It was developed and published by Koei in 1999 for the WonderSwan.
 The game casts the player in the role of one of the many warlords rivaling for control after the Yellow Turban Rebellion.
 This turn-based strategy game introduces hundreds of historical characters of the Three Kingdoms era. The game's main objective is to become the supreme ruler of the remnants of the falling Han Dynasty. To do this the player has to build a mighty empire by conquering provinces and recruiting generals worthy of command. Fight massive battles, triumph over natural disasters and capture enemy strongholds.</synopsis>
+      <genre>Strategy</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Sangokushi, ou Romance of the Three Kingdoms, est un jeu vidéo basé sur le roman historique du même nom de Luo Guanzhong. Il a été developpé et édité par Koei en 1999 pour la WonderSwan.
@@ -2320,6 +2325,7 @@ Ce jeu de stratégie tour-par-tour introduit des centaines de personnages histor
       <title>Sangokushi II for WonderSwan</title>
       <synopsis>Sangokushi II, or Romance of the Three Kingdoms II, is a video game based on the historical novel of the same name by Luo Guanzhong. It was developed and published by Koei in 2000 for the WonderSwan and is the sequel to the first game released in 1999.
 Upon starting the game, players choose from one of six scenarios that determine the initial layout of power in ancient China. The scenarios loosely depict allegiances and territories controlled by the warlords as according to the novel, although gameplay does not follow events in the novel after the game begins. The player wins the game by conquering all territories in China. This is accomplished by being in control of every province on the map.</synopsis>
+      <genre>Strategy</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Sangokushi II, ou Romance of the Three Kingdoms II, est un jeu vidéo basé sur le roman historique du même nom de Luo Guanzhong. Il a été developpé et édité par Koei en 2000 pour la WonderSwan et est la suite du premier jeu sorti en 1999.
@@ -2369,6 +2375,7 @@ Au début de la partie, les joueurs choisissent entre six scénarios qui déterm
     <locale lang="EN">
       <title>Sd Gundam Eiyuuden - Eiyuuden Kishi Densetsu</title>
       <synopsis>SD Gundam Eiyden: Kishi Densetsu is a video game developed and published by Bandai in march 2001 for the WonderSwan Color. It's a video game adaptation of the series based on the Mobile Suit Gundam anime and most particularly Super Deformed Gundam. It's part of a two-parts video game series.</synopsis>
+      <genre>RPG</genre>
     </locale>
     <locale lang="FR">
       <synopsis>SD Gundam Eiyden: Kishi Densetsu est un jeu vidéo de rôle développé et édité par Bandai en mars 2001 sur WonderSwan Color. C'est une adaptation en jeu vidéo de la série basée sur l'anime Mobile Suit Gundam et notamment Super Deformed Gundam. Il fait partie d'une série de deux jeux vidéo.</synopsis>
@@ -2381,12 +2388,15 @@ Au début de la partie, les joueurs choisissent entre six scénarios qui déterm
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Sd Gundam Eiyuuden - Eiyuuden Musha Densetsu">
     <id>155314</id>
     <locale lang="EN">
       <title>Sd Gundam Eiyuuden - Eiyuuden Musha Densetsu</title>
       <synopsis>SD Gundam Eiyden: Musha Densetsu is a video game developed and published by Bandai in march 2001 for the WonderSwan Color. It's a video game adaptation of the series based on the Mobile Suit Gundam anime and most particularly Super Deformed Gundam. It's part of a two-parts video game series.</synopsis>
+      <genre>RPG</genre>
     </locale>
     <locale lang="FR">
       <synopsis>SD Gundam Eiyden: Musha Densetsu est un jeu vidéo de rôle développé et édité par Bandai en mars 2001 sur WonderSwan Color. C'est une adaptation en jeu vidéo de la série basée sur l'anime Mobile Suit Gundam et notamment Super Deformed Gundam. Il fait partie d'une série de deux jeux vidéo.</synopsis>
@@ -2399,6 +2409,8 @@ Au début de la partie, les joueurs choisissent entre six scénarios qui déterm
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Sd Gundam G Generation - Gather Beat">
     <id>65798A</id>
@@ -3219,6 +3231,7 @@ Players may fight their friends or foes using the Communication Cable to connect
       <title>Uchuu Senkan Yamato</title>
       <synopsis>Uchuu Senkan Yamato is a Strategy game, developed by Tom Create and published by Bandai Visual in Japan in 2001.
 Each of the game's 17 levels plays like an episode with text interchanges and battles (fought both in space and on various planets) that alternate between tactical moves and short cutscenes to show the results. There are also 8 new scenarios plugged in to freshen up the story with new enemies such as a hotshot Gamilas commander to rival General Lysis, a space creature or two, and the Siren of Space?a game version of the little-known manga spinoff, Eternal Story of Jura. Depending on performance and points earned, multiple endings are possible including one that incorporates the ?hologram Starsha' scene from the Yamato movie.</synopsis>
+      <genre>Strategy</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Uchuu Senkan Yamato est un jeu de stratégie, developpé par Tom Create et édité par Bandai Visual au Japan en 2001.
@@ -3379,6 +3392,7 @@ A small human/slug monster hybrid virtual pet can be accessed from the main menu
       <title>Wizardry - Kyounou No Shiren Jou</title>
       <synopsis>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord is a RPG developed and published by Sir-Tech Software in march 2003 for the WonderSwan Color.
 The player generates and control a party of up to six different adventurers, choosing from five races (humans, elves, dwarves, gnomes and hobbits), three alignments (good, neutral and evil), and four basic classes (fighter, priest, mage and thief). These can later evolve into elite classes if they meet the necessary level requirements. After outfitting the party with basic weapons and armor, the player sends it into a 3D vector maze-like dungeon to fight monsters in turn-based combat and find treasure.</synopsis>
+      <genre>RPG</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord est un RPG developpé et édité par by Sir-Tech Software en mars 2003 sur WonderSwan Color.
@@ -3392,6 +3406,8 @@ Le joueur génère et contrôle une équipe allant jusqu'à six aventuriers, en 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Wonder Classic">
     <id>155315</id>
@@ -3399,6 +3415,7 @@ Le joueur génère et contrôle une équipe allant jusqu'à six aventuriers, en 
       <title>Wonder Classic</title>
       <synopsis>Wonder Classic is a golfing game developed by Yoshidayama-Workshop and published by Bandai in january 2011 for the WonderSwan Color.
 You will use different characters with specific abilities to your advantage. For example the character, Reiko Nagase nullifies the effects of wind, most others have certain benefits to certain types of shot. There are two starting characters and twenty-two unlockable and downloadable characters.</synopsis>
+      <genre>Sports</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Wonder Classic est un jeu de golf developpé par Yoshidayama-Workshop et édité par Bandai en janvier 2011 sur WonderSwan Color.
@@ -3413,6 +3430,8 @@ Il y a deux personnages de départ et 22 personnages débloquables et téléchar
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="2001"/>
+    <publisher>Yoshidayama Workshop</publisher>
   </game>
   <game name="Wonder Stadium">
     <id>38529A</id>
@@ -3578,7 +3597,7 @@ The game is a combination of role-playing and simulation. You have to read books
     <date year="2001" month="10" day="25"/>
     <rating type="NOTE" value="17">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -3777,7 +3796,7 @@ The gameplay is nearly identical to that of the previous game. You travel throug
     <date year="2000" month="12" day="09"/>
     <rating type="NOTE" value="10">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -3805,7 +3824,7 @@ The gameplay is nearly identical to that of the previous game. You travel throug
     <date year="2001" month="2001" day="2001"/>
     <rating type="NOTE" value="13">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -3835,7 +3854,7 @@ The game features characters and Digimon that were included in the first three s
     <date year="2001" month="10" day="06"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -3867,7 +3886,7 @@ The game features characters and Digimon that were included in the first three s
     <date year="2002" month="04" day="27"/>
     <rating type="NOTE" value="15">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -3897,14 +3916,15 @@ The gameplay is similar to that of the predecessors: you navigate your hero over
     <date year="2001" month="12" day="29"/>
     <rating type="NOTE" value="15">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Digimon Tamers - Digimon Medley">
+
+    <game name="Digimon Tamers - Digimon Medley">
     <id>38540</id>
     <locale lang="EN">
       <title>Digimon Tamers: Digimon Medley</title>
@@ -3927,7 +3947,7 @@ Each episode can be played as one of several available characters. Each characte
     <date year="2001" month="07" day="12"/>
     <rating type="NOTE" value="12">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -3958,7 +3978,7 @@ Each episode can be played as one of several available characters. Each characte
     <date year="2002" month="12" day="07"/>
     <rating type="NOTE" value="15">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4013,7 +4033,7 @@ Each episode can be played as one of several available characters. Each characte
     <date year="2002" month="03" day="16"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4084,6 +4104,8 @@ Il relie toute l'histoire de Dragon ball jusqu'à la lutte contre Piccolo junior
     <id>143024</id>
     <locale lang="EN">
       <title>Fantaisie Impromptu By Chopin - Arranged By Atsushi Watanabe</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -4093,6 +4115,8 @@ Il relie toute l'histoire de Dragon ball jusqu'à la lutte contre Piccolo junior
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Final Fantasy">
     <id>38543</id>
@@ -4219,7 +4243,7 @@ The PlayStation version adds a new rendered intro and ending.</synopsis>
     <date year="2001" month="11" day="15"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4258,7 +4282,10 @@ The PlayStation version adds a new rendered intro and ending.</synopsis>
     <id>87665</id>
     <locale lang="EN">
       <title>From TV Animation One Piece - Chopper no Daibouken</title>
-      <synopsis>After the long intro has set the plot the player is given control of Chopper who's initial aim is to return to the group after unfo</synopsis>
+      <synopsis>After the long intro has set the plot the player is given control of Chopper who's initial aim is to return to the group after unfortunatley becoming lost in the wilderness. The standard action RPG features apply; enemies wander the landscape and you can choose to attack or ignore them. You can also use the 'defend' button to reduce the damage inflicted by an unexpected attack.
+
+The music and graphics are a great improvement on the functional appearence of the previous games and in many ways Chopper no Daibouken is far more entertaining but it requires a lot more Japanese knowledge than the straight forward, menu driven, Treasure Wars titles.</synopsis>
+      <genre>RPG</genre>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -4276,14 +4303,21 @@ The PlayStation version adds a new rendered intro and ending.</synopsis>
     <id>87666</id>
     <locale lang="EN">
       <title>From TV Animation One Piece - Grand Battle Swan Co</title>
-      <synopsis> A real high point in the WonderSwan One Piece series </synopsis>
+      <synopsis>Ever wondered which One Piece character is the toughest? Could Zoro take Sanji in a fight? Well this game is probably the closest you'll get to an answer. Modes include Story, 1P Vs Com and 1P Vs 2P.
+
+A real high point in the WonderSwan One Piece series in terms of presentation and graphics, Swan Colosseum gives the player a choice of six characters with which to dish out the pain to the opposition. Play as all the key characters: Luffy, Chopper, Sanji, Usopp, Nami and Zoro and face each in turn as well as other series key players in one round matches.
+
+Swan Colosseum offers some refreshingly different gameplay from the usual 'Street Fighter 2' clones. There's more of a 'Power Stone' vibe to this with each stage being fairly large and allowing the player to explore platforms and acquire weapons and items from randomly placed crates and barrels.
+
+The controls are quite different to what you might have come to expect from a one-on-one beat-em-up too. The player only uses two buttons to play; I to attack and II to jump (twice for double jump). This leaves the D-pad to dictate the kind of attack corresponding to the direction pressed or to block by holding 'down'. This method works well for the exploration elements of the gameplay but seriously limits the range of moves. Aside from the character specific special attack, unleashed by filling the power bar and a secret button combo, each of the cast really only has one attack simply with directional variants. This also does nothing to help the weaker members like Usopp &amp; Chopper especially the later who is already handicapped by his lack of stature. </synopsis>
+      <genre>Fighter</genre>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
     <date year="2002" month="07" day="12"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4294,6 +4328,14 @@ The PlayStation version adds a new rendered intro and ending.</synopsis>
     <id>87667</id>
     <locale lang="EN">
       <title>From TV Animation One Piece - Niji no Shima Denset</title>
+      <genre>RPG</genre>
+      <synopsis>An action board game reminiscent of the Famicom Dragonball Z titles. Choose your character then make your way around the location a square at a time according to the role of a dice. The goal is to be the player who retrieves the lost piece of treasure for that stage.
+
+Behind many of the squares that make up the game world hide actions and events. The most common is the battle event that pits your character against the nearest opponent.
+
+Despite being a 'Party Game' Treasure Wars does have a story to it. It may be fairly light but it's better than nothing. The SD graphics look good and sum up the overall style of the game. As always the WonderSwan's limited musical accompaniments make the best of what they've got.
+
+A real high point in the WonderSwan One Piece series </synopsis>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -4312,13 +4354,20 @@ The PlayStation version adds a new rendered intro and ending.</synopsis>
     <locale lang="EN">
       <title>From TV Animation One Piece - Treasure Wars</title>
       <genre>Strategy</genre>
+      <synopsis>An action board game reminiscent of the Famicom Dragonball Z titles. Choose your character then make your way around the location a square at a time according to the role of a dice. The goal is to be the player who retrieves the lost piece of treasure for that stage.
+
+Behind many of the squares that make up the game world hide actions and events. The most common is the battle event that pits your character against the nearest opponent.
+
+Despite being a 'Party Game' Treasure Wars does have a story to it. It may be fairly light but it's better than nothing. The SD graphics look good and sum up the overall style of the game. As always the WonderSwan's limited musical accompaniments make the best of what they've got.
+
+As for gripes, well the choice of gameplay may not be to everyone's taste and in single player it can take what feels like forever to get through the COM's three turns and back to yours. </synopsis>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
     <date year="2002" month="01" day="03"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4329,14 +4378,21 @@ The PlayStation version adds a new rendered intro and ending.</synopsis>
     <id>87669</id>
     <locale lang="EN">
       <title>From TV Animation One Piece - Treasure Wars 2 - Bu</title>
-      <synopsis>That's not to say Treasure Wars 2 is any less enjoyable just little changed; still "choose your character and att</synopsis>
+      <synopsis>Almost exactly the same as it's predessor. Different plot and slightly improved graphics but otherwise little to diferentiate gameplay-wise.
+
+That's not to say Treasure Wars 2 is any less enjoyable just little changed; still "choose your character and attempt to reach the treasure/defeat the boss before one of the other COM characters beat you to it".
+
+As before the number of game squares you move is controlled by a role of the dice and,as before, it seems like for ever for your turn to come around again.
+
+More fun played in 'Party Mode' with friends than in single player and you needn't worry too much about the Japanese text as it's fairly easy to work out. </synopsis>
+      <genre>Strategy</genre>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
     <date year="2002" month="12" day="20"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4352,7 +4408,7 @@ The PlayStation version adds a new rendered intro and ending.</synopsis>
 One year later, the war is underway and Huffman island is under provisional control of the OCU, but with a weakened military unable to defend against USN attacks. The soldiers involved involved in the Larcus Incident have all been discharged and disgraced. Roid spends his time fighting as a gladiator in the Wanzer fighting arena before being approached by a mysterious man. Colonel Olson has found out about Roid's history and wants him to command a mercenary unit he is assembling on behalf of the OCU, dubbed &amp;quot;Carrion Crow&amp;quot;. Convincing Roid that Driscoll is still out there on the island, Roid agrees.
 
 Front Mission is a turn-based strategy RPG played from an isometric perspective. Players progress in the story through large strategic battles involving multiple units and cutscenes between them. At certain places, usually towns, the player can visit multiple locations including bars and shops, and talk to people. Shops are also found to purchase new weaponry, parts and make repairs. In combat, each Wanzer robot is a seperate unit and, has a large variety of weapons and attack styles depending on what's equipped. Units get experience for defeating enemies and also for using various techniques. The more an attack is used, the more powerful it becomes.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Strategy,RPG</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4368,7 +4424,7 @@ Front Mission is a turn-based strategy RPG played from an isometric perspective.
     <date year="2002" month="07" day="12"/>
     <rating type="NOTE" value="14">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4387,7 +4443,7 @@ Front Mission is a turn-based strategy RPG played from an isometric perspective.
     <date year="2002" month="08" day="10"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4398,13 +4454,15 @@ Front Mission is a turn-based strategy RPG played from an isometric perspective.
     <id>87640</id>
     <locale lang="EN">
       <title>Gensou Maden Saiyuuki Retribution - Hi no Ataru Ba</title>
+      <genre>RPG</genre>
+      <synopsis/>
     </locale>
     <developer>PicPac-Airreal</developer>
     <publisher>Mubik</publisher>
     <date year="2001" month="06" day="07"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4437,7 +4495,7 @@ This is a horizontal fighting game, where you basically take one of the three ch
     <date year="2002" month="02" day="28"/>
     <rating type="NOTE" value="15">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4465,7 +4523,7 @@ This is a horizontal fighting game, where you basically take one of the three ch
     <date year="2002" month="06" day="13"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4498,7 +4556,7 @@ This is a horizontal fighting game, where you basically take one of the three ch
     <date year="2001" month="01" day="25"/>
     <rating type="NOTE" value="13">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4531,7 +4589,7 @@ This is a horizontal fighting game, where you basically take one of the three ch
     <date year="2001" month="09" day="27"/>
     <rating type="NOTE" value="16">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4570,7 +4628,7 @@ This game could access the internet through a wireless phone and the WonderGate 
     <date year="2000" month="12" day="09"/>
     <rating type="NOTE" value="11">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4600,7 +4658,7 @@ This is a real-time war strategy game. The game time is divided into months, eac
     <date year="2002" month="02" day="14"/>
     <rating type="NOTE" value="17">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4668,6 +4726,7 @@ This is a real-time war strategy game. The game time is divided into months, eac
     <locale lang="EN">
       <title>Hunter X Hunter - Michibikareshi Mono</title>
       <genre>Role-Playing</genre>
+      <synopsis/>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -4801,7 +4860,7 @@ Judgement Silversword is a vertically scrolling shooter in which wave upon wave 
 You'll have three weapons at your disposal, spread cannon, concentrated cannon, and your energy shield. The spread cannon will fire an arch of bullet out before you, while a concentrated will fire only directly before you. Your energy shield can be used to absorb incoming shot, however, your back and sides will remain vulnerable. The shield can also be used to damage enemies by ramming them with it. As you use it the shield will run out of energy and need to be recharged. 
 
 The game has thirty different areas each comprised of about ten sub areas. Scores are awarded based on kill ratio and completion time. New modes and easter eggs will be unlocked as you obtain higher scores.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4828,6 +4887,8 @@ The game has thirty different areas each comprised of about ten sub areas. Score
     <id>87658</id>
     <locale lang="EN">
       <title>Kidou Senshi Gundam - Giren no Yabou - Tokubetsu H</title>
+      <genre>Strategy</genre>
+      <synopsis/>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -4845,7 +4906,7 @@ The game has thirty different areas each comprised of about ten sub areas. Score
     <id>87659</id>
     <locale lang="EN">
       <title>Kidou Senshi Gundam Seed</title>
-      <genre>Action</genre>
+      <genre>Action,Fighter</genre>
       <synopsis>Kidou Senshi Gundam Seed is an Action game, developed and published by Bandai, which was released in Japan in 2003.</synopsis>
     </locale>
     <locale lang="ES">
@@ -4874,6 +4935,7 @@ The game has thirty different areas each comprised of about ten sub areas. Score
     <locale lang="EN">
       <title>Kidou Senshi Gundam Vol. 1 - Side 7</title>
       <genre>Simulation</genre>
+      <synopsis/>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -4892,6 +4954,7 @@ The game has thirty different areas each comprised of about ten sub areas. Score
     <locale lang="EN">
       <title>Kidou Senshi Gundam Vol. 2 - Jaburo</title>
       <genre>Simulation</genre>
+      <synopsis/>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -4910,6 +4973,7 @@ The game has thirty different areas each comprised of about ten sub areas. Score
     <locale lang="EN">
       <title>Kidou Senshi Gundam Vol. 3 - A Baoa Qu</title>
       <genre>Simulation</genre>
+      <synopsis/>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -4982,6 +5046,8 @@ This game is a turn based wrestling simulation, where you choose your moves (in 
     <id>143031</id>
     <locale lang="EN">
       <title>Kosodate Quiz Doko De Mo My Angel</title>
+      <genre>Quiz</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -4991,6 +5057,8 @@ This game is a turn based wrestling simulation, where you choose your moves (in 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1998"/>
+    <publisher/>
   </game>
   <game name="Kurupara!">
     <id>87654</id>
@@ -5263,7 +5331,7 @@ As most of the battles are hard, you will have an hard time finishing the game. 
     <date year="2001" month="05" day="31"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -5371,7 +5439,7 @@ The WonderSwan Color version is somewhat more condensed compared to the GameBoy 
     <id>87673</id>
     <locale lang="EN">
       <title>Rockman EXE WS</title>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
       <synopsis>With the success of the Megaman Battle Network series (or Rockman.EXE, as known in Japan) for GameBoy Advance, some spin-offs were bound to appear sooner or later. The franchise was lent to Bandai so that they could also revel on its popularity and, instead of the style already so abused by Capcom on the GBA, they came up with a creative platformer. Despite sharing the same core of the classic Megaman games, it plays a bit different, obviously borrowing a lot from the Battle Network universe (specially the anime show).
 
 The gameplay of this game is actually quite good. The levels play just like the old games, however they're shorter in general; you proceed through a 2D environment killing enemies and jumping from here to there, until you get to the boss. The great difference here is the insertion of the Network games ideas. Instead of changing weapons, like in the classic games, you get to use battlechips, which you can acquire throughout the levels killing enemies or searching in (not so much) hidden places.
@@ -5511,7 +5579,7 @@ Unfortunately, if you like this series you will be able to finish it in a couple
     <date year="2002" month="02" day="16"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -5613,6 +5681,7 @@ The game has customizable suits you can upgrade into another suit with parts, wh
     <locale lang="EN">
       <title>Senkaiden Ni - TV Animation Senkaiden Houshin Engi</title>
       <synopsis>A beautiful female fox spirit named Dakki is controlling the emperor Chu-o and the ruling In dynasty, and is using her power over him to do evil in the nation. An immortal-in-training named Taikobo is chosen by the gr</synopsis>
+      <genre>RPG</genre>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -5691,6 +5760,8 @@ Through a series of events and also through participation in the Shaman Fight, Y
     <id>87687</id>
     <locale lang="EN">
       <title>Star Hearts - Hoshi to Daichi no Shisha - Taikenba</title>
+      <genre>RPG</genre>
+      <synopsis/>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -5746,6 +5817,8 @@ Through a series of events and also through participation in the Shaman Fight, Y
     <id>129676</id>
     <locale lang="EN">
       <title>Taikyoku Igo Heisei Kiin</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -5755,6 +5828,8 @@ Through a series of events and also through participation in the Shaman Fight, Y
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="2000"/>
+    <publisher/>
   </game>
   <game name="Terrors 2">
     <id>38558</id>
@@ -5801,7 +5876,7 @@ Terrors 2 could connect to the internet with the WonderGate so that ingame event
     <date year="2002" month="04" day="18"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -5852,7 +5927,7 @@ Much like the FF series of old (and new), you can choose members to join your pa
     <date year="2001" month="06" day="28"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -5863,6 +5938,8 @@ Much like the FF series of old (and new), you can choose members to join your pa
     <id>109106</id>
     <locale lang="EN">
       <title>Trump Collection 2 - Bottom-up Teki Sekaiisshuu No Tabi</title>
+      <genre>Miscellaneous,Bets</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -5872,6 +5949,8 @@ Much like the FF series of old (and new), you can choose members to join your pa
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Uchuu Senkan Yamato">
     <id>87685</id>
@@ -6039,6 +6118,8 @@ Il y a deux personnages de départ et 22 personnages débloquables et téléchar
     <id>143388</id>
     <locale lang="EN">
       <title>Wonder Pong</title>
+      <genre>Action,Arcade</genre>
+      <synopsis/>
     </locale>
     <developer>Lira Nuna</developer>
     <rating type="NOTE" value="">
@@ -6049,11 +6130,15 @@ Il y a deux personnages de départ et 22 personnages débloquables et téléchar
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Wondersnake">
     <id>129674</id>
     <locale lang="EN">
       <title>Wondersnake</title>
+      <genre>Action,Arcade</genre>
+      <synopsis/>
     </locale>
     <publisher>Kojote - Slanina, Tomasz</publisher>
     <date year="2001" month="2001" day="2001"/>
@@ -6070,6 +6155,8 @@ Il y a deux personnages de départ et 22 personnages débloquables et téléchar
     <id>129677</id>
     <locale lang="EN">
       <title>Wondersnake 2</title>
+      <genre>Action,Arcade</genre>
+      <synopsis/>
     </locale>
     <publisher>Kojote - Slanina, Tomasz</publisher>
     <date year="2003" month="2003" day="2003"/>
@@ -6122,7 +6209,7 @@ Il y a deux personnages de départ et 22 personnages débloquables et téléchar
     <date year="2001" month="12" day="20"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -6133,6 +6220,8 @@ Il y a deux personnages de départ et 22 personnages débloquables et téléchar
     <id>155317</id>
     <locale lang="EN">
       <title>Ys 1 - Arranged By Atsushi Watanabe</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -6142,5 +6231,7 @@ Il y a deux personnages de départ et 22 personnages débloquables et téléchar
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
 </datafile>

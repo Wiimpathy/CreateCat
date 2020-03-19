@@ -16,8 +16,8 @@
 #
 #================================================================================================================================
 
-PLATFORM_LIST=( "AMIGA" "AMSTRAD" "APPLE2" "ARCADE" "ATARI2600" "ATARI5200" "ATARI7800" "ATARI800" "ATARIST" "BBCMICRO" "C64" "COCO" "COLECOVISION" "CPS1" "CPS2" "CREATIVISION" "DOS" "DRAGON3264" "FDS" "GAMEWATCH" "GAMEGEAR" "GB" "GBA" "GBC" "INTELLIVISION" "LYNX" "MASTERSYSTEM" "MEGACD" "MEGADRIVE" "MSX" "MSX2" "MSX2+" "MSXTURBO" "N64" "NEOGEO" "NEOPOCKET" "NES" "PC9801" "PCENGINE" "PCENGINECD" "PCFX" "PS1" "SATELLAVIEW" "SCUMMVM" "SG1000" "SGFX" "SUPERNES" "TO5" "VECTREX" "VG5000" "VIDEOPAC" "VIRTUALBOY" "WONDERSWAN" "ZX" )
-#PLATFORM_LIST=( "ARCADE" )
+PLATFORM_LIST=( "AMIGA" "AMSTRAD" "APPLE2" "ARCADE" "ATARI2600" "ATARI5200" "ATARI7800" "ATARI800" "ATARIST" "BBCMICRO" "C64" "COCO" "COLECOVISION" "CPS1" "CPS2" "CREATIVISION" "DOS" "DRAGON3264" "FDS" "GAMEWATCH" "GAMEGEAR" "GB" "GBA" "GBC" "INTELLIVISION" "LYNX" "MASTERSYSTEM" "MEGACD" "MEGADRIVE" "MSX" "MSX2" "MSX2+" "MSXTURBO" "N64" "NEOGEO" "NEOPOCKET" "NES" "openBOR" "PC8801" "PC9801" "PCENGINE" "PCENGINECD" "PCFX" "PS1" "SATELLAVIEW" "SCUMMVM" "SG1000" "SGFX" "SUPERNES" "TO5" "VECTREX" "VG5000" "VIDEOPAC" "VIRTUALBOY" "WONDERSWAN" "ZX" )
+
 
 #for PLATFORM in "${PLATFORM_LIST[@]}"
 #do
@@ -58,8 +58,8 @@ GEX_BUFFER="${GEX_BUFFER%a}"
 
 BUF_SS=`xmlstarlet sel -T -t -m "(//game)" -v "id" -o "|" -v "@name" -o "|" -v "(.//locale[@lang='EN']/title)" -o "|" \
 				-v "(.//locale[@lang='EN']/genre)" -o "|" -v "(.//input/@players)" \
-				--if "(.//control[@type='coop']/@required)" -o "|Coop|" \
-				--else -o "||" --break -v "developer" -o "|" -v "publisher" -o "|" -v "(.//date/@year)" -n $XMLFILE`
+				--if "(.//control[@type='coop']/@required='true')"  -o "|Coop|"   --else -o "||" --break \
+				-v "developer" -o "|" -v "publisher" -o "|" -v "(.//date/@year)" -n $XMLFILE`
 
 
 rm ./data/${PLATFORM}/${PLATFORM}_list.txt
@@ -80,7 +80,7 @@ do
 
 	RESULT_SIMIL=`./simil "$NAME_SS" $LUSS_NAMES_BUFFER`
 
-echo "$ID_SS|$NAME_SS|$TITLE_SS|$NAME_SEARCH_GEX|$GENRE_SS|$PLAYER_SS|$COOP_SS|$DEV_SS|$PUBLISH_SS|$YEAR_SS"
+	echo "$ID_SS|$NAME_SS|$TITLE_SS|$NAME_SEARCH_GEX|$GENRE_SS|$PLAYER_SS|$COOP_SS|$DEV_SS|$PUBLISH_SS|$YEAR_SS"
 
 	if [[ -z "${NAME_SEARCH_GEX}" ]];then
 		#echo "$NAME_SS:EMPTY!!!"
@@ -90,14 +90,12 @@ echo "$ID_SS|$NAME_SS|$TITLE_SS|$NAME_SEARCH_GEX|$GENRE_SS|$PLAYER_SS|$COOP_SS|$
 			TMPNAME=`echo "$RESULT_SIMIL" | sed -n '1p' `
 
 			if [ "${TMPNAME,,}" = "${NAME_SS,,}" ] || [ "${TMPNAME,,}" = "${TITLE_SS,,}" ]; then
-			#if [ "$TMPNAME" == "$NAME_SS" ] || [ "$TMPNAME" == "$TITLE_SS" ]; then
 					NAME_SEARCH_GEX=""
 			else
 				NAME_SEARCH_GEX="$TMPNAME"
 			fi
 		fi
 	else
-		#if [ "$NAME_SEARCH_GEX" == "$NAME_SS" ]; then
 		if [ "${NAME_SEARCH_GEX,,}" = "${NAME_SS,,}" ] || [ "${NAME_SEARCH_GEX,,}" = "${TITLE_SS,,}" ]; then
 				NAME_SEARCH_GEX=""
 		fi

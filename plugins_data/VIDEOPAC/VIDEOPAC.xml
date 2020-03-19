@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812050837" games="139"/>
+    <WiiTDB version="201812050837" games="139"/>
   <game name="4 In 1 Row">
     <id>59238A</id>
     <locale lang="EN">
@@ -120,7 +120,7 @@ Le joueur gagne la partie en détruisant tous les robots et canons ennemis sur l
     <locale lang="EN">
       <title>AMOK!</title>
       <synopsis>AMOK! was the first Odyssey² new release about 15 years after the console was discontinued. It is inspired by Berzerk. The player is trapped in a spaceship and is armed with a laser pistol, which can fire in all 8 directions. Each stage is a maze with one or more exits, and the player has to try to exit them while avoiding to touch its walls and get killed. Besides the danger of the walls, the player will face the berzerk robot sentinels, which can move about and shoot, but that can also be killed if they touch the walls. After a while, the Smileybot will appear and try to kill the player. The Smileybot can pass through walls and cannot be killed by the player. The game features 12 stages of increasing difficulty. The player has 3 lives; dying will make the player restart the current level, with all berzerk robot sentinels being replaced.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -180,7 +180,7 @@ In Sub Chase! players control an airplane and a submarine that scroll horizontal
     <locale lang="EN">
       <title>Astrododge</title>
       <synopsis>In Astrododge, the player controls a spaceship trying to avoid asteroids as the screen scrolls vertically for as long as possible. The ship is equipped with no weapons at all, and the player has only one life. At every 100 points, words of encouragement a</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -201,6 +201,7 @@ In Sub Chase! players control an airplane and a submarine that scroll horizontal
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Atlantis">
     <id>59246A</id>
@@ -306,7 +307,7 @@ There is also a demo mode available(selected by pressing 6 or 7 + NO).</synopsis
       <genre>Estrategia</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Backgammon est un portage du jeu de plateau sur l'Odyssey². Le but du jeu est de déplacer tous les pions du tableau. Le premier joueur à le faire gagne. Pour des raisons techniques, la planche est dessinée avec des lignes parallèles au lieu de triangles. Les points sont marqués de la manière suivante: une victoire directe est attribuée avec 1 point. Un "gammon" est attribué avec 2 points et un "backgammon" avec 2 points. Les joueurs peuvent défier l'adversaire pour doubler et redoubler le nombre de points gagnés. Le jeu peut être joué en utilisant les dés électroniques dans le jeu ou en utilisant des dés de main. Les variantes suivantes sont disponibles:nnnn1. Match de Backgammon pour deux joueurs (avec compteur de pip) (Appuyez sur 0): deux joueurs sélectionnent le nombre de points sur lesquels le match sera joué. Cette variation inclut un compteur de pip: il affiche le nombre de pips qui doivent être lancés pour que l'un ou l'autre joueur complète le jeu et sorte tous ses jetons du plateau.nnnn2. Match de Backgammon pour deux joueurs (sans compteur de pip) (appuyez sur 1): cette variation est identique à la précédente, mais sans le compteur de pip, qui peut être réactivé à tout moment en appuyant sur "0" et en appuyant sur " 1".nnnn3. Backgammon Compétitif pour deux joueurs (avec compteur de pip) (Pressez 2): dans cette variante, au lieu de jouer vers une cible de match prédéterminée, l'ordinateur donne un équilibre entre les deux joueurs et les points qu'ils ont marqués.nnnn4. Backgammon de compétition pour deux joueurs (sans compteur de pip) (appuyez sur 3).nnnn5. Faites un match de backgammon pour un joueur, en jouant contre l'ordinateur (avec compteur de pip) (appuyez sur 4).nnnn6. Faites correspondre le backgammon pour un joueur, en jouant contre l'ordinateur (sans compteur de pip) (appuyez sur 5).nnnn7. Backgammon de compétition pour un joueur, jouant contre l'ordinateur (avec compteur de pip) (appuyez sur 6).nnnn8. Backgammon de compétition pour un joueur, jouant contre l'ordinateur (sans compteur de pip) (appuyez sur 7).nnnn9. Backgammon "Néerlandais" (Pressez 1 à 7 + "_"): dans cette variété est également connu sous le nom de "Russian Backgammon" les checkers commencent sur la barre et doivent être amenés sur le plateau, comme avec le retour .nnnnIl y a aussi un mode démo disponible (sélectionné en appuyant sur 6 ou 7 + NO).</synopsis>
+      <synopsis>Backgammon est un portage du jeu de plateau sur l'Odyssey². Le but du jeu est de déplacer tous les pions du tableau. Le premier joueur à le faire gagne. Pour des raisons techniques, la planche est dessinée avec des lignes parallèles au lieu de triangles. Les points sont marqués de la manière suivante: une victoire directe est attribuée avec 1 point. Un "gammon" est attribué avec 2 points et un "backgammon" avec 2 points. Les joueurs peuvent défier l'adversaire pour doubler et redoubler le nombre de points gagnés. Le jeu peut être joué en utilisant les dés électroniques dans le jeu ou en utilisant des dés de main. Les variantes suivantes sont disponibles:1. Match de Backgammon pour deux joueurs (avec compteur de pip) (Appuyez sur 0): deux joueurs sélectionnent le nombre de points sur lesquels le match sera joué. Cette variation inclut un compteur de pip: il affiche le nombre de pips qui doivent être lancés pour que l'un ou l'autre joueur complète le jeu et sorte tous ses jetons du plateau.2. Match de Backgammon pour deux joueurs (sans compteur de pip) (appuyez sur 1): cette variation est identique à la précédente, mais sans le compteur de pip, qui peut être réactivé à tout moment en appuyant sur "0" et en appuyant sur " 1".3. Backgammon Compétitif pour deux joueurs (avec compteur de pip) (Pressez 2): dans cette variante, au lieu de jouer vers une cible de match prédéterminée, l'ordinateur donne un équilibre entre les deux joueurs et les points qu'ils ont marqués.4. Backgammon de compétition pour deux joueurs (sans compteur de pip) (appuyez sur 3).5. Faites un match de backgammon pour un joueur, en jouant contre l'ordinateur (avec compteur de pip) (appuyez sur 4).6. Faites correspondre le backgammon pour un joueur, en jouant contre l'ordinateur (sans compteur de pip) (appuyez sur 5).7. Backgammon de compétition pour un joueur, jouant contre l'ordinateur (avec compteur de pip) (appuyez sur 6).8. Backgammon de compétition pour un joueur, jouant contre l'ordinateur (sans compteur de pip) (appuyez sur 7).9. Backgammon "Néerlandais" (Pressez 1 à 7 + "_"): dans cette variété est également connu sous le nom de "Russian Backgammon" les checkers commencent sur la barre et doivent être amenés sur le plateau, comme avec le retour .Il y a aussi un mode démo disponible (sélectionné en appuyant sur 6 ou 7 + NO).</synopsis>
       <genre>Stratégie</genre>
     </locale>
     <locale lang="DE">
@@ -459,7 +460,7 @@ Sometimes the computer will also offer a double down. If the player accepts, the
     </locale>
     <locale lang="FR">
       <title>Blackjack</title>
-      <synopsis>Un ou deux joueurs peuvent jouer contre l'ordinateur dans ce jeu de Blackjack.nnChaque joueur commence avec 1000 $. Après avoir placé leurs mises (à travers le clavier), le croupier mélange les cartes et distribue deux cartes face visible pour chaque joueur et une carte face recto et une carte face cachée à lui-même. Il demande ensuite aux joueurs de frapper plus de cartes ou non (jusqu'à cinq). Après que chaque joueur a reçu une main pleine, le croupier révèle sa carte face cachée. Il prendra un coup s'il a un total de 16 ou moins.nnLe Blackjack ou cinq cartes sans buste paye le double. Le plus proche de 21 mains paie même. Aucun argent n'est payé s'il y a égalité.nnL'ordinateur offre un pari d'assurance si la première carte du croupier est un as. Si le joueur accepte et que le croupier fait un blackjack, le joueur ne perdra pas d'argent. Sinon, il gagnera ou perdra la mise actuelle plus une demie.nnParfois, l'ordinateur offrira également un double down. Si le joueur accepte, le pari est doublé et il n'aura plus qu'une carte de plus.</synopsis>
+      <synopsis>Un ou deux joueurs peuvent jouer contre l'ordinateur dans ce jeu de Blackjack. Chaque joueur commence avec 1000 $. Après avoir placé leurs mises (à travers le clavier), le croupier mélange les cartes et distribue deux cartes face visible pour chaque joueur et une carte face recto et une carte face cachée à lui-même. Il demande ensuite aux joueurs de frapper plus de cartes ou non (jusqu'à cinq). Après que chaque joueur a reçu une main pleine, le croupier révèle sa carte face cachée. Il prendra un coup s'il a un total de 16 ou moins. Le Blackjack ou cinq cartes sans buste paye le double. Le plus proche de 21 mains paie même. Aucun argent n'est payé s'il y a égalité. L'ordinateur offre un pari d'assurance si la première carte du croupier est un as. Si le joueur accepte et que le croupier fait un blackjack, le joueur ne perdra pas d'argent. Sinon, il gagnera ou perdra la mise actuelle plus une demie. Parfois, l'ordinateur offrira également un double down. Si le joueur accepte, le pari est doublé et il n'aura plus qu'une carte de plus.</synopsis>
       <genre>Jeu de cartes</genre>
     </locale>
     <locale lang="DE">
@@ -558,6 +559,7 @@ BASKETBALL! Pour un réalisme ultime, il y a même un champ de gravité électro
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Casino Slot Machine">
     <id>59259A</id>
@@ -601,7 +603,7 @@ Noughts and Crosses is also known as tic-tac-toe. Players move a "+" cursor over
       <genre>Varios</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Deux titres sont disponibles dans cette cartouche :nnCatch the Ball met un ou deux joueurs dans le rôle d'un clown de cirque qui doit attraper un ballon qui descend un labyrinthe d'obstacles. Le clown doit essayer de suivre la balle alors qu'elle tombe sur son chemin imprévisible. Une limite de temps de trois "minutes de jeu" est décomptée et le joueur avec plus de balles capturées à la fin du temps gagne. Le joystick est utilisé pour déplacer le clown vers la gauche ou la droite et le bouton "action" accélère ses mouvements. Il y a 6 variations possibles, les joueurs se relayant après chaque balle attrapée, se relayant après chaque coup manqué ou en mode solo, avec la limite de temps activée ou désactivée pour chaque mode.nnnnNoughts and Crosses est également connu sous le nom de tic-tac-toe. Les joueurs déplacent un curseur "+" sur la matrice de 9 cases et placent soit des points noirs, soit des carrés rouges. Le premier à avoir trois symboles en ligne droite gagne. Si les six symboles ont été placés et qu'il n'y a pas de gagnant, vous pouvez les supprimer en plaçant le curseur sur et en appuyant sur le bouton d'action, puis les remplacer.</synopsis>
+      <synopsis>Deux titres sont disponibles dans cette cartouche :nnCatch the Ball met un ou deux joueurs dans le rôle d'un clown de cirque qui doit attraper un ballon qui descend un labyrinthe d'obstacles. Le clown doit essayer de suivre la balle alors qu'elle tombe sur son chemin imprévisible. Une limite de temps de trois "minutes de jeu" est décomptée et le joueur avec plus de balles capturées à la fin du temps gagne. Le joystick est utilisé pour déplacer le clown vers la gauche ou la droite et le bouton "action" accélère ses mouvements. Il y a 6 variations possibles, les joueurs se relayant après chaque balle attrapée, se relayant après chaque coup manqué ou en mode solo, avec la limite de temps activée ou désactivée pour chaque mode.Noughts and Crosses est également connu sous le nom de tic-tac-toe. Les joueurs déplacent un curseur "+" sur la matrice de 9 cases et placent soit des points noirs, soit des carrés rouges. Le premier à avoir trois symboles en ligne droite gagne. Si les six symboles ont été placés et qu'il n'y a pas de gagnant, vous pouvez les supprimer en plaçant le curseur sur et en appuyant sur le bouton d'action, puis les remplacer.</synopsis>
       <genre>Divers</genre>
     </locale>
     <locale lang="DE">
@@ -647,6 +649,7 @@ Noughts and Crosses is also known as tic-tac-toe. Players move a "+" cursor over
     <locale lang="EN">
       <title>Chess</title>
       <synopsis>Chess game</synopsis>
+      <genre>Strategy,Chess,</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Jeu d'échec</synopsis>
@@ -660,6 +663,7 @@ Noughts and Crosses is also known as tic-tac-toe. Players move a "+" cursor over
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Chez Maxime">
     <id>59263A</id>
@@ -676,7 +680,7 @@ To make things a bit more difficult, a dog enters the restaurant every now and t
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Chez Maxime, le joueur contrôle Maxime, un serveur qui doit bien servir ses clients, sinon il va perdre son travail. Le "chez" a trois étages, avec une table dans la première, une dans la seconde et trois au dernier étage. Les clients entrent de l'une des quatre portes du restaurant, s'assoient et attendent leurs commandes. Le cuisinier place un repas chez le serveur muet et Maxime doit l'attraper quand il passe à côté du sol où il se tient dans une cage d'ascenseur.nnnnLes clients se fâchent d'attendre trop longtemps. Ils arrivent au vert, mais deviennent rouges à mesure qu'ils deviennent plus en colère et commencent enfin à sauter à leur place quand ils sont vraiment furieux. Si Maxime les sert, ils reviendront à leur état calme (vert) et partiront. Si Maxime ne parvient pas à les servir quand ils sont furieux, ils partiront. Si quatre clients partent non desservis, le jeu est terminé.nnnnPour rendre les choses un peu plus difficiles, un chien entre de temps en temps dans le restaurant, essayant de voler le plateau de Maxime. Si Maxime a les mains libres, il va chasser le chien; s'il porte son plateau, le chien va mordre les jambes de Maxime, le faisant tomber et voler le plateau.</synopsis>
+      <synopsis>Chez Maxime, le joueur contrôle Maxime, un serveur qui doit bien servir ses clients, sinon il va perdre son travail. Le "chez" a trois étages, avec une table dans la première, une dans la seconde et trois au dernier étage. Les clients entrent de l'une des quatre portes du restaurant, s'assoient et attendent leurs commandes. Le cuisinier place un repas chez le serveur muet et Maxime doit l'attraper quand il passe à côté du sol où il se tient dans une cage d'ascenseur.Les clients se fâchent d'attendre trop longtemps. Ils arrivent au vert, mais deviennent rouges à mesure qu'ils deviennent plus en colère et commencent enfin à sauter à leur place quand ils sont vraiment furieux. Si Maxime les sert, ils reviendront à leur état calme (vert) et partiront. Si Maxime ne parvient pas à les servir quand ils sont furieux, ils partiront. Si quatre clients partent non desservis, le jeu est terminé.Pour rendre les choses un peu plus difficiles, un chien entre de temps en temps dans le restaurant, essayant de voler le plateau de Maxime. Si Maxime a les mains libres, il va chasser le chien; s'il porte son plateau, le chien va mordre les jambes de Maxime, le faisant tomber et voler le plateau.</synopsis>
       <genre>Action</genre>
     </locale>
     <locale lang="DE">
@@ -717,7 +721,7 @@ The computer keeps track of the time elapsed and the number of moves made by the
       <genre>Estrategia</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Dans Chinese Logic, le joueur doit déplacer une séquence de nombres (9 à 0) du point A d'un motif de lignes au point D (ou B dans les variations). Les nombres doivent être placés au point D dans le même ordre décroissant. Il y a deux autres points sur lesquels les nombres peuvent être déplacés, B et C.nnnnSi un ou plusieurs numéros sont parqués dans l'un des points, le joueur ne peut en plus déplacer vers ce point que les numéros qui sont plus bas que le dernier qui est déjà parqué. Les numéros peuvent être déplacés un par un seulement et pour ce faire, le joueur doit taper la lettre d'origine et ensuite taper la lettre du destin. Les mouvements peuvent être annulés en appuyant sur la touche "Effacer".nnnnL'ordinateur garde une trace du temps écoulé et du nombre de mouvements effectués par le joueur, montrant également le nombre minimum de coups pour résoudre le casse-tête. Il y a 9 autres variations possibles, avec la différence entre le blocage du point D et le déplacement des nombres. Ces variations peuvent être sélectionnées en appuyant sur "reset" et le nombre désiré, comme suit: un chiffre - nombre minimum de coups: 1nn2. deux chiffres - nombre minimum de coups: 3nn3. trois chiffres - nombre minimum de coups: 7nn4. quatre chiffres - nombre minimum de coups: 15nn5. cinq chiffres - nombre minimum de coups: 31nn6. six chiffres - nombre minimum de coups: 63nn7. sept chiffres - nombre minimum de coups: 127nn8. huit chiffres - nombre minimum de coups: 255nn9. neuf chiffres - nombre minimum de coups: 511</synopsis>
+      <synopsis>Dans Chinese Logic, le joueur doit déplacer une séquence de nombres (9 à 0) du point A d'un motif de lignes au point D (ou B dans les variations). Les nombres doivent être placés au point D dans le même ordre décroissant. Il y a deux autres points sur lesquels les nombres peuvent être déplacés, B et C.Si un ou plusieurs numéros sont parqués dans l'un des points, le joueur ne peut en plus déplacer vers ce point que les numéros qui sont plus bas que le dernier qui est déjà parqué. Les numéros peuvent être déplacés un par un seulement et pour ce faire, le joueur doit taper la lettre d'origine et ensuite taper la lettre du destin. Les mouvements peuvent être annulés en appuyant sur la touche "Effacer".L'ordinateur garde une trace du temps écoulé et du nombre de mouvements effectués par le joueur, montrant également le nombre minimum de coups pour résoudre le casse-tête. Il y a 9 autres variations possibles, avec la différence entre le blocage du point D et le déplacement des nombres. Ces variations peuvent être sélectionnées en appuyant sur "reset" et le nombre désiré, comme suit: un chiffre - nombre minimum de coups: 1nn2. deux chiffres - nombre minimum de coups: 3nn3. trois chiffres - nombre minimum de coups: 7nn4. quatre chiffres - nombre minimum de coups: 15nn5. cinq chiffres - nombre minimum de coups: 31nn6. six chiffres - nombre minimum de coups: 63nn7. sept chiffres - nombre minimum de coups: 127nn8. huit chiffres - nombre minimum de coups: 255nn9. neuf chiffres - nombre minimum de coups: 511</synopsis>
       <genre>Stratégie</genre>
     </locale>
     <locale lang="DE">
@@ -791,6 +795,7 @@ The computer keeps track of the time elapsed and the number of moves made by the
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Computer Golf">
     <id>59268A</id>
@@ -862,6 +867,7 @@ Computer Telepathy (Press 3) is a number guessing game. The player has to guess 
 
 Between the Sheets (Press 4) is another guessing game. The computer displays three numbers, like 3 7 00. The first two numbers are the sheets and the last two digits are the player's score. If the player thinks the secret number is between 3 and 7, he types "Yes", if he thinks it isn't between 3 and 7, he types "No". Right answers add 1 point to the score and the number is displayed, wrong answers will be announced by a beep.
 There is also a demonstration program called Creepy Crawler (Press 1), which consists of a randomized display of flashing blocks.</synopsis>
+      <genre/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -871,6 +877,8 @@ There is also a demonstration program called Creepy Crawler (Press 1), which con
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Conquest Of The World">
     <id>59272A</id>
@@ -889,7 +897,7 @@ Besides the gameboard map itself, the game also comes with a 100 power base unit
       <genre>Estrategia</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Les joueurs choisissent de jouer comme l'un des 43 pays et en font leur patrie. Le pouvoir militaire et diplomatique de chaque pays est reflété par son homologue de la vie réelle au début des années 1980. La relation de chaque pays entre eux se reflète également dans la vie réelle.nnnnLe jeu implique l'utilisation d'un plateau de jeu. Gameplay fait sur le plateau de jeu contient des informations qui sont ensuite entrés dans l'Odyssey 2 pour qu'il gère. À l'intérieur du jeu lui-même, les joueurs se battent par terre, air et mer. Les batailles impliquent des joueurs contrôlant soit un jet (armée de l'air), un char (armée), ou un sous-marin (marine), puis combattant les autres joueurs jet, tank ou sous-marin. Ces véhicules dépendent des fournitures qui sont affichées en tant qu'unités d'énergie. Chaque coup tiré et le mouvement effectué drainent les unités d'énergie des joueurs. La bataille se termine lorsque toutes les unités d'énergie s'épuisent. Ces résultats de combat sont ensuite enregistrés sur le plateau de jeu, ce qui déclenche d'autres entrées dans l'Odyssée 2.nnnnChaque bataille gagnée et chaque alliance gagnée augmentera le pouvoir d'un pays. Le pays avec le plus de puissance à la fin du jeu gagne.nnnnEn plus de la carte elle-même, le jeu comprend également 100 indicateurs d'unités de base, un marqueur Homeland et six ensembles de marqueurs Conquest / Alliance.</synopsis>
+      <synopsis>Les joueurs choisissent de jouer comme l'un des 43 pays et en font leur patrie. Le pouvoir militaire et diplomatique de chaque pays est reflété par son homologue de la vie réelle au début des années 1980. La relation de chaque pays entre eux se reflète également dans la vie réelle.Le jeu implique l'utilisation d'un plateau de jeu. Gameplay fait sur le plateau de jeu contient des informations qui sont ensuite entrés dans l'Odyssey 2 pour qu'il gère. À l'intérieur du jeu lui-même, les joueurs se battent par terre, air et mer. Les batailles impliquent des joueurs contrôlant soit un jet (armée de l'air), un char (armée), ou un sous-marin (marine), puis combattant les autres joueurs jet, tank ou sous-marin. Ces véhicules dépendent des fournitures qui sont affichées en tant qu'unités d'énergie. Chaque coup tiré et le mouvement effectué drainent les unités d'énergie des joueurs. La bataille se termine lorsque toutes les unités d'énergie s'épuisent. Ces résultats de combat sont ensuite enregistrés sur le plateau de jeu, ce qui déclenche d'autres entrées dans l'Odyssée 2.Chaque bataille gagnée et chaque alliance gagnée augmentera le pouvoir d'un pays. Le pays avec le plus de puissance à la fin du jeu gagne.En plus de la carte elle-même, le jeu comprend également 100 indicateurs d'unités de base, un marqueur Homeland et six ensembles de marqueurs Conquest / Alliance.</synopsis>
       <genre>Stratégie</genre>
     </locale>
     <locale lang="DE">
@@ -911,12 +919,12 @@ Besides the gameboard map itself, the game also comes with a 100 power base unit
     <id>59273A</id>
     <locale lang="EN">
       <title>Course de Voitures + Autodrome + Cryptogramme</title>
-      <synopsis>Three games are available in this compilation: nnSpeedway! (selected by pressing "1") is a vertical scrolling racing game against the clock. The player controls the car with the joystick, pushing up to accelerate it (the longer, the faster), left and right to control direction and down to break. nnnnThe faster the car goes, the higher the score. Collisions halt the score, but not the clock. The player has two minutes to run, until the race ends. nnnnThere are two possible variations: (1) qualifying time trials and (2) the main event (opponent cars are twice faster). nnnnSpin-Out! (selected by pressing "2" for a three laps event or "3" for a 15 laps event) is a top-down circuit racing game. Two players race against each other for the amount of tracks selected. Four skill levels are available: clear track/slow speed, clear track/fast speed, barrier track/slow speed and barrier track/fast speed. nnnnThe car is controlled with the directional stick, and the action button doubles the car speed in straightaways. If the car collides against the wall or barriers, it can break or spin out, losing time. If two cars collide, one of them will spin out. nnnnCrypto-Logic! (selected by pressing "4") is a puzzle game. The object is to decipher a scrambled word entered by another player. nnnnThe word can have up to 14 letters. After entering the word or message, the first player presses the "Enter" key to scramble it. The other player has to guess the original word by typing the letters in the line below it. Letters placed in the right order will stay, wrong placed letters will be displayed for a short period of time and disappear. When the cryptogram is solved, the number of mistakes is displayed on screen.</synopsis>
+      <synopsis>Three games are available in this compilation: nnSpeedway! (selected by pressing "1") is a vertical scrolling racing game against the clock. The player controls the car with the joystick, pushing up to accelerate it (the longer, the faster), left and right to control direction and down to break. The faster the car goes, the higher the score. Collisions halt the score, but not the clock. The player has two minutes to run, until the race ends. There are two possible variations: (1) qualifying time trials and (2) the main event (opponent cars are twice faster). Spin-Out! (selected by pressing "2" for a three laps event or "3" for a 15 laps event) is a top-down circuit racing game. Two players race against each other for the amount of tracks selected. Four skill levels are available: clear track/slow speed, clear track/fast speed, barrier track/slow speed and barrier track/fast speed. The car is controlled with the directional stick, and the action button doubles the car speed in straightaways. If the car collides against the wall or barriers, it can break or spin out, losing time. If two cars collide, one of them will spin out. Crypto-Logic! (selected by pressing "4") is a puzzle game. The object is to decipher a scrambled word entered by another player. The word can have up to 14 letters. After entering the word or message, the first player presses the "Enter" key to scramble it. The other player has to guess the original word by typing the letters in the line below it. Letters placed in the right order will stay, wrong placed letters will be displayed for a short period of time and disappear. When the cryptogram is solved, the number of mistakes is displayed on screen.</synopsis>
       <genre>Various</genre>
     </locale>
     <locale lang="FR">
       <title>Course de Voitures + Autodrome + Cryptogramme</title>
-      <synopsis>Trois jeux sont disponibles dans cette compilation:nnCourse de voitures! (sélectionné en appuyant sur "1") est un jeu de course à défilement vertical contre la montre. Le joueur contrôle la voiture avec le joystick, poussant vers le haut pour l'accélérer (le plus long, le plus rapide), gauche et droite pour contrôler la direction et vers le bas pour casser.nnnnPlus la voiture roule vite, plus le score est élevé. Les collisions arrêtent le score, mais pas l'horloge. Le joueur a deux minutes pour courir jusqu'à la fin de la course.nnnnIl existe deux variantes possibles: (1) les essais chronométrés qualificatifs et (2) l'épreuve principale (les voitures adverses sont deux fois plus rapides).nnnnAutodrome! (sélectionné en appuyant sur "2" pour un événement de trois tours ou "3" pour un événement de 15 tours) est un jeu de course de circuit de haut en bas. Deux joueurs s'affrontent pour le nombre de pistes sélectionnées. Quatre niveaux de compétence sont disponibles: piste libre / vitesse lente, piste libre / vitesse rapide, piste de barrière / vitesse lente et piste de barrière / vitesse rapide.nnnnLa voiture est contrôlée avec le stick directionnel, et le bouton d'action double la vitesse de la voiture dans les lignes droites. Si la voiture heurte le mur ou les barrières, elle peut se briser ou déraper, perdant du temps. Si deux voitures entrent en collision, l'une d'entre elles va sortir.nnnnCryptogramme! (sélectionné en appuyant sur "4") est un jeu de puzzle. L'objet est de déchiffrer un mot brouillé entré par un autre joueur.nnnnLe mot peut avoir jusqu'à 14 lettres. Après avoir entré le mot ou le message, le premier joueur appuie sur la touche "Entrée" pour le brouiller. L'autre joueur doit deviner le mot original en tapant les lettres dans la ligne ci-dessous. Les lettres placées dans le bon ordre resteront, les lettres mal placées seront affichées pendant une courte période et disparaîtront. Lorsque le cryptogramme est résolu, le nombre d'erreurs est affiché à l'écran.</synopsis>
+      <synopsis>Trois jeux sont disponibles dans cette compilation:nnCourse de voitures! (sélectionné en appuyant sur "1") est un jeu de course à défilement vertical contre la montre. Le joueur contrôle la voiture avec le joystick, poussant vers le haut pour l'accélérer (le plus long, le plus rapide), gauche et droite pour contrôler la direction et vers le bas pour casser.Plus la voiture roule vite, plus le score est élevé. Les collisions arrêtent le score, mais pas l'horloge. Le joueur a deux minutes pour courir jusqu'à la fin de la course.Il existe deux variantes possibles: (1) les essais chronométrés qualificatifs et (2) l'épreuve principale (les voitures adverses sont deux fois plus rapides).Autodrome! (sélectionné en appuyant sur "2" pour un événement de trois tours ou "3" pour un événement de 15 tours) est un jeu de course de circuit de haut en bas. Deux joueurs s'affrontent pour le nombre de pistes sélectionnées. Quatre niveaux de compétence sont disponibles: piste libre / vitesse lente, piste libre / vitesse rapide, piste de barrière / vitesse lente et piste de barrière / vitesse rapide.La voiture est contrôlée avec le stick directionnel, et le bouton d'action double la vitesse de la voiture dans les lignes droites. Si la voiture heurte le mur ou les barrières, elle peut se briser ou déraper, perdant du temps. Si deux voitures entrent en collision, l'une d'entre elles va sortir.Cryptogramme! (sélectionné en appuyant sur "4") est un jeu de puzzle. L'objet est de déchiffrer un mot brouillé entré par un autre joueur.Le mot peut avoir jusqu'à 14 lettres. Après avoir entré le mot ou le message, le premier joueur appuie sur la touche "Entrée" pour le brouiller. L'autre joueur doit deviner le mot original en tapant les lettres dans la ligne ci-dessous. Les lettres placées dans le bon ordre resteront, les lettres mal placées seront affichées pendant une courte période et disparaîtront. Lorsque le cryptogramme est résolu, le nombre d'erreurs est affiché à l'écran.</synopsis>
     </locale>
     <publisher>Philips</publisher>
     <date year="1980" month="" day=""/>
@@ -967,6 +975,8 @@ Besides the gameboard map itself, the game also comes with a 100 power base unit
     <id>59275A</id>
     <locale lang="EN">
       <title>Depth Charge</title>
+      <genre>Action,</genre>
+      <synopsis/>
     </locale>
     <publisher>N.V. Philips Gloeilampenfabrieken</publisher>
     <rating type="NOTE" value="">
@@ -977,6 +987,7 @@ Besides the gameboard map itself, the game also comes with a 100 power base unit
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Depth Charge + Marksman">
     <id>59276A</id>
@@ -992,7 +1003,7 @@ Marksman is a shooting gallery game. The player can choose between 2 game durati
       <genre>Estrategia</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Deux titres sont disponibles dans cette cartouche :nnDepth Charge est une variante de BattleShip solo. Le joueur contrôle un canon dans une vue de haut en bas en essayant de détruire 7 sous-marins cachés dans la zone d'eau montrée à l'écran. La zone est une grille de 8x8, et le joueur contrôle une croix blanche avec le joystick. Appuyez sur le bouton d'action tirera le canon. Si un sous-marin est caché dans cette zone particulière, un carré bleu apparaîtra, le marquant. S'il n'y a pas de sous-marins, le jeu avertira le joueur avec un son et cette zone continuera sans être marquée. Il y a des sous-marins de 4 tailles différentes, avec 3 sections avec une section chacune, 2 avec 2 sections chacune, 1 avec 3 sections et 1 avec 4 sections. Le jeu garde la trace du nombre de tirs essayés par le joueur, et le total est montré à la fin du jeu, quand tous les sous-marins sont détruits.nnnnMarksman est un jeu de tir à la galerie. Le joueur peut choisir entre 2 durées de jeu: 1 minute ou 3 minutes. Le jeu est joué dans une perspective à la première personne, avec le joueur voyant le fusil et les cibles en face de lui. Une ligne de cibles défile de droite à gauche, rebondissant devant le fusil et le joueur doit les viser et tirer. Il y a 9 cibles différentes qui accordent au joueur des scores de 1 à 9 points chacun. Lorsque le joueur atteint 100 points, les cibles commencent à se déplacer plus rapidement. Le jeu se termine lorsque l'heure atteint 0:00 ou lorsque le joueur n'a plus de coups (commençant par 24).</synopsis>
+      <synopsis>Deux titres sont disponibles dans cette cartouche :nnDepth Charge est une variante de BattleShip solo. Le joueur contrôle un canon dans une vue de haut en bas en essayant de détruire 7 sous-marins cachés dans la zone d'eau montrée à l'écran. La zone est une grille de 8x8, et le joueur contrôle une croix blanche avec le joystick. Appuyez sur le bouton d'action tirera le canon. Si un sous-marin est caché dans cette zone particulière, un carré bleu apparaîtra, le marquant. S'il n'y a pas de sous-marins, le jeu avertira le joueur avec un son et cette zone continuera sans être marquée. Il y a des sous-marins de 4 tailles différentes, avec 3 sections avec une section chacune, 2 avec 2 sections chacune, 1 avec 3 sections et 1 avec 4 sections. Le jeu garde la trace du nombre de tirs essayés par le joueur, et le total est montré à la fin du jeu, quand tous les sous-marins sont détruits.Marksman est un jeu de tir à la galerie. Le joueur peut choisir entre 2 durées de jeu: 1 minute ou 3 minutes. Le jeu est joué dans une perspective à la première personne, avec le joueur voyant le fusil et les cibles en face de lui. Une ligne de cibles défile de droite à gauche, rebondissant devant le fusil et le joueur doit les viser et tirer. Il y a 9 cibles différentes qui accordent au joueur des scores de 1 à 9 points chacun. Lorsque le joueur atteint 100 points, les cibles commencent à se déplacer plus rapidement. Le jeu se termine lorsque l'heure atteint 0:00 ou lorsque le joueur n'a plus de coups (commençant par 24).</synopsis>
       <genre>Stratégie</genre>
     </locale>
     <locale lang="DE">
@@ -1068,6 +1079,7 @@ The computer keeps track of the time elapsed and the number of moves made by the
     <locale lang="EN">
       <title>Electronic Billiards</title>
       <synopsis>While the packaging promises "an electronic simulation so real you can even spike a shot", this is in fact a volleyball game which has a very loose interpretation of the standard rules. In fact, it can be described as a cross between volleyball and Pong: Each six-man team is separated by a large line, which the casual observer would interpret as the net. The line is open at the top, and this is the only place where the ball can pass through into the other court. While the ball is in your court, it can be passed as many times you want, and bounced against the "net" and the back of the court. As long as the ball doesn't touch the bottom of the screen, it is safe. The joystick moves the entire team in strict formation, and the ball passes through the players if they are held still, or bounced in the direction they are moving. A status display at the bottom of the screen writes out in clear text whether there is a serve change, a spike, scoring or otherwise.</synopsis>
+      <genre/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1077,6 +1089,8 @@ The computer keeps track of the time elapsed and the number of moves made by the
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Electronic Table Soccer">
     <id>59280A</id>
@@ -1122,7 +1136,7 @@ After the player reaches 2000 points an enormous meteor may appear which can onl
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Dans Exojet +, le joueur contrôle un vaisseau spatial qui s'est égaré lors d'une mission de reconnaissance sur une planète inconnue et pénètre dans un canyon d'où il ne peut s'échapper. Le but est de survivre en défendant le navire contre deux menaces principales: des vaisseaux spatiaux ennemis qui tirent en survolant le canyon latéralement dans l'écran et des canons laser dans le canyon pour intercepter le navire. Le vaisseau du joueur a une vue qui changera sa position en fonction de l'origine de la menace, se déplaçant vers le haut de l'écran pour les vaisseaux ennemis et vers l'avant du vaisseau du joueur pour les canons laser. Le vaisseau du joueur est également équipé d'un bouclier magnétique qui est détruit s'il est touché, mais se régénère après six secondes.nnnnAprès 10 ennemis sont détruits, une base de vaisseau spatial apparaît sur l'écran et le joueur doit éviter de le détruire. Si le joueur touche la base du vaisseau spatial, un bonus de 100 points sera accordé, le bouclier magnétique prend une demi-seconde de plus pour se régénérer et les ennemis deviennent plus rapides et mieux armés. Au début, les ennemis tireront des missiles, après la première base ils tireront des groupes de missiles, après la seconde ils tireront une "pluie" de missiles et après le troisième ils tireront des missiles à tête chercheuse. Plus loin dans le jeu, des navires amis apparaîtront également et ne doivent pas être détruits.nnnnAprès que le joueur a atteint 2000 points, un énorme météore peut apparaître, ce qui ne peut être évité (avec un bonus de 100 points pour l'exploit). Après 5000 points, la vitesse du météore augmente, tout comme les points bonus attribués (150). Finalement, après 7000 points, le navire perd son bouclier magnétique. Le jeu est terminé si le vaisseau est touché sans son bouclier magnétique s'il se bloque dans les parois du canyon ou dans le météore.</synopsis>
+      <synopsis>Dans Exojet +, le joueur contrôle un vaisseau spatial qui s'est égaré lors d'une mission de reconnaissance sur une planète inconnue et pénètre dans un canyon d'où il ne peut s'échapper. Le but est de survivre en défendant le navire contre deux menaces principales: des vaisseaux spatiaux ennemis qui tirent en survolant le canyon latéralement dans l'écran et des canons laser dans le canyon pour intercepter le navire. Le vaisseau du joueur a une vue qui changera sa position en fonction de l'origine de la menace, se déplaçant vers le haut de l'écran pour les vaisseaux ennemis et vers l'avant du vaisseau du joueur pour les canons laser. Le vaisseau du joueur est également équipé d'un bouclier magnétique qui est détruit s'il est touché, mais se régénère après six secondes.Après 10 ennemis sont détruits, une base de vaisseau spatial apparaît sur l'écran et le joueur doit éviter de le détruire. Si le joueur touche la base du vaisseau spatial, un bonus de 100 points sera accordé, le bouclier magnétique prend une demi-seconde de plus pour se régénérer et les ennemis deviennent plus rapides et mieux armés. Au début, les ennemis tireront des missiles, après la première base ils tireront des groupes de missiles, après la seconde ils tireront une "pluie" de missiles et après le troisième ils tireront des missiles à tête chercheuse. Plus loin dans le jeu, des navires amis apparaîtront également et ne doivent pas être détruits.Après que le joueur a atteint 2000 points, un énorme météore peut apparaître, ce qui ne peut être évité (avec un bonus de 100 points pour l'exploit). Après 5000 points, la vitesse du météore augmente, tout comme les points bonus attribués (150). Finalement, après 7000 points, le navire perd son bouclier magnétique. Le jeu est terminé si le vaisseau est touché sans son bouclier magnétique s'il se bloque dans les parois du canyon ou dans le météore.</synopsis>
       <genre>Action</genre>
     </locale>
     <locale lang="DE">
@@ -1144,14 +1158,14 @@ After the player reaches 2000 points an enormous meteor may appear which can onl
     <id>59282A</id>
     <locale lang="EN">
       <title>Fatso!</title>
-      <synopsis>Eat all the cookies! Eat all the pretzels! Eat all you can and you'll be fine. nnSounds easy, right? You must avoid eating the pink pickles. nnAvoid them because they're deadly! nnThe object of FATSO! is to eat all of the foods without eating a pink pickle...nnEat a pink pickle and the game is over!nnHow many calories can you amass?</synopsis>
-      <genre>Action</genre>
+      <synopsis>Eat all the cookies! Eat all the pretzels! Eat all you can and you'll be fine. nnSounds easy, right? You must avoid eating the pink pickles. nnAvoid them because they're deadly! nnThe object of FATSO! is to eat all of the foods without eating a pink pickle... Eat a pink pickle and the game is over!nnHow many calories can you amass?</synopsis>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Mangez tous les cookies! Mangez tous les bretzels! Mangez tout ce que vous pouvez et tout ira bien.nnCela semble facile, non? Vous devez éviter de manger les cornichons roses.nnEvitez les parce qu'ils sont mortels!nnL'objet de FATSO! est de manger tous les aliments sans manger de cornichon rose ...nnMangez un cornichon rose et le jeu est terminé!nnCombien de calories pouvez-vous amasser?</synopsis>
+      <synopsis>Mangez tous les cookies! Mangez tous les bretzels! Mangez tout ce que vous pouvez et tout ira bien. Cela semble facile, non? Vous devez éviter de manger les cornichons roses. Evitez les parce qu'ils sont mortels!nnL'objet de FATSO! est de manger tous les aliments sans manger de cornichon rose ... Mangez un cornichon rose et le jeu est terminé!nnCombien de calories pouvez-vous amasser?</synopsis>
       <genre>Action</genre>
     </locale>
     <locale lang="DE">
@@ -1165,11 +1179,15 @@ After the player reaches 2000 points an enormous meteor may appear which can onl
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Flipper Game">
     <id>150802</id>
     <locale lang="EN">
       <title>Flipper Game</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1179,6 +1197,8 @@ After the player reaches 2000 points an enormous meteor may appear which can onl
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Football">
     <id>59283A</id>
@@ -1245,7 +1265,7 @@ The Empire's Pulsar warships attack releasing drone mines. Any contact with eith
 There are two possible variations to this game. In the attack mode, the laser cannon is active and the player score points as he destroys the enemy ships (5 points) or mines (1) and as he rescues the prisoners (20). In the evasion mode, the laser cannon is inactive, and the longer the player evades the Pulsar warships, the higher the score. Extra points (20) are given for each prisoner rescued.
 
 The game can be played by one or two players. In two players mode, player two acts as a copilot, controlling the ship's hyperspace drive and cannon.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1284,7 +1304,7 @@ Le jeu peut être joué par un ou deux joueurs. En mode deux joueurs, le joueur 
       <synopsis>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.
 
 The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away form their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1345,14 +1365,14 @@ From a first person perspective, the player must destroy fifteen enemy ships. A 
 Three kinds of ships will assault the player's ship: invasion transports, battle frigates, and star fighters. The enemy fleet consists of five star fighters and ten ships randomly distributed among the remaining two kinds. Only star fighters represent a real threat, a general alert will sound and flash at the screen when one of those enter the player's range of sight.
 
 The mission ends when all enemy ships are destroyed or when all the ship's fuel is used.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
       <title>Guerre de l'Espace</title>
-      <synopsis>Le joueur est un héros légendaire de la Fédération de la Terre, aux commandes d'un combattant étoile Centurion et doit défendre la galaxie de l'attaque des navires impériaux.nnnnDu point de vue de la première personne, le joueur doit détruire quinze navires ennemis. Un compteur dans le coin inférieur gauche de l'écran indique le nombre de navires restants. En bas à droite, un contre-marquage, au début de la mission, de 1000 mégajoules de puissance restante. Le navire a besoin d'un mégajoule par seconde pour supporter le vol, de dix mégajoules par tir laser libéré et de cinquante mégajoules par tir pris, pour activer les déflecteurs.nnnnTrois types de navires attaqueront le vaisseau du joueur: les transports d'invasion, les frégates de combat et les chasseurs d'étoiles. La flotte ennemie se compose de cinq chasseurs étoiles et de dix navires répartis au hasard parmi les deux autres. Seuls les combattants étoiles représentent une menace réelle, une alerte générale retentit et clignote à l'écran lorsque l'un d'eux entre dans la zone de visibilité du joueur.nnnnLa mission prend fin lorsque tous les navires ennemis sont détruits ou lorsque tout le carburant du navire est utilisé.</synopsis>
+      <synopsis>Le joueur est un héros légendaire de la Fédération de la Terre, aux commandes d'un combattant étoile Centurion et doit défendre la galaxie de l'attaque des navires impériaux.Du point de vue de la première personne, le joueur doit détruire quinze navires ennemis. Un compteur dans le coin inférieur gauche de l'écran indique le nombre de navires restants. En bas à droite, un contre-marquage, au début de la mission, de 1000 mégajoules de puissance restante. Le navire a besoin d'un mégajoule par seconde pour supporter le vol, de dix mégajoules par tir laser libéré et de cinquante mégajoules par tir pris, pour activer les déflecteurs.Trois types de navires attaqueront le vaisseau du joueur: les transports d'invasion, les frégates de combat et les chasseurs d'étoiles. La flotte ennemie se compose de cinq chasseurs étoiles et de dix navires répartis au hasard parmi les deux autres. Seuls les combattants étoiles représentent une menace réelle, une alerte générale retentit et clignote à l'écran lorsque l'un d'eux entre dans la zone de visibilité du joueur.La mission prend fin lorsque tous les navires ennemis sont détruits ou lorsque tout le carburant du navire est utilisé.</synopsis>
       <genre>Action</genre>
     </locale>
     <locale lang="DE">
@@ -1378,7 +1398,7 @@ The mission ends when all enemy ships are destroyed or when all the ship's fuel 
     <id>59288A</id>
     <locale lang="EN">
       <title>Guerre Laser</title>
-      <synopsis>The players are in the Battle Control Central at the heart of the United Planets Interstellar Galactic Empire. From there, they monitor the activity of the twin solar systems of Terien and Lorien, forty-three billion light years away. Their mission is to control to protect the planets of those solar systems from the invasion fleet with the remote controlled battle cruisers. nnnnThey'll control their ships with the joystick and fire lasers with the action button. The invasion fleet will shoot the players and the planets as well. Shot planets will have their colors changed and will be conquered when their colors match the invaders ship's colors. nnnnIf the players' ship is destroyed, a new one will be launched from one of the planets with their color. If there's no planet with their color, they'll have to wait until a planet's color change to theirs. nnnnIf the players crash into planets with a color different than theirs, both the ship and the planet will be destroyed. Destroyed planets won't come back, but the central planet at each orbit is indestructible. Players can also hide their ships in their own planets, by landing on them. Planets with ships landed will blink. nnnnThe winner is the player who first destroys ten enemy ships.</synopsis>
+      <synopsis>The players are in the Battle Control Central at the heart of the United Planets Interstellar Galactic Empire. From there, they monitor the activity of the twin solar systems of Terien and Lorien, forty-three billion light years away. Their mission is to control to protect the planets of those solar systems from the invasion fleet with the remote controlled battle cruisers. They'll control their ships with the joystick and fire lasers with the action button. The invasion fleet will shoot the players and the planets as well. Shot planets will have their colors changed and will be conquered when their colors match the invaders ship's colors. If the players' ship is destroyed, a new one will be launched from one of the planets with their color. If there's no planet with their color, they'll have to wait until a planet's color change to theirs. If the players crash into planets with a color different than theirs, both the ship and the planet will be destroyed. Destroyed planets won't come back, but the central planet at each orbit is indestructible. Players can also hide their ships in their own planets, by landing on them. Planets with ships landed will blink. The winner is the player who first destroys ten enemy ships.</synopsis>
       <genre>Shooter</genre>
     </locale>
     <locale lang="ES">
@@ -1386,7 +1406,7 @@ The mission ends when all enemy ships are destroyed or when all the ship's fuel 
     </locale>
     <locale lang="FR">
       <title>Guerre Laser</title>
-      <synopsis>Les joueurs sont dans le Battle Control Central au c?ur de l'Empire Galactique interstellaire United Planets. De là, ils surveillent l'activité des systèmes solaires jumeaux de Terien et Lorien, à quarante-trois milliards d'années-lumière. Leur mission est de contrôler pour protéger les planètes de ces systèmes solaires de la flotte d'invasion avec les croiseurs de bataille télécommandés.nnnnIls contrôleront leurs navires avec le joystick et les lasers de feu avec le bouton d'action. La flotte d'invasion tirera aussi sur les joueurs et les planètes. Les planètes de tir auront leurs couleurs changées et seront conquises quand leurs couleurs correspondent aux couleurs du vaisseau envahisseur.nnnnSi le vaisseau des joueurs est détruit, un nouveau sera lancé depuis l'une des planètes avec leur couleur. S'il n'y a pas de planète avec leur couleur, ils devront attendre que la couleur d'une planète change pour la leur.nnnnSi les joueurs s'écrasent sur des planètes avec une couleur différente de la leur, le vaisseau et la planète seront détruits. Les planètes détruites ne reviendront pas, mais la planète centrale à chaque orbite est indestructible. Les joueurs peuvent également cacher leurs vaisseaux dans leurs propres planètes, en atterrissant sur eux. Les planètes avec les navires débarqués clignoteront.nnnnLe gagnant est le joueur qui détruit en premier dix navires ennemis.</synopsis>
+      <synopsis>Les joueurs sont dans le Battle Control Central au c?ur de l'Empire Galactique interstellaire United Planets. De là, ils surveillent l'activité des systèmes solaires jumeaux de Terien et Lorien, à quarante-trois milliards d'années-lumière. Leur mission est de contrôler pour protéger les planètes de ces systèmes solaires de la flotte d'invasion avec les croiseurs de bataille télécommandés.Ils contrôleront leurs navires avec le joystick et les lasers de feu avec le bouton d'action. La flotte d'invasion tirera aussi sur les joueurs et les planètes. Les planètes de tir auront leurs couleurs changées et seront conquises quand leurs couleurs correspondent aux couleurs du vaisseau envahisseur.Si le vaisseau des joueurs est détruit, un nouveau sera lancé depuis l'une des planètes avec leur couleur. S'il n'y a pas de planète avec leur couleur, ils devront attendre que la couleur d'une planète change pour la leur.Si les joueurs s'écrasent sur des planètes avec une couleur différente de la leur, le vaisseau et la planète seront détruits. Les planètes détruites ne reviendront pas, mais la planète centrale à chaque orbite est indestructible. Les joueurs peuvent également cacher leurs vaisseaux dans leurs propres planètes, en atterrissant sur eux. Les planètes avec les navires débarqués clignoteront.Le gagnant est le joueur qui détruit en premier dix navires ennemis.</synopsis>
     </locale>
     <publisher>Philips</publisher>
     <date year="1980" month="" day=""/>
@@ -1409,6 +1429,7 @@ The mission ends when all enemy ships are destroyed or when all the ship's fuel 
 Each player has to hit his opponent ten times in order to win. At each hit, both players get their guns reloaded. They can also reload their guns anytime by taking the hidden bullets in the tree that matches their outfit.
 
 The bullets will ricochet in the trees and the top and bottom edges of the screen, thus the players can hit themselves with their own bullets, scoring a hit to the opponent. It can also be used as a strategy to hit the opponent in a non direct trajectory.</synopsis>
+      <genre>Action,Shooter,</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Dans un terrain authentique de l'ouest ancien, deux cow-boys (humains ou android) se battent pour leur vie. Chacun a six balles dans son arme, et les arbres sont placés tout autour. Chaque joueur doit frapper son adversaire dix fois afin de gagner. A chaque coup, les deux joueurs rechargent leurs armes. Ils peuvent également recharger leurs armes à tout moment en prenant les balles cachées dans l'arbre qui correspond à leur tenue. Les balles vont ricocher dans les arbres et les bords supérieur et inférieur de l'écran, ainsi les joueurs peuvent se frapper avec leurs propres balles, donnant un point à l'adversaire. Il peut également être utilisé comme une stratégie pour frapper l'adversaire dans une trajectoire non directe.</synopsis>
@@ -1517,6 +1538,7 @@ When the console is started the name of the two games will alternately be displa
 The main screen represents a town, with U-shaped boxes with numbers from one to nine inside representing buildings. At the beginning of the game, the player controlling the police must define the code which blocks the airport and port (represented by an airplane and a ship). The code must be a word of five letters. As the player enters each letter, he or she must assign a building to store that letter, by entering its number. Once all letters are stored, the game begins. The player controlling the spies must choose one of them and start moving around the town searching for the letters. While moving, the selected spy becomes invisible so the police officer won't see which way the spy takes. At one turn, movement can only be vertical or horizontal, so if the player chooses to move horizontally, he or she will only be able to move vertically in the next turn. At the bottom of the screen, a red character will be shown walking and little green bars will pass him by, telling how many "spaces" he has moved. Each turn may last five to 60 seconds, depending on the choice the players made at the beginning of the game (different durations can be set for each player). The turn ends when the time is over or when the player presses a button. The player controlling the police officers chooses one of them and starts moving, trying to catch the spies. When the player thinks the police character is in the same space the spy is, he or she must press the action button. If the spy is really there, he is captured, if not, the player controlling the police officers just ends his or her turn.
 
 The game ends when the police captures both spies or when one of the spies gets to the airport or the port and enters the correct word.</synopsis>
+      <genre>Strategy,</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Interpol est un jeu pour deux joueurs, l'un contrôle deux espions (personnages rouges) et l'autre contrôle deux policiers (personnages bleus). Les espions sont en possession d'informations secrètes et doivent essayer de quitter le pays avec eux, par voie aérienne ou maritime. Les policiers doivent arrêter leur plan. L'aéroport et le port sont bloqués par la police, et les personnes intéressées à voyager doivent présenter un code que seule la police connaît.
@@ -1534,6 +1556,7 @@ Le jeu se termine lorsque la police capture les deux espions ou lorsque l'un des
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Invaders From Hyperspace">
     <id>59292A</id>
@@ -1625,6 +1648,7 @@ Version II: players take turns after each jump.
 (Press B) Stationary balloons with no shield.
 (Press E) Stationary balloons with stationary shield.
 (Press H) Stationary balloons with random shield.</synopsis>
+      <genre/>
     </locale>
     <locale lang="FR">
       <synopsis>Jumping Acrobats est un clone du jeu d'arcade Clowns de 1978 de Bally Midway.
@@ -1695,6 +1719,8 @@ Version II: les joueurs se relaient après chaque saut.
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="K.c. Munchkin">
     <id>59297A</id>
@@ -1811,7 +1837,7 @@ Quiz Wiz!: One player programs a series a math problems for the other player to 
     <locale lang="EN">
       <title>Kill the Attacking Aliens</title>
       <synopsis>In Kill the Attacking Aliens the player is a pilot who must defend the planet Earth and its Moon colony against alien invaders. Piloting a ship with a quantum cannon and a defense shield, the goal is to destroy all the aliens while preventing the human st</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1848,7 +1874,7 @@ The Beebots are protected by swarms of Killer Bees. If a swarm of Killer Bees at
 The only defense the player has against the Killer Bees is the bug-zapping RoSHa Ray, released by pressing the action button. It is recharged each time a Beebot is killed, and it follows the white bees swarm vertical movement. Once all Beebots are killed, the round ends, and a new one starts with a new level of difficulty. There are 26 difficulty levels.
 
 The player scores one point per sting, ten points per zapped swarm and 100 points per Beebot killed. At the end of each round, a bonus is also given, consisting in ten points per each survivor bee, multiplied by the number of the round.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1885,6 +1911,7 @@ Le joueur marque un point par piqûre, dix points par essaim gazzé et 100 point
     <locale lang="EN">
       <title>Kinder im Verkehr 1</title>
       <synopsis>Control a kid and help him cross the street by looking left then right then left again.</synopsis>
+      <genre/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1894,6 +1921,8 @@ Le joueur marque un point par piqûre, dix points par essaim gazzé et 100 point
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Quest for the Rings, The">
     <id>59369A</id>
@@ -1929,6 +1958,8 @@ Le joueur marque un point par piqûre, dix points par essaim gazzé et 100 point
     <id>120777</id>
     <locale lang="EN">
       <title>La Ruche Infernale</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1938,6 +1969,8 @@ Le joueur marque un point par piqûre, dix points par essaim gazzé et 100 point
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Las Vegas Blackjack!">
     <id>59305A</id>
@@ -2047,7 +2080,7 @@ Once in possession of the key, the player has to move the diver to the next cave
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Le Trésor Englouti + est un jeu de chasse au trésor sous-marin. Le joueur contrôle un plongeur qui doit entrer dans trois cavernes à la recherche du trésor. La seule caverne ouverte au début du jeu est celle située en bas à gauche de l'écran. Pour l'atteindre, le joueur doit éviter les poissons dans la mer en les touchant pour que le plongeur perde de l'oxygène. Quand le joueur atteint la caverne, l'écran change et l'intérieur de la caverne est montré.nnnnLa grotte est en forme de labyrinthe et a six coffres en elle. L'un des coffres est vide, deux d'entre eux contiennent des animaux marins: l'un tient un crabe, l'autre tient une pieuvre. Une fois qu'ils sont libres, ils vont se déplacer dans la grotte, s'ils touchent le plongeur, il meurt et le jeu est terminé. Un coffre contient une grenade, qui peut être utilisée pour tuer les ennemis s'ils passent quand ils sont placés. L'un des coffres détient la clé de la deuxième grotte, et un dernier cache une trappe pour sortir de la grotte. Pendant que le plongeur cherche le trésor, il perdra de l'oxygène. Son bateau attend dehors avec trois réservoirs d'oxygène supplémentaires. Si le joueur nage dessus, on peut l'attraper en appuyant sur le bouton d'action. Il sera nécessaire, comme naviguer à l'intérieur des grottes c'est difficile, le joueur doit placer le plongeur dans la bonne position sinon il va se cogner dans les murs.nnnnUne fois en possession de la clé, le joueur doit déplacer le plongeur à la prochaine grotte. La deuxième grotte a une disposition de labyrinthe différente, mais le gameplay à l'intérieur est le même que le premier. Une fois que le joueur atteint la troisième caverne, les choses deviennent plus difficiles, car la troisième caverne est sombre et seulement une courte distance autour du plongeur peut être vue. Le jeu est gagné lorsque le plongeur trouve le trésor et retourne au bateau sans être asphyxié.</synopsis>
+      <synopsis>Le Trésor Englouti + est un jeu de chasse au trésor sous-marin. Le joueur contrôle un plongeur qui doit entrer dans trois cavernes à la recherche du trésor. La seule caverne ouverte au début du jeu est celle située en bas à gauche de l'écran. Pour l'atteindre, le joueur doit éviter les poissons dans la mer en les touchant pour que le plongeur perde de l'oxygène. Quand le joueur atteint la caverne, l'écran change et l'intérieur de la caverne est montré.La grotte est en forme de labyrinthe et a six coffres en elle. L'un des coffres est vide, deux d'entre eux contiennent des animaux marins: l'un tient un crabe, l'autre tient une pieuvre. Une fois qu'ils sont libres, ils vont se déplacer dans la grotte, s'ils touchent le plongeur, il meurt et le jeu est terminé. Un coffre contient une grenade, qui peut être utilisée pour tuer les ennemis s'ils passent quand ils sont placés. L'un des coffres détient la clé de la deuxième grotte, et un dernier cache une trappe pour sortir de la grotte. Pendant que le plongeur cherche le trésor, il perdra de l'oxygène. Son bateau attend dehors avec trois réservoirs d'oxygène supplémentaires. Si le joueur nage dessus, on peut l'attraper en appuyant sur le bouton d'action. Il sera nécessaire, comme naviguer à l'intérieur des grottes c'est difficile, le joueur doit placer le plongeur dans la bonne position sinon il va se cogner dans les murs.Une fois en possession de la clé, le joueur doit déplacer le plongeur à la prochaine grotte. La deuxième grotte a une disposition de labyrinthe différente, mais le gameplay à l'intérieur est le même que le premier. Une fois que le joueur atteint la troisième caverne, les choses deviennent plus difficiles, car la troisième caverne est sombre et seulement une courte distance autour du plongeur peut être vue. Le jeu est gagné lorsque le plongeur trouve le trésor et retourne au bateau sans être asphyxié.</synopsis>
       <genre>Action</genre>
     </locale>
     <locale lang="DE">
@@ -2198,6 +2231,7 @@ Il y a 10 niveaux de difficulté. De niveaux 0 à 4, la disposition de l'aire de
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Martian Threat">
     <id>59311A</id>
@@ -2237,6 +2271,7 @@ Le jeu a deux fins possibles. Si le joueur parvient à défendre la Terre pendan
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Matchmaker + Logix + Buzzword">
     <id>59312A</id>
@@ -2319,7 +2354,7 @@ La troisième variante est un jeu de table d'addition ou de multiplication. Le j
     <locale lang="EN">
       <title>Mayhem</title>
       <synopsis>Wizzy, son of the Wizard of Odyssey, got in trouble when trying to work a spell to set some sticks on fire: instead of burning, the sticks are now flying around him and he has to collect the coins while avoiding him.Mayhem is a fast paced action game. The</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2340,6 +2375,7 @@ La troisième variante est un jeu de table d'addition ou de multiplication. Le j
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Melrep">
     <id>59315A</id>
@@ -2365,6 +2401,8 @@ La troisième variante est un jeu de table d'addition ou de multiplication. Le j
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Mission Impossible / Programmed Trip">
     <id>88276A</id>
@@ -2401,13 +2439,15 @@ Programmed Trip est un jeu basé sur le tour qui partage de nombreux éléments 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
-  <game name="Monkeyshines">
+
+    <game name="Monkeyshines">
     <id>59318A</id>
     <locale lang="EN">
       <title>Monkeyshines</title>
       <synopsis>MONKEYSHINES! Five computerized "puzzle games" filled with action-packed monkey business! You'll go ape over Monkey Tag, Monkey Chess, Tailspin, Shuteye and Bananas! You have to be as agile as four computer-smart monkeys that run, jump, climb, tease, dive, swing, hop, spin, scamper and cavort over virtually endless patterns of monkey bars! There are literally trillions of possible combinations! Skill levels increase automatically - or choose a different skill level at any time! Onscreen digital scoring with memory for high game in series! Full sync-sound action! 1, 2 or 3 players!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2479,9 +2519,10 @@ Programmed Trip est un jeu basé sur le tour qui partage de nombreux éléments 
       <synopsis>Moto-Crash + is a motorcycle racing game. The goal is to drive as far as possible within the time limit of three minutes. The game features 4 predefined circuits (selected with the keys 1 to 4 at the start of the game) plus one random circuit generated by the computer (selected with the 0 key).
 
 The conditions of each circuit change as the player progresses. The race starts during daytime; once the player drives 6 km the night falls; at 10 km, the road becomes wet; at 20 km, the road becomes snowy and at 30 km the road becomes icy. Changes in weather conditions are not only accompanied by graphical changes but also gameplay ones, as the motorcycle's adherence to the road changes. If the player drives 6 km in daytime or 4 km in nighttime in any weather condition without crashing the computer awards him or her a bonus time.</synopsis>
+      <genre/>
     </locale>
     <locale lang="FR">
-      <synopsis>Moto-Crash + est un jeu de course de moto. L'objectif est de conduire le plus loin possible dans le délai de trois minutes. Le jeu comporte 4 circuits prédéfinis (sélectionnés avec les touches 1 à 4 au début du jeu) plus un circuit aléatoire généré par l'ordinateur (sélectionné avec la touche 0).nnnnLes conditions de chaque circuit changent au fur et à mesure que le joueur progresse. La course commence pendant la journée. une fois que le joueur roule 6 km, la nuit tombe; à 10 km, la route devient humide; à 20 km, la route devient neigeuse et à 30 km la route devient glaciale. Les changements dans les conditions météorologiques ne sont pas seulement accompagnés de changements graphiques, mais aussi de gameplay, car l'adhérence de la moto à la route change. Si le joueur roule 6 km pendant la journée ou 4 km la nuit dans n'importe quelle condition météorologique sans s'écraser, l'ordinateur lui accorde un temps bonus.</synopsis>
+      <synopsis>Moto-Crash + est un jeu de course de moto. L'objectif est de conduire le plus loin possible dans le délai de trois minutes. Le jeu comporte 4 circuits prédéfinis (sélectionnés avec les touches 1 à 4 au début du jeu) plus un circuit aléatoire généré par l'ordinateur (sélectionné avec la touche 0).Les conditions de chaque circuit changent au fur et à mesure que le joueur progresse. La course commence pendant la journée. une fois que le joueur roule 6 km, la nuit tombe; à 10 km, la route devient humide; à 20 km, la route devient neigeuse et à 30 km la route devient glaciale. Les changements dans les conditions météorologiques ne sont pas seulement accompagnés de changements graphiques, mais aussi de gameplay, car l'adhérence de la moto à la route change. Si le joueur roule 6 km pendant la journée ou 4 km la nuit dans n'importe quelle condition météorologique sans s'écraser, l'ordinateur lui accorde un temps bonus.</synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2491,12 +2532,14 @@ The conditions of each circuit change as the player progresses. The race starts 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Mr. Roboto!">
     <id>59320A</id>
     <locale lang="EN">
       <title>Mr. Roboto!</title>
-      <synopsis>It's the year 8048 and mankind has been anhialated. The nncomputers and machines that were built to help man have nnbecome smart enough to rule over - and eventually destroy - nnall civilization. Now, the once united machines have fractured, nnand the machines have begun battle with each other. Two nnfactions remain. Each side has a CPU master and six robot nnwarrior servants. The CPUs can't move, so the robots are sent nnout to do the dirty work. The goal: shutdown the opposing nnside's CPU. Many obstacls are in place to prevent this: the nnother robots, energy surges, firewalls, viruses, and the CPU's nnown laser defenses. nnnnTed Szczypiorski has done it again! Mr. Roboto! is an absolute nnmasterpiece. A clever mix of Archon and Tron Deadly Discs, nnyou can play against the CPU, against another player, or let nntwo CPUs duke it out. Fast-paced and addicting, Mr. Roboto! nnfeatures three game screens, intro and menu screens, and is nnvoice enhanced. It just doesn't get any better than this!</synopsis>
+      <synopsis>It's the year 8048 and mankind has been anhialated. The nncomputers and machines that were built to help man have nnbecome smart enough to rule over - and eventually destroy - nnall civilization. Now, the once united machines have fractured, nnand the machines have begun battle with each other. Two nnfactions remain. Each side has a CPU master and six robot nnwarrior servants. The CPUs can't move, so the robots are sent nnout to do the dirty work. The goal: shutdown the opposing nnside's CPU. Many obstacls are in place to prevent this: the nnother robots, energy surges, firewalls, viruses, and the CPU's nnown laser defenses. Ted Szczypiorski has done it again! Mr. Roboto! is an absolute nnmasterpiece. A clever mix of Archon and Tron Deadly Discs, nnyou can play against the CPU, against another player, or let nntwo CPUs duke it out. Fast-paced and addicting, Mr. Roboto! nnfeatures three game screens, intro and menu screens, and is nnvoice enhanced. It just doesn't get any better than this!</synopsis>
       <genre>Strategy</genre>
     </locale>
     <locale lang="ES">
@@ -2687,6 +2730,7 @@ Nincompoop!: Player 1 names any vowel the Nincompoop. Then players take turns en
 Chain Letters!: One player names a category then types in a word that would fit in that category. Then the next player has to type in a word that starts with the last letter of that word that still fits in the current category. A player breaking the letter chain is out of the game and the surviving players continue.until only one player is left, or until a player ends a chain on exactly the 99th space. If a player cannot name a category word that fits into the 99th space, that player loses. A new category is selected after that, with the other surviving players continuing on the game. 
 
 Quiz Wiz!: One player programs a series of math problems for the other player to solve in a limited amount of time. The player wins if they arrive at the answer before it appears on the screen.</synopsis>
+      <genre/>
     </locale>
     <locale lang="FR">
       <synopsis>Keyboard Creations! permet au joueur de saisir un message principal qui défilera continuellement sur l'écran. Le jeu permet également au joueur de mettre en place un message "d'alarme" qui peut apparaître toutes les 30 secondes. Le joueur peut également définir une horloge numérique pour garder une trace de l'heure.
@@ -2710,6 +2754,8 @@ Quiz Wiz!</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Nightfighter">
     <id>59325A</id>
@@ -3000,6 +3046,7 @@ Pairs (selected by pressing "1") is the same game as Matchmaker!, a regular Memo
 Space Rendezvous (selected by pressing "3") is somewhat similar to Lunar Lander. Two players have to try to link up their spaceships to the orbiting mother ship, while avoiding hitting the ground. Each ship has 50 megajoules of power and will be refueled when a perfect link-up is performed. A counter will be displayed for each player, and wins the player who first performs 10 perfect link-ups. If one player goes out of fuel, he's out of game.
 
 Logic (selected by pressing "4") is the same game as Logix!. The player has to guess a sequence of five different digits. The player types in the first try and the computer will display a two digit number with the number of correct digits to the right and the number of correctly placed digits on the left. The player has then to continue guessing the sequence based on the clues given. The object is to solve the problem in the least number of tries, counted on the left on the screen.</synopsis>
+      <genre>Puzzle,Board Game,</genre>
     </locale>
     <developer>Magnavox</developer>
     <publisher>N.V. Philips Gloeilampenfabrieken</publisher>
@@ -3011,6 +3058,7 @@ Logic (selected by pressing "4") is the same game as Logix!. The player has to g
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Pairs + Space Rendezvous + Logic">
     <id>59334A</id>
@@ -3146,6 +3194,7 @@ Você precisa ajudar Didi nesta incrível aventura. Juntos, saltando e quebrando
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Playtag">
     <id>59338A</id>
@@ -3205,6 +3254,7 @@ Dans le coin supérieur droit, l'ordinateur conserve la trace du score actuel (s
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Pocket Billiards">
     <id>59339A</id>
@@ -3260,13 +3310,14 @@ Dans le coin supérieur droit, l'ordinateur conserve la trace du score actuel (s
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Popeye">
     <id>59341A</id>
     <locale lang="EN">
       <title>Popeye</title>
       <synopsis>Popeye is a conversion of the arcade action/platform game. As Popeye, you are trying to win Olive Oyl's love! She is at the top of the screen dropping tokens of her love, and you need to collect them before they hit the ground. After you have collected the required number of items, you can move on to the next, more difficult level. There are many obstacles trying to stop you from completing your task, though! Brutus wanders around the screen and is constantly trying to catch you. If you collect a can of spinach, you can temporarily knock him out, otherwise Brutus will knock you out. Other objects such as bottles or birds are also flying around the screen and will cause you to lose one of your lives if you are hit. Each level features a different layout of platforms and ladders, and will have you collecting different items as they float towards the bottom of the screen!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3426,7 +3477,7 @@ The players' characters are two times taller than the robots, thus sometimes the
     <locale lang="EN">
       <title>Q-Bert</title>
       <synopsis>The objective of the game is to change all the colors of the squares while avoiding enemies. As the game advances, the player must change the colors twice. A new enemy also appears and changes the squares back to their previous color.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3454,14 +3505,14 @@ The players' characters are two times taller than the robots, thus sometimes the
     <id>59346A</id>
     <locale lang="EN">
       <title>Red Baron</title>
-      <synopsis>Air Battle is a flight simulator set in the World War I era. The player controls a biplane from an inside-the-cockpit perspective.nnnnThe player starts the game with the plane on ground. The plane will start moving and a flashing light will indicate when the plane has achieved enough speed to take-off. Once in the air, the player must try to take down the most enemy planes possible, while avoiding hitting friendly planes. The enemy planes have white tail sections while friendly have yellow tail sections. There's no way of telling if a plane is friend or foe if it is coming straight at the player, until it starts firing. The player can see incoming planes through a radar in the middle of the panel.nnnnThe player gains points for hitting or taking down enemy planes, but will also be penalized by hitting or taking down friendly planes. There are four levels of difficulty, starting at zero points, 200 points, 500 points and 1000 points. The levels can also be selected directly from the game start, by pressing "0", "1", "2" or "3" to start.nnnnThere's a fuel meter at the left of the panel and a ammunition meter at the right. When any of these are close to end, the player has to land the plane and refuel/recharge his plane. The game ends if the player is shot down by enemy planes or if the plane crashes while taking-off, landing or due to lack of fuel.</synopsis>
+      <synopsis>Air Battle is a flight simulator set in the World War I era. The player controls a biplane from an inside-the-cockpit perspective.The player starts the game with the plane on ground. The plane will start moving and a flashing light will indicate when the plane has achieved enough speed to take-off. Once in the air, the player must try to take down the most enemy planes possible, while avoiding hitting friendly planes. The enemy planes have white tail sections while friendly have yellow tail sections. There's no way of telling if a plane is friend or foe if it is coming straight at the player, until it starts firing. The player can see incoming planes through a radar in the middle of the panel.The player gains points for hitting or taking down enemy planes, but will also be penalized by hitting or taking down friendly planes. There are four levels of difficulty, starting at zero points, 200 points, 500 points and 1000 points. The levels can also be selected directly from the game start, by pressing "0", "1", "2" or "3" to start.There's a fuel meter at the left of the panel and a ammunition meter at the right. When any of these are close to end, the player has to land the plane and refuel/recharge his plane. The game ends if the player is shot down by enemy planes or if the plane crashes while taking-off, landing or due to lack of fuel.</synopsis>
       <genre>Simulation</genre>
     </locale>
     <locale lang="ES">
       <genre>Simulación</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Air Battle est un simulateur de vol se déroulant durant la Première Guerre mondiale. Le joueur contrôle un biplan installé à l'intérieur de l'habitacle. nnnnLe joueur commence le jeu avec l'avion posé au sol. L'avion commencera à bouger et un clignotant indiquera quand l'avion aura atteint une vitesse suffisante pour décoller. Une fois en l'air, le joueur doit essayer de descendre le plus d'avions ennemis possible, tout en évitant de frapper les avions alliés. Les avions ennemis ont des sections de queue blanche tandis que les alliés ont des sections de queue jaune. Il n'y a pas moyen de savoir si un avion est un ami ou un ennemi si il vient directement sur le joueur, jusqu'à ce qu'il commence à tirer. Le joueur peut voir les avions proches grâce à un radar au milieu de l'écran. nnnnLe joueur gagne des points pour avoir touché ou abattu des avions ennemis, mais sera également pénalisé s'il tire sur des alliés. Il y a quatre niveaux de difficulté, commençant à zéro points, 200 points, 500 points et 1000 points. Les niveaux peuvent également être sélectionnés directement à partir du début du jeu, en appuyant sur "0", "1", "2" ou "3" pour commencer. nnnnIl y a un compteur de carburant à gauche de l'écran et un compteur de munitions à droite. Lorsque il est proche de la fin, le joueur doit atterrir pour ravitailler et recharger son avion. Le jeu se termine si le joueur est abattu par des avions ennemis ou si l'avion s'écrase pendant le décollage, l'atterrissage ou le manque de carburant.</synopsis>
+      <synopsis>Air Battle est un simulateur de vol se déroulant durant la Première Guerre mondiale. Le joueur contrôle un biplan installé à l'intérieur de l'habitacle. Le joueur commence le jeu avec l'avion posé au sol. L'avion commencera à bouger et un clignotant indiquera quand l'avion aura atteint une vitesse suffisante pour décoller. Une fois en l'air, le joueur doit essayer de descendre le plus d'avions ennemis possible, tout en évitant de frapper les avions alliés. Les avions ennemis ont des sections de queue blanche tandis que les alliés ont des sections de queue jaune. Il n'y a pas moyen de savoir si un avion est un ami ou un ennemi si il vient directement sur le joueur, jusqu'à ce qu'il commence à tirer. Le joueur peut voir les avions proches grâce à un radar au milieu de l'écran. Le joueur gagne des points pour avoir touché ou abattu des avions ennemis, mais sera également pénalisé s'il tire sur des alliés. Il y a quatre niveaux de difficulté, commençant à zéro points, 200 points, 500 points et 1000 points. Les niveaux peuvent également être sélectionnés directement à partir du début du jeu, en appuyant sur "0", "1", "2" ou "3" pour commencer. Il y a un compteur de carburant à gauche de l'écran et un compteur de munitions à droite. Lorsque il est proche de la fin, le joueur doit atterrir pour ravitailler et recharger son avion. Le jeu se termine si le joueur est abattu par des avions ennemis ou si l'avion s'écrase pendant le décollage, l'atterrissage ou le manque de carburant.</synopsis>
       <genre>Simulation</genre>
     </locale>
     <locale lang="DE">
@@ -3506,6 +3557,7 @@ Robot City is a maze shooter. The player controls a robot trying to destroy the 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Route 66">
     <id>59348A</id>
@@ -3532,6 +3584,7 @@ Robot City is a maze shooter. The player controls a robot trying to destroy the 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Dynasty">
     <id>59279A</id>
@@ -3576,6 +3629,7 @@ Une minuterie peut être réglée, d'un temps illimité à 99 minutes de jeu. Le
 A variation is also present, called "Directional Dynasty": players cannot trap pieces in more than one direction with the same move. When a piece is placed in such condition, the player has to choose which direction will be used to capture the enemy's pieces.
 
 A timer can be set, from unlimited time to 99 minutes of gameplay. The game ends when there are no more possible moves or when the time runs up.</synopsis>
+      <genre>Strategy,</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Dynastie! est un clone d'Othello. Le terrain de jeu est une matrice de points 8 x 8 et l'objectif est d'en occuper autant que possible. Le jeu commence avec deux pièces de chaque couleur au centre de la matrice et les joueurs placent à tour de rôle de nouvelles pièces. Les pièces doivent être placées près d'une pièce ennemie, en la piégeant entre une autre pièce de la même couleur déjà placée. Les pièces piégées se retourneront à la couleur du conquérant.
@@ -3600,7 +3654,7 @@ Une minuterie peut être réglée, d'un temps illimité à 99 minutes de jeu. Le
     <locale lang="EN">
       <title>Sea Rescue!</title>
       <synopsis>You're in a submarine stranded on the seabed. Your crew must come to the rescue ship, but the sea is infested with dangerous sharks!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3622,6 +3676,7 @@ Une minuterie peut être réglée, d'un temps illimité à 99 minutes de jeu. Le
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Secret Of The Pharaohs">
     <id>59352A</id>
@@ -3690,6 +3745,7 @@ Les poissons sont tenus par six rangées de filets. Les requins mangent ces file
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Showdown In 2100 A.d.">
     <id>59354A</id>
@@ -3700,7 +3756,7 @@ Les poissons sont tenus par six rangées de filets. Les requins mangent ces file
 Each player has to hit his opponent ten times in order to win. At each hit, both players get their guns reloaded. They can also reload their guns anytime by taking the hidden bullets in the tree that matches their outfit.
 
 The bullets will ricochet in the trees and the top and bottom edges of the screen, thus the players can hit themselves with their own bullets, scoring a hit to the opponent. It can also be used as a strategy to hit the opponent in a non direct trajectory.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3875,7 +3931,7 @@ The word can have up to 14 letters. After entering the word or message, the firs
     <locale lang="EN">
       <title>Spider-Man</title>
       <synopsis>The Green Goblin has set a super bomb at the top of a high voltage tower located on the top of a skyscaper! As Spider-Man, you need to scale the building and defuse the bomb. Use your web to climb the building, but be careful of Green Goblin's villians which appear in the windows trying to stop you. If your web line goes too close to a villian, it will be cut and Spider-Man will fall. If you're careful, you can swing back and forth to capture the villians for bonus points. When you reach the top of the building, it's time to climb up the high voltage tower which is booby trapped with bombs. The bombs can be defused or avoided to get to the top, but just make sure you aren't too close to one that explodes! Once you arrive at the top of the tower, Green Goblin himself will be protecting the super bomb he has planted there. If you can sneak past Green Goblin and defuse the super bomb, the level is complete and you then move on to the next, more challenging level.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3904,7 +3960,7 @@ The word can have up to 14 letters. After entering the word or message, the firs
     <locale lang="EN">
       <title>Stairrunner</title>
       <synopsis>CBM/PET and Videopac/Odyssey2 version:Young Wizzy has practiced a spell, and as a result the elevators in his neighborhood are out of control. Help Wizzy to reach the top of the building to undo the damage that is being caused by his spell.ZX81:The main c</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3925,6 +3981,7 @@ The word can have up to 14 letters. After entering the word or message, the firs
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Stone Sling">
     <id>59361A</id>
@@ -3941,6 +3998,7 @@ Miscalculated shots can also hit the player's own castle, giving points to the o
 Players score three points for each hit on a castle, seven points for hitting an enemy soldier and ten points for hitting an enemy catapult. At the end of each battle, the points scored by the winner are multiplied by the number of the battle (one to ten). The loser gets no points.
 
 There are three variations to this game, according to the catapult tension. The higher the number of the variation, the faster the catapult shoots.</synopsis>
+      <genre/>
     </locale>
     <locale lang="FR">
       <synopsis>Ce jeu se déroule à une époque où les chevaliers étaient audacieux et détruitr des châteaux était l'un des sports les plus populaires.
@@ -4105,7 +4163,7 @@ The Blobbers will become faster every 90 seconds until finally reaching the mobi
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Dans Blobbers, le joueur contrôle une unité laser mobile essayant de se défendre contre les Blobbers, des créatures redoutables, géantes et ressemblant à des amibes qui vont dévorer tout ce qu'ils rencontrent. L'unité laser mobile se déplace à la masse sur les côtés de la zone de l'écran. Les Blobbers se déplaceront également le long des mêmes côtés, et comme le pistolet laser ne peut tirer que vers l'avant, l'unité laser mobile doit être sur le côté opposé de l'écran pour frapper les Blobbers.nnnnUn Blobber naît comme une petite tache jaune inoffensive, devenant une masse plus grande et plus violette, jusqu'à une plus grande et blanche jusqu'à atteindre sa forme adulte rouge. Seulement quand il est rouge, il peut faire du mal à l'unité laser mobile, si elles sont de toute autre couleur, ils ne colleront à l'unité laser mobile que jusqu'à ce qu'elle bouge et se libère du Blobber. Au fur et à mesure que le temps passe, un Blobber adulte se multiplie, libérant une nouvelle petite tache jaune qui finira par pousser vers un autre Blobber adulte. Quand les Blobbers sont frappés, ils sont réduits à l'étape précédente de développement (du rouge au blanc, puis au violet, puis au jaune, puis décédés).nnnnAu milieu de l'écran, des blocs mobiles appelés Magic Transporteurs se déplacent de haut en bas au hasard. Ils sont appelés transporteurs magiques parce qu'ils peuvent être utilisés pour transporter l'unité laser mobile d'un côté de l'écran à l'autre, si l'unité laser mobile se déplace sur l'un d'eux alors qu'ils touchent le haut ou le bas de l'écran. Les Blobbers seront également transportés par eux. En outre, ils sont impénétrables par le pistolet laser, ce qui signifie que le joueur ne sera en mesure de frapper un Blobber lorsqu'il n'y a pas de transporteurs Magic dans le chemin du laser.nnnnLes Blobbers deviendront plus rapides toutes les 90 secondes jusqu'à atteindre la vitesse de l'unité laser mobile. Le joueur n'a qu'une vie et ne continue pas.</synopsis>
+      <synopsis>Dans Blobbers, le joueur contrôle une unité laser mobile essayant de se défendre contre les Blobbers, des créatures redoutables, géantes et ressemblant à des amibes qui vont dévorer tout ce qu'ils rencontrent. L'unité laser mobile se déplace à la masse sur les côtés de la zone de l'écran. Les Blobbers se déplaceront également le long des mêmes côtés, et comme le pistolet laser ne peut tirer que vers l'avant, l'unité laser mobile doit être sur le côté opposé de l'écran pour frapper les Blobbers.Un Blobber naît comme une petite tache jaune inoffensive, devenant une masse plus grande et plus violette, jusqu'à une plus grande et blanche jusqu'à atteindre sa forme adulte rouge. Seulement quand il est rouge, il peut faire du mal à l'unité laser mobile, si elles sont de toute autre couleur, ils ne colleront à l'unité laser mobile que jusqu'à ce qu'elle bouge et se libère du Blobber. Au fur et à mesure que le temps passe, un Blobber adulte se multiplie, libérant une nouvelle petite tache jaune qui finira par pousser vers un autre Blobber adulte. Quand les Blobbers sont frappés, ils sont réduits à l'étape précédente de développement (du rouge au blanc, puis au violet, puis au jaune, puis décédés).Au milieu de l'écran, des blocs mobiles appelés Magic Transporteurs se déplacent de haut en bas au hasard. Ils sont appelés transporteurs magiques parce qu'ils peuvent être utilisés pour transporter l'unité laser mobile d'un côté de l'écran à l'autre, si l'unité laser mobile se déplace sur l'un d'eux alors qu'ils touchent le haut ou le bas de l'écran. Les Blobbers seront également transportés par eux. En outre, ils sont impénétrables par le pistolet laser, ce qui signifie que le joueur ne sera en mesure de frapper un Blobber lorsqu'il n'y a pas de transporteurs Magic dans le chemin du laser.Les Blobbers deviendront plus rapides toutes les 90 secondes jusqu'à atteindre la vitesse de l'unité laser mobile. Le joueur n'a qu'une vie et ne continue pas.</synopsis>
       <genre>Action</genre>
     </locale>
     <locale lang="DE">
@@ -4292,7 +4350,7 @@ Sur la route, les voitures vertes sont celles qui arrivent et les voitures bleue
       <synopsis>Turtles, also known as Turpin, puts you into the role of the maternalistic turtle who tries to save the kidturtles from a bunch of bad bugs (or, in some versions, bad cars). It takes place in a Pacman-esque labyrinth, with turtle boxes in the centre and corners of the screen. Run into a box to release the turtle kid inside. Opening a box makes a little house show up, and you must go with the kidturtle to the house before you can release the next one. All the while, you must avoid the bugs/cars running around the maze. If they get too close, you can release a mine which will stun them temporarily. When you run out of mines, you must resupply by passing over a star in the centre of the screen. Beware, though, because the simpleminded bugs become smarter as time passes; this is symbolised by their changing colours. On later levels, those sneaky beetles can also come out of the boxes supposed to hold kidturtles. Watch out!
 
 Each level is a floor in a house, and between levels you can see the turtle climbing to the next floor until it reaches the top.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4323,7 +4381,7 @@ Chaque niveau est un étage dans une maison, et entre les niveaux, vous pouvez v
     <locale lang="EN">
       <title>Tutankham</title>
       <synopsis>Tutankham is an arcade action game played from a top down point of view. You are an explorer in King Tut's tomb on a mission to retrieve as many of the valuable treasures as you can find. In addition to the treasures, you will also find a key in each of the chambers. This is needed in order to unlock the entrance to the next, more difficult chamber. Be careful, for the tomb is guarded by many dangerous creatures! Cobras, bats, scorpions, and more all appear in the maze and will cause you to lose a life if you're caught! To defend yourself you are armed with a laser gun which you can fire left or right, but not up or down. In each of the mazes you are also give one "flash" which can be used to destroy all creatures currently on the screen.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4373,11 +4431,14 @@ Chaque niveau est un étage dans une maison, et entre les niveaux, vous pouvez v
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Verkehrsspiele 1">
     <id>59374A</id>
     <locale lang="EN">
       <title>Verkehrsspiele 1</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -4387,11 +4448,15 @@ Chaque niveau est un étage dans une maison, et entre les niveaux, vous pouvez v
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Verkehrsspiele 2">
     <id>59375A</id>
     <locale lang="EN">
       <title>Verkehrsspiele 2</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -4401,6 +4466,8 @@ Chaque niveau est un étage dans une maison, et entre les niveaux, vous pouvez v
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Volleyball">
     <id>59376A</id>

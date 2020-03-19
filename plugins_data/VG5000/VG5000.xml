@@ -1,1470 +1,1743 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-	<WiiTDB version="201912101724" games="100"/>
-	<game name="Viking">
-		<id>100AAA</id>
-	<locale lang="EN">
-	<title>Viking</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Blitz">
-		<id>10AAAA</id>
-	<locale lang="EN">
-	<title>Blitz</title>
-	<genre>Shooter</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="9994" month="" day=""/>
-	</game>
-	<game name="Bris de Glace">
-		<id>11AAAA</id>
-	<locale lang="EN">
-	<title>Bris de Glace</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher>Philips Interactive Media</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Budget">
-		<id>12AAAA</id>
-	<locale lang="EN">
-	<title>Budget</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Carnet d'Adresses">
-		<id>13AAAA</id>
-	<locale lang="EN">
-	<title>Carnet d'Adresses</title>
-	<genre></genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Carotte Malicieuse">
-		<id>14AAAA</id>
-	<locale lang="EN">
-	<title>Carotte Malicieuse</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher>VIFI</publisher>
-		<date year="1985" month="" day=""/>
-	</game>
-	<game name="Carte de France">
-		<id>15AAAA</id>
-	<locale lang="EN">
-	<title>Carte de France</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Citadelle">
-		<id>16AAAA</id>
-	<locale lang="EN">
-	<title>Citadelle</title>
-	<genre>Adventure</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer>Loriciels</developer>
-	<publisher>Loriciels</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Cle des Chants">
-		<id>17AAAA</id>
-	<locale lang="EN">
-	<title>Cle des Chants</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Compilation">
-		<id>18AAAA</id>
-	<locale lang="EN">
-	<title>Compilation</title>
-	<genre>Various</genre>
-	<synopsis>Compilation</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Complements et Multiples">
-		<id>19AAAA</id>
-	<locale lang="EN">
-	<title>Complements et Multiples</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Abeille">
-		<id>1AAAAA</id>
-	<locale lang="EN">
-	<title>Abeille</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher>Philips</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Conjugaichouette">
-		<id>20AAAA</id>
-	<locale lang="EN">
-	<title>Conjugaichouette</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Current Continu">
-		<id>21AAAA</id>
-	<locale lang="EN">
-	<title>Current Continu</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="DCA">
-		<id>22AAAA</id>
-	<locale lang="EN">
-	<title>DCA</title>
-	<genre>Shooter</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1986" month="" day=""/>
-	</game>
-	<game name="Decouverte du Basic: Volume 1">
-		<id>23AAAA</id>
-	<locale lang="EN">
-	<title>Decouverte du Basic: Volume 1</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Decouverte du Basic: Volume 2">
-		<id>24AAAA</id>
-	<locale lang="EN">
-	<title>Decouverte du Basic: Volume 2</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Demo 27 Couleurs">
-		<id>25AAAA</id>
-	<locale lang="EN">
-	<title>Demo 27 Couleurs</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Demo 3 Mode 80 Colonnes">
-		<id>26AAAA</id>
-	<locale lang="EN">
-	<title>Demo 3 Mode 80 Colonnes</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Demo 4 Mode 80 Colonnes">
-		<id>27AAAA</id>
-	<locale lang="EN">
-	<title>Demo 4 Mode 80 Colonnes</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Demo 5 Mode 80 Colonnes">
-		<id>28AAAA</id>
-	<locale lang="EN">
-	<title>Demo 5 Mode 80 Colonnes</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Demo Mode 80 Colonnes">
-		<id>29AAAA</id>
-	<locale lang="EN">
-	<title>Demo Mode 80 Colonnes</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Affichage des Polices">
-		<id>2AAAAA</id>
-	<locale lang="EN">
-	<title>Affichage des Polices</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Divertissements">
-		<id>30AAAA</id>
-	<locale lang="EN">
-	<title>Divertissements</title>
-	<genre>Various</genre>
-	<synopsis>Divertissements is a compilation of four mini-games:Jackpot - A slot machine game where the player has to get the three spinning reels to match in order to win. Players can choose to start with one to nine chips to play with. Players can risk from one to twenty chips per spin.Memotest - A game similar to Simon Says. The game will flash the player a sequence of figures quickly and the player will have to recall from their memory the correct order of the sequence. Every correct answer will increase the sequence of figures. Players can select how many different figures will appear from between one and twenty-five and they can select how long of a sequence of figures they want o play to, from between four and forty-one. Players can also select the number of times they can give an incorrect answer per game from between zero and six.Master-mind - Based on the board game Mastermind. The goal is for players to deduce the correct position of colored pawns in as few amount of tries as possible. Players can choose the length of the code (between two and nine) and the number of different colored pawns (between one and nine). If the player is stumped, they can receive the solution and try another puzzle.Casse-Brique - This game is similar to Breakout. Players control a paddle and have to bounce a ball off of it in order to break bricks. If the ball falls off the playing field the player loses a turn. The game ends when the players loses all of their turns.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer>Philips Interactive Media</developer>
-	<publisher>Philips Interactive Media</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Fichier">
-		<id>31AAAA</id>
-	<locale lang="EN">
-	<title>Fichier</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Football">
-		<id>32AAAA</id>
-	<locale lang="EN">
-	<title>Football</title>
-	<genre>Sports</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Formule Brute">
-		<id>33AAAA</id>
-	<locale lang="EN">
-	<title>Formule Brute</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Fou Volant">
-		<id>34AAAA</id>
-	<locale lang="EN">
-	<title>Fou Volant</title>
-	<genre>Shooter</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Glouton">
-		<id>35AAAA</id>
-	<locale lang="EN">
-	<title>Glouton</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher>Philips</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Helicopter Rescue">
-		<id>36AAAA</id>
-	<locale lang="EN">
-	<title>Helicopter Rescue</title>
-	<genre>Action</genre>
-	<synopsis>Games back in the early 1980s often had descriptive titles. Helicopter Rescue is one of them: you have to use an helicopter to rescue stranded pilots in the desert and in the sea.The player controls the helicopter with the joystick, moving up to fly up and down to land. Once the helicopter is in the air, the player can choose to go left or right. Going left takes the player to a desert scenario, where the game field is in 2.5D. Moving the joystick up flies the helicopter ahead, moving it down lands the helicopter to pick up pilots. In the desert, tanks will try to shoot the helicopter down and capture the pilots before the player can rescue them. To shoot them, the helicopter must be moving vertically. Flying to the right of the main screen takes the player to a sea scenario, where the same rules as the desert apply, but as expected, instead of tanks the enemies here are ships.The helicopter has a fuel meter which, when depleted, will make the helicopter crash. The helicopter gets refueled when the player lands on the home base and returns rescued pilots. Each round has the player trying to rescue 8 pilots. The round ends when all 8 pilots are either rescued or killed.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher>Philips Export B.V.</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Helicoptere">
-		<id>37AAAA</id>
-	<locale lang="EN">
-	<title>Helicoptere</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Jeu de Dames">
-		<id>38AAAA</id>
-	<locale lang="EN">
-	<title>Jeu de Dames</title>
-	<genre>Gambling</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1985" month="" day=""/>
-	</game>
-	<game name="Jeu de Tarot">
-		<id>39AAAA</id>
-	<locale lang="EN">
-	<title>Jeu de Tarot</title>
-	<genre>Gambling</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Air Battle">
-		<id>3AAAAA</id>
-	<locale lang="EN">
-	<title>Air Battle</title>
-	<genre>Simulation</genre>
-	<synopsis>Air Battle is a flight simulator set in the World War I era. The player controls a biplane from an inside-the-cockpit perspective.The player starts the game with the plane on ground. The plane will start moving and a flashing light will indicate when the plane has achieved enough speed to take-off. Once in the air, the player must try to take down the most enemy planes possible, while avoiding hitting friendly planes. The enemy planes have white tail sections while friendly have yellow tail sections. There's no way of telling if a plane is friend or foe if it is coming straight at the player, until it starts firing. The player can see incoming planes through a radar in the middle of the panel.The player gains points for hitting or taking down enemy planes, but will also be penalized by hitting or taking down friendly planes. There are four levels of difficulty, starting at zero points, 200 points, 500 points and 1000 points. The levels can also be selected directly from the game start, by pressing "0", "1", "2" or "3" to start.There's a fuel meter at the left of the panel and a ammunition meter at the right. When any of these are close to end, the player has to land the plane and refuel/recharge his plane. The game ends if the player is shot down by enemy planes or if the plane crashes while taking-off, landing or due to lack of fuel.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer>Philips Interactive Media</developer>
-	<publisher>Philips Interactive Media</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="K.C. Munchkin!">
-		<id>40AAAA</id>
-	<locale lang="EN">
-	<title>K.C. Munchkin!</title>
-	<genre>Action</genre>
-	<synopsis>A top-down maze puzzle game with a concept similar to Pac-Man. The player controls a "Munchkin" whose goal is to eat all of "munchies" on the screen, all the while being chased by three "Munchers" who are trying to eat him. By eating a glowing munchie, all of the Munchers will turn purple and can be hunted down for a limited time, successfully doing so results in a score bonus. Once a Muncher has been "munched out" (term used in the manual), it will return to the center of the maze to recharge for a short time before setting out for revenge once again.As players eat more and more munchies, the remaining munchies begin to move faster and faster around the maze. When there is only one left, it will be moving at the same speed as the player. You'll then have to hunt it down while avoiding the Munchers.The game offers 4 pre-built mazes, as well as invisible versions of these mazes (the walls will only appear when you run into them). However, it includes the option to design custom mazes through a programming mode. Players can base a design off of presets or start from scratch.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher>Philips Export B.V.</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="La Carotte Malicieuse">
-		<id>41AAAA</id>
-	<locale lang="EN">
-	<title>La Carotte Malicieuse</title>
-	<genre></genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="La Moto Infernale">
-		<id>43AAAA</id>
-	<locale lang="EN">
-	<title>La Moto Infernale</title>
-	<genre>Sports</genre>
-	<synopsis>On the top of a mountain is the lair of the nefarious SCARFOS group who are planning on making a nuclear weapon. It's up to the player to put a stop to this.The gameplay in La Moto Infernale: Scarfinger involves players driving a motorcycle up a spiraling roadway in order to get to the top of a mountain. The player has a limited amount of time to complete this task, so they must kick their motorcycle up from the slow first gear all the way up to the blazing fast fifth gear of speed. However, the player may occasionally have to slow down to avoid the barrels and mines clogging up the road. Players also have to be careful not getting to close to either side of the road or risk careening into the mountainside or falling off the road into the water below. Also located on the road are ammo icons which the player should try their best to collect to increase their missile supply. When the player reaches the top of the mountain, they have to shoot the door of the lair, then shoot all the stockpiled nuclear material.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer>Nice Ideas</developer>
-	<publisher>Philips Export B.V.</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="L'Abeille">
-		<id>44AAAA</id>
-	<locale lang="EN">
-	<title>L'Abeille</title>
-	<genre></genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Labyrinthe et la Princesse">
-		<id>45AAAA</id>
-	<locale lang="EN">
-	<title>Labyrinthe et la Princesse</title>
-	<genre></genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1985" month="" day=""/>
-	</game>
-	<game name="Le Fou Volant">
-		<id>47AAAA</id>
-	<locale lang="EN">
-	<title>Le Fou Volant</title>
-	<genre></genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Le Monstre">
-		<id>48AAAA</id>
-	<locale lang="EN">
-	<title>Le Monstre</title>
-	<genre></genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="LGraph - VG5216">
-		<id>49AAAA</id>
-	<locale lang="EN">
-	<title>LGraph: VG5216</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Alien Invaders Plus!">
-		<id>4AAAAA</id>
-	<locale lang="EN">
-	<title>Alien Invaders Plus!</title>
-	<genre>Shooter</genre>
-	<synopsis>This is a Space Invaders variant with a twist. Eight robots with laser cannons and protected by a shield wall are advancing in the player's sector, and with his laser cannon he has to destroy them. The shield wall is indestructible, but the robots and the cannons aren't. They'll go from side to side of the screen in an alternate movement shooting down. Three high density molecular laser shields are placed in defense of the laser cannon. Each one of them houses an extra cannon.Instead of a passing flying saucer as seen in Space Invaders, the player has to face the Merciless Monstroth, which shoots against him. The player controls a robot defender inside the laser cannon. If the laser cannon is destroyed, the robot will be left unprotected. The robot can enter in a new laser cannon housed in one of the shields. Once the new laser cannon is active, the shield is gone. Once the three shields are gone, the Merciless Monstroth will come down to hunt the player's cannon and robot.The player wins a battle when destroying all enemy robots and cannons on the screen. A battle is lost when the player's robot is destroyed. The first side to win ten battles wins the war.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher>Philips Interactive Media</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Lire Vite et Bien">
-		<id>50AAAA</id>
-	<locale lang="EN">
-	<title>Lire Vite et Bien</title>
-	<genre>Puzzle</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Memory">
-		<id>51AAAA</id>
-	<locale lang="EN">
-	<title>Memory</title>
-	<genre>Puzzle</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1985" month="" day=""/>
-	</game>
-	<game name="Mes Premiers Mots Croises Volume 1">
-		<id>52AAAA</id>
-	<locale lang="EN">
-	<title>Mes Premiers Mots Croises Volume 1</title>
-	<genre>Puzzle</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Mes Premiers Mots Croises Volume 2">
-		<id>53AAAA</id>
-	<locale lang="EN">
-	<title>Mes Premiers Mots Croises Volume 2</title>
-	<genre>Puzzle</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Meteo 36">
-		<id>54AAAA</id>
-	<locale lang="EN">
-	<title>Meteo 36</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Micro Jeux: Cocktail de Jeux">
-		<id>55AAAA</id>
-	<locale lang="EN">
-	<title>Micro Jeux: Cocktail de Jeux</title>
-	<genre></genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Microjeux">
-		<id>56AAAA</id>
-	<locale lang="EN">
-	<title>Microjeux</title>
-	<genre>Puzzle</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Micropocesseur">
-		<id>57AAAA</id>
-	<locale lang="EN">
-	<title>Micropocesseur</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Mission Omega">
-		<id>58AAAA</id>
-	<locale lang="EN">
-	<title>Mission Omega</title>
-	<genre>Shooter</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Monkey Academy">
-		<id>59AAAA</id>
-	<locale lang="EN">
-	<title>Monkey Academy</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Alunissage">
-		<id>5AAAAA</id>
-	<locale lang="EN">
-	<title>Alunissage</title>
-	<genre></genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1985" month="" day=""/>
-	</game>
-	<game name="Monstre">
-		<id>60AAAA</id>
-	<locale lang="EN">
-	<title>Monstre</title>
-	<genre>Shooter</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Moto Infernale">
-		<id>61AAAA</id>
-	<locale lang="EN">
-	<title>Moto Infernale</title>
-	<genre>Racing</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Mots en Fleurs">
-		<id>62AAAA</id>
-	<locale lang="EN">
-	<title>Mots en Fleurs</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Norseman">
-		<id>63AAAA</id>
-	<locale lang="EN">
-	<title>Norseman</title>
-	<genre>Strategy</genre>
-	<synopsis>In Norseman the player controls a Viking warrior trying to defend the magic Golden Viking Helmet.The screen shows a courtyard divided in hexagons. The player has to protect the Golden Viking Helmet, which is at the bottom of the screen, from the attack of five different kinds of enemies. Each wave of enemies is composed of 5 of them. The enemies will appear in the top of the screen and will move toward the bottom of the screen; they can only move down (or diagonally down), and once they reach the bottom or the side of the screen they will reappear on the top or the opposite side. The Viking can move in all six directions, and will also reappear on the opposite side whenever he reaches the border. In order to attack, the Viking has to move inside the hexagon the enemy is in before the enemy moves against him first. As the enemies can only move downwards, approaching them from the 3 upper sides is advised.When an enemy dies, the corpse remains in the hexagon, making it impossible to move through it. Well placed corpses can function as a trap for other enemies, as they can only move downwards. The player can also get trapped by surrounding corpses. Once all 5 enemies are dead, a new wave of enemies comes. Each new wave has different enemies, in the following order: giants, octopuses, dragons, skeletons and bats. Once all waves are beaten, the game restarts from the first wave in a greater difficulty, while retaining the player's score. If the player dies or the Golden Viking Helmet is stolen, the game is over.The game has 10 variations:Game 0: 1 helmet, monsters moving from top to bottom only.Game 1: 2 helmets, monsters moving from top to bottom only. Game 2: 3 helmets, monsters moving from top to bottom only.Game 3: Same as game 0, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.Game 4: As game 1, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.Game 5: As game 2, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.Game 6: 1 helmet, monsters will come from all directions: two monsters moving from top to bottom, and one each from left to right, from right to left and from the bottom to the top. Monsters can stumble onto one single dead colleague and thus commit suicide.Game 7: Same as game 6, but with 2 helmets.Game 8: As game 6, but with 3 helmets.Game 9: This variety combines all handicaps of the previous nine varieties: 3 helmets, monsters coming from all directs and the flashing red monsters.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer>GST Video</developer>
-	<publisher>Philips Export B.V.</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Penalty">
-		<id>64AAAA</id>
-	<locale lang="EN">
-	<title>Penalty</title>
-	<genre>Sports</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1985" month="" day=""/>
-	</game>
-	<game name="PH Faible">
-		<id>65AAAA</id>
-	<locale lang="EN">
-	<title>PH Faible</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
+      <WiiTDB version="201912101724" games="92"/>
+  <game name="Viking">
+    <id>100AAA</id>
+    <locale lang="EN">
+      <title>Viking</title>
+      <genre>Fighter</genre>
+      <synopsis>In Viking/Norseman the player controls a Viking warrior trying to defend the magic Golden Viking Helmet.
 
-	<game name="Analyse de Factuer 1er">
-		<id>6AAAAA</id>
-	<locale lang="EN">
-	<title>Analyse de Factuer 1er</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+The screen shows a courtyard divided in hexagons. The player has to protect the Golden Viking Helmet, which is at the bottom of the screen, from the attack of five different kinds of enemies. Each wave of enemies is composed of 5 of them. The enemies will appear in the top of the screen and will move toward the bottom of the screen; they can only move down (or diagonally down), and once they reach the bottom or the side of the screen they will reappear on the top or the opposite side. The Viking can move in all six directions, and will also reappear on the opposite side whenever he reaches the border. In order to attack, the Viking has to move inside the hexagon the enemy is in before the enemy moves against him first. As the enemies can only move downwards, approaching them from the 3 upper sides is advised.
+
+When an enemy dies, the corpse remains in the hexagon, making it impossible to move through it. Well placed corpses can function as a trap for other enemies, as they can only move downwards. The player can also get trapped by surrounding corpses. Once all 5 enemies are dead, a new wave of enemies comes. Each new wave has different enemies, in the following order: giants, octopuses, dragons, skeletons and bats. Once all waves are beaten, the game restarts from the first wave in a greater difficulty, while retaining the player's score. If the player dies or the Golden Viking Helmet is stolen, the game is over.
+
+The game has 10 variations:
+
+    Game 0: 1 helmet, monsters moving from top to bottom only.
+    Game 1: 2 helmets, monsters moving from top to bottom only.
+    Game 2: 3 helmets, monsters moving from top to bottom only.
+    Game 3: Same as game 0, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.
+    Game 4: As game 1, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.
+    Game 5: As game 2, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.
+    Game 6: 1 helmet, monsters will come from all directions: two monsters moving from top to bottom, and one each from left to right, from right to left and from the bottom to the top. Monsters can stumble onto one single dead colleague and thus commit suicide.
+    Game 7: Same as game 6, but with 2 helmets.
+    Game 8: As game 6, but with 3 helmets.
+    Game 9: This variety combines all handicaps of the previous nine varieties: 3 helmets, monsters coming from all directs and the flashing red monsters.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ce jeu vous ramène quelques 1000 ans en arrière, au temps où les Vikings régnaient sur de vastes régions de l'Europe Occidentale...</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Pierre Philosophale1">
-		<id>73AAAA</id>
-	<locale lang="EN">
-	<title>Pierre Philosophale, La: Chapter 1- La Pierre Philosophale</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Blitz">
+    <id>10AAAA</id>
+    <locale lang="EN">
+      <title>Blitz</title>
+      <genre>Shoot'em Up</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>"Blitz" est un jeu en Basic de quelques centaines lignes que tout possesseur de micro-ordinateur 8 Bits avait tapé un jour ou l'autre à l'époque.
+
+Le principe était simple : Un avion survole une ville constituée de gratte-ciels. A chaque passage, l'avion descend d'un cran le menant à un crash certain. Pour éviter le pire, il suffisait de larguer une bombe sur chaque édifice lors des passages successifs pour écrouler les bâtiments et atterrir sur une place nette.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Pierre Philosophale2">
-		<id>74AAAA</id>
-	<locale lang="EN">
-	<title>Pierre Philosophale, La: Chapter 2- La Clef de l'Ile</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Bris de Glace">
+    <id>11AAAA</id>
+    <locale lang="EN">
+      <title>Bris de Glace</title>
+      <genre>Platform</genre>
+      <synopsis>In Bris De Glace, players control a construction worker whose job is to add windows to two separate buildings.
+
+Each building consists of six floors that contains space for five windows per floor. The buildings themselves are separated by a crane holding a scaffolding. Players have to grab the sheets of glass from the scaffolding and place them on each floor one by one. However, there is a vandal located at street level who occasionally hurls a rock to break a sheet of glass that had been added to the building thus slowing down the construction workers job. If the player can get five windows across on a floor or six windows lined up vertically with one on each floor, the glass becomes unbreakable thus thwarting the vandals vandalism.
+
+Since the scaffolding moves to each floor, players have to get to the higher floors of the building by climbing pipes. Once the player takes ten windows from the scaffolding, it goes back down to the street to get a refill of sheets of glass. During this time a cooler filled with soda will randomly appear on a floor which the player can scurry to in order to gain some bonus points before it disappears. The game ends when all the windows get added to the building and the player climbs to the top of the building to receive their final score.
+
+There is also a two player mode where two players compete against each other to see who can put up all the windows for their building first. Players can slow down their opponents by smashing their windows with a hammer. The gameplay rules of the single player game apply in this mode too. The player who has the highest score at the end wins the match.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Deux immeubles sont en construction de chaque côté d'une grue. Chacun des deux joueurs doit peser les vitres de son immeuble (1 ou 2 joueurs), ou détruire celles de son voisin.</synopsis>
+      <genre>Plateforme</genre>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Pierre Philosophale3">
-		<id>75AAAA</id>
-	<locale lang="EN">
-	<title>Pierre Philosophale, La: Chapter 3- La Porte du Jardin des Hesperides</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required=""/>
+    </input>
+    <developer/>
+    <publisher>Philips Interactive Media</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Budget">
+    <id>12AAAA</id>
+    <locale lang="EN">
+      <title>Budget</title>
+      <genre>Software</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>BUDGET est un programme de gestion.
+Il met à la disposition de l'utilisateur une feuille de calcul de 63 colonnes et 255 lignes.
+Il est possible de sauvegarder le tableau sur cassette ou sur papier.</synopsis>
+      <genre>Logiciel</genre>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Pierre Philosophale4">
-		<id>76AAAA</id>
-	<locale lang="EN">
-	<title>Pierre Philosophale, La: Chapter 4- La Porte des Gnomes</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Carnet d'Adresses">
+    <id>13AAAA</id>
+    <locale lang="EN">
+      <title>Carnet d'Adresses</title>
+      <genre>Software</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Nom, prénom, adresse, téléphone, profession... un vrai fichier jusqu'à la possibilité d'édition sur imprimante.
+Détail technique, c'est un fichier multicritère: rien de plus facile que de rechercher toutes les fiches de vos amis, se prénommant Patrick, habitant au Chesnay et qui sont nés en 1966.</synopsis>
+      <genre>Logiciel</genre>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Pierre Philosophale5">
-		<id>77AAAA</id>
-	<locale lang="EN">
-	<title>Pierre Philosophale, La: Chapter 5- La Porte des Pieuvres</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1984" month="08" day=""/>
+  </game>
+  <game name="Carotte Malicieuse">
+    <id>14AAAA</id>
+    <locale lang="EN">
+      <title>Carotte Malicieuse</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ce jeu éducatif est fait pour apprendre à l'utilisateur à se repérer dans un plan quadrillé non codé, et à se déplacer sur les noeuds de ce quadrillage. Il comporte quatre exercices de difficulté progressive.</synopsis>
+      <genre>Educatif</genre>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Pierre Philosophale6">
-		<id>78AAAA</id>
-	<locale lang="EN">
-	<title>Pierre Philosophale, La: Chapter 6- La Porte du Harpie</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>VIFI</publisher>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="Carte de France">
+    <id>15AAAA</id>
+    <locale lang="EN">
+      <title>Carte de France</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Mers, fleuves, villes et montagnes.
+Apprendre à connaître la France, ses villes, ses fleuves, les mers qui l'entourent, ses montagnes: leur nom et leur situation.</synopsis>
+      <genre>Educatif</genre>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Pierre Philosophale7">
-		<id>79AAAA</id>
-	<locale lang="EN">
-	<title>Pierre Philosophale, La: Chapter 7- La Porte du Gouffre</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>VIFI Nathan</publisher>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Citadelle">
+    <id>16AAAA</id>
+    <locale lang="EN">
+      <title>Citadelle</title>
+      <genre>Adventure</genre>
+      <synopsis>Legend has it that there was once a great war between the elves and the dragon Ceril. An elf magician was able to cast a spell to seal the dragon into the depths of a citadel. In the present day an orphan grew up to be a warrior who now wants to become a knight. To prove his ability, he must obtain three treasures from the nearby citadel of the dead
+
+Citadelle is a French language text adventure game where players input noun and verb combinations into a text parser in order to control the protagonist. Players take on the role of the warrior who wants to become a knight. Players move from location to location looking for objects to take or manipulate in order to solve puzzles. Since the warrior can only carry a limited amount of items at a time, the player will have to juggle between which objects to carry around and which ones to leave behind.
+
+Along the way the warrior will have to fight various enemies such as gnolls, liches, and orcs. During combat players can choose to attack, defend (attacks are less potent for both the warrior and the monster), cast a spell (limited uses), or flee from the fight (brings the warrior back to the previous location). Defeating monsters earns the warrior experience. Players will have to be careful not to take to much damage and lose all their health as the adventure will come to an end.
+
+Citadelle is the first part of a trilogy of games. The first part only contains one of the three treasures needed for knighthood. The ultimate goal of this game is to collect the Shield of Oran and then find out how to descend into the caverns under the citadel.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Anglais Volume 1">
-		<id>7AAAAA</id>
-	<locale lang="EN">
-	<title>Anglais Volume 1</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required=""/>
+    </input>
+    <developer>Loriciels</developer>
+    <publisher>Loriciels</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Cle des Chants">
+    <id>17AAAA</id>
+    <locale lang="EN">
+      <title>Cle des Chants</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis> La clé des chants est destinée aussi bien au musicien débutant qu'au musicien confirmé.
+Les différents jeux vous permettent de vous initier à:
+
+    La lecture des notes.
+    La dictée musicale.
+    La dictée de rythme.</synopsis>
+      <genre>Educatif</genre>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Preterite Star">
-		<id>80AAAA</id>
-	<locale lang="EN">
-	<title>Preterite Star</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>VIFI Nathan</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Compilation">
+    <id>18AAAA</id>
+    <locale lang="EN">
+      <title>Compilation</title>
+      <genre>Various</genre>
+      <synopsis>Compilation</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Resolution de Suite">
-		<id>81AAAA</id>
-	<locale lang="EN">
-	<title>Resolution de Suite</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Complements et Multiples">
+    <id>19AAAA</id>
+    <locale lang="EN">
+      <title>Complements et Multiples</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le principe du jeu COMPLÉMENTS consiste à assortir 2 cartes complémentaires dont la somme est égale à 50, 100 ou 1000.
+Dans le jeu MULTIPLES, il s'agit de reconnaître 2 cartes multiples l'une de l'autre.</synopsis>
+      <genre>Educatif</genre>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Resolution de Systeme de 2 equations">
-		<id>82AAAA</id>
-	<locale lang="EN">
-	<title>Resolution de Systeme de 2 equations</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Abeille">
+    <id>1AAAAA</id>
+    <locale lang="EN">
+      <title>Abeille</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis> Votre abeille doit collecter du pollen sur les fleurs du jardin et le rapporter à la ruche. (16 niveaux de difficulté) </synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Resolution d'Equation du 3eme Degres">
-		<id>83AAAA</id>
-	<locale lang="EN">
-	<title>Resolution d'Equation du 3eme Degres</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Conjugaichouette">
+    <id>20AAAA</id>
+    <locale lang="EN">
+      <title>Conjugaichouette</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ce logiciel couvre toute la conjugaison française: auxiliaires, verbes réguliers et irréguliers. Il vous permettra d'aller et venir à votre gré parmi les formes les plus variées de la conjugaison.</synopsis>
+      <genre>Educatif</genre>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Salut l'Artiste">
-		<id>84AAAA</id>
-	<locale lang="EN">
-	<title>Salut l'Artiste</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Current Continu">
+    <id>21AAAA</id>
+    <locale lang="EN">
+      <title>Current Continu</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Simulateur de Vol">
-		<id>85AAAA</id>
-	<locale lang="EN">
-	<title>Simulateur de Vol</title>
-	<genre>Simulation</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="DCA">
+    <id>22AAAA</id>
+    <locale lang="EN">
+      <title>DCA</title>
+      <genre>Shooter</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Sokoban">
-		<id>86AAAA</id>
-	<locale lang="EN">
-	<title>Sokoban</title>
-	<genre>Strategy</genre>
-	<synopsis>This is a version of the classic Sokoban, written in FORTH for the VG5000 home computer. Your job, as a smiley face with sunglasses, is to push all the shopping carts to the parking position. But it's easy to get stuck since you have to shuffle the carts around or you can't move freely, and carts in a corner can't be pulled out. All the graphics are in character intervals, making the playfield a rather small part of the screen. The game also includes a level editor.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1986" month="" day=""/>
+  </game>
+  <game name="Decouverte du Basic: Volume 1">
+    <id>23AAAA</id>
+    <locale lang="EN">
+      <title>Decouverte du Basic: Volume 1</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis> Vous découvrirez progressivement les principales instructions de ce langage et vous serez, sans peine, conduits à l'écriture de vos propres programmes en basic.
+Les nombreux exercices qui vous sont proposés (avec correction immédiate) vous iaderont à bien assimiler et utiliser correctement les instructions. Accessible aux enfants à partir de 10 ans, ce microdidact constitue un véritable passeport pour accéder à la programmation en vous divertissant. L'utilisateur devra avoir bien assimilé les instructions décrites dans le volume 1 pour passer au volume 2. </synopsis>
+      <genre>Educatif</genre>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="2010" month="" day=""/>
-	</game>
-	<game name="Space Invaders">
-		<id>87AAAA</id>
-	<locale lang="EN">
-	<title>Space Invaders</title>
-	<genre>Shooter</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Decouverte du Basic: Volume 2">
+    <id>24AAAA</id>
+    <locale lang="EN">
+      <title>Decouverte du Basic: Volume 2</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Vous découvrirez progressivement les principales instructions de ce langage et vous serez, sans peine, conduits à l'écriture de vos propres programmes en basic.
+Les nombreux exercices qui vous sont proposés (avec correction immédiate) vous iaderont à bien assimiler et utiliser correctement les instructions. Accessible aux enfants à partir de 10 ans, ce microdidact constitue un véritable passeport pour accéder à la programmation en vous divertissant. L'utilisateur devra avoir bien assimilé les instructions décrites dans le volume 1 pour passer au volume 2.</synopsis>
+      <genre>Educatif</genre>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1985" month="" day=""/>
-	</game>
-	<game name="Squash">
-		<id>88AAAA</id>
-	<locale lang="EN">
-	<title>Squash</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Demo 27 Couleurs">
+    <id>25AAAA</id>
+    <locale lang="EN">
+      <title>Demo 27 Couleurs</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Staroc">
-		<id>89AAAA</id>
-	<locale lang="EN">
-	<title>Staroc</title>
-	<genre>Shooter</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Demo 3 Mode 80 Colonnes">
+    <id>26AAAA</id>
+    <locale lang="EN">
+      <title>Demo 3 Mode 80 Colonnes</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Anglais Volume 2">
-		<id>8AAAAA</id>
-	<locale lang="EN">
-	<title>Anglais Volume 2</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Demo 4 Mode 80 Colonnes">
+    <id>27AAAA</id>
+    <locale lang="EN">
+      <title>Demo 4 Mode 80 Colonnes</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Stricker">
-		<id>90AAAA</id>
-	<locale lang="EN">
-	<title>Stricker</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Demo 5 Mode 80 Colonnes">
+    <id>28AAAA</id>
+    <locale lang="EN">
+      <title>Demo 5 Mode 80 Colonnes</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1985" month="" day=""/>
-	</game>
-	<game name="Submarine">
-		<id>91AAAA</id>
-	<locale lang="EN">
-	<title>Submarine</title>
-	<genre>Shooter</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Demo Mode 80 Colonnes">
+    <id>29AAAA</id>
+    <locale lang="EN">
+      <title>Demo Mode 80 Colonnes</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1985" month="" day=""/>
-	</game>
-	<game name="Systeme Metrique">
-		<id>92AAAA</id>
-	<locale lang="EN">
-	<title>Systeme Metrique</title>
-	<genre>Educational</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Affichage des Polices">
+    <id>2AAAAA</id>
+    <locale lang="EN">
+      <title>Affichage des Polices</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Test Mode 80 Colonnes">
-		<id>93AAAA</id>
-	<locale lang="EN">
-	<title>Test Mode 80 Colonnes</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Divertissements">
+    <id>30AAAA</id>
+    <locale lang="EN">
+      <title>Divertissements</title>
+      <genre>Various</genre>
+      <synopsis>Divertissements is a compilation of four mini-games:Jackpot - A slot machine game where the player has to get the three spinning reels to match in order to win. Players can choose to start with one to nine chips to play with. Players can risk from one to twenty chips per spin.Memotest - A game similar to Simon Says. The game will flash the player a sequence of figures quickly and the player will have to recall from their memory the correct order of the sequence. Every correct answer will increase the sequence of figures. Players can select how many different figures will appear from between one and twenty-five and they can select how long of a sequence of figures they want o play to, from between four and forty-one. Players can also select the number of times they can give an incorrect answer per game from between zero and six.Master-mind - Based on the board game Mastermind. The goal is for players to deduce the correct position of colored pawns in as few amount of tries as possible. Players can choose the length of the code (between two and nine) and the number of different colored pawns (between one and nine). If the player is stumped, they can receive the solution and try another puzzle.Casse-Brique - This game is similar to Breakout. Players control a paddle and have to bounce a ball off of it in order to break bricks. If the ball falls off the playing field the player loses a turn. The game ends when the players loses all of their turns.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis> 4 jeux différents sur cette cassette, pour découvrir la programmation en vous amusant.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Test Pour Joystick">
-		<id>94AAAA</id>
-	<locale lang="EN">
-	<title>Test Pour Joystick</title>
-	<genre>Miscellaneous</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Fichier">
+    <id>31AAAA</id>
+    <locale lang="EN">
+      <title>Fichier</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="" month="" day=""/>
-	</game>
-	<game name="Tetris">
-		<id>95AAAA</id>
-	<locale lang="EN">
-	<title>Tetris</title>
-	<genre>Strategy</genre>
-	<synopsis>Tetris is a Tetris clone for the Philips VG5000, which never received a licenced (or even non-licenced) Tetris game in the eighties. The game plays in full colour with all the usual trimmings such as a drop button and modes of turning the falling pieces both clockwise and anticlockwise.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Football">
+    <id>32AAAA</id>
+    <locale lang="EN">
+      <title>Football</title>
+      <genre>Sports</genre>
+      <synopsis>Football is a soccer game. Players name their own teams then hit the field. The field is viewed from a top-down isometric perspective with the gameplay on the field having the screen scroll horizontally. Each soccer match is split up in to two halves with each half lasting 45 minutes (the clock counts down in real time). The team that scores the most goals wins the match.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Courez, driblez, tirez. But! À deux joueurs ou contre l'ordinateur, un véritable jeu de football avec 5 joueurs mobiles par équipe dont le gardien de but.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="2013" month="" day=""/>
-	</game>
-	<game name="Tortues">
-		<id>96AAAA</id>
-	<locale lang="EN">
-	<title>Tortues</title>
-	<genre>Arcade</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Nice Ideas</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Formule Brute">
+    <id>33AAAA</id>
+    <locale lang="EN">
+      <title>Formule Brute</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Trans American Rally">
-		<id>97AAAA</id>
-	<locale lang="EN">
-	<title>Trans American Rally</title>
-	<genre>Racing</genre>
-	<synopsis>In Trans American Rally the object is to cover as large a distance as possible with the available fuel. As the name implies, the rally crosses the U.S.A., from the west coast to the east coast. The game has three stages:From Los Angeles to Denver, in straight highways through desert country.From Denver to Chicago, driving during the night, with lots of bends.From Chicago to New York, driving in daytime over ice covered roads.On the road, green cars are oncoming ones and blue cars are going ones. Any collision makes the player lose fuel. The car gets refueled in the stops at Denver, Chicago and New York; when the player reaches New York, the game starts over at a higher difficulty level, with heavier traffic and increased speeds. The game is over when the player runs out of fuel. The game is played using the action button to accelerate, the directional stick to steer right and left and holding back to brake.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Fou Volant">
+    <id>34AAAA</id>
+    <locale lang="EN">
+      <title>Fou Volant</title>
+      <genre>Shooter</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Aux commandes de votre avion de chasse, vous devez réussir le plus grand nombre possible de missions de défense. </synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher>Philips Export B.V.</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Turtles">
-		<id>98AAAA</id>
-	<locale lang="EN">
-	<title>Turtles</title>
-	<genre>Action</genre>
-	<synopsis>Turtles, also known as Turpin, puts you into the role of the maternalistic turtle who tries to save the kidturtles from a bunch of bad bugs (or, in some versions, bad cars). It takes place in a Pacman-esque labyrinth, with turtle boxes in the centre and corners of the screen. Run into a box to release the turtle kid inside. Opening a box makes a little house show up, and you must go with the kidturtle to the house before you can release the next one. All the while, you must avoid the bugs/cars running around the maze. If they get too close, you can release a mine which will stun them temporarily. When you run out of mines, you must resupply by passing over a star in the centre of the screen. Beware, though, because the simpleminded bugs become smarter as time passes; this is symbolised by their changing colours. On later levels, those sneaky beetles can also come out of the boxes supposed to hold kidturtles. Watch out!Each level is a floor in a house, and between levels you can see the turtle climbing to the next floor until it reaches the top. However, in the Philips versions, the kidturtles are replaced by people whom the turtle must save from ships, while the bugs are turned into turtle-eating fish.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Glouton">
+    <id>35AAAA</id>
+    <locale lang="EN">
+      <title>Glouton</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>À travers différents labyrinthes, vous devez absorber les proies lumineuses situées dans les 4 coins de l'écran, sans vous faire avaler par les 3 voraces qui vous poursuivent. Heu oui, pacman...</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer>Konami Industry Co. Ltd.</developer>
-	<publisher>S.A. Philips Industrielle et Commerciale</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="US Rallye">
-		<id>99AAAA</id>
-	<locale lang="EN">
-	<title>US Rallye</title>
-	<genre>Racing</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Helicopter Rescue">
+    <id>36AAAA</id>
+    <locale lang="EN">
+      <title>Helicopter Rescue</title>
+      <genre>Action</genre>
+      <synopsis>Games back in the early 1980s often had descriptive titles. Helicopter Rescue is one of them: you have to use an helicopter to rescue stranded pilots in the desert and in the sea.The player controls the helicopter with the joystick, moving up to fly up and down to land. Once the helicopter is in the air, the player can choose to go left or right. Going left takes the player to a desert scenario, where the game field is in 2.5D. Moving the joystick up flies the helicopter ahead, moving it down lands the helicopter to pick up pilots. In the desert, tanks will try to shoot the helicopter down and capture the pilots before the player can rescue them. To shoot them, the helicopter must be moving vertically. Flying to the right of the main screen takes the player to a sea scenario, where the same rules as the desert apply, but as expected, instead of tanks the enemies here are ships.The helicopter has a fuel meter which, when depleted, will make the helicopter crash. The helicopter gets refueled when the player lands on the home base and returns rescued pilots. Each round has the player trying to rescue 8 pilots. The round ends when all 8 pilots are either rescued or killed.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis> De votre hôpital militaire, vous devez aller sauver, en hélicoptère, des pilotes en détresse dans le désert et en mer.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher></publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Backgammon">
-		<id>9AAAAA</id>
-	<locale lang="EN">
-	<title>Backgammon</title>
-	<genre>Gambling</genre>
-	<synopsis></synopsis>
-	</locale>
-		<rating type="NOTE" value="">
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips Export B.V.</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Helicoptere">
+    <id>37AAAA</id>
+    <locale lang="EN">
+      <title>Helicoptere</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis> De votre hôpital militaire, vous devez aller sauver, en hélicoptère, des pilotes en détresse dans le désert et en mer.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer></developer>
-	<publisher>Philips Interactive Media</publisher>
-		<date year="1984" month="" day=""/>
-	</game>
-	<game name="Yahtzee">
-		<id>999AAA</id>
-	<locale lang="EN">
-	<title>Yahtzee</title>
-	<genre>Gambling</genre>
-	<synopsis></synopsis>
-	</locale>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Jeu de Dames">
+    <id>38AAAA</id>
+    <locale lang="EN">
+      <title>Jeu de Dames</title>
+      <genre>Gambling</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="Jeu de Tarot">
+    <id>39AAAA</id>
+    <locale lang="EN">
+      <title>Jeu de Tarot</title>
+      <genre>Gambling</genre>
+      <synopsis>This game lets players play the card game French Tarot. French Tarot is played with a deck consisting of 78 playing cards. The game consists of the player competing against three opponents with the objective being to accumulate enough card points to win the hand by taking tricks.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <genre>Jeu de Cartes</genre>
+      <synopsis> De votre hôpital militaire, vous devez aller sauver, en hélicoptère, des pilotes en détresse dans le désert et en mer.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Nice Ideas</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Air Battle">
+    <id>3AAAAA</id>
+    <locale lang="EN">
+      <title>Air Battle</title>
+      <genre>Simulation</genre>
+      <synopsis>Air Battle is a flight simulator set in the World War I era. The player controls a biplane from an inside-the-cockpit perspective.The player starts the game with the plane on ground. The plane will start moving and a flashing light will indicate when the plane has achieved enough speed to take-off. Once in the air, the player must try to take down the most enemy planes possible, while avoiding hitting friendly planes. The enemy planes have white tail sections while friendly have yellow tail sections. There's no way of telling if a plane is friend or foe if it is coming straight at the player, until it starts firing. The player can see incoming planes through a radar in the middle of the panel.The player gains points for hitting or taking down enemy planes, but will also be penalized by hitting or taking down friendly planes. There are four levels of difficulty, starting at zero points, 200 points, 500 points and 1000 points. The levels can also be selected directly from the game start, by pressing "0", "1", "2" or "3" to start.There's a fuel meter at the left of the panel and a ammunition meter at the right. When any of these are close to end, the player has to land the plane and refuel/recharge his plane. The game ends if the player is shot down by enemy planes or if the plane crashes while taking-off, landing or due to lack of fuel.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Aux commandes de votre avion de chasse, vous devez réussir le plus grand nombre possible de missions de défense. </synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="K.C. Munchkin!">
+    <id>40AAAA</id>
+    <locale lang="EN">
+      <title>K.C. Munchkin!</title>
+      <genre>Action,Arcade,</genre>
+      <synopsis>A top-down maze puzzle game with a concept similar to Pac-Man. The player controls a "Munchkin" whose goal is to eat all of "munchies" on the screen, all the while being chased by three "Munchers" who are trying to eat him. By eating a glowing munchie, all of the Munchers will turn purple and can be hunted down for a limited time, successfully doing so results in a score bonus. Once a Muncher has been "munched out" (term used in the manual), it will return to the center of the maze to recharge for a short time before setting out for revenge once again.As players eat more and more munchies, the remaining munchies begin to move faster and faster around the maze. When there is only one left, it will be moving at the same speed as the player. You'll then have to hunt it down while avoiding the Munchers.The game offers 4 pre-built mazes, as well as invisible versions of these mazes (the walls will only appear when you run into them). However, it includes the option to design custom mazes through a programming mode. Players can base a design off of presets or start from scratch.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <title>Glouton</title>
+      <synopsis>À travers différents labyrinthes, vous devez absorber les proies lumineuses situées dans les 4 coins de l'écran, sans vous faire avaler par les 3 voraces qui vous poursuivent. Heu oui, pacman...</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips Export B.V.</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="La Carotte Malicieuse">
+    <id>41AAAA</id>
+    <locale lang="EN">
+      <title>La Carotte Malicieuse</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <genre>Educatif</genre>
+      <synopsis>Ce jeu éducatif est fait pour apprendre à l'utilisateur à se repérer dans un plan quadrillé non codé, et à se déplacer sur les noeuds de ce quadrillage. Il comporte quatre exercices de difficulté progressive.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>VIFI Nathan</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="La Moto Infernale">
+    <id>43AAAA</id>
+    <locale lang="EN">
+      <title>La Moto Infernale</title>
+      <genre>Sports</genre>
+      <synopsis>On the top of a mountain is the lair of the nefarious SCARFOS group who are planning on making a nuclear weapon. It's up to the player to put a stop to this.The gameplay in La Moto Infernale: Scarfinger involves players driving a motorcycle up a spiraling roadway in order to get to the top of a mountain. The player has a limited amount of time to complete this task, so they must kick their motorcycle up from the slow first gear all the way up to the blazing fast fifth gear of speed. However, the player may occasionally have to slow down to avoid the barrels and mines clogging up the road. Players also have to be careful not getting to close to either side of the road or risk careening into the mountainside or falling off the road into the water below. Also located on the road are ammo icons which the player should try their best to collect to increase their missile supply. When the player reaches the top of the mountain, they have to shoot the door of the lair, then shoot all the stockpiled nuclear material.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Vous conduisez une puissante moto le long d'une corniche.
+Vous devez atteindre la centrale de l'île de Scarfos pour la détruire.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer>Nice Ideas</developer>
+    <publisher>Philips Export B.V.</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="L'Abeille">
+    <id>44AAAA</id>
+    <locale lang="EN">
+      <title>L'Abeille</title>
+      <genre>Action,</genre>
+      <synopsis>A bee named Spina is being sent by the queen of the colony to bring pollen back to the hive.
+
+Players take control of Spina as the screen constantly scrolls to the right. Players can move Spina in the four cardinal directions. Moving to far to the left or right will return Spina to the hive and moving Spina to far down will risk getting Spina drowned in water, with all of these outcomes requiring the player to replay the level again. Spina's job is to collect pollen from the flowers found throughout the levels. After collecting enough pollen the level ends and then brings the player to the next level. Spina will have to be careful to avoid obstacles in each level. Obstacles such as flowers with thorns, raindrops, and spiders can cause Spina to fail in his task.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Votre abeille doit collecter du pollen sur les fleurs du jardin et le rapporter à la ruche. (16 niveaux de difficulté)</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Nice Ideas</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Labyrinthe et la Princesse">
+    <id>45AAAA</id>
+    <locale lang="EN">
+      <title>Labyrinthe et la Princesse</title>
+      <genre>RPG</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Edisoft</publisher>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="LGraph - VG5216">
+    <id>49AAAA</id>
+    <locale lang="EN">
+      <title>LGraph: VG5216</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Alien Invaders Plus!">
+    <id>4AAAAA</id>
+    <locale lang="EN">
+      <title>Alien Invaders Plus!</title>
+      <genre>Shooter</genre>
+      <synopsis>This is a Space Invaders variant with a twist. Eight robots with laser cannons and protected by a shield wall are advancing in the player's sector, and with his laser cannon he has to destroy them. The shield wall is indestructible, but the robots and the cannons aren't. They'll go from side to side of the screen in an alternate movement shooting down. Three high density molecular laser shields are placed in defense of the laser cannon. Each one of them houses an extra cannon.Instead of a passing flying saucer as seen in Space Invaders, the player has to face the Merciless Monstroth, which shoots against him. The player controls a robot defender inside the laser cannon. If the laser cannon is destroyed, the robot will be left unprotected. The robot can enter in a new laser cannon housed in one of the shields. Once the new laser cannon is active, the shield is gone. Once the three shields are gone, the Merciless Monstroth will come down to hunt the player's cannon and robot.The player wins a battle when destroying all enemy robots and cannons on the screen. A battle is lost when the player's robot is destroyed. The first side to win ten battles wins the war.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips Interactive Media</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Lire Vite et Bien">
+    <id>50AAAA</id>
+    <locale lang="EN">
+      <title>Lire Vite et Bien</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Apprentissage à la lecture rapide
+Saisir visuellement un maximum de signes en un minimum de temps, tel est l'objectif du microdidact LIRE VITE ET BIEN.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Memory">
+    <id>51AAAA</id>
+    <locale lang="EN">
+      <title>Memory</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="Mes Premiers Mots Croises Volume 1">
+    <id>52AAAA</id>
+    <locale lang="EN">
+      <title>Mes Premiers Mots Croises Volume 1</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le microdidact MOTS CROISÉS correspond au jeu bien connu des cruciverbistes. Adapté à l'enfant, il lui permet de réaliser des exercices de vocabulaire.
+Pour les mots difficiles, l'enfant peut faire appel à une deuxième définition. Le contrôle du mot tapé dans la grille s'effectue lettre par lettre, ce qui constitue une bonne aide orthographique.
+Chaque cassette comporte également un programme pour construire ses propres mots croisés. Adultes et enfants, à vos dictionnaires !</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>VIFI Nathan</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Mes Premiers Mots Croises Volume 2">
+    <id>53AAAA</id>
+    <locale lang="EN">
+      <title>Mes Premiers Mots Croises Volume 2</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Le microdidact MOTS CROISÉS correspond au jeu bien connu des cruciverbistes. Adapté à l'enfant, il lui permet de réaliser des exercices de vocabulaire.
+Pour les mots difficiles, l'enfant peut faire appel à une deuxième définition. Le contrôle du mot tapé dans la grille s'effectue lettre par lettre, ce qui constitue une bonne aide orthographique.
+Chaque cassette comporte également un programme pour construire ses propres mots croisés. Adultes et enfants, à vos dictionnaires !</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Meteo 36">
+    <id>54AAAA</id>
+    <locale lang="EN">
+      <title>Meteo 36</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="Micro Jeux: Cocktail de Jeux">
+    <id>55AAAA</id>
+    <locale lang="EN">
+      <title>Micro Jeux: Cocktail de Jeux</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis> Des programmes pour réfléchir, jouer et sourire...
+Des programmes variés que vous pouvez lister, adapter librement, sophistiquer à votre convenance.
+
+Cette cassette comprend 11 jeux:
+
+    MOR QUATRE : aligner verticalement, horizontalement ou en diagonale 4 pions de même couleur
+    PENDU : devinez :-)
+    OISEAU RARE : jeu de hasard. Il faut deviner derrière 10 cases quel est le nb le + grd ou le + petit (on se déplace de case en case..)
+    TAQUIN : il faut remettre des nb de 1 à 15 dans l'ordre (le tt apparait sous forme de damier)
+    ISOLA : un jeu de pions (2 joueurs)
+    SOLITAIRE : inspiré du jeu de société de même nom !
+    SPHINX : deviner un nombre secret
+    DATES : permet de savoir si le 14 juillet 1789 était un mardi ou un jeudi..
+    PUCES : jeu de hasard et de réflexe (4 puces attendent devant 4 tabourets, il faut indiquer le numéro du tabouret pour que la puce y monte...)
+    NIM : un jeu de logique qui se joue seul contre l'ordinateur ou à 2 joueurs.
+    GYRACOLOR : le but du jeu est d'aligner les cases de même couleur (5 couleurs sont réparties sur un carré de 5*5)... </synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Microjeux">
+    <id>56AAAA</id>
+    <locale lang="EN">
+      <title>Microjeux</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis> Des programmes pour réfléchir, jouer et sourire...
+Des programmes variés que vous pouvez lister, adapter librement, sophistiquer à votre convenance.
+
+Cette cassette comprend 11 jeux:
+
+    MOR QUATRE : aligner verticalement, horizontalement ou en diagonale 4 pions de même couleur
+    PENDU : devinez :-)
+    OISEAU RARE : jeu de hasard. Il faut deviner derrière 10 cases quel est le nb le + grd ou le + petit (on se déplace de case en case..)
+    TAQUIN : il faut remettre des nb de 1 à 15 dans l'ordre (le tt apparait sous forme de damier)
+    ISOLA : un jeu de pions (2 joueurs)
+    SOLITAIRE : inspiré du jeu de société de même nom !
+    SPHINX : deviner un nombre secret
+    DATES : permet de savoir si le 14 juillet 1789 était un mardi ou un jeudi..
+    PUCES : jeu de hasard et de réflexe (4 puces attendent devant 4 tabourets, il faut indiquer le numéro du tabouret pour que la puce y monte...)
+    NIM : un jeu de logique qui se joue seul contre l'ordinateur ou à 2 joueurs.
+    GYRACOLOR : le but du jeu est d'aligner les cases de même couleur (5 couleurs sont réparties sur un carré de 5*5)... </synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Micropocesseur">
+    <id>57AAAA</id>
+    <locale lang="EN">
+      <title>Micropocesseur</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Mission Omega">
+    <id>58AAAA</id>
+    <locale lang="EN">
+      <title>Mission Omega</title>
+      <genre>Shooter</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Aux commandes de votre vaisseau spatial, vous devez, après avoir traversé un champ d'astéroïdes, survoler la planète OMEGA, pour enfin vous engouffrer au coeur de son système de défense afin de le détruire.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Monkey Academy">
+    <id>59AAAA</id>
+    <locale lang="EN">
+      <title>Monkey Academy</title>
+      <genre>Educational</genre>
+      <synopsis>This platform game is about solving arithmetic problems. In the equation one number is missing, you 'll have to find the right number. This game is aimed at young children to help them learn arithmetic problem solving or playing with numbers.
+
+Some monkeys are minding their own business when they see a number missing from their arithmetic problem. Who took it? Another monkey, a crab? And where could it be? The only way to find that out is to go looking for it.
+
+Guide your monkey across the screen and up and down platform levels. Watch out for the crab! If its claws bite you, you lose a monkey. Jump up and pull down shades to find the missing number. When you find it, catch the number bar. Then send it up to your helper monkey. Find three missing numbers and earn bonus points!</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Alunissage">
+    <id>5AAAAA</id>
+    <locale lang="EN">
+      <title>Alunissage</title>
+      <genre>Action</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required=""/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="Monstre">
+    <id>60AAAA</id>
+    <locale lang="EN">
+      <title>Le Monstre</title>
+      <genre>Shooter</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Aux commandes de votre char galactique, vous êtes menacé par un monstre assisté de huit robots équipés de lance-roquettes. Profitez de vos abris et faites preuve de courage. (20 niveaux de difficulté).</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Mots en Fleurs">
+    <id>62AAAA</id>
+    <locale lang="EN">
+      <title>Mots en Fleurs</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Construire des mots
+Ce microdidact conduit l'enfant à jouer avec les successions de lettres ou syllabes dans le mot, en évitant le piège des inversions.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Norseman">
+    <id>63AAAA</id>
+    <locale lang="EN">
+      <title>Norseman</title>
+      <genre>Strategy</genre>
+      <synopsis>In Norseman the player controls a Viking warrior trying to defend the magic Golden Viking Helmet.The screen shows a courtyard divided in hexagons. The player has to protect the Golden Viking Helmet, which is at the bottom of the screen, from the attack of five different kinds of enemies. Each wave of enemies is composed of 5 of them. The enemies will appear in the top of the screen and will move toward the bottom of the screen; they can only move down (or diagonally down), and once they reach the bottom or the side of the screen they will reappear on the top or the opposite side. The Viking can move in all six directions, and will also reappear on the opposite side whenever he reaches the border. In order to attack, the Viking has to move inside the hexagon the enemy is in before the enemy moves against him first. As the enemies can only move downwards, approaching them from the 3 upper sides is advised.When an enemy dies, the corpse remains in the hexagon, making it impossible to move through it. Well placed corpses can function as a trap for other enemies, as they can only move downwards. The player can also get trapped by surrounding corpses. Once all 5 enemies are dead, a new wave of enemies comes. Each new wave has different enemies, in the following order: giants, octopuses, dragons, skeletons and bats. Once all waves are beaten, the game restarts from the first wave in a greater difficulty, while retaining the player's score. If the player dies or the Golden Viking Helmet is stolen, the game is over.The game has 10 variations:Game 0: 1 helmet, monsters moving from top to bottom only.Game 1: 2 helmets, monsters moving from top to bottom only. Game 2: 3 helmets, monsters moving from top to bottom only.Game 3: Same as game 0, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.Game 4: As game 1, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.Game 5: As game 2, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.Game 6: 1 helmet, monsters will come from all directions: two monsters moving from top to bottom, and one each from left to right, from right to left and from the bottom to the top. Monsters can stumble onto one single dead colleague and thus commit suicide.Game 7: Same as game 6, but with 2 helmets.Game 8: As game 6, but with 3 helmets.Game 9: This variety combines all handicaps of the previous nine varieties: 3 helmets, monsters coming from all directs and the flashing red monsters.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer>GST Video</developer>
+    <publisher>Philips Export B.V.</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Penalty">
+    <id>64AAAA</id>
+    <locale lang="EN">
+      <title>Penalty</title>
+      <genre>Sports</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="PH Faible">
+    <id>65AAAA</id>
+    <locale lang="EN">
+      <title>PH Faible</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Analyse de Factuer 1er">
+    <id>6AAAAA</id>
+    <locale lang="EN">
+      <title>Analyse de Factuer 1er</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Pierre Philosophale1">
+    <id>73AAAA</id>
+    <locale lang="EN">
+      <title>La Pierre Philosophale : Chapitre 1</title>
+      <genre>Arcade,Adventure</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Pierre Philosophale2">
+    <id>74AAAA</id>
+    <locale lang="EN">
+      <title>La Pierre Philosophale: Chapter 2- La Clef de l'Ile</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Pierre Philosophale3">
+    <id>75AAAA</id>
+    <locale lang="EN">
+      <title>La Pierre Philosophale: Chapter 3- La Porte du Jardin des Hesperides</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Pierre Philosophale4">
+    <id>76AAAA</id>
+    <locale lang="EN">
+      <title>La Pierre Philosophale, La: Chapter 4- La Porte des Gnomes</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Pierre Philosophale5">
+    <id>77AAAA</id>
+    <locale lang="EN">
+      <title>La Pierre Philosophale: Chapter 5- La Porte des Pieuvres</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Pierre Philosophale6">
+    <id>78AAAA</id>
+    <locale lang="EN">
+      <title>La Pierre Philosophale: Chapter 6- La Porte du Harpie</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Pierre Philosophale7">
+    <id>79AAAA</id>
+    <locale lang="EN">
+      <title>La Pierre Philosophale: Chapter 7- La Porte du Gouffre</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Anglais Volume 1">
+    <id>7AAAAA</id>
+    <locale lang="EN">
+      <title>Anglais Volume 1</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ce microdidact s'adresse aux élèves du secondaire et aux adultes désireux de réviser les notions fondamentales de la grammaire anglaise. Il se compose de deux volumes:
+Volume 1 - Le système verbal: les temps, présent, prétérit, ... , les voix actives et passives, la forme progressive...</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="Preterite Star">
+    <id>80AAAA</id>
+    <locale lang="EN">
+      <title>Preterite Star</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Apprentissage du prétérit anglais: prétérit des verbes réguliers et irréguliers, forme progressive, voix passive.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Belin</publisher>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Resolution de Suite">
+    <id>81AAAA</id>
+    <locale lang="EN">
+      <title>Resolution de Suite</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Resolution de Systeme de 2 equations">
+    <id>82AAAA</id>
+    <locale lang="EN">
+      <title>Resolution de Systeme de 2 equations</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Resolution d'Equation du 3eme Degres">
+    <id>83AAAA</id>
+    <locale lang="EN">
+      <title>Resolution d'Equation du 3eme Degres</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Salut l'Artiste">
+    <id>84AAAA</id>
+    <locale lang="EN">
+      <title>Salut l'Artiste</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>"SALUT L'ARTISTE" est un logiciel de création garphique pour votre VG 5000µ. Il vous permettra de créer toutes les images dont vous rêvez, en changer les couleurs, les modifier, les stocker, les réutiliser.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Nice Ideas</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Simulateur de Vol">
+    <id>85AAAA</id>
+    <locale lang="EN">
+      <title>Simulateur de Vol</title>
+      <genre>Simulation</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>"Simulateur de Vol" était un jeu assez ambitieux pour un petit ordinateur tel que le VG 5000 ! Et pourtant, malgré un bon nombre de touches à connaître, ce jeu restait assez jouable.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Sokoban">
+    <id>86AAAA</id>
+    <locale lang="EN">
+      <title>Sokoban</title>
+      <genre>Strategy</genre>
+      <synopsis>This is a version of the classic Sokoban, written in FORTH for the VG5000 home computer. Your job, as a smiley face with sunglasses, is to push all the shopping carts to the parking position. But it's easy to get stuck since you have to shuffle the carts around or you can't move freely, and carts in a corner can't be pulled out. All the graphics are in character intervals, making the playfield a rather small part of the screen. The game also includes a level editor.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="2010" month="" day=""/>
+  </game>
+  <game name="Space Invaders">
+    <id>87AAAA</id>
+    <locale lang="EN">
+      <title>Space Invaders</title>
+      <genre>Shooter</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="Squash">
+    <id>88AAAA</id>
+    <locale lang="EN">
+      <title>Squash</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Staroc">
+    <id>89AAAA</id>
+    <locale lang="EN">
+      <title>Staroc</title>
+      <genre>Shooter</genre>
+      <synopsis>Staroc is a horizontally scrolling shoot-'em-up. Players control a spaceship that can move up and down and can fire lasers. The players spaceship flies through an asteroid belt and then over hostile territory and has to contend with several flying enemies as well as missiles that are launched from the ground surface. Shooting down enemies earns the player points. The player starts the game with three spaceships. Once they are all lost, the game ends. The player can then enter their name on a high score list if their score is high enough to qualify.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Loriciels</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Anglais Volume 2">
+    <id>8AAAAA</id>
+    <locale lang="EN">
+      <title>Anglais Volume 2</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Ce microdidact s'adresse aux élèves du secondaire et aux adultes désireux de réviser les notions fondamentales de la grammaire anglaise. Il se compose de deux volumes:
+Volume 2 - Le système verbal: les temps, présent, prétérit, ... , les voix actives et passives, la forme progressive...</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Stricker">
+    <id>90AAAA</id>
+    <locale lang="EN">
+      <title>Stricker</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="Submarine">
+    <id>91AAAA</id>
+    <locale lang="EN">
+      <title>Submarine</title>
+      <genre>Shooter</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="1985" month="" day=""/>
+  </game>
+  <game name="Systeme Metrique">
+    <id>92AAAA</id>
+    <locale lang="EN">
+      <title>Systeme Metrique</title>
+      <genre>Educational</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Il s'agit d'assortir 2 cartes qui comportent la même unité de mesure exprimée dans des unités différentes (exemple: 5 m et 500 cm).</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Test Mode 80 Colonnes">
+    <id>93AAAA</id>
+    <locale lang="EN">
+      <title>Test Mode 80 Colonnes</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Test Pour Joystick">
+    <id>94AAAA</id>
+    <locale lang="EN">
+      <title>Test Pour Joystick</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="" month="" day=""/>
+  </game>
+  <game name="Tetris">
+    <id>95AAAA</id>
+    <locale lang="EN">
+      <title>Tetris</title>
+      <genre>Strategy</genre>
+      <synopsis>Tetris is a Tetris clone for the Philips VG5000, which never received a licenced (or even non-licenced) Tetris game in the eighties. The game plays in full colour with all the usual trimmings such as a drop button and modes of turning the falling pieces both clockwise and anticlockwise.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher/>
+    <date year="2013" month="" day=""/>
+  </game>
+  <game name="Tortues">
+    <id>96AAAA</id>
+    <locale lang="EN">
+      <title>Tortues</title>
+      <genre>Arcade</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Avec votre tortue, vous devez sauver des naufragés bloqués sur leur bateau dans une mer infestée de dangereux piranhas. (10 niveaux de difficulté).</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Trans American Rally">
+    <id>97AAAA</id>
+    <locale lang="EN">
+      <title>Trans American Rally</title>
+      <genre>Racing</genre>
+      <synopsis>In Trans American Rally the object is to cover as large a distance as possible with the available fuel. As the name implies, the rally crosses the U.S.A., from the west coast to the east coast. The game has three stages:From Los Angeles to Denver, in straight highways through desert country.From Denver to Chicago, driving during the night, with lots of bends.From Chicago to New York, driving in daytime over ice covered roads.On the road, green cars are oncoming ones and blue cars are going ones. Any collision makes the player lose fuel. The car gets refueled in the stops at Denver, Chicago and New York; when the player reaches New York, the game starts over at a higher difficulty level, with heavier traffic and increased speeds. The game is over when the player runs out of fuel. The game is played using the action button to accelerate, the directional stick to steer right and left and holding back to brake.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips Export B.V.</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Turtles">
+    <id>98AAAA</id>
+    <locale lang="EN">
+      <title>Turtles</title>
+      <genre>Action,Arcade,</genre>
+      <synopsis>Turtles, also known as Turpin, puts you into the role of the maternalistic turtle who tries to save the kidturtles from a bunch of bad bugs (or, in some versions, bad cars). It takes place in a Pacman-esque labyrinth, with turtle boxes in the centre and corners of the screen. Run into a box to release the turtle kid inside. Opening a box makes a little house show up, and you must go with the kidturtle to the house before you can release the next one. All the while, you must avoid the bugs/cars running around the maze. If they get too close, you can release a mine which will stun them temporarily. When you run out of mines, you must resupply by passing over a star in the centre of the screen. Beware, though, because the simpleminded bugs become smarter as time passes; this is symbolised by their changing colours. On later levels, those sneaky beetles can also come out of the boxes supposed to hold kidturtles. Watch out!Each level is a floor in a house, and between levels you can see the turtle climbing to the next floor until it reaches the top. However, in the Philips versions, the kidturtles are replaced by people whom the turtle must save from ships, while the bugs are turned into turtle-eating fish.</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis>Avec votre tortue, vous devez sauver des naufragés bloqués sur leur bateau dans une mer infestée de dangereux piranhas. (10 niveaux de difficulté).</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer>Konami Industry Co. Ltd.</developer>
+    <publisher>S.A. Philips Industrielle et Commerciale</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="US Rallye">
+    <id>99AAAA</id>
+    <locale lang="EN">
+      <title>US Rallye</title>
+      <genre>Racing</genre>
+      <synopsis/>
+    </locale>
+    <locale lang="FR">
+      <synopsis>À travers les États-Unis, de Las Vegas à New York en passant par Denver et Chicago, vous êtes un as du volant, de jour, de nuit, et même sur la neige.</synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer/>
+    <publisher>Philips</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Backgammon">
+    <id>9AAAAA</id>
+    <locale lang="EN">
+      <title>Backgammon</title>
+      <genre>Gambling</genre>
+      <synopsis>A video game conversion of the board game Backgammon. The game board is displayed from a top down perspective and is laid out horizontally. The game lets the player compete against a computer opponent. The objective of the game is to be the first player to move all fifteen of their pieces off of the board.
+
+The typical rules of Backgammon apply. Players roll two dice (if a pair is rolled it becomes four for that turn with the extra two being a copy of the original pair) to move their pieces to an empty slot, a slot occupied by their own pieces, or a slot that contains only one of their opponents pieces. Doing that will send their opponents piece back to their own home base. While it's a players turn, they can take back a move they made.
+
+The game lets the player choose how many matches they want to play to decide the ultimate victor (from 1 to 99).</synopsis>
+    </locale>
+    <locale lang="FR">
+      <synopsis> Un jeu de société bien connu pour tous les âges. La mise en oeuvre est facile. </synopsis>
+    </locale>
+    <rating type="NOTE" value="">
+		</rating>
+    <input players="2">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required=""/>
+    </input>
+    <developer/>
+    <publisher>Philips Interactive Media</publisher>
+    <date year="1984" month="" day=""/>
+  </game>
+  <game name="Yahtzee">
+    <id>999AAA</id>
+    <locale lang="EN">
+      <title>Yahtzee</title>
+      <genre>Gambling</genre>
+      <synopsis/>
+    </locale>
     <locale lang="FR">
       <synopsis>Yahtzee est une adaptation sur ordinateur d'un jeu de dés très populaire inventé
 au Canada en 1954. Le principe consiste à partir de lancers de cinq dés à faire des
@@ -1474,13 +1747,14 @@ fois une partie ou l'intégralité des dés. Ensuite, le joueur doit annoncer la
 combinaison qu'il veut faire comptabiliser.</synopsis>
       <genre>Aventure</genre>
     </locale>
-		<rating type="NOTE" value="">
+    <rating type="NOTE" value="">
 		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-		</input>
-	<developer>Markerror</developer>
-	<publisher></publisher>
-		<date year="2016" month="" day=""/>
-	</game>
+    <input players="1">
+      <control type="wiimote" required="true"/>
+      <control type="coop" required="false"/>
+    </input>
+    <developer>Markerror</developer>
+    <publisher/>
+    <date year="2016" month="" day=""/>
+  </game>
 </datafile>

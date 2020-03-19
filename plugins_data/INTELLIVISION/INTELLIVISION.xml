@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812050837" games="179"/>
+    <WiiTDB version="201812050837" games="179"/>
   <game name="4-tris">
     <id>97420A</id>
     <locale lang="EN">
@@ -65,7 +65,7 @@ You can play against the computer at two skill levels - one for beginners or int
     <locale lang="EN">
       <title>Advanced Dungeons &amp; Dragons</title>
       <synopsis>Pursue the ancient Crown of Kings in Advanced Dungeons &amp; Dragons Cartridge. You control a three person party equipped with three arrows apiece, though more are arrows can be found on your quest. Quest over the land of Cloudy Mountain and explore caves with many enemies that try to stop your progress. Four difficulty levels keep the game fresh and challenging for pros or amateurs.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -86,12 +86,14 @@ You can play against the computer at two skill levels - one for beginners or int
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1982"/>
   </game>
   <game name="Advanced Dungeons And Dragons - Cloudy Mountain">
     <id>97423A</id>
     <locale lang="EN">
       <title>Advanced Dungeons &amp; Dragons: Cloudy Mountain</title>
       <synopsis>Journey into a land of treasure, adventure and dark, dark danger. Lead a 3-man expedition through winding mountain caverns, in search of tools and arrows. Within the caverns, deadly monsters lie in wait. Slay the monsters, overcome the obstacles of a hostile land, and enter the legendary Cloudy Mountain. Here you'll find the Crown of Kings...and the deadliest terror of all, the Winged Dragon.</synopsis>
+      <genre>RPG</genre>
     </locale>
     <developer>APh Technological Consulting</developer>
     <publisher>Mattel Electronics</publisher>
@@ -120,6 +122,7 @@ A world of challenge for 1 player vs. the computer
 Monsters and other dreadful creatures keep your heart pounding. Stay alert!
 Endless choices to make: which corridor to take, which room to explore, which objects to picks up.
 Multi-purpose keys and buttons plus colorful symbols add to the challenge and entertainment.</synopsis>
+      <genre>RPG</genre>
     </locale>
     <developer>APh Technological Consulting</developer>
     <publisher>Mattel Electronics</publisher>
@@ -212,7 +215,7 @@ Complement of simulated sound and visual effects such as explosions, gunfire, ta
 Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.
 
 If you become trapped in a hopeless situation, your canon can enter hyperspace and be instantly transported to a different location on the screen. Just be careful, sometimes you may be transported to a situation worse than the one you left! The game ends when all of your laser canons have been destroyed.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <synopsis>En Astrosmash, controlas un cañon laser en la base de la pantalla; la meta es ganar la mayor cantidad de puntos posible destrullendo los meteoritos, bombas y otros objetos que van cayendo. Los meteoritos son la amenaza mas comun de la que debes defenderte. Caen en varios colores y tamaños y algunos se dividen en dos partes mas pegueñas cuando les disparas. 
@@ -267,7 +270,7 @@ Si te encuentras es una situacion desesperada y sin salida, tu cañon entrara en
     <locale lang="EN">
       <title>Atlantis</title>
       <synopsis>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -379,7 +382,7 @@ Si te encuentras es una situacion desesperada y sin salida, tu cañon entrara en
     <locale lang="EN">
       <title>Beamrider</title>
       <synopsis>Beamrider is a 3-D arcade action game. You control a beam riding spaceship on a mission to clear 99 sectors of space from hostile aliens. The spaceship is located at the bottom of the screen and it can only stop on one of five beams. You are armed with both lasers and torpedoes; torpedoes are more powerful and can destroy more enemies compared to lasers, however you only get three per level. To complete a sector, you need to destroy fifteen white flying saucers. After all saucers are destroyed, the sector sentinel passes by which can be destroyed for extra points. Each even number sector up until sector 16 will add a new type of enemy to deal with. These additional enemies will just try to slow your mission, though, only the saucers need to be destroyed to advance. Occassionally a rejeuvinator will appear; if this is collected, you can earn an extra life. But be careful, because if you accidentally shoot the rejeuvinator it will turn into an enemy!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -409,7 +412,7 @@ Si te encuentras es una situacion desesperada y sin salida, tu cañon entrara en
       <synopsis>Horrible Hank has grabbed Tiny Mabel and climbed the old Mutton Building. Only Bashful Buford can save her. Help him scale the building - but watch out for those rolling boulders! birds and bats swoop down on Buford, and he leaps over scurrying rats. If Buford catches a heart Tiny Mabel throws him, he becomes invincible!
 
 Keep track of how high Buford has climbed. You can see how many chances he has left to save Mabel - and how many buildings Buford has completed. Can you beat your own highest score? Keep climbing, dodging, leaping and lunging! Only you can help Bashful Buford save his little darlin'.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -437,7 +440,7 @@ Keep track of how high Buford has climbed. You can see how many chances he has l
     <locale lang="EN">
       <title>Blockade Runner</title>
       <synopsis>A 3D shoot 'em up. You have to guide a fleet of four merchant space freighters to Earth with vital supplies. Hostile aliens have sighted you and forced you enter a dangerous asteroid belt. And now, you must try to avoid these asteroids, to destroy the Robot mines and alien space ships and also contend with fuel shortages and prevent the deflector shields from over-heating.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -505,7 +508,7 @@ There are 26 possible moves - drops, kicks, punches, etc. Before each match, you
 Start the game with a view of the code number display which is damaged. In order to find the code which disarms the bomb, the player has to repair the various circuits in order to fix the display. By selecting a square on the code number display, the player will be brought to the corresponding circuit which can be repaired using cutters, pliers, and soldering iron. The player's partner, Frank, will guide through the repairs by telling the player what needs to be done, in what order repairs should be performed, and by helping the player position the tools. Depending on the circuit, the player may need to cut out parts or replace parts (spare parts are located at the top of the screen). If the player use an incorrect replacement part, or perform the repairs in the wrong order, the player will lose time or even cause the bomb to explode. 
 
 On the more difficult skill levels, circuit parts may even overheat and cause a fire; luckily, the player also have a fire extinguisher with you to deal with this situation! When enough circuits have been repaired, the player can decipher the code, enter it into the computer, and the bomb will be disarmed (an incorrect guess will cause it to explode, however). The player may choose to have a one, two, or three digit code to guess and several difficulty levels are available.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -570,6 +573,7 @@ Blast your way through the mysterious force field.
 Take control and rack up a huge score!
 Wave after wave to blast through!
 Stay focused as endless layers descend upon you.</synopsis>
+      <genre>Breakout</genre>
     </locale>
     <developer>Mattel Electronics</developer>
     <publisher>Mattel Electronics</publisher>
@@ -581,6 +585,7 @@ Stay focused as endless layers descend upon you.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Bump 'n' Jump">
     <id>97440A</id>
@@ -621,7 +626,7 @@ To properly make a hamburger you must assemble all of the ingredients together, 
 Higher levels result in new level design, faster enemies and more ingredients to assemble.
 
 The PlayStation 2 version is a port of the original arcade game and comes with a soundtrack disc, a DVD, a guide book and some other bonuses.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -649,7 +654,7 @@ The PlayStation 2 version is a port of the original arcade game and comes with a
     <locale lang="EN">
       <title>Buzz Bombers</title>
       <synopsis>Buzz Bombers is an arcade action game similar to Centipede. You control a can of bug spray at the bottom of the screen, and you need to defend yourself from the swarms of incoming bees. The bees start at the top of the screen, and fly their way back and forth, slowly heading towards the bottom of the screen. If they reach the ground, they will pollinate the flowers there which causes them to grow and will restrict movement of your spray can. When you shoot a bee, it will turn into a honeycomb. The honeycombs will cause the bees to head towards the ground even faster, since they will turn around when one is in their way. Your spray can is able to shoot the honeycombs, but if you leave them in place a hummingbird will fly around and eat the honey from them. The more honey the hummingbird eats, the more points you get. The game ends when all of your spray cans are destroyed by growing flowers.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -677,7 +682,7 @@ The PlayStation 2 version is a port of the original arcade game and comes with a
     <locale lang="EN">
       <title>Carnival</title>
       <synopsis>You are at the carnival, and are going to take a chance at the shooting gallery! Your goal is to earn as many points as possible by shooting the various targets before you run out of bullets. In addition to the assorted targets that float by, there are boxes which can be shot to earn additional bullets. You also need to be careful of the ducks! From time to time, a duck will fly down and eat some of your bullets if you don't shoot it first. You move on to the next round of gameplay when the rack has been cleared of all the targets, and the game ends when you use up all of your bullets.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -728,7 +733,7 @@ The PlayStation 2 version is a port of the original arcade game and comes with a
 THE THRILL OF THE ARCADE GAME
 
 An insidious invasion of multiplying insects (centipedes, jumping spiders, poisonous scorpions, and frenzied fleas) pose different perils to the mushroom patch. You must repeatedly blast enraged creepers and stubborn obstacles or lose your enchanted fungus. Remember to listen for the distinctive sounds of the attacking bugs; and watch out for blasted centipede segments, for each one grows a new head!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -882,7 +887,7 @@ This mission is TOP SECRET. We have to send you in ALONE against wave after wave
 - Rescue prisoners of war!
 
 Stay cool and maybe, just maybe, you can beat the odds. And if you succeed, we have another mission for you, TOUGHER THAN BEFORE...</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -910,7 +915,7 @@ Stay cool and maybe, just maybe, you can beat the odds. And if you succeed, we h
     <locale lang="EN">
       <title>Congo Bongo</title>
       <synopsis>You're on a jungle safari packed full of wild and zany adventures. Climb the cliffs to the top of Monkey Mountain as you try to reach the jungle's most mischievous gorilla. Don't get clobbered by the coconuts he'll throw your way. Watch out for menacing monkeys. Beyond Monkey Mountain you'll come to Lazy Lake where you'll see raging rhinos and hollering hippos. Leap from lily pad to lily pad across the treacherous lake filled with ferocious man-eating fish and other jungle dangers, but be care... one slip and it's safari heaven!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -938,6 +943,7 @@ Stay cool and maybe, just maybe, you can beat the odds. And if you succeed, we h
     <locale lang="EN">
       <title>Crazy Clones</title>
       <synopsis>[Technical/training demo 1981]  you accidentally cloned so you need to catch up with all your clones. But this will interfere with a certain square object, in the collision with which appears the inscription GameOver!</synopsis>
+      <genre>Action</genre>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -947,12 +953,15 @@ Stay cool and maybe, just maybe, you can beat the odds. And if you succeed, we h
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Deep Pockets - Super Pro Pool And Billiards">
     <id>97453A</id>
     <locale lang="EN">
       <title>Deep Pockets: Super Pro Pool &amp; Billiards</title>
       <synopsis>You can learn many pocket billiard (pool) and carom billiard games in the privacy and comfort of your own home - and brush up on rules and strategy before venturing out </synopsis>
+      <genre>Sports,Pool</genre>
     </locale>
     <developer>Realtime Associates</developer>
     <publisher>Realtime Associates</publisher>
@@ -971,7 +980,7 @@ Stay cool and maybe, just maybe, you can beat the odds. And if you succeed, we h
     <locale lang="EN">
       <title>Defender</title>
       <synopsis>Landers, Bombers, Baiters, Pods, and Swarmers. The alien attack has come, and defeat at the hands of crazed invaders threatens the humanoids. Their only hope is the spaceship, Defender. Armed with smart bombs and able to shift into hyperspace, Defender evens the score only to become the object of another foul attack: kidnapped humanoids transformed into killer mutants!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1001,7 +1010,7 @@ Stay cool and maybe, just maybe, you can beat the odds. And if you succeed, we h
       <synopsis>Eerie creatures launch an assault against Moon Station Tranquillity. Use your Laser Cannon to blast them - or they'll devastate Earth! Waves of demons circle the lunar surface, bombarding Earth's last outpost. Resist their dive bombing blitz. Fire into their ranks and shatter their raid.
 
 Then go on the offensive! Take off from the surface of the moon and combat the demon base. Eliminate the flickering shield. Repel the suicide patrollers that come hurtling your way. Place one shot directly through the revolving window and into the fiery core. The demon base will disintegrate. But the battle goes on!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1035,7 +1044,7 @@ Then go on the offensive! Take off from the surface of the moon and combat the d
 - Watch out! Pooka and Fygar can turn into ghosts and travel through solid rock to escape or attack!
 - Pick up fruits and vegetables as they appear for bonus points!
 - Clear the tunnels and move on to the next level - for faster and more exciting action than before!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1069,7 +1078,7 @@ The game is for 1 or 2 players (but in this case they have to choose two differe
 When a plate is full, Side Orders appear in the diner: if Peter picks them up, he earns 250 points and 1 pepper. When he fills 4 plates (finish four game screens), he enters the Blue Plate Special bonus round: Food Balls start raining across the screen and Peter can eat all them, but the flashing ones, for extra points.
 
 With them he can squish the Rotten Food too, earning extra points. He can shake pepper to stop them momentarily or simply run away. If a Rotten Food touch him, he loses a turn. Peter can obtain a new turn every 20.000 points. If he run out of turns the game ends.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1099,7 +1108,7 @@ With them he can squish the Rotten Food too, earning extra points. He can shake 
       <synopsis>In Donkey Kong, Mario must rescue a damsel in distress, Lady, from a giant ape named Donkey Kong. The hero and ape later became two of Nintendo's most popular characters.
 
 The game is divided into four different one-screen stages. Each represents 25 meters of the structure Donkey Kong has climbed, one stage being 25 meters higher than the previous. The final screen occurs at 100 m.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1174,7 +1183,7 @@ The game is divided into four different one-screen stages. Each represents 25 me
     <locale lang="EN">
       <title>Dracula</title>
       <synopsis>As the sun sets, Dracula rises, hungry for the blood of fresh victims.  As Dracula, the goal of this game is to stalk the streets at night, feeding on people walking the streets, or by luring them out of their homes.  As Dracula bites his victims, his actions will call the attention of the local constable who will try to slow him down by driving a stake into him.  Dracula can respond by either turning one of his victims into zombies to attack the police, or by transforming into a bat to escape capture.  Even the forces of nature are against the vampire, as wolves will attack him on foot, and hawks will drag away his bat form.  Dracula must feed on a certain number of victims and return to his tomb before sunrise, or he will not survive to feed another night.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1203,7 +1212,7 @@ The game is divided into four different one-screen stages. Each represents 25 me
     <locale lang="EN">
       <title>Dragonfire</title>
       <synopsis>The king's treasures have been stolen! As the daring young prince, your goal is to recover them all. The treasures are being kept in various castles, each one guarded by a fire breathing dragon. Each level in the game has two parts; first you will need to cross the castle's drawbridge. You will have to jump and duck the dragons fireballs as well as avoid flying arrows to reach the other side! In the second part you need to collect all of the treasures on the screen and make it to the exit while avoiding the dragon who runs across the bottom of the screen. The dragons on each level have different patterns of movement and firing, and as the levels progress will become faster and trickier.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1231,6 +1240,7 @@ The game is divided into four different one-screen stages. Each represents 25 me
     <locale lang="EN">
       <title>Easter Eggs</title>
       <synopsis>The Design &amp; Development department created a "Happy Holidays" cartridge to demonstrate pagable roms.  Demo screens and some simple animations created.</synopsis>
+      <genre>Arcade</genre>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1240,6 +1250,8 @@ The game is divided into four different one-screen stages. Each represents 25 me
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1981"/>
+    <publisher/>
   </game>
   <game name="Electric Company - Math Fun">
     <id>97464A</id>
@@ -1323,7 +1335,7 @@ Crosswords, letter hunt and Word Rockets.</synopsis>
     <locale lang="EN">
       <title>Fathom</title>
       <synopsis>Neptina, Neptune's daughter, has been imprisoned at the bottom of the sea by Titans. Your goal is to rescue her by locating the scattered pieces of a magical trident! You will need to take the form of a dolphin and a bird in order to locate the pieces that are hidden in the ocean and clouds. When flying in the air, there are several screens that have clouds flying by. Touch all of the clouds, and the trident piece appears! Other birds which are flying around will cause you to lose energy if you touch them accidentally. Underwater, trident pieces can be found by touching the sea horses. Octopuses, sharks, and a deadly maze of seaweed will get in your way and cause you to lose energy if caught! When you have located all of the trident pieces, the cage holding Neptina can be unlocked, but if you run out of energy first the game will be over.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1351,7 +1363,7 @@ Crosswords, letter hunt and Word Rockets.</synopsis>
     <locale lang="EN">
       <title>Frog Bog</title>
       <synopsis>You control one of two frogs sitting on a lily pad in a bog. The object of the game is to eat as many flies as you can in the three minute time limit. Your frog can jump back and forth between the two lily pads in order to catch the flies that go by overhead. When jumping, be careful not to fall in the water or your frog will have to swim back to the lily pad which can waste time. The game can be played during the day, or at night making it more difficult to see the flies. At the end of the time limit, whichever player has eaten more flies wins! One player can compete against a computer controlled frog, or two players against each other.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1381,7 +1393,7 @@ Crosswords, letter hunt and Word Rockets.</synopsis>
       <synopsis>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.
 
 The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away form their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1601,6 +1613,7 @@ The game was part of a unreleased cartridge called "Happy Holidays" that contain
       <synopsis>Place your workman on the floor where the center moving scaffold is. Run to the scaffold and your workman will jump from the building to the scaffold. Pick up a pane of glass and move it into place. Complete your building before your opponent does. If your opponent is getting ahead of you, do not fret; run over to his building and knock off his panes!
 
 Programmers at Mattel Electronics came up with a series of casual games meant to be played at parties. The "Party Line" cartridge was shown at the 1984 CES but never produced.</synopsis>
+      <genre>Action,Platform,</genre>
     </locale>
     <developer>Mattel Electronics</developer>
     <publisher>Mattel Electronics</publisher>
@@ -1649,7 +1662,7 @@ When the race begins, the horses are speedier at the beginning, slower toward th
       <title>Hover Force</title>
       <synopsis>Terrorist forces have taken over the island city of New Seeburg. They are equipped with heavily armed combat helicopters, so the only way to fight'em is in the air. The player drives the top secret JAF-3000 helicopter, and must blow up enemies with the laser cannons and put out fires with the water cannons. There is a radar screen too, that shows all the damages made by the terrorists, the fires extinguished and the enemies shut down.
 The terrorists hits can damage the engine, the navigation system, the cannons and the radar. The player can return to home base (Force Island) for repairs and refuelling, but only two times per mission (the 3rd time after eliminating all the fiends). The game, for 1 player, ends if the copter crashes.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1698,13 +1711,14 @@ The terrorists hits can damage the engine, the navigation system, the cannons an
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1983"/>
   </game>
   <game name="Ice Trek">
     <id>97486A</id>
     <locale lang="EN">
       <title>Ice Trek</title>
       <synopsis>In order to stop another Ice Age from occurring, Vail the Avenger must make a trek across the frozen lands in order to reach the Ice Palace of Kalktron the Terrible and put a stop to his evil plans to freeze the land. He will have to ski through a herd of Caribou, cross the frozen river, and then take on the many dangers of the Ice Palace in order to stop Kalktron. Can he stop another Ice Age?</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Para evitar que ocurra otra era del hielo, Vail, el vengador, debe realizar un viaje a traves de las tierras congeladas para llegar al palacio de hielo de Kaltron el Terrible y poner fin a sus maleficos planes de congelar la tierra. Debera es eskiar a travees de Caribou, cruzar el rio congelado y luego hacer frente a los muchos peigros del palacio de hielo para detener a Kaltron. Podra Vail detener una nueva era del hielo?</synopsis>
@@ -1791,6 +1805,8 @@ Also contains Baseball.</synopsis>
     <id>97493A</id>
     <locale lang="EN">
       <title>Intellivision: Intelligent Television Demo #5859</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <developer>Mattel Electronics</developer>
     <publisher>Mattel Electronics</publisher>
@@ -1802,11 +1818,14 @@ Also contains Baseball.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Intellivision - Intelligent Television Demo #5932">
     <id>97494A</id>
     <locale lang="EN">
       <title>Intellivision: Intelligent Television Demo #5932</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <developer>Mattel Electronics</developer>
     <publisher>Mattel Electronics</publisher>
@@ -1818,6 +1837,7 @@ Also contains Baseball.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Intellivoice Bios">
     <id>97495A</id>
@@ -1902,7 +1922,7 @@ Also contains Baseball.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
-    <date year="" month="" day=""/>
+    <date year="1982" month="" day=""/>
   </game>
   <game name="Kool-aid Man">
     <id>97498A</id>
@@ -1915,7 +1935,7 @@ The children initially move together through the house, but if one of the childr
 Once all ingredients for Kool-Aid (sugar, Kool-Aid, and a pitcher) are placed near the kitchen sink, Kool-Aid Man appears and is now controlled by the player! Use Kool-Aid Man to collect roaming fruit and to destroy the Thirsties. Once the Thirsties have been defeated, the round is over, and the game starts over with a higher difficulty level (unless "kiddy mode" was selected at game start-up.)
 
 Kool-Aid Man is for 1 player, and offers 13 difficulty settings, including a children's mode which never increases in difficulty during gameplay.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1947,7 +1967,7 @@ Kool-Aid Man is for 1 player, and offers 13 difficulty settings, including a chi
 In addition to the collection of X's, each maze also contains a variety of powerups that come in three types: Poison, Letters and Hearts. Poison is deadly both to the player and the enemy. If the player is able to lure and enemy creature into a poison powerup, it will die and be removed from gameplay. Letters and hearts are powerups with multiple conditions: Collected at the right time they will add letters that will eventually spell words providing bonuses. However collected during the the improper time will only earn the player a few points. For most of the gameplay the colour of all powerups (except skulls which are unaffected) will be blue. But every few seconds it will cycle through yellow and then red colours. Grabbing a letter when flashing the colour will add it to that colour's word. The red word is "SPECIAL" and the yellow word is "EXTRA". Spelling the word, EXTRA gains the player an extra life, and spelling the word, SPECIAL brings the player to a special bonus round.
 
 Hearts are best used as blue powerups as they will act as multipliers for the X's being picked up, first as 2x, then as 3x and finally as 5x. Multipliers are lost when the player dies, but letter powerups are not.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2130,7 +2150,7 @@ You are a gorilla sitting at an adding machine. A number appears above you. This
     <locale lang="EN">
       <title>Lock 'n' Chase</title>
       <synopsis>Lock 'n' Chase is an arcade action game similar to Pac-Man. You play a thief who is trapped in a maze like vault. To get out, you need to collect all of the gold dots located in the maze. Your task won't be easy, since there are four police officers in the vault who are constantly trying to catch you! Located throughout the maze are numerous doors. As you run through the maze, you have the ability to temporarily close a door in an attempt to block the police. You can only close two doors at a time, and any closed doors automatically open again after a short amount of time. When all of the gold in the maze has been collected, the exit to the vault will open and you can escape and move on to the next, more difficult vault. Occasionally a bonus item will appear in the maze, such as a cash bag, crown, or briefcase, which can be collected to earn even more points.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2162,7 +2182,7 @@ You are a gorilla sitting at an adding machine. A number appears above you. This
 A bonus timer ticks down during gameplay, showing how many points will be received if the train arrives at a station in a timely fashion. If the timer reaches zero, "Crazy Trains" and "Loop Sweepers" will appear and race down the track in an attempt to crash into your train. Other obstacles include "Crazy Tracks" which can send your train in another direction, and exploding stations (occurring occasionally if the bonus timer reaches zero.)
 
 Loco-Motion has 4 play speeds, and offers play for 1 player or 2 players alternating turns.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Strategy</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2237,7 +2257,7 @@ Loco-Motion has 4 play speeds, and offers play for 1 player or 2 players alterna
     <locale lang="EN">
       <title>Masters of the Universe: The Power of He-Man</title>
       <synopsis>In Masters of the Universe, you control He-Man as he battles Skeletor in two different types of arcade action scenes. In the first part of the game, you control the Wind Raider flying towards Castle Grayskull. You have a limited amount of fuel with which to reach your destination, plus numerous fireballs will be flying around the screen trying to stop you and Skeletor will be running along the ground. The Wind Raider is equipped with bombs and guns which can be used to defend yourself from the fireballs, and also can earn bonus points if you can hit Skeletor. The second part of the game takes place on foot. When you've landed near the castle, He-Man needs to pursue Skeletor. Skeletor will be firing numerous lightning bolts which can be blocked with a shield. There is a time limit here, and you must get past all of the screens and catch Skeletor before time runs out. If you are successful, the game will repeat at a tougher skill level.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2322,7 +2342,7 @@ Loco-Motion has 4 play speeds, and offers play for 1 player or 2 players alterna
     <locale lang="EN">
       <title>Microsurgeon</title>
       <synopsis>You're a microsurgeon, and your patient is in critical condition! First you need to examine the patient's medical chart to find out what's wrong, and which conditions are the most critical. Now to save the patient, you control a robot probe which can be used to administer aspirin, antiseptic, or ultrasonics to clear up the problem. You should clear up the most critical conditions first, then move on to the less serious areas to ensure your patient survives. Your probe should navigate through the veins, arteries, and lymph; if you guide the probe outside these areas, it's movement will slow down and swarms of white blood cells will attack it, depleting the limited energy supply. There are 197 different patients you need to help, each with different ailments.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Simulation</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2350,7 +2370,7 @@ Loco-Motion has 4 play speeds, and offers play for 1 player or 2 players alterna
     <locale lang="EN">
       <title>Mind Strike</title>
       <synopsis>What a romp! A mind-jolter that can be played slow, using alternating turns, or fast, with both players simultaneously hooked to the ultimate goal of conquering each other's CASTLE! Playing it slow, it's called MIND STRIKE, and requires quite a bit of strategic thinking. Playing it fast it's called SPEED STRIKE, and it's a dazzler that blends action with strategy! Choose up to 50 playing boards or design your own. Program the computer opponent's skill level (to your or his advantage). Engage in tantalizing confrontations. Combine your pieces for greater strength or split them apart to move farther. Make it as wild or as absorbing as your mind allows it to be!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2403,11 +2423,9 @@ Loco-Motion has 4 play speeds, and offers play for 1 player or 2 players alterna
   </game>
   <game name="Minotaur">
     <id>97518A</id>
-    <locale lang="EN">
-      <title>Minotaur</title>
-      <synopsis>A mix between a maze game and an RPG, the game featured innovations in the genre that had never been attempted before on </synopsis>
+    <locale lang="EN"><title>Minotaur</title><synopsis>A mix between a maze game and an RPG, the game featured innovations in the genre that had never been attempted before on </synopsis>
 Role-Playing
-    </locale>
+    <genre>Puzzle,Strategy,Arcade,Platform,</genre></locale>
     <developer>APh Technological Consulting</developer>
     <publisher>Mattel Electronics</publisher>
     <date year="1981" month="" day=""/>
@@ -2425,7 +2443,7 @@ Role-Playing
     <locale lang="EN">
       <title>Mission-X</title>
       <synopsis>Mission X is a vertically scrolling shooter played from a top down point of view.You are pilot of a World War II plane on a mission to destroy as many enemy targets as possible. Your missions will be flown over land and sea, and can take place during the day or at night. Try to earn as many points as you can by dropping bombs on the land targets which include bridges, tanks, trains, boats, and more. The enemy will be trying their best to stop you, and will send out large numbers of tanks, anti-aircraft missiles, and planes to try to destroy you!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2528,7 +2546,7 @@ Role-Playing
     <locale lang="EN">
       <title>Mouse Trap</title>
       <synopsis>Mouse Trap is an arcade action game similar to Pac-Man. You control a mouse in a maze; your goal is to eat all of the bits of cheese in order to score points and move on to the next maze. Wandering throughout the maze are several cats who are trying to catch you! Your mouse has the ability to temporarily turn into a dog and be able to chase the cats. To do so, however, he will need to eat the dog bones which are located throughout the maze. The maze also contains numerous doors. The mouse can move these doors to reconfigure the maze in an attempt to outsmart the cats.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2702,7 +2720,7 @@ The title screen says only "Basketball," but the box and game cartridge have the
     <locale lang="EN">
       <title>Night Stalker</title>
       <synopsis>Robots, bats, and spiders chase you around a maze in Night Stalker, which boasts similar gameplay, if some what slower, to the arcade smash Berzerk. Players must pick up a gun that is randomly placed in the maze. The gun provides the player with a certain number of shots. Once depleted, the gun is again placed in a random part of the maze.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2734,7 +2752,7 @@ The title screen says only "Basketball," but the box and game cartridge have the
 Players control a ship that can fire lasers horizontally and drop bomb vertically. The ship is also equipped with an energy beam that can absorb energy from energy tanks, and can also use that energy to create temporary shields around unprotected cities. The ship can also sustain up to 10 blows in each round. If all 4 cities are destroyed or the ship takes 10 hits in a round, the game ends.
 
 Nova Blast is a single player game with 3 difficulty levels.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2801,7 +2819,7 @@ Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bash
 Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
 
 Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2919,7 +2937,7 @@ Options allow you to select 1 of 10 conditions of alley slickness and the weight
     <locale lang="EN">
       <title>Pitfall!</title>
       <synopsis>Pitfall! is a platform action game. You play Pitfall Harry who is on a quest to locate treasure deep in the jungle. With a little luck you'll be able to find money bags, silver bars, gold bars, and diamond rings. But many obstacles will get in the way, some of which merely deduct points from your score, while others are fatal. Rolling logs and falling down a hole will deduct points, and scorpions, alligators, snakes, bottomless pits, swamps, and fires will cause Pitfall Harry to lose a life. You have 20 minutes to try to collect all of the treasures on the numerous screens, if you can live that long!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2998,7 +3016,7 @@ Positions
     <locale lang="EN">
       <title>Pong</title>
       <synopsis>Pong is a Homebrew game created by Joseph Zbiciak in 1999.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3026,7 +3044,7 @@ Positions
     <locale lang="EN">
       <title>Popeye</title>
       <synopsis>Popeye is a conversion of the arcade action/platform game. As Popeye, you are trying to win Olive Oyl's love! She is at the top of the screen dropping tokens of her love, and you need to collect them before they hit the ground. After you have collected the required number of items, you can move on to the next, more difficult level. There are many obstacles trying to stop you from completing your task, though! Brutus wanders around the screen and is constantly trying to catch you. If you collect a can of spinach, you can temporarily knock him out, otherwise Brutus will knock you out. Other objects such as bottles or birds are also flying around the screen and will cause you to lose one of your lives if you are hit. Each level features a different layout of platforms and ladders, and will have you collecting different items as they float towards the bottom of the screen!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3073,7 +3091,7 @@ Positions
     <locale lang="EN">
       <title>Q*bert</title>
       <synopsis>Q*bert is a conversion of the popular arcade game. The goal is to change all of the tiles on a pyramid to the target color. To do this you guide Q*bert around the pyramid, and every tile he hops on will change color. On early levels, a single hop will change the tile to the desired color, but on later levels you may need to hop on a tile multiple times or even avoid hopping on a tile multiple times! Trying to stop Q*bert are many different creatures which wander around the board, including Coily the snake, Slick and Sam, and falling balls. On the edge of the board are floating discs; if Q*bert jumps on one of these discs when the snake is in pursuit, the snake will fall off  the board while Q*bert is safely transported to the top.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3131,7 +3149,7 @@ Positions
       <synopsis>River Raid is a vertically scrolling action game. You fly a jet up a river in an attempt to destroy bridges which are vital to the enemy. The river is heavily guarded, however, with balloons, ships, choppers, and enemy aircraft trying to stop you. Along the way you will need to fly over fuel stations to refuel your jet and keep flying.
 
 The plane is armed with a cannon with unlimited ammo. It can be used to destroy the enemy vehicles and bridges, but a careless player can accidentally destroy a fuel station. Colliding with the riverbanks or with the enemy aircraft destroys your plane and makes you lose a life.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3233,7 +3251,7 @@ Steve Montero developed this game at Activision after programming the robot-them
 While cruising around the city, you should avoid crashing into curbs or other cars. You can shoot the cars if you like, but this will bring the Secret Police and their bullets. You should make your way to one of the embassies, where you can learn the combination needed to open the treasury vault. This is also where you can find most of the secretive items. After picking the combination locks of four embassies, you will have both secret numbers needed to open the treasury safe, which contains the gold.
 
 The most profitable way to crack a safe is to pick its combination numbers by finding the right number sequences. This involves cycling through various numbers (0 through 99) on your keypad. Pick numbers until there are no more to find. If you find yourself running out of time, you can simply blow up the safe with dynamite. However, you will not score any points, and the Secret Police will respond to an alarm that will automatically be set off.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3262,7 +3280,7 @@ The most profitable way to crack a safe is to pick its combination numbers by fi
       <title>Scooby Doo's Maze Chase</title>
       <synopsis>Scooby-Dooby-Doo!
 The ever-popular television cartoon dog had his first video game conversion in this maze game similar to  Pac-Man.  You control Scooby as he chases ghosts through a maze while himself being chased by the skull &amp; crossbones.  If three ghosts are caught within a time-limit, the skull will disappear and a submarine sandwich appears. When eaten, it gives you a magic bone which when dropped in the path of the skull will momentarily freeze it in place.  When Scooby is caught by the skull, the difficulty will go down.  There's 10 mazes in all, but with the keyboard addon for Intellivision you can also make your own mazes.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3369,7 +3387,7 @@ Each time he enters a new sewer, Sam receives a fresh supply of oxygen.
 On it's way through the sewer system Sam is under attack by nasties like rats, bats, spiders and more.
 The ultimate nasties are the Russian submarines. They are located only in water canals. The status bar at the top of the screen contains a distance indicator. It tells you how far Sam has traveled into the sewer. If it's red, it means there's a dreaded submarine at the end of the sewer.
 The more nasty elements you shoot, the higher you'll score.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3397,7 +3415,7 @@ The more nasty elements you shoot, the higher you'll score.</synopsis>
     <locale lang="EN">
       <title>Shark! Shark!</title>
       <synopsis>In Shark! Shark! you control a fish! Your goal is to earn as many points as possible while staying alive. Swimming in the ocean with you are other fish of various sizes, lobsters, crabs, jellyfish, and a very fast shark. You are able to eat any fish that is smaller in size than you are, and any fish that is larger will eat you! The shark can also be killed if you nibble at its tail several times, but careful for the shark can turn quickly. Each time you eat a fish or nibble on the sharks tail, points are earned. Each time you score 1000 points, your fish will grow larger in size allowing you to eat even more of the fish on the screen. Several different game speeds are included, and one or two players can play.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3530,7 +3548,7 @@ The game has been criticized for essentially being little more than the original
       <synopsis>Snafu is an arcade action game similar to the Atari game Surround. You control a constantly moving and growing wall; the goal is to trap all of your opponents before you become trapped yourself. If you crash into the borders of the screen, into another players wall, or your own wall, you are out for that round. The last player left standing wins the round! Several game options are available which allow or forbid diagonal movement, set obstacles in the playfield, allow a players wall to disappear or remain on the screen after they crash, control the speed of movement, and select the number of rounds to play. The game can be played by one or two human players, and optionally two additional computer players can be added for up to four players on the screen at a time.
 
 Also included is a two player only game where you control a serpent containing 10 links, and your goal is to bite the links off of your opponent one at a time. Only the very last link of the serpent can be bitten off, so you need to be sure you keep your tail away from your opponent! The screen walls and the players links are non lethal if you crash into them in this variation, however if you double back accross your own path you will lose a link. The first player to bite off all of his opponents links wins.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3558,7 +3576,7 @@ Also included is a two player only game where you control a serpent containing 1
     <locale lang="EN">
       <title>Space Armada</title>
       <synopsis>Space Armada is a clone of the game Space Invaders. Rows of bomb dropping aliens are invading your home planet, and you need to protect it! You control a laser gun at the bottom of the screen; your goal is to earn as many points as possible by destroying the waves of attacking aliens at the top of the screen. The aliens march steadily downward, and if they reach the ground or you run out of laser guns, the game is over. When all aliens in a wave are destroyed, you move on to the next, more challenging round. From time to time, a flying saucer will pass by at the top of the screen which can be shot for bonus points.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3590,7 +3608,7 @@ Also included is a two player only game where you control a serpent containing 1
 Six alien fleets of different sizes are attacking your mothership, and it's up to you to defend it using your three squadrons.  Alien ships will dodge your attacks and will attack you with photon blasts.
 
 There are two game modes; Radar Mode, which is more strategy, and Battle Mode, which is all out action.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3618,7 +3636,7 @@ There are two game modes; Radar Mode, which is more strategy, and Battle Mode, w
     <locale lang="EN">
       <title>Space Cadet</title>
       <synopsis>Three new games in one bring new dimensions to home entertainment. Designed for two teams or two players, choose from games featuring rollerskaters, construction workers, or flying saucers. </synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3646,7 +3664,7 @@ There are two game modes; Radar Mode, which is more strategy, and Battle Mode, w
     <locale lang="EN">
       <title>Space Hawk</title>
       <synopsis>Space Hawk is an arcade action game feature gameplay similar to Asteroids. You are an astronaut stuck in deep space. You are equipped with a jet pack to help move around, and a laser gun to destroy enemies. Your main enemy is a white space hawk which wanders around the screen, leaving a trail of deadly bubbles behind him. Try to score as many points as you can be destroying both the space hawk and the bubbles, both of which are constantly trying to get you. In case of emergencies,  you have the ability to enter hyperspace which will temporarily bring you away from danger. Hyperspace ability is limited, however, so be sure to conserve if you can!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3774,7 +3792,7 @@ As player, you control every member of your team. Aim your serves; pass the ball
     <locale lang="EN">
       <title>Stampede</title>
       <synopsis>It's a stampede!! Your job is to round up as many of the calves as you can. The screen scrolls to the right as you chase the calves; if more than three calves get past you, the game is over. The calves all run at different speeds, and when you rope one you earn points based on how fast it was running. As the game progresses, more and more calves will be on the screen at one time, and other obstacles will begin appearing to trip your horse and slow you down.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3802,7 +3820,7 @@ As player, you control every member of your team. Aim your serves; pass the ball
     <locale lang="EN">
       <title>Star Strike</title>
       <synopsis>Star Strike was clearly inspired by the Death Star battle sequence in the movie Star Wars. You fly a space craft into the enemy launch trench. Your mission: to destroy the alien station before Earth passes directly over the launch trench. You must evade the alien ships that are defending the launch trench while being sure to bomb the red "Hot Targets". The very first red target that is missed when the Earth is directly in the middle of the launch trench becomes a missile. The missile is launched and destroys Earth.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3830,7 +3848,7 @@ As player, you control every member of your team. Aim your serves; pass the ball
     <locale lang="EN">
       <title>Star Wars: The Empire Strikes Back</title>
       <synopsis>Star Wars: The Empire Strikes Back recreates a scene from the movie of the same name. You are on the icy planet of Hoth, and Imperial Walkers are closing in on the rebel power generator. As the pilot of a snowspeeder, you need to take out as many of the walkers as you can. The walkers are heavily armoured, and it will take a lot of fire power to destroy one! The game is played on a large, scrolling screen with a radar screen at the bottom to help keep track of where the enemy is located. If a walker reaches the power generator, or you run out of snowspeeders the game is over. Good luck, and may the force be with you!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3896,7 +3914,8 @@ As player, you control every member of your team. Aim your serves; pass the ball
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
-    <date year="" month="" day=""/>
+    <date year="1981" month="" day=""/>
+    <publisher>Mattel</publisher>
   </game>
   <game name="Sub Hunt">
     <id>97606A</id>
@@ -3931,7 +3950,7 @@ As player, you control every member of your team. Aim your serves; pass the ball
     <locale lang="EN">
       <title>Super Cobra</title>
       <synopsis>Super Cobra is a side scrolling shooter based on the arcade game. You're a chopper pilot on a surveillance mission in enemy territory; your goal is to make it through the various obstacle courses alive and score as many points as possible. Tall buildings, mountains, narrow tunnels, and various enemies (such as tanks, rockets, mines, and more) can all get in the way and destroy your chopper if you aren't careful. To help defend yourself, the chopper is armed with a machine gun and bombs which can be used to destroy the enemy tanks and rockets. To make the task more difficult, your chopper has a limited amount of fuel. Throughout the landscapes are fuel tanks; if one of these is shot or bombed, you will be awarded extra fuel. As the levels progress, the enemies become more aggressive, fuel becomes more scarce, and the landscape becomes trickier to navigate.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3980,7 +3999,7 @@ As player, you control every member of your team. Aim your serves; pass the ball
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
-    <date year="" month="" day=""/>
+    <date year="1982" month="" day=""/>
   </game>
   <game name="Super Nasl Soccer">
     <id>97609A</id>
@@ -4086,7 +4105,7 @@ The game is seen from a top-down view and scrolls left-to-right to move with the
       <synopsis>A one or two player "Dungeons &amp; Dragons"-style dungeon crawl.  In a one-player game, the player controls the Warrior Prince on his quest to collect treasures, learn the secrets of the Fortress of the Sinister Serpent, and locate the Serpent's lair. In a two-player game, the right player controls the Warrior Prince, while the left player controls Nilrem the Wizard.
 
 As you explore the labyrinthine fortress you can collect treasures, magic scrolls, and healing items while battling Phantom Knights and Red Sorcerers.  But be careful -- if your adversaries catch you, you can lose half a life, and may need to be "reincarnated."  Each player has only 9 Reincarnations, and when those are gone, it's "Game Over."</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4137,7 +4156,8 @@ As you explore the labyrinthine fortress you can collect treasures, magic scroll
     </input>
     <date year="1998" month="" day=""/>
   </game>
-  <game name="Tennis">
+
+    <game name="Tennis">
     <id>97614A</id>
     <locale lang="EN">
       <title>Tennis</title>
@@ -4198,7 +4218,7 @@ As you explore the labyrinthine fortress you can collect treasures, magic scroll
     <locale lang="EN">
       <title>The Dreadnaught Factor</title>
       <synopsis>The Zorban Dreadnaughts are spaceships that are 140,000 feet long and weigh 970 megatons, making them the largest, most heavily armoured spaceships ever created. A fleet of these large battlecraft are now heading towards your home planet, and it is your job to stop them! The game is played from a side scrolling overhead point of view as your small but agile spaceship flies past the dreadnaughts. On each pass your spaceship makes, you need to try and bomb as many of the energy vents as possible. When all energy vents on a dreadnaught are destroyed, that dreadnaught will explode. Time is limited, though, and if you make too many passes to destroy the energy vents the dreadnaught will be within firing range of your home planet and will destroy it. Each of the dreadnaughts are heavily armed; guns, canons, missiles, and other weapons are located on each dreadnaught and will be trying their best to end your mission. Multiple skill levels are included which alter the number of dreadnaughts you must destroy, as well as their speed and firing capabilities.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4257,7 +4277,7 @@ As you explore the labyrinthine fortress you can collect treasures, magic scroll
       <synopsis>Oh, no! Duncan is on the loose! Duncan is a penguin who loves to skate on thin ice, much to the dismay of the other penguins. As Duncan skates he weakens the ice; if he skates completely around another penguin -- KER-PLASH! -- the ice collapses and the penguin falls into the pond. Duncan has only two worries -- the seal who loves to bounce him on her nose, and the lumbering polar bears who like to bat him around.
 
 You control Duncan by pressing the hand controller DISC.  Skate around the other penguins, dunking them in the pond. Avoid or dunk the seal and polar bears. Gobble shrimp cocktails for extra speed. Dunk all of the penguins, then take the Zamboni ice resurfacer out for a spin to fix up the pond -- more penguins show up and the game continues at the next level, harder than before!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4323,7 +4343,7 @@ Along the way, the items that the Knight will find may be of some help (or hinde
       <synopsis>Reaching high towards the heavens, the Tower of Doom stands, beckoning brave adventures to confront the bizarre creatures and brave the deadly traps it contains in hopes of collecting the bountiful treasures and magical items found within its corridors.
 
 Tower of Doom is a single-player, Dungeons &amp; Dragons-inspired adventure title created exclusively for the Intellivision. Choose from 10 different character classes, each with its own strengths. 7 different quests are available for play, with the harder quests featuring randomized maps and magic item effects. After choosing the quest to embark on, players will then control their character using a top-down view of the section of the dungeon they are in, the corridors and rooms being drawn on-screen as they explore them. Also to the player's disposal is a display of the character's inventory which can be utilized at any time, and an on-screen map of the entire dungeon. Encountering a creature will initiate a battle screen at which time players can fight the creature or attempt to bribe it with items they have discovered. Magic items and traps can also be found in the dungeon, each having unique effects on the player.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle,Adventure</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4419,7 +4439,7 @@ Each game is specifically designed for two-players, resulting in a unique party 
 Enemies will come at you three at a time, and will throw discs at you.  You must keep moving to avoid them while also firing discs right back at them.  There are different doors you can enter that will teleport you to another part of the room, giving you a chance to catch the enemies off guard.
 
 There are two skill levels, and the higher your score, the harder the game becomes.  Do good, and your enemies will move faster, become more accurate, and the discs will go much faster.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4447,7 +4467,7 @@ There are two skill levels, and the higher your score, the harder the game becom
     <locale lang="EN">
       <title>TRON: Deadly Discs: Deadly Dogs</title>
       <synopsis>The game is a cross between Burgertime and Tron: Deadly Discs. In this version you control the hot dog from Burgertime in the Tron arena.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <developer>Mattel Electronics</developer>
     <publisher>Intv Corp</publisher>
@@ -4472,7 +4492,7 @@ The ultimate goal of Maze-A-Tron is to disable the MCP. Maze-A-Tron is played in
 When you proceed to the Master Control Program, the MCP works to fix the RAM you cleared. Your goal here is to fire a Bit-Gun at pairs of BIT streams and BIT stacks before they hit the top of the screen.
 
 These two phases repeat with a higher difficulty each time.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4506,7 +4526,7 @@ Tron: Solar Sailer is a 1-player game with 2 stages of gameplay. In stage one, t
 If the player makes it to Track 0, stage two begins. The player is placed in the heart of the MCP as it attempts to make continuous data transmissions to keep the player from entering the override code, thereby overloading the MCP and allowing Flynn to escape the computer program. 0s and 1s fly at the player in a first-person view. An in-game voice gives the player the override code in binary, and the player uses a cursor to catch the appropriate bits. Using the number pad, the player can then specify where in the code sequence the captured bit should go. Red bits, when colliding with the cursor, automatically fill in a randomly selected part of the sequence. This area is timed, so the code must be entered as quickly as possible!
 
 Once the correct sequence has been entered, the MCP overloads and the game is over. However, the game gives the option of going into &amp;quot;Overtime Mode&amp;quot; for extra points, at which point the player attempts to block all incoming transmissions or lose the game.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4534,7 +4554,7 @@ Once the correct sequence has been entered, the MCP overloads and the game is ov
     <locale lang="EN">
       <title>Tropical Trouble</title>
       <synopsis>Clumsy Clarence is vacationing on a tropical island with his girlfriend Doris. Unfortunately, their vacation is interrupted when Doris is kidnapped by the bully Beach Bruiser. Now Clarence needs to rescue Doris by chasing the Beach Bruiser all over the island! The Beach Bruiser will be carrying Doris to the right and the screen scrolls to follow. You need guide Clarence and catch up to Doris. There are many obstacles on the screen which temporarily slow down your progress. Coconuts, ferns, clams, sand snakes, and lava will all appear in your way. If you get slowed down too much and hit the left side of the screen, you lose one of your lives. From time to time, Doris will drop a handkerchief; collect this and you become temporarily invincible! If you catch Doris, you then move on to the next section of the island; when each section of the island has been completed you then need to battle the Beach Bruiser on a bridge. If you're successful, the game will then repeat at a more difficult skill level.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4620,7 +4640,7 @@ The screen is split in to halves, and a rear-mirror is featured. Players need to
     <locale lang="EN">
       <title>Tutankham</title>
       <synopsis>Tutankham is an arcade action game played from a top down point of view. You are an explorer in King Tut's tomb on a mission to retrieve as many of the valuable treasures as you can find. In addition to the treasures, you will also find a key in each of the chambers. This is needed in order to unlock the entrance to the next, more difficult chamber. Be careful, for the tomb is guarded by many dangerous creatures! Cobras, bats, scorpions, and more all appear in the maze and will cause you to lose a life if you're caught! To defend yourself you are armed with a laser gun which you can fire left or right, but not up or down. In each of the mazes you are also give one "flash" which can be used to destroy all creatures currently on the screen.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4741,7 +4761,7 @@ The game is played in real time. Each player moves a box shaped cursor around th
       <title>Vectron</title>
       <synopsis>The object of Vectron is to construct an energy base, section 
 by section. You add each section by moving your energy block in place and filling it with an energy blast. You must protect your energy block against Hungrees, G-spheres, splits, sweeps, and prizums who can destroy it. Shoot them down with energy blasts or neutralize them with special energy from an E-Pak. Don't run out of energy or you lose an energy block. There are three energy blocks per game. When they're gone, the game is over.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4769,7 +4789,7 @@ by section. You add each section by moving your energy block in place and fillin
     <locale lang="EN">
       <title>Venture</title>
       <synopsis>Venture is a conversion of the popular arcade game. You control Winky, the heroic adventurer. Your goal is to collect as many treasures as you can which are scattered throughout numerous dungeons. In each dungeon, there are several chambers which each contain a treasure. Armed only with your crossbow, you need to get past the varied creatures which guard the chamber, snag the treasure, and make it out again. When you collect the treasure from each of the chambers in a dungeon, you can then move on to the next, more difficult dungeon.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle,Shooter</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Venture es un juego donde  un heroico aventurero de nombre Winky se pasa la vida investigando calabozos en busca de tesoros. En el camino habrán obstáculos pero su habilidad con el arco lo ayudará a superarlas, también disponible en Atari 2600 ColecoVision.</synopsis>
@@ -4798,7 +4818,7 @@ by section. You add each section by moving your energy block in place and fillin
     <locale lang="EN">
       <title>White Water!</title>
       <synopsis>In White Water! your goal is to raft down a river in the shortest time possible. The river features many dangerous turns, rocks, whirlpools, barrels, and other obstacles that get in your way. You begin your trip with three men, and if you don't navigate carefully they can fall out of the raft! If any men remain in the raft, they can try pick up anyone who has fallen out but must do so before they hit a rock, a whirlpool, or leave the screen (if all of your men fall out of the raft, the game will end). In the easier game variations, your score is based on how quickly you can reach the finish line. In the more difficult game variations, you not only need to reach the finish line as quickly as possible but also need to earn points by landing your raft at various beaches along the way and collecting treasures that can be found in the forest. Some of the treasures will be guarded by the natives, so be careful (also be sure not to wander too far into the forest, or you'll become lost). The game ends when you reach the finish line, or all your men are lost either by falling in the river or in the forest.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Sports</genre>
     </locale>
     <locale lang="ES">
       <synopsis>¡En White Water! Su objetivo es descender por un río en el menor tiempo posible. El río presenta muchas vueltas peligrosas, rocas, remolinos, barriles y otros obstáculos que se interponen en su camino. Usted comienza su viaje con tres hombres, y si no navegar con cuidado pueden caerse de la balsa! Si algún hombre permanece en la balsa, puede intentar recoger a cualquiera que se haya caído, pero debe hacerlo antes de golpear una roca, un remolino o salir de la pantalla (si todos sus hombres caen de la balsa, el juego fin). En las variaciones de juego más fáciles, su puntaje se basa en la rapidez con que puede llegar a la línea de meta. En las variaciones más difíciles del juego, no sólo es necesario llegar a la meta tan pronto como sea posible, sino también la necesidad de ganar puntos por el aterrizaje de su balsa en varias playas en el camino y la recolección de los tesoros que se pueden encontrar en el bosque. Algunos de los tesoros serán custodiados por los nativos, así que ten cuidado (también asegúrate de no ir demasiado lejos en el bosque, o te perderás). El juego termina cuando llegas a la meta, o todos tus hombres se pierden al caer en el río o en el bosque.</synopsis>
@@ -4890,7 +4910,7 @@ Soporta 3 jugadores simultáneamente, donde una cámara central es usada para mo
     <locale lang="EN">
       <title>Worm Whomper</title>
       <synopsis>Felton Pinkerton wanted to take his wife to the fair, so he didn't get a chance to spray pesticide on his crop of corn. But due to his laziness, all of the bugs have now arrived and are trying to eat every last bit of corn! You control Felton who is armed with a spray gun. Your crop of corn is displayed on the left side of the screen, and you need to protect it from the incoming hoard of inchworms, moths, caterpillars, slugs, and other assorted bugs which approach rapidly from the right. If any of the bugs sneak past you, they will eat part of your corn crop. The game ends when all of the corn has been eaten. On each level you need to spray all of the bugs that appear in order to move on to the next round; as the rounds progress, the bugs become faster, more numerous, and home in quicker on the corn.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4920,7 +4940,7 @@ Soporta 3 jugadores simultáneamente, donde una cámara central es usada para mo
       <synopsis>The Zaxxon defence system must be destroyed in this isometric-viewed shoot 'em up which was originally hugely successful in the arcades. The game has 3 stages, first taking you through Asteroid City, which is heavily protected by aircraft, guns and missiles. Many barriers are alarmed, leaving you with limited space to progress through, and fire must constantly be dodged.
 
 Stage two is a space shoot out against hordes of enemy aircraft - those you failed to destroy in the first part of the task. Complete this and you reach the final battle with Zaxxon, with the game looping with increased difficulty if you can survive the first time. There are 3 distinct skill levels, while controls involve using forward to dive and back to climb, in the manner of flight simulation.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>

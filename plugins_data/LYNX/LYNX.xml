@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812061243" games="105"/>
+        <WiiTDB version="201812061243" games="105"/>
   <game name="Alien Vs Predator">
     <id>58770A</id>
     <locale lang="EN">
       <title>Alien vs Predator</title>
       <synopsis>Choose your weapon and brawl with the notorious warriors of the big screen! Commission the Colonial Marine and use your weapons and your wits to destroy the base--and survive. Be an Alien and use your voracious instincts to defend the hive and rescure your Queen. Or play a Predator and use your grisly arsenal to acquire the ultimate trophy...the skull of the Alien Queen.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,FPS</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -165,7 +165,7 @@ The referee does not call fouls, but does hurl knives at the players.</synopsis>
 
 Batman must move through four levels on his quest to stop the Penguin and Catwoman. Enemies trying to stop him include circus clowns on the streets, policemen (whom Catwoman put on his trail) on the roofs of Gotham City, and penguin commandos in the sewers and the Penguin's lair.
 Batman can beat them up with his fists or destroy them using Batarangs and acid vials (which must be collected first). Several of the levels end in boss encounters with the two main villains, while in the last level, Batman must also save industrialist Max Shreck from the Penguin's wrath before finishing him off.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -225,7 +225,7 @@ Welcome to the World of BattleWheels.</synopsis>
     <locale lang="EN">
       <title>BattleZone 2000</title>
       <synopsis>In this game you play the role of a tank commander who is fighting in a future war in the 21st century. The game is an update on the classic arcade game Battlezone and stays true to the original in terms of gameplay. The gameplay involves you driving round a landscape destroying enemy tanks and U.F.O.s  whilst trying not to run out of fuel and also not getting destroyed yourself though luckily there are fuel pick-ups and power-ups to collect. You can also use the credits earned for completing missions to upgrade your tank. There are also a few different tanks to choose from including the Rhino which is heavily armoured but runs out of fuel faster than the other tanks.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -351,7 +351,7 @@ Blue Lightning is a 3D flight game featuring 7 real-life fighter jets.  There ar
       <synopsis>You are Travis, a scientist doing experiments with dense matter for the creation of artificial black holes for interstellar travel. While testing a piece of equipment, you are transported into a bubble world. Fortunately, a friendly denizen decides to help you. You must locate the correct type of radioactive particles to move from world to world and finally home, before the hostile denizens of these worlds burst your bubble.
 
 You move your bubble by pushing in the desired direction. Be advised that you do not stop easily and can bounce out of control if you are not careful. Pushing the A button fires a bubble shot that will ricochet around. You can use this action to bounce shots at enemies that are around a corner. Pressing B drops a bubble bomb straight down. Pressing Option 1 switches options on the screen, including the suicidal "Burst!!!", that are then activated by pressing Option 2. The one you will use most is "Use scanner". This will bring up the scanner that looks like a radar screen and will show you the approximate location of your needed particles. Once you locate and gather all the particles needed in the level, you move on to the next level. After you finish five levels, you win the game.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer,Adventure</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -430,6 +430,7 @@ The Atari versions (2600 and Lynx) of the game omit the flying disc and roller s
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1987"/>
     <developer>Shadowsoft</developer>
     <publisher>Never Published (Prototype)</publisher>
   </game>
@@ -501,6 +502,8 @@ The Atari versions (2600 and Lynx) of the game omit the flying disc and roller s
     <id>141576</id>
     <locale lang="EN">
       <title>Circle Tunnel</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -510,34 +513,45 @@ The Atari versions (2600 and Lynx) of the game omit the flying disc and roller s
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Clicks!">
     <id>141577</id>
     <locale lang="EN">
       <title>Clicks!</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="2001"/>
+    <developer>Matthias Domin</developer>
+    <publisher/>
   </game>
   <game name="Conquest Of Zow">
     <id>108859</id>
     <locale lang="EN">
       <title>Conquest Of Zow</title>
+      <genre>Shooter</genre>
+      <synopsis>Conquest of Zow started as a collection of sound and graphics demos. This project was cancelled when the ROM for the game was leaked online and Harry stopped all Lynx development.</synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1996"/>
+    <publisher/>
   </game>
   <game name="Crystal Mines 2 - Buried Treasure">
     <id>14267A</id>
@@ -587,6 +601,7 @@ The Atari versions (2600 and Lynx) of the game omit the flying disc and roller s
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1"/>
     <developer>Imagitec</developer>
   </game>
   <game name="Desert Strike - Return To The Gulf">
@@ -596,7 +611,7 @@ The Atari versions (2600 and Lynx) of the game omit the flying disc and roller s
       <synopsis>The first game in the Strike series. A year after the Gulf War, a self-styled general named Kilbaba (Muababa in the GBA version) takes over an Arab Emirate and threatens to start World War III against his western enemy, the United States. The whole world holds its breath as the President has chosen you to destroy Kilbaba and his terrorist army before he launches a nuclear attack on the world!
 
 You must fly a specially designed AH-64A Apache on a series of missions to rescue missing-in-action characters, destroy power plants, blow apart SCUD missiles, etc. to take out the enemy defense while trying to find out Kilbaba's plans.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -748,6 +763,8 @@ Using whatever techniques they have at their disposal, from the basic punches an
     <id>141563</id>
     <locale lang="EN">
       <title>Dungeon, The</title>
+      <genre>RPG,Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -757,6 +774,9 @@ Using whatever techniques they have at their disposal, from the basic punches an
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1998"/>
+    <developer>Matthias Domin</developer>
+    <publisher/>
   </game>
   <game name="Electrocop">
     <id>14269A</id>
@@ -847,7 +867,7 @@ Gameplay involves working your way through the complex warehouse maze, unlocking
     <id>14273A</id>
     <locale lang="EN">
       <title>Fat Bobby</title>
-      <synopsis>Fat Bobby, the lead guitar player, has nnhad his musical group kidnapped by the nnevil Dr. Mephisto. nnnnYou guide Bobby thru a multitude of nnlevels in this classic platform hopper. nnnnCollect notes and hints, as you nnencounter the henchmen of Dr. nnMephisto. nnnnThat guitar can "strum" more than just nnnotes!</synopsis>
+      <synopsis>Fat Bobby, the lead guitar player, has nnhad his musical group kidnapped by the nnevil Dr. Mephisto. You guide Bobby thru a multitude of nnlevels in this classic platform hopper. Collect notes and hints, as you nnencounter the henchmen of Dr. nnMephisto. That guitar can "strum" more than just nnnotes!</synopsis>
       <genre>Platform</genre>
     </locale>
     <locale lang="ES">
@@ -919,7 +939,7 @@ Some aliens will join you when shot (power-ups).  Alien bases in each area allow
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>La araña malvada Zendocon te ha atrapado en su red de universos. Tu misión es derrotar a los androides de Zendocon y atravesar los 51 universos para luchar contra Zendocon ¡a muerte!nnnnGates of Zendocon es un shooter de desplazamiento lateral muy similar al arcade original de este tipo, Scramble. A diferencia de Scramble, hay 51 áreas de juego en total, pero el jugador lucha a través de un subconjunto de ellos, podiendo elegir la siguiente área para visitar.nnnnAlgunos alienígenas se unirán a ti cuando les dispares (power-ups). Las bases alienígenas en cada área te permitiran reparar las armas y el escudo, pero aterrizar en el momento equivocado hará que tu nave explote y pierdas todos los power-ups.</synopsis>
+      <synopsis>La araña malvada Zendocon te ha atrapado en su red de universos. Tu misión es derrotar a los androides de Zendocon y atravesar los 51 universos para luchar contra Zendocon ¡a muerte!Gates of Zendocon es un shooter de desplazamiento lateral muy similar al arcade original de este tipo, Scramble. A diferencia de Scramble, hay 51 áreas de juego en total, pero el jugador lucha a través de un subconjunto de ellos, podiendo elegir la siguiente área para visitar.Algunos alienígenas se unirán a ti cuando les dispares (power-ups). Las bases alienígenas en cada área te permitiran reparar las armas y el escudo, pero aterrizar en el momento equivocado hará que tu nave explote y pierdas todos los power-ups.</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1271,7 +1291,7 @@ The game was novel for its time for being one of the few two-player simultaneous
     <locale lang="EN">
       <title>Kung Food</title>
       <synopsis>The ultimate food fight!  Mutant munchies from your freezer invade your kitchen, your life and your world.  Speed and your martial arts skills are required to overcome the vicious veggies!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1362,6 +1382,8 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
     <id>141589</id>
     <locale lang="EN">
       <title>Lite</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1371,20 +1393,28 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Lode Runner">
     <id>124349</id>
     <locale lang="EN">
       <title>Lode Runner</title>
+      <genre>Action,Platformer</genre>
+      <synopsis>An unreleased version of the game for the Atari Lynx was discovered in 2008 on an old Atari Corp. hard drive and was eventually released by Video 61. The Bungeling Empire has stolen a huge cache of gold from its rightful owners, and your mission is to infiltrate its treasury and recapture it. This entails progressing through 150 screens of platforms, ladders and ropes.
+
+The Empire has sent robotic guards down to protect the gold, and contact with any of these will cost you a life. Your method of escaping them is to press fire to dig a hole in their line of movement, thus causing them to fall in briefly, allowing you to move across the gap safely. Once all the gold has been collected, a ladder allowing you to move onto the next screen is added. Completing these screens often requires forward planning and precision.</synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1997"/>
+    <publisher>Kurt Olsen</publisher>
   </game>
   <game name="Loopz">
     <id>58777A</id>
@@ -1497,6 +1527,8 @@ The 5 games available are:
     <id>141579</id>
     <locale lang="EN">
       <title>Mandelbrot</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1506,11 +1538,15 @@ The 5 games available are:
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Marble Madness">
     <id>108861</id>
     <locale lang="EN">
       <title>Marble Madness</title>
+      <genre>Action,Puzzle,Arcade,</genre>
+      <synopsis/>
     </locale>
     <developer>Matthias Domin</developer>
     <rating type="NOTE" value="">
@@ -1521,6 +1557,8 @@ The 5 games available are:
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1999"/>
+    <publisher/>
   </game>
   <game name="Marlboro Go!">
     <id>58779A</id>
@@ -1538,6 +1576,7 @@ The 5 games available are:
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1993"/>
     <developer>Digital Image</developer>
   </game>
   <game name="Ms. Pac-man">
@@ -1551,7 +1590,7 @@ Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging m
 Ms. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points (ranging from 200, 400, 800 and 1600, progressively). The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.
 
 Survive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of "Junior".</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1708,7 +1747,7 @@ There are sixteen rounds to complete, with four trips each. During each round, h
     <locale lang="EN">
       <title>Paperboy</title>
       <synopsis>Based on the arcade game, the object of Paperboy is to deliver papers to your customers while inflicting as much damage as possible to the houses of your non-customers. To make things more difficult, numerous obstacles get in your way including construction workers, rogue tires, skateboarders, dogs and cats, cars, and even the occasional tornado.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1736,6 +1775,8 @@ There are sixteen rounds to complete, with four trips each. During each round, h
     <id>141564</id>
     <locale lang="EN">
       <title>Para Lemi!</title>
+      <genre>Shooter,Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1745,6 +1786,8 @@ There are sixteen rounds to complete, with four trips each. During each round, h
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Pinball Jam">
     <id>14277A</id>
@@ -1816,6 +1859,8 @@ Each table scrolls up and down during gameplay (as opposed to just "snapping" to
     <id>124350</id>
     <locale lang="EN">
       <title>Pong 5</title>
+      <genre>Action,Arcade</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1825,6 +1870,8 @@ Each table scrolls up and down during gameplay (as opposed to just "snapping" to
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Power Factor">
     <id>14252A</id>
@@ -1843,7 +1890,7 @@ Controlling Redd Ace is somewhat different from a typical platformer of the era.
 Pressing the "Option 2" button allows the player to see a menu with information about the bomb pieces the player is collecting, as well as details on the various weapons.  If the player is standing in front of a computer monitor when Option 2 is pressed, the menu shows a map of the current area, and information on enemy characters.
 
 The player starts with three lives, and there are no continues.  There are, however, three difficulty modes--Easy, Normal, and Hardwhich may be selected prior to gameplay.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer,Shooter,Adventure</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1871,6 +1918,8 @@ The player starts with three lives, and there are no continues.  There are, howe
     <id>141594</id>
     <locale lang="EN">
       <title>Puzzler 2000</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1880,6 +1929,8 @@ The player starts with three lives, and there are no continues.  There are, howe
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1998"/>
+    <publisher/>
   </game>
   <game name="Qix">
     <id>14260A</id>
@@ -1954,7 +2005,7 @@ Raiden (called Raiden Trad on the Genesis and SNES) is an over-head vertical-scr
       <synopsis>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.
 
 Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2011,6 +2062,8 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
     <id>141623</id>
     <locale lang="EN">
       <title>Raw</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2020,11 +2073,15 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Raycast Corridor">
     <id>141595</id>
     <locale lang="EN">
       <title>Raycast Corridor</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2034,11 +2091,15 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Remnant Planar Wars 3d">
     <id>141596</id>
     <locale lang="EN">
       <title>Remnant Planar Wars 3d</title>
+      <genre>Shooter,Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2048,6 +2109,8 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Road Riot 4wd">
     <id>58780A</id>
@@ -2120,7 +2183,7 @@ Take the challenge of multi-dimensional competition. Control and aim your racque
 You and a friend can "Lynx up" for an awesome two player challenge.
 
 - Two player "Comlynx" Capability!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Sports</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2347,6 +2410,8 @@ This computer implementation can generate a random board layout to take on, as w
     <id>141597</id>
     <locale lang="EN">
       <title>Show King Tut</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2356,11 +2421,15 @@ This computer implementation can generate a random board layout to take on, as w
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Snakebyte">
     <id>141598</id>
     <locale lang="EN">
       <title>Snakebyte</title>
+      <genre>Action,Arcade</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2370,11 +2439,15 @@ This computer implementation can generate a random board layout to take on, as w
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Sprite Ed">
     <id>141624</id>
     <locale lang="EN">
       <title>Sprite Ed</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2384,29 +2457,36 @@ This computer implementation can generate a random board layout to take on, as w
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Stardreamer">
     <id>108862</id>
     <locale lang="EN">
       <title>Stardreamer</title>
       <synopsis>The Stardreamer is an open game with a storyline and an objective. You can be a honest trader, a space explorer or a space pirate. Just remember to check the news every  now and then. The galaxy is changing and a new era is about to begin...</synopsis>
+      <genre>Shooter</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Stardreamer est un jeu ouvert avec un scénario et un objectif. Vous pouvez être un commerçant honnête, un explorateur de l'espace ou un pirate de l'espace. N'oubliez pas de vérifier les nouvelles de temps en temps. La galaxie est en train de changer et une nouvelle ère est sur le point de commencer ...</synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Stardreamer - Cutscene">
     <id>141599</id>
     <locale lang="EN">
       <title>Stardreamer - Cutscene</title>
+      <genre>Shooter</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2416,6 +2496,8 @@ This computer implementation can generate a random board layout to take on, as w
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Steel Talons">
     <id>14262A</id>
@@ -2593,6 +2675,8 @@ Switchblade II is a side-scrolling platform action game.  One key aspect of the 
     <id>122994</id>
     <locale lang="EN">
       <title>T-tris</title>
+      <genre>Puzzle</genre>
+      <synopsis>This is the game Tetris designed to run on the Atari Lynx. For those who have been living under a rock for the last two decades, I will explain: colored shapes fall from the top of the screen. You must arrange these shapes so they form a complete line across the playing field. If the stack reaches the top of the playing field, the game is over.</synopsis>
     </locale>
     <date year="1996" month="" day=""/>
     <rating type="NOTE" value="">
@@ -2603,11 +2687,14 @@ Switchblade II is a side-scrolling platform action game.  One key aspect of the 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher>B. Schick</publisher>
   </game>
   <game name="Tetris">
     <id>122997</id>
     <locale lang="EN">
       <title>Tetris</title>
+      <genre>Action,Puzzle,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2617,6 +2704,8 @@ Switchblade II is a side-scrolling platform action game.  One key aspect of the 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Todd's Adventures In Slime World">
     <id>14241A</id>
@@ -2850,6 +2939,8 @@ The graphics were faux-3D, as the planes were 2D sprites (natural, considering t
     <id>141601</id>
     <locale lang="EN">
       <title>Wuerfel 3</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2859,6 +2950,8 @@ The graphics were faux-3D, as the planes were 2D sprites (natural, considering t
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Xenophobe">
     <id>14216A</id>
@@ -2869,7 +2962,7 @@ The graphics were faux-3D, as the planes were 2D sprites (natural, considering t
 A small band of engineers has been dispatched to combat the Xeno threat before it takes over all the space stations and, eventually, your homeworld.  Assemble your band of engineers and fight the Xenos on each station, striving to either clear it or abandon it.  You start out with a standard issue laser, but can pick up additiona weapons as you find them, including Phasers, Lightning Rifles, Poofer guns, and bombs.
 
 Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  Gameplay premise and setting is heavily inspired/influenced by the movie Aliens.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2900,7 +2993,7 @@ Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  G
       <synopsis>Xybots is either an unusually simple computer game or an unusually complex coin-op shoot 'em up, depending on your point of view. With either one or two players, you must move through a series of Gauntlet-style underground mazes, killing the bad guys and collecting health and other bonuses from flying saucers (underground? SLIGHT logic gap there, methinks).It's designed to be played co-operatively, although bullets from one player can harm the other.
 
 The Xybots are out to stop you, of course, and many have advanced attack patterns as well as bullets to fire at you. Being able to view round corners is useful, allowing you to plan a strategy - often it's good to send one player forward and let the other play the waiting game, as in Gauntlet.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>

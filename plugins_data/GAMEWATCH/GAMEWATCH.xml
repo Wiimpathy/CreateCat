@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201912091402" games="68"/>
-  <game name="Game Name">
-    <id>Game ID</id>
-    <rating type="NOTE" value="">
-		</rating>
-    <input players="">
-      <control type="wiimote" required="true"/>
-      <control type="nunchuk" required="false"/>
-      <control type="classiccontroller" required="false"/>
-      <control type="gamecube" required="false"/>
-    </input>
-  </game>
+      <WiiTDB version="202001050757" games="67"/>
   <game name="Armor Battle">
     <id>88045</id>
     <locale lang="EN">
       <title>Armor Battle</title>
       <synopsis>You are on a dangerous tank mission. To reach and destroy your assigned target, you must maneuver through a field filled with enemy mines. Although these are hidden, the mine detection equipment in your tank warns you of their presence by producing a buzzing sound. This is your signal to change course on route to your target. If you should stumble into a mine, your tank will be "destroyed" and returned to its original starting position. If you get through the minefield and successfully engage the target, the built-in computer will automatically set up another challenge with a new starting position, target location, and minefield.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Racing,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Se encuentra en una peligrosa misión a bordo de un tanque. Para alcanzar y destruir el objetivo asignado, debe maniobrar a través de un campo lleno de minas enemigas. Aunque éstas están ocultas, el equipo de detección de minas en su tanque le advierte de su presencia mediante un zumbido. Ésta es la señal para cambiar de rumbo en la ruta hacia su objetivo. Si usted tropieza con una mina, el tanque será "destruido" y vuelve a su posición de partida original. Si consigue atravesar el campo minado y atacar exitosamente al objetivo, la computadora incorporada generará de forma automática otro reto con una nueva posición de partida, objetivo, y localización de las minas.</synopsis>
@@ -37,7 +26,7 @@ Si vous engager votre cible avec succès, l'ordinateur intégré vous offrira un
     </locale>
     <developer>Mattel Electronics</developer>
     <publisher>Mattel Electronics</publisher>
-    <date year="1978" month="1978" day="1978"/>
+    <date year="1978" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
     <input players="1">
@@ -45,6 +34,7 @@ Si vous engager votre cible avec succès, l'ordinateur intégré vous offrira un
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Banana">
@@ -53,7 +43,7 @@ Si vous engager votre cible avec succès, l'ordinateur intégré vous offrira un
       <title>Banana</title>
       <synopsis>Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends.
 1 point is scored for each safe pedestrian.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Mueve a un basurero por la calle para limpiar las pieles de plátano. Obtendrás puntos positivos cuando los peatones estén a salvo y negativos cuando se resbalen con ellas.</synopsis>
@@ -70,7 +60,7 @@ Lorsqu'un piéton tombe sur une peau de banane, un mauvais point est s'affiche. 
     </locale>
     <developer>VTech</developer>
     <publisher>VTech</publisher>
-    <date year="1981" month="1981" day="1981"/>
+    <date year="1981" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
     <input players="1">
@@ -78,6 +68,7 @@ Lorsqu'un piéton tombe sur une peau de banane, un mauvais point est s'affiche. 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Baseball">
@@ -85,7 +76,7 @@ Lorsqu'un piéton tombe sur une peau de banane, un mauvais point est s'affiche. 
     <locale lang="EN">
       <title>Baseball</title>
       <synopsis>Train baseball by playing with your coach. Move the player left and right to get all balls. When a ball falls to the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Sports,Baseball,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Practica Beisbol moviendo al bateador a izquierda y derecha para golpear las pelotas. Cuando una caiga al suelo harás un strike; con tres strikes se acaba el juego. Sumarás 10 puntos cada vez que golpees una pelota. Se concede un breve periodo de descanso cada 1000 puntos.</synopsis>
@@ -113,7 +104,9 @@ Le plus gros score affichable est est 9990.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Bomb Fight">
     <id>88048</id>
@@ -148,7 +141,9 @@ Le score maximal affichable est de 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Caccia Al Ladro">
     <id>88049</id>
@@ -184,14 +179,18 @@ Le plus gros score affichable est est 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Camelot">
     <id>143953</id>
     <locale lang="EN">
       <title>Camelot</title>
+      <genre>Action,Platform,</genre>
+      <synopsis/>
     </locale>
-    <date year="1981" month="1981" day="1981"/>
+    <date year="1981" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
     <input players="1">
@@ -199,7 +198,9 @@ Le plus gros score affichable est est 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <publisher>Q&amp;Q</publisher>
   </game>
   <game name="Cessate Il Fuoco">
     <id>88050</id>
@@ -234,7 +235,9 @@ Le plus gros score affichable est est 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Chicky Woggy (time And Fun)">
     <id>88051</id>
@@ -266,7 +269,7 @@ Le plus gros score affichable est est 99990.</synopsis>
     </locale>
     <developer>VTech</developer>
     <publisher>VTech</publisher>
-    <date year="1982" month="1982" day="1982"/>
+    <date year="1982" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
     <input players="1">
@@ -274,6 +277,7 @@ Le plus gros score affichable est est 99990.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Chicky Woggy (tini-arcade)">
@@ -303,12 +307,16 @@ Le plus gros score affichable est est 99990.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Circus Circus">
     <id>143954</id>
     <locale lang="EN">
       <title>Circus Circus</title>
+      <genre>Action,Platform,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -317,24 +325,32 @@ Le plus gros score affichable est est 99990.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Climber">
     <id>143407</id>
     <locale lang="EN">
       <title>Climber</title>
+      <genre>Action,Platform</genre>
+      <synopsis/>
     </locale>
     <locale lang="FR">
       <synopsis>Climber est un jeu électronique à cristaux liquide sorti en juillet 1986 en version Crystal Screen. C'est la version Game and Watch du jeu Ice Climber, et dont la version Nintendo 64 fut annulée.</synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1986"/>
+    <publisher>Nintendo</publisher>
   </game>
   <game name="Condor">
     <id>88052</id>
@@ -367,6 +383,7 @@ Le plus gros score affichable est 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <date year="1981" month="" day=""/>
   </game>
@@ -411,7 +428,9 @@ Le plus gros score affichable est est 99990.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Defendo">
     <id>88054</id>
@@ -444,16 +463,19 @@ Le plus gros score affichable est 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1981"/>
   </game>
   <game name="Donkey Angler">
     <id>99467</id>
     <locale lang="EN">
       <title>Donkey Angler</title>
       <synopsis>Following a bait, fishes will successively appear from the bottom of the sea. If a fish is on a hook, quickly bring it up! Losing a fish or fishing line cut by crab (appearance at game B) are errors. When you make the error three times, the game is over. 1 point per fish brought up. 1 point per crab brought up (game B only). Maximum displayed score is 999 points.</synopsis>
+      <genre>Action,Fishing</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Una vez que el cebo está en el agua, los peces aparecerán sucesivamente desde el fondo del mar.nn¡Si un pez muerde el cebo, sube rápidamente!nnObtendrás una falta por cada pez que se escape y cada vez que un cangrejo corte la caña de pescar (Modo de juego B solamente).nnDespués de 3 faltas, el juego termina.nnGanas 1 punto por cada pez capturado.nnGanas 1 punto por cada cangrejo pescado (solo en el modo B del juego).nnLa mayor puntuación visualizable es 999.</synopsis>
+      <synopsis>Una vez que el cebo está en el agua, los peces aparecerán sucesivamente desde el fondo del mar. ¡Si un pez muerde el cebo, sube rápidamente!nnObtendrás una falta por cada pez que se escape y cada vez que un cangrejo corte la caña de pescar (Modo de juego B solamente). Después de 3 faltas, el juego termina. Ganas 1 punto por cada pez capturado. Ganas 1 punto por cada cangrejo pescado (solo en el modo B del juego). La mayor puntuación visualizable es 999.</synopsis>
     </locale>
     <locale lang="FR">
       <synopsis>Une fois l'appât dans l'eau, les poissons apparaîtront successivement à partir du fond de la mer.
@@ -473,16 +495,19 @@ Le plus gros score affichable est 999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1983"/>
   </game>
   <game name="Donkey Kong">
     <id>99463</id>
     <locale lang="EN">
       <title>Donkey Kong</title>
       <synopsis>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</synopsis>
+      <genre>Platformer</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Mueve a Mario para rescatar a su novia, secuestrada por Donkey Kong. En los niveles impares Donkey Kong lanzará barriles a Mario. Muévelo por la parte superior del edificio evitanado los barriles. En los niveles pares mueve a Mario para eliminar todos los remaches de las vigas. Hay bolas de fuego colgantes, asegúrate de que Mario no las toque.nnInformación adicional: no dejes que Mario se mueva demasiado a la izquierda o a la derecha de las vigas o se caerá. La escalera de la izquierda en la segunda viga es una "posición segura" para que no te alcancen los barriles. Maro puede andar, pero no saltar por encima de la reja eléctrica que proteje a Donkey Kong.</synopsis>
+      <synopsis>Mueve a Mario para rescatar a su novia, secuestrada por Donkey Kong. En los niveles impares Donkey Kong lanzará barriles a Mario. Muévelo por la parte superior del edificio evitanado los barriles. En los niveles pares mueve a Mario para eliminar todos los remaches de las vigas. Hay bolas de fuego colgantes, asegúrate de que Mario no las toque. Información adicional: no dejes que Mario se mueva demasiado a la izquierda o a la derecha de las vigas o se caerá. La escalera de la izquierda en la segunda viga es una "posición segura" para que no te alcancen los barriles. Maro puede andar, pero no saltar por encima de la reja eléctrica que proteje a Donkey Kong.</synopsis>
     </locale>
     <locale lang="FR">
       <synopsis>Déplacez Mario pour l'aider à sauver sa petite amie, kidnappée par Donkey Kong.
@@ -502,7 +527,9 @@ Mario peut marcher, mais ne peut pas sauter à travers la clôture électrique.<
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year="1982"/>
   </game>
   <game name="Donkey Kong (multi Screen)">
     <id>88055</id>
@@ -533,6 +560,7 @@ Ensuite, il doit sauter de la grue et démolir peu à peu la structure sur laque
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Donkey Kong Circus">
@@ -565,6 +593,7 @@ Si il n'y a pas eut de vie de perdue au bout de 300 points, le jeu passe en "Cha
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Donkey Kong 2">
@@ -602,6 +631,7 @@ Une fois prés du verrou en haut de la chaine appuyez sur la touche "plus" pour 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Donkey Kong Jr.">
@@ -649,6 +679,7 @@ Au bout de 999 points marqué le jeux reprend de zéro à une vitesse plus élev
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Donkey Kong Jr. (panorama Screen)">
@@ -694,7 +725,9 @@ Au bout de 999 points marqué le jeux reprend de zéro à une vitesse plus élev
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Donkey Kong Jr. (table Top)">
     <id>88099</id>
@@ -739,7 +772,9 @@ Au bout de 999 points marqué le jeux reprend de zéro à une vitesse plus élev
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Dungeons And Dragons Computer Fantasy Game">
     <id>88058</id>
@@ -777,7 +812,7 @@ Cliquez sur le bouton d'attaque à la fin de la partie pour relance le jeu, ou m
     </locale>
     <developer>Mattel Electronics</developer>
     <publisher>Mattel Electronics</publisher>
-    <date year="1981" month="1981" day="1981"/>
+    <date year="1981" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
     <input players="1">
@@ -785,6 +820,7 @@ Cliquez sur le bouton d'attaque à la fin de la partie pour relance le jeu, ou m
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Egg">
@@ -824,6 +860,7 @@ A 200 et 500 points, une musique retentit et vous regagnez les essais perdus.</s
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Ball">
@@ -831,6 +868,7 @@ A 200 et 500 points, une musique retentit et vous regagnez les essais perdus.</s
     <locale lang="EN">
       <title>Electronic Toss-Up</title>
       <synopsis>"Ball" was the very first "Game &amp; Watch" handheld game ever made by Nintendo on April 28,1980. It was part of the "Silver" series, which later spawned the popular "Gold" series.</synopsis>
+      <genre>Action,</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Ball est un jeu où vous incarnez un jongleur et où le but est donc de jongler . Le jeu utilise deux mode de jeux : facile jongler avec 2 balles , difficile jongler avec 3 balles.</synopsis>
@@ -845,6 +883,7 @@ A 200 et 500 points, une musique retentit et vous regagnez les essais perdus.</s
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Engine Room">
@@ -890,14 +929,16 @@ Le plus gros score affichable est de 9990.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1981"/>
   </game>
   <game name="Escape">
     <id>88060</id>
     <locale lang="EN">
       <title>Escape</title>
       <synopsis>Manipulate the motion of the prisoner so as to avoid being caught by the guards appearing in the upper and lower rows, and to escape through the gate as soon as it's open. When the prisoner is spotted by a guard, he will be caught, meaning a miss. Five misses and game ends. 1 point is awarded when a prisoner successfully leaves the jail. Maximum displayed score is 9999.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure,Racing,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Controla el movimiento del prisionero para evitar ser atrapado por los guardias.
@@ -924,7 +965,9 @@ La puntuación máxima visualizada es 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1981"/>
   </game>
   <game name="Explorers Of Space">
     <id>88061</id>
@@ -969,13 +1012,16 @@ Le score maximum affiché est de 999 points.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1989"/>
   </game>
   <game name="Flagman">
     <id>143955</id>
     <locale lang="EN">
       <title>Flagman</title>
       <genre>Puzzle</genre>
+      <synopsis/>
     </locale>
     <locale lang="FR">
       <synopsis>Flagman est un jeu électronique à cristaux liquides Game and Watch sorti en 1980. Il ressort le 15 juillet 2009 sous la forme de jeux en téléchargement (200 Nintendo Points) dans un compilation de jeux Game and Watch sur Nintendo DSi.
@@ -998,6 +1044,7 @@ Le jeu s'arrête une fois les trois vies perdues.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <developer>Nintendo EAD</developer>
     <publisher>Nintendo</publisher>
@@ -1038,7 +1085,9 @@ Le score maximum affiché est de 999 points.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Frog Boaster">
     <id>88063</id>
@@ -1074,7 +1123,9 @@ La puntuación máxima visualizada es de 999 puntos.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Galaxy 2">
     <id>88064</id>
@@ -1108,7 +1159,9 @@ Cinco fallos y se acabará juego (fases 1 a 3). En la Fase 1, los barcos de guer
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1981"/>
   </game>
   <game name="Grab Man">
     <id>88066</id>
@@ -1146,6 +1199,7 @@ Se otorga una vida extra a los 5000 y cada 20000 puntos (en caso de que te quede
       <control type="gamecube" required="false"/>
       <control type="coop" required="true"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Hippo Teeth (mini Time And Fun)">
     <id>88067</id>
@@ -1174,7 +1228,9 @@ Se otorga una vida extra a los 5000 y cada 20000 puntos (en caso de que te quede
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Hippo Teeth (sporty Time And Fun)">
     <id>88068</id>
@@ -1203,7 +1259,9 @@ Se otorga una vida extra a los 5000 y cada 20000 puntos (en caso de que te quede
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Hot Line (mini Time And Fun)">
     <id>88069</id>
@@ -1232,7 +1290,9 @@ Se otorga una vida extra a los 5000 y cada 20000 puntos (en caso de que te quede
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Hot Line (sporty Time And Fun)">
     <id>88070</id>
@@ -1261,7 +1321,9 @@ Se otorga una vida extra a los 5000 y cada 20000 puntos (en caso de que te quede
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Las Vegas">
     <id>88071</id>
@@ -1290,7 +1352,9 @@ Se otorga una vida extra a los 5000 y cada 20000 puntos (en caso de que te quede
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1981"/>
   </game>
   <game name="Lifeboat">
     <id>88072</id>
@@ -1322,6 +1386,7 @@ Gana 1 punto por cada persona atrapada y 1 punto por persona descargada en la or
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Mario Bros.">
@@ -1360,6 +1425,7 @@ La puntuación máxima visualizada es de 999 puntos.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <date year="1983" month="" day=""/>
   </game>
@@ -1386,7 +1452,7 @@ A los 999 puntos la puntuación se restablece y el juego comienza de nuevo (a ma
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Mario est dans la jungle et se bat contre une armée ennemie.nnLe but est de déposer cinq bombes sur le côté droit de la jungle. Lorsque les cinq bombes sont en place, elles explosent et l'armée ennemie est vaincue.nnLes ennemis essaient d'allumer la bombe. Soulevez / baissez la bombe pour la garder en sécurité.nnSi les torches de l'ennemi atteignent la bombe, tous les progrès (les bombes déjà placées) sont perdus.nnTrois échecs et le jeu se termine.nnVous obtenez 1 point quand Mario fait un pas en avant, 5 points quand Mario livre une bombe, 10 points lorsque Mario livre la cinquième bombe.nnUne fanfare retentit à 300 points et toutes les erreurs sont annulées - s'il n'y a pas eu d'erreur alors le jeu entre en "Chance-Time", le marqueur clignote et tous les points attribués ont une valeur double jusqu'à ce qu'une faute soit commise.nnLe score maximum affiché est de 999 points.nnÀ 999 points, le score est réinitialisé et la partie reprend (à une vitesse supérieure).</synopsis>
+      <synopsis>Mario est dans la jungle et se bat contre une armée ennemie. Le but est de déposer cinq bombes sur le côté droit de la jungle. Lorsque les cinq bombes sont en place, elles explosent et l'armée ennemie est vaincue. Les ennemis essaient d'allumer la bombe. Soulevez / baissez la bombe pour la garder en sécurité. Si les torches de l'ennemi atteignent la bombe, tous les progrès (les bombes déjà placées) sont perdus. Trois échecs et le jeu se termine. Vous obtenez 1 point quand Mario fait un pas en avant, 5 points quand Mario livre une bombe, 10 points lorsque Mario livre la cinquième bombe. Une fanfare retentit à 300 points et toutes les erreurs sont annulées - s'il n'y a pas eu d'erreur alors le jeu entre en "Chance-Time", le marqueur clignote et tous les points attribués ont une valeur double jusqu'à ce qu'une faute soit commise. Le score maximum affiché est de 999 points. À 999 points, le score est réinitialisé et la partie reprend (à une vitesse supérieure).</synopsis>
       <genre>Action</genre>
     </locale>
     <locale lang="DE">
@@ -1401,6 +1467,7 @@ A los 999 puntos la puntuación se restablece y el juego comienza de nuevo (a ma
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
     <date year="1983" month="" day=""/>
   </game>
@@ -1439,7 +1506,9 @@ Si no se producen fallos cuando se alcanzan los 300 puntos, el juego entra en "C
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Mickey Mouse (wide Screen)">
     <id>88076</id>
@@ -1477,6 +1546,7 @@ La puntuación máxima visualizada es de 999 puntos.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Monkey">
@@ -1511,6 +1581,7 @@ La puntuación máxima visualizada es 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
     <date year="1981" month="" day=""/>
   </game>
@@ -1558,7 +1629,9 @@ La puntuación máxima mostrada es 99990.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1982"/>
   </game>
   <game name="Motor Cross">
     <id>88079</id>
@@ -1596,14 +1669,16 @@ La puntuación máxima visualizada es 199900 puntos, luego la puntuación se res
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Pac Man">
     <id>88080</id>
     <locale lang="EN">
       <title>Pac Man</title>
       <synopsis>Do you really need instructions about the Pac Man videogame ? :-) Notice: Pac Man can eat pills when walking from right to left only! Amateur game becomes automatically Professional game at level 4 (this means that there will be three ghosts in the maze instead of two). Bait: 2 points. Power star: 50 points. Ghost: 100 to 400 points. Cherry: 100 to 400 points (depending on game stage). Cherries appear whenever Pac Man eats 8 pills (maximum 2 cherries per stage). A bonus life is awarded at 2000 points.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>¿Realmente necesita instrucciones para Pac Man? :-) Aviso: Pac Man sólo puede comer píldoras al caminar de derecha a izquierda! El juego en modo fácil pasa automáticamente a profesional en el nivel 4 (esto significa que habrá tres fantasmas en el laberinto en lugar de dos). Los puntos se repartirán de la siguiente manera: píldoras 2 puntos, estrella 50, fantasmas de 100 a 400 puntos y cereza de 100 a 400 puntos (dependiendo de la etapa del juego). Las cerezas aparecen cuando Pac Man come 8 píldoras (máximo 2 cerezas por etapa). Se consigue una vida extra a los 2.000 puntos.</synopsis>
@@ -1626,6 +1701,7 @@ Chaque pillule donne 2 points, une étoile vaut 50 points, un fantôme dévoré 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <date year="1981" month="" day=""/>
   </game>
@@ -1660,6 +1736,7 @@ La puntuación máxima visualizada es 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
     <date year="1981" month="" day=""/>
   </game>
@@ -1668,7 +1745,7 @@ La puntuación máxima visualizada es 9999.</synopsis>
     <locale lang="EN">
       <title>Parachute</title>
       <synopsis>Skydivers come parachuting down over shark-infested waters. Lifeboat tries to catch them. Try to catch skydivers. Move boat left or right by pressing corresponding control buttons. When a skydiver falls into the ocean he is attacked by sharks. Three misses and game ends. 1 point is scored for each skydiver caught by lifeboat. Maximum displayed score is 999. When the score reaches a bonus score (200 or 500 points), any miss marks indicated at the time are erased with a fanfare and game continues.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Los paracaidistas descienden sobre aguas infestadas de tiburones.
@@ -1700,6 +1777,7 @@ Il existe 2 type de jeu (type A et type B). La seule différence du jeu en type 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Penguin Land">
@@ -1707,7 +1785,7 @@ Il existe 2 type de jeu (type A et type B). La seule différence du jeu en type 
     <locale lang="EN">
       <title>Penguin Land</title>
       <synopsis>Press Select button to select mode (1 or 2 players). * If one-player mode is selected: Press Penguin's Start/Attack button to play Penguin versus CPU (easy). Press Seal's Start/Attack button to play Seal versus CPU (hard). Your opponent will be controlled by CPU (Artificial Intelligence). * If two-players mode is selected: Press either Penguin's or Seal's Start/Attack button to start game. This is a real battle for survival! A penguin and a seal teams are battling to win some fish which stands over an iceberg. The iceberg stands between the teams. * Rules for the war: A vulture throws two bombs into the playground. The vulture cycles through the playgrounds. You must catch bombs before they fall on the floor and explode. If a team lets a bomb fall on the floor, that team will lose one point. You can keep one only bomb in your hands. You can keep it as much time as you wish. Press the Start/Attack button to throw the bomb back to your opponent. Both the penguin and the seal standing over the iceberg will send the bomb. back immediately. They move randomly. If the vulture catches a flying bomb, he will throw it into the opposite playground. Sometimes an ice block comes from the sea; you will collect it by catching it (move on it and then press the Start/Attack button) and then taking it to the opposite side of the playground. By collecting three ice blocks your team will be able to reach the fish over the iceberg and eat some of it. This will cost two points to your opponent team. If you're bombed while keeping an ice block in your hands, you'll lose it. * Aim of the game: you win the game by decreasing your opponent's score to 0. 1 point - bombing your opponent. 2 points - collecting three ice blocks.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Mueve el interruptor "Select" para seleccionar el modo (1 o 2 jugadores).
@@ -1733,11 +1811,12 @@ L'iceberg se situe entre les deux équipes.</synopsis>
     <publisher>Bandai</publisher>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="1-2">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <date year="1983" month="" day=""/>
   </game>
@@ -1776,6 +1855,7 @@ Le score maximum affichable est de 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
     <date year="1981" month="" day=""/>
   </game>
@@ -1786,11 +1866,12 @@ Le score maximum affichable est de 9999.</synopsis>
       <synopsis>A 35-year-old Electronic Game (Tabletop)
 
 Q?Bert © 1983 Parker Bros.</synopsis>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Jeu d'arcade réalisé en version tabletop en 1983 par Parker Brothers, il a su donner beaucoup de plaisir aux joueurs du jeu d'arcade avec ses yeux expressifs et son joli petit saut. il vous est maintenant proposé dans cette amusante version du jeu original. Voici Q*bert tabletop !</synopsis>
     </locale>
-    <date year="1983" month="1983" day="1983"/>
+    <date year="1983" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
     <input players="">
@@ -1798,14 +1879,16 @@ Q?Bert © 1983 Parker Bros.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Roller Coaster">
     <id>88084</id>
     <locale lang="EN">
       <title>Roller Coaster</title>
       <synopsis>Roller Coaster needs maintenance: there are three holes on the railway. Move a busy worker around the rails to fill holes and prevent cars from falling. When a car falls into a hole, one miss is scored. Five misses and game ends. 1 point is scored for each safe car. Maximum displayed score is 9999.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Roller Coaster necesita mantenimiento. Existen tres agujeros en la montaña rusa. Mueva a un trabajador de mantenimiento alrededor de los rieles para llenar agujeros e impedir que los vagones se caigan. Cuando un vagón cae en un agujero se pierde una vida. Cinco fallos y el juego termina. Se anota 1 punto por cada vagón que llegue seguro. La puntuación máxima es de 9999 puntos.</synopsis>
@@ -1827,6 +1910,7 @@ Q?Bert © 1983 Parker Bros.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <date year="1984" month="" day=""/>
   </game>
@@ -1863,6 +1947,7 @@ La puntuación máxima visualizada es 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <date year="1981" month="" day=""/>
   </game>
@@ -1897,7 +1982,9 @@ La puntuación máxima visualizada es 9999.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1981"/>
   </game>
   <game name="Snoopy (panorama Screen)">
     <id>88088</id>
@@ -1934,7 +2021,9 @@ A los 999 puntos el marcador se pondrá a cero y el juego comienza de nuevo (a m
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Snoopy (table Top)">
     <id>88089</id>
@@ -1971,7 +2060,9 @@ A los 999 puntos el marcador se pondrá a cero y el juego comienza de nuevo (a m
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Snoopy Tennis">
     <id>88090</id>
@@ -2012,12 +2103,15 @@ La puntuación máxima de pantalla es de 9999 puntos.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Soldier Fighter Simulator">
     <id>152823</id>
     <locale lang="EN">
       <title>Soldier Fighter Simulator</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2026,7 +2120,10 @@ La puntuación máxima de pantalla es de 9999 puntos.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Sub Chase">
     <id>88091</id>
@@ -2066,7 +2163,9 @@ Las puntuaciones de más de 100 se mostrarán por código, es decir: 100-109 aci
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1978"/>
   </game>
   <game name="Tennis Menace">
     <id>88092</id>
@@ -2095,12 +2194,16 @@ Las puntuaciones de más de 100 se mostrarán por código, es decir: 100-109 aci
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1982"/>
   </game>
   <game name="Tetris">
     <id>143406</id>
     <locale lang="EN">
       <title>Tetris</title>
+      <synopsis>The original version of Tetris was programmed on a Electronika 60 at the the Soviet Academy of Sciences at Computer Center in Moscow. In this puzzle game the player must direct randomly spawned Tetromino blocks (in six different shapes) down the screen in an attempt to fill lines. Blocks can be rotated and translated in the horizontal axis, they automatically drop down and will fall faster the further the game progresses. Blocks stack untop of each other and if a block no longer fits at the top of the screen the game is over. A full horizontal line is removed making everything above it fall down and thus freeing up space to continue play.</synopsis>
+      <genre>Action,Puzzle,</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Tetris est principalement composé d'un champ de jeu où des pièces de formes différentes, appelées « tétriminos », descendent du haut de l'écran. Durant cette descente le joueur peut uniquement déplacer les pièces latéralement et leur faire effectuer une rotation sur elles-mêmes jusqu'à ce qu'elles touchent le bas du champ de jeu ou une pièce déjà placée.</synopsis>
@@ -2112,13 +2215,17 @@ Las puntuaciones de más de 100 se mostrarán por código, es decir: 100-109 aci
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="2001"/>
+    <publisher>Nintendo</publisher>
   </game>
   <game name="Tom And Jerry Popper">
     <id>99469</id>
     <locale lang="EN">
       <title>Tom And Jerry Popper</title>
       <synopsis>Press left arrow key to play game A (easy). Press right arrow key to play game B (hard). Tom is flying balloon bombs! Break them quickly by the saber. It's Jerry's mistake when you failed to break balloons or the saber was taken by the magnet (in game B only). The game ends when you make 3 mistakes. 1 point per broken balloon 1 point per broken magnet (game B only) Maximum display score is 999 points.</synopsis>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Pulsa la tecla de flecha izquierda para jugar el juego A (fácil).
@@ -2142,7 +2249,9 @@ La puntuación máxima mostrada en pantalla es 999 puntos.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Towering Rescue">
     <id>88093</id>
@@ -2177,6 +2286,7 @@ La puntuación máxima de pantalla es de 9990 puntos.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
     <date year="1981" month="" day=""/>
   </game>
@@ -2185,7 +2295,7 @@ La puntuación máxima de pantalla es de 9990 puntos.</synopsis>
     <locale lang="EN">
       <title>Tron</title>
       <synopsis>You must destroy your enemy: Sark and the MCP (Master Control Program) by making the Enemy Light Cycle crash and by destroying Sark's Rings and finally by penetrating the MCP barrier and destroying the MCP. *Level 1: The Light Cycle Game. Two Light Cycles appear: Tron's (the blue one) Sark's (the red one). As both Cycles travel across the screen they create a wall behind them. You must try to destroy the enemy's Cycle by causing it to crash into a wall while avoiding crashing into a wall or the enemy Cycle. Press the "Speed/Shoot" button to accelerate. 5 points for moving ahead and creating five Tron wall bars. 100 points for destroying each enemy Light Cycle. * Level 2: The Ring Game. Tron is on the left and Sark is on the right. The green bars beneath each figure represent the four Rings each player begins with. Move Tron up and down to catch the Disc as Sark throws it; then position Tron and press the "Speed/Shoot" button to throw the Disc where Sark can't catch it. If either one misses it they lose one Ring below them. 5 points for catching a Disc. 20 points for destroying the enemy's Ring. 200 points for destroying all Rings. * Level 3: the MCP Game. Tron is on the left on a stationary position. Below him are bars that act as timers: the number of bars equals the number of Tron's remaining Rings from the Ring Game. Press the "Speed/Shoot" button to throw one Disc at the MCP Barrier; the Barrier will begin to move up and down. Try to pick the correct timing to press the "Speed/Shoot" button again and release a Disc to penetrate the Barrier and destroy the MCP; then game starts again with the Light Cycle Game - at higher speed! If the Disc fails to penetrate the Barrier you must release another Disc and aim for the correct timing again. If all bars below Tron disappear, a miss is scored. 200 points for destroying the MCP. Bonus 50 points x the number or remaining timing bars. The highest score that can be recorded is 1,995 points; anything over 2,000 points appear as a green bar on the top of the screen when your total score is shown. The highest possible score is 15,995 points, shown as seven bars plus 1,995. Bonus life is given at every 2,000 points scored (maximum five lives at one time).</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Strategy,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>* Nivel 1: El juego de la moto de luz. Aparecen dos motos de luz: Tron (el azul) Sark (el rojo).
@@ -2215,7 +2325,9 @@ Appuyez sur le bouton "Speed / Shoot" pour accélérer.
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1982"/>
   </game>
   <game name="Turtle Bridge">
     <id>88095</id>
@@ -2250,6 +2362,7 @@ Lorsque le joueur atteint un score bonus, tous les échecs sont effacés en fanf
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Wild Man Jump">
@@ -2310,6 +2423,8 @@ Le plus gros score affichable est est 99990.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1981"/>
   </game>
 </datafile>

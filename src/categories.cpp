@@ -3,7 +3,7 @@
  *
  * Create Category for WiiFlow
  *
- * Wiimpathy 2019
+ * Wiimpathy 2020
  *
  ***************************************************************************/
 #include <iostream>
@@ -110,7 +110,7 @@ int FormatFoundCategories(string &line, string &genre)
 		if(isprint(genre.back()) && genre.back() != ',')
 			genre += ',';
 	}
-return 0;
+	return 0;
 }
 
 /* Retrieve a category list for the given game. */
@@ -415,48 +415,6 @@ void Categories::parse_cat(const vector<string> &tmp_cat, string &Categories)
 	}
 }
 
-void Categories::SetDefaultCategories()
-{
-	std::ifstream CustomCatFile;
-
-	if(Platform == "WII" || Platform == "GAMECUBE")
-	{
-		CustomCatFile.open(CAT_DEFAULT_WIITDB, std::ios::in | std::ios::binary);
-	}
-	else
-	{
-		CustomCatFile.open(CAT_DEFAULT_PLUGIN, std::ios::in | std::ios::binary);
-	}
-
-	int cat_idx = 0;
-	int maxcat = 0;
-	string CatToken;
-
-	while(getline(CustomCatFile, CatToken))
-	{
-		// Map the default categories.
-		DefaultCategories[maxcat++];
-		if (CatToken.find('=') != std::string::npos)
-		{
-			CatToken = CatToken.substr( CatToken.find_last_of("=") + 1);
-			std::vector<std::string> tmp_cat = split(CatToken, ',');
-
-			for(auto cat : tmp_cat)
-			{
-				DefaultCategories[cat_idx].push_back( cat );
-				if(debug)
-					cout << "cat.ini: " <<  cat_idx << "=" << cat << endl;
-			}
-			cat_idx++;
-		}
-		maxcat++;
-	}
-	CustomCatFile.close();
-
-	if(debug)
-		printf("\ndir_discHdr size:%lu\n\n", sizeof (dir_discHdr));
-}
-
 bool Categories::GetPlatform(string &filename)
 {
 	bool isDbFile = false;
@@ -492,7 +450,7 @@ bool Categories::GetPlatform(string &filename)
 		PlatformDomainTxt = Platform + CatDomain;
 		found_Magic = 1;
 	}
-	else if(Magic == "gamecube")
+	else if(Magic == "gamecube" || Magic == "channels")
 	{
 		// GC/Wii games share the same database(WII_list.txt) hence same Platform name here.
 		Platform = "WII";
@@ -531,6 +489,48 @@ bool Categories::GetPlatform(string &filename)
 		cout << "\nPLATFORM: " << PlatformDomainTxt << endl;
 		return true;
 	}
+}
+
+void Categories::SetDefaultCategories()
+{
+	std::ifstream CustomCatFile;
+
+	if(Platform == "WII")
+	{
+		CustomCatFile.open(CAT_DEFAULT_WIITDB, std::ios::in | std::ios::binary);
+	}
+	else
+	{
+		CustomCatFile.open(CAT_DEFAULT_PLUGIN, std::ios::in | std::ios::binary);
+	}
+
+	int cat_idx = 0;
+	int maxcat = 0;
+	string CatToken;
+
+	while(getline(CustomCatFile, CatToken))
+	{
+		// Map the default categories.
+		DefaultCategories[maxcat++];
+		if (CatToken.find('=') != std::string::npos)
+		{
+			CatToken = CatToken.substr( CatToken.find_last_of("=") + 1);
+			std::vector<std::string> tmp_cat = split(CatToken, ',');
+
+			for(auto cat : tmp_cat)
+			{
+				DefaultCategories[cat_idx].push_back( cat );
+				if(debug)
+					cout << "cat.ini: " <<  cat_idx << "=" << cat << endl;
+			}
+			cat_idx++;
+		}
+		maxcat++;
+	}
+	CustomCatFile.close();
+
+	if(debug)
+		printf("\ndir_discHdr size:%lu\n\n", sizeof (dir_discHdr));
 }
 
 void Categories::ReadCache(string &filename, bool skiphidden)

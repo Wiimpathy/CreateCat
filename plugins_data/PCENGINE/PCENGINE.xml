@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812041646" games="343"/>
+            <WiiTDB version="201812041646" games="343"/>
   <game name="15-in-1 Mega Collection - Backtracking Ten Years">
     <id>117368</id>
     <locale lang="EN">
       <title>15-in-1 Mega Collection - Backtracking Ten Years</title>
       <synopsis>The 15-in-1 Mega Collection (also with the subtitle Backtracking Ten Years) is a unlicensed multiHuCARD released for NEC's PC Engine. It contains fifteen games, all Apple ports.</synopsis>
+      <genre>Compilation</genre>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -14,8 +15,10 @@
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
     <date year="1992" month="" day=""/>
+    <publisher/>
   </game>
   <game name="1943 Kai">
     <id>78593A</id>
@@ -55,6 +58,7 @@ The PC Engine adaptation adds some original levels to those from the arcade vers
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="21 Emon - Mezase Hotel Ou!!">
@@ -91,6 +95,7 @@ Adapté du manga éponyme de Fujiko Fujio (l'auteur du célébre Doraemon et de 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="5-in-1 Fami Collection - Nes Collection Nr 1">
@@ -98,6 +103,7 @@ Adapté du manga éponyme de Fujiko Fujio (l'auteur du célébre Doraemon et de 
     <locale lang="EN">
       <title>5-in-1 Fami Collection - Nes Collection Nr 1</title>
       <synopsis>The 5-in-1 Fami Collection (also with the subtitle NES-Collection NR 1) is a unlicensed multiHuCARD released for NEC's PC Engine. As the name implies, it contains five games, all NES ports.</synopsis>
+      <genre>Compilation</genre>
     </locale>
     <locale lang="DE">
       <synopsis>The 5-in-1 Fami Collection (also with the subtitle NES-Collection NR 1) is a unlicensed multiHuCARD released for NEC's PC Engine. As the name implies, it contains five games, all NES ports.</synopsis>
@@ -109,13 +115,17 @@ Adapté du manga éponyme de Fujiko Fujio (l'auteur du célébre Doraemon et de 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year="1993"/>
+    <publisher/>
   </game>
   <game name="6-in-1 Fami Collection - Nes Collection Nr 2">
     <id>117370</id>
     <locale lang="EN">
       <title>6-in-1 Fami Collection - Nes Collection Nr 2</title>
       <synopsis>The 6-in-1 Fami Collection (also with the subtitle NES-Collection NR 2) is a unlicensed multiHuCARD released for NEC's PC Engine. As the name implies, it contains six games, all NES ports.(5 games plus one already included from 5-in-1 Fami Collection)</synopsis>
+      <genre>Compilation</genre>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -124,12 +134,17 @@ Adapté du manga éponyme de Fujiko Fujio (l'auteur du célébre Doraemon et de 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year="1993"/>
+    <publisher/>
   </game>
   <game name="7 Wizards">
     <id>125854</id>
     <locale lang="EN">
       <title>7 Wizards</title>
+      <genre>Action</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -147,7 +162,10 @@ Adapté du manga éponyme de Fujiko Fujio (l'auteur du célébre Doraemon et de 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Aero Blasters">
     <id>59772A</id>
@@ -224,6 +242,7 @@ The game is viewed from behind the plane with you fighting wave after wave of en
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Pc Denjin - Punkic Cyborgs">
@@ -265,6 +284,7 @@ So will Zonk be able to defeat King Drool, rescue the moon from his clutches, &a
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Alien Crush">
@@ -299,6 +319,7 @@ The main table has numerous moving targets and ball locks and is two screens hig
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Juuouki">
@@ -334,11 +355,12 @@ The game can be played in single player mode, or in same-screen multiplayer co-o
     <date year="1989" month="09" day="29"/>
     <rating type="NOTE" value="17">
 		</rating>
-    <input players="1">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Andre Panza Kick Boxing">
@@ -370,7 +392,9 @@ The game can be played in single player mode, or in same-screen multiplayer co-o
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
+    <publisher>NEC</publisher>
   </game>
   <game name="Aoi Blink">
     <id>78597A</id>
@@ -381,7 +405,7 @@ The game can be played in single player mode, or in same-screen multiplayer co-o
 The speciality of this game is that the player can switch between three characters with different abilities on the fly, e.g. one can jump high and another has a better gun. Those are important to be able to solve the challenges the levels bring, mostly consisting of traditional platforming and avoiding/shooting enemies.  However, the boss area at the end of the level map has to be opened with a master key. There is one hidden in every area.
 
 The three characters are based on characters of the series and change depending on the level. The health pool is shared between all characters and losing all hearts results in losing a life. Hearts can be refilled by collecting money which is left behind by killed enemies.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <synopsis>El juego es similar al Castillo Secreto de Milon (NES), y juegos en la franquicia Kirby. También recuerda a los vikingos perdidos en que tu trío de protagonistas debe usar sus habilidades individuales para resolver acertijos y derrotar enemigos. Los gráficos están en el punto para los juegos de su edad, y la música (aunque repetitiva) puede ser bastante pegadiza a veces.</synopsis>
@@ -407,6 +431,7 @@ The three characters are based on characters of the series and change depending 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Appare Gateball">
@@ -439,6 +464,7 @@ The three characters are based on characters of the series and change depending 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Artist Tool">
@@ -471,6 +497,7 @@ The three characters are based on characters of the series and change depending 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Atomic Robo-kid Special">
@@ -508,6 +535,7 @@ Les niveaux ont également un peu changé, ils sont maintenant plus découpés. 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Attack Force">
@@ -515,6 +543,7 @@ Les niveaux ont également un peu changé, ils sont maintenant plus découpés. 
     <locale lang="EN">
       <title>Attack Force</title>
       <synopsis>Attack Force is a PC Engine Homebrew.</synopsis>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -523,7 +552,10 @@ Les niveaux ont également un peu changé, ils sont maintenant plus découpés. 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Av Poker">
     <id>78600A</id>
@@ -553,6 +585,7 @@ Les niveaux ont également un peu changé, ils sont maintenant plus découpés. 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <developer>Games Express</developer>
     <publisher>Games Express</publisher>
@@ -562,7 +595,7 @@ Les niveaux ont également un peu changé, ils sont maintenant plus découpés. 
     <locale lang="EN">
       <title>Ballistix</title>
       <synopsis>Psygnosis' Ballistix is an arcade game in which you have to manipulate a ball in order to score a goal with your opponent. To do this, you will control an arrow that defines a direction, and pressing the fire key will launch a ball from this arrow in the direction the arrow points to; by launching balls at correct angles, you will manipulate the main ball and control the way it moves. Ballistix also keeps certain physics laws (namely gravity and friction), and will present you with varying obstacles in either one or two player mode.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -584,6 +617,7 @@ Les niveaux ont également un peu changé, ils sont maintenant plus découpés. 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Bari Bari Densetsu">
@@ -618,6 +652,7 @@ Deux modes de jeu, le "Travel Mode" ou bien le WGP "World Grand Prix". Dans le p
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Barunba">
@@ -660,6 +695,7 @@ Los niveles son auto-scroll, se mueven en todas las direcciones y contienen jefe
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Batman">
@@ -698,6 +734,7 @@ Pierde todas tus vidas y tendrás la opción de continuar, o terminar el juego y
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Battle Lode Runner">
@@ -707,7 +744,7 @@ Pierde todas tus vidas y tendrás la opción de continuar, o terminar el juego y
       <synopsis>Originally released only in Japan on the PC Engine (TurboGrafx-16), Battle Lode Runner is a sequel to Lode Runner and its major draw is a 5 player mode. Players move around several platforms collecting gold. Various enemies inhabit the levels, and the player, armed with a drill, attempts to drill holes to capture the enemies.  Unfortunately, this does not defeat the enemies, only disables them for a short time. After a few seconds, the enemies respawn and resume their chase of the player.
 
 The five-player option was new to any incarnation of Lode Runner, and operates in a very similar manner to Bomberman, except with hole drilling instead of bombing.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Battle Lode Runner es un juego sorprendentemente adictivo y divertido. Cada nivel presenta algún tipo de desafío mental, así como la prueba de sus reflejos, ya que hay que tener cuidado de no atraparse en las esquinas o caer en un agujero mal colocado. Los gráficos están bien dibujados, coloridos y lindos y el sonido es alegre, y hay varias opciones de juego para elegir. Parece obvio que Hudson ha establecido esto para ganar la popularidad de su serie Bomber Man (la pantalla de título incluso tiene el negro Bomber Man disparando en su cohete) y siento que fácilmente coincide con ella en calidad y diversión. Además del modo de rompecabezas estándar, también hay un modo de batalla para 4 jugadores, modo de escape, la opción de seleccionar cualquier nivel e incluso un editor de mapas. Así que incluso con un sólido juego de un solo jugador, obtienes el bono de un frenético juego multijugador. 
@@ -730,11 +767,12 @@ No pase por alto este juego como un segundo Bomber Man porque te perderás de un
     <date year="1993" month="02" day="10"/>
     <rating type="NOTE" value="12">
 		</rating>
-    <input players="1">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Battle Royale">
@@ -767,6 +805,7 @@ No pase por alto este juego como un segundo Bomber Man porque te perderás de un
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Benkei Gaiden">
@@ -801,6 +840,7 @@ Benkei Gaiden is a traditional Japanese-style RPG, set in an environment reminis
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Blazing Lazers">
@@ -838,12 +878,15 @@ The power-up system in Blazing Lazers deserves special mention.  There are four 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Blockos">
     <id>125848</id>
     <locale lang="EN">
       <title>Blockos</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -852,7 +895,10 @@ The power-up system in Blazing Lazers deserves special mention.  There are four 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Bloody Wolf">
     <id>59776A</id>
@@ -895,6 +941,7 @@ Bonne guerre !!</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Body Conquest 2">
@@ -931,6 +978,7 @@ Scantily clad girls, suggestive poses, and sexual innuendo abound; but no explic
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <developer>Games Express</developer>
     <publisher>Games Express</publisher>
@@ -944,7 +992,7 @@ Scantily clad girls, suggestive poses, and sexual innuendo abound; but no explic
 The range of explosion can be upgraded with time, but if you die, the range resets to minimum and you loose your previous skills, though. Some updates can make you walk through the walls, increase your speed, and give you some other assets to aid you in your quest to save the woman you love.
 
 This top-down action-arcade game consists of nine levels per stage, each tougher than the other, and each final consisting of the boss you'll have to deal with. You can move horizontally and vertically and lay down bombs behind you thus evaporating the enemies, but beware, 'cos you can block yourself with your own bomb, and become a victim of your own tricks if you'll play in a huff.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -966,6 +1014,7 @@ This top-down action-arcade game consists of nine levels per stage, each tougher
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Bomberman '93">
@@ -977,7 +1026,7 @@ This top-down action-arcade game consists of nine levels per stage, each tougher
 If you manage to reveal the exit before all enemies are destroyed, it remains in an "inactive" state, meaning that you cannot be transported to the next level until you blow up all the enemies and therefore making it "active". If you accidentally blow up the exit, whether it is active or not, or if time runs out, you will unleash a few enemies that you also need to destroy. After every eighth level, there is a boss that you need to destroy to proceed to the next planet.
 
 Besides this Normal mode, there are two other modes: Battle and Versus. In Battle, you can play against four human- or computer-controlled players in one of seven stages, each with different features like warp holes, conveyor belts, revolving doors, and much more. In Versus, you play head-to-head against a friend using the TurboExpress for non-stop action. Regardless of these two modes, you can still obtain power-ups to give out some punishment against your fellow players, and the maximum number of wins can be set before play.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -994,11 +1043,12 @@ Besides this Normal mode, there are two other modes: Battle and Versus. In Battl
     <date year="1992" month="12" day="01"/>
     <rating type="NOTE" value="17">
 		</rating>
-    <input players="2">
+    <input players="5">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Bomberman '94">
@@ -1006,7 +1056,7 @@ Besides this Normal mode, there are two other modes: Battle and Versus. In Battl
     <locale lang="EN">
       <title>Bomberman '94</title>
       <synopsis>Never one to leave a good thing to be forgotten, Hudson are back with the third installment of the ever present Bomber Man series, and with this one comes a few changes. Apart from our dumpy little hero having lost a little weight since '93, the gameplay </synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Aparte de nuestro pequeño héroe dumpy poco haber perdido un poco de peso desde el' 93, el modo de juego también se ha alterado significativamente. Mientras que todavía conserva la acción de bombardeo básico, completar un nivel ahora ya no requiere que destruyas a todos los enemigos en la pantalla. En su lugar, usted tiene que encontrar y destruir un conjunto de pilares en cada nivel y estos se desbloqueará un pedazo de amuleto roto de su cúpula protegida. Recoger la pieza y todos los bloques destruibles restantes se convierten en monedas y usted tiene alrededor de 15 segundos para recoger tantos como sea posible. 
@@ -1034,6 +1084,7 @@ Otra adición importante son los animales de tipo canguro en los que se puede sa
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Bomberman - Users Battle">
@@ -1066,6 +1117,7 @@ Otra adición importante son los animales de tipo canguro en los que se puede sa
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Pc Genjin 3 - Pithecanthropus Computerurus">
@@ -1099,11 +1151,12 @@ El nuevo modo de "supertamaño" en PC Genjin 3 es ciertamente impresionante, aun
     <date year="1993" month="04" day="02"/>
     <rating type="NOTE" value="15">
 		</rating>
-    <input players="1">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Pc Genjin - Pithecanthropus Computerurus">
@@ -1146,6 +1199,7 @@ A variety of bonus stages can be found throughout the game, which provide bonus 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Pc Genjin 2 - Pithecanthropus Computerurus">
@@ -1186,6 +1240,7 @@ La secuela hace que los gráficos se pongan a tope e introduce más jefes locos 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Bouken Danshaku Don - The Lost Sunheart">
@@ -1221,6 +1276,7 @@ La maniabilité est à l'image de nombreux shoots sur PC Engine : sans faille. L
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Boxyboy">
@@ -1253,6 +1309,7 @@ La maniabilité est à l'image de nombreux shoots sur PC Engine : sans faille. L
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Bravoman">
@@ -1294,6 +1351,7 @@ Hitoshi Nakamura est un salary man nippon tout ce qu'il y a de plus ordinaire, u
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Break In">
@@ -1327,11 +1385,12 @@ Se ve y juega como esos juegos que solía ver en las recreativas y tiene un mont
     <date year="1989" month="08" day="10"/>
     <rating type="NOTE" value="11">
 		</rating>
-    <input players="1">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Bubblegum Crash! - Knight Sabers 2034">
@@ -1366,6 +1425,7 @@ Une aventure qui se passe en rpg texte. De beau graphismes et animations. L'univ
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Bull Fight - Ring No Haja">
@@ -1399,11 +1459,12 @@ L'autre mode de jeu, "Fighting", s'inspire davantage des scènes d'entraînement
     <date year="1989" month="12" day="08"/>
     <rating type="NOTE" value="14">
 		</rating>
-    <input players="8">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Burning Angels">
@@ -1442,6 +1503,7 @@ Durant le jeu, on peut récupérer des capsules avec une étoile dessus, au bout
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Cadash">
@@ -1515,6 +1577,7 @@ Une fois sur le ring, le but est bien sûr de flanquer tous les coups possibles 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Champions Forever Boxing">
@@ -1549,6 +1612,7 @@ Une fois sur le ring, le but est bien sûr de flanquer tous les coups possibles 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Chase H.q.">
@@ -1583,6 +1647,7 @@ However, once you've caught up with your suspect, you are given more time. Your 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Chew Man Fu">
@@ -1620,6 +1685,7 @@ Gameplay is something of a Pengo variant, as the single-screen levels are inhabi
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Chibi Maruko Chan - Quiz De Piihyara">
@@ -1645,6 +1711,7 @@ Gameplay is something of a Pengo variant, as the single-screen levels are inhabi
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Chikudenya Toubei - Kubikiri Yakata Yori">
@@ -1679,6 +1746,7 @@ Referred to as a "digital comic", the game has a number of cutscenes that play o
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="China Warrior">
@@ -1714,6 +1782,7 @@ Referred to as a "digital comic", the game has a number of cutscenes that play o
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Circus Lido">
@@ -1749,12 +1818,15 @@ Dans Circus Lido, impossible de sauter, vous devez utiliser l'autre bouton pour 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="City Bomber">
     <id>125849</id>
     <locale lang="EN">
       <title>City Bomber</title>
+      <genre>Action,Racing,Shooter,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1763,7 +1835,10 @@ Dans Circus Lido, impossible de sauter, vous devez utiliser l'autre bouton pour 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="City Hunter">
     <id>59789A</id>
@@ -1772,7 +1847,7 @@ Dans Circus Lido, impossible de sauter, vous devez utiliser l'autre bouton pour 
       <synopsis>City Hunter is based on the eponymous manga by Tsukasa Hojo. The story focuses on Ryo Saeba, a young man with a mysterious past, who founds the City Hunter team in Shinjuku, Tokyo. The City Hunter is an underground private detective agency, which takes care of particularly dangerous cases. In the game, the player is able to play through three of such cases, which are unrelated to each other and can be played in any order. 
 
 The gameplay is essentially that of a side-scrolling shooter. The player navigates Ryo through the stages, dispatching of the frequently appearing enemies with his gun. The gameplay system is rather simple, without power-ups or different weapons, and with one items possible to carry at a time. The levels are usually designed as vast indoor areas, with many rooms Ryo can enter. The structure of the game also reveals mild adventure elements: often it is necessary to speak to a character, receive an item (such as a key), back-track to a previous area in order to reach a previously inaccessible room, etc.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1797,12 +1872,15 @@ The gameplay is essentially that of a side-scrolling shooter. The player navigat
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Collision 8">
     <id>125850</id>
     <locale lang="EN">
       <title>Collision 8</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1811,7 +1889,10 @@ The gameplay is essentially that of a side-scrolling shooter. The player navigat
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Columns">
     <id>59788A</id>
@@ -1849,6 +1930,7 @@ As well as the normal game mode, there is also a 'flash' mode, in which the aim 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Coryoon - Child Of Dragon">
@@ -1885,12 +1967,15 @@ As well as the normal game mode, there is also a 'flash' mode, in which the aim 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Crash">
     <id>125886</id>
     <locale lang="EN">
       <title>Crash</title>
+      <genre>Action,Racing,Arcade,Shooter,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1899,7 +1984,10 @@ As well as the normal game mode, there is also a 'flash' mode, in which the aim 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Cratermaze">
     <id>14527A</id>
@@ -1939,6 +2027,7 @@ The Japanese release, Doraemon: Meikyu Daisakusen, features popular children's c
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Cross Wiber - Cyber Combat Police">
@@ -1946,7 +2035,7 @@ The Japanese release, Doraemon: Meikyu Daisakusen, features popular children's c
     <locale lang="EN">
       <title>Cross Wiber - Cyber Combat Police</title>
       <synopsis>Cross Wiber: Cyber Combat Police is a sequel to Cyber Cross and follows the adventures of Cross Wiber, an special inspector of the cyber combat police. Several years after the happenings in Cyber Cross, a new threat threatens Earth: Duma and his alien for</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Una actualización a la anterior Cyber Cross, Cross Wiber ofrece una plataforma similar de lucha de plataforma con varias transformaciones de Power Rangers estilo de juego, pero también lanza en algunas de desplazamiento lateral disparar disparar a la acción para un cambio de ritmo.</synopsis>
@@ -1973,12 +2062,15 @@ Le jeu mêle différents genres : action, plates-formes ainsi que quelques phase
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Cubman">
     <id>125851</id>
     <locale lang="EN">
       <title>Cubman</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -1987,7 +2079,10 @@ Le jeu mêle différents genres : action, plates-formes ainsi que quelques phase
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Cyber Core">
     <id>59785A</id>
@@ -2018,6 +2113,7 @@ Nous sommes ici en présence d'un shoot 'em up, un shmup vertical qui se tient d
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Cyber Cross">
@@ -2025,7 +2121,7 @@ Nous sommes ici en présence d'un shoot 'em up, un shmup vertical qui se tient d
     <locale lang="EN">
       <title>Cyber Cross</title>
       <synopsis>Rolling Thunder-esque platform beat 'em up which gives you the ability to transform into a brightly coloured Power Suit as you fight crime on the streets.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up,Platformer</genre>
     </locale>
     <locale lang="ES">
       <synopsis>La plataforma de Rolling Thunder-esque le da la habilidad de transformarse en un Power Suit de colores brillantes para combatir el crimen en las calles.</synopsis>
@@ -2055,6 +2151,7 @@ A vous dès lors en fonction de la couleur de votre armure, les boomerangs jaune
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Cyber Dodge">
@@ -2088,6 +2185,7 @@ A vous dès lors en fonction de la couleur de votre armure, les boomerangs jaune
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Cyber Knight">
@@ -2127,6 +2225,7 @@ Combat takes place in turn-based combat on a 6x6 squares field. Seen from the si
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Daichi-kun Crisis - Do Natural">
@@ -2161,6 +2260,7 @@ Un jeu de rôle adapté de la version PC qui connu un immense succès et qui ins
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Daisenpuu">
@@ -2193,6 +2293,7 @@ Un jeu de rôle adapté de la version PC qui connu un immense succès et qui ins
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Darius Alpha">
@@ -2229,6 +2330,7 @@ Le jeu reprend tous les gardiens des zones des Darius précédents et vous octro
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Darius Plus">
@@ -2261,6 +2363,7 @@ Le jeu reprend tous les gardiens des zones des Darius précédents et vous octro
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Darkwing Duck">
@@ -2293,6 +2396,7 @@ Le jeu reprend tous les gardiens des zones des Darius précédents et vous octro
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Davis Cup Tennis">
@@ -2326,6 +2430,7 @@ Le jeu reprend tous les gardiens des zones des Darius précédents et vous octro
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Dead Moon">
@@ -2364,6 +2469,7 @@ Le gameplay se base en grande partie sur celui de Super Star Soldier ou Final So
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Deep Blue">
@@ -2397,6 +2503,7 @@ Vous allez affronter des nuées de poissons, de poulpes, de méduses, des éto
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Detana!! Twinbee">
@@ -2411,7 +2518,7 @@ Power-ups and upgrades can be gained by shooting the colored bells that some ene
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Detana !! Presenta por primera vez a los personajes detrás de los luchadores TwinBee y WinBee, Pastel y Light, y narra su viaje para salvar a la Princesa Melora de una fuerza malvada que amenaza al mundo. Sin embargo, El juego todavia trata de disparar a los enemigos surrealistas y lindos a través de 6 etapas de acción de desplazamiento vertical.nnnnSe pueden obtener Power-ups y mejoras disparando las campanas de colores que algunos enemigos dejan atrás hasta que permanezcan del color que deseas, con muchas combinaciones posibles. Se ha agregado una nueva característica de carga a tu arsenal básico, y el juego cuenta con un modo de juego cooperativo para dos jugadores.</synopsis>
+      <synopsis>Detana !! Presenta por primera vez a los personajes detrás de los luchadores TwinBee y WinBee, Pastel y Light, y narra su viaje para salvar a la Princesa Melora de una fuerza malvada que amenaza al mundo. Sin embargo, El juego todavia trata de disparar a los enemigos surrealistas y lindos a través de 6 etapas de acción de desplazamiento vertical.Se pueden obtener Power-ups y mejoras disparando las campanas de colores que algunos enemigos dejan atrás hasta que permanezcan del color que deseas, con muchas combinaciones posibles. Se ha agregado una nueva característica de carga a tu arsenal básico, y el juego cuenta con un modo de juego cooperativo para dos jugadores.</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -2432,11 +2539,12 @@ Power-ups and upgrades can be gained by shooting the colored bells that some ene
     <date year="1992" month="02" day="28"/>
     <rating type="NOTE" value="12">
 		</rating>
-    <input players="1">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Devil's Crush">
@@ -2473,6 +2581,7 @@ Le thème des Aliens a été abandonné au profit d'une ambiance medievalo-fanta
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Die Hard">
@@ -2480,7 +2589,7 @@ Le thème des Aliens a été abandonné au profit d'une ambiance medievalo-fanta
     <locale lang="EN">
       <title>Die Hard</title>
       <synopsis>Terrorists are holding people hostage in Nakatomi Plaza  in an attempt to steal $600 million. John McClain decides to visit his wife Holly, who happens to be one of the hostages, and gets involved in the situation. Unlike other versions of Die Hard that are in the MobyGames database, the TurboGrafx-16 version is played from a top-down perspective, and consists of ten stages which has you fighting bad guys from forests, all the way through the Nakatomi Building, and finally on the roof where the final confrontation takes place. Weapons can be picked up by knocking down enemies, and include machine guns, laser shots, and flamethrowers. If you look hard enough, you may even obtain a bullet-proof vest, which may protects you from shots, but can also reduce its life.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2505,6 +2614,7 @@ Le thème des Aliens a été abandonné au profit d'une ambiance medievalo-fanta
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Digital Champ">
@@ -2540,6 +2650,7 @@ Le thème des Aliens a été abandonné au profit d'une ambiance medievalo-fanta
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Don Doko Don!">
@@ -2575,6 +2686,7 @@ Le thème des Aliens a été abandonné au profit d'une ambiance medievalo-fanta
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Doraemon - Nobita No Dorabian Night">
@@ -2610,6 +2722,7 @@ Le thème des Aliens a été abandonné au profit d'une ambiance medievalo-fanta
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Double Dungeons">
@@ -2640,11 +2753,12 @@ There is no narrative in the game; the only story-related information comes in f
     <date year="1989" month="09" day="29"/>
     <rating type="NOTE" value="9">
 		</rating>
-    <input players="1">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Download">
@@ -2677,12 +2791,15 @@ There is no narrative in the game; the only story-related information comes in f
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Dragon 2 Win Prototype">
     <id>125905</id>
     <locale lang="EN">
       <title>Dragon 2 Win Prototype</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2691,7 +2808,10 @@ There is no narrative in the game; the only story-related information comes in f
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Dragon Egg!">
     <id>78632A</id>
@@ -2729,6 +2849,7 @@ Les six niveaux qui composent le jeu se décomposent en deux ou trois tableaux, 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Dragon Saber - After Story Of Dragon Spirit">
@@ -2793,6 +2914,7 @@ Le système d'upgrade est simple, avec des bonus à attraper qui font monter vot
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Dragon's Curse">
@@ -2828,6 +2950,7 @@ Le système d'upgrade est simple, avec des bonus à attraper qui font monter vot
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Drop Off">
@@ -2863,6 +2986,7 @@ Le système d'upgrade est simple, avec des bonus à attraper qui font monter vot
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Dungeon Explorer">
@@ -2894,6 +3018,7 @@ Dungeon Explorer plays like Gauntlet: you choose one of several different charac
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Echo">
@@ -2901,6 +3026,7 @@ Dungeon Explorer plays like Gauntlet: you choose one of several different charac
     <locale lang="EN">
       <title>Echo</title>
       <synopsis>A Homebrew game made by Trilinear, the maker of  Echo's Quest for Dreamcast. Echo is a 2D side scrolling platformer. The game has some nice 2D visuals but is missing background music and has some slightly stiff controls.</synopsis>
+      <genre>Action,Shooter,</genre>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2909,7 +3035,10 @@ Dungeon Explorer plays like Gauntlet: you choose one of several different charac
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Energy">
     <id>78636A</id>
@@ -2918,7 +3047,7 @@ Dungeon Explorer plays like Gauntlet: you choose one of several different charac
       <synopsis>The story of this game is rather simple: Tokyo has been destroyed by monsters! Terrifying creatures have invaded the city and ruined it. A scientist who possesses the secret knowledge of psychic powers known as ESP, imbues a young boy with them, and sends him to the streets and underground caverns of Tokyo, to rescue the few remaining survivors, and find out the source of the monstrous invasion!
 
 Energy is a side-scrolling shooter. The player manipulates the young hero, who can shoot energy balls and jump. The energy attacks deplete his ESP bar, which refills itself gradually afterwards. The hero's life bar can only be refilled with healing potions which are sometimes dropped by the enemies. The boy can also collect items which change the properties or his ESP attack, and/or upgrade these attacks to the next level.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2943,6 +3072,7 @@ Energy is a side-scrolling shooter. The player manipulates the young hero, who c
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="F-1 Dream">
@@ -2975,6 +3105,7 @@ Energy is a side-scrolling shooter. The player manipulates the young hero, who c
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="F-1 Pilot - You're King Of Kings">
@@ -3002,11 +3133,12 @@ Energy is a side-scrolling shooter. The player manipulates the young hero, who c
     <date year="1989" month="03" day="23"/>
     <rating type="NOTE" value="15">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="F1 Circus">
@@ -3041,6 +3173,7 @@ A total of 15 courses are on offer, and there is a World Championship mode, as w
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="F1 Circus '91 - World Championship">
@@ -3075,6 +3208,7 @@ On s'en serait douté, F1 Circus '91 (deuxième épisode sur les quatre que comp
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="F1 Circus '92 - The Speed Of Sound">
@@ -3107,6 +3241,7 @@ On s'en serait douté, F1 Circus '91 (deuxième épisode sur les quatre que comp
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="F1 Triple Battle">
@@ -3139,6 +3274,7 @@ On s'en serait douté, F1 Circus '91 (deuxième épisode sur les quatre que comp
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Falcon">
@@ -3168,9 +3304,10 @@ On s'en serait douté, F1 Circus '91 (deuxième épisode sur les quatre que comp
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
-  <game name="Fantasy Zone">
+      <game name="Fantasy Zone">
     <id>59796A</id>
     <locale lang="EN">
       <title>Fantasy Zone</title>
@@ -3199,6 +3336,7 @@ Fantasy Zone is an arcade style shooter for one or two players. The goal is to d
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Fighting Run">
@@ -3206,7 +3344,7 @@ Fantasy Zone is an arcade style shooter for one or two players. The goal is to d
     <locale lang="EN">
       <title>Fighting Run</title>
       <synopsis>Fighting Run is an action game by Nihon Bussan that features an unusual mix of racing and fighting. The player takes control of a humanoid biped robot engaged in a series of deadly races against other opponents. But these races have a twist - each racer can attack the opposing player in order to win the race and score points. In single-player mode, the player first needs to choose a track and an opponent. Then points need to be allocated to increase various abilities, from Speed, Power to Armor. Then the race is ready to go - each racer can freely move around the track, hit each other or use special attacks collected along the way (such as lightning bolts, grenades and so forth). Each robot also comes with a life bar and the race is over as soon as it reaches zero. Additionally, Fighting Run features a versus-mode where two players, or two AI controlled opponents, can race against each other, as well as a tournament-mode where eight robots and their pilots race (two at the time) for a golden trophy.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3234,6 +3372,7 @@ Chaque robot est également livré avec une barre de vie et la course est termin
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Final Blaster">
@@ -3268,6 +3407,7 @@ Développé par Namco, Final Blaster est un shoot vertical somme toute très cla
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Final Lap Twin">
@@ -3305,6 +3445,7 @@ Quest mode has more depth and forms the core of Final Lap Twin.  This is essenti
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Final Match Tennis">
@@ -3340,6 +3481,7 @@ Quest mode has more depth and forms the core of Final Lap Twin.  This is essenti
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Final Soldier">
@@ -3352,7 +3494,7 @@ The game is divided in several stages in which enemies attack you in several wav
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Shoot 'em up vertical continuación de los juegos de Star Soldier. Una vez más es tu trabajo proteger al Imperio Galáctico de una invasión alienígena usando nada más que tu fiel luchador estelar.nnnnEl juego se divide en varias etapas en las que los enemigos te atacan en varias olas hasta que llegas al jefe de etapa y procedes a la siguiente. Final Soldier incorpora cuatro disparos diferentes que se pueden disparar independientemente o en conjunto. Lo que equipas en cada módulo depende de ti, ya que no sólo puedes seleccionar cargamentos de armas entre niveles, sino también disparar los ciclos de power-ups a los tipos de armas disponibles que puedes incorporar en el medio juego.</synopsis>
+      <synopsis>Shoot 'em up vertical continuación de los juegos de Star Soldier. Una vez más es tu trabajo proteger al Imperio Galáctico de una invasión alienígena usando nada más que tu fiel luchador estelar.El juego se divide en varias etapas en las que los enemigos te atacan en varias olas hasta que llegas al jefe de etapa y procedes a la siguiente. Final Soldier incorpora cuatro disparos diferentes que se pueden disparar independientemente o en conjunto. Lo que equipas en cada módulo depende de ti, ya que no sólo puedes seleccionar cargamentos de armas entre niveles, sino también disparar los ciclos de power-ups a los tipos de armas disponibles que puedes incorporar en el medio juego.</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -3378,6 +3520,7 @@ The game is divided in several stages in which enemies attack you in several wav
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Fire Pro Wrestling - Combination Tag">
@@ -3413,6 +3556,7 @@ The game is divided in several stages in which enemies attack you in several wav
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Fire Pro Wrestling 2 - 2nd Bout">
@@ -3446,6 +3590,7 @@ The game is divided in several stages in which enemies attack you in several wav
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
     <developer>Human</developer>
     <publisher>Human</publisher>
@@ -3482,6 +3627,7 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
     <developer>Human</developer>
     <publisher>Human</publisher>
@@ -3490,6 +3636,8 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
     <id>125933</id>
     <locale lang="EN">
       <title>Fire Tag</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3498,12 +3646,17 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Flipit">
     <id>125934</id>
     <locale lang="EN">
       <title>Flipit</title>
+      <genre>Puzzle,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3512,7 +3665,10 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Formation Armed F">
     <id>78648A</id>
@@ -3545,6 +3701,7 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Formation Soccer - Human Cup '90">
@@ -3575,11 +3732,12 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
     <date year="1990" month="04" day="27"/>
     <rating type="NOTE" value="16">
 		</rating>
-    <input players="2">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Formation Soccer - On J. League">
@@ -3610,17 +3768,20 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
     <date year="1994" month="01" day="15"/>
     <rating type="NOTE" value="19">
 		</rating>
-    <input players="2">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="French Staff">
     <id>125939</id>
     <locale lang="EN">
       <title>French Staff</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3629,12 +3790,17 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Frothigu">
     <id>125940</id>
     <locale lang="EN">
       <title>Frothigu</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3643,7 +3809,10 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Fushigi No Yume No Alice">
     <id>78651A</id>
@@ -3678,12 +3847,15 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="G And w-fire">
     <id>125941</id>
     <locale lang="EN">
       <title>G And w-fire</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3692,7 +3864,10 @@ Le mode Edit est donc la principale nouveauté de cet épisode. Pour le reste, l
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Gai Flame">
     <id>78653A</id>
@@ -3725,6 +3900,7 @@ The game starts with macro-level view of the world (player can move units from b
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <publisher>NCS</publisher>
   </game>
@@ -3759,6 +3935,7 @@ Pas de surprise, le joueur incarne le bien. Comme un mode 2 joueurs est aussi de
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Galaga '90">
@@ -3798,12 +3975,15 @@ Later in the game some enemies are equipped with armor that renders them invinci
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Game Of Life">
     <id>125948</id>
     <locale lang="EN">
       <title>Game Of Life</title>
+      <genre>Puzzle,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3812,7 +3992,10 @@ Later in the game some enemies are equipped with armor that renders them invinci
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Ganbare! Golf Boys">
     <id>78656A</id>
@@ -3849,6 +4032,7 @@ The game has a permanent top-down view of each hole, zooming in whenever the pla
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Gekibo - Gekisha Boy">
@@ -3856,7 +4040,7 @@ The game has a permanent top-down view of each hole, zooming in whenever the pla
     <locale lang="EN">
       <title>Gekibo : Gekisha Boy</title>
       <synopsis>Novel game in which you have to earn points by taking photographs of the most newsworthy happenings as you walk down the street. These involve people falling over, planes crashing, UFOs and many other bizarre events. You have a </synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3883,6 +4067,7 @@ Il faut avoir les yeux partout sans cesse afin de ramener le meilleur scoop pour
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Genji Tsuushin Agedama">
@@ -3920,6 +4105,7 @@ Pour votre attaque, une jauge est mise en place, vous permettant d'accéder à 5
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Genpei Toumaden">
@@ -3931,7 +4117,7 @@ Pour votre attaque, une jauge est mise en place, vous permettant d'accéder à 5
 The story of Genpei T?ma Den ostensibly revolves around the historical Genpei War from Japanese history, and involves Taira no Kagekiyo fighting the evil Minamoto no Yoritomo and the Minamoto clan across Japan.
 
 The game features three modes of play: "side mode", a small-scale action platforming section; "big mode", a large-scale fighting section comparable to the Taito coin-op Gladiator; and "flat mode", an overhead-view section. In all three sections the goal is to destroy enemies, collect items, and reach the end before the life bar (represented by burning candles) runs out.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3952,6 +4138,7 @@ The game features three modes of play: "side mode", a small-scale action platfor
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Ghost Manor">
@@ -3959,7 +4146,7 @@ The game features three modes of play: "side mode", a small-scale action platfor
     <locale lang="EN">
       <title>Ghost Manor</title>
       <synopsis>With an earth-shattering explosion, horror from another dimension grips your once peaceful town. Grisly creatures prey on the innocent. The dead rise to roam the streets. All resistance falls! But hey, no problem, you have a plan! Find the secret passage to their mansion stronghold and battle past the zombies and ghouls. Now get your axe inside, 'cause it's way full of demons and ghastly surprises! Ride the awesome Skull Slammer and search for their leader, the hideous Orb gamut. Discover his weakness and be a hero. If you don't, you'll be dust.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3982,6 +4169,7 @@ Montez sur le superbe Skull Slammer et recherchez leur chef Orb gamut. Découvre
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Gokuraku! Chuuka Taisen">
@@ -4014,12 +4202,15 @@ Montez sur le superbe Skull Slammer et recherchez leur chef Orb gamut. Découvre
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Goldmage">
     <id>125954</id>
     <locale lang="EN">
       <title>Goldmage</title>
+      <genre>Demo,RPG</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -4028,7 +4219,10 @@ Montez sur le superbe Skull Slammer et recherchez leur chef Orb gamut. Découvre
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Gomola Speed">
     <id>78662A</id>
@@ -4039,7 +4233,7 @@ Montez sur le superbe Skull Slammer et recherchez leur chef Orb gamut. Découvre
 Different stages may have different goals -- for example, you may have to find a key, or use your surround ability on floor tiles to reveal items or enemies. Only your snake's head is vulnerable; if an enemy hits your body it will scatter all the pieces and you'll have to collect them again. After completing set conditions on each stage, a door will open that leads to the next stage, at which point you'll be just a head again, and will have to hunt for your body once more.
 
 The game has the same unique UPL style that will be familiar to fans of games such as Atomic Robo-Kid and Mutant Night.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4065,6 +4259,7 @@ En fait, vous dirigez Gome qui, dans chaque niveau, doit retrouver les parties d
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Gradius">
@@ -4103,6 +4298,7 @@ Cette version PC Engine possède un mode deux joueurs successif ainsi qu'un cinq
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Gunboat">
@@ -4126,7 +4322,7 @@ Anchors aweigh!</synopsis>
       <genre>Simulation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Gunboat es un juego de acción tipo simulador en 2D. Tomas el control de un barco de combate de los EE. UU. en varias zonas de conflicto.nnnnEl barco de combate lleva una tripulación de cuatro hombres:nnnn- Un suboficial de primera clase que se desempeña como capitán de barco y pilotonn- Un artillero, que controla las armas de avancenn- Un hombre de motor, que cuida los motores y sirve como artillero medionn- Un marinero que controla las armas de popannnnLos cuatro hombres están entrenados en sus respectivas tareas. La redundancia se vuelve crucial si uno o dos miembros de la tripulación están heridos o muertos.nnnn¡Ten cuidado con los ríos ...!nnnn¡Leven anclas!</synopsis>
+      <synopsis>Gunboat es un juego de acción tipo simulador en 2D. Tomas el control de un barco de combate de los EE. UU. en varias zonas de conflicto.El barco de combate lleva una tripulación de cuatro hombres:- Un suboficial de primera clase que se desempeña como capitán de barco y pilotonn- Un artillero, que controla las armas de avancenn- Un hombre de motor, que cuida los motores y sirve como artillero medionn- Un marinero que controla las armas de popaLos cuatro hombres están entrenados en sus respectivas tareas. La redundancia se vuelve crucial si uno o dos miembros de la tripulación están heridos o muertos.¡Ten cuidado con los ríos ...!¡Leven anclas!</synopsis>
       <genre>Simulación</genre>
     </locale>
     <locale lang="FR">
@@ -4146,6 +4342,7 @@ Anchors aweigh!</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Hana Taaka Daka!">
@@ -4178,6 +4375,7 @@ Anchors aweigh!</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Hanii In The Sky">
@@ -4216,6 +4414,7 @@ La grande originalité du jeu vient de son tir orientable ! Vous tirez avec un b
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Hanii On The Road">
@@ -4223,7 +4422,7 @@ La grande originalité du jeu vient de son tir orientable ! Vous tirez avec un b
     <locale lang="EN">
       <title>Hanii on the Road</title>
       <synopsis>Also known as "Hany on the Road".  He might look like a condom, but Hany is one active little guy. Following on from Hany in the Sky (released the year before), Hany on the Road is a scrolling action game and bears a strong resemblance to Shockway Rider, </synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4248,6 +4447,7 @@ La grande originalité du jeu vient de son tir orientable ! Vous tirez avec un b
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Hatris">
@@ -4280,6 +4480,7 @@ La grande originalité du jeu vient de son tir orientable ! Vous tirez avec un b
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Heavy Unit">
@@ -4322,6 +4523,7 @@ L'autre originalité du titre, c'est la possibilité de se transformer. Tout com
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Hisou Kihei - Xserd">
@@ -4358,6 +4560,7 @@ Dans chaque scénario, les Serds - une ligue de méchas d'attaque spécialisée 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Hit The Ice - Vhl The Official Video Hockey League">
@@ -4390,6 +4593,7 @@ Dans chaque scénario, les Serds - une ligue de méchas d'attaque spécialisée 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Honoo No Toukyuuji Dodge Danpei">
@@ -4417,17 +4621,20 @@ Dans chaque scénario, les Serds - une ligue de méchas d'attaque spécialisée 
     <date year="1992" month="09" day="25"/>
     <rating type="NOTE" value="16">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Hucnoid">
     <id>125968</id>
     <locale lang="EN">
       <title>Hucnoid</title>
+      <genre>Breakout</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -4436,7 +4643,10 @@ Dans chaque scénario, les Serds - une ligue de méchas d'attaque spécialisée 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Idol Hanafuda Fan Club">
     <id>78670A</id>
@@ -4467,6 +4677,7 @@ Ici il est impossible de choisir son adversaire : l'ordinateur vous proposera de
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <developer>Games Express</developer>
     <publisher>Games Express</publisher>
@@ -4481,7 +4692,7 @@ ImageFight is a top-down vertically scrolling space shooter. On every level ther
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Una misteriosa forma de vida alienígena se está extendiendo por toda la galaxia, tratando de conquistar el mundo. Tomó el control de la base lunar y amenaza con descender a la Tierra. Los humanos han enviado el avión de caza más avanzado para oponerse a los alienígenas: el OF-1. El OF-1 tiene la capacidad de cambiar de velocidad en cualquier momento y equipar diferentes armas y vainas. OF-1 es la última esperanza de la humanidad!nnnnImage Fight es un espacial vertical Shoot 'Em Up. En todos los niveles habrá naves enemigas, torretas, robots y otras máquinas disparando proyectiles o intentando embestirte. Pero también hay power-ups dispersos en pequeños contenedores verdes. Debes destruir estos contenedores antes de poder obtener el encendido. Esos power-ups incluyen pods que añaden potencia o velocidad de ataque extra, nuevos tipos de armas, la capacidad de disparar en diferentes direcciones, etc.</synopsis>
+      <synopsis>Una misteriosa forma de vida alienígena se está extendiendo por toda la galaxia, tratando de conquistar el mundo. Tomó el control de la base lunar y amenaza con descender a la Tierra. Los humanos han enviado el avión de caza más avanzado para oponerse a los alienígenas: el OF-1. El OF-1 tiene la capacidad de cambiar de velocidad en cualquier momento y equipar diferentes armas y vainas. OF-1 es la última esperanza de la humanidad!Image Fight es un espacial vertical Shoot 'Em Up. En todos los niveles habrá naves enemigas, torretas, robots y otras máquinas disparando proyectiles o intentando embestirte. Pero también hay power-ups dispersos en pequeños contenedores verdes. Debes destruir estos contenedores antes de poder obtener el encendido. Esos power-ups incluyen pods que añaden potencia o velocidad de ataque extra, nuevos tipos de armas, la capacidad de disparar en diferentes direcciones, etc.</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -4507,6 +4718,7 @@ ImageFight is a top-down vertically scrolling space shooter. On every level ther
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Impossamole">
@@ -4543,6 +4755,7 @@ The platform-based gameplay is similar to Monty's earlier games, with primarily 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="J. League Greatest Eleven">
@@ -4550,6 +4763,7 @@ The platform-based gameplay is similar to Monty's earlier games, with primarily 
     <locale lang="EN">
       <title>J. League Greatest Eleven</title>
       <genre>Sports</genre>
+      <synopsis>In the game you play street basketball two-on-two with your friends on with computer. So there are no referees, no fouls, and no shot clock, but the teams called by the names of cities such as Phoenix or Chicago. You can choose your player from 16 available players, including Barkley himself.</synopsis>
     </locale>
     <locale lang="ES">
       <genre>Deportes,Deportes / Fútbol</genre>
@@ -4572,11 +4786,12 @@ The platform-based gameplay is similar to Monty's earlier games, with primarily 
     <date year="1993" month="05" day="14"/>
     <rating type="NOTE" value="17">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Kato-chan And Ken-chan">
@@ -4616,6 +4831,7 @@ Along the way, you can enter doors. Doing this will give you a hint about the le
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Jack Nicklaus' Turbo Golf">
@@ -4649,6 +4865,7 @@ Along the way, you can enter doors. Doing this will give you a hint about the le
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
     <developer>Sculptured Software</developer>
     <publisher>Accolade</publisher>
@@ -4688,12 +4905,15 @@ Jackie Chan's Action Kung Fu is a side-scrolling fighting game. Jackie's control
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Jamanoid">
     <id>125972</id>
     <locale lang="EN">
       <title>Jamanoid</title>
+      <genre>Breakout</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -4702,14 +4922,17 @@ Jackie Chan's Action Kung Fu is a side-scrolling fighting game. Jackie's control
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Jigoku Meguri">
     <id>78676A</id>
     <locale lang="EN">
       <title>Jigoku Meguri</title>
       <synopsis>Bonze Adventure, or Jigoku Meguri ("Hell Tour"), is an Arcade platformer featuring the eponymous Buddhist monk Bonze has he makes his way through the Shinto/Buddhist equivalent of Hell. He is beset by demons and yokai from all sides but is able to exorcise them with his prayer beads, which are thrown outwards with a bouncing motion.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Bonze Adventure, o Jigoku Meguri ("Hell Tour"), es un juego de plataformas Arcade que presenta al monje budista epónimo Bonze, Este hace su camino a través del equivalente sintoísta / budista del Infierno. Él está acosado por demonios y yokai de todos los lados, pero es capaz de exorcizarlos con sus cuentas de oración, que se lanzan hacia afuera con un movimiento de rebote.</synopsis>
@@ -4736,6 +4959,7 @@ Ici le personnage principal, héros de son état, est un moine bouddhiste revêt
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Jinmu Denshou">
@@ -4768,6 +4992,7 @@ Ici le personnage principal, héros de son état, est un moine bouddhiste revêt
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Kaizou Choujin Shubibinman">
@@ -4804,6 +5029,7 @@ Shubibinman is a 2D side-scrolling action platformer, in which you play as eithe
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
     <developer>Masaya</developer>
   </game>
@@ -4837,6 +5063,7 @@ Shubibinman is a 2D side-scrolling action platformer, in which you play as eithe
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Keith Courage In Alpha Zones">
@@ -4878,6 +5105,7 @@ Dans la pratique, vous contrôlez Keith, qui peut se déplacer, s'accroupir et o
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Kickball">
@@ -4913,6 +5141,7 @@ Il comporte sept personnages - dont chacun représente une équipe d'athlètes i
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Kiki Kai Kai">
@@ -4946,6 +5175,7 @@ Vous incarnez une chamane de l'école Shinto qui doit venir à bout des démons 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="King Of Casino">
@@ -4975,6 +5205,7 @@ Vous incarnez une chamane de l'école Shinto qui doit venir à bout des démons 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Klax">
@@ -5007,6 +5238,7 @@ Vous incarnez une chamane de l'école Shinto qui doit venir à bout des démons 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Knight Rider Special">
@@ -5041,6 +5273,7 @@ Le but principal du jeu est de terminer chaque course dans le délai. Cependant,
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Kore Ga Pro Yakyuu '89">
@@ -5075,11 +5308,12 @@ Le jeu ressemble à la plupart des jeux de baseball de l'époque, avec une persp
     <date year="1989" month="12" day="20"/>
     <rating type="NOTE" value="14">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Kore Ga Pro Yakyuu '90">
@@ -5115,17 +5349,20 @@ Le jeu ressemble à la plupart des jeux de baseball de l'époque, avec une persp
     <date year="1990" month="06" day="29"/>
     <rating type="NOTE" value="16">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Krunch">
     <id>125985</id>
     <locale lang="EN">
       <title>Krunch</title>
+      <genre>Action,Arcade,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -5134,7 +5371,10 @@ Le jeu ressemble à la plupart des jeux de baseball de l'époque, avec une persp
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Kyuukyoku Mahjong - Idol Graphics">
     <id>78689A</id>
@@ -5166,6 +5406,7 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <date year="1992" month="" day=""/>
   </game>
@@ -5173,6 +5414,14 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
     <id>78688A</id>
     <locale lang="EN">
       <title>Kyuukyoku Mahjong II</title>
+      <genre>Action,Platform,</genre>
+      <synopsis>The Genesis title based on Batman Returns is a platform game in which the Dark Knight must traverse five action-filled levels on his way to confront the Penguin.
+
+Areas include the rooftops of Gotham City, Max Shreck's department store, the Red Triangle Circus and the sewers. Besides run-and-jump action, there's also a lot of combat in the game, as many of the Penguin's henchmen stand in Batman's way. He can knock them out with punches and kicks and a number of extra weapons stored in his utility belt. These include batarangs, which come in standard and self-seeking varieties, and smoke bombs that stun enemies for a while. In addition, Batman can shoot from his grappling gun and unleash a deadly swarm of bats towards enemies. All of these weapons have limited ammo, however, that must be collected.
+
+Other special tools Batman can use include the grappling hook to reach high places or swing across chasms, and his cape, which can be used to slow falls.
+
+Each of the five levels features several boss battles against Catwoman, the Penguin and others.</synopsis>
     </locale>
     <locale lang="ES">
       <genre>Juegos de mesa asiático</genre>
@@ -5192,12 +5441,14 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
     <publisher>Games Express</publisher>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1993"/>
   </game>
   <game name="Kyuukyoku Tiger">
     <id>78690A</id>
@@ -5229,6 +5480,7 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Lady Sword">
@@ -5271,6 +5523,7 @@ On each floor, a digitized photo of a young woman will greet the hero and encour
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Legend Of Hero Tonma">
@@ -5305,12 +5558,15 @@ Getting power-ups will make the fireball soon increase to a bouncing fireball, w
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Link Collision">
     <id>125988</id>
     <locale lang="EN">
       <title>Link Collision</title>
+      <genre>RPG,Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -5319,14 +5575,17 @@ Getting power-ups will make the fireball soon increase to a bouncing fireball, w
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Lode Runner - Lost Labyrinth">
     <id>59808A</id>
     <locale lang="EN">
       <title>Lode Runner - Lost Labyrinth</title>
       <synopsis>Lode Runner: Lost Labyrinth is an exact conversion of the original Lode Runner. However, this version features one hundred levels which mostly differ from the original ones. Another difference is that the levels scroll.  This is a platformer in which the </synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -5351,6 +5610,7 @@ Getting power-ups will make the fireball soon increase to a bouncing fireball, w
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Maerchen Maze">
@@ -5358,7 +5618,7 @@ Getting power-ups will make the fireball soon increase to a bouncing fireball, w
     <locale lang="EN">
       <title>Maerchen Maze</title>
       <synopsis>Märchen Maze is a platform/shooter game and conversion of Namco's 1988 arcade game of the same name. The gameplay remains largely the same - the player takes control of Alice who must shoot bubbles at enemies to knock them off platforms. Unlike the arcade original which was in isometric perspective, Märchen Maze on the PC Engine is an overhead game. This version features different stages than the arcade game, and because of the lack of a time limit, many of the stages are much more expansive. The chequered platforms at the end of a level are static rather than moving, hopping on to them automatically takes you to the boss. Also, instead of starting from a checkpoint when you die, your lives are represented by balloons. Should Alice fall, you'll be respawned on the spot.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -5384,6 +5644,7 @@ Le tout est l'occasion d'avancer dans des labyrinthes où l'idée principale est
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <developer>Nihon System</developer>
     <publisher>Namco</publisher>
@@ -5416,6 +5677,7 @@ Le tout est l'occasion d'avancer dans des labyrinthes où l'idée principale est
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Mahjong Gakuen - Touma Soushirou Toujou">
@@ -5447,11 +5709,12 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
     <date year="1989" month="11" day="24"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Mahjong Gakuen Mild - Touma Soushirou Toujou">
@@ -5459,6 +5722,7 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
     <locale lang="EN">
       <title>Mahjong Gakuen Mild - Touma Soushirou Toujou</title>
       <genre>Strategy</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Juegos de mesa asiático,Mahjong</genre>
@@ -5487,6 +5751,7 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Mahjong Gokuu Special">
@@ -5500,7 +5765,7 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
       <genre>Juegos de mesa asiático</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Jeu de mah-jong.nnLe mah-jong est un jeu de société d'origine chinoise qui se joue à quatre joueurs, avec des pièces appelées tuiles. Associant tactique, stratégie, calcul et psychologie, ainsi qu'une part plus ou moins importante de chance selon la règle jouée.</synopsis>
+      <synopsis>Jeu de mah-jong. Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre joueurs, avec des pièces appelées tuiles. Associant tactique, stratégie, calcul et psychologie, ainsi qu'une part plus ou moins importante de chance selon la règle jouée.</synopsis>
       <genre>Jeu de societe asiatique</genre>
     </locale>
     <locale lang="DE">
@@ -5519,12 +5784,15 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Mahjong Haou Den - Kaiser's Quest">
     <id>78694A</id>
     <locale lang="EN">
       <title>Mahjong Haou Den - Kaiser's Quest</title>
+      <genre>Strategy</genre>
+      <synopsis>Adventure mahjong game where you travel around a kingdom playing matches against various people.</synopsis>
     </locale>
     <locale lang="ES">
       <genre>Juegos de mesa asiático</genre>
@@ -5545,11 +5813,12 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
     <date year="1992" month="02" day="28"/>
     <rating type="NOTE" value="16">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Mahjong Shikyaku Retsuden - Mahjong Wars">
@@ -5563,7 +5832,7 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
       <genre>Juegos de mesa asiático</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Jeu de mah-jong.nnIl comporte deux modes: dans le premier le joueur prend des adversaires différents dans les jeux individuels, tandis que dans l'autre le joueur se promène dans un monde de RPG avec des parties  de mahjong comme les «batailles».</synopsis>
+      <synopsis>Jeu de mah-jong. Il comporte deux modes: dans le premier le joueur prend des adversaires différents dans les jeux individuels, tandis que dans l'autre le joueur se promène dans un monde de RPG avec des parties  de mahjong comme les «batailles».</synopsis>
       <genre>Jeu de societe asiatique</genre>
     </locale>
     <locale lang="DE">
@@ -5577,11 +5846,12 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
     <date year="1990" month="02" day="01"/>
     <rating type="NOTE" value="14">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Maison Ikkoku">
@@ -5614,6 +5884,7 @@ Le mah-jong est un jeu de société d'origine chinoise qui se joue à quatre jou
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Makai Hakken Den Shada">
@@ -5651,6 +5922,7 @@ Later in the game Shin receives spells and special techniques, which must be exe
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <developer>Data East Corporation</developer>
     <publisher>Data East Corporation</publisher>
@@ -5690,6 +5962,7 @@ As well as his own magical powers, he can be upgraded by finding suits of armor 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Maniac Pro Wres - Asu E No Tatakai">
@@ -5726,12 +5999,15 @@ As well as his own magical powers, he can be upgraded by finding suits of armor 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Mario Remix">
     <id>126000</id>
     <locale lang="EN">
       <title>Mario Remix</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -5740,12 +6016,17 @@ As well as his own magical powers, he can be upgraded by finding suits of armor 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Mechanized Assault Unit - Valkrye">
     <id>126001</id>
     <locale lang="EN">
       <title>Mechanized Assault Unit - Valkrye</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -5754,7 +6035,10 @@ As well as his own magical powers, he can be upgraded by finding suits of armor 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Metal Stoker">
     <id>59812A</id>
@@ -5786,6 +6070,7 @@ As well as his own magical powers, he can be upgraded by finding suits of armor 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Military Madness">
@@ -5820,6 +6105,7 @@ There are 32 maps (2 different campaigns with 16 maps each) to play through.  In
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Mizubaku Dai Bouken">
@@ -5856,6 +6142,7 @@ Ici, on ne se bat pas en sautant sur ses ennemis, en leur filant des coups de bo
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Momotarou Densetsu Gaiden Dai 1 Shuu">
@@ -5886,11 +6173,12 @@ Ici, on ne se bat pas en sautant sur ses ennemis, en leur filant des coups de bo
     <date year="1992" month="12" day="04"/>
     <rating type="NOTE" value="13">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Momotarou Densetsu 2">
@@ -5904,7 +6192,7 @@ Ici, on ne se bat pas en sautant sur ses ennemis, en leur filant des coups de bo
       <genre>Aventura,Juegos de rol</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Momotarou traverse le monde avec ses compagnons animaux NPC, résoud les problèmes de chaque nouvelle ville ou village,qu'il traverse. Après avoir réussi à résoudre les problèmes de démons, la ville le remercie avec des célébrations.nnMomotarou peut rencontrer un grand nombre d'alliés, qui le suivent sur la carte du monde. Plutôt que de forcer Momotarou à fouiller chaque nouvel emplacement, ils peut envoyer ses compagnons animaux en l'éclaireur.</synopsis>
+      <synopsis>Momotarou traverse le monde avec ses compagnons animaux NPC, résoud les problèmes de chaque nouvelle ville ou village,qu'il traverse. Après avoir réussi à résoudre les problèmes de démons, la ville le remercie avec des célébrations. Momotarou peut rencontrer un grand nombre d'alliés, qui le suivent sur la carte du monde. Plutôt que de forcer Momotarou à fouiller chaque nouvel emplacement, ils peut envoyer ses compagnons animaux en l'éclaireur.</synopsis>
       <genre>Aventure,Jeu de rôles</genre>
     </locale>
     <locale lang="DE">
@@ -5926,6 +6214,7 @@ Ici, on ne se bat pas en sautant sur ses ennemis, en leur filant des coups de bo
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Momotarou Densetsu Turbo">
@@ -5961,6 +6250,7 @@ Ici, on ne se bat pas en sautant sur ses ennemis, en leur filant des coups de bo
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Momotarou Katsugeki">
@@ -5999,6 +6289,7 @@ Momotarou Katsugeki est un jeu de plates-formes, dans lequel vous devrez amener 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Monster Pro Wrestling">
@@ -6026,11 +6317,12 @@ Momotarou Katsugeki est un jeu de plates-formes, dans lequel vous devrez amener 
     <date year="1991" month="11" day="22"/>
     <rating type="NOTE" value="12">
 		</rating>
-    <input players="1">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Morita Shougi Pc">
@@ -6058,11 +6350,12 @@ Momotarou Katsugeki est un jeu de plates-formes, dans lequel vous devrez amener 
     <date year="1991" month="09" day="27"/>
     <rating type="NOTE" value="14">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Moto Roader">
@@ -6095,6 +6388,7 @@ Momotarou Katsugeki est un jeu de plates-formes, dans lequel vous devrez amener 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Moto Roader 2">
@@ -6122,11 +6416,12 @@ Momotarou Katsugeki est un jeu de plates-formes, dans lequel vous devrez amener 
     <date year="1991" month="03" day="29"/>
     <rating type="NOTE" value="15">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Mr. Heli">
@@ -6164,12 +6459,15 @@ As well as enemies, there are many blocks on the levels. The weapon upgrade syst
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Muchie">
     <id>126015</id>
     <locale lang="EN">
       <title>Muchie</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -6178,12 +6476,17 @@ As well as enemies, there are many blocks on the levels. The weapon upgrade syst
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Nantettatte Engine">
     <id>152282</id>
     <locale lang="EN">
       <title>Nantettatte Engine</title>
+      <genre>Shoot'em Up</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Shoot'em Up</genre>
@@ -6208,6 +6511,7 @@ As well as enemies, there are many blocks on the levels. The weapon upgrade syst
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Naxat Open">
@@ -6240,11 +6544,12 @@ En revanche, aucun reproche sur sa taille, il est grand et réaliste puisque tou
     <date year="1989" month="05" day="30"/>
     <rating type="NOTE" value="11">
 		</rating>
-    <input players="1">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Naxat Stadium">
@@ -6280,6 +6585,7 @@ En revanche, aucun reproche sur sa taille, il est grand et réaliste puisque tou
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Nazo No Mascarade">
@@ -6307,11 +6613,12 @@ En revanche, aucun reproche sur sa taille, il est grand et réaliste puisque tou
     <date year="1990" month="03" day="02"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Necromancer">
@@ -6344,6 +6651,7 @@ En revanche, aucun reproche sur sa taille, il est grand et réaliste puisque tou
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Necros No Yousai">
@@ -6378,6 +6686,7 @@ The game controls like a standard RPG and alternates between a top-down view for
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Nekketsu Koukou Dodgeball Bu - Soccer Pc Hen">
@@ -6410,11 +6719,12 @@ Deux modes principaux composent Nekketsu Koukou Dodgeball Bu Soccer PC Hen. Le p
     <date year="1992" month="04" day="03"/>
     <rating type="NOTE" value="8">
 		</rating>
-    <input players="2">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Nekketsu Koukou Dodgeball-bu - Pc Bangai Hen">
@@ -6453,6 +6763,7 @@ Thrash, Bash, and Smash the Competition</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Neutopia">
@@ -6487,6 +6798,7 @@ Very similar to  Zelda games, Neutopia allows the player to freely roam the vast
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Neutopia 2">
@@ -6521,6 +6833,7 @@ The sequel to "Neutopia" is similar to the predecessor in every way. Navigating 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="New Adventure Island">
@@ -6564,13 +6877,14 @@ An update of the original NES game.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Nhk Taiga Drama - Taiheiki">
     <id>78719A</id>
     <locale lang="EN">
       <title>NHK Taiga Drama - Taiheiki</title>
-      <synopsis>NHK Taiga Drama: Taiheiki is a strategy game exclusive to the PC Engine that was published by the video game division of NHK, a national broadcasting corporation in Japan. They had previously adapted their TV show Niko Niko Pun for the system the previous year.nnnnIt is based on one of NHK's annual hour-long historical fiction TV shows, collectively known as Taiga Drama, specifically the 1991 episode based on Taiheiki, a novel from the 14th century that is set between the years of 1319 to 1367 and concerns a war between the Southern Court of Emperor Go-Daigo in Yoshino and the Northern Court of Ashikaga Takauji in Kyoto</synopsis>
+      <synopsis>NHK Taiga Drama: Taiheiki is a strategy game exclusive to the PC Engine that was published by the video game division of NHK, a national broadcasting corporation in Japan. They had previously adapted their TV show Niko Niko Pun for the system the previous year.It is based on one of NHK's annual hour-long historical fiction TV shows, collectively known as Taiga Drama, specifically the 1991 episode based on Taiheiki, a novel from the 14th century that is set between the years of 1319 to 1367 and concerns a war between the Southern Court of Emperor Go-Daigo in Yoshino and the Northern Court of Ashikaga Takauji in Kyoto</synopsis>
       <genre>Strategy</genre>
     </locale>
     <locale lang="ES">
@@ -6591,14 +6905,17 @@ An update of the original NES game.</synopsis>
     <date year="1992" month="01" day="31"/>
     <rating type="NOTE" value="18">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
-  <game name="Night Creatures">
+
+
+      <game name="Night Creatures">
     <id>59816A</id>
     <locale lang="EN">
       <title>Night Creatures</title>
@@ -6630,6 +6947,7 @@ The world of Night Creatures consists of several different scenes, a town, a gra
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Niko Niko Pun">
@@ -6663,6 +6981,7 @@ Le but est simple : vous avancez en ligne droite, vous récupérez trois fruits 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Ninja Gaiden">
@@ -6702,6 +7021,7 @@ Ryu will battle through urban city settings, forests, jungles, snow covered cast
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Ninja Spirit">
@@ -6711,7 +7031,7 @@ Ryu will battle through urban city settings, forests, jungles, snow covered cast
       <synopsis>A ninja-based action game that has the player leading Moonlight through numerous enemy-riddled levels on a quest to exact revenge against his father's murderer. To accomplish this task Moonlight is armed with a katana, shurikens, bombs, and a sickle and chain weapon. Each weapon offers its own advantages and must be used at certain times to overcome specific obstacles or opponents. 
 
 The game's coin-op origins are evident in the fact that that the home versions do not have passwords or saves. To compensate for this, however, adjustable difficulty settings were added.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up,Platformer,Shooter</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Ninja Spirit es un juego de acción de ritmo rápido establecido sobre múltiples niveles en el antiguo Japón. Tienes la opción de elegir entre cuatro armas, intercambiables en cualquier momento mediante el botón Seleccionar, cada una de las cuales tiene múltiples fases de potencia, incrementadas por la recogida de determinados pergaminos lanzados por ninjas naranjas. Tu katana puede cortar en cuatro direcciones (útil cuando los ninjas furtivos están tratando de clavarte una lanza desde abajo), los shurikens son de fuego rápido y tienen una extensión más amplia a medida que aumenta el poder, las bombas son más lentas para disparar pero hacen más daño, y finalmente la hoz y la cadena es mortal, permitiéndote girar alrededor de ti mismo en un arco de devastación. Pero la característica única de Ninja Spirit son las versiones de plataforma de las Opciones de Gradius - ninjas fantasmas que imitan tus movimientos y añaden mucho daño ofensivo.</synopsis>
@@ -6737,6 +7057,7 @@ The game's coin-op origins are evident in the fact that that the home versions d
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Obocchama Kun">
@@ -6772,6 +7093,7 @@ The game's coin-op origins are evident in the fact that that the home versions d
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Operation Wolf">
@@ -6808,11 +7130,12 @@ Bosses appear at the end of some levels, and each has a specific weakness you ne
     <date year="1990" month="08" day="31"/>
     <rating type="NOTE" value="14">
 		</rating>
-    <input players="1">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Order Of The Griffon">
@@ -6851,6 +7174,7 @@ Très proche du gameplay de Pool of Radiance, Order of the Griffon offre trois t
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Ordyne">
@@ -6889,6 +7213,7 @@ Loin des vagues intergalactiques, on se trouve ici en présence d'un cute'em up,
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Out Live">
@@ -6927,6 +7252,7 @@ A somewhat unusual feature is double leveling: the robot has two independent lev
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Out Run">
@@ -6959,17 +7285,18 @@ A somewhat unusual feature is double leveling: the robot has two independent lev
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Override">
     <id>78727A</id>
     <locale lang="EN">
       <title>Override</title>
-      <synopsis>Override is a vertically-scrolling shooter in which the player controls a fighter craft on a mission to stop an alien invasion of the Earth. Much of the action takes place on planet surfaces, and enemies include spaceships of various kinds as well as ground enemies, mobile (tanks) or stationary (turrets). The player-controlled craft begins with two lives with three hit points each; restoring power-ups can repair the plane or increase its number of lives. nnnnOther power-ups come in two varieties: strength-increasing or secondary weapons. Depending on the color, the latter grants the plane wingmen with laser attacks, spreading fire, side lasers, rotating energy balls, etc. The strength of secondary weapons can be increase by flying over strength-increasing power-ups as well. Special weapon that hurts all enemies on screen must be activated by charging, which is achieved by not pressing the fire button for a certain amount of time.</synopsis>
+      <synopsis>Override is a vertically-scrolling shooter in which the player controls a fighter craft on a mission to stop an alien invasion of the Earth. Much of the action takes place on planet surfaces, and enemies include spaceships of various kinds as well as ground enemies, mobile (tanks) or stationary (turrets). The player-controlled craft begins with two lives with three hit points each; restoring power-ups can repair the plane or increase its number of lives. Other power-ups come in two varieties: strength-increasing or secondary weapons. Depending on the color, the latter grants the plane wingmen with laser attacks, spreading fire, side lasers, rotating energy balls, etc. The strength of secondary weapons can be increase by flying over strength-increasing power-ups as well. Special weapon that hurts all enemies on screen must be activated by charging, which is achieved by not pressing the fire button for a certain amount of time.</synopsis>
       <genre>Shoot'em Up</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Sci-Fi shoot'em up de desplazamiento vertical. nnnnAunque no es el pináculo de PC Engine en shoot' em ups, Override es razonablemente divertido, moderadamente agradable de ver y algo decente para escuchar. Donde se destaca es el implacable ritmo rápido que mantiene la adrenalina bombeando a lo largo del juego. Es un tirador bueno, sólido y competente que merece un poco de tu tiempo.</synopsis>
+      <synopsis>Sci-Fi shoot'em up de desplazamiento vertical. Aunque no es el pináculo de PC Engine en shoot' em ups, Override es razonablemente divertido, moderadamente agradable de ver y algo decente para escuchar. Donde se destaca es el implacable ritmo rápido que mantiene la adrenalina bombeando a lo largo del juego. Es un tirador bueno, sólido y competente que merece un poco de tu tiempo.</synopsis>
       <genre>Shoot'em Up</genre>
     </locale>
     <locale lang="FR">
@@ -6992,6 +7319,7 @@ A somewhat unusual feature is double leveling: the robot has two independent lev
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="P-47 - The Freedom Fighter">
@@ -7029,6 +7357,7 @@ Vuela a través de cada nivel y destruye tantos enemigos como puedas. Disparar a
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Pac-land">
@@ -7063,6 +7392,7 @@ There are sixteen rounds to complete, with four trips each. During each round, h
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Pachi-slot Pc - Idol Gambler">
@@ -7097,6 +7427,7 @@ There are sixteen rounds to complete, with four trips each. During each round, h
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Pachiokun - Juban Shobu">
@@ -7125,11 +7456,12 @@ A partir de là, vous ne pouvez plus influencer le parcours des billes. Celles-c
     <date year="1992" month="03" day="13"/>
     <rating type="NOTE" value="17">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Parasol Stars - The Story Of Bubble Bobble 3">
@@ -7169,6 +7501,7 @@ But this time they're armed with umbrellas! Oh, okay then, parasols...</synopsis
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Parodius Da! - Shinwa Kara Owarai He">
@@ -7201,12 +7534,15 @@ But this time they're armed with umbrellas! Oh, okay then, parasols...</synopsis
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Pce Invaders V1.0 By Zeograd">
     <id>109024</id>
     <locale lang="EN">
       <title>Pce Invaders V1.0 By Zeograd</title>
+      <genre>Shoot'em Up</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Shoot'em Up</genre>
@@ -7228,12 +7564,15 @@ But this time they're armed with umbrellas! Oh, okay then, parasols...</synopsis
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Perso">
     <id>126043</id>
     <locale lang="EN">
       <title>Perso</title>
+      <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -7242,12 +7581,17 @@ But this time they're armed with umbrellas! Oh, okay then, parasols...</synopsis
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Pong! The Hu-go! Game">
     <id>126049</id>
     <locale lang="EN">
       <title>Pong! The Hu-go! Game</title>
+      <genre>Action,Arcade</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -7256,7 +7600,10 @@ But this time they're armed with umbrellas! Oh, okay then, parasols...</synopsis
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Populous">
     <id>14501A</id>
@@ -7296,6 +7643,7 @@ And when you win, you'll have 500 more worlds to conquer.  A god's play is just 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Power Drift">
@@ -7334,6 +7682,7 @@ Finish all 5 stages in a level and youll be presented with a bonus level.</syn
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Power Eleven">
@@ -7370,6 +7719,7 @@ La vue est de dessus comme Kick Off avec des sprites joliment dessinés. On joue
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Power Gate">
@@ -7404,6 +7754,7 @@ Les boss s'inspirent également de nombreux jeux du genre, et il est clair que l
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Power Golf">
@@ -7446,6 +7797,7 @@ Competition -- This is the three-player mode.  The game operates in the form of 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Power League '93">
@@ -7477,11 +7829,12 @@ Competition -- This is the three-player mode.  The game operates in the form of 
     <date year="1993" month="10" day="15"/>
     <rating type="NOTE" value="12">
 		</rating>
-    <input players="2">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Power League 2">
@@ -7514,6 +7867,7 @@ Competition -- This is the three-player mode.  The game operates in the form of 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Power League 3">
@@ -7527,7 +7881,7 @@ Competition -- This is the three-player mode.  The game operates in the form of 
       <genre>Deportes,Deportes / Béisbol</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Devenez une vraie superstar de baseball en sélectionnant votre équipe et en affrontant les meilleures équipes du monde.nn</synopsis>
+      <synopsis>Devenez une vraie superstar de baseball en sélectionnant votre équipe et en affrontant les meilleures équipes du monde. </synopsis>
       <genre>Sport,Sport / Baseball</genre>
     </locale>
     <locale lang="DE">
@@ -7544,11 +7898,12 @@ Competition -- This is the three-player mode.  The game operates in the form of 
     <date year="1990" month="08" day="10"/>
     <rating type="NOTE" value="16">
 		</rating>
-    <input players="">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Power League Iv 4">
@@ -7579,11 +7934,12 @@ Competition -- This is the three-player mode.  The game operates in the form of 
     <date year="1991" month="08" day="09"/>
     <rating type="NOTE" value="17">
 		</rating>
-    <input players="2">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Power League 5">
@@ -7614,11 +7970,12 @@ Competition -- This is the three-player mode.  The game operates in the form of 
     <date year="1992" month="08" day="07"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Power Tennis">
@@ -7654,6 +8011,7 @@ Competition -- This is the three-player mode.  The game operates in the form of 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Pro Yakyuu World Stadium">
@@ -7689,6 +8047,7 @@ Competition -- This is the three-player mode.  The game operates in the form of 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Pro Yakyuu World Stadium '91">
@@ -7719,11 +8078,12 @@ Competition -- This is the three-player mode.  The game operates in the form of 
     <date year="1991" month="03" day="21"/>
     <rating type="NOTE" value="4">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Psycho Chaser">
@@ -7763,6 +8123,7 @@ Entre les niveaux, vous gagnez des points d'expérience qui vous permettent d'au
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Paranoia">
@@ -7800,6 +8161,7 @@ Psychosis is a side-scrolling shooter where each level is meant to represent a d
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Puzzle Boy">
@@ -7833,6 +8195,7 @@ Plus on progresse dans le jeu, plus les problème sont complexes et il est très
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Puzznic">
@@ -7872,6 +8235,7 @@ The game structure is slightly unusual, as after you complete each batch of four
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Quiz Toukou Shashin">
@@ -7904,6 +8268,7 @@ The game structure is slightly unusual, as after you complete each batch of four
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="R-type">
@@ -7941,6 +8306,7 @@ The stages of R-Type are made in an organic style, certainly inspired by H. R. G
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="R-type Part-2">
@@ -7979,6 +8345,7 @@ Ce jeu est l'une des meilleures versions existantes de ce légendaire shoot'em u
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Rabio Lepus Special">
@@ -8014,6 +8381,7 @@ Comme l'indique la mention "Special" dans le nom du titre, Rabio Lepus Special e
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Racing Damashii">
@@ -8048,6 +8416,7 @@ Il va falloir choisir son pilote, et sa moto, qui est paramétrable, mais pas à
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Raiden">
@@ -8060,7 +8429,7 @@ Raiden (called Raiden Trad on the Genesis and SNES) is an over-head vertical-scr
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Una conversión de la versión clásica de los juegos de disparos arcade, Raiden sigue las convenciones del género con grupos de poder coloreados que dan diferentes armas cuando se recolectan.nnnnRaiden es uno de los grandes de todos los tiempos en los anales de la historia. No son sólo los excelentes gráficos y sonidos, sino el atractivo modo de juego que te mantiene adicto durante siglos. También es capaz de lanzar algunos momentos espeluznantes, y las habilidades de esquivar balas son llevadas al extremo. Afortunadamente, a pesar de su dureza, no se vuelve demasiado frustrante.</synopsis>
+      <synopsis>Una conversión de la versión clásica de los juegos de disparos arcade, Raiden sigue las convenciones del género con grupos de poder coloreados que dan diferentes armas cuando se recolectan.Raiden es uno de los grandes de todos los tiempos en los anales de la historia. No son sólo los excelentes gráficos y sonidos, sino el atractivo modo de juego que te mantiene adicto durante siglos. También es capaz de lanzar algunos momentos espeluznantes, y las habilidades de esquivar balas son llevadas al extremo. Afortunadamente, a pesar de su dureza, no se vuelve demasiado frustrante.</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -8083,6 +8452,7 @@ Raiden (called Raiden Trad on the Genesis and SNES) is an over-head vertical-scr
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Rastan Saga 2">
@@ -8120,6 +8490,7 @@ Rastan Saga II is the sequel to Rastan,   containing the same hack-em'/slash-'em
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Reflectron">
@@ -8153,6 +8524,7 @@ Reflectron é um jogo de ação simples e viciante em estilo arcade de maior pon
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
     <date year="2013" month="" day=""/>
   </game>
@@ -8188,12 +8560,15 @@ Rock-On is a horizontal side scrolling shoot 'em up moving from left to right.</
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="RPG, The">
     <id>126073</id>
     <locale lang="EN">
       <title>RPG, The</title>
+      <genre>RPG,Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -8202,7 +8577,10 @@ Rock-On is a horizontal side scrolling shoot 'em up moving from left to right.</
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Ryuukyuu">
     <id>78757A</id>
@@ -8234,6 +8612,7 @@ Rock-On is a horizontal side scrolling shoot 'em up moving from left to right.</
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Sadakichi 7 Series - Hideyoshi No Ougon">
@@ -8263,11 +8642,12 @@ Besides the odd narrative elements, it plays much like any Portopia-derived adve
     <date year="1988" month="11" day="18"/>
     <rating type="NOTE" value="14">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Salamander">
@@ -8278,7 +8658,7 @@ Besides the odd narrative elements, it plays much like any Portopia-derived adve
       <genre>Shoot'em Up</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Es un matamarcianos desarrollado y producido por Konami. Fue lanzado en 1986, como un spin-off del videojuego Gradius. Salamander introdujo una versión simplificada de su sistema de armas, modo cooperativo de dos jugadores, más armamento y niveles de scroll vertical. Varias de estas adiciones se implementarían posteriormente en la saga Gradius.nnnnEl primer jugador controla la nave Vic Viper, mientras que el segundo jugador toma los controles de una nueva nave, Lord British. Los jugadores deben abrirse camino entre hordas de enemigos, ya sea en avance horizontal o vertical, y acabar con el malvado Zelos, responsable de la barbarie.nnnnTras morir, los jugadores resucitan en el mismo lugar de su muerte, en lugar de un punto de chequeo como en la saga Gradius. No hay continuaciones en el modo 1 jugador, pero, se reciben 2 en el modo multijugador.</synopsis>
+      <synopsis>Es un matamarcianos desarrollado y producido por Konami. Fue lanzado en 1986, como un spin-off del videojuego Gradius. Salamander introdujo una versión simplificada de su sistema de armas, modo cooperativo de dos jugadores, más armamento y niveles de scroll vertical. Varias de estas adiciones se implementarían posteriormente en la saga Gradius.El primer jugador controla la nave Vic Viper, mientras que el segundo jugador toma los controles de una nueva nave, Lord British. Los jugadores deben abrirse camino entre hordas de enemigos, ya sea en avance horizontal o vertical, y acabar con el malvado Zelos, responsable de la barbarie.Tras morir, los jugadores resucitan en el mismo lugar de su muerte, en lugar de un punto de chequeo como en la saga Gradius. No hay continuaciones en el modo 1 jugador, pero, se reciben 2 en el modo multijugador.</synopsis>
       <genre>Shoot'em Up</genre>
     </locale>
     <locale lang="FR">
@@ -8301,6 +8681,7 @@ Besides the odd narrative elements, it plays much like any Portopia-derived adve
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Genpei Toumaden Ni No Maki">
@@ -8338,6 +8719,7 @@ The game is an action side-scroller, in which you control Kagekiyo as he scrolls
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Santatlantean">
@@ -8374,6 +8756,7 @@ Santatlantean é um festivo jogo shoot 'em up de ação de pontuação máxima (
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <date year="2014" month="" day=""/>
   </game>
@@ -8407,6 +8790,7 @@ Santatlantean é um festivo jogo shoot 'em up de ação de pontuação máxima (
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Sengoku Mahjong">
@@ -8440,6 +8824,7 @@ Santatlantean é um festivo jogo shoot 'em up de ação de pontuação máxima (
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <developer>Hudson Entertainment</developer>
     <publisher>Hudson Entertainment</publisher>
@@ -8479,6 +8864,7 @@ This computer implementation can generate a random board layout to take on and f
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <developer>Hudson Soft</developer>
     <publisher>Hudson Soft</publisher>
@@ -8520,6 +8906,7 @@ Reaching the end of each level will find you battling it out with a boss. These 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Shiryou Sensen">
@@ -8558,7 +8945,9 @@ Sur le principe donc, le deuxième Zelda de la famicom et le jeu sur la console 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Shockman">
     <id>14601A</id>
@@ -8595,6 +8984,7 @@ Both cyborgs have traded their energy blades for ranged attacks, which change th
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Shougi Shodan Icchokusen">
@@ -8630,6 +9020,7 @@ Both cyborgs have traded their energy blades for ranged attacks, which change th
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Shougi Shoshinsha Muyou">
@@ -8660,11 +9051,12 @@ Both cyborgs have traded their energy blades for ranged attacks, which change th
     <date year="1991" month="11" day="29"/>
     <rating type="NOTE" value="11">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Side Arms Hyper Dyne">
@@ -8697,6 +9089,7 @@ Both cyborgs have traded their energy blades for ranged attacks, which change th
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Silent Debuggers">
@@ -8735,6 +9128,7 @@ Fight monsters with a variety of weapons and protect the valuable utility rooms 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Sindibad Chitei No Dai Makyuu">
@@ -8769,6 +9163,7 @@ The game is a traditional Japanese-style RPG with all the common ingredients of 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Sinistron">
@@ -8812,6 +9207,7 @@ La principale originalité vient de l'avant de votre vaisseau. Sorte de bec d'ac
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Skweek">
@@ -8849,6 +9245,7 @@ Skweek can move in each of the four compass directions, and is armed with a simp
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Soldier Blade">
@@ -8863,7 +9260,7 @@ The game also features a unique weapon system with three customizable gun pods, 
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>shooter de ciencia ficción vertical de Hudson. Soldier Blade se adhiere a la fórmula probada y comprobada de los juegos anteriores de Hudson, mientras que incluye algunos efectos gráficos adicionales. Esta vez, el sistema de encendido consiste en la recogida de vainas coloreadas: puede tener tres vainas en stock en cualquier momento y el color de la vaina "activa" determina el tipo de arma. Usted también tiene la opción de expulsar una cápsula en cualquier momento, lo que resulta en un súper ataque específico de arma.nnnn</synopsis>
+      <synopsis>shooter de ciencia ficción vertical de Hudson. Soldier Blade se adhiere a la fórmula probada y comprobada de los juegos anteriores de Hudson, mientras que incluye algunos efectos gráficos adicionales. Esta vez, el sistema de encendido consiste en la recogida de vainas coloreadas: puede tener tres vainas en stock en cualquier momento y el color de la vaina "activa" determina el tipo de arma. Usted también tiene la opción de expulsar una cápsula en cualquier momento, lo que resulta en un súper ataque específico de arma.</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -8886,6 +9283,7 @@ The game also features a unique weapon system with three customizable gun pods, 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Soldier Blade Special - Caravan Stage">
@@ -8902,7 +9300,10 @@ The game also features a unique weapon system with three customizable gun pods, 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
+    <date year="1992"/>
+    <publisher/>
   </game>
   <game name="Somer Assault">
     <id>78768A</id>
@@ -8911,7 +9312,7 @@ The game also features a unique weapon system with three customizable gun pods, 
       <synopsis>Somer Assault is a difficult to describe game.  In it you control a pink slinky character with guns attached to it.  You move around mazes, climbing on walls, on the ceiling, through shortcuts, and attempt to find you way to the end.  Along the way, you have to shoot out many, many enemies.  And at the end, you will find a nasty boss surprise.
 
 The story is bizarre, which fits the concept of the game.  A sorceress has plans to rule the world.  To do so, she has summoned 12 beasts, each based on a sign of the zodiac.  It up to you, pink slinky, to defeat the 12 astrological signs.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -8938,6 +9339,7 @@ Le fait dincarner un Slinky vous ouvre les portes à un nouveau genre de gamep
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Son Son 2">
@@ -8973,6 +9375,7 @@ Le fait dincarner un Slinky vous ouvre les portes à un nouveau genre de gamep
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Sonic Spike - World Championship Beach Volleyball">
@@ -9003,11 +9406,12 @@ Le fait dincarner un Slinky vous ouvre les portes à un nouveau genre de gamep
     <date year="1990" month="07" day="27"/>
     <rating type="NOTE" value="10">
 		</rating>
-    <input players="2">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Space Harrier">
@@ -9042,6 +9446,7 @@ Originating in the arcades, Space Harrier is a third-person rail shooter with ps
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Space Invaders - Fukkatsu No Hi">
@@ -9081,6 +9486,7 @@ Il faut affronter trois vagues d'ennemis à la suite pour passer au niveau suiva
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Special Criminal Investigation">
@@ -9119,6 +9525,7 @@ Have fun driving around, but remember, there is a strict time limit, so I wouldn
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <publisher>Taito Corporation</publisher>
   </game>
@@ -9152,6 +9559,7 @@ Have fun driving around, but remember, there is a strict time limit, so I wouldn
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Spiral Wave">
@@ -9184,6 +9592,7 @@ Have fun driving around, but remember, there is a strict time limit, so I wouldn
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Splatterhouse">
@@ -9220,6 +9629,7 @@ Rick must survive seven blood-soaked levels full of corpses, demons, and other d
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Stratego">
@@ -9252,6 +9662,7 @@ Rick must survive seven blood-soaked levels full of corpses, demons, and other d
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Street Fighter 2' - Champion Edition">
@@ -9288,6 +9699,7 @@ Rick must survive seven blood-soaked levels full of corpses, demons, and other d
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Strip Fighter 2">
@@ -9327,12 +9739,15 @@ Vous ne pouvez choisir qu'entre les six combattantes de départ, et il n'y aura 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Super Mario Bros">
     <id>126142</id>
     <locale lang="EN">
       <title>Super Mario Bros</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -9341,7 +9756,10 @@ Vous ne pouvez choisir qu'entre les six combattantes de départ, et il n'y aura 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Super Metal Crusher">
     <id>59824A</id>
@@ -9373,6 +9791,7 @@ Vous ne pouvez choisir qu'entre les six combattantes de départ, et il n'y aura 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Super Momotarou Dentetsu">
@@ -9407,6 +9826,7 @@ The goal of the game is to travel the map and acquire territory through business
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Super Momotarou Dentetsu 2">
@@ -9436,11 +9856,12 @@ The games focus on each player's burgeoning real estate corporation, allowing th
     <date year="1991" month="12" day="20"/>
     <rating type="NOTE" value="16">
 		</rating>
-    <input players="">
+    <input players="5">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Super Star Soldier">
@@ -9478,6 +9899,7 @@ Each level has its own tough boss at the end.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Super Volleyball">
@@ -9514,6 +9936,7 @@ Gameplay is viewed from a side scrolling perspective, with the camera fixed on t
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Susano O Densetsu">
@@ -9552,6 +9975,7 @@ Later in the game Susa teams up with two other characters; he can also recruit m
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Takeda Shingen">
@@ -9559,7 +9983,7 @@ Later in the game Susa teams up with two other characters; he can also recruit m
     <locale lang="EN">
       <title>Takeda Shingen</title>
       <synopsis>Takeda Shingen is a 2D beat 'em up set in feudal Japan. The action takes place in Sengoku period. The player takes the role of the daimy? Takeda Shingen, who must defeat his adversary Uesugi Kenshin. Gameplay is typical of the genre, similar to King of Dragons or Knights of the Round. Takeda wields a Japanese sword (katana) and dons red armor. He must proceed from left to right and eliminate all enemies and bosses. Sometimes, the daimy? can visit some shops to buy various items.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -9584,6 +10008,7 @@ Later in the game Susa teams up with two other characters; he can also recruit m
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Takin' It To The Hoop">
@@ -9616,11 +10041,12 @@ During the matches, the player controls the ball carrier when in offense and man
     <date year="1989" month="12" day="01"/>
     <rating type="NOTE" value="9">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Talespin">
@@ -9650,12 +10076,15 @@ During the matches, the player controls the ball carrier when in offense and man
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Tank">
     <id>125891</id>
     <locale lang="EN">
       <title>Tank</title>
+      <genre>Action,Shooter,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -9664,7 +10093,10 @@ During the matches, the player controls the ball carrier when in offense and man
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Tatsu No Ko Fighter">
     <id>78785A</id>
@@ -9695,11 +10127,12 @@ Armé d'un chapeau mou et d'un long bâton, il faut courir, sauter et se frayer 
     <date year="1989" month="10" day="20"/>
     <rating type="NOTE" value="11">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Tatsujin">
@@ -9732,6 +10165,7 @@ Armé d'un chapeau mou et d'un long bâton, il faut courir, sauter et se frayer 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Tenseiryuu - Saint Dragon">
@@ -9764,6 +10198,7 @@ Armé d'un chapeau mou et d'un long bâton, il faut courir, sauter et se frayer 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Terra Cresta 2 - Mandoraa No Gyakushuu">
@@ -9800,12 +10235,15 @@ On retrouve le gameplay original, à savoir que les power up se font par l'inter
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Tetris">
     <id>126097</id>
     <locale lang="EN">
       <title>Tetris</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -9814,7 +10252,10 @@ On retrouve le gameplay original, à savoir que les power up se font par l'inter
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Legendary Axe, The">
     <id>14550A</id>
@@ -9823,7 +10264,7 @@ On retrouve le gameplay original, à savoir que les power up se font par l'inter
       <synopsis>You are the mighty warrior Gogan, whose village has been required  by the Jagu tribe to give a human sacrifice each year. Flare, your childhood friend, has been chosen as the sacrifice. Your task is to rescue Flare and destroy the Jagu and their leader. To help you complete your mission, you are given the Legendary Axe, which is said to possess tremendous power that is usable only to its wielder. 
 
 There are six zones in the game and has Gogan exploring forests, caves, mountains, dungeons, and castles, while defeating enemies that get in his way with his axe. Idols can be broken to reveal power-ups that will increase the axe's power and speed up its swing. These power-ups can also award you extra lives, more points, and the ability to access secret areas. At the end of each zone, you have to defeat a boss in order to proceed.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -9848,6 +10289,7 @@ There are six zones in the game and has Gogan exploring forests, caves, mountain
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Legendary Axe 2, The">
@@ -9885,6 +10327,7 @@ This game has you fighting monsters through seven stages with just a sword, but 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="New Zealand Story, The">
@@ -9924,9 +10367,12 @@ In some levels, a few areas are located further up than just left or right, and 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
-  <game name="Ninja Warriors, The">
+
+
+      <game name="Ninja Warriors, The">
     <id>14488A</id>
     <locale lang="EN">
       <title>The Ninja Warriors</title>
@@ -9960,6 +10406,7 @@ As with The Sales Curve's later title SWIV, The Ninja Warriors uses the company'
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Tower of Druaga, The">
@@ -10003,6 +10450,7 @@ Dans des niveaux labyrinthiques, vous contrôlez un petit personnage en prise av
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Thunder Blade">
@@ -10035,6 +10483,7 @@ Dans des niveaux labyrinthiques, vous contrôlez un petit personnage en prise av
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Tiger Road">
@@ -10070,6 +10519,7 @@ Dans des niveaux labyrinthiques, vous contrôlez un petit personnage en prise av
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Time Cruise">
@@ -10107,6 +10557,7 @@ The goal of the game, much like many others in the genre, is to reach and certai
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Blodia">
@@ -10138,6 +10589,7 @@ Un mélange entre un jeu de taquin et pipemania.</synopsis>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
     <developer>NEC Corporation</developer>
     <publisher>Hudson Soft</publisher>
@@ -10181,6 +10633,7 @@ Titan mixes an arcade game foundation (requiring quick reflexes and good nerves)
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Toilet Kids">
@@ -10219,6 +10672,7 @@ Globalement, le sytème de jeu est identique à celui de Xevious (c'est à dire 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Toshi Tensou Keikaku - Eternal City">
@@ -10226,7 +10680,7 @@ Globalement, le sytème de jeu est identique à celui de Xevious (c'est à dire 
     <locale lang="EN">
       <title>Toshi Tensou Keikaku - Eternal City</title>
       <synopsis>Horizontal run and shoot game with some mecha design by the legendary Masamune Shirow.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -10251,6 +10705,7 @@ Globalement, le sytème de jeu est identique à celui de Xevious (c'est à dire 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Toy Shop Boys">
@@ -10287,6 +10742,7 @@ Most of the game's enemies are toy based: a giant cymbal monkey, for instance, o
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Tricky Kick">
@@ -10329,6 +10785,7 @@ The game has a regular mode and a special mode with 60 puzzles each.  Many of th
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Tsuppari Oozumou - Heisei Ban">
@@ -10359,11 +10816,12 @@ The game has a regular mode and a special mode with 60 puzzles each.  Many of th
     <date year="1993" month="02" day="19"/>
     <rating type="NOTE" value="11">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Tsuru Teruhito No Jissen Kabushiki Bai Bai Game">
@@ -10373,6 +10831,7 @@ The game has a regular mode and a special mode with 60 puzzles each.  Many of th
       <synopsis>Tsuru Teruhito no Jissen Kabushiki Bi-Game (or Buy Game, or Bai Game) is a PC Engine stock trading simulation game from TOSE and Intec. The player views and trades in stocks while keeping a keen eye on fluctuations and the market prices. When buying and selling, they instruct their secretary (who will change depending on the player's fortune) to make a call and buy/sell the chosen stock.
 
 As with many games of its type it did not see an English localization, and its vast amount of Japanese text makes it difficult for non-speakers to understand.</synopsis>
+      <genre>Simulation</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Promenez vous dans les écrans de statistiques de ce jeu de simulation de management économique.Dans ce jeu, vous devez faire un certain montant d'argent à un moment donné afin que vous d'acceder au prochain «scénario».</synopsis>
@@ -10390,6 +10849,7 @@ As with many games of its type it did not see an English localization, and its v
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Turrican">
@@ -10424,6 +10884,7 @@ Gameplay is conceptually simple: just jump, shoot and explore. However, this gam
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Tv Sports Basketball">
@@ -10458,6 +10919,7 @@ As well as playing the matches you have full coaching control. This can involve 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Tv Sports Football">
@@ -10490,6 +10952,7 @@ As well as playing the matches you have full coaching control. This can involve 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Tv Sports Hockey">
@@ -10528,6 +10991,7 @@ Exhibition games can be played with either full or easy rules - easy mode has le
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Valkyrie No Densetsu">
@@ -10567,6 +11031,7 @@ You can also find several NPCs in each stage, who offer gameplay hints, clues an
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Veigues - Tactical Gladiator">
@@ -10596,6 +11061,7 @@ You can also find several NPCs in each stage, who offer gameplay hints, clues an
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Victory Run">
@@ -10627,6 +11093,7 @@ At the start of the race, you choose how many spare engines, tires, brakes, and 
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Vigilante">
@@ -10661,6 +11128,7 @@ The game offers five distinct locations, such as city streets and a junkyard, wi
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Volfied">
@@ -10697,6 +11165,7 @@ As an arcade conversion this game allows for one or two player games in three di
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="W-ring - The Double Rings">
@@ -10733,6 +11202,7 @@ Le gameplay est très ordinaire. On évolue horizontalement, mais avec une gross
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Wai Wai Mahjong - Yukaina Janyuu Tachi">
@@ -10770,6 +11240,7 @@ Wai Wai Mahjong is the second Mahjong game for the PC Engine (after Sengoku Mahj
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Wallaby!! - Usagi No Kuni No Kangaroo Race">
@@ -10802,11 +11273,12 @@ As was the case for the majority of Japanese horse racing games, it did not see 
     <date year="1990" month="12" day="14"/>
     <rating type="NOTE" value="12">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Winning Shot">
@@ -10837,11 +11309,12 @@ As was the case for the majority of Japanese horse racing games, it did not see 
     <date year="1989" month="03" day="03"/>
     <rating type="NOTE" value="14">
 		</rating>
-    <input players="1">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Wonder Boy In Monster Land">
@@ -10881,6 +11354,7 @@ There are twelve locations in which Tom-Tom must venture through, including (but
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Wonder Momo">
@@ -10917,6 +11391,7 @@ Not only must you clear the enemies of each stage, but also please the crowd wit
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="World Circuit">
@@ -10952,6 +11427,7 @@ Not only must you clear the enemies of each stage, but also please the crowd wit
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="World Class Baseball">
@@ -10988,6 +11464,7 @@ En frappant, le jeu se joue du point de vue de la norme catcher, mais il passe �
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="World Court Tennis">
@@ -11023,6 +11500,7 @@ En frappant, le jeu se joue du point de vue de la norme catcher, mais il passe �
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="World Jockey">
@@ -11060,6 +11538,7 @@ La folie de l'hippodrome commencera à s'emparer de vous, dès l'écran des pari
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="World Sports Competition">
@@ -11092,6 +11571,7 @@ La folie de l'hippodrome commencera à s'emparer de vous, dès l'écran des pari
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Xevious - Fardraut Densetsu">
@@ -11126,6 +11606,7 @@ L'original est donc identique à la version arcade. Avec une difficulté progres
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Yo' Bro">
@@ -11133,7 +11614,7 @@ L'original est donc identique à la version arcade. Avec une difficulté progres
     <locale lang="EN">
       <title>Yo, Bro</title>
       <synopsis>Ratz attack! Ratz attack! The city of Los Angeles is being invaded! Only Lil Bro', Camp California's rad skateboarding dude, can save it. The evil Ratz gang is unleashing a barrage of killer creatures and devices. Find incredibly cool weapons to fight back. Wipe out their earthquake machines and nasty man-eating plants with rockets and grenades. Fight off wicked space aliens and launch your bonus attacks. It'll take everything you've got to send the Ratz packing!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Sports</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -11155,6 +11636,7 @@ L'original est donc identique à la version arcade. Avec une difficulté progres
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Youkai Douchuuki">
@@ -11191,6 +11673,7 @@ Sur le papier, le principe même du jeu respecte tous les poncifs du genre, et p
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
   <game name="Yuu Yuu Jinsei - Victory Life">
@@ -11220,17 +11703,20 @@ The goal is to make it to retirement with the most assets. The player can also g
     <date year="1988" month="04" day="22"/>
     <rating type="NOTE" value="14">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required=""/>
     </input>
   </game>
   <game name="Zelda">
     <id>125889</id>
     <locale lang="EN">
       <title>Zelda</title>
+      <genre>RPG,Demo</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -11239,7 +11725,10 @@ The goal is to make it to retirement with the most assets. The player can also g
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Zero 4 Champ">
     <id>78807A</id>
@@ -11275,6 +11764,7 @@ Une fois arrivé à la date du championnat, on profite de la seconde partie du j
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Zipang">
@@ -11315,6 +11805,7 @@ Vous disposez pour vous permettre d'accomplir votre tâche d'une baguette magiqu
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="false"/>
     </input>
   </game>
 </datafile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812041646" games="220"/>
+    <WiiTDB version="201812041646" games="220"/>
   <game name="3 Ninjas Kick Back">
     <id>12809A</id>
     <locale lang="EN">
@@ -102,10 +102,10 @@ On incarne le jeune Thunder (?) qui se réveille dans ce qui sembe être un comp
 A Sega CD exclusive, the title is actually a port of SEGA's arcade fight-sim Strike Fighter, a Japan-only arcade release that attempted to mix the sim "lite" gameplay of G-Loc Air Battle with After Burner's arcade gimmicks. As such, the game features the ability to play both in the cockpit as well as in the classic third person perspective. Both night and day scenarios are now available, with mission objectives that include new air-ground strikes. 
 
 Includes 3 gameplay modes: Arcade, Timed and "Hits" which measures how many enemies you can shoot down in specific waves. No multiplayer support available.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El tercero en la serie de simulación de vuelo arcade de Sega, After Burner III te lleva de vuelta a la cabina del F-14 Tomcat para poder tomar tantos aviones terroristas como puedas con tu arsenal de misiles Sidewinder y tu fiel cañón vulcan.nnnnExclusivo de Sega CD, el título es en realidad un puerto del juego de pelea arcade de SEGA Strike Fighter, un lanzamiento arcade solo para Japón que intentó mezclar el modo de juego sim "lite" de G-Loc Air Battle con los trucos arcade de After Burner. Como tal, el juego presenta la capacidad de jugar tanto en la cabina como en la perspectiva clásica en tercera persona. Ya están disponibles los escenarios de la noche y el día, con objetivos de la misión que incluyen nuevos ataques aéreos.nnnnIncluye 3 modos de juego: Arcade, Timed y "Hits" que mide cuántos enemigos puedes derribar en oleadas específicas. No hay soporte multijugador disponible.</synopsis>
+      <synopsis>El tercero en la serie de simulación de vuelo arcade de Sega, After Burner III te lleva de vuelta a la cabina del F-14 Tomcat para poder tomar tantos aviones terroristas como puedas con tu arsenal de misiles Sidewinder y tu fiel cañón vulcan.Exclusivo de Sega CD, el título es en realidad un puerto del juego de pelea arcade de SEGA Strike Fighter, un lanzamiento arcade solo para Japón que intentó mezclar el modo de juego sim "lite" de G-Loc Air Battle con los trucos arcade de After Burner. Como tal, el juego presenta la capacidad de jugar tanto en la cabina como en la perspectiva clásica en tercera persona. Ya están disponibles los escenarios de la noche y el día, con objetivos de la misión que incluyen nuevos ataques aéreos.Incluye 3 modos de juego: Arcade, Timed y "Hits" que mide cuántos enemigos puedes derribar en oleadas específicas. No hay soporte multijugador disponible.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -764,7 +764,7 @@ Courts range from a standard city court to an underwater and low-gravity moon co
 This SegaCD game is a side-scrolling action title that makes use of digitized backgrounds (sometimes with interesting effects), digitized actors/objects, voice breifings before each level and full motion video cutscenes from the film. 
 
 The top of the screen is taken up by a stylish display showing the player's score, health bar and the health bar of the enemy boss of the level (should there be one). Players, controlling Jonathan Harker can move left and right on the screen, jump in the air, perform a high kick and rapidly punch. Using these skills, Jonathan must defeat all manner of enemies including bats, zombies, vampires, . Powerups can be found at various points, usually descending from the top of the screen. These include: an invulnerability powerup which also instantly kills enemies, a heath restore powerup.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -793,7 +793,7 @@ The top of the screen is taken up by a stylish display showing the player's scor
     <locale lang="EN">
       <title>Brutal: Paws of Fury</title>
       <synopsis>Across the world, invitations were delivered. Under the watchful eye of the great master Dali Llama, the worlds greatest martial artists would return to a place they knew well.. Brutal Island. Each will use their own unique mental and physical martial arts style and training in a tournament to prove the worlds one true champion.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Fighter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -923,7 +923,7 @@ A band of warrior insects calling themselves "The League of Insects" under the c
     <id>58731A</id>
     <locale lang="EN">
       <title>Cadillacs and Dinosaurs: The Second Cataclysm</title>
-      <synopsis>Cadillacs and Dinosaurs: The Second Cataclysm is a Sega Mega-CD (and DOS) game based on the comic book series Xenozoic Tales, and the TV show of the same name. It is not to be confused with the arcade beat-'em-up, Cadillacs and Dinosaurs by Capcom. The Mega-CD game was only released in North America and Brazil.nnnnSet in the "Xenozoic Age", which occurs after a disaster in the year 2020 causing all of Earth's previous inhabitants to share the planet at once. In order to maintain balance disrupted by a mutant-like race known as the Girth, you set out in a 1953 Cadillac with machine guns.nnnnIt is an on-the-rails FMV game, where you spend most of the time avoiding obstacles and shooting enemies.</synopsis>
+      <synopsis>Cadillacs and Dinosaurs: The Second Cataclysm is a Sega Mega-CD (and DOS) game based on the comic book series Xenozoic Tales, and the TV show of the same name. It is not to be confused with the arcade beat-'em-up, Cadillacs and Dinosaurs by Capcom. The Mega-CD game was only released in North America and Brazil.Set in the "Xenozoic Age", which occurs after a disaster in the year 2020 causing all of Earth's previous inhabitants to share the planet at once. In order to maintain balance disrupted by a mutant-like race known as the Girth, you set out in a 1953 Cadillac with machine guns.It is an on-the-rails FMV game, where you spend most of the time avoiding obstacles and shooting enemies.</synopsis>
       <genre>Shooter</genre>
     </locale>
     <locale lang="ES">
@@ -932,7 +932,7 @@ Establezca la "Era xenozoica", que ocurre después de un desastre en el año 202
       <genre>Tiro</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Cadillacs and Dinosaurs: The Second Cataclysm est un jeu Sega Mega-CD (et DOS) basé sur la série de bandes dessinées Xenozoic Tales, et l'émission de télévision du même nom. A ne pas confondre avec le beat-'em-up arcade Cadillacs et Dinosaurs par Capcom. Le jeu Mega-CD n'a été lancé qu'en Amérique du Nord et au Brésil.nnnnSitué dans l'ère appelée «Xenozoic Age», après une catastrophe en l'an 2020 poussant tous les habitants précédents de la planète à partager la Terre (dont les dinosaures...). Afin de maintenir l'équilibre perturbé par une race de mutants connue sous le nom de Girth, vous vous mettez au volant d'une Cadillac de 1953, armée de mitrailleuses.nnnnIl s'agit d'un jeu de type rail-shooter à base de FMV (vidéos interactives), où vous passez la plupart du temps à éviter des obstacles et des tirs ennemis.</synopsis>
+      <synopsis>Cadillacs and Dinosaurs: The Second Cataclysm est un jeu Sega Mega-CD (et DOS) basé sur la série de bandes dessinées Xenozoic Tales, et l'émission de télévision du même nom. A ne pas confondre avec le beat-'em-up arcade Cadillacs et Dinosaurs par Capcom. Le jeu Mega-CD n'a été lancé qu'en Amérique du Nord et au Brésil.Situé dans l'ère appelée «Xenozoic Age», après une catastrophe en l'an 2020 poussant tous les habitants précédents de la planète à partager la Terre (dont les dinosaures...). Afin de maintenir l'équilibre perturbé par une race de mutants connue sous le nom de Girth, vous vous mettez au volant d'une Cadillac de 1953, armée de mitrailleuses.Il s'agit d'un jeu de type rail-shooter à base de FMV (vidéos interactives), où vous passez la plupart du temps à éviter des obstacles et des tirs ennemis.</synopsis>
       <genre>Tir</genre>
     </locale>
     <locale lang="DE">
@@ -1060,7 +1060,7 @@ Durante los partidos, verás una animación del jugador que controlas, y debajo 
       <synopsis>Chuck Rock is your typical average cave man.  He likes to spend his Sunday afternoons watching football and drinking beer.  Unfortunately, his peaceful existence is interrupted one day when his wife, Ophelia Rock, is kidnapped by the village wierdo, Gary Gritter.  So, Chuck is rather upset about this whole situation and you have to help him make things right.
 
 The game is a side-scrolling platformer.  Chuck fights of a variety of dinosaurs using his belly-buster attack and a jump kick.  Occasionally he has to pick up and throw rocks to defeat enemies and allow him to jump to greater heights.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Unga Bunga' Ophelia, la esposa de Chuck Rock, ha sido capturada por ese inservible de Gary Gritter. ¡Podrá Chuck abrirse paso a través de las cinco fases con retos cada vez mayores, decenas de dinosaurios trastornados, y sorpresas a lo largo de todo el camino? ¿O terminará su amor finalmente convertido en polvo?</synopsis>
@@ -1172,7 +1172,7 @@ Entre autres, vous avez environ 15 minutes pour désarmer une bombe et sauver la
 Enemies are the standard brawler crooks, occasionally carrying guns and knives the player can pick up. The game tends to follow a pattern of having you deal with a natural hazard (scaling a cliff, leaping over gaps), then locking the screen down for a fighting segment, nature again, fighting again, etc. The available fighting moves is limited, compared to other games of this type, and the ability to hit an enemy character is noticeably less accurate.
 
 The plot is identical to the film, with levels based off of, or inspired by, scenes in the movie. Animated cutscenes move the story along on the cartridge systems, while brief clips from the film play between levels on the Sega CD.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Fighter</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Por 7 niveles que incluyen bosques, grutas y montañas traicioneras los jugadores deben intentar salvar a sus amigos de los locos terroristas utilizando una combinación de técnicas de lucha y alpinismo. Por suerte para ti, puedes utilizar una ametralladora Uzi, navajas y una selección de movimientos mortales de Kung-Fu, pero lo malo es que los terroristas y el terreno conspiran para abatirte.</synopsis>
@@ -1243,6 +1243,7 @@ There is no background music to go along with the sound effects.  The levels are
       <synopsis>Compton's Interactive Encyclopedia is, of course, an multimedia encyclopedia licensed from the Compton's series of print encyclopedias, sporting a comparatively impressive 34,000 subjects, 5,000 pictures, and 30 video articles from the American Library Accociation. It is part of a sizeable series that presumably started in 1989 and had a number of entries throughout the '90s; a possible relation between this Mega-CD product and the similarly titled 1992 CD-i product is unknown.
 
 A "version 2.10" exists; differences are unknown. </synopsis>
+      <genre>Other</genre>
     </locale>
     <locale lang="FR">
       <synopsis>L'Encyclopédie interactive de Compton est, comme son nom l'indique, une encyclopédie multimédia concédée sous licence par la série d'encyclopédies imprimées de Compton, avec 34 000 sujets, 5 000 images et 30 articles vidéo de l'American Library Accociation. Il fait partie d'une série importante qui a vraisemblablement commencé en 1989 et a eu un certain nombre d'entrées tout au long des années 90; Une relation possible entre ce produit Mega-CD et le produit de nom similaire sur CD-i en 1992 est inconnue.
@@ -1307,7 +1308,7 @@ The Sega CD edition features improved graphics and music (the change is particul
       <genre>Role playing games</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Este es un relanzamiento de dos juegos de Turbo CD: Cosmic Fantasy: Bouken Shounen Yuu y Cosmic Fantasy II. El primer juego cuenta la historia de un joven llamado Yuu, que está en una búsqueda para convertirse en un Caballero Cósmico. El segundo describe las aventuras de otro joven, Van, cuya novia fue secuestrada por un mago malvado. Ambos juegos están ambientados en un universo de ciencia ficción con viajes intergalácticos.nnnnLa edición de CD de Sega presenta gráficos y música mejorados (el cambio es particularmente notable en la primera Fantasía Cósmica). También reinventa el sistema de juego del primer juego, permitiendo que los personajes previamente pasivos participen en las batallas, pero también aumenta la cantidad de enemigos que se encuentran en las batallas y modifica el nivel de dificultad.</synopsis>
+      <synopsis>Este es un relanzamiento de dos juegos de Turbo CD: Cosmic Fantasy: Bouken Shounen Yuu y Cosmic Fantasy II. El primer juego cuenta la historia de un joven llamado Yuu, que está en una búsqueda para convertirse en un Caballero Cósmico. El segundo describe las aventuras de otro joven, Van, cuya novia fue secuestrada por un mago malvado. Ambos juegos están ambientados en un universo de ciencia ficción con viajes intergalácticos.La edición de CD de Sega presenta gráficos y música mejorados (el cambio es particularmente notable en la primera Fantasía Cósmica). También reinventa el sistema de juego del primer juego, permitiendo que los personajes previamente pasivos participen en las batallas, pero también aumenta la cantidad de enemigos que se encuentran en las batallas y modifica el nivel de dificultad.</synopsis>
       <genre>Juegos de rol</genre>
     </locale>
     <locale lang="FR">
@@ -1336,7 +1337,7 @@ L'édition Sega CD présente des graphismes et de la musique améliorés (ce cha
     <locale lang="EN">
       <title>Crime Patrol</title>
       <synopsis>This multi-level live action thriller challenges the player to progress through police ranks battling a variety of criminal elements. As a Rookie, the player takes on gang members, armed robbers and other street criminals. Promotion to detective will mean working undercover against drug dealers and car thief rings. Be prepared to confront bank robbers and terrorists once you're selected for SWAT team assignment. Only the better player will be able to reach Delta Force and tangle with a criminal element threatening national security.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1365,7 +1366,7 @@ L'édition Sega CD présente des graphismes et de la musique améliorés (ce cha
     <locale lang="EN">
       <title>Cyborg 009</title>
       <synopsis>Cyborg 009  is a Sega Mega-CD action game released exclusively in Japan.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1393,15 +1394,15 @@ L'édition Sega CD présente des graphismes et de la musique améliorés (ce cha
     <id>58734A</id>
     <locale lang="EN">
       <title>Daihoushinden</title>
-      <synopsis>Truthfully, there just isn't that much known about this game in the west.  The plot apparently involves an army invading and the hero having to deal with the problems that arise.nnnnThe game is very text heavy, so even with some kind of translation guide, playing the game is a daunting task.  The combat is also very tough, so only the most hardcore will likely continue playing.  Still, it features quality music and the game features, you guessed it, animated cut scenes.  The game itself isn't too shabby to look at either.  It plays as a standard turn-based JRPG.</synopsis>
+      <synopsis>Truthfully, there just isn't that much known about this game in the west.  The plot apparently involves an army invading and the hero having to deal with the problems that arise.The game is very text heavy, so even with some kind of translation guide, playing the game is a daunting task.  The combat is also very tough, so only the most hardcore will likely continue playing.  Still, it features quality music and the game features, you guessed it, animated cut scenes.  The game itself isn't too shabby to look at either.  It plays as a standard turn-based JRPG.</synopsis>
       <genre>Role playing games</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>A decir verdad, simplemente no se sabe mucho sobre este juego en el oeste. Aparentemente, la trama involucra la invasión de un ejército y que el héroe tenga que lidiar con los problemas que surgen.nnnnEl juego es muy pesado, por lo que incluso con algún tipo de guía de traducción, jugar es una tarea desalentadora. El combate también es muy difícil, por lo que solo los más hardcore probablemente continuarán jugando. Aún así, presenta música de calidad y las características del juego, lo adivinaste, escenas animadas. El juego en sí mismo no está nada mal para mirarlo tampoco. Juega como un JRPG estándar basado en turnos.</synopsis>
+      <synopsis>A decir verdad, simplemente no se sabe mucho sobre este juego en el oeste. Aparentemente, la trama involucra la invasión de un ejército y que el héroe tenga que lidiar con los problemas que surgen.El juego es muy pesado, por lo que incluso con algún tipo de guía de traducción, jugar es una tarea desalentadora. El combate también es muy difícil, por lo que solo los más hardcore probablemente continuarán jugando. Aún así, presenta música de calidad y las características del juego, lo adivinaste, escenas animadas. El juego en sí mismo no está nada mal para mirarlo tampoco. Juega como un JRPG estándar basado en turnos.</synopsis>
       <genre>Juegos de rol</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Honnêtement, très peu de choses sont connus de ce jeu en occident. L'intrigue semble impliquer une armée envahissante et le héros doit faire face aux problèmes qui se posent.nnnnLe jeu est très lourd de texte (japonais), donc même avec une sorte de guide de traduction, jouer à ce jeu est une tâche intimidante. Le combat est également très difficile, donc seul les joueurs les plus hardcore continueront probablement à jouer. Pourtant, il dispose de musique de qualité et introduit comme fonctionnalité, vous l'avez deviné, des scènes animées comme il est fréquent d'en voir sur Mega-CD. Le jeu lui-même est agréable à regarder. Le gameplay est un JRPG (jeu de rôle japonais) au tour par tour.</synopsis>
+      <synopsis>Honnêtement, très peu de choses sont connus de ce jeu en occident. L'intrigue semble impliquer une armée envahissante et le héros doit faire face aux problèmes qui se posent.Le jeu est très lourd de texte (japonais), donc même avec une sorte de guide de traduction, jouer à ce jeu est une tâche intimidante. Le combat est également très difficile, donc seul les joueurs les plus hardcore continueront probablement à jouer. Pourtant, il dispose de musique de qualité et introduit comme fonctionnalité, vous l'avez deviné, des scènes animées comme il est fréquent d'en voir sur Mega-CD. Le jeu lui-même est agréable à regarder. Le gameplay est un JRPG (jeu de rôle japonais) au tour par tour.</synopsis>
       <genre>Jeu de rôles</genre>
     </locale>
     <locale lang="DE">
@@ -1497,7 +1498,7 @@ Also noteworthy are Dark Wizard's long animated cutscenes with spoken dialogues 
 Demolition Man is a fast-paced platform game, with some levels taking place in an overhead perspective (similar to Smash TV). As John Spartan, the player will spend most of his time shooting endless waves of "cryocons" released upon the antiseptic world of the future. The standard weapon can be upgraded with a shotgun and magnum, both with limited ammo. Additionally, various types of grenades can be collected, which are thrown independently of the firearm. Simon Phoenix appears as a boss character at the end of every level that is directly tied in with the movie.
 
 The Sega CD version of the game retains identical levels and gameplay, but adds digitized clips from the film to introduce levels and advance the plot.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Uno es policía; el otro, un criminal. Su misión: ¡ser el primero en destruir al contrario! Tú eres John Spartan,. recién salido de tu estado de hibernación en la prisión criogénica de San Ángeles. Armado con escopetas, pistolas Magnum y granadas, vas a la caza de Simon Phoenix a través de 10 niveles explosivos.</synopsis>
@@ -1556,7 +1557,7 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
     <locale lang="EN">
       <title>Devastator</title>
       <synopsis>Ryo begins working for a company called Yaesu as a replacement for his friend Masato. During a test ride with a new machine, however, he is somehow thrown into another dimension. After being rescued there by a group of mecha pilots from vile creatures named Devastators, he learns that nefarious people are working on a connection between that and his own dimension, and sets out to stop them.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1623,10 +1624,10 @@ Las estrellas de Double Switch, Corey Haim y Deborah Harry, cuentan con una part
 In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.
 
 Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Dracula Unleashed es una película interactiva en la misma línea que Sherlock Holmes: Consulting Detective. Básicamente, puede elegir entre varias ubicaciones para ir, y en cada lugar se le muestran diferentes eventos a través de videoclips de acción en vivo. Las pistas en los videos te indicarán hacia dónde debes ir después. También tiene un "inventario" que puede usar para afectar el resultado de ciertos clips (por ejemplo, si ingresa a un asilo con el blackjack podrá defenderse contra cualquier recluso que haya escapado, pero si no lo trae) el blackjack contigo será asesinado). El tiempo se mueve constantemente y nuevos eventos aparecerán en diferentes momentos del día.nnnnEn Dracula Unleashed es el año 1899, diez años después de la destrucción del recuento de Drácula en la novela de Bram Stoker. Usted toma el papel de Alexander Morris, el hermano menor de Texan Quincey Morris que murió derrotando a Drácula. Alexander ha venido a Londres para investigar las circunstancias de la muerte de su hermano, pero se desvió del camino cuando se enamoró y se lo propuso a una chica local llamada Annisette.nnnnAhora, el amanecer de un nuevo milenio se acerca y una fuerza malvada acecha las calles de Londres, agotando a las víctimas de su sangre y transformando mujeres inocentes en vampiresas sedientas de sangre. Con el ayuda de los viejos amigos de tu hermano, los sobrevivientes del mal de Drácula, debes descubrir la identidad de este nuevo vampiro y evitar que él transforme a Annisette en su reina de la noche. No le falles, o ella personalmente te arrancará la garganta.</synopsis>
+      <synopsis>Dracula Unleashed es una película interactiva en la misma línea que Sherlock Holmes: Consulting Detective. Básicamente, puede elegir entre varias ubicaciones para ir, y en cada lugar se le muestran diferentes eventos a través de videoclips de acción en vivo. Las pistas en los videos te indicarán hacia dónde debes ir después. También tiene un "inventario" que puede usar para afectar el resultado de ciertos clips (por ejemplo, si ingresa a un asilo con el blackjack podrá defenderse contra cualquier recluso que haya escapado, pero si no lo trae) el blackjack contigo será asesinado). El tiempo se mueve constantemente y nuevos eventos aparecerán en diferentes momentos del día.En Dracula Unleashed es el año 1899, diez años después de la destrucción del recuento de Drácula en la novela de Bram Stoker. Usted toma el papel de Alexander Morris, el hermano menor de Texan Quincey Morris que murió derrotando a Drácula. Alexander ha venido a Londres para investigar las circunstancias de la muerte de su hermano, pero se desvió del camino cuando se enamoró y se lo propuso a una chica local llamada Annisette.Ahora, el amanecer de un nuevo milenio se acerca y una fuerza malvada acecha las calles de Londres, agotando a las víctimas de su sangre y transformando mujeres inocentes en vampiresas sedientas de sangre. Con el ayuda de los viejos amigos de tu hermano, los sobrevivientes del mal de Drácula, debes descubrir la identidad de este nuevo vampiro y evitar que él transforme a Annisette en su reina de la noche. No le falles, o ella personalmente te arrancará la garganta.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1657,7 +1658,7 @@ Maintenant, l'aube d'un nouveau millénaire approche et une force maléfique tra
     <locale lang="EN">
       <title>Dragon's Lair</title>
       <synopsis>A conversion of the 1983 Don Bluth coin op cartoon game.  Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne.  With limited movement allowed, the game's main emphasis is on its heart-stopping graphics.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Una conversión del juego de animación de recreativas de 1983 de Don Bluth. Los jugadores controlan a Dirk the Daring mientras se abre paso a través de una mazmorra para luchar contra Singe, el dragón, y rescatar a la bella princesa Daphne. Con el movimiento limitado permitido, el énfasis principal del juego está en sus gráficos deslumbrantes.</synopsis>
@@ -1696,7 +1697,7 @@ As the game advances, the player will untap Paul's latent powers, as well as mee
       <genre>Strategy</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Basado en la legendaria novela homónima de Frank Herbert e inspirada visualmente por la película de David Lynch de 1984, Dune es un híbrido de estrategia y aventura en el que el jugador interpreta al joven Paul Atreides, el hijo de Duke Leto. El emperador Shaddam Corrino IV le ha otorgado a la Casa Atreides los derechos para manejar la extracción de la sustancia más preciosa en todo el universo: la Melange, comúnmente conocida como Especia en el desolado planeta desierto Arrakis (Dune), el único lugar del universo capaz de producir la sustancia. Si bien todo indica que la oferta es una trampa orquestada por sus enemigos Harkonnen, la familia Atreides está de acuerdo en moverse, ya que él que controla la especia, controla el universo.nnnnEl jugador llega a Arrakis con la misión de contactar y convencer a las tribus Fremen que residen en sietches (asentamientos del desierto) cerca del palacio de Atreides para cosechar la especia. La cosecha es la parte más importante del juego, que se requiere para comprar equipo a los contrabandistas y apaciguar al emperador. Para acelerar el proceso de recolección, el jugador puede equipar a las tribus con cosechadores para aumentar la producción y ornis para protegerlos de los gigantescos protectores del planeta: Shai-Hulud, los gusanos de arena.nnnnSin embargo, la especia no dura para siempre y se deben explorar nuevos siets antes de asignarle un equipo de minería, pero el jugador no puede correr hacia el Sur para siempre, ya que el enemigo Harkonnen controla el Norte del Planeta, peligrosamente cerca del Palacio Atreides. Poco después de que los lotes iniciales se envíen al Emperador, el jugador tendrá que tratar activamente con el Harkonnen, que intentará tomar el control del jugador Sietches. Para aquellos, las tribus Fremen pueden ser asignadas al entrenamiento militar con Gurney Halleck, pero antes de hacer tal trabajo, Paul debe tener cierta reputación, ganada por el control de Arrakis.nnnnA medida que avanza el juego, el jugador enderezará los poderes latentes de Paul, así como conocerá a otros personajes del universo de Dune, como Duke Leto, Jessica, Thufir Hawat, Duncan Idaho, Harah, Chani, Stilgar y Liet Kynes, la mente maestra detrás del juego. planes ecológicos en Dune, el objetivo final.</synopsis>
+      <synopsis>Basado en la legendaria novela homónima de Frank Herbert e inspirada visualmente por la película de David Lynch de 1984, Dune es un híbrido de estrategia y aventura en el que el jugador interpreta al joven Paul Atreides, el hijo de Duke Leto. El emperador Shaddam Corrino IV le ha otorgado a la Casa Atreides los derechos para manejar la extracción de la sustancia más preciosa en todo el universo: la Melange, comúnmente conocida como Especia en el desolado planeta desierto Arrakis (Dune), el único lugar del universo capaz de producir la sustancia. Si bien todo indica que la oferta es una trampa orquestada por sus enemigos Harkonnen, la familia Atreides está de acuerdo en moverse, ya que él que controla la especia, controla el universo.El jugador llega a Arrakis con la misión de contactar y convencer a las tribus Fremen que residen en sietches (asentamientos del desierto) cerca del palacio de Atreides para cosechar la especia. La cosecha es la parte más importante del juego, que se requiere para comprar equipo a los contrabandistas y apaciguar al emperador. Para acelerar el proceso de recolección, el jugador puede equipar a las tribus con cosechadores para aumentar la producción y ornis para protegerlos de los gigantescos protectores del planeta: Shai-Hulud, los gusanos de arena.Sin embargo, la especia no dura para siempre y se deben explorar nuevos siets antes de asignarle un equipo de minería, pero el jugador no puede correr hacia el Sur para siempre, ya que el enemigo Harkonnen controla el Norte del Planeta, peligrosamente cerca del Palacio Atreides. Poco después de que los lotes iniciales se envíen al Emperador, el jugador tendrá que tratar activamente con el Harkonnen, que intentará tomar el control del jugador Sietches. Para aquellos, las tribus Fremen pueden ser asignadas al entrenamiento militar con Gurney Halleck, pero antes de hacer tal trabajo, Paul debe tener cierta reputación, ganada por el control de Arrakis.A medida que avanza el juego, el jugador enderezará los poderes latentes de Paul, así como conocerá a otros personajes del universo de Dune, como Duke Leto, Jessica, Thufir Hawat, Duncan Idaho, Harah, Chani, Stilgar y Liet Kynes, la mente maestra detrás del juego. planes ecológicos en Dune, el objetivo final.</synopsis>
       <genre>Estrategia</genre>
     </locale>
     <locale lang="FR">
@@ -1821,10 +1822,10 @@ A game with the same name for the Sega Mega-CD was produced, but only released i
       <synopsis>The story of the game is connected to that of  El Viento. Earnest Evans is a brave treasure hunter. His grandfather was a famous archaeologist who searched for three legendary idols in the 1930s. It was said that those idols could bring disaster upon the Earth if fallen into the wrong hands. But despite his efforts, he could never find even one of the idols. Now it's up to the grandson to continue his work, fifty years later. But the evil syndicate leader Brady Tressider has his own plans, and will do anything to stop Earnest...
 
 This is an action platform game in which you control Earnest Evans, armed with his trusty whip. The hero can jump, climb ropes, crouch, and crawl. There are plenty of obstacles on the levels (bottomless pits, spikes, crushing bridges, lava, etc.), as well as gangsters and monsters to dispose of.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>La historia del juego está relacionada con la de El Viento. Earnest Evans es un valiente cazador de tesoros. Su abuelo fue un famoso arqueólogo que buscó tres ídolos legendarios en la década de 1930. Se dijo que esos ídolos podían traer un desastre sobre la Tierra si caían en las manos equivocadas. Pero a pesar de sus esfuerzos, nunca pudo encontrar ni uno solo de los ídolos. Ahora le toca al nieto continuar su trabajo, cincuenta años después. Pero el malvado líder sindical Brady Tressider tiene sus propios planes, y hará cualquier cosa para detener a Earnest ...nnnnEste es un juego de plataforma de acción en el que controlas a Earnest Evans, armado con su confiable látigo. El héroe puede saltar, trepar cuerdas, agacharse y gatear. Hay muchos obstáculos en los niveles (pozos sin fondo, picos, puentes aplastantes, lava, etc.), así como gangsters y monstruos de los que hay que disponer.</synopsis>
+      <synopsis>La historia del juego está relacionada con la de El Viento. Earnest Evans es un valiente cazador de tesoros. Su abuelo fue un famoso arqueólogo que buscó tres ídolos legendarios en la década de 1930. Se dijo que esos ídolos podían traer un desastre sobre la Tierra si caían en las manos equivocadas. Pero a pesar de sus esfuerzos, nunca pudo encontrar ni uno solo de los ídolos. Ahora le toca al nieto continuar su trabajo, cincuenta años después. Pero el malvado líder sindical Brady Tressider tiene sus propios planes, y hará cualquier cosa para detener a Earnest ...Este es un juego de plataforma de acción en el que controlas a Earnest Evans, armado con su confiable látigo. El héroe puede saltar, trepar cuerdas, agacharse y gatear. Hay muchos obstáculos en los niveles (pozos sin fondo, picos, puentes aplastantes, lava, etc.), así como gangsters y monstruos de los que hay que disponer.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1887,10 +1888,10 @@ This is an action platform game in which you control Earnest Evans, armed with h
       <synopsis>Travel through time along with Ecco the dolphin, in the only game that could call itself a "dolphin simulator". Indeed, you can do pretty much everything a typical dolphin does, including eating fish, surfacing in order to breathe, using your biological sonar and of course, jumping out of the water to amaze your friends.
 
 The storyline is actually deeper that one may think by looking at the box illustration. As Ecco, you are the only dolphin who managed to escape from a giant whirlpool which sucked down your entire pod. The five shining stars on your forehead show that you are the chosen one to save them. But that task will be not be an easy one, as you will have to travel through time and space with the Atlantean time machine, and meet the mystical Asterite in order to defeat the Vortex Queen.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Nuestro protagonista, Ecco (un joven delfín Mular) presencia el secuestro de su manada sin poder hacer nada. Comienza entonces una persecución a través del tiempo en su búsqueda, dando inicio así a la aventura.nn</synopsis>
+      <synopsis>Nuestro protagonista, Ecco (un joven delfín Mular) presencia el secuestro de su manada sin poder hacer nada. Comienza entonces una persecución a través del tiempo en su búsqueda, dando inicio así a la aventura. </synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1924,7 +1925,7 @@ Ecco: The Tides of Time features even better graphics than its predecessor, and 
       <genre>Adventure,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El seguimiento de Ecco the Dolphin, en el que Ecco destruyó con éxito el Vortex. Desafortunadamente, resulta que la Reina Vortex lo siguió hasta la Tierra y finalmente destruyó la Asterita. Todos los océanos del mundo están amenazados, y en realidad ya están condenados.nnnnPara restaurar el Asterite y finalmente vencer a la Vortex Queen, Ecco tendrá que enfrentarse una vez más a las mareas del tiempo, que se han dividido en dos posibles futuros, el regular y el oscuro dominado por la Vortex Queen.nnnnEcco: The Tides of Time presenta gráficos aún mejores que su predecesor, e introduce un nuevo modo de juego en el que la cámara sigue al delfín desde atrás en lugar de desde el lateral.</synopsis>
+      <synopsis>El seguimiento de Ecco the Dolphin, en el que Ecco destruyó con éxito el Vortex. Desafortunadamente, resulta que la Reina Vortex lo siguió hasta la Tierra y finalmente destruyó la Asterita. Todos los océanos del mundo están amenazados, y en realidad ya están condenados.Para restaurar el Asterite y finalmente vencer a la Vortex Queen, Ecco tendrá que enfrentarse una vez más a las mareas del tiempo, que se han dividido en dos posibles futuros, el regular y el oscuro dominado por la Vortex Queen.Ecco: The Tides of Time presenta gráficos aún mejores que su predecesor, e introduce un nuevo modo de juego en el que la cámara sigue al delfín desde atrás en lugar de desde el lateral.</synopsis>
       <genre>Aventura,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -2217,10 +2218,10 @@ Eye of the Beholder is a dungeon crawler RPG with a first-person perspective bas
       <synopsis>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse.  Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.
 
 Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Fahrenheit es una película interactiva que pone a los jugadores en el traje resistente al fuego de un bombero. Eres el nuevo tipo en la estación de bomberos. La semana pasada, salvaste tres vidas. Pero ahora, estás en un escuadrón nuevo y tienes que demostrar tu valía a ellos.nnnnAl igual que la mayoría de las películas interactivas, Fahrenheit se reproduce por completo mientras se ve un video digitalizado. En ciertos puntos críticos del video, los jugadores deben presionar ciertas direcciones en el panel de control o los botones de acción para progresar en el juego. Fahrenheit lleva esto un paso más allá al proporcionar varios edificios en los que el jugador tiene la capacidad de moverse de una habitación a otra de una manera no lineal. A medida que los jugadores se mueven de una habitación a otra, tienen que localizar a las víctimas y neutralizar los riesgos de incendio.</synopsis>
+      <synopsis>Fahrenheit es una película interactiva que pone a los jugadores en el traje resistente al fuego de un bombero. Eres el nuevo tipo en la estación de bomberos. La semana pasada, salvaste tres vidas. Pero ahora, estás en un escuadrón nuevo y tienes que demostrar tu valía a ellos.Al igual que la mayoría de las películas interactivas, Fahrenheit se reproduce por completo mientras se ve un video digitalizado. En ciertos puntos críticos del video, los jugadores deben presionar ciertas direcciones en el panel de control o los botones de acción para progresar en el juego. Fahrenheit lleva esto un paso más allá al proporcionar varios edificios en los que el jugador tiene la capacidad de moverse de una habitación a otra de una manera no lineal. A medida que los jugadores se mueven de una habitación a otra, tienen que localizar a las víctimas y neutralizar los riesgos de incendio.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -2367,7 +2368,7 @@ Based on international teams (with fictional player names), their abilities in e
       <synopsis>Flashback, known in the US as Flashback: The Quest for Identity, is arguably Delphine Software's greatest work. CD-based versions tend to include full motion video cutscenes and an enhanced music soundtrack, but are essentially the same game. 
 
 The year is 2142. You play as Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from now on his quest for survival.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer,Adventure</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Flashback, conocido en los Estados Unidos como Flashback: The Quest for Identity, es sin duda el trabajo más grande de Delphine Software. Las versiones basadas en CD tienden a incluir escenas de video de movimiento completo y una banda sonora de música mejorada, pero son esencialmente el mismo juego.
@@ -2507,6 +2508,8 @@ Le gameplay lui-même est assez simple et facile à comprendre. Dans la version 
     <id>97355A</id>
     <locale lang="EN">
       <title>Gambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjong Land Hen</title>
+      <genre>Board game,Mahjong</genre>
+      <synopsis/>
     </locale>
     <developer>Game Arts</developer>
     <publisher>Game Arts</publisher>
@@ -2645,7 +2648,7 @@ The game is played entirely through four camera feeds from locations around the 
 The goal is pretty much to juggle between cameras so as not to miss an important plot point, while defending them from attackers or saving citizens from being abducted. In a neat twist, citizens who you failed to save may appear later as disguised aliens themselves.
 
 As the game progresses, the invasion increases and becomes more violent, but the basic concept of switching between cameras and engaging in video shooting galleries remains unchanged.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Gun shooter</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Ground Zero Texas es un shooter en primera persona en Mega-CD. Los extraterrestres se infiltran en los Estados Unidos desde una pequeña ciudad adormecida en la frontera de México para allanar el camino hacia una invasión mayor. El gobierno lo designa a usted, un técnico en armas de fuego, para controlar la actividad de los alienígenas en la ciudad y reaccionar para proteger las vidas de los ciudadanos y sus agentes.</synopsis>
@@ -2784,14 +2787,15 @@ Once you've done this it's time to wander around the isometric landscape solving
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Hook">
+
+    <game name="Hook">
     <id>12751A</id>
     <locale lang="EN">
       <title>Hook</title>
       <synopsis>In this video game adaption of the Steven Spielberg film Hook, the player takes the role of a grown-up Peter Pan, whose kids have been kidnapped by Captain Hook. Tinker Bell takes Peter back to Neverland where he must again become Pan and reclaim his children.
 
 This particular interpretation is a side-scrolling action game, in which players must hack their way past Hook's denizens through 11 levels.  These include forests, icy regions, and towns which Peter will have to jump, climb, and swim through. Magic items such as apples and pixie dust can be collected for special powers. When enemies are attacked, they simply put their hands up in surrender rather than dying, so as to make the game more child-friendly.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2856,14 +2860,14 @@ Lorsque vous explorez le navire, vous trouverez des ports de données, qui peuve
     <id>97357A</id>
     <locale lang="EN">
       <title>Ishii Hisaichi No Daiseikai</title>
-      <synopsis>Ishii Hisaichi no Daiseikai (Hisaichi Ishii's Great Political World) is a farcical political-themed strategy board game based on the works of cartoonist Hisaichi Ishii. The player takes the role of a budding politician who must work his way up to become the Prime Minister of Japan.nnnnThe game is completely menu driven, with the player choosing actions for each day as the game progresses, such as visiting a certain place or meeting with a specific person. The ultimate goal is to gain experience solving citizens' problems and earn enough popularity campaigning -- or by using items to swing public opinion in the player's favor -- to win the popular vote.</synopsis>
+      <synopsis>Ishii Hisaichi no Daiseikai (Hisaichi Ishii's Great Political World) is a farcical political-themed strategy board game based on the works of cartoonist Hisaichi Ishii. The player takes the role of a budding politician who must work his way up to become the Prime Minister of Japan.The game is completely menu driven, with the player choosing actions for each day as the game progresses, such as visiting a certain place or meeting with a specific person. The ultimate goal is to gain experience solving citizens' problems and earn enough popularity campaigning -- or by using items to swing public opinion in the player's favor -- to win the popular vote.</synopsis>
       <genre>Simulation</genre>
     </locale>
     <locale lang="ES">
       <genre>Simulación</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Ishii Hisaichi no Daiseikai (le grand monde politique de Hisaichi Ishii) est un jeu de stratégie politique farouche basé sur les travaux du dessinateur cartoon Hisaichi Ishii. Le joueur prend le rôle d'un politicien en herbe qui doit rouler sa boose jusqu'à devenir le Premier ministre du Japon.nnnnLe jeu au travers de menus invite le joueur à choisir des actions pour chaque jour de progression, comme visiter un endroit spécifique ou rencontrer une personne particulière. Le but ultime est d'acquérir de l'expérience en résolvant les problèmes des citoyens, pour enfin gagner assez de popularité en faisant campagne - ou en utilisant des éléments pour faire basculer l'opinion publique en faveur du joueur - pour gagner le vote populaire.</synopsis>
+      <synopsis>Ishii Hisaichi no Daiseikai (le grand monde politique de Hisaichi Ishii) est un jeu de stratégie politique farouche basé sur les travaux du dessinateur cartoon Hisaichi Ishii. Le joueur prend le rôle d'un politicien en herbe qui doit rouler sa boose jusqu'à devenir le Premier ministre du Japon.Le jeu au travers de menus invite le joueur à choisir des actions pour chaque jour de progression, comme visiter un endroit spécifique ou rencontrer une personne particulière. Le but ultime est d'acquérir de l'expérience en résolvant les problèmes des citoyens, pour enfin gagner assez de popularité en faisant campagne - ou en utilisant des éléments pour faire basculer l'opinion publique en faveur du joueur - pour gagner le vote populaire.</synopsis>
       <genre>Simulation</genre>
     </locale>
     <locale lang="DE">
@@ -3010,6 +3014,8 @@ La vue est placée derrière le quaterback, avec des angles 3D, incluant quatre 
     <id>108017</id>
     <locale lang="EN">
       <title>Johnny Mnemonic</title>
+      <genre>Adventure</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Aventura</genre>
@@ -3030,6 +3036,7 @@ La vue est placée derrière le quaterback, avec des angles 3D, incluant quatre 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1995"/>
   </game>
   <game name="Jurassic Park">
     <id>12714A</id>
@@ -3116,7 +3123,7 @@ Features 7 levels and 3 difficulty settings.</synopsis>
       <synopsis>Remember the days as a kid when you were fascinated with these big machines on the building site? With this game you have the opportunity to try them out! You can use either the excavator, bulldozer, steamroller or wrecking ball. The handling couldn't be easier, there are just three buttons to press: left, right and use.
 
 With each machine you get a simple task, e.g. carry three shovels of dirt on a truck. But the fun thing is that you aren't restricted to this and can just screw around. Why wreck an old house when the pit latrine is so much more tempting? The whole game is presented in full motion video - the reactions are very humorous and with a fair share of slapstick. To improve the long time motivation there are even multiple videos for every action, e.g. the first time you break a road block with the the excavator you drive on a highway, the second time into a canyon, the third time onto a rollercoaster and so on...</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Simulation,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3187,7 +3194,7 @@ Go straight into the mayhem, practice in the targeting range or have a friend ba
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Toma tu pistola y sé el policía que necesitas para deshacerte de las calles de los criminales y hacer que tu día sea un infierno. Apunte con prudencia y rapidez, de lo contrario sus vidas se perderán rápidamente en este shooter arcade en primera persona, limpiando las calles. Cuanto mayor sea el nivel de dificultad, más crímenes habrá para eliminar, pero ten cuidado con las otras armas que pueden ayudarte en el camino.nnnnVe directamente al caos, practica en el rango de objetivos o haz que un amigo te respalde en el modo de dos jugadores. Use un accesorio de pistola o juegue con el gamepad.</synopsis>
+      <synopsis>Toma tu pistola y sé el policía que necesitas para deshacerte de las calles de los criminales y hacer que tu día sea un infierno. Apunte con prudencia y rapidez, de lo contrario sus vidas se perderán rápidamente en este shooter arcade en primera persona, limpiando las calles. Cuanto mayor sea el nivel de dificultad, más crímenes habrá para eliminar, pero ten cuidado con las otras armas que pueden ayudarte en el camino.Ve directamente al caos, practica en el rango de objetivos o haz que un amigo te respalde en el modo de dos jugadores. Use un accesorio de pistola o juegue con el gamepad.</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -3299,6 +3306,8 @@ Go straight into the mayhem, practice in the targeting range or have a friend ba
     <id>58741A</id>
     <locale lang="EN">
       <title>Lodoss-tou Senki - Eiyuu Sensou</title>
+      <genre>RPG</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Juegos de rol</genre>
@@ -3334,7 +3343,7 @@ The six continents of Mistral can be challenged in any order, each of which are 
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>En la tierra una vez pacífica de Mistral, la leyenda cuenta de un valiente caballero llamado Drak que ha sellado a un dios malvado llamado Deoric debajo de los seis continentes de la tierra. Sin embargo, la paz nunca dura. El Imperio Garuda ha invadido las tierras de Mistral, y los seis generales oscuros, liderados por Sornbul, han conquistado los continentes. La ambición de Sornbul es nada menos que resucitar a Deoric y sumergir la tierra en el caos.nnnnDurán, descendiente de Drak, es el único que puede detener el loco plan del Imperio Garuda, y con el poder de las armaduras místicas de Drak, se dirige a detener a Sornbul a toda costa.nnnnLos seis continentes de Mistral pueden ser desafiados en cualquier orden, cada uno de los cuales está lleno de hordas de demonios y uno de los Generales Oscuros de Sornbul. Después de completar los seis continentes, el jugador se enfrentará a Sornbul en la isla final. Antes de un nivel, el jugador puede elegir entre una de las cuatro armaduras elementales, cada una con su propia bala y bomba única. El ataque de la armadura puede aumentar varios niveles al encontrar las joyas arrojadas por los enemigos. Este nivel de potencia, así como la salud de la armadura, se reduce cuando se golpea. Los enemigos también arrojan cristales que se utilizan en una tienda de nivel intermedio para comprar salud adicional, bombas y continúa.</synopsis>
+      <synopsis>En la tierra una vez pacífica de Mistral, la leyenda cuenta de un valiente caballero llamado Drak que ha sellado a un dios malvado llamado Deoric debajo de los seis continentes de la tierra. Sin embargo, la paz nunca dura. El Imperio Garuda ha invadido las tierras de Mistral, y los seis generales oscuros, liderados por Sornbul, han conquistado los continentes. La ambición de Sornbul es nada menos que resucitar a Deoric y sumergir la tierra en el caos.Durán, descendiente de Drak, es el único que puede detener el loco plan del Imperio Garuda, y con el poder de las armaduras místicas de Drak, se dirige a detener a Sornbul a toda costa.Los seis continentes de Mistral pueden ser desafiados en cualquier orden, cada uno de los cuales está lleno de hordas de demonios y uno de los Generales Oscuros de Sornbul. Después de completar los seis continentes, el jugador se enfrentará a Sornbul en la isla final. Antes de un nivel, el jugador puede elegir entre una de las cuatro armaduras elementales, cada una con su propia bala y bomba única. El ataque de la armadura puede aumentar varios niveles al encontrar las joyas arrojadas por los enemigos. Este nivel de potencia, así como la salud de la armadura, se reduce cuando se golpea. Los enemigos también arrojan cristales que se utilizan en una tienda de nivel intermedio para comprar salud adicional, bombas y continúa.</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -3747,7 +3756,7 @@ Le joueur utilise un bâton en bois pour repousser les ennemis. Le bâton que le
     <locale lang="EN">
       <title>Mickey Mania: The Timeless Adventures of Mickey Mouse</title>
       <synopsis>Mickey Mania: The Timeless Adventures of Mickey Mouse is a 2D-platformer developed by Traveller's Tales and published by Sony Imagesoft. In the game, you control Mickey Mouse, who must navigate through various side-scrolling levels, each designed and based from classical Mickey Mouse cartoons from 1928 to 1990.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Mickey Mania: The Timeless Adventures of Mickey Mouse es un juego de plataformas en 2D desarrollado por Traveler's Tales y publicado por Sony Imagesoft. En el juego, controlas Mickey Mouse, que debe navegar a través de varios niveles de desplazamiento lateral, cada uno diseñado y basado en los dibujos animados clásicos de Mickey Mouse de 1928 a 1990.</synopsis>
@@ -3788,7 +3797,7 @@ Le joueur utilise un bâton en bois pour repousser les ennemis. Le bâton que le
 Microcosm is a 3D action shooter, similar to Descent, that takes place entirely within the human body. The concept was inspired by the 1966 movie Fantastic Voyage. The player pilots his way through various parts of the anatomy, blasting virii and enemy ships, while gaining power-ups and faster, stronger craft. The goal of the game is to eventually reach the brain to stop Grey M, the entity that controls Korsby's body.
 
 Microcosm makes heavy use of full-motion video and features high-resolution fractal graphics (to simulate the walls of veins and arteries), digital music and sound effects.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3821,7 +3830,7 @@ Microcosm makes heavy use of full-motion video and features high-resolution frac
 The helicopter sections follow a pattern similar to Tomcat Alley, showing brief clips of the cast in the cockpit, followed by a "nose camera" shot of an enemy approaching. During this shot, you have the ability to move a set of crosshairs over the enemy and press the "fire" button. If you're on target, you are rewarded with military archival footage of helicopters shooting rockets, and close up footage of models exploding. 
 
 The on-foot sections follow an identical pattern, though with hand-held cameras placing you in the "eyes" of Joker, and black-clad guards taking the place of helicopters. Otherwise, the idea of having a few seconds to react and aim crosshairs is the same. The plot is expanded through occasional cutscenes in both the helicopter and foot sections.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3881,6 +3890,8 @@ Lead a party of adventurers to rendezvous with the legendary wizard Corak. From 
     <id>97377A</id>
     <locale lang="EN">
       <title>Mighty Mighty Missile!</title>
+      <genre>Puzzle</genre>
+      <synopsis>Mighty Mighty Missile is a homebrew 16-bit "demake" of the classic Dreamcast action puzzler ChuChu Rocket!. The goal is to place arrows to guide mice to your spaceship, while directing cats to opponents' ships. This version includes both the Original mode for up to four players and the Puzzle mode with 24 different puzzles to solve. The stages are a mix of original layouts and stages from the Dreamcast version, and completing Puzzle mode stages will unlock additional stages for the Original mode.</synopsis>
     </locale>
     <locale lang="ES">
       <genre>Rompecabezas</genre>
@@ -3895,12 +3906,13 @@ Lead a party of adventurers to rendezvous with the legendary wizard Corak. From 
     <publisher>Good Deal Games</publisher>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="4">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="2004" month="08" day="21"/>
   </game>
   <game name="Mighty Morphin Power Rangers">
     <id>12731A</id>
@@ -3943,7 +3955,7 @@ Lead a party of adventurers to rendezvous with the legendary wizard Corak. From 
 Mortal Kombat is a side-scrolling 1 on 1 fighting game. Fighting is set as one on one kombat, allowing each player to perform a variety of punches, kicks, and special moves in order to defeat their opponent.  When the opponent faces their second round loss, the winner can perform a finishing move called a "Fatality" on the loser.  The Fatality is a move unique to each fighter that graphically kills the loser in a blood-soaked finale.
 
 Mortal Kombat began its life as a 2-player arcade title. It is notable for its use of digitized actors to represent the game's fighters, as well as its use of copious amounts of blood during gameplay.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Fighter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4033,6 +4045,7 @@ Mortal Kombat began its life as a 2-player arcade title. It is notable for its u
     <locale lang="EN">
       <title>NFL Football Trivia Challenge</title>
       <synopsis>NFL Football Trivia Challenge is a trivia game with an National Football League license. Either player can pick his favourite team to play with. TV commentators Pat Summerall and Tom Bookshier describe various situations in play accompanied by 1200 images and 300 Full Motion Video clips. 1500 multiple choice questions are waiting to be answered in the game. For each correct answer the player gains yardage in the game and increases his chances of scoring a point. The player with most points after 60 questions wins the game. There are three different difficulty levels to play at.</synopsis>
+      <genre>Sports,Quiz</genre>
     </locale>
     <developer>Capitol Disc Interactive Corporation</developer>
     <publisher>Capitol Disc Interactive Corporation</publisher>
@@ -4222,6 +4235,8 @@ As with The Sales Curve's later title SWIV, The Ninja Warriors used the company'
     <id>97371A</id>
     <locale lang="EN">
       <title>Nobunaga No Yabou - Haouden</title>
+      <genre>Strategy</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Estrategia</genre>
@@ -4536,7 +4551,7 @@ The gameworld is now made up of polygons, so the view can be rotated and moved w
 Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.
 
 The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro and an altered set of graphics but the level layout remains almost identical to that of the original.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer,Adventure</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4636,6 +4651,8 @@ Is the third title in Sega's 16-bit baseball franchise, and the first for the Me
     <id>97372A</id>
     <locale lang="EN">
       <title>Psychic Detective Series Vol. 3 - Aya</title>
+      <genre>Adventure</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Aventura</genre>
@@ -4693,7 +4710,7 @@ Is the third title in Sega's 16-bit baseball franchise, and the first for the Me
     <locale lang="EN">
       <title>Puggsy</title>
       <synopsis>Puggsy is a platform game with a combination of action and puzzle-solving elements. You control the the creature Puggsy, who has crash landed on an alien planet and had his spaceship stolen. Your goal is find the spaceship so you can get off the planet and return home.  To do this, you will need to make your way from the start to the exit of numerous levels which take place in a variety of environments. Throughout each level are a variety of objects which you can pick up; on many of the levels you will need to figure out how to use the objects available to you in order to reach the exit. Some objects can used (like a gun or keys), and objects may be thrown, moved around and stacked. Of course, each level will also have a variety of bad guys wandering about which will cost Puggsy one of his lives if he's caught. On your quest there will also be six evil guardians which will need to be defeated before you get your spaceship back!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4819,6 +4836,8 @@ The races are viewed from a behind-the-plane perspective, and the courses are dr
     <id>12788A</id>
     <locale lang="EN">
       <title>Ranma 1/2 - Byakuran Aika</title>
+      <genre>Adventure</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Ranma 1/2: White Orchid Serenade para Mega-CD ofrece una novela de vídeo con una interacción de jugador basada en el cincel de hoja de piedra. Las peleas se llevan a cabo de la misma manera ya que tendrás que elegir entre tres propuestas para esperar superar a tu oponente.</synopsis>
@@ -4836,7 +4855,7 @@ The races are viewed from a behind-the-plane perspective, and the courses are dr
     <date year="1993" month="04" day="23"/>
     <rating type="NOTE" value="12">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4848,7 +4867,7 @@ The races are viewed from a behind-the-plane perspective, and the courses are dr
     <locale lang="EN">
       <title>RDF: Global Conflict</title>
       <synopsis>Using a thrilling combination of 3D rendering and explosive combat action, RDF: GLOBAL CONFLICT is an interactive multimedia experience that pushes the Sega CD system to its limits! As a tank commander in the RDF - the elite Rapid Deployment Force - you'll test your battle savvy in a realistic virtual world, from the war-torn countryside of Eastern Europe to Alaska's desolate tundra! But watch your back! An evil genius may pose a threat not only to the team - but to all of mankind!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -4917,7 +4936,7 @@ Pour jouer au jeu, vous devez réaliser des quick-time events à la manière de 
     <locale lang="EN">
       <title>Revengers of Vengeance</title>
       <synopsis>Revengers of Vengeance is a combination of RPG, vertical shooter, and fighting game with a fantasy/anime style. There are ten available characters, each with their own animated backstory and fighting techniques. You must choose a hero and guide their stats to create a formidable fighter capable of taking down the Devil King and freeing the land.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Fighter,Shooter,RPG</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Revengers of Vengeance es una combinación de RPG, tirador vertical y juego de lucha con un estilo de fantasía / anime. Hay diez personajes disponibles, cada uno con su propia historia animada y técnicas de lucha. Debes elegir un héroe y guiar sus estadísticas para crear un luchador formidable capaz de derrotar al Rey Demonio y liberar la tierra.</synopsis>
@@ -5054,7 +5073,7 @@ The remake also contains FMV movies that usually depict the outcome of the races
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Los sanguinarios señores de la guerra Chugoko del oeste han gobernado y devastado al único-supremo Clan Oda. Es hora de vengarse. Shooter vertical basado en Japón, con grandes jefes y potenciadores masivos.nn</synopsis>
+      <synopsis>Los sanguinarios señores de la guerra Chugoko del oeste han gobernado y devastado al único-supremo Clan Oda. Es hora de vengarse. Shooter vertical basado en Japón, con grandes jefes y potenciadores masivos. </synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -5089,6 +5108,8 @@ The remake also contains FMV movies that usually depict the outcome of the races
     <id>108016</id>
     <locale lang="EN">
       <title>Rock Paintings/hot Hits</title>
+      <genre>Software,Music</genre>
+      <synopsis>Rock Paintings/Hot Hits is a set of two discs—the CD+G sampler Rock Paintings and audio CD Hot Hits: Adventurous New Music Sampler—which was included with the original model of Sega Mega-CD to showcase the console's CD technology. Rock Paintings contains CD+G tracks for more established musical acts, whereas Hot Hits features up-and-coming artists from 1991 and 1992. The disc for Hot Hits is entitled Sega of America Presents Adventurous New Music.</synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -5098,6 +5119,8 @@ The remake also contains FMV movies that usually depict the outcome of the races
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Sangokushi 3">
     <id>12810A</id>
@@ -5138,7 +5161,7 @@ Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor 
       <genre>Fight</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>En el Japón temprano, un hombre llamado Shiro Tokisada Amakusa predica una religión hereje. Nadie se imagina que Amakusa es realmente un servidor de la malvada Ambrosia, que se hizo cargo del cuerpo de Amakusa. Ambrosia desea envolver al mundo en la oscuridad.nnAhora, elige entre 12 guerreros (y 3 personajes extra) para luchar por el honor de destruir a Amakusa y cumplir una misión.</synopsis>
+      <synopsis>En el Japón temprano, un hombre llamado Shiro Tokisada Amakusa predica una religión hereje. Nadie se imagina que Amakusa es realmente un servidor de la malvada Ambrosia, que se hizo cargo del cuerpo de Amakusa. Ambrosia desea envolver al mundo en la oscuridad. Ahora, elige entre 12 guerreros (y 3 personajes extra) para luchar por el honor de destruir a Amakusa y cumplir una misión.</synopsis>
       <genre>Combate</genre>
     </locale>
     <locale lang="FR">
@@ -5371,7 +5394,7 @@ At the beginning of each case a full motion video clip depicts Holmes and Watson
       <genre>Adventure,Puzzle-Game</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Sherlock Holmes: Consulting Detective es un videojuego de FMV basado en un híbrido de gamebook y juego de mesa que tiene el mismo nombre. El juego usa actores y sets en vivo mientras el jugador controla a Sherlock Holmes y su compañero de mucho tiempo, el Dr. Watson, tratando de resolver tres crímenes separados visitando varios lugares, escuchando el diálogo, leyendo los periódicos simulados de Londres, y cuando el jugador consigue suficientes evidencias, respondiendo las preguntas del juez.nnAl comienzo de cada caso, un clip FMV representa a Holmes y Watson conociendo a un cliente y aprendiendo algunas pistas de fondo sobre el caso. Luego el jugador debe visitar un lugar o persona en particular, leer los periódicos de Londres en busca de pistas o pedirle a uno de los jóvenes Irregulares de Baker Street que investigue. El objetivo de cada caso es recopilar suficientes pistas en el menor tiempo posible, luego comparecer ante un juez que luego le pedirá al jugador que responda las preguntas importantes sobre el caso. Si el jugador tiene éxito, un clip FMV lo llevará de regreso al estudio de Holmes y Watson donde revisarán los eventos que ocurrieron, y el Dr. Watson informará al jugador sobre su puntuación, basado en el tiempo que tomó resolver el caso.</synopsis>
+      <synopsis>Sherlock Holmes: Consulting Detective es un videojuego de FMV basado en un híbrido de gamebook y juego de mesa que tiene el mismo nombre. El juego usa actores y sets en vivo mientras el jugador controla a Sherlock Holmes y su compañero de mucho tiempo, el Dr. Watson, tratando de resolver tres crímenes separados visitando varios lugares, escuchando el diálogo, leyendo los periódicos simulados de Londres, y cuando el jugador consigue suficientes evidencias, respondiendo las preguntas del juez. Al comienzo de cada caso, un clip FMV representa a Holmes y Watson conociendo a un cliente y aprendiendo algunas pistas de fondo sobre el caso. Luego el jugador debe visitar un lugar o persona en particular, leer los periódicos de Londres en busca de pistas o pedirle a uno de los jóvenes Irregulares de Baker Street que investigue. El objetivo de cada caso es recopilar suficientes pistas en el menor tiempo posible, luego comparecer ante un juez que luego le pedirá al jugador que responda las preguntas importantes sobre el caso. Si el jugador tiene éxito, un clip FMV lo llevará de regreso al estudio de Holmes y Watson donde revisarán los eventos que ocurrieron, y el Dr. Watson informará al jugador sobre su puntuación, basado en el tiempo que tomó resolver el caso.</synopsis>
       <genre>Aventura,Rompecabezas</genre>
     </locale>
     <locale lang="FR">
@@ -5441,7 +5464,7 @@ At the beginning of each case a full motion video clip depicts Holmes and Watson
       <genre>Action,Role playing games</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Un joven vive junto a su madre en Kichijoji, un distrito del Tokio moderno. Un día, tiene un sueño extraño: está siendo absorbido por otra dimensión, una extraña estructura similar a un laberinto. Un espíritu aparece frente a él y le pregunta su nombre. A medida que avanza, se encuentra con un hombre que está colgado de una cruz, otro que está siendo atormentado por un demonio y una misteriosa joven que se está bañando en un charco ...nnnn"¡Despierta!" - la voz de su madre corta el sueño. El joven se despierta y revisa su computadora. De repente, llega un mensaje: el mundo se dirige hacia la destrucción. Solo el que puede convocar demonios a través de un espacio virtual podrá evitar un desastre. ¿Qué podría significar eso? El joven sale y descubre que ha ocurrido un asesinato en el parque cercano. El distrito debe quedar aislado del resto de la ciudad hasta que se encuentre el asesino. Este fue el comienzo de la historia del invocador del demonio ...nnnn"Shin Megami Tensei" es un RPG en primera persona ambientado en la Tokio moderna y futurista. El héroe del juego puede convocar demonios, que usan una energía misteriosa llamada Magnetita. Los demonios pueden luchar por ti y realizar otras tareas útiles. El combate en primera persona está basado en turnos. Al comienzo del juego, puedes establecer las estadísticas de los miembros de tu grupo, determinando su fuerza, resistencia, inteligencia, etc. Tendrás que tomar algunas decisiones cruciales durante el juego, que también influirán en el resultado de sus eventos.nn</synopsis>
+      <synopsis>Un joven vive junto a su madre en Kichijoji, un distrito del Tokio moderno. Un día, tiene un sueño extraño: está siendo absorbido por otra dimensión, una extraña estructura similar a un laberinto. Un espíritu aparece frente a él y le pregunta su nombre. A medida que avanza, se encuentra con un hombre que está colgado de una cruz, otro que está siendo atormentado por un demonio y una misteriosa joven que se está bañando en un charco ..."¡Despierta!" - la voz de su madre corta el sueño. El joven se despierta y revisa su computadora. De repente, llega un mensaje: el mundo se dirige hacia la destrucción. Solo el que puede convocar demonios a través de un espacio virtual podrá evitar un desastre. ¿Qué podría significar eso? El joven sale y descubre que ha ocurrido un asesinato en el parque cercano. El distrito debe quedar aislado del resto de la ciudad hasta que se encuentre el asesino. Este fue el comienzo de la historia del invocador del demonio ..."Shin Megami Tensei" es un RPG en primera persona ambientado en la Tokio moderna y futurista. El héroe del juego puede convocar demonios, que usan una energía misteriosa llamada Magnetita. Los demonios pueden luchar por ti y realizar otras tareas útiles. El combate en primera persona está basado en turnos. Al comienzo del juego, puedes establecer las estadísticas de los miembros de tu grupo, determinando su fuerza, resistencia, inteligencia, etc. Tendrás que tomar algunas decisiones cruciales durante el juego, que también influirán en el resultado de sus eventos. </synopsis>
       <genre>Acción,Juegos de rol</genre>
     </locale>
     <locale lang="FR">
@@ -5485,7 +5508,7 @@ At the beginning of each case a full motion video clip depicts Holmes and Watson
       <genre>Rollenspiele</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Shining Force CD é a compilação de dois jogos para Game Gear: Shining Force Gaiden e Shining Force Gaiden II - Sword of Hajya. Ambos foram refeitos com a qualidade de um 16 bits, graficamente falando, mas com sons cristalinos proporcionados pelo SEGA CD. O jogo é dividido em 4 "Livros" que podem ser jogados em sequencia ou separadamente. Os dois primeiros livros são os dois jogos para Game Gear, já os dois últimos são cenários feitos exclusivamente para o Sega CD.nnA história ocorre 20 anos após os acontecimentos de Shining Force I. Anri agora é a rainha de Guardiana, fortemente acessorada por ninguém menos que Lowe e Ken, personagens do primeiro game também.</synopsis>
+      <synopsis>Shining Force CD é a compilação de dois jogos para Game Gear: Shining Force Gaiden e Shining Force Gaiden II - Sword of Hajya. Ambos foram refeitos com a qualidade de um 16 bits, graficamente falando, mas com sons cristalinos proporcionados pelo SEGA CD. O jogo é dividido em 4 "Livros" que podem ser jogados em sequencia ou separadamente. Os dois primeiros livros são os dois jogos para Game Gear, já os dois últimos são cenários feitos exclusivamente para o Sega CD. A história ocorre 20 anos após os acontecimentos de Shining Force I. Anri agora é a rainha de Guardiana, fortemente acessorada por ninguém menos que Lowe e Ken, personagens do primeiro game também.</synopsis>
     </locale>
     <developer>Camelot Software</developer>
     <publisher>Sega</publisher>
@@ -5562,7 +5585,8 @@ La historia aquí es típica para un juego de este tipo. El sistema informático
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Slam City With Scottie Pippen">
+
+    <game name="Slam City With Scottie Pippen">
     <id>97381A</id>
     <locale lang="EN">
       <title>Slam City with Scottie Pippen</title>
@@ -5646,7 +5670,7 @@ Le jeu dispose d'un total de 13 personnages, dont 5 avec qui le joueur a une opt
 Along the way various weapons can be picked up including plasma bullets, double plasma bullets, lasers, and missiles.
 
 The most unique feature of the game is that you can realign your upgraded guns to fire front-back, up-down, tight spread, wide spread or whatever the current situation required.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -5695,7 +5719,7 @@ Piedras de tiempo se pueden recoger al completar los tramos cronometrados, en lo
       <genre>Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Sonic the Hedgehog e sua namorada auto-proclamada Amy Rose viajam até Never Lake, apenas para descobrir o que lendário Little Planet está amarrado em correntes e coberto por metal. Parece que o arqui-inimigo do Sonic, Dr. Eggman está usando os poderes do planeta para manipular o tecido do tempo. Ele criou a contraparte maligna do Sonic, Metal Sonic, que sequestra Amy e desaparece. Agora o valente ouriço deve explorar Little Planet, recolher as sete Time Stones, jóias capazes de alterar a passagem do tempo, libertar Amy e derrotar Metal Sonic junto com seu mestre.nnnnSonic CD é um jogo de plataforma de side-scrolling semelhante a outros jogos da série. Sonic usa seus patenteados Spin Attacks para destruir os Badniks e coletar vários itens, como anéis, escudos e sapatos. Seus ataques especiais incluem o Spin Dash e o Super Peel Out. Uma característica nova do jogo é a capacidade de Sonic viajar para versões passadas e futuras das fases que ele atravessa. Dependendo da ação do jogador nas fases anteriores das zonas, as versões futuras delas (que contêm chefões obrigatórios) mudarão de "ruim" para "bom", tendo mais ou menos inimigos e obstáculos, respectivamente.nnnnAs Time Stones podem ser coletadas através da conclusão de fases especiais, em que Sonic tem de destruir OVNIs dentro de um limite de tempo atribuído. O final "bom" do jogo pode ser conseguido coletando todas as sete Time Stones ou transformando todas as versões futuras das zonas em "bom". O jogo tem recursos que aproveitam o formato de CD, como áudio de CD e animações.</synopsis>
+      <synopsis>Sonic the Hedgehog e sua namorada auto-proclamada Amy Rose viajam até Never Lake, apenas para descobrir o que lendário Little Planet está amarrado em correntes e coberto por metal. Parece que o arqui-inimigo do Sonic, Dr. Eggman está usando os poderes do planeta para manipular o tecido do tempo. Ele criou a contraparte maligna do Sonic, Metal Sonic, que sequestra Amy e desaparece. Agora o valente ouriço deve explorar Little Planet, recolher as sete Time Stones, jóias capazes de alterar a passagem do tempo, libertar Amy e derrotar Metal Sonic junto com seu mestre.Sonic CD é um jogo de plataforma de side-scrolling semelhante a outros jogos da série. Sonic usa seus patenteados Spin Attacks para destruir os Badniks e coletar vários itens, como anéis, escudos e sapatos. Seus ataques especiais incluem o Spin Dash e o Super Peel Out. Uma característica nova do jogo é a capacidade de Sonic viajar para versões passadas e futuras das fases que ele atravessa. Dependendo da ação do jogador nas fases anteriores das zonas, as versões futuras delas (que contêm chefões obrigatórios) mudarão de "ruim" para "bom", tendo mais ou menos inimigos e obstáculos, respectivamente.As Time Stones podem ser coletadas através da conclusão de fases especiais, em que Sonic tem de destruir OVNIs dentro de um limite de tempo atribuído. O final "bom" do jogo pode ser conseguido coletando todas as sete Time Stones ou transformando todas as versões futuras das zonas em "bom". O jogo tem recursos que aproveitam o formato de CD, como áudio de CD e animações.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Sonic the Hedgehog CD</title>
@@ -5798,7 +5822,7 @@ They know our Secrets!
 Launching from repair bay 28 of the Galatea, you guide your Blue Fighter Wing through the Launch Ring at lightspeed, entering enemy territory, sector Delta Five Niner! Your mission: Rescue the Orange Wing Center which was captured alive, before the enemy ingests his brain -- A brain which they consider to not only be an excellent source of protein, but also, once consumed, transfers all knowledge to the species - Including military secrets, vital to the survival of all mankind!
 
 Can you rescue your comrad &amp; Destroy the opposing Protoid Forces?</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -5889,7 +5913,7 @@ Can you rescue your comrad &amp; Destroy the opposing Protoid Forces?</synopsis>
       <synopsis>The dreaded Draxon race has been at it again, pushing the human race around, working to either enslave all 10 billion humans or wipe them out completely. As the last surviving pilot sent on a mission to thwart the Draxons' plans, all hope rests on you. Invade each of the fortified moons orbiting the Draxons' homeworld of Arctaurus and then aim for the mother planet itself.
 
 The action takes place in your hovermorph craft. In the game's introduction, the ship proves to be a deadly starfighter. When it enters the moon's atmosphere and approaches the surface, the hovermorph transforms into a powerful hovership. Blast away Draxon enemies, both ground- and air-based, from a first-person perspective on a 3D polygonal battlefield.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter,Strategy</genre>
     </locale>
     <locale lang="ES">
       <synopsis>La temida raza Draxon ha estado involucrada de nuevo, empujando a la raza humana, trabajando para esclavizar a los 10 billones de humanos o eliminarlos por completo. Como el último piloto superviviente enviado en una misión para frustrar los planes de los Draxons, toda esperanza depende de ti. Invade cada una de las lunas fortificadas que orbitan alrededor del mundo natal de Draxons de Arctaurus y luego apunta al planeta madre.
@@ -5985,7 +6009,7 @@ La jugabilidad en Supreme Warrior consiste en video digitalizado con elementos i
       <synopsis>A Middle Eastern madman has begun launching rockets against innocent civilian population centers. The United Nations has deemed this behavior unacceptable and the secretary-general has ordered a surgical strike in an effort the curb these attacks. To that end, you are to pilot the most advanced war vehicle devised to date-- a heavily armored and armed hovercraft.
 
 Surgical Strike is an on-rails action shooter game that takes place against a full motion video backdrop depicting chaotic, war-ravaged cityscapes. You are to pilot the hovercraft, fire either bullets or rockets at opportune moments, and issue turn directives at key junctures. Miss a cue and another precious military hovercraft will be toast and you'll be chewed out by your superior officer and peers alike.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Gun shooter</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Un loco del Medio Oriente ha comenzado a lanzar cohetes contra centros inocentes de población civil. Las Naciones Unidas han considerado que este comportamiento es inaceptable y el secretario general ha ordenado un ataque quirúrgico en un esfuerzo por frenar estos ataques. Con ese fin, debe pilotar el vehículo de guerra más avanzado ideado hasta la fecha: un aerodeslizador armado y fuertemente blindado.
@@ -6054,6 +6078,8 @@ Puede actualizar y modificar sus agentes, así como equiparlos con las herramien
     <id>97367A</id>
     <locale lang="EN">
       <title>Tenbu Mega Cd Special</title>
+      <genre>Strategy</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Tenbu Mega CD Special es un videojuego de estrategia por turnos lanzado en 1992 en Mega-CD.</synopsis>
@@ -6082,6 +6108,8 @@ Puede actualizar y modificar sus agentes, así como equiparlos con las herramien
     <id>12824A</id>
     <locale lang="EN">
       <title>Tenka Fubu - Eiyuutachi No Houkou</title>
+      <genre>Strategy</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Tenkafubu: Eiyuutachi no Houkou en Mega-CD se presenta como una película interactiva. Por cierto, es uno de los primeros juegos de Mega CD que usó la inserción de video. El título te lleva a la época de los samurais.</synopsis>
@@ -6099,7 +6127,7 @@ Puede actualizar y modificar sus agentes, así como equiparlos con las herramien
     <date year="1991" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -6208,7 +6236,12 @@ The in-game time progresses even if no action is taken. This means many puzzles 
     <id>102822</id>
     <locale lang="EN">
       <title>The Colors of Modern Rock</title>
-      <synopsis>Demo disc: The best new rock comes alive in Virtual VCR</synopsis>
+      <synopsis>Demo disc: The best new rock comes alive in Virtual VCR.
+
+The Colors of Modern Rock is a disc containing six music videos, published by Sega and Warner Custom Music, which can be played through the Sega Mega-CD, and was available through a special mail-in offer from Sega.
+
+It was developed by Digital Pictures as part of a planned series of titles called Virtual VCR, also set to feature Prince and the N.P.G.: Diamonds and Pearls and March of Time in its lineup.</synopsis>
+      <genre>Software,Music</genre>
     </locale>
     <developer>Digital Pictures</developer>
     <publisher>Sega</publisher>
@@ -6276,7 +6309,7 @@ Los giros del juego son verdaderos: conectores de nivel 3D, basados ??en las sec
 This FMV game adapts scenes from the movie Masked Rider ZO, and creates a Dragon's Lair style experience. The game centers around 10 battles of the film's 3 main characters.
 
 The player watches the video and hits the correct direction or button at the right time to achieve success. The visual cues of the movie suggest the correct buttons. For example, when the Masked Rider punches, the player should press the Punch button. If he dodges left on screen, the player should press the left direction pad. Correct timing hits the enemy harder, lowering their health bar. Failure reduces the players health.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -6304,6 +6337,7 @@ The player watches the video and hits the correct direction or button at the rig
     <locale lang="EN">
       <title>The San Diego Zoo Presents... The Animals!</title>
       <synopsis>Breakthrough video-with-sound technology in The Animals! lets you see and hear over 200 exotic mammals, birds, and reptiles in over 60 minutes of video clips. Using movies, sounds and stories, The Animals! also brings you the most complete and up-to-date information about our animal neighbors from experts at the world-renowned San Diego Zoo. If you love animals, you'll love The Animals! It's fun and easy for children and adults to explore the vast resources of The Animals! Clicking on the habitat map takes you instantly to the animals that live in one of the earth's major climate zones including: tropical forests, deserts, savannas, or tundra. Climb aboard the multimedia tour bus for a narrated tour of Animals in Disguise, Fact or Fable, and Jaws, Claws and Creature Features. In the Storybook Theater, you'll hear fascinating animal stories such as Raising Gordy Gorilla, Protecting Endangered Species, and Wild Safari.</synopsis>
+      <genre>Software</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Ce "jeu" vous permet de voir et d'entendre plus de 200 mammifères exotiques mais aussi des oiseaux et des reptiles dans plus de 60 minutes de séquences vidéo. Des informations le plus complet à ce jour sur nos voisins les animaux en provenance des experts à la renommée mondiale du zoo de San Diego.
@@ -6316,7 +6350,7 @@ Montez à bord de l'autobus multimédia pour une visite des espèces sauvages me
     <date year="1994" month="09" day="01"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -6550,7 +6584,7 @@ It can be played in three modes - Sandbox level lets you concentrate on the park
       <synopsis>The year is 4001. The evil Luna has stolen a time machine and plans to use it to take over the world. You are the Time Gal, a skillful and pretty scientist, and your mission is to chase Luna through different time periods, to get the time machine back, and to save the world.
 
 Created during the first age of "full motion" style, Time Gal is a conversion of an early arcade title. You watch animations of your heroine while she travels through levels, and overcome obstacles by pushing the correct button at the right moment. You can change directions, jump, shoot, etc., but everything is controlled during the never-ending fluent motion of the Time Gal. At certain points the heroine stops the time, and you have three choices to choose from.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Es el año 4001. La malvada Luna ha robado una máquina del tiempo y planea usarla para dominar el mundo. Tu eres Time Gal, una científico hábil y bonita, y tu misión es perseguir a Luna a través de diferentes períodos de tiempo, recuperar la máquina del tiempo y salvar el mundo.
@@ -6581,6 +6615,8 @@ Creado durante la primera era del estilo de FMV, Time Gal es una conversión de 
     <id>97368A</id>
     <locale lang="EN">
       <title>Timecop</title>
+      <genre>Action,Platform,</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -6601,6 +6637,7 @@ Creado durante la primera era del estilo de FMV, Time Gal es una conversión de 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Tomcat Alley">
     <id>12796A</id>
@@ -6611,7 +6648,7 @@ Creado durante la primera era del estilo de FMV, Time Gal es una conversión de 
 This time, a renegade Soviet commander is threatening the United States with chemical weapons from his base in the Mexican desert, and its up to you and your wingmen to fine-tune your air-to-air combat strategies to make the entire western hemisphere safe again!
 
 Tomcat Alley was one of Sega's last TruVideo games, featuring what is called "Active Matrix" software, which allows for many different outcomes to any given situation.  This means only one thing - much more interaction and variation than previous FMV (Full Motion Video) games!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -6676,7 +6713,7 @@ Further, if you are on the 'prize' square at the end of each spoke (1 spoke end 
     <locale lang="EN">
       <title>Ultraverse Prime</title>
       <synopsis>Players control the superhero Prime, a thirteen year-old boy called Kevin Green that has the power to transform into a superhero adult version of himself. Prime can punch, kick and jump, and combine these into some new moves and combos. The player as well as the enemies can also occasionally find weapons or objects to pick up and throw. Some stages are much faster as Prime flies at a fast speed and needs to punch obstacles and enemies out of the air.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -6770,6 +6807,8 @@ Le jeu est un «RPG de style japonais» à l'ancienne, ce qui signifie que l'obj
     <id>97363A</id>
     <locale lang="EN">
       <title>Wakusei Woodstock - Funky Horror Band</title>
+      <genre>RPG</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Juegos de rol</genre>
@@ -6787,7 +6826,7 @@ Le Funky Horror Band est un groupe de six musiciens extraterrestres qui propagen
     <date year="1991" month="12" day="20"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -6859,15 +6898,15 @@ Le Funky Horror Band est un groupe de six musiciens extraterrestres qui propagen
     <id>97364A</id>
     <locale lang="EN">
       <title>Who Shot Johnny Rock?</title>
-      <synopsis>It's the rollicking '30s and someone has killed popular singer Johnny Rock in this action-packed gangster whodunit. The player will need to navigate the back streets, gaming halls, funeral parlors and the dirty sections of the city to get at the clues held by a number of shady characters and solve this murder mystery. Bad guys with machine guns provide a high levels of challenge.</synopsis>
-      <genre>Action</genre>
+      <synopsis/>
+      <genre>Adventure</genre>
     </locale>
     <locale lang="FR">
       <synopsis>C'est les folles années 30 et quelqu'un a tué le chanteur populaire Johnny Rock dans ce jeu de gangster plein d'action. Le joueur devra naviguer dans les ruelles sombres, les salles de jeux, les salons funéraires et les bas fonds de la ville pour obtenir les indices détenus par un certain nombre de sombres personnages et résoudre ce mystérieux meurtre. Les bad guys aux mitrailleuses vous donneront du fil à retordre.</synopsis>
     </locale>
     <developer>American Laser Games</developer>
-    <publisher>American Laser Games</publisher>
-    <date year="1994" month="" day=""/>
+    <publisher/>
+    <date year="" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
     <input players="2">
@@ -6884,7 +6923,7 @@ Le Funky Horror Band est un groupe de six musiciens extraterrestres qui propagen
       <synopsis>An adventurer named Dusty returns home with an enchanted Totem Pole. Due to an assortment of rare events, the spirits of the Totem have been freed and they have created a bizarre parallel universe that can devour the world. Lowman, the "head" of the Totem, needs some "muscle" as he calls it, to bring them back. He finds a pencil on the desk and makes it come to life. The pencil tells Lowman to call him Woody, WILLLLLLLLD Woody. Lowman explains what has happened with his Totem brothers and now Woody goes into the parallel universe, dimension by dimension, and rounds up Lowman's Totem brothers.
 
 In this game, you destroy your enemies by jumping on top of them and Woody can also wipe them out with his eraser. You can erase certain walls to get through them and you can also erase boxes that most of the time teleport if you press down. Other boxes contain items. You also can sketch things and they will come to life, but you can only do this twice because Woody shrinks very quickly from doing this. There are also power-ups that make you grow again.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -7025,10 +7064,10 @@ Los escenarios y ubicaciones son probablemente el mayor alcance de un juego de F
       <synopsis>Dr. Kal Morrow, expert in genetic research and creation of human-animal hybrids, has been kidnapped and his family brutally murdered by the terrorist organization CHIMERA. His surviving son Saul takes it upon himself to avenge his family. Using his father's research, he turns into a man-wolf and sets out to find CHIMERA's base and defeat their leader Karl Draxx.
 
 As Saul, it is your job to traverse five different areas on your way to Draxx. When Saul collects enough power-ups, he turns into his wolf form and gains a special psychic shot attack, which can be improved by collecting futher power-ups. However, if Saul loses health, he turns back into his human form and only has his fists to fight the numerous enemies.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El Dr. Kal Morrow, experto en investigación genética y creación de híbridos humano-animal, ha sido secuestrado y su familia brutalmente asesinada por la organización terrorista CHIMERA. Su hijo sobreviviente, Saúl, se encarga de vengar a su familia. Usando la investigación de su padre, se convierte en un hombre-lobo y se dispone a encontrar la base de CHIMERA y derrotar a su líder Karl Draxx.nnnnComo Saúl, es tu trabajo atravesar cinco áreas diferentes en tu camino hacia Draxx. Cuando Saul recolecta suficientes poderes, se convierte en su forma de lobo y obtiene un ataque especial de disparo psíquico, que puede mejorarse mediante la recopilación de poderes adicionales. Sin embargo, si Saul pierde la salud, vuelve a su forma humana y solo tiene los puños para luchar contra los numerosos enemigos.</synopsis>
+      <synopsis>El Dr. Kal Morrow, experto en investigación genética y creación de híbridos humano-animal, ha sido secuestrado y su familia brutalmente asesinada por la organización terrorista CHIMERA. Su hijo sobreviviente, Saúl, se encarga de vengar a su familia. Usando la investigación de su padre, se convierte en un hombre-lobo y se dispone a encontrar la base de CHIMERA y derrotar a su líder Karl Draxx.Como Saúl, es tu trabajo atravesar cinco áreas diferentes en tu camino hacia Draxx. Cuando Saul recolecta suficientes poderes, se convierte en su forma de lobo y obtiene un ataque especial de disparo psíquico, que puede mejorarse mediante la recopilación de poderes adicionales. Sin embargo, si Saul pierde la salud, vuelve a su forma humana y solo tiene los puños para luchar contra los numerosos enemigos.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -7159,7 +7198,7 @@ There are a plethora of game modes to choose from including a regular single-fal
       <genre>Fight,Sports</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>WWF Rage in the Cage permite a los jugadores elegir entre 30 superestrellas únicas de la WWF, incluyendo The Undertaker, Yokozuna, Bret Hart, Bam Bam Bigelow, Shawn Michaels, Razor Ramon entre muchos más. Cada superestrella tiene sus propias fortalezas y debilidades y tiene un finalizador personalizado como el Tombstone para el Undertaker, Sweet Chin Music para Shawn Michaels, etc., junto con los suplexes estándar, body slams.nnnnHay una gran cantidad de modos de juego para elegir, incluyendo un partido regular de una sola caída, equipo de etiqueta, equipo de etiqueta de 6 hombres, Battle Royal y el temido título de los juegos, el Steel Cage. El modo de juego principal recuerda a WWF Royal Rumble con el aspecto y la sensación, pero cuenta con audio y gráficos mejorados que utilizan las capacidades de Sega CD.</synopsis>
+      <synopsis>WWF Rage in the Cage permite a los jugadores elegir entre 30 superestrellas únicas de la WWF, incluyendo The Undertaker, Yokozuna, Bret Hart, Bam Bam Bigelow, Shawn Michaels, Razor Ramon entre muchos más. Cada superestrella tiene sus propias fortalezas y debilidades y tiene un finalizador personalizado como el Tombstone para el Undertaker, Sweet Chin Music para Shawn Michaels, etc., junto con los suplexes estándar, body slams.Hay una gran cantidad de modos de juego para elegir, incluyendo un partido regular de una sola caída, equipo de etiqueta, equipo de etiqueta de 6 hombres, Battle Royal y el temido título de los juegos, el Steel Cage. El modo de juego principal recuerda a WWF Royal Rumble con el aspecto y la sensación, pero cuenta con audio y gráficos mejorados que utilizan las capacidades de Sega CD.</synopsis>
       <genre>Combate,Deportes</genre>
     </locale>
     <locale lang="FR">

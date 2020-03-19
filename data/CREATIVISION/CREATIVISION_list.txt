@@ -1,21 +1,21 @@
-122213|Air/Sea Attack|Air/Sea Attack|Air Sea Attack|Vehicle Simulation,|2||VTech|VTech|1981
-122215|Astro Pinball|Astro Pinball||Action|4||VTech|VTech|1982
+122213|Air Sea Attack|Air/Sea Attack||Vehicle Simulation,|2||VTech|VTech|1981
+122215|Astro Pinball|Astro Pinball||Action,|4||VTech|VTech|1982
 122212|Auto Chase|Auto Chase||Action,Racing,|2||VTech|VTech|1981
 122216|BASIC Interpreter 1.0|BASIC Interpreter 1.0||Sandbox,|1||VTech|VTech|1982
-122252|Battleships|Battleships||Strategy,|||M. J. Hall|Dick Smith Electronics|1983
 122264|Bowling|Bowling||Sports,|2||P. Norman|Dick Smith Electronics|1983
 122217|Chopper Rescue|Chopper Rescue||Shooter,|1||VTech|VTech|1982
 122253|Code Breaker|Code Breaker||Strategy,|1|||Dick Smith Electronics|1983
-122219|Crazy Chewy|Crazy Chewy|Crazy Chicky|Action|2||VTech|VTech|1981
-122218|Crazy Chicky|Crazy Chicky||Action|2||VTech|VTech|1982
+122219|Crazy Chewy|Crazy Chewy||Action,|2||VTech|VTech|1981
+122218|Crazy Chicky|Crazy Chicky||Action,|2||VTech|VTech|1982
 122263|Deep Sea Adventure|Deep Sea Adventure||Shooter,|2||VTech|VTech|1982
-127544|Hapmon|Hapmon|||||||
-122237|Locomotive|Locomotive||Action,Miscellaneous|2||VTech|VTech|1983
+127544|Hapmon|Hapmon||||||VTL|1981
+122237|Locomotive|Locomotive||Action,Miscellaneous,|2||VTech|VTech|1983
 122238|Mouse Puzzle|Mouse Puzzle||Puzzle,|2||VTech|VTech|1982
 122239|Music Maker|Music Maker||Music,|1||VTech|VTech|1983
 122240|Planet Defender|Planet Defender||Shooter,|2||VTech|VTech|1981
-122241|Police Jump|Police Jump||Action,Miscellaneous|2||VTech|VTech|1982
+122241|Police Jump|Police Jump||Action,Miscellaneous,|2||VTech|VTech|1982
 122242|Soccer|Soccer||Sports,|2||VTech|VTech|1983
 122243|Sonic Invader|Sonic Invader||Shooter,|4||VTech|VTech|1981
-122244|Stone Age|Stone Age||Action,|2||VTech|VTech|1984
-122245|Tank Attack|Tank Attack||Vehicle Simulation,|2||VTech|VTech|1981
+122244|Stone Age|Stone Age||Action,Puzzle,,|2||VTech|VTech|1984
+122245|Tank Attack|Tank Attack||Simulation,|2||VTech|VTech|1981
+122246|Tennis|Tennis||Sports,|2||VTech|VTech|1981

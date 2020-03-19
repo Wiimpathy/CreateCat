@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812050837" games="47"/>
+      <WiiTDB version="201812050837" games="47"/>
   <game name="3d Tetris">
     <id>4731AA</id>
     <locale lang="EN">
@@ -68,6 +68,7 @@ C. En este modo, se mostrará una forma antes de que comience el juego. Tendrás
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Blox">
     <id>143416</id>
@@ -177,11 +178,14 @@ Le jeu propose quatre mode:
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Castle of Doom">
     <id>172273</id>
     <locale lang="EN">
       <title>Castle of Doom</title>
+      <genre>Adventure,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -191,11 +195,15 @@ Le jeu propose quatre mode:
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Deathchase">
     <id>172280</id>
     <locale lang="EN">
       <title>Deathchase</title>
+      <genre>Action,Racing,Shooter,Motorcycle,</genre>
+      <synopsis/>
     </locale>
     <developer>Matej Horvat</developer>
     <date year="2014" month="02" day="28"/>
@@ -207,6 +215,7 @@ Le jeu propose quatre mode:
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Nikochan Battle">
     <id>44480A</id>
@@ -328,6 +337,7 @@ Le mode "Normal" a 4 stages à parcourir composés chacun de 14 labyrinthes ce q
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Golf">
     <id>4741AA</id>
@@ -368,6 +378,8 @@ Si l'animation est reussie et le gameplay fun, il n'y a malheureusement qu'un se
     <id>172276</id>
     <locale lang="EN">
       <title>Hunter</title>
+      <genre>Action,Racing,Shooter,</genre>
+      <synopsis/>
     </locale>
     <developer>DanB</developer>
     <date year="2010" month="10" day="31"/>
@@ -379,6 +391,7 @@ Si l'animation est reussie et le gameplay fun, il n'y a malheureusement qu'un se
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Hyper Fighting">
     <id>172277</id>
@@ -407,6 +420,7 @@ Si l'animation est reussie et le gameplay fun, il n'y a malheureusement qu'un se
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Insmouse No Yakata">
     <id>4732AA</id>
@@ -538,11 +552,15 @@ Como antes, el objetivo es limpiar una pantalla de enemigos y pasar al siguiente
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Mario Kart Virtual Cup">
     <id>172267</id>
     <locale lang="EN">
       <title>Mario Kart Virtual Cup</title>
+      <genre>Racing</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Carreras, Conducción</genre>
@@ -562,12 +580,14 @@ Como antes, el objetivo es limpiar una pantalla de enemigos y pasar al siguiente
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Mario VB">
     <id>172266</id>
     <locale lang="EN">
       <title>Mario VB</title>
-      <synopsis>VB Mario Land, also known as Mario Adventure, is a canceled Mario game that was originally going to be released for the Virtual Boy. A single-level playable demo was unveiled at the Winter Consumer Electronics Show 1995 in Las Vegas.nnThe game was to be a two-dimensional side-scrolling game that would also use three-dimensional perspectives, such moving between the background and foreground of the level. It would star Mario as the main character, using classic Super Mario Bros.-style elements such as Warp Pipes, Koopa Troopas and ? Blocks. Although VB Mario Land's story was not revealed, a large Wario-like figure which functioned similar to a Thwomp was seen in the playable demo. In certain areas, an overhead view was displayed, much like the The Legend of Zelda series of games. The first level ends at the Goal Pole, and Mario can be seen entering a Castle.nnA three-dimensional version of Mario Bros. was mentioned to be implemented into VB Mario Land as a minigame, though this was later released as a separate game titled Mario Clash.</synopsis>
+      <synopsis>VB Mario Land, also known as Mario Adventure, is a canceled Mario game that was originally going to be released for the Virtual Boy. A single-level playable demo was unveiled at the Winter Consumer Electronics Show 1995 in Las Vegas.The game was to be a two-dimensional side-scrolling game that would also use three-dimensional perspectives, such moving between the background and foreground of the level. It would star Mario as the main character, using classic Super Mario Bros.-style elements such as Warp Pipes, Koopa Troopas and ? Blocks. Although VB Mario Land's story was not revealed, a large Wario-like figure which functioned similar to a Thwomp was seen in the playable demo. In certain areas, an overhead view was displayed, much like the The Legend of Zelda series of games. The first level ends at the Goal Pole, and Mario can be seen entering a Castle.A three-dimensional version of Mario Bros. was mentioned to be implemented into VB Mario Land as a minigame, though this was later released as a separate game titled Mario Clash.</synopsis>
+      <genre>Platform</genre>
     </locale>
     <date year="2008" month="09" day="08"/>
     <rating type="NOTE" value="">
@@ -578,6 +598,7 @@ Como antes, el objetivo es limpiar una pantalla de enemigos y pasar al siguiente
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Mario's Tennis">
     <id>4727AA</id>
@@ -697,6 +718,8 @@ Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count 
     <id>172265</id>
     <locale lang="EN">
       <title>Platformer Demo</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <locale lang="FR">
       <synopsis>Un jeu de plateforme qui n'a apparemment servi que de demo avant que le jeu en lui-meme soit totalement annulé.</synopsis>
@@ -709,6 +732,8 @@ Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Red Alarm">
     <id>4734AA</id>
@@ -824,14 +849,14 @@ Depende de ti, en el último guerrero que queda, llegar al cielo y acabar con la
     <id>172269</id>
     <locale lang="EN">
       <title>Snatcher</title>
-      <synopsis>Snatcher[a] is a graphic adventure game written by Hideo Kojima and produced by Konami. It was released in Japan for the PC-8801 and MSX2 computer platforms in 1988. A CD-ROM-based remake for the PC Engine was released in 1992, which was subsequently localized into English for the Sega CD in 1994 in North America and Europe. The enhanced version was later ported twice more to the PlayStation and Sega Saturn in Japan.nnThe setting and story of Snatcher are heavily influenced by cyberpunk and science fiction, taking place in a large futuristic dystopian city. The story revolves around Gillian Seed, an investigator assigned to investigate a breed of bioroids, known as "snatchers", who are killing humans and taking their place in society. Gameplay takes place in a menu-based interface. The player can choose from pre-defined options such as "Look" and "Talk" to interact with the environment and its characters.nnCritically acclaimed since its release, Snatcher is regarded as groundbreaking for the adventure genre, in that it introduced visual novel characteristics to flesh out a complex back story. Sales outside of Japan were poor due to Sega's waning support for the Sega CD, but the game has gained a cult following. The game has spawned a spin-off role-playing video game released in Japan titled SD Snatcher, and a radio drama, Sdatcher.</synopsis>
+      <synopsis>Snatcher[a] is a graphic adventure game written by Hideo Kojima and produced by Konami. It was released in Japan for the PC-8801 and MSX2 computer platforms in 1988. A CD-ROM-based remake for the PC Engine was released in 1992, which was subsequently localized into English for the Sega CD in 1994 in North America and Europe. The enhanced version was later ported twice more to the PlayStation and Sega Saturn in Japan. The setting and story of Snatcher are heavily influenced by cyberpunk and science fiction, taking place in a large futuristic dystopian city. The story revolves around Gillian Seed, an investigator assigned to investigate a breed of bioroids, known as "snatchers", who are killing humans and taking their place in society. Gameplay takes place in a menu-based interface. The player can choose from pre-defined options such as "Look" and "Talk" to interact with the environment and its characters. Critically acclaimed since its release, Snatcher is regarded as groundbreaking for the adventure genre, in that it introduced visual novel characteristics to flesh out a complex back story. Sales outside of Japan were poor due to Sega's waning support for the Sega CD, but the game has gained a cult following. The game has spawned a spin-off role-playing video game released in Japan titled SD Snatcher, and a radio drama, Sdatcher.</synopsis>
       <genre>Adventure</genre>
     </locale>
     <locale lang="ES">
       <genre>Aventura</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Snatcher est un portage du jeu vidéo d'aventure (roman graphique interactif) conçu et réalisé par Hideo Kojima pour la société Konami et edité sur plusieurs machines, depuis le PC-8801 et le MSX 2 en 1988 jusqu'aux consoles 32 bits Saturn et PlayStation en 1996, seule la version Mega-CD a été traduite et distribué en dehors du Japon. Jeu culte pour certains joueurs, ce jeu d'aventure reprend les thèmes de divers ?uvres de science-fiction et de cyberpunk comme Blade Runner et Terminator.nnLe joueur incarne Gillian Seed dans un jeu à la 1re personne entrecoupé de nombreuses scènes à la troisième personne.nnMoscou, le 6 juin 1996: La « Catastrophe » se produit dans le laboratoire de recherche Russe Chernoton. Lucifer Alpha, une arme biologique secrète est relâchée dans l'atmosphère, tuant près de 80 % des habitants de l'Europe de l'est et de l'Eurasie. La moitié de la population mondiale est littéralement balayée.nn50 ans plus tard?nnDécembre 2047, La ville de Neo Kobe, une ville de folie et de décadence?nnL'humanité fait face à sa plus grande crise. Une mystérieuse forme de vie bioroïde est apparue. Sa vraie nature et son but sont inconnus. Est-ce l'arme secrète d'un pays, ou des extraterrestres d'un autre monde ? Les Bioroïdes apparaissent en hiver, en tuant les gens et en prenant leur place dans la société. Ils utilisent une peau artificielle et peuvent transpirer et même saigner. Ils sont à la fois homme et machine. Ils sont appelés « Snatchers » parce qu'ils usurpent l'identité de leurs victimes avant de prendre leur place.nnEst-ce une personne ou un snatcher ? Une nouvelle force de police, entrainée spécifiquement pour lutter contre les Snatchers, a été créée. Ce sont les JUNKERS (Japanese Undercover Neuro-Kinetic Elimination Rangers).nnGillian Seed, un amnésique nouvellement affecté dans cette nouvelle force de police appelée « Junkers », la section de police responsable de la lutte anti-Snatcher, va tenter de comprendre qui sont les Snatchers et en quoi son passé et celui de sa femme Jamie Seed est lié à eux?</synopsis>
+      <synopsis>Snatcher est un portage du jeu vidéo d'aventure (roman graphique interactif) conçu et réalisé par Hideo Kojima pour la société Konami et edité sur plusieurs machines, depuis le PC-8801 et le MSX 2 en 1988 jusqu'aux consoles 32 bits Saturn et PlayStation en 1996, seule la version Mega-CD a été traduite et distribué en dehors du Japon. Jeu culte pour certains joueurs, ce jeu d'aventure reprend les thèmes de divers ?uvres de science-fiction et de cyberpunk comme Blade Runner et Terminator. Le joueur incarne Gillian Seed dans un jeu à la 1re personne entrecoupé de nombreuses scènes à la troisième personne. Moscou, le 6 juin 1996: La « Catastrophe » se produit dans le laboratoire de recherche Russe Chernoton. Lucifer Alpha, une arme biologique secrète est relâchée dans l'atmosphère, tuant près de 80 % des habitants de l'Europe de l'est et de l'Eurasie. La moitié de la population mondiale est littéralement balayée. 50 ans plus tard?nnDécembre 2047, La ville de Neo Kobe, une ville de folie et de décadence?nnL'humanité fait face à sa plus grande crise. Une mystérieuse forme de vie bioroïde est apparue. Sa vraie nature et son but sont inconnus. Est-ce l'arme secrète d'un pays, ou des extraterrestres d'un autre monde ? Les Bioroïdes apparaissent en hiver, en tuant les gens et en prenant leur place dans la société. Ils utilisent une peau artificielle et peuvent transpirer et même saigner. Ils sont à la fois homme et machine. Ils sont appelés « Snatchers » parce qu'ils usurpent l'identité de leurs victimes avant de prendre leur place. Est-ce une personne ou un snatcher ? Une nouvelle force de police, entrainée spécifiquement pour lutter contre les Snatchers, a été créée. Ce sont les JUNKERS (Japanese Undercover Neuro-Kinetic Elimination Rangers). Gillian Seed, un amnésique nouvellement affecté dans cette nouvelle force de police appelée « Junkers », la section de police responsable de la lutte anti-Snatcher, va tenter de comprendre qui sont les Snatchers et en quoi son passé et celui de sa femme Jamie Seed est lié à eux?</synopsis>
       <genre>Aventure</genre>
     </locale>
     <locale lang="DE">
@@ -847,11 +872,14 @@ Depende de ti, en el último guerrero que queda, llegar al cielo y acabar con la
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Soviet Union 2010">
     <id>172270</id>
     <locale lang="EN">
       <title>Soviet Union 2010</title>
+      <genre>Shoot'em Up</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Shoot'em Up</genre>
@@ -872,6 +900,7 @@ Depende de ti, en el último guerrero que queda, llegar al cielo y acabar con la
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Soviet Union 2011">
     <id>172271</id>
@@ -900,6 +929,7 @@ Depende de ti, en el último guerrero que queda, llegar al cielo y acabar con la
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Space Invaders Virtual Collection">
     <id>4728AA</id>
@@ -1128,6 +1158,7 @@ Slug it out to the staggering end to determine the true world champion. Created 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Vertical Force">
     <id>4736AA</id>
@@ -1372,6 +1403,7 @@ Al comenzar el juego, se te presenta una pantalla de mapa 3D con cinco ubicacion
     <locale lang="EN">
       <title>VUE Snake</title>
       <synopsis>The famous arcade game from 1976 adapted one time more.</synopsis>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Énième adaptation du jeu Gremlin Industries en 1976 qui a fait la fortune d'Atari ou de Nokia entre autres.</synopsis>
@@ -1380,12 +1412,13 @@ Al comenzar el juego, se te presenta una pantalla de mapa 3D con cinco ubicacion
     <date year="2009" month="04" day="10"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Waterworld">
     <id>4729AA</id>
@@ -1433,6 +1466,7 @@ Y ha liberado a sus Smokers sedientos de sangre en la civilización Atoller en u
     <locale lang="EN">
       <title>Zpace Racers</title>
       <synopsis>Futuristic course game developped for the  PVB coding competition.</synopsis>
+      <genre>Racing</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Jeu de course futuriste développé pour le PVB coding competition.</synopsis>
@@ -1447,5 +1481,6 @@ Y ha liberado a sus Smokers sedientos de sangre en la civilización Atoller en u
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
 </datafile>

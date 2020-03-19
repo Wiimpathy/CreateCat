@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812050837" games="9"/>
+        <WiiTDB version="201812050837" games="9"/>
   <game name="Baseball Stars">
     <id>47055A</id>
     <locale lang="EN">
@@ -74,7 +74,7 @@ The game was released for the Neo Geo Pocket and features monochrome graphics; h
       <genre>Simulation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Melon-chan no Seichouki es un juego de simulación de vida similar al Tamagotchi y otros juegos de simulación de vida virtual. En este juego, el jugador cría y alimenta a la niña Melon Chan. El juego fue lanzado solo en Japón y fue uno de los primeros títulos que se lanzaron en el Neo Geo Pocket.nnnn</synopsis>
+      <synopsis>Melon-chan no Seichouki es un juego de simulación de vida similar al Tamagotchi y otros juegos de simulación de vida virtual. En este juego, el jugador cría y alimenta a la niña Melon Chan. El juego fue lanzado solo en Japón y fue uno de los primeros títulos que se lanzaron en el Neo Geo Pocket.</synopsis>
       <genre>Simulación</genre>
     </locale>
     <locale lang="FR">
@@ -324,7 +324,6 @@ Le gameplay de Samurai Shodown est assez bien adapté dans la version de poche, 
     <id>124418</id>
     <locale lang="EN">
       <title>Adventures of Gus and Rob, The</title>
-Demo
       <genre>Demo</genre>
       <synopsis>This is a homebrew demo.</synopsis>
     </locale>
@@ -338,13 +337,11 @@ Demo
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
-Public Domain
   </game>
   <game name="Another Day In Hell">
     <id>124419</id>
     <locale lang="EN">
       <title>Another Day in Hell</title>
-Demo
       <genre>Demo</genre>
       <synopsis>This is a homebrew demo.</synopsis>
     </locale>
@@ -358,12 +355,13 @@ Demo
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
-Public Domain
   </game>
   <game name="Barbarian - The Ultimate Warrior">
     <id>124420</id>
     <locale lang="EN">
       <title>Barbarian - The Ultimate Warrior</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <publisher>Julien, Loic</publisher>
     <rating type="NOTE" value="">
@@ -374,6 +372,7 @@ Public Domain
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Barbarian Invaders">
     <id>124421</id>
@@ -603,6 +602,7 @@ L'utilisation du câble Link NGPC permet des affrontements d'Unitrons entre amis
     <locale lang="EN">
       <title>Bomberman</title>
       <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <publisher>Thor</publisher>
     <date year="2004" month="" day=""/>
@@ -656,6 +656,8 @@ On se rapproche beaucoup de Puzzle Bobble 2 sorti sur Playstation.
     <id>124424</id>
     <locale lang="EN">
       <title>Centipede</title>
+      <genre>Action,Arcade,Shooter,</genre>
+      <synopsis/>
     </locale>
     <publisher>Bacon, Roger</publisher>
     <date year="2001" month="" day=""/>
@@ -683,6 +685,7 @@ On se rapproche beaucoup de Puzzle Bobble 2 sorti sur Playstation.
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
     <developer>Public Domain</developer>
     <publisher>Public Domain</publisher>
   </game>
@@ -691,6 +694,7 @@ On se rapproche beaucoup de Puzzle Bobble 2 sorti sur Playstation.
     <locale lang="EN">
       <title>Columns</title>
       <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <publisher>Thor</publisher>
     <date year="2001" month="" day=""/>
@@ -797,7 +801,7 @@ A level has rollers which you can push forward with your paint brush. If you cap
 Every once in a while another creature will pop up, it will run around leaving behind track marks in your paint. Painting over this creature removes it from the game and scores you additional points. His tracks have to be repainted.
 
 When the entire maze is painted you win the level. Unlike the original arcade version the Neo Geo Pocket Color version has multiple levels.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1072,6 +1076,8 @@ Le joueur prend le contrôle d'un personnage nommé Becky. Le jeu a lieu dans le
     <id>87555A</id>
     <locale lang="EN">
       <title>Doko Demo Mahjong</title>
+      <genre>Board Game</genre>
+      <synopsis>DokoDemo Mahjong is a Miscellaneous game, developed and published by ADK, which was released in Japan in 1999.</synopsis>
     </locale>
     <locale lang="ES">
       <genre>Mahjong,Juegos de mesa asiático</genre>
@@ -1095,7 +1101,7 @@ La partie se termine une fois notre cave de depart epuisé.</synopsis>
     <date year="1999" month="04" day="29"/>
     <rating type="NOTE" value="12">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -1190,7 +1196,7 @@ As expected for a portable version, the gameplay has been significantly downgrad
       <synopsis>Fantastic Night Dreams: Cotton is a 2D side-scrolling shooter in which the player takes the role of the young witch Cotton, who sets out on her magical broom on a quest to get her favorite candy. Fortunately for us her obsession gets her in the way of several world-threatening terrors that she must destroy in standard shooter fare.
 
 The game features an experience-earning system in which the more enemies the player kills the more he can upgrade his weapon by collecting power crystals. Players can also charge their weapon for special attacks and enlist the aid of Silk, Cotton's magical fairy friend who can form up in different "option" configurations.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1220,8 +1226,8 @@ Le jeu dispose d'un système d'expérience dans lequel plus le joueur tue d'enne
     <id>124429</id>
     <locale lang="EN">
       <title>Fantasy World Dizzy Pocket</title>
-Demo
       <genre>Demo</genre>
+      <synopsis/>
     </locale>
     <publisher>Soft'n Fuzzy</publisher>
     <date year="2004" month="" day=""/>
@@ -1233,7 +1239,6 @@ Demo
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
-Public Domain
   </game>
   <game name="Faselei!">
     <id>47034A</id>
@@ -1349,6 +1354,8 @@ SNK nous fourni ici un excellent travail de conversion car on garde les memes se
     <id>124433</id>
     <locale lang="EN">
       <title>Game and Watch</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <publisher>Torlus</publisher>
     <date year="2004" month="" day=""/>
@@ -1370,7 +1377,7 @@ SNK nous fourni ici un excellent travail de conversion car on garde les memes se
 These collection of 30 games form the bulk of the gameplay, and include different clones of other games, shooters, short platformers, and compact puzzle challenges similar to Wario Ware
 
 The game has a distinctly bizarre sense of humor with tons of wacky animations played whenever something happens to your Poke-kun, and while some games use basic vector graphics, most use 2D sprites.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Platform,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1468,12 +1475,15 @@ Dans ce jeu nous suivons Makoto, un des nombreux etudiants present dans le pavil
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
     <developer>Public Domain</developer>
   </game>
   <game name="Joust">
     <id>124437</id>
     <locale lang="EN">
       <title>Joust</title>
+      <genre>Action,Arcade,Platform,</genre>
+      <synopsis/>
     </locale>
     <publisher>Ahchay, Chris</publisher>
     <date year="2003" month="" day=""/>
@@ -1537,7 +1547,7 @@ The teams included in the game were slightly reformulated and now are the follow
 1. Team Kusanagi (Kyo Kusanagi, Saisyu Kusanagi and Shingo Yabuki)Super Babe Team (Athena Asamiya, Yuri Sakazaki and Kasumi Todo)
 2. New Southtown Team (Ryo Sakazaki, Mai Shiranui and Terry Bogard)
 3. Orochi Team (Yashiro Nanakase, Shermie and Chris)</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Fighting</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1565,6 +1575,8 @@ The teams included in the game were slightly reformulated and now are the follow
     <id>87559A</id>
     <locale lang="EN">
       <title>Koi Koi Mahjong</title>
+      <genre>Mahjong</genre>
+      <synopsis>A mahjong game released by Visco for the Neo Geo Pocket Color in 2000.</synopsis>
     </locale>
     <locale lang="ES">
       <genre>Mahjong,Juegos de mesa asiático</genre>
@@ -1588,7 +1600,7 @@ Le joueur peux choisir entre 4 protagonistes et 3 modes de jeu.</synopsis>
     <date year="2000" month="03" day="09"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -1666,6 +1678,8 @@ Like many other handheld puzzle games of the time, Story does not feature a "tru
     <id>109075</id>
     <locale lang="EN">
       <title>Manic Miner Starring Miner Willy</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <publisher>Dodd, Lindon</publisher>
     <date year="2001" month="" day=""/>
@@ -1726,7 +1740,7 @@ L'histoire principale de Pure prend entre 3 et 4 heures de jeu, mais la rejouabi
     <date year="2000" month="04" day="27"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -1738,7 +1752,7 @@ L'histoire principale de Pure prend entre 3 et 4 heures de jeu, mais la rejouabi
     <locale lang="EN">
       <title>Metal Slug 1st Mission</title>
       <synopsis>As a member of the elite forces squad "Peregrine Falcons," your mission is to eliminate the evil Colonel Bildegaarn. Using the Metal Slug multifunction tank and the Slug Flyer as well as your wits and handgun blast through up to 17 missions in your quest to make the world safe from tyranny. Multiple stage progressions and a gameplay ranking system give reason to play through more than once. In-game save lets the player on the go turn off the Neo Geo Pocket and not lose progress.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Platform,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1770,7 +1784,7 @@ La sauvegarde en jeu laisse la possibilité au joueur d'eteindre la console et d
     <locale lang="EN">
       <title>Metal Slug 2nd Mission</title>
       <synopsis>Take control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force "Phantom." Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Platform,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -1848,6 +1862,7 @@ Une liste d'otages sauvés et un mode time attack ajoutent de la profondeur à c
     <locale lang="EN">
       <title>Mizuki Shigeru no Youkai Shashinkan</title>
       <synopsis>This is an RPG based on the works of the famous manga artist Shigeru Mizuki, known in Japan for his knowledge of youkai (supernatural ghosts of Japanese folklore). In this game, you explore various areas of Japan, taking pictures of youkai, and using these pictures in card battles. This is a very popular game among Japanese NGPC enthusiasts.</synopsis>
+      <genre>Role-Playing</genre>
     </locale>
     <locale lang="FR">
       <synopsis>RPG avec comme toile de fond les travaux du celebre mangaka Shigeru Mizuki, renommé au Japon pour ses connaissances en Youkai (Fantome du folklore japonais).
@@ -1862,7 +1877,7 @@ Ce jeu fut tres populaire au sein des pocesseurs de la NGPC.</synopsis>
     <date year="1999" month="12" day="29"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -1873,6 +1888,8 @@ Ce jeu fut tres populaire au sein des pocesseurs de la NGPC.</synopsis>
     <id>124442</id>
     <locale lang="EN">
       <title>Mr. Do!</title>
+      <genre>Action,Arcade,</genre>
+      <synopsis/>
     </locale>
     <publisher>Mackintosh, Ivan</publisher>
     <rating type="NOTE" value="">
@@ -1883,6 +1900,7 @@ Ce jeu fut tres populaire au sein des pocesseurs de la NGPC.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Multi Game Menu">
     <id>109079</id>
@@ -2029,6 +2047,7 @@ Le but du jeu est de passer de 99 credits (la mise de base) a 9999 credits!</syn
     <locale lang="EN">
       <title>Neo Derby Champ Daiyosou</title>
       <synopsis>Neo Derby Champ Daiyosou is a Sports game, developed and published by Dyna Corporation, which was released in Japan in 1999.</synopsis>
+      <genre>Sports</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Neo Derby Champ Daiyosou est un jeu de course de chevaux, developpé et publié par Dyna Corporation et sorti en 1999 au Japon</synopsis>
@@ -2040,7 +2059,7 @@ Le but du jeu est de passer de 99 credits (la mise de base) a 9999 credits!</syn
     <date year="1999" month="04" day="22"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -2129,6 +2148,8 @@ Skilled players can choose Original Mode to enjoy real poker with authentic feel
     <id>87570A</id>
     <locale lang="EN">
       <title>Neo Poke Pro Yakyuu</title>
+      <genre>Baseball</genre>
+      <synopsis>A baseball game developed by ADK and published by SNK for the Neo Geo Pocket Color.</synopsis>
     </locale>
     <locale lang="ES">
       <genre>Deportes / Béisbol,Deportes</genre>
@@ -2150,7 +2171,7 @@ Skilled players can choose Original Mode to enjoy real poker with authentic feel
     <date year="1999" month="05" day="27"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -2205,6 +2226,7 @@ Skilled players can choose Original Mode to enjoy real poker with authentic feel
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
     <developer>Public Domain</developer>
   </game>
   <game name="Neodaleks!">
@@ -2237,7 +2259,7 @@ Skilled players can choose Original Mode to enjoy real poker with authentic feel
       <genre>Deportes</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Dans le mode story vous choisissez une équipe parmi les meilleures au monde avec l'objectif de remporter la fameuse Neo Geo Cup. Cela n'est toutefois pas de tout repos et remporter le titre demandera de longues heures de match intense.nnChaque rencontre vous donnera droit a un certain nombre de points qui pourront ensuite êtres utilisés dans la boutique, ce qui ajoute un petit côté RPG non négligeable. Acheter des shorts, crampons, maillots et plein d'autre objets parmi une sélection donnée augmenteront les capacités de votre équipe selon plusieurs critères et rendra vos joueurs plus rapides ou adroits devant le but.
+      <synopsis>Dans le mode story vous choisissez une équipe parmi les meilleures au monde avec l'objectif de remporter la fameuse Neo Geo Cup. Cela n'est toutefois pas de tout repos et remporter le titre demandera de longues heures de match intense. Chaque rencontre vous donnera droit a un certain nombre de points qui pourront ensuite êtres utilisés dans la boutique, ce qui ajoute un petit côté RPG non négligeable. Acheter des shorts, crampons, maillots et plein d'autre objets parmi une sélection donnée augmenteront les capacités de votre équipe selon plusieurs critères et rendra vos joueurs plus rapides ou adroits devant le but.
 
 Le jeu est également disponible sur Neo Geo Pocket.</synopsis>
       <genre>Sport</genre>
@@ -2273,12 +2295,15 @@ Le jeu est également disponible sur Neo Geo Pocket.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
     <developer>Public Domain</developer>
   </game>
   <game name="Neotris - The Grand Carnage">
     <id>124447</id>
     <locale lang="EN">
       <title>Neotris - The Grand Carnage</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <publisher>Sleipnir</publisher>
     <rating type="NOTE" value="">
@@ -2289,6 +2314,7 @@ Le jeu est également disponible sur Neo Geo Pocket.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Ngpc War">
     <id>124448</id>
@@ -2305,6 +2331,7 @@ Le jeu est également disponible sur Neo Geo Pocket.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
     <developer>Public Domain</developer>
     <publisher>Public Domain</publisher>
   </game>
@@ -2371,7 +2398,7 @@ Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bash
 Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
 
 Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -2398,6 +2425,8 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <id>87573A</id>
     <locale lang="EN">
       <title>Pachi-Slot Aruze Oukoku Pocket - Azteca</title>
+      <genre>Casino</genre>
+      <synopsis>A Pachi-Slot game in the Pachi-Slot Aruze Oukoku Pocket series.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Pachisuro Aruze Oogkoku Pocket - Azteca</title>
@@ -2406,7 +2435,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <date year="2000" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -2417,6 +2446,8 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <id>87574A</id>
     <locale lang="EN">
       <title>Pachi-Slot Aruze Oukoku Pocket - Dekahel 2</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <locale lang="JA">
       <title>Pachisuro Aruze Oogkoku Pocket - Dekahel</title>
@@ -2436,6 +2467,8 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <id>87575A</id>
     <locale lang="EN">
       <title>Pachi-Slot Aruze Oukoku Pocket - Delsol 2</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <locale lang="JA">
       <title>Pachisuro Aruze Oogkoku Pocket - Oelsol</title>
@@ -2455,6 +2488,8 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <id>87576A</id>
     <locale lang="EN">
       <title>Pachi-Slot Aruze Oukoku Pocket - e-Cup</title>
+      <genre>Casino</genre>
+      <synopsis>Pachi-Slot Aruze Oukoku Pocket: e-Cup is a Pachi-Slot simulation developed and published by Aruze for Neo Geo Pocket Color.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Pachisuro Aruze Oogkoku Pocket - e-Cup</title>
@@ -2463,7 +2498,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <date year="2001" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -2474,6 +2509,8 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <id>87577A</id>
     <locale lang="EN">
       <title>Pachi-Slot Aruze Oukoku Pocket - Hanabi</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <locale lang="JA">
       <title>Pachisuro Aruze Oogkoku Pocket - Hanabi</title>
@@ -2493,6 +2530,8 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <id>87578A</id>
     <locale lang="EN">
       <title>Pachi-Slot Aruze Oukoku Pocket - Oohanabi</title>
+      <genre>Casino</genre>
+      <synopsis>Pachi-Slot Aruze Oukoku Pocket: Oohanabi is a Pachi-Slot simulation game developed and published by Aruze for Neo Geo Pocket Color.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Pachisuro Aruze Oogkoku Pocket - Oohanabi</title>
@@ -2501,7 +2540,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <date year="2000" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -2512,6 +2551,8 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <id>87579A</id>
     <locale lang="EN">
       <title>Pachi-Slot Aruze Oukoku Pocket - Porcano 2</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <locale lang="JA">
       <title>Pachisuro Aruze Oogkoku Pocket - Adventure of Porc</title>
@@ -2531,6 +2572,8 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <id>87580A</id>
     <locale lang="EN">
       <title>Pachi-Slot Aruze Oukoku Pocket - Ward of Lights</title>
+      <genre>Casino</genre>
+      <synopsis>Pachi-Slot Aruze Oukoku Pocket: Ward of Lights is a Pachi-Slot simulation developed and published by Aruze for Neo Geo Pocket Color.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Pachisuro Aruze Oogkoku Pocket - Ward of Lights</title>
@@ -2539,7 +2582,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <date year="2000" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -2550,6 +2593,8 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <id>87581A</id>
     <locale lang="EN">
       <title>Pachinko Hisshou Guide - Pocket Parlor</title>
+      <genre>Casino</genre>
+      <synopsis>Pachinko Hisshou Guide: Pocket Parlor is a Casino game, developed and published by Japan Vistec, which was released in Japan in 1999.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Pachinko Hissyou Guide Pocket Parlor</title>
@@ -2558,7 +2603,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <date year="1999" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -2569,6 +2614,8 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <id>87582A</id>
     <locale lang="EN">
       <title>Party Mail</title>
+      <genre>Cards</genre>
+      <synopsis>A Japan-only Neo Geo Pocket Color game released in 1999.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Party Mail</title>
@@ -2577,7 +2624,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <date year="1999" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -2640,6 +2687,8 @@ Upon completion of a puzzle, the game replaces it with a colored version of the 
     <id>87583A</id>
     <locale lang="EN">
       <title>Pocket Love if</title>
+      <genre>Other</genre>
+      <synopsis/>
     </locale>
     <locale lang="JA">
       <title>Pocket Love - If</title>
@@ -2660,6 +2709,7 @@ Upon completion of a puzzle, the game replaces it with a colored version of the 
     <locale lang="EN">
       <title>Pocket Reversi</title>
       <synopsis>Pocket Reversi is a Miscellaneous game, developed and published by Success, which was released in Japan in 2000.</synopsis>
+      <genre>Puzzle</genre>
     </locale>
     <locale lang="ES">
       <genre>Rompecabezas</genre>
@@ -2763,6 +2813,8 @@ Le tournoi se joue seulement contre l'ordinateur. Le joueur peut choisir son per
     <id>87586A</id>
     <locale lang="EN">
       <title>Prize Game - PP-AA01 Pusher Program</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2772,6 +2824,8 @@ Le tournoi se joue seulement contre l'ordinateur. Le joueur peut choisir son per
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Puyo Pop">
     <id>87587A</id>
@@ -2805,7 +2859,6 @@ Le tournoi se joue seulement contre l'ordinateur. Le joueur peut choisir son per
     <id>124454</id>
     <locale lang="EN">
       <title>Puzzle Gems</title>
-Demo
       <genre>Demo</genre>
       <synopsis>This is a homebrew demo.</synopsis>
     </locale>
@@ -2819,7 +2872,6 @@ Demo
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
-Public Domain
   </game>
   <game name="Puzzle Link">
     <id>47046A</id>
@@ -2885,6 +2937,8 @@ There are new modes in Puzzle Link 2. Like the original, there are the standard 
     <id>87589A</id>
     <locale lang="EN">
       <title>Renketsu Puzzle Tsunagete Pon! Color</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2894,11 +2948,15 @@ There are new modes in Puzzle Link 2. Like the original, there are the standard 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Robotron - 2084">
     <id>124455</id>
     <locale lang="EN">
       <title>Robotron - 2084</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -2908,6 +2966,8 @@ There are new modes in Puzzle Link 2. Like the original, there are the standard 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Rockman Battle And Fighters">
     <id>87590A</id>
@@ -2965,13 +3025,14 @@ Le transfert d'information est possible entre 2 NGPC et le cable adecquat, mais 
       <control type="gamecube" required="false"/>
     </input>
     <date year="" month="" day=""/>
+    <publisher/>
   </game>
   <game name="Samurai Shodown 2">
     <id>47048A</id>
     <locale lang="EN">
       <title>Samurai Shodown II</title>
       <synopsis>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Fighting,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3028,6 +3089,8 @@ Included are classic, tournament and dynasty modes. Classic is normal game with 
     <id>87591A</id>
     <locale lang="EN">
       <title>Shinki Sekai Evolution - Hateshinai Dungeon</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <locale lang="JA">
       <title>Shinki Sekai Evolution - Hateshinai Dungeon</title>
@@ -3047,6 +3110,8 @@ Included are classic, tournament and dynasty modes. Classic is normal game with 
     <id>87592A</id>
     <locale lang="EN">
       <title>Shougi no Tatsujin Color</title>
+      <genre>Board Game</genre>
+      <synopsis>Shogi no Tatsujin Color is a Board Game game, developed by ADK and published by SNK, which was released in Japan in 1999.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Master of Syougi Color</title>
@@ -3055,7 +3120,7 @@ Included are classic, tournament and dynasty modes. Classic is normal game with 
     <date year="1999" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -3108,7 +3173,7 @@ Included are classic, tournament and dynasty modes. Classic is normal game with 
 Behind this simple storyline, the title brings a cast of 8 all-female characters taken from SNK's fighting series The King of Fighters (Mai Shiranui, Yuri Sakazaki, Athena Asamiya, Leona Heidern, Shermie), The Last Blade (Akari Ichijyou) and Samurai Shodown (Shiki, Nakoruru); all with the same blows (parodied or not) of their origin games.
 
 The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run commands), but without SDMs. To increase the replay factor, a power-up mode was included: depending on your combat performance, you'll be favored with several random items (e.g. Start with full MAX gauge, Speed Up etc.) that can be used to improve your character for a while.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Fighting,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3137,6 +3202,7 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
     <locale lang="EN">
       <title>SNK vs. Capcom - Card Fighters 2 - Expand Edition</title>
       <synopsis>SNK vs. Capcom: Card Fighter's Clash 2 Expand Edition continues the mascot packed trading card game action that began with the original.</synopsis>
+      <genre/>
     </locale>
     <locale lang="JA">
       <title>SNK vs. Capcom - Card Fighters Clash 2 - Expand Ed</title>
@@ -3156,6 +3222,8 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
     <id>87594A</id>
     <locale lang="EN">
       <title>SNK vs. Capcom - Gekitotsu Card Fighters</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3165,11 +3233,15 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Snk Vs. Capcom - Gekitotsu Card Fighters - Snk Supporter Version">
     <id>87595A</id>
     <locale lang="EN">
       <title>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Sup</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <locale lang="JA">
       <title>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Ver</title>
@@ -3252,7 +3324,7 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
     <locale lang="EN">
       <title>SNK vs. Capcom: The Match of the Millennium</title>
       <synopsis>With 18 starting characters (26 total after unlocking), numerous battle modes and varied minigames, this may be the largest fighting game for the Neo Geo Pocket Color. Choose the fighting style that suits you from the available Single, Tag and Team modes. The SC Olympic mode grants access to minigames from a music game featuring Felicia to a whack-a-mole style game with Jubei. The Olympic mode also allows players to compete for gold, silver and bronze medals in various fighting challenges. Link features include NGPC-to-NGPC battles and NGPC-to-Dreamcast data exchange with other SNK titles.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Fighting,</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3280,6 +3352,8 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
     <id>124457</id>
     <locale lang="EN">
       <title>SOD Chess</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <publisher>Thor</publisher>
     <date year="2002" month="" day=""/>
@@ -3316,7 +3390,7 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
     <locale lang="EN">
       <title>Sonic the Hedgehog : Pocket Adventure</title>
       <synopsis>Sonic the Hedgehog Pocket Adventure, or Sonic Pocket Adventure for short, is a 1999 platform video game in the Sonic the Hedgehog series developed by SNK. It was released in December 1999 in North America, and May 2000 in Japan, exclusively for the Neo Geo Pocket Color handheld game console. It is also only the second game of the Sonic series ever to be released on a non-Sega video game console, the first being Sonic Jam on the Game.com. The game was praised by critics, receiving perfect scores from multiple reviews.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
       <genre>Acción</genre>
@@ -3347,6 +3421,8 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
     <id>87596A</id>
     <locale lang="EN">
       <title>Soreike!! Hanafuda Doujou</title>
+      <genre>Strategy</genre>
+      <synopsis>Soreike!! Hanafuda Doujou is a Card game, developed and published by Dyna, which was released in Japan in 1999.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Soreike!! Hanafuda Doujou</title>
@@ -3355,7 +3431,7 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
     <date year="1999" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -3396,6 +3472,7 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
     <developer>Public Domain</developer>
     <publisher>Public Domain</publisher>
   </game>
@@ -3403,6 +3480,8 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
     <id>109086</id>
     <locale lang="EN">
       <title>Super 12 in 1</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3412,12 +3491,15 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
     <publisher>Unknown</publisher>
   </game>
   <game name="Super Real Mahjong - Premium Collection">
     <id>87597A</id>
     <locale lang="EN">
       <title>Super Real Mahjong - Premium Collection</title>
+      <genre>Puzzle</genre>
+      <synopsis>Super Real Mahjong Premium Collection is the first handheld installment in the Super Real Mahjong series. As usual, you play strip mahjong with pretty girls, this time several from many of the games. However, due to the system's limitations, only a few strip scenes are animated. It also has some visual novel-like qualities, particularly a story mode where you try to focus on one girl each time it is played. This is accomplished by choosing the right options when they are presented to you. If you succeed in focusing on only one girl, her CG is then unlocked in the gallery.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Super Real Mahjong - Premium Collection</title>
@@ -3426,7 +3508,7 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
     <date year="2001" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -3513,6 +3595,8 @@ On peut aussi gagner des points en utilisant des cartes speciales qui affectent 
     <id>109348</id>
     <locale lang="EN">
       <title>Tpaint</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3522,11 +3606,15 @@ On peut aussi gagner des points en utilisant des cartes speciales qui affectent 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Tsunagete Pon! 2">
     <id>87598A</id>
     <locale lang="EN">
       <title>Tsunagete Pon! 2</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3536,5 +3624,7 @@ On peut aussi gagner des points en utilisant des cartes speciales qui affectent 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
 </datafile>

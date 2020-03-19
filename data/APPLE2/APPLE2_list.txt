@@ -2,270 +2,270 @@
 52205A|2400 A.d.|2400 A.D.||Adventure,|1||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1987
 52206A|3 In 1 College And Pro Football Game|3 in 1 College & Pro Football Game||||||Lance Haffner Games|1984
 123950|3 In 1 Football Teams|3 In 1 Football Teams|ZZZ-UNK-3 in 1 football teams of the past||||||
-52207A|3-d Docking Mission|3-D Docking Mission||,Arcade|||Chris Oberth|Programma International|1978
-172031|4th & Inches|4th &amp; Inches|||||||
+52207A|3-d Docking Mission|3-D Docking Mission||Arcade,|1||Chris Oberth|Programma International|1978
+172031|4th & Inches|4th &amp; Inches||Action,Sports,Strategy,Football,,|||||
 52209A|50 Mission Crush|50 Mission Crush|Fifty Mission Crush|Strategy,Simulation,||||Strategic Simulations, Inc.|1984
 118816|A La Recherche De Karine|A la Recherche de Karine||||||Bozo Dans|1992
 53328A|A Mind Forever Voyaging|A Mind Forever Voyaging|Mind Forever Voyaging, A|Adventure,|1||Infocom, Inc.|Infocom, Inc.|1985
 123943|A Question Of Scruples|A Question of Scruples|||||||1987
 52211A|A-e|A-E||Shooter,|2||Programmers-3|Broderbund Software|1982
-52213A|A2-fs1 Flight Simulator|A2-FS1 Flight Simulator||,Flight simulator||||SubLogic|1981
-172030|Aaargh!|Aaargh!|||||||
-52214A|Abm|ABM||Shoot'em Up,Action,||||Muse|1980
-117300|Accounts Receivable|Accounts Receivable||,Software||||Continental Software|1983
-52218A|Acid Trip|Acid Trip|Acid Trap|,Arcade||||Cross, Demetrius|1982
+52213A|A2-fs1 Flight Simulator|A2-FS1 Flight Simulator||Flight simulator,|1|||SubLogic|1981
+172030|Aaargh!|Aaargh!||Action,Arcade,,|||||
+52214A|Abm|ABM||Shoot'em Up,Action,|1|||Muse|1980
+117300|Accounts Receivable|Accounts Receivable||Software,||||Continental Software|1983
+52218A|Acid Trip|Acid Trip|Acid Trap|Action,Arcade||||Cross, Demetrius|1982
 52219A|Advanced Blackjack|Advanced Blackjack||Casino,|1||Muse Software|Muse|1983
 52220A|Adventure|Adventure|ZZZ-UNK-Adventure Construction Set - Escape From Reality|Adventure,Action,|||Atari, Inc.|Sears, Roebuck and Co.|1980
 123547|Adventure - 1|Adventure - 1||Various,|||||
 52222A|Adventure Construction Set|Adventure Construction Set|ZZZ-UNK-Adventure Construction Set - Escape From Reality|Adventure,|1||Electronic Arts|Electronic Arts|1985
-52224A|Adventure Double Feature, An|Adventure Double Feature, An||||||Microzone|
-52229A|Adventure To Atlantis|Adventure to Atlantis||,Adventure||||Synergistic Software|1982
-52234A|Aeronaut|Aeronaut||,Shooter||||Bill Eidson|1984
+52224A|Adventure Double Feature, An|Adventure Double Feature, An||Adventure,||||Microzone|1984
+52229A|Adventure To Atlantis|Adventure to Atlantis||Adventure,|1|||Synergistic Software|1982
+52234A|Aeronaut|Aeronaut||Shooter,||||Bill Eidson|1984
 52235A|Agent Usa|Agent USA||Action,Adventure,|1||Tom Snyder Productions, Inc.|Scholastic, Inc.|1984
-52237A|Air Raid Pearl Harbor|Air Raid Pearl Harbor||||||General Quarters Software|
+52237A|Air Raid Pearl Harbor|Air Raid Pearl Harbor||Strategy,||||General Quarters Software|1990
 172106|Air Traffic Controller|Air Traffic Controller||Simulation,|||Flying V soft|Flying V soft|1989
-172029|Airball|Airball|Gumball|Action,Puzzle|||MicroDeal Ltd.|MicroDeal Ltd.|1987
-52239A|Airheart|Airheart||Action,Shooter|1||Dan Gorlin Productions|Brøderbund Software, Inc.|1986
-117229|Airplane Simulator|Airplane Simulator||Simulation,|||Digital Illusions|Ted Kurtz|1983
+172029|Airball|Airball|Gumball|Action,Puzzle,,|||MicroDeal Ltd.|MicroDeal Ltd.|1987
+52239A|Airheart|Airheart||Action,Shooter,|1||Dan Gorlin Productions|Brøderbund Software, Inc.|1986
+117229|Airplane Simulator|Airplane Simulator||Simulation,|1||Digital Illusions|Ted Kurtz|1983
 52240A|Akalabeth - World Of Doom|Akalabeth - World of Doom||Role-Playing,|1|||California Pacific Computer|1980
 52241A|Alcazar The Forgotten Fortress|Alcazar the Forgotten Fortress||Adventure,|||Activision, Inc.|Activision, Inc.|1985
-52242A|Alert|Alert||,Spaceship||||Mindscape|1985
-118815|Alesia|Alesia||,Adventure||||P. Garcia|1984
+52242A|Alert|Alert||Spaceship,||||Mindscape|1985
+118815|Alesia|Alesia||Adventure,||||P. Garcia|1984
 52243A|Alf - The First Adventure|Alf - The First Adventure|Alf, The First Adventure|Action,Arcade|||Box Office Software|Box Office|1985
 52244A|Ali Baba And The Forty Thieves|Ali Baba and the Forty Thieves|Wizard and the Princess|Adventure,|1||Quality Software|Quality Software|1982
 52246A|Alice In Wonderland|Alice in Wonderland||Adventure,|1||Dale Disharoon, Inc.|Windham Classics|1985
 52247A|Alien|Alien||Strategy,Adventure,||||Avalon Hill|1982
 172028|Alien Mind|Alien Mind|Eamon 178 - The Alien Intruder|Action,|||PBI Software, Inc.|PBI Software, Inc.|1988
-52253A|Alien Rain|Alien Rain||,Shooter||||Broderbund|1981
-117230|Alien Typhoon|Alien Typhoon||Action,Shooter|||StarCraft, Inc.|Brøderbund Software, Inc.|1981
-52254A|Aliens|Aliens||,Action||||Activision|1986
+52253A|Alien Rain|Alien Rain||Shooter,||||Broderbund|1981
+117230|Alien Typhoon|Alien Typhoon||Action,Shooter,|||StarCraft, Inc.|Brøderbund Software, Inc.|1981
+52254A|Aliens|Aliens||Action,,||||Activision|1986
 52258A|Alter Ego|Alter Ego||Simulation,|||Activision, Inc.|Activision, Inc.|1985
-52259A|Alternate Reality - The City|Alternate Reality - The City||Role-Playing,|||Paradise Programming|Datasoft|1985
-52260A|Alternate Reality - The Dungeon|Alternate Reality - The Dungeon||Role-Playing,|||Datasoft, Inc.|Datasoft|1987
+52259A|Alternate Reality - The City|Alternate Reality - The City||Role-Playing,|1||Paradise Programming|Datasoft|1985
+52260A|Alternate Reality - The Dungeon|Alternate Reality - The Dungeon||Role-Playing,|1||Datasoft, Inc.|Datasoft|1987
 123543|Amazing Spider-Man, The|The Amazing Spider-Man||||||Green Valley Publishing|1986
-52261A|Amazon|Amazon||Adventure,|||Trillium Corp.|Trillium Corp.|1984
-117231|American Civil War 1, The|The American Civil War 1||,Strategy||||Roger Keating - Ian Trout|1987
-117232|American Civil War 2, The|The American Civil War II||,Strategy||||Roger Keating - Ian Trout|
-117233|American Civil War 3, The|The American Civil War III||,Strategy||||Roger Keating - Ian Trout|
+52261A|Amazon|Amazon||Adventure,|1||Trillium Corp.|Trillium Corp.|1984
+117231|American Civil War 1, The|The American Civil War 1||Strategy,||||Roger Keating - Ian Trout|1987
+117232|American Civil War 2, The|The American Civil War II||Strategy,||||Roger Keating - Ian Trout|
+117233|American Civil War 3, The|The American Civil War III||Strategy,||||Roger Keating - Ian Trout|
 52263A|Amnesia|Amnesia||Adventure,|1||Cognetics Corporation|Electronic Arts, Inc.|1986
 172027|Ancient Glory|Ancient Glory||Action,|||Westwood Associates|Big Red Computer Club|1993
 172026|Ancient Land of Ys|Ancient Land of Ys|||||||
 52267A|Andromeda Conquest|Andromeda Conquest||Strategy,|4||Microcomputer Games, Inc.|The Avalon Hill Game Company|1982
 52269A|Ankh|Ankh||Puzzle-Game,Adventure,|||Deck 13 Interactive GmbH|bhv Software GmbH & Co. KG|1984
 52271A|Ants|Ants|Eamon 035 - The Lair of Mutants|Action,Shooter||||Microsparc, Inc|1985
-52276A|Apple Bowl|Apple Bowl||,Bowling||||Apple Computer|1979
+52276A|Apple Bowl|Apple Bowl||Sports,||||Apple Computer|1979
 52277A|Apple Cider Spider|Apple Cider Spider||Platform,Action,|2||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1983
-52278A|Apple Graphics Games|Apple Graphics Games||,Compilation||||Unknown|
-52279A|Apple 2 Trek|Apple II Trek||||||Sander, Wendell|
-52280A|Apple Invader|Apple Invader||,Shooter||||Creative Computing|1981
-117235|Apple Pairing|Apple Pairing||,Puzzle||||Fan's Brother|
-52282A|Apple Panic|Apple Panic||Platform,Action,||||Brøderbund Software, Inc.|1981
+52278A|Apple Graphics Games|Apple Graphics Games||Compilation,||||Unknown|
+52279A|Apple 2 Trek|Apple II Trek||Strategy,||||Sander, Wendell|1979
+52280A|Apple Invader|Apple Invader||Shooter,||||Creative Computing|1981
+117235|Apple Pairing|Apple Pairing||Puzzle,||||Fan's Brother|
+52282A|Apple Panic|Apple Panic||Platform,Action,|1|||Brøderbund Software, Inc.|1981
 123548|Apple Spice|Apple Spice||||||Marin Computer Center|1991
-123549|Apple Trek|Apple Trek|Apple II Trek|,Strategy||||Apple|1979
-172105|Aquatron|Aquatron||Action,Compilation||||Sierra On-Line, Inc.|1983
-52287A|Arcade Boot Camp|Arcade Boot Camp||,Arcade||||Penguin Software|1984
-52289A|Arcade Insanity|Arcade Insanity||,Shooter||||Avant-Garde|1983
-52292A|Archon|Archon|Archon II - Adept|,Chess||||Electronic Arts|1984
+123549|Apple Trek|Apple Trek|Apple II Trek|Strategy,||||Apple|1979
+172105|Aquatron|Aquatron||Action,Shooter,||||Sierra On-Line, Inc.|1983
+52287A|Arcade Boot Camp|Arcade Boot Camp||Platformer,||||Penguin Software|1984
+52289A|Arcade Insanity|Arcade Insanity||Shooter,||||Avant-Garde|1983
+52292A|Archon|Archon|Archon II - Adept|Chess,||||Electronic Arts|1984
 52293A|Archon 2 - Adept|Archon II - Adept||Fighting,|2||Free Fall Associates|Electronic Arts|1985
-52295A|Arcticfox|Arcticfox||Shoot'em Up,Action,|||Dynamix, Inc.|Electronic Arts, Inc.|1986
-52296A|Ardy The Aardvark|Ardy the Aardvark||Action,||||Datamost, Inc.|1985
-172104|Arena|Arena|Electroarena|Action||||Defcom|1992
+52295A|Arcticfox|Arcticfox||Shoot'em Up,Action,|1||Dynamix, Inc.|Electronic Arts, Inc.|1986
+52296A|Ardy The Aardvark|Ardy the Aardvark||Action,Puzzle,||||Datamost, Inc.|1985
+172104|Arena|Arena|Electroarena|Action,Shooter,||||Defcom|1992
 52297A|Argos|Argos||Shoot'em Up,Action,||||Datamost, Inc.|1983
-52298A|Arkanoid|Arkanoid||Action,Breakout|||Taito Corporation|Taito Software Inc.|1987
-117236|Arkanoid Editor|Arkanoid Editor||,Software||||2c|1989
+52298A|Arkanoid|Arkanoid||Action,Breakout,|||Taito Corporation|Taito Software Inc.|1987
+117236|Arkanoid Editor|Arkanoid Editor||Software,||||2c|1989
 172025|Arkanoid II - Revenge of Doh|Arkanoid II - Revenge of Doh|||||||
 52299A|Armageddon|Armageddon||Strategy,Action,|||Fashionsoft|Fashionsoft|1986
-52300A|Artesians|Artesians||,Arcade||||Rena-Soft|
+52300A|Artesians|Artesians||Puzzle,||||Rena-Soft|1983
 172024|As the Link Turns|As the Link Turns|||||||
-117237|Asteroids|Asteroids||Action,Shooter|||Syrox Developments, Ltd.|Activision, Inc.|1980
+117237|Asteroids|Asteroids||Action,Shooter,|||Syrox Developments, Ltd.|Activision, Inc.|1980
 52307A|At The Gates Of Moscow|At the Gates of Moscow||||||Softgroup|1985
 52308A|Atc|ATC||Simulation,||||Avante Garde|1979
-52311A|Autoduel|Autoduel||Action,Adventure|||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1985
-52312A|Autoduel Docs And Maps|Autoduel Docs and Maps||,Software||||Origins|
-172103|Axis Assassin|Axis Assassin||Action,Compilation||||Electronic Arts, Inc.|1983
+52311A|Autoduel|Autoduel||Action,Racing,RPG,|||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1985
+52312A|Autoduel Docs And Maps|Autoduel Docs and Maps||Software,||||Origins|
+172103|Axis Assassin|Axis Assassin||Action,Shooter,||||Electronic Arts, Inc.|1983
 52314A|Aztec|Aztec||Adventure,Action,||||Datamost, Inc.|1982
 52315A|B-24|B-24||Strategy,Simulation,||||Strategic Simulations, Inc.|1987
-52317A|B1 Nuclear Bomber|B1 Nuclear Bomber||||||Avalon Hill|1980
+52317A|B1 Nuclear Bomber|B1 Nuclear Bomber||Simulation,|1|||Avalon Hill|1980
 52319A|Bad Dudes|Bad Dudes||Beat'em Up,Action,|||Data East Corporation|Data East USA, Inc.|1988
 52321A|Balance Of Power|Balance of Power||Strategy,Simulation,|2|||Mindscape, Inc.|1987
 172023|Balance of Power - The 1990 Edition|Balance of Power - The 1990 Edition|||||||
-117238|Ball Blaster|Ball Blaster||,Pinball||||Unknown|
-52322A|Ballblazer|Ballblazer||Action,Arcade|||Lucasfilm Games LLC|Epyx, Inc.|1985
-52323A|Ballyhoo|Ballyhoo||Adventure,|||Infocom, Inc.|Infocom, Inc.|1986
+117238|Ball Blaster|Ball Blaster||Pinball,||||Unknown|
+52322A|Ballblazer|Ballblazer||Action,Arcade,|||Lucasfilm Games LLC|Epyx, Inc.|1985
+52323A|Ballyhoo|Ballyhoo||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1986
 52324A|Baltic 1985|Baltic 1985||Strategy,|2|||Strategic Simulations, Inc.|1984
 52325A|Bandits|Bandits||Shoot'em Up,Action,||||Sirius Software, Inc.|1982
 123544|Baratin Blues|Baratin Blues||||||Froggy Software|1986
 52331A|Baron - The Real Estate Simulation|Baron - The Real Estate Simulation||||||Blue Chip|1983
-52332A|Baseball Strategy|Baseball Strategy||,Baseball||||Avalon Hill|1981
-117239|Basic Building Blocks|Basic Building Blocks||,Software||||Micro Education|1983
-117240|Batatlan|Batatlan||,Strategy||||Simulations Canada|1984
+52332A|Baseball Strategy|Baseball Strategy||Simulation,Sports,||||Avalon Hill|1981
+117239|Basic Building Blocks|Basic Building Blocks||Software,||||Micro Education|1983
+117240|Batatlan|Batatlan||Strategy,||||Simulations Canada|1984
 52333A|Batman|Batman||Action|||Sun Electronics Corp.|Sun Electronics Corp.|1988
 52335A|Battalion Commander|Battalion Commander||Strategy,||||Strategic Simulations, Inc.|1985
 52336A|Battle Chess|Battle Chess||Board game,|||Interplay Productions, Inc.|Interplay Productions, Inc.|1990
-52337A|Battle For Normandy|Battle for Normandy||Strategy,|||Tactical Design Group|Strategic Simulations, Inc.|1982
+52337A|Battle For Normandy|Battle for Normandy||Strategy,|1||Tactical Design Group|Strategic Simulations, Inc.|1982
 52338A|Battle Group|Battle Group||Strategy,Simulation,||||Strategic Simulations, Inc.|1986
 52339A|Battle Of Antietam|Battle of Antietam||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1985
-52340A|Battle Of Hoth|Battle of Hoth||Action,Shooter||||Tukumo|1980
+52340A|Battle Of Hoth|Battle of Hoth||Action,Shooter,||||Tukumo|1980
 52341A|Battle Of Napoleon|Battle of Napoleon||Strategy,||||SSI|1988
 52344A|Battle Of The Parthian Kings|Battle of the Parthian Kings||Strategy,|||Strategic Simulations|Avalon Hill|1983
 52345A|Battlecruiser 1|Battlecruiser 1||Strategy,||||SSI|1987
-52346A|Battlecruiser 2|Battlecruiser 2||,Strategy||||SSI|1987
+52346A|Battlecruiser 2|Battlecruiser 2||Strategy,||||SSI|1987
 52348A|Battlefront|Battlefront||Strategy,Simulation,|||SSG Strategic Studies Group Pty Ltd.|SSG Strategic Studies Group Pty Ltd.|1986
 52349A|Battles In Normandy|Battles in Normandy||Strategy,Simulation,|||SSG Strategic Studies Group Pty Ltd.|SSG Strategic Studies Group Pty Ltd.|1987
 52350A|Battleship|Battleship||Board game,Action,||||Eagle Computer Systems|1980
-52351A|Battlesight|Battlesight||,Action||||Versa Computing|1982
+52351A|Battlesight|Battlesight||Action||||Versa Computing|1982
 52352A|Battletech|Battletech||Role playing games,|||Harebrained Schemes LLC|Paradox Interactive AB|1988
-172102|Battlezone|Battlezone|Battlefront|Action,Strategy|||Activision, Inc.|Activision, Inc.|1983
-172101|BC's Quest for Tires|BC's Quest for Tires|Dallas Quest, The|Action,Compilation|||Sydney Development Corp.|Sierra On-Line, Inc.|1983
-52355A|Beach Landing|Beach Landing||,Action|||Optimum Resource Inc|Optimun Resource|1984
-52357A|Beach-head|Beach-Head|Beach-head II|Action,Arcade|||Access Software, Inc.|Access Software, Inc.|1985
-52358A|Beach-head 2|Beach-Head II||||||Access Games|1985
+172102|Battlezone|Battlezone|Battlefront|Action,Shooter,|||Activision, Inc.|Activision, Inc.|1983
+172101|BC's Quest for Tires|BC's Quest for Tires|Dallas Quest, The|Action,Compilation,|||Sydney Development Corp.|Sierra On-Line, Inc.|1983
+52355A|Beach Landing|Beach Landing||Action|||Optimum Resource Inc|Optimun Resource|1984
+52357A|Beach-head|Beach-Head|Beach-head II|Action,Arcade,Shooter,,|||Access Software, Inc.|Access Software, Inc.|1985
+52358A|Beach-head 2|Beach-Head II||Arcade,||||Access Games|1985
 52361A|Beast War|Beast War||Strategy,|4||The Avalon Hill Game Company|The Avalon Hill Game Company|1985
 52363A|Beer Run|Beer Run||Platform,Action,|||Sirius Software|Sirius Software, Inc.|1981
-172100|Bellhop|Bellhop|Ballyhoo|,Compilation|||||
+172100|Bellhop|Bellhop|Ballyhoo|Action,Compilation||||Imaginative Systems Software|1982
 52365A|Below The Root|Below the Root||Adventure,|||Dale Disharoon, Inc.|Windham Classics|1985
-52367A|Beneath The Pyramids|Beneath the Pyramids||,Arcade|||Crystalware|Crystal|1980
-52370A|Berzap|Berzap|Berzap!|Action|||Infinity Limited|Infinity Limited|1984
-52372A|Beyond Beyond Castle Wolfenstein|Beyond Beyond Castle Wolfenstein||,Action||||Mindscape|
-52373A|Beyond Castle Wolfenstein|Beyond Castle Wolfenstein|Beyond Beyond Castle Wolfenstein|Action|1||Muse Software|Muse Software|1984
-52374A|Beyond Floppy|Beyond Floppy||,Arcade||||Greg Hale - Ted Cohn|
-52375A|Beyond Pinball|Beyond Pinball||,Pinball||||Dark Logic|1986
-52376A|Beyond Zork|Beyond Zork||,Adventure||||Infocom|1987
+52367A|Beneath The Pyramids|Beneath the Pyramids||Action,Adventure,RPG,|||Crystalware|Crystal|1980
+52370A|Berzap|Berzap|Berzap!|Action,Shooter,|||Infinity Limited|Infinity Limited|1984
+52372A|Beyond Beyond Castle Wolfenstein|Beyond Beyond Castle Wolfenstein||Action||||Mindscape|1984
+52373A|Beyond Castle Wolfenstein|Beyond Castle Wolfenstein|Beyond Beyond Castle Wolfenstein|Action,Shooter,,|1||Muse Software|Muse Software|1984
+52374A|Beyond Floppy|Beyond Floppy||Puzzle,||||Greg Hale - Ted Cohn|
+52375A|Beyond Pinball|Beyond Pinball||Pinball,||||Dark Logic|1986
+52376A|Beyond Zork|Beyond Zork||Adventure,||||Infocom|1987
 117241|Big Mac|Big Mac|Big Mac version IIe|Adventure,|1||Magnetic Scrolls|Apple|1982
 172099|Big Red Mania|Big Red Mania|||||||
 52384A|Bismarck|Bismarck||Strategy,Simulation,|||Personal Software Services|Datasoft, Inc.|1987
 52385A|Black Belt|Black Belt||Beat'em Up,Action,|||SEGA Enterprises Ltd.|SEGA of America, Inc.|1984
-52388A|Black Magic|Black Magic||Action|||Procovision|EAS Software|1987
+52388A|Black Magic|Black Magic||Action,Platformer,|||Procovision|EAS Software|1987
 172020|Blackjack Academy|Blackjack Academy||Simulation,|||Westwood Associates|MicroIllusions|1987
-117242|Blacksmith Market Falcons|Blacksmith Market Falcons||,Shooter||||Unknown|1981
+117242|Blacksmith Market Falcons|Blacksmith Market Falcons||Shooter,||||Unknown|1981
 184614|Blackstone|Blackstone|ZZZ-UNK-Blackstone||||||
 52393A|Blitzkrieg|Blitzkrieg||Shoot'em Up,|||Nival Interactive LLC|CDV Software Entertainment AG|1979
 172019|Block Out|Block Out|||||||
-52395A|Blood Quest|Blood Quest||Adventure,||||Questware|
+52395A|Blood Quest|Blood Quest||Adventure,|1|||Questware|
 172018|Blue Angels|Blue Angels|||||||
 172017|Blue Helmet|Blue Helmet|||||||
-52399A|Blue Powder Grey Smoke|Blue Powder Grey Smoke||,Strategy|||Garden|Garde|1987
-52401A|Bolo|Bolo||Action,Shooter||||Application Systems Heidelberg Software GmbH|1982
+52399A|Blue Powder Grey Smoke|Blue Powder Grey Smoke||Strategy,|||Garden|Garde|1987
+52401A|Bolo|Bolo||Action,Shooter,||||Application Systems Heidelberg Software GmbH|1982
 52402A|Bomb Alley|Bomb Alley||Strategy,Simulation,||||Strategic Simulations, Inc.|1982
-123550|Bongo's Bash|Bongo's Bash|Boulder Dash|Action,|1||Capitol Ideas Software|A+ Magazine|1984
+123550|Bongo's Bash|Bongo's Bash|Boulder Dash|Action,Puzzle,|1||Capitol Ideas Software|A+ Magazine|1984
 123546|Bons Baisers D'outre Tombe|Bons Baisers d'Outre Tombe||||||Herpin, Timothee - Gisselbrecht, Oliver|
-52403A|Bop'n Wrestle|Bop'n Wrestle||Sports,|||Beam Software Pty., Ltd.|Mindscape, Inc.|1986
+52403A|Bop'n Wrestle|Bop'n Wrestle||Sports,|2||Beam Software Pty., Ltd.|Mindscape, Inc.|1986
 52404A|Border Zone|Border Zone|Time Zone|Adventure,|1||Infocom, Inc.|Infocom, Inc.|1987
-52405A|Borg|Borg||Action|||Sirius Software, Inc.|Sirius Software, Inc.|1981
-52406A|Borrowed Time|Borrowed Time||Adventure,|||Interplay Productions, Inc.|Activision, Inc.|1985
+52405A|Borg|Borg||Action,Arcade,,|||Sirius Software, Inc.|Sirius Software, Inc.|1981
+52406A|Borrowed Time|Borrowed Time||Adventure,|1||Interplay Productions, Inc.|Activision, Inc.|1985
 52407A|Both Barrels|Both Barrels||Shoot'em Up,Action,|||Sirius Software, Inc.|Sirius Software, Inc.|1980
-52408A|Boulder Dash|Boulder Dash||Action,Arcade||||Micro Fun|1984
-52409A|Boulder Dash Construction Kit|Boulder Dash Construction Kit|Maze Craze Construction Set|Action,|||First Star Software, Inc.|Epyx, Inc.|1987
-52410A|Boulder Dash 2|Boulder Dash II||||||Micro Fun|
+52408A|Boulder Dash|Boulder Dash||Action,Puzzle,Puzzle,||||Micro Fun|1984
+52409A|Boulder Dash Construction Kit|Boulder Dash Construction Kit|Maze Craze Construction Set|Action,Puzzle,Puzzle,|||First Star Software, Inc.|Epyx, Inc.|1987
+52410A|Boulder Dash 2|Boulder Dash II||Arcade,||||Micro Fun|
 172016|Bouncin' Ferno|Bouncin' Ferno|||||||
 172015|Bouncing Bluster|Bouncing Bluster|||||||
 52413A|Box World|Box World||||||Tzvetkov, Ventzislav|2004
-52417A|Break The Bank!|Break the Bank!||,Cards||||Gentry Software|1983
-52418A|Breakout|Breakout||Action,Breakout|1||Supersonic Software Ltd.|Hasbro Interactive, Inc.|2000
+52417A|Break The Bank!|Break the Bank!||Cards,||||Gentry Software|1983
+52418A|Breakout|Breakout||Action,Arcade,,|1||Supersonic Software Ltd.|Hasbro Interactive, Inc.|2000
 52419A|Breakthrough In The Ardennes|Breakthrough in the Ardennes||Strategy,||||Strategic Simulations, Inc.|1984
-117243|Breaktrough|Breaktrough||,Breakout||||Unknown|
+117243|Breaktrough|Breaktrough||Breakout,||||Unknown|
 172014|Bridge 6.0 - Your Bid For Entertainment|Bridge 6.0 - Your Bid For Entertainment|||||||
 172098|Bridge Baron II|Bridge Baron II|||||||
-52421A|Bridge Challenger|Bridge Challenger||,Cards|||Georges Duisman|Duisman, Georges|1978
+52421A|Bridge Challenger|Bridge Challenger||Casino,|||Georges Duisman|Duisman, Georges|1978
 172097|Bridge v4.0|Bridge v4.0|||||||
 52423A|Brimstone - The Dream Of Gawain|Brimstone - The Dream of Gawain||||||Synapse Software|1985
 52424A|Broadsides|Broadsides||Strategy,Action,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1983
 52425A|Bronze Dragon|Bronze Dragon|||||Adam West|Commonwealth|1985
 52426A|Bronze Dragon Side 2 Twisted Spear|Bronze Dragon Side II Twisted Spear||||||Commonwealth|1986
 52427A|Bruce Lee|Bruce Lee||Beat'em Up,Action,|||Datasoft, Inc.|Datasoft, Inc.|1984
-52428A|Bubble Bobble|Bubble Bobble||Platform,Action,|||Taito Corporation|Taito Software Inc.|1988
-172013|Bubble Ghost|Bubble Ghost||Action,|||ERE Informatique|Infogrames Multimedia SA|1987
-52429A|Bubble-head|Bubble-head||,Compilation||||Tellus Systems|1983
+52428A|Bubble Bobble|Bubble Bobble||Platform,Action,|2||Taito Corporation|Taito Software Inc.|1988
+172013|Bubble Ghost|Bubble Ghost||Action,Puzzle,,|||ERE Informatique|Infogrames Multimedia SA|1987
+52429A|Bubble-head|Bubble-head||Puzzle,||||Tellus Systems|1983
 52430A|Buck Rogers - Planet Of Zoom|Buck Rogers - Planet of Zoom||Shooter,|||Sega Inc.|Sega|1984
-117244|Bucks!|Bucks!||,Strategy||||Jaeger, Bruce|1984
+117244|Bucks!|Bucks!||Strategy,||||Jaeger, Bruce|1984
 52432A|Bug Attack|Bug Attack||Shoot'em Up,Action,|||Cavalier Computer|Cavalier Computer|1981
-52434A|Bureaucracy|Bureaucracy||Adventure,|||Infocom, Inc.|Infocom, Inc.|1987
-172096|BurgerTime|BurgerTime||Action,Compilation|||Data East Corporation|Mattel Electronics|1983
-117245|Caddraw|Caddraw||,Drawing||||Kitchen Sink Software|1985
-117246|Calc-man|Calc-Man|Pacman|,Arcade||||Dan Tobias|1982
+52434A|Bureaucracy|Bureaucracy||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1987
+172096|BurgerTime|BurgerTime||Action,Platformer,|||Data East Corporation|Mattel Electronics|1983
+117245|Caddraw|Caddraw||Drawing,||||Kitchen Sink Software|1985
+117246|Calc-man|Calc-Man|Pacman|Arcade,||||Dan Tobias|1982
 52439A|California Games|California Games||Sports,|||Epyx, Inc.|Epyx, Inc.|1987
 52440A|California Raisins And The Cereal Factory|California Raisins and the Cereal Factory||||||Box Office Software|1988
 52442A|Cannonball Blitz|CannonBall Blitz|Cannon Ball Blitz|Platform,Action,|1||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1982
 172012|Captain Blood|Captain Blood||Adventure,|||ERE Informatique|Exxos|1988
-52444A|Captain Cuckoo|Captain Cuckoo||,Adventure||||Kurt And Yan Software|1984
-52445A|Captain Goodnight|Captain Goodnight||,Shooter||||Broderbund|1985
+52444A|Captain Cuckoo|Captain Cuckoo||Adventure,|1|||Kurt And Yan Software|1984
+52445A|Captain Goodnight|Captain Goodnight||Shooter,||||Broderbund|1985
 52446A|Captain Power|Captain Power||||||Box Office|1987
 52448A|Card Shark 2|Card Shark II||Traditional,||||Paul M. Zelman|1985
 52449A|Card Sharks|Card Sharks|Card Shark II|Various,|||Softie, Inc.|ShareData, Inc.|1988
-52451A|Carrier Force|Carrier Force||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1983
+52451A|Carrier Force|Carrier Force||Strategy,Simulation,|2||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1983
 52452A|Carriers At War|Carriers at War||Strategy,Simulation,|||SSG Strategic Studies Group Pty Ltd.|SSG Strategic Studies Group Pty Ltd.|1984
-52453A|Cartels And Cutthroats|Cartels & Cutthroats||,Other||||SSI|1981
-52454A|Castle Smurfenstein|Castle Smurfenstein||,Action||||Dead Smurf|1981
-52455A|Castle Wolfenstein|Castle Wolfenstein|Beyond Beyond Castle Wolfenstein|Action|1||Muse Software|Muse Software|1981
-52456A|Castles Of Darkness|Castles of Darkness||,Adventure||||Michael J. Cashen|1981
-150804|Cat's Meow v, The|Cat's Meow v, The||,Software||||Tempest|
-172011|Cavern Cobra|Cavern Cobra||Action,||||PBI Software, Inc.|1987
+52453A|Cartels And Cutthroats|Cartels & Cutthroats||Simulation,Educational,||||SSI|1981
+52454A|Castle Smurfenstein|Castle Smurfenstein||Action||||Dead Smurf|1981
+52455A|Castle Wolfenstein|Castle Wolfenstein|Beyond Beyond Castle Wolfenstein|Action,Shooter,,|1||Muse Software|Muse Software|1981
+52456A|Castles Of Darkness|Castles of Darkness||Adventure,|1|||Michael J. Cashen|1981
+150804|Cat's Meow v, The|Cat's Meow v, The||Software,||||Tempest|
+172011|Cavern Cobra|Cavern Cobra||Action,Arcade,Shooter,,||||PBI Software, Inc.|1987
 52458A|Cavern Creatures|Cavern Creatures||Shoot'em Up,|||Paul Lowrance|Datamost|1983
-52459A|Caverns Of Callisto|Caverns of Callisto||Action|||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1983
-172095|Centipede|Centipede|Pentapus|Action,|||Leaping Lizard Software, Inc.|Hasbro Interactive, Inc.|1998
-52466A|Champions Of Krynn|Champions of Krynn||Role playing games,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1990
+52459A|Caverns Of Callisto|Caverns of Callisto||Action,Shooter,|||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1983
+172095|Centipede|Centipede|Pentapus|Action,Shooter,|||Leaping Lizard Software, Inc.|Hasbro Interactive, Inc.|1998
+52466A|Champions Of Krynn|Champions of Krynn||Role playing games,|1||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1990
 52467A|Championship Baseball|Championship Baseball||Sports,|||Gamestar, Inc.|Activision, Inc.|1986
 52469A|Championship Gambler|Championship Gambler||Casino,Compilation,||||One-Step Software|1986
 52470A|Championship Golf|Championship Golf||Sports,||||D&H Games|1982
-52471A|Championship Lode Runner|Championship Lode Runner||Platform,Action,|||Brøderbund|Brøderbund Software, Inc.|1984
+52471A|Championship Lode Runner|Championship Lode Runner||Platform,Action,|1||Brøderbund|Brøderbund Software, Inc.|1984
 52472A|Championship Wrestling|Championship Wrestling||Sports,|||Epyx, Inc.|Epyx, Inc.|1986
 52477A|Chess 7.0|Chess 7.0||Casino,|||Odesta Corporation|Odesta|1982
-52481A|Chez 21|Chez 21||,Cards||||Microlon|1983
+52481A|Chez 21|Chez 21||Cards,||||Microlon|1983
 123552|Chinese Dragon|Chinese Dragon||||||Unknown|1985
-52483A|Chipwits|Chipwits||,Arcade|||Doug Sharp|Brainpower|1985
+52483A|Chipwits|Chipwits||Puzzle,Simulation,|||Doug Sharp|Brainpower|1985
 52484A|Chivalry|Chivalry||Role playing games,Action,|4||Optimum Resource, Inc.|Weekly Reader Family Software|1983
-52485A|Choplifter|Choplifter||Action,Compilation|||Dan Gorlin|Brøderbund Software, Inc.|1982
-52486A|Chrono Warrior|Chrono Warrior||Action,Arcade|8||The Pirate||1984
-52487A|Chuck Yeager's Advanced Flight Trainer|Chuck Yeager's Advanced Flight Trainer||,Flight simulator||||Electronic Arts|1987
-52488A|Class Struggle|Class Struggle||,Board game||||Avalon Hill|1985
+52485A|Choplifter|Choplifter||Action,Shooter,|1||Dan Gorlin|Brøderbund Software, Inc.|1982
+52486A|Chrono Warrior|Chrono Warrior||Action,Arcade,|8||The Pirate||1984
+52487A|Chuck Yeager's Advanced Flight Trainer|Chuck Yeager's Advanced Flight Trainer||Simulation,|1|||Electronic Arts|1987
+52488A|Class Struggle|Class Struggle||Board game,||||Avalon Hill|1985
 52491A|Close Assault|Close Assault||Strategy,Simulation,|||Microcomputer Games, Inc.|The Avalon Hill Game Company|1982
-172010|Club Backgammon|Club Backgammon|||||P.Z.Karen Co. Development Group|California Dreams|1988
+172010|Club Backgammon|Club Backgammon||Strategy,Board Game,,|||P.Z.Karen Co. Development Group|California Dreams|1988
 52492A|Club Casino|Club Casino||||||Keypunch Software|
 123554|Clue Master Detective|Clue Master Detective||Traditional,|||Casablanca Software Inc.|Leisure Genius|1989
-52494A|Cogito!|Cogito!||,Puzzle||||Michael Herbert|
+52494A|Cogito!|Cogito!||Puzzle,||||Michael Herbert|
 52496A|Colonial Conquest|Colonial Conquest||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1985
 52497A|Colorix|Colorix||Puzzle-Game,|||Mac Soft|Tzvetkov, Ventzislav|2004
 172008|Columns v2.0|Columns v2.0|||||||
-52500A|Commando|Commando||Shoot'em Up,Action,|||Capcom Co., Ltd.|Data East USA, Inc.|1987
-52501A|Competition Karate|Competition Karate||,Sports|||Motivated Software|Motivated Software|1984
+52500A|Commando|Commando||Shoot'em Up,Action,|1||Capcom Co., Ltd.|Data East USA, Inc.|1987
+52501A|Competition Karate|Competition Karate||Fighter,|||Motivated Software|Motivated Software|1984
 52503A|Computer Air Combat|Computer Air Combat||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1980
 52504A|Computer Ambush|Computer Ambush||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1982
 52505A|Computer Baseball|Computer Baseball||Sports,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1981
 52506A|Computer Bismarck|Computer Bismarck||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1980
-52507A|Computer Conflict|Computer Conflict||,Strategy|||Strategic Simulations Inc.|SSI|1980
-52511A|Computer Napoleonics|Computer Napoleonics||,Strategy|||Strategic Simulations Inc.|SSI|1980
+52507A|Computer Conflict|Computer Conflict||Strategy,|||Strategic Simulations Inc.|SSI|1980
+52511A|Computer Napoleonics|Computer Napoleonics||Strategy,|||Strategic Simulations Inc.|SSI|1980
 52512A|Computer Quarterback|Computer Quarterback||Sports,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1981
 52514A|Conan|Conan|Battle of Hoth|Platform,Action,|||Cauldron Ltd.|TDK Recording Media Europe S.A.|1984
 52515A|Conflict 2500|Conflict 2500||Strategy,Simulation,|||Microcomputer Games, Inc.|The Avalon Hill Game Company|1981
-52516A|Conflict In Vietnam|Conflict in Vietnam||Strategy,Simulation,|||MicroProse Software, Inc.|MicroProse Software, Inc.|1986
+52516A|Conflict In Vietnam|Conflict in Vietnam||Strategy,Simulation,|1||MicroProse Software, Inc.|MicroProse Software, Inc.|1986
 52517A|Conglomerates Collide|Conglomerates Collide||Strategy,|||Rockroy Inc.|Rockroy Inc.|1981
 52519A|Congo Bongo|Congo Bongo||Platform,Action,|||SEGA Enterprises Ltd.|SEGA Enterprises, Inc.|1983
-52521A|Conquering Worlds|Conquering Worlds||,Strategy|||Datamost, Inc.|Datamost|1983
-150803|Conquest|Conquest|Andromeda Conquest|Action,Strategy|||Windmill Software|Windmill Software|1983
-52522A|Copts And Robbers|Copts and Robbers|Copt And Robbers|,Compilation|||Sirius Software|Sirius Software|1981
+52521A|Conquering Worlds|Conquering Worlds||Strategy,|||Datamost, Inc.|Datamost|1983
+150803|Conquest|Conquest|Andromeda Conquest|Action,Strategy,|||Windmill Software|Windmill Software|1983
+52522A|Copts And Robbers|Copts and Robbers|Copt And Robbers|Compilation,|||Sirius Software|Sirius Software|1981
 172007|Cosmocade - The Arcade of Tomorrow|Cosmocade - The Arcade of Tomorrow|||||||
 52528A|Countdown To Shutdown|Countdown to Shutdown||Adventure,Action,|||Thorn EMI Computer Software|Creative Sparks|1985
-52529A|County Carnival|County Carnival||,Gun shooter|||Datamost, Inc.|Illowsky, Dan|1981
+52529A|County Carnival|County Carnival||Gun shooter,|||Datamost, Inc.|Illowsky, Dan|1981
 52530A|Court Circuit|Court Circuit||||||LoGo|1990
 52532A|Crack Of Doom|Crack of Doom||Adventure,|||Beam Software Pty., Ltd.|Addison-Wesley Publishing Company, Inc.|1989
 52533A|Cranston Manor|Cranston Manor||Adventure,|1||Sierra On-Line, Inc.|Sierra|1981
-52536A|Crazy Mazey|Crazy Mazey|Crazy Maczy|,Arcade|||Datamost, Inc.|Datamost|1982
-52539A|Creature Venture|Creature Venture||,Adventure|||Butch Greathouse|Highland Computer Services|1981
-52541A|Cricketeer|Cricketeer||Action,Arcade|||The Software Farm, Inc|The Software Farm, Inc.|1982
+52536A|Crazy Mazey|Crazy Mazey|Crazy Maczy|Action,Arcade,,|||Datamost, Inc.|Datamost|1982
+52539A|Creature Venture|Creature Venture||Adventure,|1||Butch Greathouse|Highland Computer Services|1981
+52541A|Cricketeer|Cricketeer||Action,Arcade,|||The Software Farm, Inc|The Software Farm, Inc.|1982
 52542A|Crime And Punishment|Crime And Punishment||Various,Simulation,||||Imagic|1984
-52543A|Crime Stopper|Crime Stopper||,Adventure||||Imaginative Systems|1982
-117248|Crisis|Crisis|Crisis Mountain|,Arcade||||Med Ed|1984
+52543A|Crime Stopper|Crime Stopper||Adventure,|1|||Imaginative Systems|1982
+117248|Crisis|Crisis|Crisis Mountain|Software,||||Med Ed|1984
 52547A|Crisis Mountain|Crisis Mountain||Platform,Action,|||Synergistic Software|Synergistic Software, Inc.|1982
-52548A|Critical Mass|Critical Mass||,Adventure|||Sirius Software|Sirius Software|1983
-52550A|Cross City|Cross City||,Arcade||||Computing Age|1986
-172094|Crossbow|Crossbow|Crossword|Action,Puzzle|||Exidy, Inc.|Absolute Entertainment, Inc.|1988
+52548A|Critical Mass|Critical Mass||Adventure,|1||Sirius Software|Sirius Software|1983
+52550A|Cross City|Cross City||Arcade,||||Computing Age|1986
+172094|Crossbow|Crossbow|Crossword|Action,Shooter,|||Exidy, Inc.|Absolute Entertainment, Inc.|1988
 52554A|Crosscountry Canada|Crosscountry Canada||Adventure,Educational,|||Didatech Software Ltd.|Didatech Software Ltd.|1986
 52555A|Crosscountry Usa|Crosscountry USA||Adventure,Educational,|||Didatech Software Ltd.|Didatech Software Ltd.|1985
 52556A|Crossfire|Crossfire||Shoot'em Up,Action,|||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1981
-52557A|Crossword|Crossword||,Puzzle||||Softape|1980
-52558A|Crossword Magic|Crossword Magic||,Puzzle|||L &amp; S Computerware|Mindscape|1980
-172093|Crumb Eater|Crumb Eater|||||||
-52562A|Crusade In Europe|Crusade in Europe||Strategy,|||MicroProse Software, Inc.|MicroProse Software, Inc.|1985
+52557A|Crossword|Crossword||Quiz,||||Softape|1980
+52558A|Crossword Magic|Crossword Magic||Puzzle,Quiz,|||L &amp; S Computerware|Mindscape|1980
+172093|Crumb Eater|Crumb Eater||Educational,||||Davka Corporation|1983
+52562A|Crusade In Europe|Crusade in Europe||Strategy,|1||MicroProse Software, Inc.|MicroProse Software, Inc.|1985
 52563A|Crush - Crumble And Chomp!|Crush - Crumble And Chomp!||Strategy,|1||Automated Simulations|Epyx|1981
 172006|Cryllan Mission 2088|Cryllan Mission 2088|||||||
 172005|Cryllan Mission 2088 - The Second Scenario, The|Cryllan Mission 2088 - The Second Scenario, The|||||||
@@ -273,71 +273,71 @@
 52565A|Crypt Of Medea|Crypt of Medea||Adventure,|1||Sir-tech Software, Inc.|Sir-tech Software, Inc.|1983
 172004|Crystal Quest|Crystal Quest||Adventure,||||Pocket Money Software|1985
 52569A|Cubic Tictactoe|Cubic TicTacToe||||||Silver Bullet Systems|1985
-172092|Cubit|Cubit|Crypt|Puzzle-Game,|||Inkling Games|Inkling Games|
+172092|Cubit|Cubit|Crypt|Puzzle-Game,|||Inkling Games|Inkling Games|1983
 52572A|Curse Of The Azure Bonds|Curse of the Azure Bonds||Role playing games,|1||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1989
-52573A|Cutthroats|Cutthroats|Cartels & Cutthroats|Adventure,|||Infocom, Inc.|Infocom, Inc.|1984
+52573A|Cutthroats|Cutthroats|Cartels & Cutthroats|Adventure,|1||Infocom, Inc.|Infocom, Inc.|1984
 52575A|Cyberchess|CyberChess||Board game,|||Gamer's Edge|Softdisk Publishing|1992
-52577A|Cyborg!|Cyborg!||Adventure,|||Sentient Software|Sentient Software|1981
+52577A|Cyborg!|Cyborg!||Adventure,|1||Sentient Software|Sentient Software|1981
 52580A|Cytron Masters|Cytron Masters||Strategy,Action,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1982
-117249|Daily Crossword Puzzles From The New-york Times|Daily Crossword Puzzles From the New-York Times||,Puzzle||||Evolving Tecnology Company|1984
+117249|Daily Crossword Puzzles From The New-york Times|Daily Crossword Puzzles From the New-York Times||Board game,||||Evolving Tecnology Company|1984
 52584A|Dangerous Dave|Dangerous Dave||||||Romero, John|1988
-172003|Dark Castle|Dark Castle||Action,|||Silicon Beach Software, Inc.|Silicon Beach Software, Inc.|1986
+172003|Dark Castle|Dark Castle||Action,Platform,,|||Silicon Beach Software, Inc.|Silicon Beach Software, Inc.|1986
 52586A|Dark Forest|Dark Forest||Strategy,|||Sirius Software|Sirius Software, Inc.|1981
 52588A|Dark Horn|Dark Horn||Strategy,||||Avalon Hill|1986
-52589A|Dark Lord|Dark Lord||Adventure,|||Datasoft|Datasoft, Inc.|1987
+52589A|Dark Lord|Dark Lord||Adventure,|1||Datasoft|Datasoft, Inc.|1987
 52592A|Dawn Patrol|Dawn Patrol||Simulation,|||Rowan Software Ltd.|Empire Interactive Entertainment|1980
-52594A|Deadline|Deadline|Dead Line|Adventure,|||Infocom, Inc.|Infocom, Inc.|1982
-52596A|Death In The Caribbean|Death in the Caribbean||Adventure,|||Micro Fun|Micro Fun|1983
-52597A|Death Race '82|Death Race '82||,Racing|||Avant-Garde Creations|Avant-Garde|1982
+52594A|Deadline|Deadline|Dead Line|Adventure,|1||Infocom, Inc.|Infocom, Inc.|1982
+52596A|Death In The Caribbean|Death in the Caribbean||Adventure,|1||Micro Fun|Micro Fun|1983
+52597A|Death Race '82|Death Race '82||Racing,|||Avant-Garde Creations|Avant-Garde|1982
 52598A|Death Sword|Death Sword||Beat'em Up,Action,|||Palace Software, Ltd.|Epyx, Inc.|1988
 52600A|Deathlord|Deathlord||Role playing games,|||Electronic Arts|Electronic Arts, Inc.|1987
 172091|Deathsword|Deathsword|Death Sword|,Fighting|||||
-52602A|Decision In The Desert|Decision in the Desert||Strategy,|||MicroProse Software, Inc.|MicroProse Software, Inc.|1985
-52606A|Deep Space - Operation Copernicus|Deep Space - Operation Copernicus||Simulation,|||Sir-tech Software|Sir-Tech Software|1986
+52602A|Decision In The Desert|Decision in the Desert||Strategy,|1||MicroProse Software, Inc.|MicroProse Software, Inc.|1985
+52606A|Deep Space - Operation Copernicus|Deep Space - Operation Copernicus||Simulation,|1||Sir-tech Software|Sir-Tech Software|1986
 52608A|Defender|Defender||Shoot'em Up,Action,|||Williams Electronics, Inc.|Atarisoft|1983
-172002|Defender of The Crown|Defender of The Crown|||||Master Designer Software, Inc.|Cinemaware Corporation|1986
+172002|Defender of The Crown|Defender of The Crown||Strategy,,|||Master Designer Software, Inc.|Cinemaware Corporation|1986
 172001|Defender of the World|Defender of the World|||||||
 172000|Deja Vu|Deja Vu|||||||
 171999|Deja Vu II|Deja Vu II|||||||
-117250|Dell Crossword Puzzles|Dell Crossword Puzzles||,Puzzle||||Evolving Technology Company|1984
-52609A|Delta Squadron|Delta Squadron||,Arcade||||Nexa|
-52611A|Demon's Winter|Demon's Winter||Role playing games,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1988
+117250|Dell Crossword Puzzles|Dell Crossword Puzzles||Board game,||||Evolving Technology Company|1984
+52609A|Delta Squadron|Delta Squadron||Arcade,||||Nexa|
+52611A|Demon's Winter|Demon's Winter||Role playing games,|1||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1988
 52613A|Depth Charge|Depth Charge||Shoot'em Up,Action,||||Commodore Business Machines (UK) Ltd.|1983
-52614A|Derby|Derby||,Bets||||Bit Action|
-52618A|Destiny|Destiny|Bard's Tale II - The Destiny Knight, The|Adventure,|||Dagger Interactive Technologies, Ltd.|Interactive Magic, Inc.|1985
+52614A|Derby|Derby||Sports,||||Bit Action|
+52618A|Destiny|Destiny|Bard's Tale II - The Destiny Knight, The|Adventure,|1||Dagger Interactive Technologies, Ltd.|Interactive Magic, Inc.|1985
 52619A|Destroyer|Destroyer||Strategy,Simulation,|||Epyx, Inc.|Epyx, Inc.|1986
 123567|Die Hoehlen Von Olymp|Die Hoehlen von Olymp||||||Noone, Thomas - Noone, Patrick|
 52622A|Dig 'em|Dig 'Em||Shooter,|1||Capitol Ideas Software|High Powered Games|1982
-52623A|Dig Dug|Dig Dug||Action,Arcade|||Namco Limited|Atarisoft|1984
-52625A|Dino Eggs|Dino Eggs||Action,Arcade|1||Dave Schroeder|Micro Fun|1983
-117251|Dino Smurf|Dino Smurf||,Arcade||||Dead Smurf|
-52626A|Dinosaur Dig|Dinosaur Dig||,Educational||||CBS Software|
+52623A|Dig Dug|Dig Dug||Action,Puzzle,|||Namco Limited|Atarisoft|1984
+52625A|Dino Eggs|Dino Eggs||Action,Platformer,|1||Dave Schroeder|Micro Fun|1983
+117251|Dino Smurf|Dino Smurf||Arcade,||||Dead Smurf|
+52626A|Dinosaur Dig|Dinosaur Dig||Educational,|1|||CBS Software|2019
 123555|Dinosaurs|Dinosaurs||||||Cross, Mark|1981
 123556|Dirty Harry Adventures|Dirty Harry Adventures|||||||1985
-52627A|Dive Bomber|Dive Bomber||Simulation,Action,|||Acme Animation Inc.|U.S. Gold Ltd.|1988
+52627A|Dive Bomber|Dive Bomber||Simulation,Action,|1||Acme Animation Inc.|U.S. Gold Ltd.|1988
 52628A|Dnieper River Line|Dnieper River Line||Strategy,|||Microcomputer Games, Inc.|The Avalon Hill Game Company|1982
 52631A|Dominos|Dominos||Board game,Action,||||Brontosoft|1980
 52632A|Donald Duck's Playground|Donald Duck's Playground||Educational,|||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1986
-52634A|Donkey Kong|Donkey Kong||Platform,Action,|||Nintendo Co., Ltd.|Atarisoft|1983
-171998|Downhill Challenge|Downhill Challenge||Action,|||Microïds|Loriciels|1987
+52634A|Donkey Kong|Donkey Kong||Platform,Action,|1||Nintendo Co., Ltd.|Atarisoft|1983
+171998|Downhill Challenge|Downhill Challenge||Action,Sports,,|||Microïds|Loriciels|1987
 52639A|Dragon Blaster|Dragon Blaster||||||General Masters|1983
 172090|Dragon Fire|Dragon Fire|Dragon Wars|Role-Playing,||||Level-10|1981
 52641A|Dragon Wars|Dragon Wars||Role playing games,|||Interplay Productions, Inc.|Interplay Productions, Inc.|1989
 172089|Dragon's Keep|Dragon's Keep|Dragon Wars|Adventure,|||SunnySide Soft|SunnySide Soft|1982
-52644A|Dragonfire|Dragonfire||Action,Compilation|||Imagic|Imagic|1984
+52644A|Dragonfire|Dragonfire||Action,Arcade,,|||Imagic|Imagic|1984
 123557|Dragons of Hong Kong, The|The Dragons of Hong Kong||||||Adventure International|1981
-52645A|Dragonworld|Dragonworld||Adventure,|||Byron Preiss Video Productions, Inc.|Trillium Corp.|1984
+52645A|Dragonworld|Dragonworld||Adventure,|1||Byron Preiss Video Productions, Inc.|Trillium Corp.|1984
 52647A|Dreadnoughts|Dreadnoughts||Strategy,Simulation,|||The Avalon Hill Game Company|The Avalon Hill Game Company|1984
 123558|Dream Traveler Part 1 - The Legend Of Singeom|Dream Traveler Part 1 - The Legend Of Singeom|||||||1987
 171997|Dream Zone|Dream Zone||Adventure,|||JAM software|Baudville|1988
-52649A|Drol|Drol||Action,Arcade|1||Benny Aik Beng Ngo|Brøderbund Software, Inc.|1983
+52649A|Drol|Drol||Action,Arcade,|1||Benny Aik Beng Ngo|Brøderbund Software, Inc.|1983
 171996|Dueltris|Dueltris|||||||
-52651A|Dung Beetles|Dung Beetles||Action,Arcade||||Datasoft, Inc.|1982
-52652A|Dungeon Campaign - Wilderness Campaign|Dungeon Campaign - Wilderness Campaign||,Adventure||||Synergistic Software|1980
-171995|Dungeon Master|Dungeon Master|Dungeon Master Assistant Vol. I - Encounters|,Software|||FTL Games|FTL Games|1987
-52653A|Dungeon Master Assistant Vol. I - Encounters|Dungeon Master Assistant Vol. I - Encounters||,Software||||SSI|1988
-52655A|Dungeon!|Dungeon!||,Adventure||||TSR|1980
-52662A|E.t. Comes Back|E.T. Comes Back||,Adventure||||Alliance Software|1984
+52651A|Dung Beetles|Dung Beetles||Action,Arcade,||||Datasoft, Inc.|1982
+52652A|Dungeon Campaign - Wilderness Campaign|Dungeon Campaign - Wilderness Campaign||Adventure,||||Synergistic Software|1980
+171995|Dungeon Master|Dungeon Master|Dungeon Master Assistant Vol. I - Encounters|RPG,,|||FTL Games|FTL Games|1987
+52653A|Dungeon Master Assistant Vol. I - Encounters|Dungeon Master Assistant Vol. I - Encounters||Software,||||SSI|1988
+52655A|Dungeon!|Dungeon!||Strategy,Board game,||||TSR|1980
+52662A|E.t. Comes Back|E.T. Comes Back||Adventure,||||Alliance Software|1984
 52663A|Eagles|Eagles||Strategy,Simulation,||||Strategic Simulations, Inc.|1983
 52664A|Eamon 001 - Main Hall And Beginners Cave|Eamon 001 - Main Hall & Beginners Cave||||||Donald Brown|1990
 52665A|Eamon 002 - The Lair Of The Minotaur|Eamon 002 - The Lair of the Minotaur||||||Donald Brown|1984
@@ -583,296 +583,296 @@
 117253|Eamon Adventure System Adventure Designer|Eamon Adventure System Adventure Designer||,Adventure||||Unknown|
 123559|Eamon Game Reviews|Eamon Game Reviews||||||Unknown|
 52921A|Earl Weaver Baseball|Earl Weaver Baseball||Sports,|||Mirage Graphics, Inc.|Electronic Arts, Inc.|1989
-172088|Early Bird|Early Bird|||||||
+172088|Early Bird|Early Bird||Platformer,||||Border Software|1983
 52922A|Earth Orbit Station|Earth Orbit Station||Strategy,||||Electronic Arts|1983
-52923A|Earthly Delights|Earthly Delights||Adventure,||||Datamost, Inc.|1984
-123560|Earthquake San Francisco 1906|Earthquake San Francisco 1906||Adventure,|||Adventure International|Adventure International|1982
+52923A|Earthly Delights|Earthly Delights||Adventure,|1|||Datamost, Inc.|1984
+123560|Earthquake San Francisco 1906|Earthquake San Francisco 1906||Adventure,|1||Adventure International|Adventure International|1982
 52924A|Echelon|Echelon||Simulation,Action,|||Madia Entertainment|Bethesda Softworks LLC|1988
-52929A|Electroarena|Electroarena||,Action||||High Society|1984
+52929A|Electroarena|Electroarena||Shooter,||||High Society|1984
 52930A|Elfhelm's Bane|Elfhelm's Bane||||||Green Valley Publishing|1986
 52931A|Eliminator|Eliminator||Shoot'em Up,Action,|||Magenta Software Ltd.|Psygnosis Limited|1981
-52932A|Elite|Elite||Simulation,Action,||||Firebird Licensees Inc.|1986
+52932A|Elite|Elite||Simulation,Action,|1|||Firebird Licensees Inc.|1986
 52934A|Empire - Wargame Of The Century|Empire - Wargame of the Century||Strategy,|||Northwest Software|Interstel|1987
 52935A|Empire I World Builders|Empire I World Builders||Educational,|||Edu-Ware Services, Inc.|Edu-Ware Services, Inc.|1981
 52936A|Empire Of The Over-mind|Empire of the Over-mind||Adventure,|||Microcomputer Games, Inc.|The Avalon Hill Game Company|1981
-52937A|Enchanter|Enchanter||Adventure,|||Infocom, Inc.|Infocom, Inc.|1983
+52937A|Enchanter|Enchanter||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1983
 52938A|Epidemic|Epidemic||Strategy,Action,|||Genki Co., Ltd.|Sony Computer Entertainment of America|1983
-117254|Epidemie|Epidemie||,Adventure||||Froggy Software|1984
-172087|Epoch|Epoch|Geos|Action,Arcade|||Sirius Software, Inc.|Sirius Software, Inc.|1981
+117254|Epidemie|Epidemie||Adventure,||||Froggy Software|1984
+172087|Epoch|Epoch|Geos|Action,Arcade,Shooter,,|||Sirius Software, Inc.|Sirius Software, Inc.|1981
 52941A|Escape|Escape|ZZZ-UNK-Adventure Construction Set - Escape From Reality|Adventure,|1|||Bantam|1984
-52942A|Escape From Arcturus|Escape From Arcturus||,Shooter|||Synergistic Software|Synergistic Software|1981
-52943A|Escape From Rungistan|Escape From Rungistan||Adventure,Action,|||Sirius Software, Inc.|Sirius Software, Inc.|1982
+52942A|Escape From Arcturus|Escape From Arcturus||Action,Arcade,,|||Synergistic Software|Synergistic Software|1981
+52943A|Escape From Rungistan|Escape From Rungistan||Adventure,Action,|1||Sirius Software, Inc.|Sirius Software, Inc.|1982
 52946A|Eternal Dagger|Eternal Dagger||Role playing games,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1987
 52947A|Europe Ablaze|Europe Ablaze||Strategy,Simulation,|||SSG Strategic Studies Group Pty Ltd.|SSG Strategic Studies Group Pty Ltd.|1985
-52948A|Evolution|Evolution||Action,Arcade|||Sydney Development Corp.|Sydney Development Corp.|1982
+52948A|Evolution|Evolution||Action,Arcade,|||Sydney Development Corp.|Sydney Development Corp.|1982
 123562|Excalibur Quest|Excalibur Quest||||||Excalibur|
 52949A|Expedition Amazon|Expedition Amazon||Adventure,|||Penguin Software, Inc.|Penguin Software, Inc.|1984
-52950A|F-15 Strike Eagle|F-15 Strike Eagle||Simulation,|||MicroProse Software, Inc.|MicroProse Software, Inc.|1985
-52951A|Factactics|Factactics||,Quiz||||Daystar|1984
+52950A|F-15 Strike Eagle|F-15 Strike Eagle||Simulation,|1||MicroProse Software, Inc.|MicroProse Software, Inc.|1985
+52951A|Factactics|Factactics||Quiz,||||Daystar|1984
 117256|Fahrenheit 451|Fahrenheit 451|Farenheit 451|Adventure,|||Byron Preiss Video Productions, Inc.|Trillium Corp.|1984
-172086|Falcons|Falcons|Blacksmith Market Falcons|Action,Compilation|||Piccadilly Software Inc.|Piccadilly Software Inc.|1981
-52956A|Fall Gelb|Fall Gelb||,Strategy||||Simulations Canada|1983
+172086|Falcons|Falcons|Blacksmith Market Falcons|Action,Shooter,|||Piccadilly Software Inc.|Piccadilly Software Inc.|1981
+52956A|Fall Gelb|Fall Gelb||Strategy,||||Simulations Canada|1983
 117255|Fantastic Four, The|The Fantastic Four||Adventure,|||Adventure International|Green Valley|1985
-171994|Fast Break|Fast Break|||||Accolade, Inc.|Accolade, Inc.|1988
+171994|Fast Break|Fast Break||Sports,Basketball,,|||Accolade, Inc.|Accolade, Inc.|1988
 52961A|Fastgammon|Fastgammon||Board game,|||Quality Software|Quality Software|1979
-52962A|Fat City|Fat City||Action,Arcade|||Optimum Resource, Inc.|Weekly Reader Family Software|1983
-117257|Fathoms Forty|Fathoms Forty||,Action||||TNA Enterprises|
+52962A|Fat City|Fat City||Action,Arcade,|||Optimum Resource, Inc.|Weekly Reader Family Software|1983
+117257|Fathoms Forty|Fathoms Forty||Action||||TNA Enterprises|1982
 52963A|Fax|Fax||Casual Game,|||Exidy, Inc.|Epyx, Inc.|1983
-52965A|Fellowship Of The Rings|Fellowship of the Rings||Adventure,|||Beam Software|Beam|1986
+52965A|Fellowship Of The Rings|Fellowship of the Rings||Adventure,|1||Beam Software|Beam|1986
 171993|Fidelity - Chessmaster 2100, The|Fidelity - Chessmaster 2100, The|||||||
-52967A|Fido|Fido||,Shooter||||Montelo, Pat|1982
-52968A|Field Of Fire|Field of Fire||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1984
+52967A|Fido|Fido||Shooter,||||Montelo, Pat|1982
+52968A|Field Of Fire|Field of Fire||Strategy,Simulation,|1||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1984
 52969A|Fight Night|Fight Night||Sports,Action,|||Sydney Development Corp.|Accolade, Inc.|1985
-52970A|Fighter Command|Fighter Command||,Strategy||||SSI|1983
+52970A|Fighter Command|Fighter Command||Strategy,||||SSI|1983
 171992|Final Assault|Final Assault||Simulation,|||Infogrames Europe SA|Infogrames Europe SA|1987
 172085|Final Conflict, The|Final Conflict, The|||||||
 52976A|Fireground|Fireground||||||General Masters Corp|
 171991|Firepower|Firepower|||||Shockwave Productions Inc.|Shockwave Productions Inc.|
-52977A|Fishies|Fishies||,Other||||Cognetics|1984
-52978A|Flak|Flak||Action,Shooter|||Funsoft|Funsoft|1984
+52977A|Fishies|Fishies||Other,||||Cognetics|1984
+52978A|Flak|Flak||Action,Shooter,|||Funsoft|Funsoft|1984
 117258|Flight Simulator 1|Flight Simulator 1||Shooter,|||subLOGIC|SubLogic|1983
 52980A|Flight Simulator 2|Flight Simulator II|Flight Simulator 1|Shooter,|1||subLOGIC|SubLogic|1983
 52981A|Flip Out|Flip Out||Puzzle,|||Sirius Software|Sirius Software|1982
-52983A|Floppy|Floppy|Beyond Floppy|,Arcade||||Greg Hale - Ted Cohn|
-52985A|Fly Wars|Fly Wars||||||Sirius|
+52983A|Floppy|Floppy|Beyond Floppy|Arcade,||||Greg Hale - Ted Cohn|
+52985A|Fly Wars|Fly Wars||||||Sirius|1981
 123563|Folie Meurtriere Au College|Folie Meurtriere au College||||||Unknown|1986
 52986A|Fooblitzky|Fooblitzky||Board game,|||Infocom, Inc.|Infocom, Inc.|1985
 172084|FOR Your NEXT Adventure|FOR Your NEXT Adventure|||||||
-52989A|Force Seven|Force Seven||,Action||||Datasoft|1987
-52990A|Fore! The Golf Game Simulation|Fore! the Golf Game Simulation||,Golf||||Green Valley Publishing|1985
-172083|Formula 1 Racer|Formula 1 Racer|||||||
+52989A|Force Seven|Force Seven||Puzzle,Shooter,||||Datasoft|1987
+52990A|Fore! The Golf Game Simulation|Fore! the Golf Game Simulation||Golf,||||Green Valley Publishing|1985
+172083|Formula 1 Racer|Formula 1 Racer||Racing,Sports,||||Genry Software|1983
 52993A|Fortress|Fortress|Alcazar the Forgotten Fortress|Strategy,|||F1 Licenceware|F1 Licenceware|1983
 52994A|Fortress Of The Witch King|Fortress of the Witch King||Strategy,||||The Avalon Hill Game Company|1983
 52996A|Fracas|Fracas||Role playing games,|||Computersmiths|Computersmiths|1980
-52999A|Fraktured Faebles|Fraktured Faebles||,Adventure||||American Eagle Software|1985
-53003A|Frogger|Frogger||Action,Arcade|||Konami Industry Co. Ltd.|Sierra On-Line, Inc.|1983
-53004A|Frogger 2 - Three Deep|Frogger II - Three Deep||Action,||||Sega|1984
+52999A|Fraktured Faebles|Fraktured Faebles||Adventure,|1|||American Eagle Software|1985
+53003A|Frogger|Frogger||Action,Arcade,|1||Konami Industry Co. Ltd.|Sierra On-Line, Inc.|1983
+53004A|Frogger 2 - Three Deep|Frogger II - Three Deep||Action,Arcade,||||Sega|1984
 171990|Full Metal Planete|Full Metal Planete||Traditional,|||Ludodelire|Infogrames, Inc.|1989
-53005A|Fun House Maze|Fun House Maze||,Adventure||||Sunburst|1984
+53005A|Fun House Maze|Fun House Maze||Puzzle,||||Sunburst|1984
 171989|Future Shock 3D|Future Shock 3D|||||||
 53007A|G.i. Joe|G.I. Joe||||||Epyx|1985
 53009A|Galactic Adventures|Galactic Adventures||Role playing games,|||Strategic Simulations Inc.|Strategic Simulations, Inc.|1982
 53010A|Galactic Attack|Galactic Attack||Strategy,Action,|||Cascade Games, Ltd.|Cascade Games, Ltd.|1980
 53011A|Galactic Empire|Galactic Empire||Strategy,Action,|||Coktel Vision|Tomahawk|1980
-53014A|Galactic Gladiator|Galactic Gladiator||Strategy,||||SSI|
+53014A|Galactic Gladiator|Galactic Gladiator||Strategy,||||SSI|1983
 53016A|Galactic Revolution|Galactic Revolution||Strategy,||||Brøderbund Software, Inc.|1980
 53017A|Galactic Trader|Galactic Trader||Strategy,||||Brøderbund Software, Inc.|1980
 53018A|Galaxian|Galaxian||Shoot'em Up,Action,|||Namco Limited|Atarisoft|1980
-53019A|Galaxy Gates|Galaxy Gates||,Shooter||||Magna Soft|
+53019A|Galaxy Gates|Galaxy Gates||Shooter,||||Magna Soft|1982
 53022A|Galaxy!|Galaxy!||Strategy,|4||Microcomputer Games, Inc.|Avalon Hill|1981
 53024A|Game Of The States|Game of the States||||||Milton Bradley|1984
 172082|Game, The|Game, The|World's Greatest Baseball Game, The|,Baseball|||||
 171988|Gate, The|Gate, The|Jet, The|,Flight simulator|||||
 53035A|Gato|Gato|ATC|Simulation,|1||Spectrum Holobyte, Inc.|Spectrum Holobyte, Inc.|1985
-53036A|Gauntlet|Gauntlet|Eamon 031 - The Gauntlet|Action|||Atari Games Corporation|Mindscape, Inc.|1986
+53036A|Gauntlet|Gauntlet|Eamon 031 - The Gauntlet|Action,Puzzle,Shooter,|||Atari Games Corporation|Mindscape, Inc.|1986
 171987|GBA Championship Basketball - Two-On-Two|GBA Championship Basketball - Two-On-Two|||||||
-53039A|Gelfling Adventure|Gelfling Adventure||Adventure,|||Sierra On-Line|Sierra|1984
+53039A|Gelfling Adventure|Gelfling Adventure||Adventure,|1||Sierra On-Line|Sierra|1984
 53040A|Gemstone Healer|Gemstone Healer||Strategy,Action,|||Paradigm Creators, Inc.|Strategic Simulations, Inc.|1986
 53041A|Gemstone Warrior|Gemstone Warrior||Strategy,Action,|||Paradigm Creators, Inc.|Strategic Simulations, Inc.|1984
 172081|Gene Machine v2.0|Gene Machine v2.0|||||||
 53045A|Geopolitique 1990|Geopolitique 1990||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1983
-53046A|Germ Lab|Germ Lab||,Adventure||||Shem the Penman|1986
-53047A|Germany 1985|Germany 1985||Strategy,|||Roger Keating|Strategic Simulations, Inc.|1982
+53046A|Germ Lab|Germ Lab||Adventure,|1|||Shem the Penman|1986
+53047A|Germany 1985|Germany 1985||Strategy,|1||Roger Keating|Strategic Simulations, Inc.|1982
 53049A|Gettysburg - The Turning Point|Gettysburg - The Turning Point|Gettysburg - The Turning Poing|Strategy,||||SSI|1986
 53050A|Gfl Championship Football|GFL Championship Football||Sports,Action,|||Gamestar, Inc.|Activision, Inc.|1986
-53052A|Ghost Town Gold|Ghost Town Gold||,Adventure||||B.J. Software|1984
-53053A|Ghostbusters|Ghostbusters||Action|||Activision, Inc.|Activision, Inc.|1984
-53054A|Giant World|Giant World||||||Gessler Educational Software|
-172080|Gin Rummy|Gin Rummy||,Compilation|||Sierra Online - Shanghai|Sierra Online|
-53056A|Glidepath|Glidepath||,Flight simulator||||HRM|1985
+53052A|Ghost Town Gold|Ghost Town Gold||Adventure,|1|||B.J. Software|1984
+53053A|Ghostbusters|Ghostbusters||Action,Platform,Shooter,,|||Activision, Inc.|Activision, Inc.|1984
+53054A|Giant World|Giant World||Adventure,||||Gessler Educational Software|1984
+172080|Gin Rummy|Gin Rummy||Casino,|||Sierra Online - Shanghai|Sierra Online|1982
+53056A|Glidepath|Glidepath||Simulation,||||HRM|1985
 53057A|Global Thermonuclear War|Global Thermonuclear War||Strategy,||||PC-SIG|1985
 53058A|Global War|Global War||Strategy,|||Muse Software|Muse Software|1979
-171986|Gnarly Golf|Gnarly Golf|||||Visual Concepts, Ltd.|Fanfare|1989
-117259|Go|Go|Goldfinger|,Compilation|||Capitol Disc Interactive Corporation|Philips Interactive Media International Ltd.|1982
-53064A|Gobbler|Gobbler||Action,|||On-Line Systems|On-Line Systems|1981
-53065A|Goblins|Goblins|Gorgon|,Compilation||||Antonson Labs|1981
-53066A|Golan Front|Golan Front||,Strategy||||Simulations Canada|1985
+171986|Gnarly Golf|Gnarly Golf||Sports,Golf,,|||Visual Concepts, Ltd.|Fanfare|1989
+117259|Go|Go|Goldfinger|Strategy,Board Game,,|||Capitol Disc Interactive Corporation|Philips Interactive Media International Ltd.|1982
+53064A|Gobbler|Gobbler||Action,Arcade,,|||On-Line Systems|On-Line Systems|1981
+53065A|Goblins|Goblins|Gorgon|Adventure,,||||Antonson Labs|1981
+53066A|Golan Front|Golan Front||Strategy,|1|||Simulations Canada|1985
 171985|Gold Of The Americas|Gold Of The Americas|||||||
 171984|Gold Rush|Gold Rush|Goldfields|Adventure,|||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1988
-53069A|Golden Oldies Vol. 1|Golden Oldies Vol. 1||,Compilation||||Software Country|1985
+53069A|Golden Oldies Vol. 1|Golden Oldies Vol. 1||Compilation,||||Software Country|1985
 53072A|Goldfields|Goldfields||Adventure,|||Sierra On-Line|Jacaranda|1986
 53073A|Golf's Best|Golf's Best||Sports,|||1 Step Software|1 Step Software|1985
-53076A|Gorgon|Gorgon||Shoot'em Up,Action,|||Sirius Software, Inc.|Sirius Software, Inc.|1981
-171983|Grand Prix Circuit|Grand Prix Circuit|||||Distinctive Software, Inc.|Accolade, Inc.|1988
-53079A|Grapple|Grapple||Action,Compilation|||Tuesday Society|Majesco Entertainment Company|1983
-171982|Great Western Shootout|Great Western Shootout||Action,|||Visual Concepts, Ltd.|Fanfare|1989
-53082A|Gremlins|Gremlins||Action,Compilation|||Atari, Inc.|Atarisoft|1984
-53083A|Grey Seas - Grey Skies|Grey Seas - Grey Skies||,Strategy||||Simulations Canada|1983
-53084A|Gruds In Space|Gruds in Space||Adventure,|||Sirius Software, Inc.|Sirius Software, Inc.|1983
+53076A|Gorgon|Gorgon||Shoot'em Up,Action,|1||Sirius Software, Inc.|Sirius Software, Inc.|1981
+171983|Grand Prix Circuit|Grand Prix Circuit||Racing,Simulation,,|||Distinctive Software, Inc.|Accolade, Inc.|1988
+53079A|Grapple|Grapple||Action,Shooter,|||Tuesday Society|Majesco Entertainment Company|1983
+171982|Great Western Shootout|Great Western Shootout||Action,Shooter,,|||Visual Concepts, Ltd.|Fanfare|1989
+53082A|Gremlins|Gremlins||Action,Arcade,,|||Atari, Inc.|Atarisoft|1984
+53083A|Grey Seas - Grey Skies|Grey Seas - Grey Skies||Strategy,||||Simulations Canada|1983
+53084A|Gruds In Space|Gruds in Space||Adventure,|1||Sirius Software, Inc.|Sirius Software, Inc.|1983
 171981|GS Invaders v1.0|GS Invaders v1.0|||||||
 53085A|Guadalcanal Campaign|Guadalcanal Campaign||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1982
 53087A|Guderian|Guderian||Strategy,Simulation,|||Dyadic Software Associates|The Avalon Hill Game Company|1985
 53088A|Gulf Strike|Gulf Strike||Strategy,|2||Microcomputer Games, Inc.|The Avalon Hill Game Company|1985
-53089A|Gumball|Gumball||Action,Puzzle|||Broderbund|Broderbund|1983
-117260|Gunfight|Gunfight||Action,Strategy|||XYPE|Hozer Video Games|2001
+53089A|Gumball|Gumball||Action,Puzzle,|||Broderbund|Broderbund|1983
+117260|Gunfight|Gunfight||Action,Strategy,|||XYPE|Hozer Video Games|2001
 53091A|Gunslinger|Gunslinger||Adventure,Action,|||Software Creations Ltd.|Virgin Mastertronic Ltd.|1986
 53092A|Gyroscope|Gyroscope||Action,Other|||Catalyst Coders|Melbourne House|1986
 172079|H.E.R.O. - Helicopter Emergency Rescue Operation|H.E.R.O. - Helicopter Emergency Rescue Operation|||||||
 53094A|Hacker|Hacker|Hacker II|Strategy,Adventure,|||Activision, Inc.|Activision, Inc.|1985
-53095A|Hacker 2|Hacker II||||||Activision|1986
+53095A|Hacker 2|Hacker II||Puzzle,||||Activision|1986
 53096A|Hacker's Challenge|Hacker's Challenge||||||Whitehurst, Mark|
-53097A|Hadron|Hadron||Action,Compilation|||Sirius Software, Inc.|Sirius Software, Inc.|1981
+53097A|Hadron|Hadron||Action,Gun shooter,|||Sirius Software, Inc.|Sirius Software, Inc.|1981
 53099A|Hallowe'en|Hallowe'en||Platform,Action,|||Jadeware|Jadeware|1983
-53100A|Halls Of Montezuma|Halls of Montezuma||,Strategy||||SSG|1987
-53101A|Handy Dandy|Handy Dandy||,Arcade||||Gentry Software|1983
+53100A|Halls Of Montezuma|Halls of Montezuma||Strategy,||||SSG|1987
+53101A|Handy Dandy|Handy Dandy||Arcade,||||Gentry Software|1983
 53103A|Hard Hat Mack|Hard Hat Mack||Platform,Action,|1||Michael Abbot &amp; Matthew Alexander|Electronic Arts, Inc.|1983
 53104A|Hardball|Hardball||Sports,|||Accolade, Inc.|Accolade, Inc.|1985
-171980|Hardball!|Hardball!|||||||
+171980|Hardball!|Hardball!||Sports,||||Accolade|1985
 53106A|Haunted House|Haunted House||Adventure,Action,|||Atari, Inc.|Atari, Inc.|1985
-123566|Hawaii|Hawaii||,RPG||||Excalibur|1986
+123566|Hawaii|Hawaii||Adventure,||||Excalibur|1986
 53108A|Head On|Head On||Race, Driving,Action,|||SEGA Enterprises Ltd.|Gremlin Industries, Inc.|1980
-53109A|Heavy Barrel|Heavy Barrel|Heavy Barrell|Action,Gun shooter|||Data East Corporation|Data East USA, Inc.|1989
+53109A|Heavy Barrel|Heavy Barrel|Heavy Barrell|Action,Shooter,|||Data East Corporation|Data East USA, Inc.|1989
 172078|Hebrew Phrasebook v1.1|Hebrew Phrasebook v1.1|||||||
 53111A|Helicopter Rescue|Helicopter Rescue||Action||||Philips Export B.V.|1983
-53113A|Hera|Hera||,RPG||||Hendrix, Jeff|1987
+53113A|Hera|Hera||RPG,||||Hendrix, Jeff|1987
 53114A|Hesgames|Hesgames||Sports,||||Hesware|1984
-172077|Hi-Res Computer Golf|Hi-Res Computer Golf|Hi-res Computer Golf 2|,Golf|||||
-53117A|Hi-res Computer Golf 2|Hi-res Computer Golf 2||,Golf||||Avant-Garde|1983
-53122A|High Resolution Othello|High Resolution Othello||,Puzzle||||Hilger, Jim|
-53123A|High Rise|High Rise||,Puzzle||||Micro Learn|1982
+172077|Hi-Res Computer Golf|Hi-Res Computer Golf|Hi-res Computer Golf 2|,Golf||||Avant-Garde Creations|1981
+53117A|Hi-res Computer Golf 2|Hi-res Computer Golf 2||Sports,||||Avant-Garde|1983
+53122A|High Resolution Othello|High Resolution Othello||Strategy,Board game,||||Hilger, Jim|1979
+53123A|High Rise|High Rise||Puzzle,||||Micro Learn|1982
 53124A|High Rollers|High Rollers||Casino,|||Box Office, Inc.|Box Office, Inc.|1987
 53126A|High Stakes|High Stakes||Adventure,|||Angelsoft, Inc.|Mindscape|1986
 53127A|Hinky Pinky Game|Hinky Pinky Game||||||22nd Avenue Wordshop|1983
-123568|Hold-up|Hold-Up||Action,|||ERE Informatique|ERE Informatique|1985
+123568|Hold-up|Hold-Up||Action,Racing,,|||ERE Informatique|ERE Informatique|1985
 53131A|Hollywood Hijinx|Hollywood Hijinx||Adventure,|||Infocom, Inc.|Infocom, Inc.|1986
 123569|Hong-kong Mahjong|Hong-Kong Mahjong|||||Nine Dragons Software|Unknown|1991
 53133A|Horizon 5|Horizon V||Shooter,||||Gebelli Software|1981
 53134A|Horse Racing Classic|Horse Racing Classic||Construction and Management Simulation,|||Tazumi Software International|Tazumi|1982
 171979|Hostage|Hostage|||||||
-171978|Hover Blade|Hover Blade||Action,|||MCX|MCX|1991
-117262|Hows About A Nice Game Of Chess|Hows About a Nice Game of Chess||,Chess||||Unknown|
+171978|Hover Blade|Hover Blade||Action,Shooter,,|||MCX|MCX|1991
+117262|Hows About A Nice Game Of Chess|Hows About a Nice Game of Chess||Chess,||||Unknown|
 117261|Hulk, The|The Hulk||Adventure,|||Adventure International|Scott Adams|1981
-53136A|Human Fly|Human Fly||,Compilation||||C.P.U.|1982
+53136A|Human Fly|Human Fly||Arcade,||||C.P.U.|1982
 171977|Hunt For Red October|Hunt For Red October|Hunt for the Red October, The|Simulation,|||Oxford Digital Enterprises Ltd.|Datasoft, Inc.|1988
-53139A|I-damiano|I-Damiano||,Adventure||||Bantam|1985
+53139A|I-damiano|I-Damiano||Adventure,|1|||Bantam|1985
 53140A|I.o. Silver|I.O. Silver||Action,Puzzle-Game,||||Beagle Bros Software|1984
-53141A|I.q. Baseball|I.Q. Baseball||,Baseball||||Davka|1983
-53145A|Icewar|Icewar||,Strategy||||Ken Coates|1990
+53141A|I.q. Baseball|I.Q. Baseball||Baseball,||||Davka|1983
+53145A|Icewar|Icewar||Strategy,||||Ken Coates|1990
 53146A|Ifr Flight Simulator|IFR Flight Simulator||Simulation,||||Programmers Software|1987
-53147A|Ikari Warriors|Ikari Warriors|Star Warrior - Starquest|Action,|||SNK Corporation|Data East Corporation|1986
+53147A|Ikari Warriors|Ikari Warriors|Star Warrior - Starquest|Action,Shooter,|||SNK Corporation|Data East Corporation|1986
 123570|Il Faut Fuir Thesee|Il Faut Fuir Thesee||||||Anfossi, G.|1984
 171976|Immortal, The|Immortal, The|||||||
 53148A|Imperium Galactum|Imperium Galactum||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1984
-53149A|Impossible Mission|Impossible Mission||Platform,Action,|||Epyx, Inc.|Epyx, Inc.|1982
+53149A|Impossible Mission|Impossible Mission||Platform,Action,|1||Epyx, Inc.|Epyx, Inc.|1982
 53150A|Impossiblemission 2|ImpossibleMission II||||||Epyx|1988
 53152A|Inca|Inca|Eamon 239 - Idol of the Incas|Adventure,Action,|||Coktel Vision|Sierra On-Line, Inc.|1985
 53154A|Indiana Jones And The Temple Of Doom|Indiana Jones And the Temple of Doom||Adventure,Action,|||Atari Games Corporation|Mindscape, Inc.|1989
 53155A|Indiana Jones In Revenge Of The Ancients|Indiana Jones in Revenge of the Ancients||Adventure,|||Angelsoft, Inc.|Mindscape, Inc.|1987
 53156A|Indoor Sports|Indoor Sports||Puzzle,||||Designstar|1987
-53157A|Infidel|Infidel||Adventure,|||Infocom, Inc.|Infocom, Inc.|1983
-53158A|Infiltrator|Infiltrator||Action|||Chris Gray Enterprises Inc.|Mindscape, Inc.|1987
+53157A|Infidel|Infidel||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1983
+53158A|Infiltrator|Infiltrator||Action,Simulation,Adventure,|||Chris Gray Enterprises Inc.|Mindscape, Inc.|1987
 53159A|Infiltrator 2|Infiltrator 2||||||Mindscape|1988
-53161A|Inhumane|Inhumane||Adventure,|||Infobom|Infralogic|1984
+53161A|Inhumane|Inhumane||Adventure,|1||Infobom|Infralogic|1984
 53162A|Injured Engine|Injured Engine||Simulation,Educational,|||Imagic|Imagic|1984
-117263|Inmate|Inmate||,Adventure||||Philip Goetz|1987
-117264|Interlude 2|Interlude II||||||Recreational Technology|1986
-53165A|International Grand Prix|International Grand Prix||,Racing||||Riverbank|1981
+117263|Inmate|Inmate||Adventure,|1|||Philip Goetz|1987
+117264|Interlude 2|Interlude II||Clairvoyance,||||Recreational Technology|1986
+53165A|International Grand Prix|International Grand Prix||Racing,||||Riverbank|1981
 53166A|International Hockey|International Hockey||Sports,Action,|||Superior Quality Software|Artworx Software Company, Inc.|1987
-53168A|Intrigue!|Intrigue!||||||Spectrum Holobyte|
-53173A|J-bird|J-Bird||Action,|||Orion Software, Inc.|Orion Software, Inc.|1983
+53168A|Intrigue!|Intrigue!||Adventure,||||Spectrum Holobyte|1986
+53173A|J-bird|J-Bird||Action,Arcade,,|||Orion Software, Inc.|Orion Software, Inc.|1983
 171975|Jack Nicklaus Greatest 18 Holes of Major Championship Golf|Jack Nicklaus Greatest 18 Holes of Major Championship Golf|||||Sculptured Software, Inc.|Accolade, Inc.|1988
-53175A|James Bond 007 - A View To A Kill|James Bond 007 - A View to a Kill||Action,Adventure|1||Angelsoft|Mindscape|1985
+53175A|James Bond 007 - A View To A Kill|James Bond 007 - A View to a Kill||Action,Adventure,|1||Angelsoft|Mindscape|1985
 53176A|James Bond 007 - Goldfinger|James Bond 007 - Goldfinger||Action,|||Angelsoft|Mindscape|1986
-53177A|Jawbreaker|Jawbreaker||Action,Arcade|||On-Line Systems|On-Line Systems|1981
+53177A|Jawbreaker|Jawbreaker||Action,Puzzle,|||On-Line Systems|On-Line Systems|1981
 53182A|Jeopardy|Jeopardy||Various,Puzzle-Game,|||Artech Digital Entertainment, Ltd.|Hasbro Interactive, Inc.|1987
 53183A|Jeopardy Sports Edition|Jeopardy Sports Edition||Various,Puzzle-Game,|||Absolute Entertainment, Inc.|GameTek, Inc.|1988
 53184A|Jet Pack|Jet Pack||Action,Compilation,||||NovaLogic, Inc.|1999
 53186A|Jigsaw|Jigsaw|Risk|Puzzle-Game,|||European Software Partners|Britannica Software|1984
-53187A|Joe Theismann's Pro Football|Joe Theismann's Pro Football||,Football US||||Avant-Garde|1985
+53187A|Joe Theismann's Pro Football|Joe Theismann's Pro Football||Football US,||||Avant-Garde|1985
 53188A|John Elway's Quarterback|John Elway's Quarterback||Sports,Action,|||Leland Corporation|Leland Corporation|1989
 53189A|John Madden Football|John Madden Football||Sports,|||Electronic Arts, Inc.|Electronic Arts, Inc.|1988
 53191A|Journey|Journey|Eamon 148 - Journey to Jotunheim|Role playing games,Action,|||thatgamecompany, LLC|Sony Computer Entertainment America LLC|1989
 53192A|Journey Into Darkness|Journey into Darkness||Puzzle,|||Infocom|Earthware|1986
 53196A|Jumpman|Jumpman||Platform,Action,|||Epyx, Inc.|Epyx, Inc.|1983
-53197A|Jungle Hunt|Jungle Hunt||Action,Arcade|||Taito America Corporation|Atarisoft|1984
+53197A|Jungle Hunt|Jungle Hunt||Action,Platformer,|||Taito America Corporation|Atarisoft|1984
 53198A|Jungle Quest|Jungle Quest||Adventure,|||Parachute Press|Scholastic, Inc.|1984
-53201A|Kabul Spy|Kabul Spy||,Adventure||||Sirius Software|1982
+53201A|Kabul Spy|Kabul Spy||Adventure,,|1|||Sirius Software|1982
 171974|Kaleidokubes|Kaleidokubes||Puzzle-Game,||||Artworx Software Company, Inc.|1989
 53202A|Kamikaze|Kamikaze||Shoot'em Up,Action,|||Digital Design|Codemasters|1990
 53203A|Kampfgruppe|Kampfgruppe||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1985
-53204A|Karate Champ|Karate Champ||Beat'em Up,Action,|||Technos Japan Corp.|Data East USA, Inc.|1985
+53204A|Karate Champ|Karate Champ||Beat'em Up,Action,|2||Technos Japan Corp.|Data East USA, Inc.|1985
 53205A|Karateka|Karateka||Beat'em Up,Action,|1||Jordan Mechner|Brøderbund Software, Inc.|1984
-123900|Karateka 2 - The Wrath Of Dude|Karateka II - The Wrath of Dude|||1|||19xx|
+123900|Karateka 2 - The Wrath Of Dude|Karateka II - The Wrath of Dude|||1||||
 171973|Keef The Thief|Keef The Thief|||||||
 53207A|Ken Uston's Professional Blackjack|Ken Uston's Professional Blackjack||Casino,|||Intelligent Statements, Inc.|Intelligent Statements, Inc.|1982
-53210A|Kid Nikki|Kid Nikki||,Action||||Quicksilver Software|1987
+53210A|Kid Nikki|Kid Nikki||Action||||Quicksilver Software|1987
 53211A|Killed Until Dead|Killed Until Dead||Strategy,Adventure,|1||Artech|Accolade, Inc.|1986
-172076|King Cribbage|King Cribbage|||||Hayden Book Company, Inc.|Hayden Software Co., Inc.|1983
+172076|King Cribbage|King Cribbage||Strategy,,|||Hayden Book Company, Inc.|Hayden Software Co., Inc.|1983
 171972|King of Chicago, The|King of Chicago, The|||||||
 53216A|King's Bounty|King's Bounty||Role playing games,|||New World Computing, Inc.|New World Computing, Inc.|1990
 53217A|King's Quest|King's Quest|King Quest III Save Disk|Adventure,|1||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1983
 53218A|King's Quest 2 - Romancing The Throne|King's Quest II - Romancing the Throne||Adventure,|1||Sierra On-Line|Sierra|1985
 53219A|King's Quest 3 - To Heir Is Human|King's Quest III - To Heir is Human||Adventure,|1||Sierra On-Line|Sierra|1988
 53220A|King's Quest 4 - The Perils Of Rosella|King's Quest IV - The Perils of Rosella||Adventure,|1||Sierra On-Line|Sierra|1988
-53222A|Knights Of Legend|Knights of Legend|Knights of the Desert|Role playing games,|||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1989
-53223A|Knights Of The Desert|Knights of the Desert||Strategy,Simulation,|||Tactical Design Group|Strategic Simulations, Inc.|1983
-53224A|Knockout|Knockout||Action,|||Microcomputer Games, Inc.|The Avalon Hill Game Company|1994
-53225A|Koronis Rift|Koronis Rift||Simulation,Action,|||Lucasfilm Games LLC|Epyx, Inc.|1985
-53226A|Kukulcan|Kukulcan||Adventure,|||American Eagle|American Eagle|1984
-53227A|Kung Fu Master|Kung Fu Master||Beat'em Up,Action,|||Irem Corp.|Data East USA, Inc.|1985
-53228A|L.a. Land Monopoly|L.A. Land Monopoly||,Puzzle||||Continental Software|1980
+53222A|Knights Of Legend|Knights of Legend|Knights of the Desert|Role playing games,|1||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1989
+53223A|Knights Of The Desert|Knights of the Desert||Strategy,Simulation,|1||Tactical Design Group|Strategic Simulations, Inc.|1983
+53224A|Knockout|Knockout||Action,Sports,Fighting,Boxing,,|||Microcomputer Games, Inc.|The Avalon Hill Game Company|1994
+53225A|Koronis Rift|Koronis Rift||Simulation,Action,|1||Lucasfilm Games LLC|Epyx, Inc.|1985
+53226A|Kukulcan|Kukulcan||Adventure,|1||American Eagle|American Eagle|1984
+53227A|Kung Fu Master|Kung Fu Master||Beat'em Up,Action,|2||Irem Corp.|Data East USA, Inc.|1985
+53228A|L.a. Land Monopoly|L.A. Land Monopoly||Board game,||||Continental Software|1980
 123545|La Bete Du Gevaudan|La Bete du Gevaudan||||||CIL|
 123553|La Cite Perdue|La Cite Perdue||||||Excalibur|
 123910|La Pierre De Vie|La Pierre de Vie||||||Bigoo|1983
-53230A|Labyrinth|Labyrinth||Adventure,Action,|||Lucasfilm Games LLC|Activision, Inc.|1986
-53231A|Lady Tut|Lady Tut||Action,Arcade|||Progame|Progame|1984
+53230A|Labyrinth|Labyrinth||Adventure,Action,|1||Lucasfilm Games LLC|Activision, Inc.|1986
+53231A|Lady Tut|Lady Tut||Action,Puzzle,|||Progame|Progame|1984
 53234A|Lancaster|Lancaster||Shoot'em Up,Action,|||Showroom Dummies|CRL Group PLC|1983
-53235A|Land Of The Pyramids|Land of the Pyramids||,Action||||Mach Three|1983
-53236A|Lantern Of D'gamma|Lantern of D'gamma||,Adventure||||Milliken|1985
-172075|Laser Bounce|Laser Bounce|||||||
+53235A|Land Of The Pyramids|Land of the Pyramids||Action||||Mach Three|1983
+53236A|Lantern Of D'gamma|Lantern of D'gamma||Adventure,|1|||Milliken|1985
+172075|Laser Bounce|Laser Bounce||||||Hayden|1982
 53238A|Laser Course|Laser Course||||||General Masters|1983
-171968|Laser Force|Laser Force||Action,|||European Software Partners|Britannica Software|1989
+171968|Laser Force|Laser Force||Action,Platform,,|||European Software Partners|Britannica Software|1989
 171967|Last Ninja, The|Last Ninja||Fighting,|1||System 3 Software|Activision|1989
 53244A|Law Of The West|Law of the West||Simulation,Action,|||Accolade, Inc.|Accolade, Inc.|1985
-53246A|Lazer Maze|Lazer Maze||Action,Puzzle||||Avant-Garde|1982
-53247A|Lazer Silk|Lazer Silk||,Compilation||||Gebelli|
+53246A|Lazer Maze|Lazer Maze||Action,Puzzle,||||Avant-Garde|1982
+53247A|Lazer Silk|Lazer Silk||Action,Arcade,,||||Gebelli|1982
 123551|Le Bunker|Le Bunker||||||Sylvain Fatome|1984
 117247|Le Crime Du Parking|Le Crime du Parking||Adventure,|||Froggy Software|Froggy Software|1985
-123904|Le Mur De Berlin Va Sauter|Le Mur de Berlin Va Sauter||||||Froggy Software|1985
+123904|Le Mur De Berlin Va Sauter|Le Mur de Berlin Va Sauter|||2|||Froggy Software|1985
 123949|Le Tresor De Zonguldek|Le Tresor de Zonguldek||||||Didier, Arnaud|1984
 53249A|Leather Goddesses Of Phobos|Leather Goddesses of Phobos||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1986
 53251A|Legacy Of The Ancients|Legacy of the Ancients|Legacy of Ancients|Role playing games,|1||Quest Software, Inc.|Electronic Arts, Inc.|1987
 53253A|Leisure Suit Larry|Leisure Suit Larry|Leisure Suit Larry I|||||Sierra|
 53254A|Lemmings|Lemmings||Action,Puzzle-Game,|1||DMA Design Limited|Psygnosis Limited|1991
 53255A|Lemonade Stand|Lemonade Stand||Simulation,Educational,|30||MECC|Apple Computer, Inc.|1979
-171965|Life & Death|Life &amp; Death|||||||
-53256A|Life Star|Life Star||Action,Shooter|||||
+171965|Life & Death|Life &amp; Death||Simulation,,|||||
+53256A|Life Star|Life Star||Action,Shooter,|||||
 53259A|Little Computer People|Little Computer People||Simulation,|||Activision, Inc.|Activision, Inc.|1985
-172074|Lock 'N' Chase|Lock 'N' Chase||Action,|||Data East Corporation|Mattel Electronics|1983
+172074|Lock 'N' Chase|Lock 'N' Chase||Action,Puzzle,|||Data East Corporation|Mattel Electronics|1983
 53261A|Lode Runner|Lode Runner|Championship Lode Runner|Platform,Action,|||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1983
 53263A|Lord Of The Flies|Lord of the Flies||||||CBS Software - Media Basics|
-53264A|Lordlings Of Yore|Lordlings of Yore||,Strategy||||Softlore|
-53265A|Lords Of Conquest|Lords of Conquest||Strategy,|||Eon Software, Inc.|Electronic Arts, Inc.|1986
-117265|Lost Dutchman|Lost Dutchman||,Adventure||||Rider Fantasy Creations|1997
+53264A|Lordlings Of Yore|Lordlings of Yore||Strategy,|4|||Softlore|1983
+53265A|Lords Of Conquest|Lords of Conquest||Strategy,|1||Eon Software, Inc.|Electronic Arts, Inc.|1986
+117265|Lost Dutchman|Lost Dutchman||Adventure,|1|||Rider Fantasy Creations|1997
 171964|Lost Tribe, The|Lost Tribe, The|||||||
-53269A|Lucifer's Realm|Lucifer's Realm||Adventure,|||American Eagle Software, Inc.|American Eagle Software, Inc.|1984
+53269A|Lucifer's Realm|Lucifer's Realm||Adventure,|1||American Eagle Software, Inc.|American Eagle Software, Inc.|1984
 53272A|Lunar Leepers|Lunar Leepers||||||Sierra|1982
-53274A|Mabel's Mansion|Mabel's Mansion||||||Datamost|
+53274A|Mabel's Mansion|Mabel's Mansion||||||Datamost|1984
 53275A|Macarthur's War|Macarthur's War||Strategy,||||SSG|1998
 171963|Mad Match|Mad Match|||||||
 171962|Magic Johnson's Basketball|Magic Johnson's Basketball|||||||
 123901|Mahjong|Mahjong|Hong-Kong Mahjong|Puzzle-Game,||||dtp young entertainment GmbH & Co. KG|
 53279A|Main Battle Tank Central Germany|Main Battle Tank Central Germany||Strategy,|||Simulations Canada|Simulations Canada|1989
 53280A|Make Your Own Murder Party|Make Your Own Murder Party||Adventure,|||Trans Fiction Systems Inc.|Electronic Arts, Inc.|1986
-53281A|Man-eng - Master Of Evil|Man-eng - Master of Evil||,Adventure||||Chiang Brothers|1983
-171961|Mancala|Mancala|Fatcat|,Software|||P.Z.Karen Co. Development Group|California Dreams|1988
-117301|Mandragore|Mandragore|||||Infogrames Multimedia SA|Infogrames Multimedia SA|1985
-53282A|Manhunter - New York|Manhunter - New York||||||Sierra|
-53283A|Maniac Mansion|Maniac Mansion||Adventure,|||Lucasfilm Games LLC|Lucasfilm Games LLC|1987
+53281A|Man-eng - Master Of Evil|Man-eng - Master of Evil||Adventure,|1|||Chiang Brothers|1983
+171961|Mancala|Mancala|Fatcat|Strategy,Board Game,,|||P.Z.Karen Co. Development Group|California Dreams|1988
+117301|Mandragore|Mandragore||RPG,|||Infogrames Multimedia SA|Infogrames Multimedia SA|1985
+53282A|Manhunter - New York|Manhunter - New York||Adventure,||||Sierra|2017
+53283A|Maniac Mansion|Maniac Mansion||Adventure,|1||Lucasfilm Games LLC|Lucasfilm Games LLC|1987
 171960|Manoir de Mortevielle, Le|Manoir de Mortevielle, Le|||||||
 53285A|Marauder|Marauder|Eamon 211 - Lair of the Marauders|Shoot'em Up,Action,|||Arcanum Software Developments|Hewson Consultants Ltd.|1982
-53286A|Marble Madness|Marble Madness||Action,Arcade|||Atari, Inc.|Electronic Arts, Inc.|1986
+53286A|Marble Madness|Marble Madness||Action,Arcade,|||Atari, Inc.|Electronic Arts, Inc.|1986
 172073|Marianas Turkey Shoot|Marianas Turkey Shoot|||||||
 53287A|Mario Bros|Mario Bros||Platform,Action,|1||Nintendo Co., Ltd.|Atari, Inc.|1983
-172072|Mars Cars|Mars Cars|Star Wars|Action,|||Datamost, Inc.|Datamost, Inc.|1982
+172072|Mars Cars|Mars Cars|Star Wars|Action,Arcade,,|||Datamost, Inc.|Datamost, Inc.|1982
 53290A|Masquerade|Masquerade||Adventure,|||Janis|Janis|1984
-53291A|Master Of The Lamps|Master of the Lamps||Simulation,Action,|||Activision, Inc.|Activision, Inc.|1985
+53291A|Master Of The Lamps|Master of the Lamps||Simulation,Action,|1||Activision, Inc.|Activision, Inc.|1985
 53296A|Matterhorn Screamer|Matterhorn Screamer||Platform,Action,|||Walt Disney Computer Software, Inc.|Hi-Tech Expressions, Inc.|1988
 53297A|Maxi Golf|Maxi Golf||||||Adventure International|1984
 53298A|Maxwell Manor|Maxwell Manor||Adventure,Action,|||The Avalon Hill Game Company|The Avalon Hill Game Company|1984
 53299A|Maze Craze Construction Set|Maze Craze Construction Set||Action,Compilation|||First Star Software|Data Trek|1983
-171959|Mazer II|Mazer II||Action,|||Farfetch Software|Big Red Computer Club|1992
-171958|Mean 18|Mean 18|||||Microsmiths, Inc.|Accolade, Inc.|1986
+171959|Mazer II|Mazer II||Action,Shooter,,|||Farfetch Software|Big Red Computer Club|1992
+171958|Mean 18|Mean 18||Sports,Golf,,|||Microsmiths, Inc.|Accolade, Inc.|1986
 171957|Mean 18 - Famous Courses Volume 2|Mean 18 - Famous Courses Volume 2|||||||
 171956|Mean 18 - Famous Courses Volume 3|Mean 18 - Famous Courses Volume 3|||||||
 171955|Mean 18 - Famous Courses Volume 4|Mean 18 - Famous Courses Volume 4|||||||
@@ -880,102 +880,102 @@
 123898|Meme Les Pommes De Terre Ont Des Yeux|Meme les Pommes de Terre Ont des Yeux||||||Froggy Software|1985
 53304A|Meteor Might|Meteor Might||||||General Masters|1983
 53306A|Mickey's Space Adventure|Mickey's Space Adventure||Adventure,|||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1984
-117266|Micro Bar Mate|Micro Bar Mate||,Software||||Virtual Combinatics|1984
-117267|Micro Chess 2.0|Micro Chess 2.0||,Chess||||Unknown|
+117266|Micro Bar Mate|Micro Bar Mate||Software,||||Virtual Combinatics|1984
+117267|Micro Chess 2.0|Micro Chess 2.0||Board game,||||Unknown|1978
 53309A|Micro Habitats Construction Set|Micro Habitats Construction Set||||||Software Productions|
 53310A|Micro League Baseball|Micro League Baseball||Sports,||||Micro League Sports Association|1984
-53311A|Microbe - The Tinkerer Jgv Dick|Microbe - The Tinkerer Jgv Dick||,Adventure||||Synergistic Software|1982
-53312A|Microbe, The Anatomical Adventure|Microbe, The Anatomical Adventure||,Adventure||||Synergistic Software|1982
-53315A|Microscopic Journey|Microscopic Journey||,Shooter||||Hayden Book|1982
+53311A|Microbe - The Tinkerer Jgv Dick|Microbe - The Tinkerer Jgv Dick||Adventure,||||Synergistic Software|1982
+53312A|Microbe, The Anatomical Adventure|Microbe, The Anatomical Adventure||Adventure,||||Synergistic Software|1982
+53315A|Microscopic Journey|Microscopic Journey||Shooter,||||Hayden Book|1982
 123902|Microsoft Adventure|Microsoft Adventure||Adventure,|||Softwin Associates|Microsoft|1981
-53316A|Microwave|Microwave||Action,Arcade|||Cavalier Computer|Cavalier Computer|1982
+53316A|Microwave|Microwave||Action,Arcade,|||Cavalier Computer|Cavalier Computer|1982
 53317A|Midway Campaign|Midway Campaign||Strategy,|||Microcomputer Games, Inc.|The Avalon Hill Game Company|1980
-53318A|Might And Magic - Book One|Might And Magic - Book One||,RPG||||New World Computing|1986
-53319A|Might And Magic - Book Two|Might And Magic - Book Two||,RPG||||New World Computing|1988
+53318A|Might And Magic - Book One|Might And Magic - Book One||RPG,|1|||New World Computing|1986
+53319A|Might And Magic - Book Two|Might And Magic - Book Two||RPG,|1|||New World Computing|1988
 171954|Mighty Marvel Vs The Forces of Evil|Mighty Marvel Vs The Forces of Evil|||||||
-171953|Milestones 2000|Milestones 2000|||||ReliefWare|ReliefWare|1990
-53322A|Millionaire - The Stock Market Simulation|Millionaire - The Stock Market Simulation|Millionaire The Stock Market Simulation|,Other||||Blue Chip Software|1982
+171953|Milestones 2000|Milestones 2000||Strategy,,|||ReliefWare|ReliefWare|1990
+53322A|Millionaire - The Stock Market Simulation|Millionaire - The Stock Market Simulation|Millionaire The Stock Market Simulation|Strategy,|1|||Blue Chip Software|1982
 53324A|Millionwaire|Millionwaire||||||Brainbank|1982
 53327A|Mind Castle|Mind Castle||Adventure,Educational,|||Lawrence Productions, Inc.|Lawrence Productions, Inc.|1984
-172071|Mind Castle II|Mind Castle II|||||||
+172071|Mind Castle II|Mind Castle II||Adventure,||||MCE|1984
 53330A|Mind Pursuit|Mind Pursuit||Casual Game,Educational,|||Pacific Softech Inc.|Datasoft, Inc.|1986
-53331A|Mindshadow|Mindshadow||Adventure,|||Interplay Productions, Inc.|Activision, Inc.|1984
-53333A|Mindwheel|Mindwheel||Adventure,|||Synapse Software Corporation|Brøderbund Software, Inc.|1984
+53331A|Mindshadow|Mindshadow||Adventure,|1||Interplay Productions, Inc.|Activision, Inc.|1984
+53333A|Mindwheel|Mindwheel||Adventure,|1||Synapse Software Corporation|Brøderbund Software, Inc.|1984
 53334A|Miner|Miner|Miner 2049er|Platform,Simulation,||||Code Works, The|1982
-53335A|Miner 2049er|Miner 2049er||Platform,Action,|||Big Five Software|Micro Fun|1982
+53335A|Miner 2049er|Miner 2049er||Platform,Action,|1||Big Five Software|Micro Fun|1982
 53336A|Miner 2049er 2|Miner 2049er II||||||Microfun|1984
 123903|Mines|Mines|Eamon 108 - The Mines of Moria|Puzzle-Game,||||Milen Maslinkov|1997
-53338A|Mines Of Titan|Mines of Titan||,Adventure||||Infocom|1989
-117268|Ming's Challenge|Ming's Challenge||Action,Arcade|||Micro Fun|Mike Livesay|1982
+53338A|Mines Of Titan|Mines of Titan||RPG,|1|||Infocom|1989
+117268|Ming's Challenge|Ming's Challenge||Action,Arcade,|||Micro Fun|Mike Livesay|1982
 171952|Mini Putt - The Ultimate Challenge|Mini Putt - The Ultimate Challenge|||||||
 53339A|Mini-zork I - The Great Underground Empire|Mini-Zork I - The Great Underground Empire||||||Infocom|1988
 53340A|Miniature Golf|Miniature Golf||Sports,|||Atari, Inc.|Sears, Roebuck and Co.|1977
-53341A|Minit Man|Minit Man||Action,Shooter|||Penguin Software|Penguin Software|1983
+53341A|Minit Man|Minit Man||Action,Shooter,|||Penguin Software|Penguin Software|1983
 53347A|Mission Asteroid|Mission Asteroid||Adventure,|1||Sierra On-Line, Inc.|On-Line Systems|1980
-53348A|Mission Escape!|Mission Escape!||,Arcade||||M.S.I.|1982
-53349A|Mission Impossible|Mission Impossible||Adventure,Action,|||Infogrames Europe SA|Ocean Software Ltd.|1981
-53350A|Mission On Thunderhead|Mission On Thunderhead||Action|||The Avalon Hill Game Company|The Avalon Hill Game Company|1986
+53348A|Mission Escape!|Mission Escape!||Arcade,||||M.S.I.|1982
+53349A|Mission Impossible|Mission Impossible||Adventure,Action,|1||Infogrames Europe SA|Ocean Software Ltd.|1981
+53350A|Mission On Thunderhead|Mission On Thunderhead||Action,Arcade,Shooter,,|||The Avalon Hill Game Company|The Avalon Hill Game Company|1986
 53353A|Mixed Up Mother Goose|Mixed Up Mother Goose||Adventure,|||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1987
 53354A|Moebius|Moebius|Moebius II|Role playing games,Action,|||Programmers Rebellion|Infinite Games Ltd|1985
-117269|Moebius 2|Moebius II||||||Origin|1985
-172070|Money Munchers|Money Munchers|||||||
-53358A|Monolithic Laser|Monolithic Laser||,Shooter||||General Master|1983
-172069|Monster Mash|Monster Mash|||||Sandlot Games|Sandlot Games|
+117269|Moebius 2|Moebius II||RPG,||||Origin|1985
+172070|Money Munchers|Money Munchers||Puzzle,||||Datamost|1982
+53358A|Monolithic Laser|Monolithic Laser||Shooter,||||General Master|1983
+172069|Monster Mash|Monster Mash|||||Sandlot Games|Sandlot Games|1980
 171950|Monte Carlo|Monte Carlo||Simulation,||||PBI Software, Inc.|1987
 53362A|Montezuma's Revenge|Montezuma's Revenge||Platform,Action,|||Parker Brothers|BCI Software|1984
 53364A|Monty Plays Scrabble|Monty Plays Scrabble||Puzzle,|||Ritam Corporation|Ritam|1980
-53365A|Moon Patrol|Moon Patrol||Action,Compilation|2||Irem Corp.|Atarisoft|1983
-53366A|Moonmist|Moonmist||Adventure,|||Infocom, Inc.|Infocom, Inc.|1986
+53365A|Moon Patrol|Moon Patrol||Action,Shooter,|2||Irem Corp.|Atarisoft|1983
+53366A|Moonmist|Moonmist||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1986
 53368A|Morton's Fork|Morton's Fork||Adventure,|||Chameleon Software|Chameleon Software|1981
-117270|Mouse Budget|Mouse Budget||,Software||||Version Soft|1985
+117270|Mouse Budget|Mouse Budget||Software,||||Version Soft|1985
 53369A|Mousk Attack|Mousk Attack|Mouskattack|,Arcade||||On-Line Systems|1982
-53371A|Mr. Cool|Mr. Cool||Action,Arcade|||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1983
-53372A|Mr. Do|Mr. Do||Action,Arcade|||Universal Co., Ltd.|Datasoft, Inc.|1985
-53373A|Mr. Machine|Mr. Machine||,Software||||Robert Muench|1985
-53374A|Mr. Robot And His Robot Factory|Mr. Robot and his Robot Factory||Platform,Action,|||Datamost, Inc.|Datamost, Inc.|1984
-172068|Ms. Pac-Man|Ms. Pac-Man|Ms. Pacman|Action,|||Midway Mfg. Co.|Atarisoft|1983
-53375A|Ms. Pacman|Ms. Pacman||Action,Arcade||||Atarisoft|1983
-53377A|Mummy's Curse|Mummy's Curse||,Adventure||||Highlands Computer|1981
-53379A|Murder On The Mississippi|Murder On the Mississippi||Adventure,|||Activision, Inc.|Activision, Inc.|1986
+53371A|Mr. Cool|Mr. Cool||Action,Platformer,|||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1983
+53372A|Mr. Do|Mr. Do||Action,Arcade,|||Universal Co., Ltd.|Datasoft, Inc.|1985
+53373A|Mr. Machine|Mr. Machine||Software,||||Robert Muench|1985
+53374A|Mr. Robot And His Robot Factory|Mr. Robot and his Robot Factory||Platform,Action,|1||Datamost, Inc.|Datamost, Inc.|1984
+172068|Ms. Pac-Man|Ms. Pac-Man|Ms. Pacman|Action,Puzzle,|||Midway Mfg. Co.|Atarisoft|1983
+53375A|Ms. Pacman|Ms. Pacman||Action,Arcade,||||Atarisoft|1983
+53377A|Mummy's Curse|Mummy's Curse||Adventure,,|1|||Highlands Computer|1981
+53379A|Murder On The Mississippi|Murder On the Mississippi||Adventure,|1||Activision, Inc.|Activision, Inc.|1986
 53380A|Murder On The Zinderneuf|Murder On the Zinderneuf||Adventure,|||Free Fall Associates|Electronic Arts, Inc.|1983
 123905|Muryaden 2|Muryaden II||||||Elrik - Deckard|1991
 53382A|Mutant|Mutant|Eamon 035 - The Lair of Mutants|Action,Adventure,||||River Software|1983
-172067|Mystery Double Feature|Mystery Double Feature|||||||
+172067|Mystery Double Feature|Mystery Double Feature||Adventure,||||Scholastic|1984
 53385A|Mystery House|Mystery House|Mistery House|Adventure,|1||Sierra On-Line, Inc.|Sierra|1980
 53386A|Mystery Master - Felony!|Mystery Master - Felony!||Strategy,|||BrainBank|CBS Software|1984
-53387A|Mystery Master - Murder By The Dozen|Mystery Master - Murder By the Dozen||,Adventure||||CBS Software|1983
+53387A|Mystery Master - Murder By The Dozen|Mystery Master - Murder By the Dozen||Adventure,||||CBS Software|1983
 53388A|Nam|Nam|Conflict in Vietnam|Strategy,Action,|||TNT Team|Brasoft Produtos de Informática Ltda.|1986
-53389A|Napoleon's Campaigns 1813 And 1815|Napoleon's Campaigns 1813 & 1815||||||SSI|1981
+53389A|Napoleon's Campaigns 1813 And 1815|Napoleon's Campaigns 1813 & 1815||Strategy,||||SSI|1981
 53391A|Nato Commander|Nato Commander||Strategy,|||MicroProse Software, Inc.|MicroProse Software, Inc.|1984
-53392A|Naval Battle Of Tsushima|Naval Battle of Tsushima||,Strategy||||Avalon Hill|1986
-172066|Nemesis|Nemesis|Reversi|Action,Puzzle|||Konami Industry Co. Ltd.|Ultra Software Corporation|
+53392A|Naval Battle Of Tsushima|Naval Battle of Tsushima||Strategy,|2|||Avalon Hill|1986
+172066|Nemesis|Nemesis|Reversi|Action,Arcade,Shooter,,|||Konami Industry Co. Ltd.|Ultra Software Corporation|
 53394A|Neon|Neon||Simulation,||||Datamost|1983
-53395A|Neptune|Neptune|Demon's Winter|,Compilation||||Gebelli Software|1982
+53395A|Neptune|Neptune|Demon's Winter|Action,Arcade,,||||Gebelli Software|1982
 53396A|Neuromancer|Neuromancer||Adventure,|||Interplay Productions, Inc.|Interplay Productions, Inc.|1988
-172065|Neutrons|Neutrons|Neon|,Compilation|||||
-53399A|Newtown|Newtown||,Other||||Mindflight|1985
-53401A|Nibbler|Nibbler||Action,Arcade|||Datamost, Inc.|Rainbow Arts Software GmbH|1983
+172065|Neutrons|Neutrons|Neon|,Compilation||||Level-10|1981
+53399A|Newtown|Newtown||Other,||||Mindflight|1985
+53401A|Nibbler|Nibbler||Action,Arcade,|||Datamost, Inc.|Rainbow Arts Software GmbH|1983
 53402A|Night Crawler|Night Crawler|Sab's Night Crawler|,Shooter||||Softape|
 53403A|Night Driver|Night Driver||Race, Driving,Action,|||Atari, Inc.|Atari, Inc.|1976
-53406A|Night Mission|Night Mission||,Compilation|||Sublogic|SubLogic|1982
-53410A|Nine Princes In Amber|Nine Princes in Amber||Adventure,|||Telarium Corp.|Telarium Corp.|1985
+53406A|Night Mission|Night Mission||Pinball,|1||Sublogic|SubLogic|1982
+53410A|Nine Princes In Amber|Nine Princes in Amber||Adventure,|1||Telarium Corp.|Telarium Corp.|1985
 53412A|Norad|Norad||Simulation,Action,||||Western MicroData Enterprises Ltd.|1981
 53413A|Nord And Bert Couldn't Make Head Or Tail Of It|Nord And Bert Couldn't Make Head Or Tail of It||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1987
 53414A|North Atlantic 86|North Atlantic 86||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1983
 53415A|North Atlantic Convoy Raider|North Atlantic Convoy Raider||Strategy,Simulation,|||Microcomputer Games, Inc.|The Avalon Hill Game Company|1981
-53416A|Northern Fleet|Northern Fleet||,Strategy||||Simulations Canada|1988
+53416A|Northern Fleet|Northern Fleet||Strategy,||||Simulations Canada|1988
 53417A|Norway 1985|Norway 1985||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1985
 53419A|Nukewar|Nukewar||Strategy,Simulation,|||Microcomputer Games Inc|The Avalon Hill Game Company|1980
 123561|O Enigma Dos Deuses|O Enigma Dos Deuses||||||Stratus Software|1986
 53422A|Objective Kursk|Objective Kursk||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1984
-53425A|Odyssey, The Compleat Adventure|Odyssey, The Compleat Adventure||,Adventure||||Synergistic Software|1980
+53425A|Odyssey, The Compleat Adventure|Odyssey, The Compleat Adventure||Role-Playing,||||Synergistic Software|1980
 53426A|Ogre|Ogre||Strategy,|||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1986
 53427A|Oil Barons|Oil Barons||Simulation,|||Epyx, Inc.|Epyx, Inc.|1983
 171949|Oil Landers v0.1|Oil Landers v0.1|||||||
-172064|Oil's Well|Oil's Well|Oils Well|Action,|||Banana Development, Inc.|Sierra On-Line, Inc.|1990
-53428A|Oil-rig|Oil-Rig||,Management||||C.P.U.|1981
-53429A|Oils Well|Oils Well||Action,Arcade|||Banana Development, Inc.|Sierra On-Line, Inc.|1983
-53430A|Old Ironsides|Old Ironsides||Action|||Optimum Resource, Inc.|Optimum Resource, Inc.|1983
+172064|Oil's Well|Oil's Well|Oils Well|Action,Puzzle,|||Banana Development, Inc.|Sierra On-Line, Inc.|1990
+53428A|Oil-rig|Oil-Rig||Simulation,||||C.P.U.|1981
+53429A|Oils Well|Oils Well||Action,Arcade,|||Banana Development, Inc.|Sierra On-Line, Inc.|1983
+53430A|Old Ironsides|Old Ironsides||Action,Simulation,Strategy,,|||Optimum Resource, Inc.|Optimum Resource, Inc.|1983
 53432A|Oldorf's Revenge|Oldorf's Revenge||Adventure,|||Highlands Computer Services|Highland Computer Software|1980
 53433A|Olympic Decathlon|Olympic Decathlon||Simulation,|||Microsoft Consumer Products|Microsoft|1981
 53434A|Omega|Omega||Simulation,|||Origin Systems|Origin|1989
@@ -985,209 +985,209 @@
 53438A|Operation Apocalypse|Operation Apocalypse||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1981
 53439A|Operation Frog|Operation Frog||Educational,|||Interactive Picture Systems Inc.|Scholastic, Inc.|1985
 53440A|Operation Market Garden|Operation Market Garden||Strategy,|||Strategic Simulations, Inc.|SSI|1985
-123906|Opium|Opium||,Strategy||||Ludia|
+123906|Opium|Opium||Adventure,||||Ludia|1985
 171947|Orbizone|Orbizone|||||||
-117271|Other Side, The|The Other Side||,Management||||Tom Snider|1985
-171946|Out of This World|Out of This World||Action,|||Delphine Software International|U.S. Gold Ltd.|1991
-53445A|Overrun Europe|Overrun Europe||,Strategy||||SSI|1988
-53446A|Pac-man|Pac-Man|Ms. Pacman|Action|||Namco Limited|Atarisoft|1983
+117271|Other Side, The|The Other Side||Management,||||Tom Snider|1985
+171946|Out of This World|Out of This World||Action,Platform,Shooter,,|||Delphine Software International|U.S. Gold Ltd.|1991
+53445A|Overrun Europe|Overrun Europe||Strategy,||||SSI|1988
+53446A|Pac-man|Pac-Man|Ms. Pacman|Action,Puzzle,|||Namco Limited|Atarisoft|1983
 123907|Pacific 231|Pacific 231||||||Ediciel - Spinnaker|
 53448A|Pandemonium|Pandemonium||Puzzle-Game,Action,|||Toys for Bob Inc.|Sony Computer Entertainment Europe Ltd.|1982
 172063|Pandora's Box|Pandora's Box||Puzzle-Game,|||Microsoft Corporation|Microsoft Corporation|1999
-171945|Panzer Battles|Panzer Battles|||||SSG Strategic Studies Group Pty Ltd.|SSG Strategic Studies Group Pty Ltd.|1989
+171945|Panzer Battles|Panzer Battles||Strategy,,|||SSG Strategic Studies Group Pty Ltd.|SSG Strategic Studies Group Pty Ltd.|1989
 53450A|Panzer Grenadier|Panzer Grenadier||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1985
-117272|Panzer Strike Africa|Panzer Strike Africa||,Strategy||||SSI|1987
+117272|Panzer Strike Africa|Panzer Strike Africa||Strategy,||||SSI|1987
 117273|Panzer Strike East|Panzer Strike East||Strategy,|2|||SSI|1987
 123908|Panzer Strike Scenery|Panzer Strike Scenery||||||SSI|1987
-117274|Panzer Strike West|Panzer Strike West||,Strategy||||SSI|1987
-53453A|Paperboy|Paperboy||Action,|||Atari, Inc.|Mindscape, Inc.|1988
+117274|Panzer Strike West|Panzer Strike West||Strategy,||||SSI|1987
+53453A|Paperboy|Paperboy||Action,Arcade,,|||Atari, Inc.|Mindscape, Inc.|1988
 123909|Paranoiak|Paranoiak||Adventure,|||Froggy Software|Froggy Software|1984
-171944|Passengers on the Wind|Passengers on the Wind|||||||
-172062|Pathwords|Pathwords|Deathlord|,Adventure|||Eon Software, Inc.|CBS Software|1984
-53458A|Pegasus 2|Pegasus II||,Shooter||||On-Line Systems|1981
-53459A|Pengo|Pengo||Action,Software|||Coreland|SEGA Enterprises Ltd.|1982
+171944|Passengers on the Wind|Passengers on the Wind||Adventure,,|||||
+172062|Pathwords|Pathwords|Deathlord|Strategy,,|||Eon Software, Inc.|CBS Software|1984
+53458A|Pegasus 2|Pegasus II||Shooter,||||On-Line Systems|1981
+53459A|Pengo|Pengo||Action,Arcade,,|||Coreland|SEGA Enterprises Ltd.|1982
 53460A|Penguin|Penguin||||||Micro-sparc|1985
-53461A|Penny Arcade|Penny Arcade||,Arcade||||Apple|1979
-117275|Penqueriel Mazes|Penqueriel Mazes||,Puzzle||||Sadistic|
-53463A|Pentapus|Pentapus||Action,Compilation|2||Atari Inc.|Turning Point Software|1983
+53461A|Penny Arcade|Penny Arcade||Arcade,||||Apple|1979
+117275|Penqueriel Mazes|Penqueriel Mazes||Puzzle,||||Sadistic|
+53463A|Pentapus|Pentapus||Action,Gun shooter,|2||Atari Inc.|Turning Point Software|1983
 53465A|Perry Mason - The Case Of The Mandarin Murder|Perry Mason - The Case of the Mandarin Murder||Adventure,|1||Paisano Productions|Telarium|1985
 53466A|Pest Patrol|Pest Patrol||Shoot'em Up,Action,||||Sierra On-Line, Inc.|1982
 53467A|Phantasie|Phantasie|Phantasie II|Role playing games,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1984
-53468A|Phantasie 2|Phantasie II||Role-Playing,||||SSI|1986
-53469A|Phantasie 3|Phantasie III||||||SSI|1987
-53470A|Phantoms Five|Phantoms Five||Action,Compilation|||Sirius Software, Inc.|Sirius Software, Inc.|1980
+53468A|Phantasie 2|Phantasie II||Role-Playing,|1|||SSI|1986
+53469A|Phantasie 3|Phantasie III||Adventure,|1|||SSI|1987
+53470A|Phantoms Five|Phantoms Five||Action,Gun shooter,|||Sirius Software, Inc.|Sirius Software, Inc.|1980
 53471A|Pharaoh's Revenge|Pharaoh's Revenge||Platform,Action,|1||Manley & Associates, Inc.|Publishing International|1988
 53474A|Phm Pegasus|PHM Pegasus||Simulation,Action,|||Lucasfilm Games LLC|Electronic Arts, Inc.|1987
 171943|Pick'n Pile|Pick'n Pile|||||||
 53477A|Pick'n'pile|Pick'n'Pile||||||Ubisoft|1990
-53478A|Pick-a-dilly Pair|Pick-A-Dilly Pair||,Puzzle||||Actioncraft|1983
+53478A|Pick-a-dilly Pair|Pick-A-Dilly Pair||Educational,||||Actioncraft|1983
 172061|Pie-Man|Pie-Man|||||||
 117276|Pik'em Vnfl 5.0|Pik'em vNFL 5.0||||||Marathon Software|1988
-53485A|Pillage Village|Pillage Village||,Adventure||||Software Marketing Services|1982
+53485A|Pillage Village|Pillage Village||Adventure,|1|||Software Marketing Services|1982
 53486A|Pinball Construction Set|Pinball Construction Set||Pinball,Action,|1||BudgeCo|BudgeCo., Inc.|1982
-171942|Pinball Wizard|Pinball Wizard||Action,|||Sagittarian Software|CP Software|1983
+171942|Pinball Wizard|Pinball Wizard||Action,Pinball,,|||Sagittarian Software|CP Software|1983
 53487A|Pipe Dream|Pipe Dream||Puzzle-Game,|||Assembly Line, The|Lucasfilm Games LLC|1990
-53489A|Pirates!|Pirates!||,Action||||MicroProse|1987
+53489A|Pirates!|Pirates!||Action,Strategy,Adventure,||||MicroProse|1987
 172060|Pitfall II - Lost Caverns|Pitfall II - Lost Caverns||Adventure,|||Activision|Activision|1984
-172059|Pitstop II|Pitstop II||,Compilation|||Synergistic Software, Inc.|Epyx, Inc.|1984
+172059|Pitstop II|Pitstop II||Racing,|||Synergistic Software, Inc.|Epyx, Inc.|1984
 53493A|Planet Of Crawlers|Planet of Crawlers||||||General Masters|1983
 117277|Planetary Construction Set|Planetary Construction Set||Role-Playing,|||Electronic Arts, Inc.|Electronic Arts, Inc.|1985
-53494A|Planetfall|Planetfall||Adventure,|||Infocom, Inc.|Infocom, Inc.|1983
+53494A|Planetfall|Planetfall||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1983
 53495A|Planetoids|Planetoids||Shoot'em Up,Action,|||Psion Software Ltd.|Sinclair Research Ltd.|1982
-172058|Plasmania|Plasmania|Pacman|Action,Compilation|1||Sirius Software, Inc.|Sirius Software, Inc.|1983
-53497A|Platoon|Platoon||Action|||Ocean Software Ltd.|Data East Corporation|1987
-53498A|Pleins Gaz|Pleins Gaz||||||Froggy Software|1986
+172058|Plasmania|Plasmania|Pacman|Action,Shooter,|1||Sirius Software, Inc.|Sirius Software, Inc.|1983
+53497A|Platoon|Platoon||Action,Puzzle,Shooter,Shooter,|1||Ocean Software Ltd.|Data East Corporation|1987
+53498A|Pleins Gaz|Pleins Gaz||Action,||||Froggy Software|1986
 171941|Plotting|Plotting|Platoon|Puzzle-Game,|||Taito Corporation|Taito Corporation|1989
-171940|Plunder|Plunder|Plundered Hearts|,Adventure|||Big Fish Games, Inc|Big Fish Games, Inc|
-53499A|Plundered Hearts|Plundered Hearts||Adventure,|||Infocom, Inc.|Infocom, Inc.|1987
+171940|Plunder|Plunder|Plundered Hearts|Strategy,,|||Big Fish Games, Inc|Big Fish Games, Inc|
+53499A|Plundered Hearts|Plundered Hearts||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1987
 53502A|Police Artist|Police Artist||Adventure,|||Sir-Tech|Sir-Tech Software|1983
 53503A|Police Quest|Police Quest|Pursuit of the Graf Spee|||||Sierra|
 53505A|Pool|Pool|Blade of Blackpoole, The|Sports,|||CDS Software Ltd|CDS Software Ltd|1983
-53504A|Pool Of Radiance|Pool of Radiance||Role playing games,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1989
+53504A|Pool Of Radiance|Pool of Radiance||Role playing games,|1||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1989
 53507A|Popeye|Popeye||Platform,Action,|||Nintendo Co., Ltd.|Parker Brothers|1984
 53508A|Portal|Portal|Eamon 085 - The Time Portal|Adventure,|||Nexa Corporation|Activision, Inc.|1986
-53509A|Power Bots|Power Bots||,RPG||||Neosoft|1984
+53509A|Power Bots|Power Bots||RPG,||||Neosoft|1984
 53512A|President Elect|President Elect||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1981
 53513A|President Elect - 1988 Edition|President Elect - 1988 Edition||Strategy,|||Strategic Simulations|SSI|1987
 53514A|Prince Of Persia|Prince of Persia||Platform,Action,|1||Broderbund|Brøderbund Software, Inc.|1989
 53516A|Prisoner 2|Prisoner 2||Adventure,|1||Edu-Ware Services, Inc.|Edu-Ware Services, Inc.|1982
-53518A|Pro Football - The Gold Edition|Pro Football - The Gold Edition||,Football US||||System Design Lab|1982
+53518A|Pro Football - The Gold Edition|Pro Football - The Gold Edition||Football US,||||System Design Lab|1982
 53519A|Pro Golf|Pro Golf||Sports,||||Atlantis Software Limited|1983
-123911|Profession Detective|Profession Detective||||||Unknown|
+123911|Profession Detective|Profession Detective||Adventure,||||Unknown|
 53521A|Professional Tour Golf|Professional Tour Golf||Sports,|||Strategic Simulations, Inc.|SSI|1983
-123912|Prohibition|Prohibition||Action,|||Infogrames Multimedia SA|Infogrames Multimedia SA|1987
-171939|Project Neptune|Project Neptune||Action,|||Infogrames Europe SA|Infogrames Europe SA|1988
+123912|Prohibition|Prohibition||Action,Arcade,Shooter,,|||Infogrames Multimedia SA|Infogrames Multimedia SA|1987
+171939|Project Neptune|Project Neptune||Action,Strategy,Shooter,,|||Infogrames Europe SA|Infogrames Europe SA|1988
 53522A|Project Space Station|Project Space Station||Simulation,Educational,|||Micro Imagery|Avantage Software|1987
 53525A|Pure Stat Baseball|Pure Stat Baseball||Sports,|||Quest|Quest|1986
 53527A|Pursuit Of The Graf Spee|Pursuit of the Graf Spee||Strategy,Simulation,|1||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1982
 171938|Puzznic|Puzznic||Puzzle-Game,|||Taito Corporation|Taito Corporation|1989
 53530A|Pyramid|Pyramid|Beneath the Pyramids|Casual Game,Puzzle-Game,|||Thin Chen Enterprise|American Video Entertainment Inc.|1982
-53533A|Qix|Qix||Action,Puzzle|||Taito America Corporation|Taito Corporation|1989
-53536A|Queen Of Hearts|Queen of Hearts||,Pinball||||SSI|1983
+53533A|Qix|Qix||Action,Puzzle,|||Taito America Corporation|Taito Corporation|1989
+53536A|Queen Of Hearts|Queen of Hearts||Action,Pinball,,||||SSI|1983
 171937|Quest for the Hoard|Quest for the Hoard|||||||
-123913|Quest Of The Gem|Quest of the Gem|||||||
+123913|Quest Of The Gem|Quest of the Gem||Action,|||||
 171936|Questmaster I - The Prism of Heheutotol|Questmaster I - The Prism of Heheutotol|||||||
 53543A|Questron|Questron|Questron II|Role playing games,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1984
-53544A|Questron 2|Questron II||Role-Playing,|||Westwood Associates|SSI|1988
+53544A|Questron 2|Questron II||Role-Playing,|1||Westwood Associates|SSI|1988
 172057|Quink|Quink|Alien|Puzzle-Game,|||Ron Dubren and Associates|CBS Software|1984
-53548A|Quizagon|Quizagon||,Quiz||||Springboard|1983
+53548A|Quizagon|Quizagon||Quiz,||||Springboard|1983
 53549A|R.d.f. 1985|R.D.F. 1985||Strategy,||||Strategic Simulations, Inc.|1982
 53550A|Race For Midnight|Race for Midnight||Educational,|4|||Avant-Garde|1981
-53551A|Racter|Racter||Adventure,Simulation,|||Inrac Corporation|Mindscape, Inc.|1985
-53552A|Rad Warrior|Rad Warrior|Radwarrior|Platform,Action,|||Palace Software, Ltd.|Epyx, Inc.|1987
+53551A|Racter|Racter||Adventure,Simulation,|1||Inrac Corporation|Mindscape, Inc.|1985
+53552A|Rad Warrior|Rad Warrior|Radwarrior|Platform,Action,|1||Palace Software, Ltd.|Epyx, Inc.|1987
 117279|Radio Control Flight Simulator|Radio Control Flight Simulator||Simulation,||||John Fallend|
-53555A|Raid Over Moscow|Raid Over Moscow||Action|||Access Software, Inc.|Access Software, Inc.|1985
+53555A|Raid Over Moscow|Raid Over Moscow||Action,Shooter,|||Access Software, Inc.|Access Software, Inc.|1985
 53558A|Rails West!|Rails West!||Strategy,|||Strategic Simulations, Inc.|SSI|1983
-53560A|Rainy Day Games|Rainy Day Games||Action,Arcade|||Baudville|Baudville|1985
+53560A|Rainy Day Games|Rainy Day Games||Action,Board game,|||Baudville|Baudville|1985
 172056|Rambo - First Blood Part II|Rambo - First Blood Part II|||||||
-53562A|Rampage|Rampage||Action,Arcade|||Bally Midway Mfg Co.|Activision, Inc.|1988
-53563A|Randamn|Randamn||Action,|||Magnum Software|Magnum Software|1983
-171935|Rastan|Rastan|Batman|Action|||Taito Corporation|Taito Corporation|1987
+53562A|Rampage|Rampage||Action,Beat'em Up,Platformer,|||Bally Midway Mfg Co.|Activision, Inc.|1988
+53563A|Randamn|Randamn||Action,Arcade,Shooter,,|||Magnum Software|Magnum Software|1983
+171935|Rastan|Rastan|Batman|Action,Arcade,Platform,,|||Taito Corporation|Taito Corporation|1987
 53564A|Raster Blaster|Raster Blaster||Pinball,Action,|||BudgeCo., Inc.|BudgeCo., Inc.|1981
 53566A|Reach For The Stars|Reach for the Stars||Puzzle,|||Codesmiths|SSG|1985
 53567A|Real Life|Real Life||Educational,|||MECC|Relational Systems Corp|1986
-53568A|Realm Of Impossibility|Realm of Impossibility||,Action||||Electronic Arts|1986
-53569A|Realms Of Darkness|Realms of Darkness||Role playing games,Adventure,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1987
+53568A|Realm Of Impossibility|Realm of Impossibility||Adventure,|2|||Electronic Arts|1986
+53569A|Realms Of Darkness|Realms of Darkness||Role playing games,Adventure,|1||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1987
 53571A|Rebel Charge At Chickamauga|Rebel Charge at Chickamauga||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1987
 53574A|Reforger 88|Reforger 88||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1984
 53575A|Regatta|Regatta||Various,||||Sams Software|1983
 53576A|Rendezvous|Rendezvous|Radio Control Flight Simulator|Flight Simulator,|||Titan Computer Products|Eduware|1982
-53577A|Rendezvous With Rama|Rendezvous With Rama||Adventure,|||Byron Preiss Video Productions, Inc.|Trillium Corp.|1984
+53577A|Rendezvous With Rama|Rendezvous With Rama||Adventure,|1||Byron Preiss Video Productions, Inc.|Trillium Corp.|1984
 53578A|Renegade|Renegade|Eamon 207 - Eamon Renegade Club|Beat'em Up,Action,|||Technos Japan Corp.|Taito Corporation|1989
-123951|Renju|Renju||,Software||||Denver Software Development Company|1994
+123951|Renju|Renju||Board game,||||Denver Software Development Company|1994
 53579A|Repton|Repton||Shoot'em Up,Action,|||Sirius Software, Inc.|Sirius Software, Inc.|1983
 53580A|Rescue On Fractalus|Rescue on Fractalus||Simulation,Action,|||Lucasfilm Games LLC|Lucasfilm Games LLC|1985
-53581A|Rescue Raiders|Rescue Raiders||Action|||Sir-tech Software, Inc.|Sir-tech Software, Inc.|1984
+53581A|Rescue Raiders|Rescue Raiders||Action,Shooter,Strategy,|1||Sir-tech Software, Inc.|Sir-tech Software, Inc.|1984
 53584A|Return Of Heracles|Return of Heracles||Role playing games,||||Quality Software|1983
-53586A|Revenge Of Lode Runner|Revenge of Lode Runner||,Arcade||||Broderbund|1986
+53586A|Revenge Of Lode Runner|Revenge of Lode Runner||Arcade,||||Broderbund|1986
 117280|Reversi|Reversi||Traditional,|||Mattel Electronics|Mattel Electronics|1981
 171934|Revolution '76|Revolution '76||Simulation,||||Britannica Software|1989
-53589A|Ribbit|Ribbit||Action,Arcade|||Piccadilly Software Inc.|Piccadilly Software Inc.|1982
-53590A|Right Again|Right Again||,Quiz||||Ascension Designs|1984
-53591A|Ring Quest|Ring Quest||Adventure,|||Origin Systems|Penguin Software, Inc.|1983
+53589A|Ribbit|Ribbit||Action,Puzzle,|||Piccadilly Software Inc.|Piccadilly Software Inc.|1982
+53590A|Right Again|Right Again||Quiz,||||Ascension Designs|1984
+53591A|Ring Quest|Ring Quest||Adventure,|1||Origin Systems|Penguin Software, Inc.|1983
 53593A|Rings Of Zilfin|Rings of Zilfin||Role playing games,|1||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1985
 53594A|Ringside Seat|Ringside Seat||Sports,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1983
 53595A|Risk|Risk||Board game,|||Panther Programs|Leisure Genius|1989
-53598A|Road Rally Usa|Road Rally USA||||||Bantam Software|1985
+53598A|Road Rally Usa|Road Rally USA||Adventure,||||Bantam Software|1985
 53600A|Roadwar 2000|Roadwar 2000||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1986
-53601A|Roadwar 2000 Europa|Roadwar 2000 Europa||,Strategy||||SSI|1987
+53601A|Roadwar 2000 Europa|Roadwar 2000 Europa||Strategy,||||SSI|1987
 53602A|Robocop|Robocop||Beat'em Up,Action,|1||Data East Corporation|Data East USA, Inc.|1988
 53605A|Robot Battle|Robot Battle||Shoot'em Up,Educational,|||Muse Software|United Software of America|1982
 53607A|Robot Rascals|Robot Rascals||Various,Action,|||Ozark Softscape|Electronic Arts, Inc.|1986
-53609A|Robotics|Robotics||,Arcade||||Willmott, Andrew|1986
-53610A|Robotron 2084|Robotron 2084||Shoot'em Up,Action,|||Vid Kidz|Atarisoft|1983
-53611A|Robots Of Dawn|Robots of Dawn||Adventure,|||Epyx, Inc.|Epyx, Inc.|1984
+53609A|Robotics|Robotics||Arcade,||||Willmott, Andrew|1986
+53610A|Robotron 2084|Robotron 2084||Shoot'em Up,Action,|1||Vid Kidz|Atarisoft|1983
+53611A|Robots Of Dawn|Robots of Dawn||Adventure,|1||Epyx, Inc.|Epyx, Inc.|1984
 53612A|Robotwar|Robotwar||Puzzle,|||Muse Games|Muse|1981
-171933|Rocket Ranger|Rocket Ranger||Action,|||Cinemaware Corporation|Cinemaware Corporation|1988
+171933|Rocket Ranger|Rocket Ranger||Action,Strategy,,|||Cinemaware Corporation|Cinemaware Corporation|1988
 117281|Rommel|Rommel||Strategy,|||Strategic Studies Group|SSG|1988
 53615A|Roulette|Roulette||Casino,Simulation,||||Walker, Roger|1991
 53616A|Round About|Round About||Shoot'em Up,Action,|||Gumby Bitworks|Datamost, Inc.|1983
-53617A|Run For It|Run for It||,Arcade||||Optimun Resource|1984
+53617A|Run For It|Run for It||Arcade,||||Optimun Resource|1984
 53618A|Run For The Money|Run for the Money||Action,Educational,|||Tom Snyder Productions, Inc.|Scarborough Systems, Inc.|1984
 171932|Runaway Robots|Runaway Robots|||||||
 53619A|Russia War In The East 1941-1945|Russia War in the East 1941-1945||Strategy,|||Strategic Studies Group|SSG|1987
-53620A|Russki Duck|Russki Duck||Action,Arcade|||Gebelli Software, Inc.|Softsmith Corporation|1982
+53620A|Russki Duck|Russki Duck||Action,Arcade,|||Gebelli Software, Inc.|Softsmith Corporation|1982
 53622A|Sabotage|Sabotage||Shoot'em Up,Action,|||On-Line Systems|On-Line Systems|1981
-53624A|Sacred Stone|Sacred Stone||,Shooter||||Berman, Oliver|
+53624A|Sacred Stone|Sacred Stone||Shooter,||||Berman, Oliver|
 53626A|Sammy Lightfoot|Sammy Lightfoot||Platform,Action,|||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1983
 53630A|Santa Paravia And Fiumaccio|Santa Paravia And Fiumaccio||Role playing games,Simulation,|||Instant Software, Inc|Instant|1979
-53631A|Saracen|Saracen||Action,Arcade|||IntelliCreations, Inc.|Datasoft, Inc.|1987
+53631A|Saracen|Saracen||Action,Puzzle,Puzzle,|||IntelliCreations, Inc.|Datasoft, Inc.|1987
 53634A|Sargon 3|Sargon III||Traditional,|2||Hayden Software|Hayden Book|1983
-53639A|Scary Football|Scary Football||,Football US||||Microsoft|1987
+53639A|Scary Football|Scary Football||Football US,||||Microsoft|1987
 123944|Scoop|Scoop|Scoop, The|Adventure,|||Dale Disharoon, Inc.|Telarium Corp.|1985
 172055|Scott Adams Graphic Adventure #5 - The Count v2.1-115|Scott Adams Graphic Adventure #5 - The Count v2.1-115|||||||
 172054|Scott Adams Graphic Adventure #6 - Strange Odyssey v2.1-119|Scott Adams Graphic Adventure #6 - Strange Odyssey v2.1-119|||||||
-171931|Sea Strike|Sea Strike||Action,|||PBI Software, Inc.|PBI Software, Inc.|1987
+171931|Sea Strike|Sea Strike||Action,Arcade,Shooter,,|||PBI Software, Inc.|PBI Software, Inc.|1987
 53647A|Seadragon|Seadragon||Shooter,|1||Adventure International|Adventure International|1982
 53649A|Seastalker|Seastalker||Adventure,|||Infocom, Inc.|Infocom, Inc.|1984
 117282|Secret Agent - Mission One|Secret Agent - Mission One|Secret Agent Mission One|,Adventure||||Jor-And|
-53650A|Secret Of Easter Island|Secret of Easter Island||Action,Adventure|1||Disney Interactive, Inc.|Three Sigma|1983
+53650A|Secret Of Easter Island|Secret of Easter Island||Action,Adventure,|1||Disney Interactive, Inc.|Three Sigma|1983
 171930|Secrets of Bahras, The|Secrets of Bahras, The|||||||
 171929|Sensei|Sensei|Geos|,Software|||||
 171928|Senseless Violence 2|Senseless Violence 2|||||||
-53652A|Serpentine|Serpentine|Spectre|Action,Compilation|||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1982
-171927|Serve & Volley|Serve &amp; Volley|||||||
-53653A|Seuis Shoot'em Up In Space|Seuis Shoot'em Up in Space||,Shooter||||SSI|1983
+53652A|Serpentine|Serpentine|Spectre|Action,Puzzle,|||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1982
+171927|Serve & Volley|Serve &amp; Volley||Sports,Tennis,,|||||
+53653A|Seuis Shoot'em Up In Space|Seuis Shoot'em Up in Space||Shooter,||||SSI|1983
 53654A|Seven Cities Of Gold|Seven Cities of Gold||Adventure,|||Ozark Softscape|Electronic Arts, Inc.|1984
-53655A|Seventh Fleet|Seventh Fleet||,Strategy||||Simulations Canada|1985
+53655A|Seventh Fleet|Seventh Fleet||Strategy,||||Simulations Canada|1985
 171926|Shadowgate|Shadowgate||Adventure,|||ICOM Simulations, Inc.|Mindscape, Inc.|1987
 53657A|Shadowkeep|Shadowkeep||Role playing games,|||Ultrasoft, Inc.|Trillium Corp.|1984
 53658A|Shadows Of Mordor|Shadows of Mordor||Adventure,|1||Beam Software Pty., Ltd.|Addison-Wesley Publishing Company, Inc.|1988
-53659A|Shamus|Shamus|Nam|Action,Compilation|||Synapse Software Corporation|Synapse Software Corporation|1983
+53659A|Shamus|Shamus|Nam|Action,Puzzle,Shooter,|||Synapse Software Corporation|Synapse Software Corporation|1983
 53660A|Shanghai|Shanghai||Puzzle-Game,|||Activision, Inc.|Activision, Inc.|1986
 171925|Shanghai II - Dragon's Eye|Shanghai II - Dragon's Eye|||||||
 53665A|Sheila|Sheila||||||HAL Labs|1982
 53667A|Sherlock Holmes|Sherlock Holmes||Adventure,||||Bantam|1985
-53668A|Sherwood Forest|Sherwood Forest||Adventure,|||Phoenix Software, Inc|Phoenix Software, Inc.|1982
-53669A|Shifty Sam|Shifty Sam||,Puzzle||||Random House|1983
+53668A|Sherwood Forest|Sherwood Forest||Adventure,|1||Phoenix Software, Inc|Phoenix Software, Inc.|1982
+53669A|Shifty Sam|Shifty Sam||Puzzle,||||Random House|1983
 53670A|Shiloh Grant's Trial In The West|Shiloh Grant's Trial in the West||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1987
 53671A|Shogun - A Story Of Japan|Shogun - A Story of Japan||||||Infocom|1989
-53674A|Short Circuit|Short Circuit||Action,Arcade|||Ocean Software Ltd.|Ocean Software Ltd.|1987
-171924|Shufflepuck Cafe|Shufflepuck Cafe|||||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1988
+53674A|Short Circuit|Short Circuit||Action,Arcade,|||Ocean Software Ltd.|Ocean Software Ltd.|1987
+171924|Shufflepuck Cafe|Shufflepuck Cafe||Sports,,|||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1988
 172053|Shuttle Intercept|Shuttle Intercept||,Compilation|||||
-53678A|Sieg In Afrika|Sieg in Afrika|Sieg In Africa|,Strategy||||Simulations Canada|1984
+53678A|Sieg In Afrika|Sieg in Afrika|Sieg In Africa|Strategy,||||Simulations Canada|1984
 53679A|Sierra Championship Boxing|Sierra Championship Boxing||Sports,|||Evryware|Sierra On-Line, Inc.|1985
-53681A|Silent Service|Silent Service||Simulation,|||MicroProse Software, Inc.|MicroProse Software, Inc.|1985
+53681A|Silent Service|Silent Service||Simulation,|1||MicroProse Software, Inc.|MicroProse Software, Inc.|1985
 123945|Silicon Salad|Silicon Salad||||||Beagle Bros|1983
-171923|Silpheed|Silpheed||Action,|||Game Arts Co., Ltd.|Game Arts Co., Ltd.|
-53683A|Simulating The Great Depression 1929-1933|Simulating the Great Depression 1929-1933||,Management||||Yohe, William P.|1986
-171922|Sinbad And The Throne of The Falcon|Sinbad And The Throne of The Falcon||Action,|||Cinemaware Corporation|Cinemaware Corporation|1987
-53685A|Situation Critical|Situation Critical||,Shooter||||Prism|1984
-53686A|Sixgun Shootout|Sixgun Shootout||,Strategy||||SSI|1985
-171921|Skate Or Die|Skate Or Die|||||Electronic Arts, Inc.|Electronic Arts UK Ltd.|1987
+171923|Silpheed|Silpheed||Action,Shooter,,|||Game Arts Co., Ltd.|Game Arts Co., Ltd.|
+53683A|Simulating The Great Depression 1929-1933|Simulating the Great Depression 1929-1933||Simulation,||||Yohe, William P.|1986
+171922|Sinbad And The Throne of The Falcon|Sinbad And The Throne of The Falcon||Action,Strategy,Fighting,,|||Cinemaware Corporation|Cinemaware Corporation|1987
+53685A|Situation Critical|Situation Critical||Shooter,||||Prism|1984
+53686A|Sixgun Shootout|Sixgun Shootout||Strategy,||||SSI|1985
+171921|Skate Or Die|Skate Or Die||Sports,Skateboarding,,|||Electronic Arts, Inc.|Electronic Arts UK Ltd.|1987
 53688A|Ski Crazed|Ski Crazed||Sports,|||JAM software|Baudville|1987
 53689A|Sky Destroyer|Sky Destroyer||Shoot'em Up,Action,|||Taito Corporation|Taito Corporation|
 53692A|Skyfox|Skyfox||Shoot'em Up,Action,|||Raymond E. Tobey, Inc.|Electronic Arts, Inc.|1984
-53694A|Smooth Max|Smooth Max||,Puzzle||||Tri-soft|
-53695A|Sn0ggle|Sn0ggle||,Arcade||||Broderbund|1981
+53694A|Smooth Max|Smooth Max||Platformer,Puzzle,||||Tri-soft|1979
+53695A|Sn0ggle|Sn0ggle||Arcade,||||Broderbund|1981
 172052|Snack Attack and Friends|Snack Attack and Friends||Compilation,||||Funtastic, Inc.|1983
-53698A|Snakebyte|SnakeBYTE||||||Bower, C|2004
-117283|Snakk Attack|Snakk attack||,Arcade||||Unknown|
+53698A|Snakebyte|SnakeBYTE||Action,||||Bower, C|2004
+117283|Snakk Attack|Snakk attack||Arcade,||||Unknown|
 53700A|Sneakers|Sneakers||Shoot'em Up,Action,|||Sirius Software|Sirius Software, Inc.|1981
 172051|Snooper Troops and the Case of the Disappearing Dolphin|Snooper Troops and the Case of the Disappearing Dolphin|||||||
-53701A|Snooper Troops And The Case Of The Granit Point Ghost|Snooper Troops and the Case of the Granit Point Gh||,Adventure||||Spinmaker Software Corp|1982
-53702A|Snoopy To The Rescue|Snoopy to the Rescue||,Arcade||||Random House|1984
-53704A|Softporn Adventure|Softporn Adventure||Adventure,|||Blue Sky Software|Blue Sky Software|1981
+53701A|Snooper Troops And The Case Of The Granit Point Ghost|Snooper Troops and the Case of the Granit Point Gh||Adventure,||||Spinmaker Software Corp|1982
+53702A|Snoopy To The Rescue|Snoopy to the Rescue||Arcade,||||Random House|1984
+53704A|Softporn Adventure|Softporn Adventure||Adventure,|1||Blue Sky Software|Blue Sky Software|1981
 172050|Soko-Ban|Soko-Ban|Sokoban|Puzzle-Game,|1||ASCII Corporation|Spectrum Holobyte, Inc.|1988
 53705A|Sokoban|Sokoban||Puzzle-Game,|||Thinking Rabbit|Spectrum Holobyte|1984
 171920|Solarian|Solarian|Galaxian|,Shooter|||||
@@ -1195,137 +1195,137 @@
 171919|Solitaire Royale|Solitaire Royale||Puzzle-Game,|||Software Resources International|Spectrum Holobyte, Inc.|1987
 53708A|Solo Flight|Solo Flight||Simulation,|||MicroProse Software, Inc.|MicroProse Software, Inc.|1984
 53709A|Sons Of Liberty|Sons of Liberty||Strategy,|2||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1987
-53710A|Sorcerer|Sorcerer||Adventure,|||Infocom, Inc.|Infocom, Inc.|1984
-53711A|Sorcerer Of Claymorgue Castle|Sorcerer of Claymorgue Castle||Adventure,|||Adventure International|Adventure International|1981
-53713A|Sorry!|Sorry!||||||GameTek|1990
+53710A|Sorcerer|Sorcerer||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1984
+53711A|Sorcerer Of Claymorgue Castle|Sorcerer of Claymorgue Castle||Adventure,|1||Adventure International|Adventure International|1981
+53713A|Sorry!|Sorry!||Strategy,Board Game,,||||GameTek|1990
 53714A|South Pacific Quest|South Pacific Quest|ZZZ-UNK-South Pacific Quest - Cheat and Documentations|Platform,Action,||||Ward, Peter|1985
 53715A|Southern Command|Southern Command||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1981
-171918|Space Ace|Space Ace|Space|Action,Spaceship|||Don Bluth Studios|Cinematronics, Inc.|
+171918|Space Ace|Space Ace|Space|Action,Platform,,|||Don Bluth Studios|Cinematronics, Inc.|
 53718A|Space Ark|Space Ark||Shooter,||||Datamost|1983
 171917|Space Cluster|Space Cluster|||||||
 53720A|Space Dodge|Space Dodge|Space Rogue|,Spaceship||||General Masters Corp|1983
 171916|Space Fox|Space Fox|Space|,Spaceship|||||
-171915|Space Harrier|Space Harrier||Action,|||AM R&D Dept. #2|SEGA Enterprises Ltd.|1985
+171915|Space Harrier|Space Harrier||Action,Arcade,Shooter,,|||AM R&D Dept. #2|SEGA Enterprises Ltd.|1985
 117284|Space I|Space I|Space II|Role-Playing,|1||EduWare Services|Edu-ware|1978
 53724A|Space 2|Space II||Role-Playing,|1|||Eduware|1979
 172344|Space Quarks Etc|Space Quarks Etc|||||||
-171914|Space Quest I - The Sarien Encounter|Space Quest||||||Sierra On-Line|1986
+171914|Space Quest I - The Sarien Encounter|Space Quest||Action,Arcade,,||||Sierra On-Line|1986
 171913|Space Quest II - Vohaul's Revenge|Space Quest II - Vohaul's Revenge||Adventure,|1||Sierra On-Line|Sierra On-Line|1987
-53731A|Space Rogue|Space Rogue||Action,Spaceship|||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1989
+53731A|Space Rogue|Space Rogue||Action,Simulation,RPG,|||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1989
 171912|Space Shark|Space Shark|||||||
-53732A|Space Shuttle - A Jouney Into Space|Space Shuttle - A Jouney into Space||Simulation,|||Activision|Activision|1985
-53733A|Space Spikes|Space Spikes||,Shooter||||Three Sigma|1983
+53732A|Space Shuttle - A Jouney Into Space|Space Shuttle - A Jouney into Space||Simulation,|1||Activision|Activision|1985
+53733A|Space Spikes|Space Spikes||Shooter,||||Three Sigma|1983
 53735A|Space Station Zulu|Space Station Zulu||Strategy,|||Microcomputer Games, Inc.|The Avalon Hill Game Company|1982
 53736A|Space Vikings|Space Vikings||Simulation,Action,||||SubLogic|1982
-53740A|Spare Change|Spare Change||Action,Arcade|||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1983
-117285|Sparkee|Sparkee||,Software||||Vagabondo Entreprises|1982
-53742A|Spectre|Spectre||Action,Arcade|||Peninsula Gameworks|Velocity Inc.|1982
+53740A|Spare Change|Spare Change||Action,Arcade,|||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1983
+117285|Sparkee|Sparkee||Software,||||Vagabondo Entreprises|1982
+53742A|Spectre|Spectre||Action,Puzzle,|||Peninsula Gameworks|Velocity Inc.|1982
 53743A|Speedway Classics|Speedway Classics||||||Actioncraft|1984
 123952|Speedy Mahjong|Speedy Mahjong||||||Unknown|
-53744A|Spellbreaker|Spellbreaker||Adventure,|||Infocom, Inc.|Infocom, Inc.|1985
-53746A|Spiderbot|Spiderbot||Action|||Addictive Games Ltd|Epyx, Inc.|1988
-53747A|Spindizzy|Spindizzy||Action,Arcade|||Electric Dreams Software|Electric Dreams Software|1986
-171911|Spirit of Excalibur|Spirit of Excalibur|||||Synergistic Software, Inc.|Virgin Mastertronic Ltd.|1990
-117286|Sports Judge's Thoroughbred Handicapping System, The|The Sports Judge's Thoroughbred Handicapping Syste||,Racing||||Pds Sports|1984
-53752A|Spud And Mug Shoot|Spud And Mug Shoot||,Arcade||||Sams Software|1983
-53753A|Sputnik Attack|Sputnik Attack||,Shooter||||Law, Leo|
+53744A|Spellbreaker|Spellbreaker||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1985
+53746A|Spiderbot|Spiderbot||Action,Platform,,|||Addictive Games Ltd|Epyx, Inc.|1988
+53747A|Spindizzy|Spindizzy||Action,Puzzle,Puzzle,|||Electric Dreams Software|Electric Dreams Software|1986
+171911|Spirit of Excalibur|Spirit of Excalibur||Strategy,,|||Synergistic Software, Inc.|Virgin Mastertronic Ltd.|1990
+117286|Sports Judge's Thoroughbred Handicapping System, The|The Sports Judge's Thoroughbred Handicapping Syste||Racing,||||Pds Sports|1984
+53752A|Spud And Mug Shoot|Spud And Mug Shoot||Arcade,||||Sams Software|1983
+53753A|Sputnik Attack|Sputnik Attack||Shooter,||||Law, Leo|
 53754A|Spy Hunter|Spy Hunter||Race, Driving,|||Bally Midway Mfg Co.|Bally Midway Mfg Co.|1984
-53756A|Spy Vs Spy|Spy Vs Spy|Spy Vs Spy 3 - Artic Antics|Action|||First Star Software, Inc.|First Star Software, Inc.|1984
+53756A|Spy Vs Spy|Spy Vs Spy|Spy Vs Spy 3 - Artic Antics|Action,Strategy,,|2||First Star Software, Inc.|First Star Software, Inc.|1984
 53758A|Spy Vs. Spy 3 - Artic Antics|Spy vs. Spy III - Artic Antics||||||First Star Software|1988
 53760A|Squire|Squire||||||Blue Chip Software|1984
-53763A|Star Ball|Star Ball||Action,Arcade|||Reptilia Designs|Micro Selection, The|1983
+53763A|Star Ball|Star Ball||Action,Arcade,|||Reptilia Designs|Micro Selection, The|1983
 53765A|Star Blazer|Star Blazer||Shoot'em Up,Action,|1||StarCraft, Inc.|Brøderbund Software, Inc.|1981
-53769A|Star Crystal|Star Crystal||Adventure,|||Ba'rac Limited|Ba'rac Limited|1985
-53772A|Star Fleet|Star Fleet||,Spaceship||||Cygnus|1986
+53769A|Star Crystal|Star Crystal||Adventure,|1||Ba'rac Limited|Ba'rac Limited|1985
+53772A|Star Fleet|Star Fleet||Spaceship,||||Cygnus|1986
 53773A|Star League Baseball|Star League Baseball||Sports,|||GameStar|Gamestar Software|1983
-53774A|Star Maze|Star Maze||Action,Shooter|||Sir-Tech|Sir Tech|1982
+53774A|Star Maze|Star Maze||Action,Puzzle,Shooter,|||Sir-Tech|Sir Tech|1982
 53775A|Star Rank Boxing 2|Star Rank Boxing II||Sports,|1||The Softworks Factory|Gamestar|1988
 171910|Star Saga One - Beyond the Boundary|Star Saga One - Beyond the Boundary|||||||
 171909|Star Saga Two - The Clathran Menance v1.0|Star Saga Two - The Clathran Menance v1.0|||||||
 53780A|Star Trek - Promethean Prophecy|Star Trek - Promethean Prophecy||Adventure,|1||TRANS Fiction Systems|Simon &amp; Schuster|1986
-53781A|Star Trek - Strategic Operations Simulator|Star Trek - Strategic Operations Simulator||||||Sega|1983
+53781A|Star Trek - Strategic Operations Simulator|Star Trek - Strategic Operations Simulator||Action,|1|||Sega|1983
 53782A|Star Trek - The Kobayashi Alternative|Star Trek - The Kobayashi Alternative||Adventure,|1||Micromosaics|Simon &amp; Schuster|1985
-53784A|Star Warrior - Starquest|Star Warrior - StarQuest||Shooter,|||SNK Corporation|Automated Simulations|1981
-53785A|Star Wars|Star Wars|Eamon 197 - Star Wars - Tempest One|Action,Arcade|||Atari, Inc.|Parker Brothers|1983
-172049|Starblaster|Starblaster||,Compilation|||||
+53784A|Star Warrior - Starquest|Star Warrior - StarQuest||Shooter,|1||SNK Corporation|Automated Simulations|1981
+53785A|Star Wars|Star Wars|Eamon 197 - Star Wars - Tempest One|Action,Adventure,|||Atari, Inc.|Parker Brothers|1983
+172049|Starblaster|Starblaster||Shooter,||||Piccadilly Software|1982
 117287|Starcraft|Starcraft||Role-Playing,|||Blizzard Entertainment Inc.|Blizzard Entertainment Inc.|1981
-53787A|Starcross|Starcross||Adventure,|||Infocom, Inc.|Infocom, Inc.|1982
+53787A|Starcross|Starcross||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1982
 172048|Starcross r15|Starcross r15|||||||
-172047|Stargate|Stargate|Star Maze|Action,Shooter|||Vid Kidz|Atarisoft|1983
-53790A|Starglider|Starglider||Shoot'em Up,Action,|||Argonaut Software Ltd.|Rainbird Software|1986
+172047|Stargate|Stargate|Star Maze|Action,Shooter,|||Vid Kidz|Atarisoft|1983
+53790A|Starglider|Starglider||Shoot'em Up,Action,|1||Argonaut Software Ltd.|Rainbird Software|1986
 53791A|Starlaser|Starlaser|Star Blazer|,Compilation||||MicroSPARC|1987
-53792A|Starmines|Starmines||,Spaceship||||Softape|1981
+53792A|Starmines|Starmines||Spaceship,||||Softape|1981
 53793A|Starquest - Rescue At Rigel|StarQuest - Rescue at Rigel||||||Automated Simulations|1980
-53794A|Starship Commander|Starship Commander||,Strategy|||Gilman Louie|Voyager|1981
-53795A|Station 5|Station 5||||||Micro Fun|1984
-53797A|Stellar 7|Stellar 7||Action,Shooter|||Dynamix, Inc.|Dynamix, Inc.|1983
-53799A|Stellar Trek|Stellar Trek|Super Stellar Trek|,Strategy||||Rainbow Computing|1980
-117288|Stephen King - The Mist|Stephen King - The Mist||,Adventure||||Mindscape|1985
-53800A|Steve Keene! Private Spy|Steve Keene! Private Spy||,Adventure||||Accolade|1987
-53806A|Strange Brew - The Electronic Tarot|Strange Brew - The Electronic Tarot||,Clairvoyance||||Warlock|1983
-53808A|Strategic Conquest|Strategic Conquest||,Strategy||||Pbi|1986
-53810A|Street Life|Street Life||,Management||||Hardcore Software|1981
-53811A|Street Sport Soccer|Street Sport Soccer||,Soccer||||Epyx|1988
+53794A|Starship Commander|Starship Commander||Strategy,|||Gilman Louie|Voyager|1981
+53795A|Station 5|Station 5||Action,||||Micro Fun|1984
+53797A|Stellar 7|Stellar 7||Action,Shooter,|||Dynamix, Inc.|Dynamix, Inc.|1983
+53799A|Stellar Trek|Stellar Trek|Super Stellar Trek|Strategy,||||Rainbow Computing|1980
+117288|Stephen King - The Mist|Stephen King - The Mist||Adventure,||||Mindscape|1985
+53800A|Steve Keene! Private Spy|Steve Keene! Private Spy||Adventure,||||Accolade|1987
+53806A|Strange Brew - The Electronic Tarot|Strange Brew - The Electronic Tarot||Clairvoyance,||||Warlock|1983
+53808A|Strategic Conquest|Strategic Conquest||Strategy,||||Pbi|1986
+53810A|Street Life|Street Life||Simulation,||||Hardcore Software|1981
+53811A|Street Sport Soccer|Street Sport Soccer||Soccer,||||Epyx|1988
 53812A|Street Sports Baseball|Street Sports Baseball||Sports,|2||Epyx, Inc.|Epyx, Inc.|1987
 53813A|Street Sports Basketball|Street Sports Basketball||Sports,|||Epyx, Inc.|Epyx, Inc.|1987
 53814A|Street Sports Football|Street Sports Football||Sports,|||K-Byte|Epyx, Inc.|1988
 53815A|Strike Fleet|Strike Fleet||Simulation,|||Lucasfilm Games LLC|Electronic Arts, Inc.|1987
-53816A|Strip Blackjack|Strip Blackjack||,Cards||||Sansoft Plus|1983
+53816A|Strip Blackjack|Strip Blackjack||Cards,||||Sansoft Plus|1983
 53817A|Strip Poker - David And Tony|Strip Poker - David & Tony||||||Artwork|1982
-53818A|Strip Poker - Marlena And Candi|Strip Poker - Marlena & Candi||||||Artwork|1982
-53819A|Strip Poker - Melissa And Suzi|Strip Poker - Melissa & Suzi||,Cards||||Artwork|1982
-171908|Strip Poker II|Strip Poker II|||||Artworx Software Company, Inc.|Artworx Software Company, Inc.|1988
+53818A|Strip Poker - Marlena And Candi|Strip Poker - Marlena & Candi||Strategy,||||Artwork|1982
+53819A|Strip Poker - Melissa And Suzi|Strip Poker - Melissa & Suzi||Cards,||||Artwork|1982
+171908|Strip Poker II|Strip Poker II||Strategy,Adult,,|||Artworx Software Company, Inc.|Artworx Software Company, Inc.|1988
 53822A|Sub Battle Simulator|Sub Battle Simulator|Airplane Simulator|Simulation,|||Digital Illusions, Inc.|Epyx, Inc.|1987
 53823A|Sub Mission|Sub Mission||Simulation,Action,|||Tom Snyder Productions, Inc.|Mindscape, Inc.|1986
 53825A|Submarine Commander|Submarine Commander||Simulation,|||Atari, Inc.|Sears, Roebuck and Co.|1983
 171907|Subversion v1.0|Subversion v1.0|||||||
-172046|Succession|Succession||Action,||||Piccadilly Software Inc.|1982
+172046|Succession|Succession||Action,Arcade,,||||Piccadilly Software Inc.|1982
 53829A|Summer Games|Summer Games||Sports,Action,|||Epyx, Inc.|Epyx, Inc.|1984
 53830A|Summer Games 2|Summer Games II||Sports,|8||Epyx, Inc.|Epyx|1985
-53832A|Sundog Frozen Legacy|Sundog Frozen Legacy||Role playing games,Action,|||FTL Games|Accolade, Inc.|1984
-53833A|Super Boulderdash|Super Boulderdash||Puzzle,|||First Star Software|Electronic Arts|1986
-53834A|Super Bunny|Super Bunny||Action,Arcade|||Datamost, Inc.|Datamost, Inc.|1983
-53836A|Super Huey|Super Huey||Simulation,||||Cosmi|1988
-53837A|Super Othello|Super Othello||,Puzzle||||Programma Software|
-53839A|Super Puckman|Super Puckman||,Arcade||||Ado Soft|
-117289|Super Quest|Super Quest||,Adventure||||SoftSide Magazine|1999
-53840A|Super Stellar Trek|Super Stellar Trek||,Strategy||||Rainbow Computing|
-53842A|Super Sunday|Super Sunday||,Football US||||Avalon Hill|1986
-53843A|Super Taxman 2|Super Taxman 2||Action,Arcade|||H.A.L. Labs|HAL Labs|1981
-53844A|Super Trick Out|Super Trick Out||,Breakout||||Charles Wong Kin Hang - Herman Chan Lik Hang|1987
+53832A|Sundog Frozen Legacy|Sundog Frozen Legacy||Role playing games,Action,|1||FTL Games|Accolade, Inc.|1984
+53833A|Super Boulderdash|Super Boulderdash||Puzzle,|2||First Star Software|Electronic Arts|1986
+53834A|Super Bunny|Super Bunny||Action,Arcade,|||Datamost, Inc.|Datamost, Inc.|1983
+53836A|Super Huey|Super Huey||Simulation,|1|||Cosmi|1988
+53837A|Super Othello|Super Othello||Board game,||||Programma Software|
+53839A|Super Puckman|Super Puckman||Arcade,||||Ado Soft|
+117289|Super Quest|Super Quest||RPG,||||SoftSide Magazine|1999
+53840A|Super Stellar Trek|Super Stellar Trek||Strategy,||||Rainbow Computing|1981
+53842A|Super Sunday|Super Sunday||Football US,||||Avalon Hill|1986
+53843A|Super Taxman 2|Super Taxman 2||Action,Arcade,|||H.A.L. Labs|HAL Labs|1981
+53844A|Super Trick Out|Super Trick Out||Breakout,||||Charles Wong Kin Hang - Herman Chan Lik Hang|1987
 53845A|Super Zaxxon|Super Zaxxon||Shoot'em Up,Action,|||SEGA Enterprises Ltd.|SEGA Enterprises, Inc.|1983
 53847A|Superstar Ice Hockey|Superstar Ice Hockey|International Hockey|Sports,|2||DesignStar Consultants, Inc.|Mindscape, Inc.|1988
 53848A|Suspect|Suspect|Suspect - An Interactive Mystery|Adventure,|1||Infocom, Inc.|Infocom, Inc.|1984
 53849A|Suspended|Suspended||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1983
 53850A|Swashbuckler|Swashbuckler||Beat'em Up,Action,|1||Datamost, Inc.|Datamost, Inc.|1982
-53851A|Swiss Family Robinson|Swiss Family Robinson||Adventure,|||Tom Snyder Productions, Inc.|Windham Classics|1984
+53851A|Swiss Family Robinson|Swiss Family Robinson||Adventure,|1||Tom Snyder Productions, Inc.|Windham Classics|1984
 53852A|Sword Of Kadesh|Sword of Kadesh||||||Dynamix|1984
 171906|Sword of Sodan|Sword of Sodan||Action,|||Discovery Software International, Inc.|Discovery Software International, Inc.|1989
 117290|Swordthrust|Swordthrust||Role-Playing,|1|||CE Software|1981
-53854A|T-rex - The Dinosaur Survival Adventure|T-Rex - The Dinosaur Survival Adventure||,Action||||Keron|1984
+53854A|T-rex - The Dinosaur Survival Adventure|T-Rex - The Dinosaur Survival Adventure||Action||||Keron|1984
 53855A|Tactical Armour Command|Tactical Armour Command||||||Avalon Hill|1983
-172045|Tag Team Wrestling|Tag Team Wrestling|||||Technos Japan Corp.|Data East USA, Inc.|1986
+172045|Tag Team Wrestling|Tag Team Wrestling||Fighter,Sports,|||Technos Japan Corp.|Data East USA, Inc.|1986
 53857A|Taipan|Taipan||Simulation,Educational,|1|||Avalanche Productions Inc.|1982
 172044|Tales of Suspense|Tales of Suspense|||||||
-53859A|Talon|Talon||Action,Arcade|1|||Broderbund|1983
-53860A|Tangled Tales|Tangled Tales||Role playing games,|||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1989
-53861A|Tank Platoon|Tank Platoon||,Action||||Gareth Tucker|1987
+53859A|Talon|Talon||Action,Arcade,|1|||Broderbund|1983
+53860A|Tangled Tales|Tangled Tales||Role playing games,|1||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1989
+53861A|Tank Platoon|Tank Platoon||Action||||Gareth Tucker|1987
 53863A|Tanktics|Tanktics||Strategy,|||DMA Design Limited|Interplay Entertainment Corp.|1981
-53864A|Tapper|Tapper||Action,Arcade|||Bally Midway Mfg Co.|SEGA Enterprises, Inc.|1983
+53864A|Tapper|Tapper||Action,Arcade,|||Bally Midway Mfg Co.|SEGA Enterprises, Inc.|1983
 53865A|Tarturian|Tarturian||Adventure,|||Capitol Ideas Software|Highlands Computer Services|1980
-171905|Task Force|Task Force||Action,|||Visual Concepts, Ltd.|Fanfare|1990
+171905|Task Force|Task Force||Action,Shooter,,|||Visual Concepts, Ltd.|Fanfare|1990
 53866A|Tass Times In Tonetown|Tass Times in Tonetown||Adventure,|1||Brainwave Creations|Activision, Inc.|1986
-123565|Tawala's Last Redoubt|Galactic Saga - Tawala's Last Redoubt||,Adventure|||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1981
-53868A|Taxman|Taxman|Super Taxman 2|Action,Arcade|||H.A.L. Labs|H.A.L. Labs|1981
+123565|Tawala's Last Redoubt|Galactic Saga - Tawala's Last Redoubt||Strategy,,|||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1981
+53868A|Taxman|Taxman|Super Taxman 2|Action,Puzzle,|||H.A.L. Labs|H.A.L. Labs|1981
 53870A|Techno Cop|Techno Cop||Race, Driving,Action,|||Gray Matter Inc.|U.S. Gold Ltd.|1988
-171903|Teenage Queen|Teenage Queen|||||ERE Informatique|Infogrames Europe SA|1988
+171903|Teenage Queen|Teenage Queen||Strategy,Adult,,|||ERE Informatique|Infogrames Europe SA|1988
 53872A|Telengard|Telengard|Defender|Role playing games,|1||Microcomputer Games, Inc.|The Avalon Hill Game Company|1982
 123947|Tempete Sur Les Bermudes|Tempete sur les Bermudes||||||Froggy Software|1986
 53875A|Temple Of Apshai Trilogy|Temple of Apshai Trilogy||Role playing games,Compilation,|1||Epyx, Inc.|Epyx, Inc.|1985
-53877A|Tennis Championship|Tennis Championship||,Tennis||||Jean-Claude Levy|1985
-53878A|Territory|Teritory||,Puzzle||||Softhouse Sin|
+53877A|Tennis Championship|Tennis Championship||Sports,||||Jean-Claude Levy|1985
+53878A|Territory|Teritory||Puzzle,||||Softhouse Sin|
 123948|Terrapin Logo Language, The|Terrapin Logo Language, The||||||MIT|1981
-53879A|Terrorist Game System|Terrorist Game System||,Strategy||||Eduware|1980
+53879A|Terrorist Game System|Terrorist Game System||Strategy,||||Eduware|1980
 53880A|Test Drive|Test Drive||Race, Driving,|||Distinctive Software, Inc.|Accolade, Inc.|1988
 171904|Test Drive II - California Scenario|Test Drive II - California Scenario|||||||
 171902|Test Drive II - European Scenario|Test Drive II - European Scenario|||||||
@@ -1336,236 +1336,236 @@
 53882A|Tetris|Tetris|Tetris 2|Puzzle-Game,Action,||||Spectrum Holobyte, Inc.|1988
 53883A|Tetris 2|Tetris 2||Puzzle-Game,Action,|||Nintendo R&D1|Nintendo of Europe GmbH|1993
 53886A|Tharolian Tunnels|Tharolian Tunnels||Shoot'em Up,Action,|||Datamost, Inc.|Datamost, Inc.|1982
-52216A|Abyssal Zone, The|The Abyssal Zone||,Adventure||||Salty Software|1984
-52221A|Adventure - Only the Fittest Shall Survive, The|The Adventure - Only the Fittest Shall Survive||,Adventure||||Green Valley Publishing|1985
+52216A|Abyssal Zone, The|The Abyssal Zone||Adventure,|1|||Salty Software|1984
+52221A|Adventure - Only the Fittest Shall Survive, The|The Adventure - Only the Fittest Shall Survive||Adventure,||||Green Valley Publishing|1985
 52233A|Adventures of Buckaroo Banzai, The|The Adventures of Buckaroo Banzai||Adventure,|||Adventure International|Adventure International|1985
 52257A|Alpine Encounter, The|The Alpine Encounter|Alpine Encounter|Adventure,|1||Ibid, Inc.|Random House|1985
 52262A|American Challenge, The|The American Challenge||Sports,|1||Tom Snyder Productions|Mindscape|1986
 52265A|Ancient Art of War, The|The Ancient Art of War||Strategy,|1||Evryware|Broderbund|1989
 52264A|Ancient Art of War at Sea, The|The Ancient Art of War at Sea||Strategy,|1||Evryware|Broderbund|1988
-52290A|Arcade Machine, The|The Arcade Machine||,Shooter||||Broderbund|1982
+52290A|Arcade Machine, The|The Arcade Machine||Shooter,||||Broderbund|1982
 52330A|Bard's Tale, The|The Bard's Tale||Role playing games,|1||Interplay|Electronic Arts|1985
 52328A|Bard's Tale 2 - The Destiny Knight, The|The Bard's Tale II - The Destiny Knight||||||Electronic Arts|1986
 52329A|Bard's Tale 3 - The Thief of Fate, The|The Bard's Tale III - The Thief of Fate|Bard's Tale III - The Thief of Fate, The|,Adventure||||Interplay|1988
-52342A|Battle of Shiloh, The|The Battle of Shiloh||,Strategy||||SSI|1981
-52368A|Bermuda Race, The|The Bermuda Race||,Sports||||Sams Software|1983
-52371A|Best of Bill Budge, The|The Best of Bill Budge||,Compilation||||Bill Budge|1979
-52382A|Bilestoad, The|The Bilestoad||Action,Adventure||||Datamost|
-52386A|Black Cauldron, The|The Black Cauldron||Adventure,|||Sierra On-Line|Sierra - Walt Disney|1985
-52389A|Black Sage, The|The Black Sage||,Adventure|||Poly-Versa-Technology|Poly-Versa-Technology Software|1980
-52391A|Blade of Blackpoole, The|The Blade of Blackpoole||,Adventure|||Sirius Software|Sirius Software|1982
-52411A|Bouncing Kamungas, The|The Bouncing Kamungas||,Arcade||||Penguin Software|1983
+52342A|Battle of Shiloh, The|The Battle of Shiloh||Strategy,|1|||SSI|1981
+52368A|Bermuda Race, The|The Bermuda Race||Sports,||||Sams Software|1983
+52371A|Best of Bill Budge, The|The Best of Bill Budge||Compilation,||||Bill Budge|1979
+52382A|Bilestoad, The|The Bilestoad||Action,Fighting,||||Datamost|1982
+52386A|Black Cauldron, The|The Black Cauldron||Adventure,|1||Sierra On-Line|Sierra - Walt Disney|1985
+52389A|Black Sage, The|The Black Sage||Adventure,|||Poly-Versa-Technology|Poly-Versa-Technology Software|1980
+52391A|Blade of Blackpoole, The|The Blade of Blackpoole||Adventure,|1||Sirius Software|Sirius Software|1982
+52411A|Bouncing Kamungas, The|The Bouncing Kamungas||Arcade,||||Penguin Software|1983
 52415A|Brain Machine, The|The Brain Machine||||||Softdisk|1986
-52457A|Cave of Time, The|The Cave of Time||,Adventure||||Bantam Software|1985
-52460A|Caverns of Freitag, The|The Caverns of Freitag||,Action||||Muse|1982
-52461A|Caves of Olympus, The|The Caves of Olympus||,Adventure|||Advanced Operating Systems|Sams Software|1982
-52463A|Centauri Alliance, The|The Centauri Alliance||,Adventure||||Broderbund|
-52465A|Chalice of Mostania, The|The Chalice of Mostania||||||Coastal Software|1985
+52457A|Cave of Time, The|The Cave of Time||Action,Adventure,|1|||Bantam Software|1985
+52460A|Caverns of Freitag, The|The Caverns of Freitag||Action||||Muse|1982
+52461A|Caves of Olympus, The|The Caves of Olympus||Adventure,|1||Advanced Operating Systems|Sams Software|1982
+52463A|Centauri Alliance, The|The Centauri Alliance||Adventure,||||Broderbund|
+52465A|Chalice of Mostania, The|The Chalice of Mostania||Adventure,|1|||Coastal Software|1985
 52479A|Chessmaster 2000, The|The Chessmaster 2000||Traditional,|||Software Toolworks, Inc., The|The Software Toolworks|1986
-52524A|Cosmic Balance, The|The Cosmic Balance||,Strategy|||Strategic Simulations, Inc.|SSI|1982
-52523A|Cosmic Balance 2, The|The Cosmic Balance II||,Strategy|||Strategic Simulations Inc.|SSI|1986
-52531A|Coveted Mirror, The|The Coveted Mirror||,Adventure|||Penguin Software|Penguin Software|1983
-52545A|Crimson Crown, The|The Crimson Crown||||||Polarware|1985
-52571A|Curse of Crowley Manor, The|The Curse of Crowley Manor||,Adventure|||Adventure International|Adventure International|1980
-52582A|Dallas Quest, The|The Dallas Quest||,Adventure|||Datasoft|Datasoft|1984
-52583A|Dambusters, The|The Dambusters||||||Sydney Development|1984
-52585A|Dark Crystal, The|The Dark Crystal||,Adventure||||Sierra|1982
+52524A|Cosmic Balance, The|The Cosmic Balance||Simulation,Strategy,|||Strategic Simulations, Inc.|SSI|1982
+52523A|Cosmic Balance 2, The|The Cosmic Balance II||Strategy,|||Strategic Simulations Inc.|SSI|1986
+52531A|Coveted Mirror, The|The Coveted Mirror||Adventure,|1||Penguin Software|Penguin Software|1983
+52545A|Crimson Crown, The|The Crimson Crown||Adventure,|1|||Polarware|1985
+52571A|Curse of Crowley Manor, The|The Curse of Crowley Manor||Adventure,|1||Adventure International|Adventure International|1980
+52582A|Dallas Quest, The|The Dallas Quest||Adventure,|1||Datasoft|Datasoft|1984
+52583A|Dambusters, The|The Dambusters||Simulation,|1|||Sydney Development|1984
+52585A|Dark Crystal, The|The Dark Crystal||Adventure,|1|||Sierra|1982
 52587A|Dark Heart of Uukrul, The|The Dark Heart of Uukrul||Role playing games,|1||Digital Studios|Broderbund|1989
 52610A|Demon's Forge, The|The Demon's Forge||Adventure,|||Saber Software|Saber Software|1981
-52615A|Desecration, The|The Desecration||,Adventure|||Mind Games|Mind Games|1982
-52620A|Diabolical Plot of Doctor Dracupig, The|The Diabolical Plot of Doctor Dracupig||||||The Southern Pirate|
+52615A|Desecration, The|The Desecration||Adventure,|1||Mind Games|Mind Games|1982
+52620A|Diabolical Plot of Doctor Dracupig, The|The Diabolical Plot of Doctor Dracupig||Shooter,||||The Southern Pirate|1983
 52642A|Dragon's Eye, The|The Dragon's Eye||Role-Playing,|1||Southern Software|Southern Software Limited|1981
-52927A|Eidolon, The|The Eidolon||,Adventure||||Lucasfilm Games|1985
-52933A|Elysian Fields, The|The Elysian Fields||,Adventure|||American Eagle|American Eagle|1984
-52944A|Escape From Traam, The|The Escape From Traam||,Adventure||||Adventure International|1981
+52927A|Eidolon, The|The Eidolon||Action,Adventure,|1|||Lucasfilm Games|1985
+52933A|Elysian Fields, The|The Elysian Fields||Adventure,|1||American Eagle|American Eagle|1984
+52944A|Escape From Traam, The|The Escape From Traam||Adventure,|1|||Adventure International|1981
 52952A|Factory, The|The Factory||||||Sunburst Communications|1983
 53027A|Games - Summer Edition, The|The Games - Summer Edition||Sports,|4||Epyx, Inc.|Epyx|1984
 53028A|Games - Winter Edition, The|The Games - Winter Edition|Games Winter Edition, The|,Sports||||Epyx|1988
-53075A|Goonies, The|The Goonies||Action|||Datasoft|Datasoft|1985
+53075A|Goonies, The|The Goonies||Action,Platformer,Puzzle,|||Datasoft|Datasoft|1985
 53080A|Great American Cross-Country Road Race, The|The Great American Cross-Country Road Race||Racing,|||Activision|Activision|1985
-53081A|Great Maine to California Race, The|The Great Maine to California Race||,Quiz||||Hayden Book|1983
-53090A|Guns of Fort Defiance, The|The Guns of Fort Defiance||||||Avalon Hill|1981
+53081A|Great Maine to California Race, The|The Great Maine to California Race||Quiz,|2|||Hayden Book|1983
+53090A|Guns of Fort Defiance, The|The Guns of Fort Defiance||Simulation,||||Avalon Hill|1981
 53098A|Halley Project, The|The Halley Project||Construction and Management Simulation,|||Tom Snyder Productions, Inc.|Mindscape|1985
-53110A|Heist, The|The Heist||,Arcade||||Microfun|1983
-53129A|Hitchhiker's Guide to the Galaxy, The|The Hitchhiker's Guide to the Galaxy||Adventure,|||Infocom|Infocom|1984
-53130A|Hobbit, The|The Hobbit||Adventure,|||Beam Software|Melbourne House|1982
-53132A|Holy Grail, The|The Holy Grail||,Adventure||||Hayden Software|1984
+53110A|Heist, The|The Heist||Platformer,|1|||Microfun|1983
+53129A|Hitchhiker's Guide to the Galaxy, The|The Hitchhiker's Guide to the Galaxy||Adventure,|1||Infocom|Infocom|1984
+53130A|Hobbit, The|The Hobbit||Adventure,|1||Beam Software|Melbourne House|1982
+53132A|Holy Grail, The|The Holy Grail||Adventure,|1|||Hayden Software|1984
 53137A|Hunt for the Red October, The|The Hunt for the Red October||Simulation,|1||Oxford Digital Enterprises|Datasoft|1989
-53153A|Incredible Shrinking Man, The|The Incredible Shrinking Man||,Adventure||||Chiang Brothers|1982
-53160A|Infiltrator, The|The Infiltrator||,Shooter||||Lim Thye Chean|1990
-53163A|Institute, The|The Institute||Adventure,|||Screenplay|Screenplay|1983
-53170A|Islands of Beta, The|The Islands of Beta||,Adventure||||Milliken|1984
-53185A|Jet, The|The Jet||,Flight simulator||||SubLogic|1986
-53240A|Last Gladiator, The|The Last Gladiator||,Action||||Electronic Arts|1983
+53153A|Incredible Shrinking Man, The|The Incredible Shrinking Man||Adventure,|1|||Chiang Brothers|1982
+53160A|Infiltrator, The|The Infiltrator||Shooter,||||Lim Thye Chean|1990
+53163A|Institute, The|The Institute||Adventure,|1||Screenplay|Screenplay|1983
+53170A|Islands of Beta, The|The Islands of Beta||Adventure,||||Milliken|1984
+53185A|Jet, The|The Jet||Flight simulator,||||SubLogic|1986
+53240A|Last Gladiator, The|The Last Gladiator||Action||||Electronic Arts|1983
 53252A|Legend of Blacksilver, The|The Legend of Blacksilver||Role-Playing,|||Quest Software, Inc.|Quest Software|1989
-53257A|Lion's Share, The|The Lion's Share||,Adventure||||Davka|1983
+53257A|Lion's Share, The|The Lion's Share||Adventure,|1|||Davka|1983
 53267A|Lost Ark of the Covenant, The|The Lost Ark of the Covenant||||||Botti, John|1984
 53273A|Lurking Horror, The|The Lurking Horror||Adventure,|1||Infocom|Infocom|1987
-53278A|Magic Candle, The|The Magic Candle||||||Mindcraft|1989
+53278A|Magic Candle, The|The Magic Candle||RPG,|1|||Mindcraft|1989
 53289A|Mask of the Sun, The|The Mask of the Sun||Adventure,|1||Ultrasoft|Ultrasoft|1982
 53300A|Maze, The|The Maze||||||Fermented Software|1981
 53346A|Missing Ring, The|The Missing Ring||Role-Playing,|||Datamost, Inc.|Datamost|1982
-53398A|Neverending Story, The|The Neverending Story||,Adventure||||Datasoft|1985
-53456A|Pawn, The|The Pawn||||||Magnetic Scrolls|1986
-53473A|Philistine Ploy, The|The Philistine Ploy||Adventure,|||Davka Corporation|Davka|1983
-53492A|Planet Miners, The|The Planet Miners||,Management||||Avalon Hill|1980
-53517A|Prisoner, The|The Prisoner||,Adventure||||Edu-ware|1980
+53398A|Neverending Story, The|The Neverending Story||Adventure,|1|||Datasoft|1985
+53456A|Pawn, The|The Pawn||Adventure,||||Magnetic Scrolls|1986
+53473A|Philistine Ploy, The|The Philistine Ploy||Adventure,|1||Davka Corporation|Davka|1983
+53492A|Planet Miners, The|The Planet Miners||Adventure,|4|||Avalon Hill|1980
+53517A|Prisoner, The|The Prisoner||Adventure,||||Edu-ware|1980
 53537A|Queen of Phobos, The|The Queen of Phobos||||||Phoenix Software|1982
 53538A|Quest, The|The Quest|Dallas Quest, The|Adventure,|||Penguin Software|Penguin Software|1983
-53599A|Road to Gettysburg, The|The Road to Gettysburg||,Strategy||||SSI|1982
-53613A|Rocky Horror Show, The|The Rocky Horror Show||,Action||||Activision|1986
-53627A|Sands of Egypt, The|The Sands of Egypt||,Adventure||||Datasoft|1982
-53628A|Sands of Mars, The|The Sands of Mars||,Adventure||||Crystal|1981
-53641A|Scoop, The|The Scoop||,Adventure||||Telarium|1986
-53651A|Serpent's Star, The|The Serpent's Star||Adventure,|||Ultrasoft|Ultrasoft|1983
+53599A|Road to Gettysburg, The|The Road to Gettysburg||Strategy,||||SSI|1982
+53613A|Rocky Horror Show, The|The Rocky Horror Show||Action||||Activision|1986
+53627A|Sands of Egypt, The|The Sands of Egypt||Adventure,|1|||Datasoft|1982
+53628A|Sands of Mars, The|The Sands of Mars||Adventure,||||Crystal|1981
+53641A|Scoop, The|The Scoop||Adventure,|1|||Telarium|1986
+53651A|Serpent's Star, The|The Serpent's Star||Adventure,|1||Ultrasoft|Ultrasoft|1983
 53661A|Shard of Spring, The|The Shard of Spring||Role-Playing,|||Strategic Simulations|SSI|1986
-53663A|Shattered Alliance, The|The Shattered Alliance||,Strategy||||SSI|1981
-53748A|Spirit of Glennmore Castle, The|The Spirit of Glennmore Castle||,Adventure||||On Target|1984
+53663A|Shattered Alliance, The|The Shattered Alliance||Strategy,|1|||SSI|1981
+53748A|Spirit of Glennmore Castle, The|The Spirit of Glennmore Castle||Adventure,|1|||On Target|1984
 53761A|Standing Stones, The|The Standing Stones||Adventure,|||Electronic Arts|Electronic Arts|1983
 53804A|Stone of Sisyphus, The|The Stone of Sisyphus||Adventure,|||Chameleon Software|Chameleon|1981
-53820A|Struggle of Guadalcanal, The|The Struggle of Guadalcanal||,Strategy||||Roy, Jeffery|1991
-53914A|Tracer Sanction, The|The Tracer Sanction||Puzzle,||||Activision|1984
-53979A|Warp Factor, The|The Warp Factor||Simulation,||||SSI|1981
+53820A|Struggle of Guadalcanal, The|The Struggle of Guadalcanal||Strategy,||||Roy, Jeffery|1991
+53914A|Tracer Sanction, The|The Tracer Sanction||Puzzle,|1|||Activision|1984
+53979A|Warp Factor, The|The Warp Factor||Simulation,|1|||SSI|1981
 53998A|White Water Canoe Race, The|The White Water Canoe Race||||||Solutions Unlimited|1984
-54014A|Witness, The|The Witness||,Adventure||||Infocom|1983
-54018A|Wizard of Oz, The|The Wizard of Oz||Educational,||||Windham Classics|1985
+54014A|Witness, The|The Witness||Adventure,|1|||Infocom|1983
+54018A|Wizard of Oz, The|The Wizard of Oz||Educational,|1|||Windham Classics|1985
 54032A|World's Greatest Baseball Game, The|The World's Greatest Baseball Game||Sports,||||Epyx|1984
-54033A|World's Greatest Football, The|The World's Greatest Football||,Football US||||Epyx|1985
+54033A|World's Greatest Football, The|The World's Greatest Football||Football US,||||Epyx|1985
 54037A|Wrath of Denethenor, The|The Wrath of Denethenor||Role-Playing,|1||Christopher Crim|Sierra On-Line|1986
-54042A|Yellow Submarine, The|The Yellow Submarine||,Shooter||||Webster, Daniel|1988
-53887A|Theatre Europe|Theatre Europe||Strategy,|||Personal Software Services|Datasoft, Inc.|1986
+54042A|Yellow Submarine, The|The Yellow Submarine||Shooter,||||Webster, Daniel|1988
+53887A|Theatre Europe|Theatre Europe||Strategy,|1||Personal Software Services|Datasoft, Inc.|1986
 53888A|Theseus And The Minotaur|Theseus and the Minotaur||Action,Puzzle-Game,|||TSR Hobbies, Inc|TSR|1982
-53889A|Thexder|Thexder||Action,Shooter|||Game Arts Co., Ltd.|Sierra On-Line, Inc.|1987
+53889A|Thexder|Thexder||Action,Puzzle,Platformer,Shooter,|||Game Arts Co., Ltd.|Sierra On-Line, Inc.|1987
 171898|Third Courier, The|Third Courier, The|||||||
-53892A|Three Mile Island Special Version|Three Mile Island Special Version||,Software||||Muse|1980
+53892A|Three Mile Island Special Version|Three Mile Island Special Version||Software,||||Muse|1980
 171897|Three Stooges, The|Three Stooges, The|||||||
 53893A|Threshold|Threshold||Shoot'em Up,Action,|||On-Line Systems|On-Line Systems|1981
-184613|Tic Tac Show|Tic Tac Show|ZZZ-UNK-Tic Tac Show||||||
-53897A|Tigers In The Snow|Tigers in the Snow|Battle of the Parthian Kings|,Strategy||||SSI|1981
+184613|Tic Tac Show|Tic Tac Show|ZZZ-UNK-Tic Tac Show|||||Computer Advanced Ideas|1982
+53897A|Tigers In The Snow|Tigers in the Snow|Battle of the Parthian Kings|Strategy,|1|||SSI|1981
 172042|Time Traveler Rev 0|Time Traveler Rev 0|||||||
 53902A|Time Zone|Time Zone||Adventure,|1||On-Line Systems|On-Line Systems|1982
 171896|Timelord|Timelord|||||||
 53903A|Times Of Lore|Times of Lore||Role playing games,Action,|1||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1988
 171895|Tinies, The|Tinies, The|||||||
 53904A|Titan Empire|Titan Empire||Simulation,Action,|||Muse Software|Muse Software|1983
-53906A|Tomahawk|Tomahawk||Simulation,|||Digital Integration Ltd.|Datasoft, Inc.|1987
+53906A|Tomahawk|Tomahawk||Simulation,|1||Digital Integration Ltd.|Datasoft, Inc.|1987
 53908A|Top Fuel Eliminator|Top Fuel Eliminator||Race, Driving,|||Gamestar, Inc.|Activision, Inc.|1987
 53910A|Torpedo Fire|Torpedo Fire||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1981
 171894|Tower of Myraglen, The|Tower of Myraglen, The|||||||
 117291|Towers Of Hanoi|Towers of Hanoi||Puzzle-Game,||||Softside|1979
-53915A|Track And Field|Track & Field||||||Atarisoft|1984
-53916A|Track Attack|Track Attack||Action,Arcade|||Arc Developments|MicroProse Ltd.|1982
+53915A|Track And Field|Track & Field||Sports,||||Atarisoft|1984
+53916A|Track Attack|Track Attack||Action,Arcade,|||Arc Developments|MicroProse Ltd.|1982
 53918A|Tranquility Base|Tranquility Base||Simulation,Action,|||Peachtree Software|Peachtree Software|1984
 53919A|Transylvania|Transylvania|Transylvania II - Crimson Crown|Adventure,|1||Penguin Software, Inc.|Penguin Software, Inc.|1982
-53921A|Transylvania 2 - Crimson Crown|Transylvania II - Crimson Crown||||||Polarware|1985
+53921A|Transylvania 2 - Crimson Crown|Transylvania II - Crimson Crown||Adventure,|1|||Polarware|1985
 171893|Transylvania III|Transylvania III|Transylvania|,Adventure|||||
-53922A|Treasure Island|Treasure Island|Eamon 013 - Caves of Treasure Island|Adventure,Action,|||Crossroads|L.K. Avalon|1985
-171892|Triango|Triango|Taipan|,Compilation|||Magic Partners|California Dreams|1989
+53922A|Treasure Island|Treasure Island|Eamon 013 - Caves of Treasure Island|Adventure,Action,|1||Crossroads|L.K. Avalon|1985
+171892|Triango|Triango|Taipan|Strategy,Board Game,,|||Magic Partners|California Dreams|1989
 53925A|Trinity|Trinity||Adventure,|||Infocom, Inc.|Infocom, Inc.|1986
 53930A|Troll's Tale|Troll's Tale|Tangled Tales|Adventure,|||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1983
 53931A|Trolls And Tribulations|Trolls and Tribulations||Platform,Action,|||Designer Software|Creative Software|1984
-53933A|Tron|Tron|Cytron Masters|Action,Compilation|||Bally Midway Mfg Co.|Bally Midway Mfg Co.|1982
-53934A|Tubeway|Tubeway|Nukewar|Action,Compilation|||Datamost, Inc.|Datamost|1982
-172041|Tuesday Morning Quarterback|Tuesday Morning Quarterback|||||||
-53935A|Tuesday Night Football|Tuesday Night Football||||||ShoeString Software|1980
-171891|Tunnels of Armageddon|Tunnels of Armageddon||Action,|||Logical Design Works, Inc.|California Dreams|1989
+53933A|Tron|Tron|Cytron Masters|Action,Puzzle,|||Bally Midway Mfg Co.|Bally Midway Mfg Co.|1982
+53934A|Tubeway|Tubeway|Nukewar|Action,Shooter,|||Datamost, Inc.|Datamost|1982
+172041|Tuesday Morning Quarterback|Tuesday Morning Quarterback||||||Automated Simulations|1981
+53935A|Tuesday Night Football|Tuesday Night Football||Action,Sports,||||ShoeString Software|1980
+171891|Tunnels of Armageddon|Tunnels of Armageddon||Action,Racing,,|||Logical Design Works, Inc.|California Dreams|1989
 172040|Tutorial Quiz Master|Tutorial Quiz Master|||||||
 53939A|Tycoon|Tycoon||Strategy,Simulation,||||Budgie UK|1983
-53941A|Typhoon Of Steel|Typhoon of Steel|Typhoon of Steel - Europe|Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1988
-53943A|U.s.a.a.f.|U.S.A.A.F.|U.S.A.A.F. - Alternate 2|,Strategy||||SSI|1985
-117293|Ultima 2 Killer Character|Ultima II Killer Character||||||Black Hole|1983
-117294|Ultima 3 - Exodus Construction Set|Ultima III - Exodus Construction Set||,Software||||Dan Gartung|1984
-117292|Ultima Akalabeth|Ultima Akalabeth||,Adventure||||Unknown|1980
-53945A|Ultima I - The First Age Of Darkness|Ultima I - The First Age of Darkness||Role playing games,|||Richard Garriott|Origin|1981
-53946A|Ultima 2 - Revenge Of The Enchantress|Ultima II - Revenge of the Enchantress||Role-Playing,||||On-Line Systems|1983
-53947A|Ultima 3 - Exodus|Ultima III - Exodus||Role-Playing,|||ORIGIN Systems|Origin|1983
-53948A|Ultima 4 - Quest Of The Avatar|Ultima IV - Quest of the Avatar||Role-Playing,|||ORIGIN Systems|Origin|1985
-117295|Ultima Iv Construction Set|Ultima IV Construction Set||,Software||||Southwest Pirate's Guild|
-117296|Ultima Iv Solve Disk|Ultima IV Solve Disk||,Other||||Sector Seventeen|
+53941A|Typhoon Of Steel|Typhoon of Steel|Typhoon of Steel - Europe|Strategy,|2||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1988
+53943A|U.s.a.a.f.|U.S.A.A.F.|U.S.A.A.F. - Alternate 2|Strategy,||||SSI|1985
+117293|Ultima 2 Killer Character|Ultima II Killer Character||Software,||||Black Hole|1983
+117294|Ultima 3 - Exodus Construction Set|Ultima III - Exodus Construction Set||Software,||||Dan Gartung|1984
+117292|Ultima Akalabeth|Ultima Akalabeth||Adventure,||||Unknown|1980
+53945A|Ultima I - The First Age Of Darkness|Ultima I - The First Age of Darkness||Role playing games,|1||Richard Garriott|Origin|1981
+53946A|Ultima 2 - Revenge Of The Enchantress|Ultima II - Revenge of the Enchantress||Role-Playing,|1|||On-Line Systems|1983
+53947A|Ultima 3 - Exodus|Ultima III - Exodus||Role-Playing,|1||ORIGIN Systems|Origin|1983
+53948A|Ultima 4 - Quest Of The Avatar|Ultima IV - Quest of the Avatar||Role-Playing,|1||ORIGIN Systems|Origin|1985
+117295|Ultima Iv Construction Set|Ultima IV Construction Set||Software,||||Southwest Pirate's Guild|
+117296|Ultima Iv Solve Disk|Ultima IV Solve Disk||Other,||||Sector Seventeen|
 53949A|Ultima 5 - Warriors Of Destiny|Ultima V - Warriors of Destiny||Role-Playing,|1||ORIGIN Systems|Origin|1988
 53951A|Ulysses And The Golden Fleece|Ulysses And the Golden Fleece||Adventure,|1||Sierra On-Line|Sierra|1981
 53952A|Under Fire|Under Fire|ZZZ-UNK-Under Fire - Extended Disks|Strategy,Simulation,|2||Microcomputer Games, Inc.|The Avalon Hill Game Company|1985
 171890|Uninvited|Uninvited||Adventure,|||ICOM Simulations, Inc.|Mindscape, Inc.|1986
-53954A|United States Adventure|United States Adventure||,Adventure||||First Star Software|
+53954A|United States Adventure|United States Adventure||Adventure,|1|||First Star Software|1984
 53955A|Universe|Universe||Strategy,Adventure,|1||Core Design Ltd.|Core Design Ltd.|1984
-53956A|Up 'n' Down|Up 'n' Down||Race, Driving,|||SEGA Enterprises Ltd.|SEGA Enterprises, Inc.|1984
+53956A|Up 'n' Down|Up 'n' Down||Race, Driving,|1||SEGA Enterprises Ltd.|SEGA Enterprises, Inc.|1984
 172039|Up'N Down|Up'N Down|Up 'n' Down||||||
 53959A|Vaults Of Zurich|Vaults of Zurich||Adventure,||||Artworx Software Company, Inc.|1982
 117297|Vc|VC||Simulation,|||Microcomputer Games, Inc.|The Avalon Hill Game Company|1982
-171889|Vegas Craps|Vegas Craps|||||||
+171889|Vegas Craps|Vegas Craps||Simulation,Casino,,|||||
 171888|Vegas Gambler|Vegas Gambler||Simulation,|||Logical Design Works, Inc.|California Dreams|1987
-53961A|Victory Road|Victory Road||,Action||||Data East|1987
-53962A|Video Vegas|Video Vegas|Video Vegas Club X|,Slot machine||||Baudville|1985
-171887|Vindicators|Vindicators||Action,Arcade|||Atari Games Corporation|Tengen Inc.|1988
-53964A|Viper|Viper||Action,Compilation|||X-ample Architectures|Ocean Software Ltd.|
+53961A|Victory Road|Victory Road||Shooter,||||Data East|1987
+53962A|Video Vegas|Video Vegas|Video Vegas Club X|Casino,||||Baudville|1985
+171887|Vindicators|Vindicators||Action,Shooter,,|||Atari Games Corporation|Tengen Inc.|1988
+53964A|Viper|Viper||Action,Arcade,|||X-ample Architectures|Ocean Software Ltd.|1981
 53966A|Voodoo Castle|Voodoo Castle||Adventure,|1|||Adventure International|1980
 171886|War In Middle Earth|War In Middle Earth|||||||
-53974A|War In Russia|War in Russia||Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1983
+53974A|War In Russia|War in Russia||Strategy,Simulation,|1||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1983
 53975A|War In The South Pacific|War in the South Pacific|Warp in the South Pacific|Strategy,Simulation,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1986
-53976A|War Of The Lance|War of the Lance||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1989
-171885|Warlock|Warlock|Talon|Action,Arcade|||Realtime Associates, Inc.|LJN, Ltd.|1994
-53978A|Warp Destroyer|Warp Destroyer||,Spaceship||||Varsanyi, Eric|1982
-53980A|Warrior Of Ras Vol. 1 - Dunzhin|Warrior of Ras Vol. 1 - Dunzhin||,Adventure||||Screenplay|1982
-53981A|Warrior Of Ras Vol. 2 - Kaiv|Warrior of Ras Vol. 2 - Kaiv||,Adventure||||Screenplay|1982
-53982A|Warrior Of Ras Vol. 3 - The Wylde|Warrior of Ras Vol. 3 - The Wylde||,Adventure||||Screenplay|1982
-53983A|Warrior Of Ras Vol. 4 - Ziggurat|Warrior of Ras Vol. 4 - Ziggurat||,Adventure||||Screenplay|1982
+53976A|War Of The Lance|War of the Lance||Strategy,|1||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1989
+171885|Warlock|Warlock|Talon|Action,Platform,,|||Realtime Associates, Inc.|LJN, Ltd.|1994
+53978A|Warp Destroyer|Warp Destroyer||Shooter,||||Varsanyi, Eric|1982
+53980A|Warrior Of Ras Vol. 1 - Dunzhin|Warrior of Ras Vol. 1 - Dunzhin||Adventure,||||Screenplay|1982
+53981A|Warrior Of Ras Vol. 2 - Kaiv|Warrior of Ras Vol. 2 - Kaiv||Adventure,||||Screenplay|1982
+53982A|Warrior Of Ras Vol. 3 - The Wylde|Warrior of Ras Vol. 3 - The Wylde||Adventure,||||Screenplay|1982
+53983A|Warrior Of Ras Vol. 4 - Ziggurat|Warrior of Ras Vol. 4 - Ziggurat||Adventure,||||Screenplay|1982
 53985A|Warship|Warship||Strategy,||||Strategic Simulations, Inc.|1986
-53986A|Wasteland|Wasteland||Role playing games,|||Interplay Productions, Inc.|Electronic Arts, Inc.|1987
-53987A|Waterloo 2|Waterloo II||||||Crystalware|1981
-172038|Wavy Navy|Wavy Navy||Action,Compilation|||Sirius Software, Inc.|Sirius Software, Inc.|1983
-53989A|Way Out|Way Out||Action,Adventure||||Sirius Software|1982
+53986A|Wasteland|Wasteland||Role playing games,|1||Interplay Productions, Inc.|Electronic Arts, Inc.|1987
+53987A|Waterloo 2|Waterloo II||Strategy,|1|||Crystalware|1981
+172038|Wavy Navy|Wavy Navy||Action,Arcade,Shooter,,|||Sirius Software, Inc.|Sirius Software, Inc.|1983
+53989A|Way Out|Way Out||Action,Adventure,|1|||Sirius Software|1982
 53991A|Wheel Of Fortune|Wheel of Fortune|ZZZ-UNK-Wheel of Fortune - Third Edition|Various,Puzzle-Game,|||ShareData, Inc.|ShareData, Inc.|1987
 117303|Wheel Of Fortune - Third Edition|Wheel Of Fortune - Third Edition|ZZZ-UNK-Wheel of Fortune - Third Edition||||||
 53992A|Wheel Of Fortune 2nd Edition|Wheel of Fortune 2nd Edition||Various,Puzzle-Game,|||Artech Digital Entertainment, Ltd.|Hasbro Interactive, Inc.|1988
 53994A|Where In Europe Is Carmen Sandiego|Where in Europe is Carmen Sandiego||Strategy,Educational,|1||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1988
 53995A|Where In The Usa Is Carmen Sandiego|Where in the USA is Carmen Sandiego||Strategy,Educational,|||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1986
 53996A|Where In The World Is Carmen Sandiego|Where in the World is Carmen Sandiego||Strategy,Educational,|1||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1985
-53999A|Who Framed Roger Rabbit|Who Framed Roger Rabbit||Action,Adventure|||Silent Software|Buena Vista Software|1988
-54002A|Wilderness|Wilderness|Dungeon Campaign - Wilderness Campaign|,Adventure||||Titan|1984
-54003A|Willy Byte In The Digital Dimension|Willy Byte in the Digital Dimension||,Arcade||||Data Trek|1984
-54005A|Win, Lose Or Draw - 2nd Edition|Win, Lose Or Draw - 2nd Edition||,Drawing||||Softie|1988
-54007A|Windwalker|Windwalker||Role playing games,Action,|||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1989
-54008A|Wings Of Fury|Wings of Fury||Action,Shooter|1||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1987
-54009A|Wings Out Of Shadow|Wings Out of Shadow||,Arcade||||Berserker Works|1983
+53999A|Who Framed Roger Rabbit|Who Framed Roger Rabbit||Action,Adventure,|1||Silent Software|Buena Vista Software|1988
+54002A|Wilderness|Wilderness|Dungeon Campaign - Wilderness Campaign|Adventure,||||Titan|1984
+54003A|Willy Byte In The Digital Dimension|Willy Byte in the Digital Dimension||Arcade,|1|||Data Trek|1984
+54005A|Win, Lose Or Draw - 2nd Edition|Win, Lose Or Draw - 2nd Edition||Drawing,||||Softie|1988
+54007A|Windwalker|Windwalker||Role playing games,Action,|1||ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|1989
+54008A|Wings Of Fury|Wings of Fury||Action,Shooter,|1||Brøderbund Software, Inc.|Brøderbund Software, Inc.|1987
+54009A|Wings Out Of Shadow|Wings Out of Shadow||Arcade,||||Berserker Works|1983
 54010A|Winnie The Pooh In The Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh Adventure|Adventure,|1||Sierra On-Line, Inc.|Sierra On-Line, Inc.|1984
 54011A|Winter Games|Winter Games||Sports,Action,|||Action Graphics, Inc.|Epyx, Inc.|1985
 54012A|Wipeout|Wipeout||Casual Game,Action,|||Psygnosis Limited|Psygnosis Limited|1989
-54013A|Wishbringer|Wishbringer||Adventure,|||Infocom, Inc.|Infocom, Inc.|1985
-54016A|Wizard And The Princess|Wizard and the Princess||Adventure,Action,||||Melbourne House|1986
-54017A|Wizard I|Wizard I||Adventure,||||Highlands Computer Services|1980
-123953|Wizard Of Id's Wiztype|Wizard of ID's WizType|Wizard of Oz, The|Action,|||Sydney Development Corp.|Sierra On-Line, Inc.|1984
+54013A|Wishbringer|Wishbringer||Adventure,|1||Infocom, Inc.|Infocom, Inc.|1985
+54016A|Wizard And The Princess|Wizard and the Princess||Adventure,Action,|1|||Melbourne House|1986
+54017A|Wizard I|Wizard I||Adventure,|1|||Highlands Computer Services|1980
+123953|Wizard Of Id's Wiztype|Wizard of ID's WizType|Wizard of Oz, The|Action,Educational,|||Sydney Development Corp.|Sierra On-Line, Inc.|1984
 54019A|Wizard's Crown|Wizard's Crown||Strategy,|||Strategic Simulations, Inc.|Strategic Simulations, Inc.|1985
 54020A|Wizardry|Wizardry|Wizardry III - The Legacy of Llylgamyn|Role playing games,|1||Sir-tech Software, Inc.|Greenberg, Andrew|1981
 54021A|Wizardry 2 - The Knight Of Diamonds|Wizardry II - The Knight of Diamonds||Role-Playing,|||Sir-tech Software|Greenberg, Andrew|1982
-54022A|Wizardry 3 - The Legacy Of Llylgamyn|Wizardry III - The Legacy of Llylgamyn||Role-Playing,|||Sir-tech Software|Greenberg, Andrew|1983
-54023A|Wizardry 4 - The Return Of Werdna|Wizardry IV - The Return of Werdna||Role playing games,||||Sir-Tech Software|1987
-117298|Wizardry Scenary Editor|Wizardry Scenary Editor||,Software||||Unknown|
-54024A|Wizardry 5 - Heart Of The Maelstrom|Wizardry V - Heart of the Maelstrom||,RPG||||Sir-Tech Software|1988
-54025A|Wizards Workbench|Wizards Workbench||,Software||||Magicsoft|1984
-123954|Wizfix - Wizardry Editor|Wizfix - Wizardry Editor||,Software||||Unknown|
+54022A|Wizardry 3 - The Legacy Of Llylgamyn|Wizardry III - The Legacy of Llylgamyn||Role-Playing,|1||Sir-tech Software|Greenberg, Andrew|1983
+54023A|Wizardry 4 - The Return Of Werdna|Wizardry IV - The Return of Werdna||Role playing games,|1|||Sir-Tech Software|1987
+117298|Wizardry Scenary Editor|Wizardry Scenary Editor||Software,||||Unknown|
+54024A|Wizardry 5 - Heart Of The Maelstrom|Wizardry V - Heart of the Maelstrom||RPG,|1|||Sir-Tech Software|1988
+54025A|Wizards Workbench|Wizards Workbench||Software,||||Magicsoft|1984
+123954|Wizfix - Wizardry Editor|Wizfix - Wizardry Editor||Software,||||Unknown|
 54026A|Wizplus|Wizplus||||||Datamost|1982
 171884|Wolfenstein 3D v1.1|Wolfenstein 3D v1.1|||||id Software||
-117302|Word Challenge|Word Challenge||,Puzzle|||||
+117302|Word Challenge|Word Challenge||Puzzle,||||Softside|1981
 54028A|World Class Leader Board|World Class Leader Board||Sports,|||Access Software, Inc.|Access Software, Inc.|1987
 54029A|World Games|World Games||Sports,Action,|||Epyx, Inc.|Epyx, Inc.|1986
 54030A|World Karate Championship|World Karate Championship||Beat'em Up,Action,|||System 3 Software Ltd.|Epyx, Inc.|1986
-171883|World Tour Golf|World Tour Golf||||||Electronic Arts, Inc.|1985
+171883|World Tour Golf|World Tour Golf||Sports,Golf,,||||Electronic Arts, Inc.|1985
 172037|World War II|World War II|World War III|,Puzzle|||||
-54031A|World War 3|World War III||,Puzzle||||Crystal Computer|1980
-117299|World's Greatest Bowling|World's Greatest Bowling||,Bowling||||Unknown|
-171882|Xenocide|Xenocide||Action,|||Pangea Software, Inc.|Micro Revelations, Inc.|1987
+54031A|World War 3|World War III||Puzzle,||||Crystal Computer|1980
+117299|World's Greatest Bowling|World's Greatest Bowling||Bowling,||||Unknown|
+171882|Xenocide|Xenocide||Action,Simulation,Shooter,,|||Pangea Software, Inc.|Micro Revelations, Inc.|1987
 54039A|Xevious|Xevious||Shoot'em Up,Action,|||Namco Limited|Mindscape, Inc.|1982
 54040A|Xyphus|Xyphus||Role playing games,||||Polarware|1984
 54041A|Yahtzee|Yahtzee||Board game,|||Zylom Media Group BV|GameHouse, Inc.|1978
 171881|Zany golf|Zany golf|||||||
 54044A|Zaxxon|Zaxxon|Super Zaxxon|Shoot'em Up,Action,|||SEGA Enterprises Ltd.|Datasoft, Inc.|1983
 54046A|Zenith|Zenith||Shoot'em Up,Action,|||Gebelli Software, Inc.|Gebelli Software, Inc.|1982
-54047A|Zero Gravity Pinball|Zero Gravity Pinball||,Pinball||||Avant-Garde|1982
-54048A|Zoo Master|Zoo Master||,Arcade||||Earthware Computer Services|1983
+54047A|Zero Gravity Pinball|Zero Gravity Pinball||Pinball,||||Avant-Garde|1982
+54048A|Zoo Master|Zoo Master||Arcade,||||Earthware Computer Services|1983
 54049A|Zork I - The Great Underground Empire|Zork I - The Great Underground Empire|Mini-Zork I - The Great Underground Empire|Adventure,|1||Infocom|Infocom|1980
-54050A|Zork 2 - The Wizard Of Frobozz|Zork II - The Wizard of Frobozz||Adventure,|||Infocom|Infocom|1981
+54050A|Zork 2 - The Wizard Of Frobozz|Zork II - The Wizard of Frobozz||Adventure,|1||Infocom|Infocom|1981
 54051A|Zork 3 - The Dungeon Master|Zork III - The Dungeon Master||Adventure,|1||Infocom|Infocom|1982
-172036|Zork Quest - Assault on Egreth Castle|Zork Quest - Assault on Egreth Castle|||||||
-54052A|Zork Zero|Zork Zero||,Adventure||||Infocom|1989
+172036|Zork Quest - Assault on Egreth Castle|Zork Quest - Assault on Egreth Castle||Adventure,|1|||Infocom, Inc.|1988
+54052A|Zork Zero|Zork Zero||Adventure,|1|||Infocom|1989
 54054A|Zorro|Zorro||Platform,Action,|||Capstone Software|Capstone Software|1985
-54055A|Zoyon Patrol|Zoyon Patrol||Adventure; Education,|||MECC|MECC|1987
+54055A|Zoyon Patrol|Zoyon Patrol||Adventure,Educational,|||MECC|MECC|1987

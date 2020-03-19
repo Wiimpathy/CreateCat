@@ -1,19 +1,19 @@
 58798A|3d Crazy Coaster|3D Crazy Coaster|3-D Crazy Coaster|Simulation,|1||GCE|GCE|1983
 58800A|3d Mine Storm|3D Mine Storm|3-D Mine Storm|Shooter,|2||GCE|GCE|1983
 58801A|3d Narrow Escape|3D Narrow Escape|3-D Narrow Escape|Shooter,|1||GCE|GCE|1983
-109027|8ball By Christopher Tumber|Magic 8 Ball||||||Tumber, Christopher|2001
+109027|8ball By Christopher Tumber|Magic 8 Ball||Sports,||||Tumber, Christopher|2001
 109035|All Good Things By John Dondzila|All Good Things||Various,|2||John Dondzila|Dondzila, John|1996
 58810A|Animaction - Advanced Animation|AnimAction: Advanced Animation|Animaction|Educational,|1||GCE|GCE|1983
 58812A|Armor Attack|Armor Attack||Shooter,|2|Coop|Cinematronics|GCE|1982
 58814A|Art Master|Art Master||Educational,|1||GCE|GCE|1983
-109033|Battle Earth Terror Hazard|Battle Earth Terror Hazard|Battle Earth Terror Hazard & Vecsports Boxing|||||Parssinen, Manu|2000
+109033|Battle Earth Terror Hazard|Battle Earth Terror Hazard|Battle Earth Terror Hazard & Vecsports Boxing|Shooter,||||Parssinen, Manu|2000
 109029|Battle Earth Terror Hazard And Vecsports Boxing|Battle Earth Terror Hazard And Vecsports Boxing|||||||
 58823A|Bedlam|Bedlam||Shooter,|2||GCE|Milton Bradley|1982
 58825A|Berzerk|Berzerk||Shooter,|2||Stern Electronics, Inc.|GCE|1982
 109030|Birds Of Prey By John Dondzila|Birds of Prey||Shooter,|2||John Dondzila|Dondzila, John|1999
 58827A|Blitz! Action Football|Blitz! Action Football|Blitz! - Action Football|Sports,|2||GCE|GCE|1982
-109023|Bubble Bobble|Bubble Bobble|||||||
-58831A|Clean Sweep|Clean Sweep||Action,Arcade|2||GCE|GCE|1982
+109023|Bubble Bobble|Bubble Bobble||Action,Arcade,Platform,,|||||
+58831A|Clean Sweep|Clean Sweep||Action,Puzzle,|2||GCE|GCE|1982
 58834A|Cosmic Chasm|Cosmic Chasm||Shooter,|2||GCE|Milton Bradley|1982
 58836A|Dark Tower|Dark Tower||Role playing games,|1||GCE|GCE|1983
 58841A|Engine Analyzer|Engine Analyzer||Various,|1||GCE|GCE|1983
@@ -21,20 +21,20 @@
 109036|Gravitrex By John Dondzila|Gravitrex||Shooter,|1||John Dondzila|Dondzila, John|2002
 58850A|Heads Up - Action Soccer|Heads Up: Action Soccer||Sports,|2||GCE|Milton Bradley|1983
 58851A|Hyperchase|Hyperchase||Race, Driving / Race,Race, Driving,|2||GCE|GCE|1982
-109034|Labyrinth|Labyrinth|Labyrinth Rev 1 by Chris Salomon|||||Salomon, Christopher|1998
+109034|Labyrinth|Labyrinth|Labyrinth Rev 1 by Chris Salomon|Action,Shooter,,||||Salomon, Christopher|1998
 59197A|Mail Plane|Mail Plane||Simulation,|1||GCE|GCE|1983
 58862A|Melody Master - Music Composition And Entertainment|Melody Master: Music Composition and Entertainment|Melody Master|Educational,|1||GCE|GCE|1983
 58864A|Mine Storm|Mine Storm|3-D Mine Storm|Action,Shooter,|2||GCE|GCE|1982
 58865A|Mine Storm 2|Mine Storm II||Action,Shooter,|2||GCE|GCE|1983
 109279|Missile Lords By Christopher Tumber|Missile Lords||Shooter,|1||Christopher Tumber|Tumber, Christopher|2001
-109109|Moon Lander Demo By Clay Cowgill|Moon Lander||Demo,|1||Clay Cowgill|1997|1997
+109109|Moon Lander Demo By Clay Cowgill|Moon Lander||Demo,|1||Clay Cowgill||1997
 109110|Nona3 By Manu|Nonagalf||Demo,|1||Manu|Parssinen, Manu|2003
 109111|Omega Chase|Omega Chase|Omega Chase by Christopher Tumber|Shooter,|2||Christopher Tumber|Tumber, Christopher|1998
 108928|Patriots 3 - Ballistics Busters By John Dondzila|Patriots III - BALListics Busters||Shooter,|2||John Dondzila|Dondzila, John|1996
 109112|Patriots By John Dondzila|Patriots||Shooter,||||Dondzila, John|1996
 108927|Patriots Remix By John Dondzila|Patriots Remix||1996-01-01,||||Dondzila, John|1996
 59206A|Pitcher's Duel|Pitcher's Duel||Sports / Baseball,Sports,|2||GCE|CGE Services|1983
-58878A|Polar Rescue|Polar Rescue||Action,Shooter|2||GCE|GCE|1983
+58878A|Polar Rescue|Polar Rescue||Action,Shooter,|2||GCE|GCE|1983
 58879A|Pole Position|Pole Position||Race, Driving,|1||Namco|GCE|1983
 58882A|Ra+a Spectrum I+ Stress Tester|RA+A Spectrum I+ Stress Tester||Simulation,|1||GCE|GCE|1982
 109113|Repulse By John Dondzila|Repulse||Shooter,|1||John Dondzila|Dondzila, John|1999
@@ -46,7 +46,7 @@
 58896A|Solar Quest|Solar Quest||Shooter,|2||GCE|GCE|1982
 58943A|Space Wars|Space Wars||Shooter,|2||Cinematronics|GCE|1982
 58945A|Spike|Spike|Spike Goes Skiing|Action,Platform,|2||GCE|GCE|1982
-109116|Spike Hoppin' By John Dondzila|Spike Hoppin'||Action,Arcade|1||John Dondzila|Dondzila, John|1998
+109116|Spike Hoppin' By John Dondzila|Spike Hoppin'||Action,Platformer,Puzzle,|1||John Dondzila|Dondzila, John|1998
 109117|Spike's Water Balloons|Spike's Water Balloons|Spike's Water Balloons (Analog)  by John Dondzila|Action,|1||John Dondzila|Dondzila, John|2001
 58951A|Spin Ball|Spin Ball|Spinball|Pinball,|2||GCE|GCE|1983
 58952A|Star Castle|Star Castle||Shooter,|2||Cinematronics|GCE|1983
@@ -58,7 +58,7 @@
 58966A|Tour De France|Tour De France||Race, Driving,|1||GCE|GCE|1983
 109120|Tsunami By Christopher Tumber|Tsunami||Shooter,|1||Christopher Tumber|2001|2001
 109134|V-frogger By Chris Salomon|V-Frogger||Arcade,||||Salomon, Christopher|1998
-109121|Vaboom! By Ronen Habot|Vaboom! By Ronen Habot|||||||
+109121|Vaboom! By Ronen Habot|Vaboom! By Ronen Habot||Action,Arcade,|1||||2000
 109122|Vecmania Part 1|Vecmania Part 1||Various,|2||John Dondzila|Packrat Video Games|1999
 109123|Vecmania Part 2|Vecmania Part 2||Various,|2||John Dondzila|Packrat Video Games|1999
 109124|Vecsports Kingpin Bowling By Manu|VecSports Kingpin Bowling||Sports,|||Manu|Parssinen, Manu|2002
@@ -70,7 +70,7 @@
 109130|Vectrexians|Vectrexians||Shooter,|1||Kristof|Tuts, Kristof|1999
 109131|Version Nine By Christopher Tumber|Vix||Action,|1||Christopher Tumber|Tumber, Christopher|2002
 109132|Verzerk By Alex Herbert|Verzerk||Arcade,|2||Alex Herbert|Herber, Axel|2002
-109133|Vexperience - B.e.t.h. And Vecsports Boxing By Manu|Vexperience - B.e.t.h. And Vecsports Boxing By Manu|||||||
-109135|We Wish You A Merry Christmas By J. Woolsey|We Wish You A Merry Christmas By J. Woolsey|||||||
+109133|Vexperience - B.e.t.h. And Vecsports Boxing By Manu|Vexperience - B.e.t.h. And Vecsports Boxing By Manu||Compilation,|||||
+109135|We Wish You A Merry Christmas By J. Woolsey|We Wish You A Merry Christmas By J. Woolsey||Demo,|||||
 58994A|Web Wars|Web Wars||Shooter,|2||GCE|GCE|1982
 109136|Wormhole By John Dondzila|Wormhole||Shooter,|1||John Dondzila|Dondzila, John|2001

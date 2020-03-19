@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812050837" games="384"/>
+    <WiiTDB version="201812050837" games="384"/>
   <game name="5 In One Fun Pak">
     <id>46279A</id>
     <locale lang="EN">
@@ -404,7 +404,7 @@ The player takes control of Guy Freelander and must transverse this maze, with 2
       <synopsis>Help either Ariel, the gleeful little mermaid, or Triton, her father, foil the evil Ursula, who has transformed everyone into small, green worm-like creatures, including the character you dont initially choose.
 
 Rescuing requires you to simply swim into the unfortunate little victims as they hang about at fixed places in the watery world; while fending off and dodging enemies like eels, clams, sharks, and several other sea meanies. Friends like Flounder and Sebastian can also be summoned for a little helping hand.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>En el papel de Ariel, combate a las criaturas amarinas y derrota a Ursula, la Bruja del Mar, para salvar a Tritón. Como Tritón, el padre de Ariel, recata a Ariel y rompe la maldición de la bruja.</synopsis>
@@ -2117,7 +2117,7 @@ In den Kämpfen steuert man bis zu neun frei wählbare Helden aus der verfügbar
       <genre>Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>O famoso diretor de desenhos animados Yosemite Sam está com um grande problema. Seus troféus, acumulados ao longo de uma brilhante carreira, foram roubados pelo maligno professor Duck Brain que está pedindo 1 milhão de reais pelo resgate.nnnnO pão-duro diretor não quer gastar esta fortuna mas está desesperado para pôr suas mãozinhas nos troféus. Sam depositou todas as suas esperanças em seu velho amigo Patolino (Daffy Duck para os americanos). Será que ele vai se arrepender?nnnnPatolino vai virar Hollywood de cabeça para baixo, atravessando 3 estágios, cada um dividido em dois sets, cada set subdividido em 3 cenas... ufa! São muitos desafios para um pato só!nnnnMas Patolino não estará desarmado. Ele está contando com suas poderosíssimas bolas de chiclete, uma arma plasmática de material grudento desenvolvida pelos fabricantes de guloseimas para envolver qualquer inimigo que ousar enfrentar Patolino.</synopsis>
+      <synopsis>O famoso diretor de desenhos animados Yosemite Sam está com um grande problema. Seus troféus, acumulados ao longo de uma brilhante carreira, foram roubados pelo maligno professor Duck Brain que está pedindo 1 milhão de reais pelo resgate.O pão-duro diretor não quer gastar esta fortuna mas está desesperado para pôr suas mãozinhas nos troféus. Sam depositou todas as suas esperanças em seu velho amigo Patolino (Daffy Duck para os americanos). Será que ele vai se arrepender?Patolino vai virar Hollywood de cabeça para baixo, atravessando 3 estágios, cada um dividido em dois sets, cada set subdividido em 3 cenas... ufa! São muitos desafios para um pato só!Mas Patolino não estará desarmado. Ele está contando com suas poderosíssimas bolas de chiclete, uma arma plasmática de material grudento desenvolvida pelos fabricantes de guloseimas para envolver qualquer inimigo que ousar enfrentar Patolino.</synopsis>
     </locale>
     <developer>Probe Software Ltd.</developer>
     <publisher>Sega</publisher>
@@ -2135,6 +2135,8 @@ In den Kämpfen steuert man bis zu neun frei wählbare Helden aus der verfügbar
     <id>140720</id>
     <locale lang="EN">
       <title>David Robinson's Supreme Court</title>
+      <genre>Sports,Basketball,</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>En este juego, cada regate, pase, patada y codo es real: todo está digitalizado del baloncesto real. 24 disparos diferentes de jumpers para golpear, increíble velocidad y efectos de sonido que golpean el rebote hacen de estas cumbres una acción que se pliega. ¡Robinson demuestra su caso con golpes de monstruos con ambas manos y ataques netos impresionantes! Acción del torneo 3-en-3 o de inclinación total. Elige un escuadrón asesino de un tablero de 20 jugadores formado por especialistas en slam, snowboarders y asesinos de bolas. Captura los comentarios de color del Almirante en los descansos.</synopsis>
@@ -2187,7 +2189,7 @@ Deep Duck Trouble is a platform game where you play as Donald Duck.  You must ma
     </locale>
     <locale lang="PT">
       <title>Deep Duck Trouble Starring Donald Duck</title>
-      <synopsis>O Tio Patinhas é o cara mais preocupado do mundo em ganhar dinheiro. Ele ouviu falar da lenda que dizia que, numa misteriosa ilha, havia um colar que lhe traria tanta sorte quanto a moedinha n° 1.nnnnSe fosse verdade, sua enorme fortuna duplicaria. Sem pestanejar, ele partiu para a tal ilha, achou o colar e, ao voltar, começou a se sentir muito leve. Sabendo da volta de seu tio, Donald foi fazer uma visita surpresa e encontrou-o inflado como um balão, prensado no teto.nnnn" Socorro Donald, eu lhe darei 15 centavos se você voltar à tal ilha e puser o colar de volta ao local de origem. Só assim poderei me livrar da maldição! ". A quantia não era grande coisa, mas de qualquer jeito Donald não poderia negar este pedido do Tio Patinhas.nnnnO pato mais azarado do mundo terá que passar pela floresta, pelo vulcão, pelas cavernas de gelo e muito mais antes de se livrar do colar. Boa sorte em sua aventura, Donald! Ela será tão cheia de perigos que talvez fosse melhor ter mandado o colar pelo correio.</synopsis>
+      <synopsis>O Tio Patinhas é o cara mais preocupado do mundo em ganhar dinheiro. Ele ouviu falar da lenda que dizia que, numa misteriosa ilha, havia um colar que lhe traria tanta sorte quanto a moedinha n° 1.Se fosse verdade, sua enorme fortuna duplicaria. Sem pestanejar, ele partiu para a tal ilha, achou o colar e, ao voltar, começou a se sentir muito leve. Sabendo da volta de seu tio, Donald foi fazer uma visita surpresa e encontrou-o inflado como um balão, prensado no teto." Socorro Donald, eu lhe darei 15 centavos se você voltar à tal ilha e puser o colar de volta ao local de origem. Só assim poderei me livrar da maldição! ". A quantia não era grande coisa, mas de qualquer jeito Donald não poderia negar este pedido do Tio Patinhas.O pato mais azarado do mundo terá que passar pela floresta, pelo vulcão, pelas cavernas de gelo e muito mais antes de se livrar do colar. Boa sorte em sua aventura, Donald! Ela será tão cheia de perigos que talvez fosse melhor ter mandado o colar pelo correio.</synopsis>
       <genre>Plataforma,Ação</genre>
     </locale>
     <locale lang="JA">
@@ -2264,7 +2266,7 @@ There are various items/powerups and bonus areas
       <genre>Plattform,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Desert Speedtrap coloca-te no lugar do Papa-Léguas (Road Runner), a lutar para sobreviveres a todas as armadilhas e artimanhas do Coyote (Wile E. Coyote) - um lobo que sonha em saborear a carne dessa adorável avestruz.nnnnIrás enfrentar 8 níveis recheados de túneis de comboio, minas explosivas e perigosas estradas cercadas de armadilhas. Cuidado! Um único deslize e estarás no menu Coyote.nnnnNos desenhos animados ele leva sempre a pior, mas aqui, se não fores esperto, acabas em comida para lobo. Faz tudo para que o Papa-Léguas continue livre, desbravando as estradas dos desertos americanos.nnnnBenvindo às aventuras de Papa-Léguas - o Easy Rider dos desenhos animados.</synopsis>
+      <synopsis>Desert Speedtrap coloca-te no lugar do Papa-Léguas (Road Runner), a lutar para sobreviveres a todas as armadilhas e artimanhas do Coyote (Wile E. Coyote) - um lobo que sonha em saborear a carne dessa adorável avestruz.Irás enfrentar 8 níveis recheados de túneis de comboio, minas explosivas e perigosas estradas cercadas de armadilhas. Cuidado! Um único deslize e estarás no menu Coyote.Nos desenhos animados ele leva sempre a pior, mas aqui, se não fores esperto, acabas em comida para lobo. Faz tudo para que o Papa-Léguas continue livre, desbravando as estradas dos desertos americanos.Benvindo às aventuras de Papa-Léguas - o Easy Rider dos desenhos animados.</synopsis>
       <genre>Plataforma,Ação</genre>
     </locale>
     <developer>Probe Software Ltd.</developer>
@@ -2429,7 +2431,7 @@ Agora, se ainda assim você não gostar de Aladdin... nem um Gênio resolve seu 
     <locale lang="EN">
       <title>Doraemon: Waku Waku Pocket Paradise</title>
       <synopsis>Doraemon Waku Waku Pocket Paradise is an action game for the Sega Game Gear. It is based upon the 1979 Doraemon anime series.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Board game</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Juega con Doraemon o con ayuda de tu amigo Nobita en este apasionante juego de acción y mini-juegos y descubre todo lo que está ocurriendo en la ciudad. Juega con otro amigo con el cable Gear-to-Gear y disfruta de este juego ambientado en el mundo de Doraemon.</synopsis>
@@ -2510,7 +2512,7 @@ Mas tome muito cuidado principalmente com o pior de todos: o líder da gangue.</
       <synopsis>Dr. Franken is an action game developed for the Game Boy by Motivetime. Codemasters acquired a license to port the game to the Sega Mega Drive and Elite Systems were due to bring it to the Sega Game Gear, but neither version materialised.
 
 A "demo" build of the Game Gear version has since been leaked online.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Ayuda a tu cabeza hueca favorita a recuperar a su novia. Adelante. Tira el interruptor. Y ven a un viaje de monstruos con el buen viejo Freaky Franky. Está buscando todas las piezas del hermoso cuerpo de su Bitsy para que pueda volver a unirlas en la máquina de vida del Dr. Frankenbone. Excepto que parece que Itsy Bitsy se ha dispersado por todo el castillo. 7 niveles espeluznantes. Y hay 230 salas llenas de cosas esperando para atraparte. Entonces, ¿qué sucede de repente? No estarías asustado ahora, ¿verdad? No hay nada que temer. Es suficiente para conducir a cualquiera.</synopsis>
@@ -2533,6 +2535,7 @@ A "demo" build of the Game Gear version has since been leaked online.</synopsis>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Dr. Robotnik's Mean Bean Machine">
     <id>12883A</id>
@@ -2791,7 +2794,8 @@ Jim overhears the Queen's plans for the suit and decides to meet this Princess..
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Ecco - The Tides Of Time">
+
+    <game name="Ecco - The Tides Of Time">
     <id>12901A</id>
     <locale lang="EN">
       <title>Ecco : The Tides of Time</title>
@@ -3312,14 +3316,14 @@ FIFA96 boasts eleven leagues from all around the world, ranging from the unknown
     <id>108778</id>
     <locale lang="EN">
       <title>Fire Track</title>
-      <synopsis>This was an attempt at creating a conversion of the BBC Micro game Fire Track to the Sega Game Gear, rewriting it from scratch in Z80 assembly.nnThe player controls a fighter ship which flies at constant speed and heading over a series of worlds. The player is faced with both airborne enemies (who approach in different attack formations) and ground-based enemies. Destruction of a whole attack wave results in bonus points, and destruction of specific ground targets (such as buildings marked with X) results in bonus points (and an occasional extra life) at the end of each level. Some enemies are indestructible and must be avoided. There are no power-ups, although the rate of fire increases with more challenging levels.</synopsis>
+      <synopsis>This was an attempt at creating a conversion of the BBC Micro game Fire Track to the Sega Game Gear, rewriting it from scratch in Z80 assembly. The player controls a fighter ship which flies at constant speed and heading over a series of worlds. The player is faced with both airborne enemies (who approach in different attack formations) and ground-based enemies. Destruction of a whole attack wave results in bonus points, and destruction of specific ground targets (such as buildings marked with X) results in bonus points (and an occasional extra life) at the end of each level. Some enemies are indestructible and must be avoided. There are no power-ups, although the rate of fire increases with more challenging levels.</synopsis>
       <genre>Shoot'em Up,Shoot'em up / Vertical</genre>
     </locale>
     <locale lang="ES">
       <genre>Shoot'em Up,Shoot'em Up / Vertical</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>conversion du jeu fire track sur bbc micro game.nnLe joueur contrôle un navire de combat qui vole à une vitesse constante et se dirige vers une série de mondes. Le joueur est confronté à la fois à des ennemis aéroportés (qui s'approchent dans différentes formations d'attaque) et à des ennemis basés au sol. La destruction de toute une vague d'attaque donne lieu à des points bonus, tandis que la destruction de cibles au sol spécifiques (tels que les bâtiments marqués d'un X) donne lieu à des points bonus (et parfois plus de points de vie) à la fin de chaque niveau. Certains ennemis sont indestructibles et doivent être évités. Il n'y a pas de power-ups , bien que la cadence de tir augmente avec des niveaux plus difficiles.</synopsis>
+      <synopsis>conversion du jeu fire track sur bbc micro game. Le joueur contrôle un navire de combat qui vole à une vitesse constante et se dirige vers une série de mondes. Le joueur est confronté à la fois à des ennemis aéroportés (qui s'approchent dans différentes formations d'attaque) et à des ennemis basés au sol. La destruction de toute une vague d'attaque donne lieu à des points bonus, tandis que la destruction de cibles au sol spécifiques (tels que les bâtiments marqués d'un X) donne lieu à des points bonus (et parfois plus de points de vie) à la fin de chaque niveau. Certains ennemis sont indestructibles et doivent être évités. Il n'y a pas de power-ups , bien que la cadence de tir augmente avec des niveaux plus difficiles.</synopsis>
       <genre>Shoot'em Up,Shoot'em up / Vertical</genre>
     </locale>
     <locale lang="DE">
@@ -3381,6 +3385,12 @@ You can play simple exhibition matches or tournaments, or launch into a career m
     <id>188995</id>
     <locale lang="EN">
       <title>Formula one</title>
+      <genre>Racing,Simulation,</genre>
+      <synopsis>F1 is an Official Formula One Racing Game. There are two modes of play available: "Arcade", "Grand Prix". In both of these modes you complete a certain number of laps (4, 8, or 12) and select which circuit that you want to race on. The circuits include San Marino, France, Britain, Germany, Italy, Portugal, Japan, and Australia. Some circuits are easy, while some are difficult.
+
+There are slight differences between the two modes. For instance, "Arcade" allows you to select the circuit in any order that you like, whereas "Grand Prix" only allows you to fine-tune your car before starting a race. You also need to race a circuit in the order that they appear on the circuit selection screen, but you can skip a track if you want.
+
+F1 is a 1-2 player game, meaning that if you have another player handy, you can compete against each other.</synopsis>
     </locale>
     <locale lang="ES">
       <genre>Carreras, Conducción</genre>
@@ -3396,11 +3406,12 @@ You can play simple exhibition matches or tournaments, or launch into a career m
     <date year="1993" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
     </input>
   </game>
   <game name="Frank Thomas Big Hurt Baseball">
@@ -3504,7 +3515,7 @@ Realistic Golf Features
       <genre>Sports / Golf,Sports</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>UN AGUJERO EN UNO!!!nnComience contra las parejas de Fred "Boom Boom",nndos veces jugador del año de PGA Tour,nno juega como Fred y lanza la pelota más de 300 yardas!nnnnConsejo personal de Fred Couples, gráficos increíblesnn¡y 4 niveles de dificultad hacen que el sueño de este golfista se haga realidad!</synopsis>
+      <synopsis>UN AGUJERO EN UNO!!!nnComience contra las parejas de Fred "Boom Boom", dos veces jugador del año de PGA Tour, o juega como Fred y lanza la pelota más de 300 yardas!Consejo personal de Fred Couples, gráficos increíblesnn¡y 4 niveles de dificultad hacen que el sueño de este golfista se haga realidad!</synopsis>
       <genre>Deportes / Golf,Deportes</genre>
     </locale>
     <locale lang="FR">
@@ -3540,16 +3551,20 @@ et 4 niveaux de difficulté font ce rêve de golfeur devenir réalité !!!</syno
     <id>108777</id>
     <locale lang="EN">
       <title>Frog</title>
+      <genre>Action,Arcade,</genre>
+      <synopsis/>
     </locale>
     <developer>Charles Doty</developer>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Frogger">
     <id>88435A</id>
@@ -3558,7 +3573,7 @@ et 4 niveaux de difficulté font ce rêve de golfeur devenir réalité !!!</syno
       <synopsis>This cancelled update of the classic Frogger almost left the Game Gear on a pretty lonely pile of systems which never received their requisite amphibian auto dodger.
 
 Thankfully, the release of a completed prototype rescued it from that cruelest of fates.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Esta actualización cancelada del clásico Frogger casi deja el Game Gear en una pila bastante solitaria de sistemas que nunca recibieron su requerimiento de autodefensa de anfibios. Afortunadamente, el lanzamiento de un prototipo completo lo rescató de los destinos más crueles.</synopsis>
@@ -3607,7 +3622,7 @@ Fail to complete a section in the time limit and you use up a continue, but the 
       <genre>Shoot'em Up,Action,Simulation</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>No século XXI, grupos terroristas armados e extremamente organizados estão atacando várias instalações militares em todo o mundo e tomando posse de tanques de guerra, armas e até aviões de combate.nnnnAs Nações Unidas enviaram pacificadores para os quatro cantos do mundo, que conseguiram controlar uma boa parte dos terroristas. Mas um dos grupos, o mais determinado, continuava na ativa. A solução encontrada pelos dirigentes mundiais para pôr um fim nesta destruição, era o uso do A8M "Thunder fox", um avião de caça de potência máxima, jamais testado pelo Homem.nnnnO problema agora é saber quem será o piloto desta missão. Que tal você? Será que você está preparado para acabar com a destruição e assegurar o futuro do mundo? Decida-se rapidamente, pois sua missão está para começar. Boa sorte, piloto!</synopsis>
+      <synopsis>No século XXI, grupos terroristas armados e extremamente organizados estão atacando várias instalações militares em todo o mundo e tomando posse de tanques de guerra, armas e até aviões de combate.As Nações Unidas enviaram pacificadores para os quatro cantos do mundo, que conseguiram controlar uma boa parte dos terroristas. Mas um dos grupos, o mais determinado, continuava na ativa. A solução encontrada pelos dirigentes mundiais para pôr um fim nesta destruição, era o uso do A8M "Thunder fox", um avião de caça de potência máxima, jamais testado pelo Homem.O problema agora é saber quem será o piloto desta missão. Que tal você? Será que você está preparado para acabar com a destruição e assegurar o futuro do mundo? Decida-se rapidamente, pois sua missão está para começar. Boa sorte, piloto!</synopsis>
       <genre>Shoot'em Up,Ação,Simulação</genre>
     </locale>
     <developer>Sega</developer>
@@ -3921,8 +3936,6 @@ As usual, your task is to exterminate level upon level of nasties with your spac
     <id>108779</id>
     <locale lang="EN">
       <title>GG Nibbles</title>
-Arcade
-Arcade
       <genre>Arcade</genre>
       <synopsis>This is the classic Nibbler game converted to the Sega Game Gear. You control a snake that must eat food (hamburgers and junk food in this version). With each thing you eat, the snake grows longer. Be careful not to bite your own tail!</synopsis>
     </locale>
@@ -3931,7 +3944,7 @@ Arcade
     <date year="2000" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -4242,7 +4255,7 @@ Where the game stood out was, there are comets that need to be destroyed on your
       <genre>Shoot'em Up,Shoot'em Up / Vertikal</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>A Terra foi invadida. Os legionários do terrível Lord Halley estão fazendo de tudo para dominar nosso planeta, mas as forças de todas as nações do mundo se uniram para evitar que o pior aconteça.nnnnA mais moderna máquina de combate foi colocada à sua disposição, e você, na posição de mais habilidoso piloto do mundo, terá de impedir este ataque.nnnnPrepare-se bem, pois a batalha vai ser dura. E você não pode desistir enquanto todos os seus inimigos não tiverem sido destruídos.</synopsis>
+      <synopsis>A Terra foi invadida. Os legionários do terrível Lord Halley estão fazendo de tudo para dominar nosso planeta, mas as forças de todas as nações do mundo se uniram para evitar que o pior aconteça.A mais moderna máquina de combate foi colocada à sua disposição, e você, na posição de mais habilidoso piloto do mundo, terá de impedir este ataque.Prepare-se bem, pois a batalha vai ser dura. E você não pode desistir enquanto todos os seus inimigos não tiverem sido destruídos.</synopsis>
       <genre>Shoot'em Up,Shoot'em Up / Vertical</genre>
     </locale>
     <developer>Taito</developer>
@@ -4269,7 +4282,7 @@ Robots are available in three basic classes, from light to heavy, but can be mod
       <genre>Strategy,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Head Buster es un juego llamado "deportes futuros" sobre robots. En un campo de juego desplazado horizontalmente desde arriba hacia abajo, los robots armados se mueven de forma similar a los juegos de estrategia de Super Robot Taisen, aunque sin muchos de los refinamientos de esa serie.nnCada juego comienza en la tienda, donde los robots de tu equipo son comprados y equipados de acuerdo a tus gustos y finanzas. Después de eso, el juego comienza en la arena del robot, el equipo azul contra el equipo rojo en una esquina cada uno. El objetivo no es destruir explícitamente a los robots del equipo contrario, sino destruir su base. Para llegar a su base y evitar que alcancen la tuya, se requiere una cierta cantidad de enfrentamientos. Cada turno se divide en una fase de movimiento y una fase de combate, y dado que las acciones de ambos lados solo se ejecutan cuando termina una fase, no puedes saber cuándo te mueves qué tan cerca llegarás a tus oponentes.</synopsis>
+      <synopsis>Head Buster es un juego llamado "deportes futuros" sobre robots. En un campo de juego desplazado horizontalmente desde arriba hacia abajo, los robots armados se mueven de forma similar a los juegos de estrategia de Super Robot Taisen, aunque sin muchos de los refinamientos de esa serie. Cada juego comienza en la tienda, donde los robots de tu equipo son comprados y equipados de acuerdo a tus gustos y finanzas. Después de eso, el juego comienza en la arena del robot, el equipo azul contra el equipo rojo en una esquina cada uno. El objetivo no es destruir explícitamente a los robots del equipo contrario, sino destruir su base. Para llegar a su base y evitar que alcancen la tuya, se requiere una cierta cantidad de enfrentamientos. Cada turno se divide en una fase de movimiento y una fase de combate, y dado que las acciones de ambos lados solo se ejecutan cuando termina una fase, no puedes saber cuándo te mueves qué tan cerca llegarás a tus oponentes.</synopsis>
       <genre>Estrategia,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -4478,7 +4491,7 @@ This particular interpretation is a side-scrolling action game, in which players
       <genre>Action,Board game</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Es un juego de mesa de estilo sugoroku para hasta cuatro jugadores basado en el popular programa infantil NHK Hyokkori Hy?tanjima. Cuatro personajes del programa deciden que quieren ser el presidente de la isla, por lo que parten para comenzar a hacer campaña.nnEl objetivo de cada ronda es recoger la mayor cantidad de puntos; los puntos se pueden ganar o perder en función de los espacios en los que aterriza el jugador. La ronda termina cuando un jugador llega al destino establecido al comienzo de la ronda, lo que le da una bonificación de puntos. El jugador con más puntos después de un número determinado de rondas es el ganador.</synopsis>
+      <synopsis>Es un juego de mesa de estilo sugoroku para hasta cuatro jugadores basado en el popular programa infantil NHK Hyokkori Hy?tanjima. Cuatro personajes del programa deciden que quieren ser el presidente de la isla, por lo que parten para comenzar a hacer campaña. El objetivo de cada ronda es recoger la mayor cantidad de puntos; los puntos se pueden ganar o perder en función de los espacios en los que aterriza el jugador. La ronda termina cuando un jugador llega al destino establecido al comienzo de la ronda, lo que le da una bonificación de puntos. El jugador con más puntos después de un número determinado de rondas es el ganador.</synopsis>
       <genre>Acción,Juegos de mesa</genre>
     </locale>
     <locale lang="FR">
@@ -4552,7 +4565,7 @@ This makes for a four-level arcade adventure combining climbs, exploration (with
       <genre>Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡Usar su látigo! ¡Usar sus puños! ¡Usar su sentido comûn! Ya ha comenzado la caza. y seguirá hasta el fin. En búsquede del tesoro más grande de la historia, el Santa Grial.nnGatear encima del retumbante tren del circo, pelear para escapar de un Zepelin gigantesco y competir contra el reloj y trampas antiguas. Vd. controla a Indy mientras pelea para sobrevivir un nivel lleno de acción después de otro que le pondrán a prueba.</synopsis>
+      <synopsis>¡Usar su látigo! ¡Usar sus puños! ¡Usar su sentido comûn! Ya ha comenzado la caza. y seguirá hasta el fin. En búsquede del tesoro más grande de la historia, el Santa Grial. Gatear encima del retumbante tren del circo, pelear para escapar de un Zepelin gigantesco y competir contra el reloj y trampas antiguas. Vd. controla a Indy mientras pelea para sobrevivir un nivel lleno de acción después de otro que le pondrán a prueba.</synopsis>
       <genre>Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -4560,11 +4573,11 @@ This makes for a four-level arcade adventure combining climbs, exploration (with
       <genre>Plateforme</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>Knallen Sie Ihre Peitsche! Schlagen Sie zu mit den Fäusten! Aber seien Sie schlau! Die Jagt geht los - die Suche nach dem größten Schatz, den es je gab, dem Heiligen Gral.nnKletteren Sie auf rollende Zirkus-Wagen, befreien Sie sich aus einem Riesenzeppelin, laufen Sie gegen die Uhr, aber vermeiden Sie die alten Fallen! Sie sind Indy und schlagen sich durch eine Vielzahl herausfordernder, aktionsgeladene Level im Kampf ums Leben.</synopsis>
+      <synopsis>Knallen Sie Ihre Peitsche! Schlagen Sie zu mit den Fäusten! Aber seien Sie schlau! Die Jagt geht los - die Suche nach dem größten Schatz, den es je gab, dem Heiligen Gral. Kletteren Sie auf rollende Zirkus-Wagen, befreien Sie sich aus einem Riesenzeppelin, laufen Sie gegen die Uhr, aber vermeiden Sie die alten Fallen! Sie sind Indy und schlagen sich durch eine Vielzahl herausfordernder, aktionsgeladene Level im Kampf ums Leben.</synopsis>
       <genre>Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Indiana Jones, o mais aventureiro dos heróis, nunca se cansa! Desta vez, a sua obstinação é encontrar o maior de todos os tesouros: o Santo Graal. Já em tempos anteriores o mistério envolvente do seu desaparecimento fascinou o pai de Indiana.nnEncontrá-lo agora, mais do que saciar a sua inesgotável sede por perigo, representa a realização de um velho sonho de família e também a contribuição para a história da humanidade.nnNo entanto, há sempre coisas que são necessárias para que as missões possam ser cumpridas com êxito: punhos fortes, espírito de aventura e grandes quantidades de coragem. Indiana tem tudo isto, e tu? Para ajudares Indiana nesta espectacular aventura, terás de andar sobre um comboio em movimento, escapar ao gigante Zepelim e lutar contra o relógio!nnOs dias na vida de um herói são sempre bastante agitados.nnTu verás...</synopsis>
+      <synopsis>Indiana Jones, o mais aventureiro dos heróis, nunca se cansa! Desta vez, a sua obstinação é encontrar o maior de todos os tesouros: o Santo Graal. Já em tempos anteriores o mistério envolvente do seu desaparecimento fascinou o pai de Indiana. Encontrá-lo agora, mais do que saciar a sua inesgotável sede por perigo, representa a realização de um velho sonho de família e também a contribuição para a história da humanidade. No entanto, há sempre coisas que são necessárias para que as missões possam ser cumpridas com êxito: punhos fortes, espírito de aventura e grandes quantidades de coragem. Indiana tem tudo isto, e tu? Para ajudares Indiana nesta espectacular aventura, terás de andar sobre um comboio em movimento, escapar ao gigante Zepelim e lutar contra o relógio!nnOs dias na vida de um herói são sempre bastante agitados. Tu verás...</synopsis>
     </locale>
     <developer>Tiertex Ltd.</developer>
     <publisher>U.S. Gold Ltd.</publisher>
@@ -4693,7 +4706,7 @@ Levels are as follows:Nuclear Plant Siege with bosses Mr. Hyde and the Melter.
     <locale lang="EN">
       <title>James Bond 007: The Duel</title>
       <synopsis>Play James Bond 007 and stop a crazy professor who has the same old dream as everyone else. World domination. The player will have the trusty Walther PPK and must go through a few levels with a villain at the end of every level. Such as in the first level, at the end the player will get to fight Jaws. To put it simply this game is basically a side-scrolling shoot-em-up. The player may find women who will give the player an extra life and many other things.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>James bond ha vuelto, tendrá que medir su talento y puntería con muchos de sus viejos enemigos para rescatar a la hija del profesor Michael Jones. Las estupendas pantallas de mutti-scroll y la fantástica acción animada lo convierten en una hazaña del Game Gear.</synopsis>
@@ -4874,7 +4887,7 @@ Both games received updates in Jeopardy! Sports Edition and the Mega Drive versi
       <genre>Sport,Sport / American Football</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Prepare-se para um desafio emocionante: participar de um Campeonato de Futebol Americano ao lado do melhor e mais famoso zagueiro de todos os tempos: Joe Montana.nnnnEstá no seu dia de sorte ? Então, lance a moeda e cruze os dedos porque o jogo está para começar. Joe o ajudará a escolher o seu time, mas o resto é com você...
+      <synopsis>Prepare-se para um desafio emocionante: participar de um Campeonato de Futebol Americano ao lado do melhor e mais famoso zagueiro de todos os tempos: Joe Montana.Está no seu dia de sorte ? Então, lance a moeda e cruze os dedos porque o jogo está para começar. Joe o ajudará a escolher o seu time, mas o resto é com você...
 Estude cada jogada, descubra as melhores estratégias de ataque e corra o máximo que puder ! Faça passes super precisos e deixe seus adversários no chão ! Será que você terá fôlego para agüentar esta parada ?</synopsis>
       <genre>Esporte,Esporte / Futebol americano</genre>
     </locale>
@@ -4933,7 +4946,7 @@ The initial levels follow the plot of the movie with futuristic lawman Judge Dre
       <genre>Puzzle-Game,Strategy</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Divertido de ver, y aún más divertido de jugar.nn¡JUNCTION es una obra maestra del juego de acción!nnAl mover solo un bloque, todo el recorrido cambia y los enemigos parecen bloquear tu ruta... o tal vez un artículo valioso aparece para ayudarte a pasar.nnHermosos gráficos y magníficos efectos de sonido han sido actualizados a la perfección.</synopsis>
+      <synopsis>Divertido de ver, y aún más divertido de jugar. ¡JUNCTION es una obra maestra del juego de acción!nnAl mover solo un bloque, todo el recorrido cambia y los enemigos parecen bloquear tu ruta... o tal vez un artículo valioso aparece para ayudarte a pasar. Hermosos gráficos y magníficos efectos de sonido han sido actualizados a la perfección.</synopsis>
       <genre>Rompecabezas,Estrategia</genre>
     </locale>
     <locale lang="FR">
@@ -5038,7 +5051,7 @@ The first four levels (featuring a Velociraptor, Pteranodon, Triceratops and Bra
     <locale lang="EN">
       <title>Kaitou Saint Tail</title>
       <synopsis>Kaitou Saint Tail is an action game for the Sega Game Gear. It is based upon the 1994 Kaitou Sait Tail anime series.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Kaitou Saint Tail es un juego de acción para Sega Game Gear. Está basado en la serie de anime Kaitou Sait Tail de 1994.</synopsis>
@@ -5269,7 +5282,7 @@ The trap machines are operated by other recognizable Simpson's characters:  Bart
       <genre>Puzzle,Plattform,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>E aí, cara!! Aqui fala Krusty, o super-herói favorito da família Simpson. Eu só estou chamando você porque me meti numa grande enrascada: ratos - que nojo - invadiram Krustyland, é quic quic por toda parte, e eu não sou palhaço para agüentar isso!nnnnMeu amigo Bart já tem uma solução: o "santinho" fez uma super-ratoeira que vai fritar os bichinhos a mais de 20.000 volts! Só falta alguém para guiar os ratos até a ratoeira. Pensou que ia escapar? Mas não venha com "vem cá ratinho", ou você vai levar um chá de cadeira!nnnnHaja queijo! Serão 5 fases, cada uma com 14 níveis diferentes para você dedetizar. Opa! já ia esquecendo um pequeno detalhe: porcos voadores, cobras venenosas, aliens e pássaros gigantes também aparecerão no caminho! Nada que uma torta na cara - Rá! Rá! - não resolva!nnnnAproveite que os ratos são de mentira e... Dzziiuu!! Libere seu lado exterminador! Mas nem pense em fazer isso na sua casa, hein? Acabe com estes roedores pelo bem de Krustyland. Afinal, se eles não sumirem... o que será das suas tardes de domingo sem a cada de diversões mais engraçada de Springfield?</synopsis>
+      <synopsis>E aí, cara!! Aqui fala Krusty, o super-herói favorito da família Simpson. Eu só estou chamando você porque me meti numa grande enrascada: ratos - que nojo - invadiram Krustyland, é quic quic por toda parte, e eu não sou palhaço para agüentar isso!Meu amigo Bart já tem uma solução: o "santinho" fez uma super-ratoeira que vai fritar os bichinhos a mais de 20.000 volts! Só falta alguém para guiar os ratos até a ratoeira. Pensou que ia escapar? Mas não venha com "vem cá ratinho", ou você vai levar um chá de cadeira!Haja queijo! Serão 5 fases, cada uma com 14 níveis diferentes para você dedetizar. Opa! já ia esquecendo um pequeno detalhe: porcos voadores, cobras venenosas, aliens e pássaros gigantes também aparecerão no caminho! Nada que uma torta na cara - Rá! Rá! - não resolva!Aproveite que os ratos são de mentira e... Dzziiuu!! Libere seu lado exterminador! Mas nem pense em fazer isso na sua casa, hein? Acabe com estes roedores pelo bem de Krustyland. Afinal, se eles não sumirem... o que será das suas tardes de domingo sem a cada de diversões mais engraçada de Springfield?</synopsis>
       <genre>Quebra-cabeças,Plataforma,Ação</genre>
     </locale>
     <developer>Audiogenic Software Ltd.</developer>
@@ -5378,7 +5391,7 @@ This is a platform jump-and-run game. There is a time limit to each level. Micke
       <genre>Plattform,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Uááá... que sono! Não deu nem tempo de terminar o bocejo e Mickey já estava dormindo, com seu livro de contos-de-fada preferido no colo. Quando acordou, nosso herói mal podia acreditar na encrenca em que tinha se metido. O que parecia um sonho, acabou se tornando realidade. Ele tinha sido transportado para dentro do próprio livro, e agora era o personagem principal de um dos contos mais assustadores: o Mundo da Ilusão.nnnnNessa história, um perverso Fantasma havia roubado o cristal mágico que protegia o Reino Encantado, e agora tinha poderes totais sobre ele. E Mickey é o único capaz de enfrentá-lo!nnMickey e você viajarão por lugares fantásticos e perigosos, procurando pelo Castelo do Fantasma. Além dos terríveis inimigos espalhados pelo percurso, você poderá encontrar amigos e alguns itens mágicos que irão ajudá-lo nos momentos mais difíceis. Boa sorte!nnVocês são a única esperança do Reino!</synopsis>
+      <synopsis>Uááá... que sono! Não deu nem tempo de terminar o bocejo e Mickey já estava dormindo, com seu livro de contos-de-fada preferido no colo. Quando acordou, nosso herói mal podia acreditar na encrenca em que tinha se metido. O que parecia um sonho, acabou se tornando realidade. Ele tinha sido transportado para dentro do próprio livro, e agora era o personagem principal de um dos contos mais assustadores: o Mundo da Ilusão.Nessa história, um perverso Fantasma havia roubado o cristal mágico que protegia o Reino Encantado, e agora tinha poderes totais sobre ele. E Mickey é o único capaz de enfrentá-lo!nnMickey e você viajarão por lugares fantásticos e perigosos, procurando pelo Castelo do Fantasma. Além dos terríveis inimigos espalhados pelo percurso, você poderá encontrar amigos e alguns itens mágicos que irão ajudá-lo nos momentos mais difíceis. Boa sorte!nnVocês são a única esperança do Reino!</synopsis>
       <genre>Plataforma,Ação</genre>
     </locale>
     <locale lang="JA">
@@ -5459,7 +5472,7 @@ The objective of each of the 10 time-limited levels (or "scenes") is to collect 
       <genre>Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>"Jungle Book" foi um dos maiores sucessos de Walt Disney no Cinema. A história de Mogli, o menino-lobo, ainda hoje encanta adultos e crianças de todas as idades e em todo o mundo.nnToda a magia do Mundo Disney vai estar presente neste jogo. Aqui, tu vais ser o próprio Mogli e viver todas as suas aventuras em "Jungle Book".nnMogli pode ter sido criado entre lobos, mas ele é um ser humano e por isso tem muitos inimigos na selva: o malvado tigre Shere Khan quer vingar a sua raiva dos homens justamente no pobre menino. A enigmática cobra Kaa também está doida para poder agarrar o menino-lobo, Mogli. Para completar, Loule, o rei dos gorilas, quer capturar Mogli para obter o segredo do fogo dos homens.nnPara enfrentar todos eles, Mogli irá contar com a ajuda de várias personagens presentes no filme: a pantera Baquera, o elefante Hati e o urso Baloo.nnTira o Mogli da selva, enfrenta os diversos perigos que vão surgir, leva-o a salvo para a aldeia e mostra que perto de ti, o Tarzan não vale nada!</synopsis>
+      <synopsis>"Jungle Book" foi um dos maiores sucessos de Walt Disney no Cinema. A história de Mogli, o menino-lobo, ainda hoje encanta adultos e crianças de todas as idades e em todo o mundo. Toda a magia do Mundo Disney vai estar presente neste jogo. Aqui, tu vais ser o próprio Mogli e viver todas as suas aventuras em "Jungle Book". Mogli pode ter sido criado entre lobos, mas ele é um ser humano e por isso tem muitos inimigos na selva: o malvado tigre Shere Khan quer vingar a sua raiva dos homens justamente no pobre menino. A enigmática cobra Kaa também está doida para poder agarrar o menino-lobo, Mogli. Para completar, Loule, o rei dos gorilas, quer capturar Mogli para obter o segredo do fogo dos homens. Para enfrentar todos eles, Mogli irá contar com a ajuda de várias personagens presentes no filme: a pantera Baquera, o elefante Hati e o urso Baloo. Tira o Mogli da selva, enfrenta os diversos perigos que vão surgir, leva-o a salvo para a aldeia e mostra que perto de ti, o Tarzan não vale nada!</synopsis>
     </locale>
     <developer>Syrox Developments, Ltd.</developer>
     <publisher>Virgin</publisher>
@@ -5489,7 +5502,7 @@ The game features no in-game save function, and it needs to be replayed from the
       <genre>Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Basado en el último éxito de la factoría Disney, "El rey león" da vida a la majestuosidad y al misterio de África a través de los ojos de Simba, un cachorro de león. Los animadores de los estudios Disney y la música de la banda sonora original han sido utilizados para llevarte a Pride Rock.nnLleva a Simba a lo largo de 10 niveleshasta la última batalla contra su malvado tío Scar. Salta sobre las hilarantes hienas en Elephant's Graveyard, evita a la salvaje manada en la versión 3D con scroll frontal de la escena de la estampida. Juega con Pumbaa y con Timón, amigos de Simba en el exilio, en las pantallas de bonus.nnLa colaboración entre Disney Software y Virgin Interactive Entertainment, combinada con Sega hace a este juego un nuevo clásico de la animación y del entretenimiento interactivo.</synopsis>
+      <synopsis>Basado en el último éxito de la factoría Disney, "El rey león" da vida a la majestuosidad y al misterio de África a través de los ojos de Simba, un cachorro de león. Los animadores de los estudios Disney y la música de la banda sonora original han sido utilizados para llevarte a Pride Rock. Lleva a Simba a lo largo de 10 niveleshasta la última batalla contra su malvado tío Scar. Salta sobre las hilarantes hienas en Elephant's Graveyard, evita a la salvaje manada en la versión 3D con scroll frontal de la escena de la estampida. Juega con Pumbaa y con Timón, amigos de Simba en el exilio, en las pantallas de bonus. La colaboración entre Disney Software y Virgin Interactive Entertainment, combinada con Sega hace a este juego un nuevo clásico de la animación y del entretenimiento interactivo.</synopsis>
       <genre>Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -5499,11 +5512,11 @@ The game features no in-game save function, and it needs to be replayed from the
     </locale>
     <locale lang="DE">
       <title>Der König der Löwen</title>
-      <synopsis>In Walt Disneys "der könig der löwen" erleben sie mit dem löwen Simba das majestätische und geheimnisvolle afrika! Dieses spiel versetzt sie mit animationen von den original-Disney-grafikern und musik aus dem soundtrack direkt in die handlung des gleichnamigen film-hits.nnBeglaiten sie Simba durch 10 atemberaubende level bis zum ultimativen kampf um die königswürde mit seinem bösen onkel Scar. Besiegen sie heimtückische hyänen auf dem Elefantenfriedhof, weichen sie den hufen der wilden büffel in der stampede-szene aus dem film aus, und spielen sie die bonuslevel als einer von simbas freunden, das warzenschwein oder die meerkatze!nnDie partnerschaft von Disney Software und Virgin Interactive Entertainment hat zusammen mit Sega ein spiel hervorgebracht, das neue standards in animation und interaktiver unterhaltung setzt.</synopsis>
+      <synopsis>In Walt Disneys "der könig der löwen" erleben sie mit dem löwen Simba das majestätische und geheimnisvolle afrika! Dieses spiel versetzt sie mit animationen von den original-Disney-grafikern und musik aus dem soundtrack direkt in die handlung des gleichnamigen film-hits. Beglaiten sie Simba durch 10 atemberaubende level bis zum ultimativen kampf um die königswürde mit seinem bösen onkel Scar. Besiegen sie heimtückische hyänen auf dem Elefantenfriedhof, weichen sie den hufen der wilden büffel in der stampede-szene aus dem film aus, und spielen sie die bonuslevel als einer von simbas freunden, das warzenschwein oder die meerkatze!nnDie partnerschaft von Disney Software und Virgin Interactive Entertainment hat zusammen mit Sega ein spiel hervorgebracht, das neue standards in animation und interaktiver unterhaltung setzt.</synopsis>
       <genre>Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>O rei Mufasa está cheio de alegria. O seu filho Simba está a aprender rápidamente todas as lições necessárias para poder tornar-se no novo rei e todos os animais estão confiantes no sucesso do pequeno herdeiro. Bem, pelo menos quase todos...nnnnScar, o invejoso irmão de Mufasa, preparou uma terrível armadilha para acabar com o Rei e o seu filho, o que o tornará, desta forma, no sucessor ao trono. Por enquanto, este plano deu certo. Mufasa não conseguiu sobreviver à armadilha e o pequeno Simba, sentindo-se culpado da morte do seu pai, fugiu do reino para nunca mais voltar.nnnnCom o passar do tempo, Simba aprendeu a filosofia do "Hakuna Batata" e percebeu que a bravura e inteligência do seu pai ainda estavam vivas...nele mesmo. Resolveu então lutar pela coroa que era dele por direito e tu vais ajudá-lo nesta incrível aventura.nnnnSerão 10 níveis de muita acção, onde acompanharás o crescimento de Simba e irás enfrentar, com inteligência e habilidade, todos os perigos que o afastaram do trono por tanto tempo. Derrota Scar na derradeira batalha e torna-te, enfim, no novo Rei Leão.</synopsis>
+      <synopsis>O rei Mufasa está cheio de alegria. O seu filho Simba está a aprender rápidamente todas as lições necessárias para poder tornar-se no novo rei e todos os animais estão confiantes no sucesso do pequeno herdeiro. Bem, pelo menos quase todos...Scar, o invejoso irmão de Mufasa, preparou uma terrível armadilha para acabar com o Rei e o seu filho, o que o tornará, desta forma, no sucessor ao trono. Por enquanto, este plano deu certo. Mufasa não conseguiu sobreviver à armadilha e o pequeno Simba, sentindo-se culpado da morte do seu pai, fugiu do reino para nunca mais voltar.Com o passar do tempo, Simba aprendeu a filosofia do "Hakuna Batata" e percebeu que a bravura e inteligência do seu pai ainda estavam vivas...nele mesmo. Resolveu então lutar pela coroa que era dele por direito e tu vais ajudá-lo nesta incrível aventura.Serão 10 níveis de muita acção, onde acompanharás o crescimento de Simba e irás enfrentar, com inteligência e habilidade, todos os perigos que o afastaram do trono por tanto tempo. Derrota Scar na derradeira batalha e torna-te, enfim, no novo Rei Leão.</synopsis>
     </locale>
     <developer>Syrox Developments, Ltd.</developer>
     <publisher>Virgin</publisher>
@@ -5538,7 +5551,7 @@ As Mickey Mouse, you will travel through various levels in this platform game. M
       <genre>Plattform,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Era uma vez, em um mundo distante, um reino governado pelo Rei Pete. Ele não era um Rei muito bom, mas a vida no reino era boa e seus habitantes eram felizes. Mas um dia, nuvens escuras tomaram os céus do reino deixando as pessoas muito tristes. "Apenas um Rei, em uma jornada real, conseguirá descobrir qual a solução deste problema e devolverá a paz aos habitantes do reino" avisou o conselheiro do Rei. O Rei Pete, com medo de cumprir tal missão, resolve fazer de um ajudante da lavanderia real, um Rei Honorário. Agora Mickey tem em suas mãos o destino do reino e a felicidade de seus habitantes. Ajude este corajoso camundongo a cumprir sua missão.nnnnCapriche na mira e acerte os inimigos com as barras de sabão. Faça com que Mickey salve o reino e se torne o novo Rei!</synopsis>
+      <synopsis>Era uma vez, em um mundo distante, um reino governado pelo Rei Pete. Ele não era um Rei muito bom, mas a vida no reino era boa e seus habitantes eram felizes. Mas um dia, nuvens escuras tomaram os céus do reino deixando as pessoas muito tristes. "Apenas um Rei, em uma jornada real, conseguirá descobrir qual a solução deste problema e devolverá a paz aos habitantes do reino" avisou o conselheiro do Rei. O Rei Pete, com medo de cumprir tal missão, resolve fazer de um ajudante da lavanderia real, um Rei Honorário. Agora Mickey tem em suas mãos o destino do reino e a felicidade de seus habitantes. Ajude este corajoso camundongo a cumprir sua missão.Capriche na mira e acerte os inimigos com as barras de sabão. Faça com que Mickey salve o reino e se torne o novo Rei!</synopsis>
       <genre>Plataforma,Ação</genre>
     </locale>
     <locale lang="JA">
@@ -5578,7 +5591,7 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
       <genre>Puzzle,Strategie</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Os Lemmings chegaram ! Oba !! Para quem não conhece, os Lemmings são pequenas e adoráveis criaturas que vivem perto do Pólo Norte. Com um detalhe: são completamente estúpidas ! Tudo o que eles sabem fazer é andar, em uma única direção. Aí já viu: estão sempre metidos em alguma confusão !nnnnUma vez por ano, sua população aumenta muito, e eles têm que sair em busca de um novo lugar para morar. Só que eles são tão curtos das idéias que ficam vagando sem rumo, até a hora em que eles dão de cara com o perigo (cair de penhascos e se esborrachar no chão, por exemplo !). Eles podem morrer se ninguém fizer nada para ajudá-los !nnnnFelizmente eles também sabem obedecer algumas ordens. Tendo você como guia, eles poderão superar as dificuldades, cavando túneis, construindo escadas, bloqueando caminhos perigosos e até mesmo dando uma de kamikaze e explodindo ! BUUUMM !!nnnnFaça um boa ação e evite que esta espécie entre em extinção. Mas cuidado: você não vai conseguir parar de jogar !</synopsis>
+      <synopsis>Os Lemmings chegaram ! Oba !! Para quem não conhece, os Lemmings são pequenas e adoráveis criaturas que vivem perto do Pólo Norte. Com um detalhe: são completamente estúpidas ! Tudo o que eles sabem fazer é andar, em uma única direção. Aí já viu: estão sempre metidos em alguma confusão !Uma vez por ano, sua população aumenta muito, e eles têm que sair em busca de um novo lugar para morar. Só que eles são tão curtos das idéias que ficam vagando sem rumo, até a hora em que eles dão de cara com o perigo (cair de penhascos e se esborrachar no chão, por exemplo !). Eles podem morrer se ninguém fizer nada para ajudá-los !Felizmente eles também sabem obedecer algumas ordens. Tendo você como guia, eles poderão superar as dificuldades, cavando túneis, construindo escadas, bloqueando caminhos perigosos e até mesmo dando uma de kamikaze e explodindo ! BUUUMM !!Faça um boa ação e evite que esta espécie entre em extinção. Mas cuidado: você não vai conseguir parar de jogar !</synopsis>
       <genre>Quebra-cabeças,Estratégia</genre>
     </locale>
     <developer>Probe Software Ltd.</developer>
@@ -5624,6 +5637,7 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Les Schtroumpfs">
     <id>12889A</id>
@@ -5663,7 +5677,8 @@ On each level you must collect five stars in order to get access to the bonus le
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Smurfs Travel the World, The">
+
+    <game name="Smurfs Travel the World, The">
     <id>71588A</id>
     <locale lang="EN">
       <title>The Smurfs 2</title>
@@ -5711,7 +5726,7 @@ The game is a traditional Japanese-style RPG. You navigate your party through a 
       <genre>Role playing games</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Esta es una historia paralela, ambientada en el mismo mundo que los famosos juegos de rol Lunar: Silver Star y Eternal Blue. La ciudad de Burg está poblada por recolectores, y tú tomas el control de dos chicas, Ellie y Lena. Un día, los envían a la isla de Ien, donde deben estudiar magia, y ahí comienza su aventura.nnnnEl juego es un juego de rol tradicional de estilo japonés. Navega a su grupo a través de un mundo de arriba hacia abajo, visitando ciudades y áreas hostiles. Los encuentros enemigos son aleatorios, las batallas se basan en turnos y se ven desde la perspectiva en primera persona.</synopsis>
+      <synopsis>Esta es una historia paralela, ambientada en el mismo mundo que los famosos juegos de rol Lunar: Silver Star y Eternal Blue. La ciudad de Burg está poblada por recolectores, y tú tomas el control de dos chicas, Ellie y Lena. Un día, los envían a la isla de Ien, donde deben estudiar magia, y ahí comienza su aventura.El juego es un juego de rol tradicional de estilo japonés. Navega a su grupo a través de un mundo de arriba hacia abajo, visitando ciudades y áreas hostiles. Los encuentros enemigos son aleatorios, las batallas se basan en turnos y se ven desde la perspectiva en primera persona.</synopsis>
       <genre>Juegos de rol</genre>
     </locale>
     <locale lang="FR">
@@ -6178,7 +6193,7 @@ Points are earned by recovering stolen goods. Other ways of earning points are b
       <genre>Puzzle-Game,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Usted controla a Mappy un policía-ratón cuyo trabajo es recoger objetos de valor (productos electrónicos de consumo) de la casa de un gato. Estás siendo perseguido por una pandilla de cinco gatos rosados. Las puertas son tu única defensa contra los gatos. Usted obtiene de piso a piso saltando en uno de los trampolines.nnLos puntos se obtienen recuperando bienes robados. Otras formas de ganar puntos son rebotar en un trampolín, poner gatos en el microondas, golpear a un gato con una puerta, golpear gatos con una campana, recuperar tesoros del gato Goro del Jefe o dejar caer gatos a través de un agujero en el piso.</synopsis>
+      <synopsis>Usted controla a Mappy un policía-ratón cuyo trabajo es recoger objetos de valor (productos electrónicos de consumo) de la casa de un gato. Estás siendo perseguido por una pandilla de cinco gatos rosados. Las puertas son tu única defensa contra los gatos. Usted obtiene de piso a piso saltando en uno de los trampolines. Los puntos se obtienen recuperando bienes robados. Otras formas de ganar puntos son rebotar en un trampolín, poner gatos en el microondas, golpear a un gato con una puerta, golpear gatos con una campana, recuperar tesoros del gato Goro del Jefe o dejar caer gatos a través de un agujero en el piso.</synopsis>
       <genre>Rompecabezas,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -6211,7 +6226,7 @@ Points are earned by recovering stolen goods. Other ways of earning points are b
     <locale lang="EN">
       <title>Marble Madness</title>
       <synopsis>A port of the arcade game. The idea is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Marble Madness, uno de los más grandes hits en las galerías. Ahora llega al Game Gear. Más apasionante que nunca, esta versión de Game Gear contiene seis trayectorias cada vez más y más difíciles, con una variedad de trampas que te demorarán y un anfitrión devorador de monstruos de mármol.</synopsis>
@@ -6601,15 +6616,19 @@ Single players pick a Ranger (Red, Pink, Blue, Yellow, Black, or the unlockable 
     <id>108781</id>
     <locale lang="EN">
       <title>Mod2psg V1.8 - Secret Of Monkey Island</title>
+      <genre>Miscellaneous</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Moldorian - Hikari To Yami No Sister">
     <id>65688A</id>
@@ -6829,7 +6848,7 @@ Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging m
 Ms. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points (ranging from 200, 400, 800 and 1600, progressively). The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.
 
 Survive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of "Junior".</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>¡La Srta. Pac-Man está aquí para volverlo totalmente loco y salvaje con más diversión de lo que jamás hayas imaginado! Cuatro fantasmas combativos están persiguiendo MS. PAC-MAN. Usa tu habilidad y estrategia para acumular puntos mientras superas a los fantasmas que devoran. Tome una píldora de energía y obtenga aún más puntos. ¡Ahora engullen a todos esos fantasmas intrépidos!</synopsis>
@@ -7643,7 +7662,7 @@ Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bash
 Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
 
 Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Engullir, engullir, tragar! ¿Quién está comiendo Power Pellets? ¿Quién está recorriendo el laberinto a toda velocidad, masticando fantasmas y anotando puntos importantes? ¡Es Pac-Man, el personaje más hambriento del mundo! Devora un regalo de fruta y obtén una gran puntuación de bonificación. ¡Pero si te atrapan los pequeños perseguidores, eres un fantasma! Usa el túnel warp para un escape rápido. ¡Horas de acción fantasma!</synopsis>
@@ -7711,7 +7730,7 @@ Debido a las limitaciones técnicas del Game Gear, la mecánica de juego de Panz
     <locale lang="EN">
       <title>Paperboy</title>
       <synopsis>Based on the arcade game, the object of Paperboy is to deliver papers to your customers while inflicting as much damage as possible to the houses of your non-customers. To make things more difficult, numerous obstacles get in your way including construction workers, rogue tires, skateboarders, dogs and cats, cars, and even the occasional tornado.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Montar su bicicleta y ¡a las calles! Solamente destreza magnifica como ciclista y un brazo que puede tirar fuertemente le pueden ayudar a sobrevivir una semana de acción divertida. Evitar coches, trabajadores, borrachos y cortacéspedes - todos los cuales intentan detenerte y hacer que la gente, a quienes no entrega Vd. sus periódicos, paguen por su error.</synopsis>
@@ -7747,7 +7766,7 @@ Ao final de cada dia, seu chefe mal encarado supervisionará seu trabalho. Se ti
     <locale lang="EN">
       <title>Paperboy 2</title>
       <synopsis>You're a paper boy. Get on your bicycle. Avoid obstacles on the road, such as dogs, cars, and basically everything you can imagine. Hell, some people shoot cannon balls at you! And you'd better be very sure to only throw papers at the right houses! (and at people, that's fun :)</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>¡Levántate y brilla, amigo! Un gran día por delante, esperando que te conviertas en el terror del vecindario de un repartidor de periódicos. ¡pero es un trabajo completamente nuevo con el doble de diversión y el doble de emoción! Así es, ahora tiene casas en ambos lados de la calle, lo que significa que habrá aún más casas de clientes para entregar los documentos y daños a las viviendas de los no suscriptores. ¡También significa que debes cuidarte de muchos más obstáculos y malas maneras que te quitan la bici! Haga travesuras por la ciudad o haga buenas obras, como salvar al bebé y detener al ladrón. Al final del día, perfecciona tus habilidades en el nuevo curso de prueba estilo BMX. Agregue los nuevos gráficos increíbles, ¡y obtendrá una gran diversión en su bicicleta!</synopsis>
@@ -8639,7 +8658,8 @@ Mas o destino lhe abriu uma porta e agora você tem que fazer o resto. Prince of
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Pro Yakyuu Gg League">
+
+    <game name="Pro Yakyuu Gg League">
     <id>65842A</id>
     <locale lang="EN">
       <title>Pro Yakyuu GG League</title>
@@ -8718,7 +8738,7 @@ Mas o destino lhe abriu uma porta e agora você tem que fazer o resto. Prince of
       <synopsis>A scientist and his two female assistants work on ESP research in a remote science laboratory.  One day, a section of the lab blows up.  It turned out that the monsters kept for experiments escaped and took one of the assistants with them.  The scientist gives an "ESP booster" to the remaining assistant so she can go rescue her.
 
 Your character possesses psychic power which she uses to blast away her enemies.  You start the game with few powers and eventually gain more as items dropped by monsters are picked up.  You control powers such as fire, ice, sonic waves, temporary invincibility, levitation, and more.  Press Down + Button 2 to access your arsenal of powers.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Cecilia ha sido secuestrada por unas malvadas criaturas, su hermana Lucia necesita su ayuda para salvarla.</synopsis>
@@ -9079,7 +9099,7 @@ Com manobras cuidadosas e reflexos rápidos você deixará todos os adversários
       <synopsis>Rastan features five levels or hacking and slashing gameplay with a boss at the end of each level. Numerous enemies assault you on your journey such as flying demons, chimeras, valkyries, piranhas, skeleton undead and more. Fight through to the end and save the land of Lograth from certain doom.
 
 The game features different weapons such axes, maces and fire swords, each with its own attributes like extended range or attack power. Armour can also be picked up in the forms shields, cloaks and armour, reducing the damage from enemy attacks. Other items include rings (increase the speed of your weapon) and jewelery for bonus points.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Viaje a las procelosas tierras de Semia, que nadie se atreve a hollar. Una princesa está cautiva. Si la rescata, recibirá riquezas sin cuento como recompensa. ¡Pero Vd. es un bárbaro. un señor del frío acero! Y, ¿quién controla realmente su destino?</synopsis>
@@ -10291,7 +10311,7 @@ After each stage completed (and some luck), a bonus stage will appear, as well a
       <genre>Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Atenção! Aí vem Sonic em alta velocidade, diretamente da sua última aventura supersônica para mais uma emocionante batalha... Tudo estava tranqüilo desde o último aparecimento do Dr. Robotnik. As seis Chaos Emeralds foram recuperadas e escondidas em um lugar seguro. O único barulho que se ouvia era de Sonic e Tails, quando eles rompiam a barreira do som praticando suas corridas.nnAté que um dia, como já era de costume, tudo mudou. Explosões e estranhas formações geográficas anunciaram que as esmeraldas haviam desaparecido de seu esconderijo. Sonic e Tails já foram atrás do responsável por esta confusão. Será que você consegue adivinhar quem é? Acertou! O Dr. Robotnik, é claro! Desta vez você poderá ter tanto Sonic quanto Tails como parceiro. Escolha um dos dois e prepare-se. Se vocês não conseguirem deter o Dr. Robotnik a tempo, ele vai construir uma super bomba capaz de destruir todo o planeta. E não tenham dúvidas... ele é louco o suficiente para isso!</synopsis>
+      <synopsis>Atenção! Aí vem Sonic em alta velocidade, diretamente da sua última aventura supersônica para mais uma emocionante batalha... Tudo estava tranqüilo desde o último aparecimento do Dr. Robotnik. As seis Chaos Emeralds foram recuperadas e escondidas em um lugar seguro. O único barulho que se ouvia era de Sonic e Tails, quando eles rompiam a barreira do som praticando suas corridas. Até que um dia, como já era de costume, tudo mudou. Explosões e estranhas formações geográficas anunciaram que as esmeraldas haviam desaparecido de seu esconderijo. Sonic e Tails já foram atrás do responsável por esta confusão. Será que você consegue adivinhar quem é? Acertou! O Dr. Robotnik, é claro! Desta vez você poderá ter tanto Sonic quanto Tails como parceiro. Escolha um dos dois e prepare-se. Se vocês não conseguirem deter o Dr. Robotnik a tempo, ele vai construir uma super bomba capaz de destruir todo o planeta. E não tenham dúvidas... ele é louco o suficiente para isso!</synopsis>
     </locale>
     <locale lang="JA">
       <title>Sonic &amp; Tails</title>
@@ -10375,7 +10395,7 @@ Racing skills can be improved in the Free Run mode on any of the tracks, or, wit
       <genre>Rennen, Fahren,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Sonic Drift 2 é a sequência de Sonic Drift, também no Game Gear e o primeiro da série a ser lançado fora do Japão. Uma das coisas novas na sequela é que os itens pegos durante a corrida não ativam imediatamente. Eles precisam ser acionados manualmente apertando o direcional.nnnnHá 3 GPs para competir e cada GP tem 6 pistas. Os nomes dos GPs são:nnPurple Chaos GPnnWhite Chaos GPnnBlue Chaos GPnnnnAs habilidades de corrida podem ser melhoradas no modo Free Run em qualquer uma das pistas, ou com um Cabo de Jogo Múltiplo e uma outra cópia do jogo para competir diretamente contra outro jogador no modo versus.</synopsis>
+      <synopsis>Sonic Drift 2 é a sequência de Sonic Drift, também no Game Gear e o primeiro da série a ser lançado fora do Japão. Uma das coisas novas na sequela é que os itens pegos durante a corrida não ativam imediatamente. Eles precisam ser acionados manualmente apertando o direcional.Há 3 GPs para competir e cada GP tem 6 pistas. Os nomes dos GPs são:nnPurple Chaos GPnnWhite Chaos GPnnBlue Chaos GPAs habilidades de corrida podem ser melhoradas no modo Free Run em qualquer uma das pistas, ou com um Cabo de Jogo Múltiplo e uma outra cópia do jogo para competir diretamente contra outro jogador no modo versus.</synopsis>
       <genre>Corrida, Pilotagem,Ação</genre>
     </locale>
     <locale lang="JA">
@@ -10417,7 +10437,7 @@ But watch out! Enemies want to hinder your progress. Knock them out with your Sp
       <genre>Action,Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Um dia, Sonic acordou de uma soneca para descobrir que seus clássicos tênis vermelhos foram substituídos pela nova invenção do Dr. Robotnik, Speed Down Boots. Maldição! Para removê-los, Sonic deve passar pelo grande labirinto do Robotnik e recuperar as Chaos Emeralds.nnnnComo o posterior Sonic 3D Blast, este jogo usa uma visão isométrica 3/4. Ande através de quatro zonas principais, cada uma dividida em quatro fases. Para completar uma fase, você deve encontrar três chaves e abrir a saída antes que o tempo se esgote.nnnnMas cuidado! Inimigos querem impedir seu progresso. Derrote-os com seu Spin Dash. E fique de olho nos obstáculos como bumpers, flippers, teletransportadores, espinhos, e esteiras. Colete power-ups para aumentar suas chances de sucesso.</synopsis>
+      <synopsis>Um dia, Sonic acordou de uma soneca para descobrir que seus clássicos tênis vermelhos foram substituídos pela nova invenção do Dr. Robotnik, Speed Down Boots. Maldição! Para removê-los, Sonic deve passar pelo grande labirinto do Robotnik e recuperar as Chaos Emeralds.Como o posterior Sonic 3D Blast, este jogo usa uma visão isométrica 3/4. Ande através de quatro zonas principais, cada uma dividida em quatro fases. Para completar uma fase, você deve encontrar três chaves e abrir a saída antes que o tempo se esgote.Mas cuidado! Inimigos querem impedir seu progresso. Derrote-os com seu Spin Dash. E fique de olho nos obstáculos como bumpers, flippers, teletransportadores, espinhos, e esteiras. Colete power-ups para aumentar suas chances de sucesso.</synopsis>
       <genre>Ação,Plataforma</genre>
     </locale>
     <developer>Minato Giken</developer>
@@ -10543,7 +10563,7 @@ The master system version is totally different than the Sonic 2 for Genesis. Tai
       <genre>Plattform,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Olha quem está de volta para uma nova e emocionante aventura... É o Sonic, o ouriço mais veloz do mundo. Desta vez, o perverso Dr. Robotnik atacou South Island, e está mantendo Tails, o melhor amigo de Sonic, como prisioneiro.nnPara resgatá-lo, além de seu poderoso Spin Attack, Sonic vai utilizar outros incríveis acessórios. Serão sete novas zonas, repletas de truques, armadilhas, inimigos mortais e principalmente muita ação. Sonic já começou sua corrida. Será que você vai conseguir alcançá-lo?</synopsis>
+      <synopsis>Olha quem está de volta para uma nova e emocionante aventura... É o Sonic, o ouriço mais veloz do mundo. Desta vez, o perverso Dr. Robotnik atacou South Island, e está mantendo Tails, o melhor amigo de Sonic, como prisioneiro. Para resgatá-lo, além de seu poderoso Spin Attack, Sonic vai utilizar outros incríveis acessórios. Serão sete novas zonas, repletas de truques, armadilhas, inimigos mortais e principalmente muita ação. Sonic já começou sua corrida. Será que você vai conseguir alcançá-lo?</synopsis>
       <genre>Plataforma,Ação</genre>
     </locale>
     <developer>Aspect Co., Ltd.</developer>
@@ -10580,7 +10600,7 @@ The gameplay is like the other Sonic titles, but this is only available on the G
       <genre>Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Dr. Robotnik roubou todos as Chaos Emeralds, de novo, mas quando o experimento para sua nova arma deu errado, as esmeraldas foram espalhadas pela ilha. Enquanto Sonic e Tails estão procurando por elas, Robotnik encontra a esmeralda amarela e convence Knuckles the Echidna que Sonic quer roubar todas as outras esmeraldas. Enquanto tudo isso está acontecendo, Fang the Sniper aproveita essa chance para pegar as esmeraldas para si enquanto todo mundo está ocupado. Agora é uma corrida de 4 lados para recuperar as esmeraldas.nnnnA jogabilidade é igual aos outros títulos do Sonic, mas este só está disponível no Game Gear. O jogador pode escolher entre jogar como Sonic ou Tails (que pode voar), e você deve pegar as Chaos Emeralds antes de qualquer um. Uma mudança dos outros jogos do Sonic é que quando atingido, todos os seus anéis não são perdidos, somente uma quantidade ajustada (30-50 dependendo do nível) é perdida.</synopsis>
+      <synopsis>Dr. Robotnik roubou todos as Chaos Emeralds, de novo, mas quando o experimento para sua nova arma deu errado, as esmeraldas foram espalhadas pela ilha. Enquanto Sonic e Tails estão procurando por elas, Robotnik encontra a esmeralda amarela e convence Knuckles the Echidna que Sonic quer roubar todas as outras esmeraldas. Enquanto tudo isso está acontecendo, Fang the Sniper aproveita essa chance para pegar as esmeraldas para si enquanto todo mundo está ocupado. Agora é uma corrida de 4 lados para recuperar as esmeraldas.A jogabilidade é igual aos outros títulos do Sonic, mas este só está disponível no Game Gear. O jogador pode escolher entre jogar como Sonic ou Tails (que pode voar), e você deve pegar as Chaos Emeralds antes de qualquer um. Uma mudança dos outros jogos do Sonic é que quando atingido, todos os seus anéis não são perdidos, somente uma quantidade ajustada (30-50 dependendo do nível) é perdida.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Sonic &amp; Tails 2</title>
@@ -10753,7 +10773,7 @@ Although hard to die, Spidey has only one life, there are no items to recharge l
       <genre>Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Dr. Octopus não desiste mesmo! Com a sua ambição desenfreada de dominar o mundo, ele reuniu um grupo de vilões como há muito não se via. Quem são? Os seis Sinistros! E para impedi-los, directamente da banda desenhada, veio o Homem-Aranha!nnnnPara atrair nosso herói, os Seis Sinistros cantam "Homem-Aranha, Homem-Aranha, nunca bate, só apanha..." Humilhado perante a sociedade, o pacato repórter Peter Parker vestiu novamente as suas roupas especiais e voltou à actividade, neste jogo fantástico!nnnnEscalando paredes, lançando a sua teia pegajosa e dando saltos incríveis, o Homem-Aranha lutará em seis níveis repletos de gráficos sensacionais e inimigos horríveis. Na Estação do poder, o desafio será Electro. Depois vem o Depósito de Lixo Atômico, com o terrível Homem-Areia!nnnnNa casa da Ilusão, o Homem-Aranha vai apanhar o Homem-Mistério, para depois, em ruas e telhados, detonar o Homem-Abutre. Próximo do fim, mas longe de estar salvo, vem a floresta e a Caverna do Duende para, enfim, chegar ao Castelo de Dr. Octopus e a este em pessoa.nnnnTremei, Seis Sinistros. A saga do Homem-Aranha acaba de começar!</synopsis>
+      <synopsis>Dr. Octopus não desiste mesmo! Com a sua ambição desenfreada de dominar o mundo, ele reuniu um grupo de vilões como há muito não se via. Quem são? Os seis Sinistros! E para impedi-los, directamente da banda desenhada, veio o Homem-Aranha!Para atrair nosso herói, os Seis Sinistros cantam "Homem-Aranha, Homem-Aranha, nunca bate, só apanha..." Humilhado perante a sociedade, o pacato repórter Peter Parker vestiu novamente as suas roupas especiais e voltou à actividade, neste jogo fantástico!Escalando paredes, lançando a sua teia pegajosa e dando saltos incríveis, o Homem-Aranha lutará em seis níveis repletos de gráficos sensacionais e inimigos horríveis. Na Estação do poder, o desafio será Electro. Depois vem o Depósito de Lixo Atômico, com o terrível Homem-Areia!Na casa da Ilusão, o Homem-Aranha vai apanhar o Homem-Mistério, para depois, em ruas e telhados, detonar o Homem-Abutre. Próximo do fim, mas longe de estar salvo, vem a floresta e a Caverna do Duende para, enfim, chegar ao Castelo de Dr. Octopus e a este em pessoa.Tremei, Seis Sinistros. A saga do Homem-Aranha acaba de começar!</synopsis>
     </locale>
     <developer>B.I.T.S., Ltd.</developer>
     <publisher>Flying Edge, Inc.</publisher>
@@ -10775,7 +10795,7 @@ Although hard to die, Spidey has only one life, there are no items to recharge l
       <genre>Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Justo cuando está a punto de presentar sus inventos en un simposio de investigación científica en Nueva York, el Conde Champignac es secuestrado por Cyanida. El malvado robot tiene un solo objetivo: gobernar el mundo. No hay un momento para perder. Spirou tendrá que recorrer las calles, los metros y los rascacielos de Nueva York y volar a Palombia, una jungla pantanosa llena de sorpresas ... buenas y malas ...nnnn*No llegó a salir.</synopsis>
+      <synopsis>Justo cuando está a punto de presentar sus inventos en un simposio de investigación científica en Nueva York, el Conde Champignac es secuestrado por Cyanida. El malvado robot tiene un solo objetivo: gobernar el mundo. No hay un momento para perder. Spirou tendrá que recorrer las calles, los metros y los rascacielos de Nueva York y volar a Palombia, una jungla pantanosa llena de sorpresas ... buenas y malas ...*No llegó a salir.</synopsis>
       <genre>Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -10806,7 +10826,7 @@ Si une version SNES et Megadrive ont bien vue le jour uniquement en europe, la v
       <genre>Sports,Sports / Football,Sports / Baseball</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>DOS GRANDES DEPORTES, UN JUEGO INCREÍBLEnnnnJuega los deportes favoritos de Estados Unidos, como solo Sports Illustrated te los puede ofrecer. Métete en el campo de juego sin parar y lucha contra la oposición: solo ganará el equipo más duro. Ponte los picos, recoge tu bate y prepárate para golpear la pelota fuera del estadio.nnnnTe sentirás como si estuvieras en el fragor de la acción, experimentando toda la emoción de los deportes como deberían ser jugados. Ambos deportes cuentan con gráficos súper realistas y secuencias animadas que celebran grandes jugadas. Blaze más allá de la oposición y anotar el touchdown final, golpear ese jonrón y anotar a lo grande con este dúo deportivo inmejorable.</synopsis>
+      <synopsis>DOS GRANDES DEPORTES, UN JUEGO INCREÍBLEJuega los deportes favoritos de Estados Unidos, como solo Sports Illustrated te los puede ofrecer. Métete en el campo de juego sin parar y lucha contra la oposición: solo ganará el equipo más duro. Ponte los picos, recoge tu bate y prepárate para golpear la pelota fuera del estadio.Te sentirás como si estuvieras en el fragor de la acción, experimentando toda la emoción de los deportes como deberían ser jugados. Ambos deportes cuentan con gráficos súper realistas y secuencias animadas que celebran grandes jugadas. Blaze más allá de la oposición y anotar el touchdown final, golpear ese jonrón y anotar a lo grande con este dúo deportivo inmejorable.</synopsis>
       <genre>Deportes,Deportes / Fútbol americano,Deportes / Béisbol</genre>
     </locale>
     <locale lang="FR">
@@ -10869,7 +10889,7 @@ Si une version SNES et Megadrive ont bien vue le jour uniquement en europe, la v
       <genre>Quiz</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Pon tu conocimiento a prueba! ¡El primer juego de trivia de deportes de Game Gear tiene cientos de preguntas, que cubren 11 categorías de deportes diferentes!nnnn¡Todos tus deportes favoritos! Fútbol, baloncesto, béisbol, baloncesto universitario, fútbol americano universitario, golf, hockey, tenis, boxeo, carreras de autos y más.nnnnTus respuestas se juegan en un campo de fútbol. ¡Ve por la bomba larga! ¡Cuantas más preguntas respondas a la vez, más yardas ganas!nnnn¡Juego de 1 o 2 jugadores: desafía a un amigo y haz una copia de seguridad en el campo de juego!</synopsis>
+      <synopsis>Pon tu conocimiento a prueba! ¡El primer juego de trivia de deportes de Game Gear tiene cientos de preguntas, que cubren 11 categorías de deportes diferentes!¡Todos tus deportes favoritos! Fútbol, baloncesto, béisbol, baloncesto universitario, fútbol americano universitario, golf, hockey, tenis, boxeo, carreras de autos y más.Tus respuestas se juegan en un campo de fútbol. ¡Ve por la bomba larga! ¡Cuantas más preguntas respondas a la vez, más yardas ganas!¡Juego de 1 o 2 jugadores: desafía a un amigo y haz una copia de seguridad en el campo de juego!</synopsis>
       <genre>Quiz</genre>
     </locale>
     <locale lang="FR">
@@ -10907,7 +10927,7 @@ The second puzzle mode is used to reroute power from one system to another. To d
       <genre>Strategy,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡VIAJE A LA FRONTERA FINAL!nnnn¡Vuelve a vivir la última aventura de STAR TREK en tu Sega Game Gear! Basado en la nueva película de STAR TREK GENERATIONS de Paramount Pictures, BEYOND THE NEXUS te sitúa en el centro de la misión más importante de los EE. UU. ¡Empresa! ¡En este viaje, un extraño fenómeno cósmico reúne a dos de las más honradas tripulaciones de la famosa nave estelar!nnnnTrabajarás lado a lado con personajes de la serie original de STAR TREK y el popular éxito sindicado STAR TREK: THE NEXT GENERATION.nnnn¡Es una aventura Increíble en el siglo 24!nnnn¡Vuela para el combate de Phaser con astutos guerreros romulanos!nn¡Usa Photon Torpedoes para luchar contra Klingon Birds of Prey en un espacio tridimensional simulado!nn¡Ayuda a Picard a alcanzar la prueba antes de que ocurra lo impensable!nn</synopsis>
+      <synopsis>¡VIAJE A LA FRONTERA FINAL!¡Vuelve a vivir la última aventura de STAR TREK en tu Sega Game Gear! Basado en la nueva película de STAR TREK GENERATIONS de Paramount Pictures, BEYOND THE NEXUS te sitúa en el centro de la misión más importante de los EE. UU. ¡Empresa! ¡En este viaje, un extraño fenómeno cósmico reúne a dos de las más honradas tripulaciones de la famosa nave estelar!Trabajarás lado a lado con personajes de la serie original de STAR TREK y el popular éxito sindicado STAR TREK: THE NEXT GENERATION.¡Es una aventura Increíble en el siglo 24!¡Vuela para el combate de Phaser con astutos guerreros romulanos!nn¡Usa Photon Torpedoes para luchar contra Klingon Birds of Prey en un espacio tridimensional simulado!nn¡Ayuda a Picard a alcanzar la prueba antes de que ocurra lo impensable!nn</synopsis>
       <genre>Estrategia,Tiro</genre>
     </locale>
     <locale lang="FR">
@@ -10940,7 +10960,7 @@ The second puzzle mode is used to reroute power from one system to another. To d
       <genre>Simulation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El Capitán Jean-Luc Picard le da la bienvenida, un cadete de primera categoría en la Academia de la Flota Estelar, a la sesión de entrenamiento más intensa que jamás haya experimentado: ¡el Tutorial de Holodeck Avanzado!nnnnLas simulaciones informáticas de la Holodeck lo ponen a usted al mando de Galaxy Class Starship Enterprise: toda su potencia y tripulación esperan sus órdenes. Te embarcarás en una serie de misiones asignadas por tu instructor, el Capitán Picard, pero solo tú puedes tomar las decisiones de vida o muerte que se requieren de un oficial de la Flota Estelar.nnnnCuanto más éxito tengas en completar tus misiones, mayor será tu clasificación en la Academia y más complejas serán las misiones. Así que pon a prueba tus habilidades para tomar decisiones en una fracción de segundo e impulsa tu entrenamiento de la Flota hasta el límite: ¡las posibilidades son tan ilimitadas como el universo mismo!nnnn"¡La empresa de los EE. UU. Es tuya!"</synopsis>
+      <synopsis>El Capitán Jean-Luc Picard le da la bienvenida, un cadete de primera categoría en la Academia de la Flota Estelar, a la sesión de entrenamiento más intensa que jamás haya experimentado: ¡el Tutorial de Holodeck Avanzado!Las simulaciones informáticas de la Holodeck lo ponen a usted al mando de Galaxy Class Starship Enterprise: toda su potencia y tripulación esperan sus órdenes. Te embarcarás en una serie de misiones asignadas por tu instructor, el Capitán Picard, pero solo tú puedes tomar las decisiones de vida o muerte que se requieren de un oficial de la Flota Estelar.Cuanto más éxito tengas en completar tus misiones, mayor será tu clasificación en la Academia y más complejas serán las misiones. Así que pon a prueba tus habilidades para tomar decisiones en una fracción de segundo e impulsa tu entrenamiento de la Flota hasta el límite: ¡las posibilidades son tan ilimitadas como el universo mismo!"¡La empresa de los EE. UU. Es tuya!"</synopsis>
       <genre>Simulación</genre>
     </locale>
     <locale lang="FR">
@@ -10972,7 +10992,7 @@ The game begins on Tatooine, where you, as Luke Skywalker, must travel around an
       <genre>Platform,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>La misión: Rescatar a la Princesa Leia de las MALVADAS garras de Darth Vader!nnAcudir en busca de ayuda a Obi-Wan Kenobi y Han Solo; pero, para eso primero habrás de encontrarlos.nnPor último, te corresponde detonar el mortífero misil final que acabará para siempre con el cuartel general del lado oscuro y ... QUE LA FUERZA TE ACOMPAÑE!</synopsis>
+      <synopsis>La misión: Rescatar a la Princesa Leia de las MALVADAS garras de Darth Vader!nnAcudir en busca de ayuda a Obi-Wan Kenobi y Han Solo; pero, para eso primero habrás de encontrarlos. Por último, te corresponde detonar el mortífero misil final que acabará para siempre con el cuartel general del lado oscuro y ... QUE LA FUERZA TE ACOMPAÑE!</synopsis>
       <genre>Plataforma,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -10984,7 +11004,7 @@ The game begins on Tatooine, where you, as Luke Skywalker, must travel around an
       <genre>Plattform,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Não poderia ser de outra forma! A maior aventura do cinema passa a ser também o maior sucesso no video game: Star Wars! Embarque com Luke Skywalker, Han Solo, a princesa Leia, C-3PO e R2-D2 na luta contra o Império!nnnnAs espaçonaves rebeldes acabaram de conseguir sua primeira vitória contra o Império Galático. Durante a batalha, espiões rebeldes descobriram planos do Império para construir uma arma capaz de dizimar seu planeta inteiro. A princesa Leia, que estava com os planos de destruição da Death Star - a principal nave do Império - foi raptada, mas os planos foram enviados com R2-D2, que está perdido.nnnnPara acabar com essa confusão é que você foi convocado. Lute com Luke Skywalker pelo deserto de Tattooine tentando achar R2-D2 e C-3PO e convencendo Han Solo e Obi-Wan Kenobi a embarcar também nessa aventura. Feito isso, pilote o Falcão Milenar até a Death Star, liberte a princesa Leia e traga-a para a Base rebelde.nnnnParece um sonho mas não é! Você realmente está no meio do filme! Para encerrar, lidere o último ataque rebelde à Death Star para, numa missão quase impossível, tentar destruí-la. Boa sorte... e que a força esteja com você!</synopsis>
+      <synopsis>Não poderia ser de outra forma! A maior aventura do cinema passa a ser também o maior sucesso no video game: Star Wars! Embarque com Luke Skywalker, Han Solo, a princesa Leia, C-3PO e R2-D2 na luta contra o Império!As espaçonaves rebeldes acabaram de conseguir sua primeira vitória contra o Império Galático. Durante a batalha, espiões rebeldes descobriram planos do Império para construir uma arma capaz de dizimar seu planeta inteiro. A princesa Leia, que estava com os planos de destruição da Death Star - a principal nave do Império - foi raptada, mas os planos foram enviados com R2-D2, que está perdido.Para acabar com essa confusão é que você foi convocado. Lute com Luke Skywalker pelo deserto de Tattooine tentando achar R2-D2 e C-3PO e convencendo Han Solo e Obi-Wan Kenobi a embarcar também nessa aventura. Feito isso, pilote o Falcão Milenar até a Death Star, liberte a princesa Leia e traga-a para a Base rebelde.Parece um sonho mas não é! Você realmente está no meio do filme! Para encerrar, lidere o último ataque rebelde à Death Star para, numa missão quase impossível, tentar destruí-la. Boa sorte... e que a força esteja com você!</synopsis>
       <genre>Plataforma,Ação</genre>
     </locale>
     <developer>Tiertex Ltd.</developer>
@@ -11560,7 +11580,8 @@ Smash T.V. is an insane shoot-em-up from the brain of Eugene Jarvis, creator of 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Super Space Invaders">
+
+    <game name="Super Space Invaders">
     <id>13010A</id>
     <locale lang="EN">
       <title>Super Space Invaders</title>
@@ -11699,7 +11720,7 @@ Lois Lane a été kidnappé par Brainiac, utilisez vos yeux lasers et vos super 
 Players control one of the brothers as he travels through different locations such as the Palace restaurant, the docks at Venice (California), the island of Patu San and more. The 2D side-scrolling platforms missions contains platforms, enemies and ninjas and various hazards. One button is used to jump while the other, in combination with the D-pad, launches punches, kicks, throws and various combos. Attacks can also be performed from the air or using very high jumps.
 
 During gameplay an options screen can be accessed to review the statistics (health, strength, reflex and fight), get a hint through Adam's Game Gear, call the ninja Zatch to launch a powerful attack or select a weapon such as shurikens, fireballs, a knife and a sword. By defeating enemies coins are collected to be spent on bonus time on the clock, Zatch power-ups, a bonus life, complete regeneration, a hint, a weapon or a continue.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Fighting,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>¡Reclama tus derechos de nacimiento! ¡Encuentra la espada Kwantzu y destruye el ejército ninja del coronel Chi!</synopsis>
@@ -11824,7 +11845,7 @@ Unlike the other games in the series, this spin-off is less of a traditional pla
       <genre>Plattform,Rollenspiele,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Antes de Tails conhecer Sonic the Hedgehog ele morava em Cocoa Island, um lugar que não está no mapa. É uma ilha puxada pelas Chaos Emeralds. De repente, enquanto relaxa, Tails ouve uma explosão que pareceu que vir de dentro da ilha. Um Flicky diz a Tails que Battle Kukku invadiu a ilha. Ele também diz a Tails que Battle Kukku está minando aqui pelas Chaos Emeralds para obter seu poder. Tails se equipa e se dirige para sua busca para encontrar as peças da máquina para construir sua arma para derrotar o malvado Battle Kukku. No entanto, existem grandes diferenças de enredo entre a versão japonesa e ocidental. Na versão americana e européia do jogo, conta a história de como Sonic e Tails decidem seguir caminhos separados por um tempo. Tails encontra uma ilha desconhecida e decide chamá-la de Tails Island. Enquanto descansava lá, uma grande explosão ocorre e um Flicky diz que os pássaros estão invadindo a ilha.nnnnAo contrário dos outros jogos da série, este spin-off tem um pouco de um jogo de plataforma tradicional, mas com um ritmo muito mais lento com elementos leves de RPG e um foco na resolução de quebra-cabeças. Tails pode andar, pular, voar (momentaneamente), pendurar-se nas bordas e lançar bombas. Ele começa com dez pontos de saúde que podem ser reabastecidos com anéis, mas a quantidade pode ser estendida até 99 coletando as Chaos Emeralds. Nas 12 fases, Tails pode coletar até 26 itens. Por fase no entanto, ele só é permitido trazer quatro e isso acrescenta uma dimensão tática. Uma das ferramentas mais importantes é o Remote Robot que pode se espremer através de pequenas áreas que Tails não pode alcançar. Debaixo d'água ele muda para o pequeno submarino Sea Fox.</synopsis>
+      <synopsis>Antes de Tails conhecer Sonic the Hedgehog ele morava em Cocoa Island, um lugar que não está no mapa. É uma ilha puxada pelas Chaos Emeralds. De repente, enquanto relaxa, Tails ouve uma explosão que pareceu que vir de dentro da ilha. Um Flicky diz a Tails que Battle Kukku invadiu a ilha. Ele também diz a Tails que Battle Kukku está minando aqui pelas Chaos Emeralds para obter seu poder. Tails se equipa e se dirige para sua busca para encontrar as peças da máquina para construir sua arma para derrotar o malvado Battle Kukku. No entanto, existem grandes diferenças de enredo entre a versão japonesa e ocidental. Na versão americana e européia do jogo, conta a história de como Sonic e Tails decidem seguir caminhos separados por um tempo. Tails encontra uma ilha desconhecida e decide chamá-la de Tails Island. Enquanto descansava lá, uma grande explosão ocorre e um Flicky diz que os pássaros estão invadindo a ilha.Ao contrário dos outros jogos da série, este spin-off tem um pouco de um jogo de plataforma tradicional, mas com um ritmo muito mais lento com elementos leves de RPG e um foco na resolução de quebra-cabeças. Tails pode andar, pular, voar (momentaneamente), pendurar-se nas bordas e lançar bombas. Ele começa com dez pontos de saúde que podem ser reabastecidos com anéis, mas a quantidade pode ser estendida até 99 coletando as Chaos Emeralds. Nas 12 fases, Tails pode coletar até 26 itens. Por fase no entanto, ele só é permitido trazer quatro e isso acrescenta uma dimensão tática. Uma das ferramentas mais importantes é o Remote Robot que pode se espremer através de pequenas áreas que Tails não pode alcançar. Debaixo d'água ele muda para o pequeno submarino Sea Fox.</synopsis>
       <genre>Plataforma, Jogos de RPG,Ação</genre>
     </locale>
     <developer>Aspect Co., Ltd.</developer>
@@ -11864,7 +11885,7 @@ The game came to other territories as an unlockable minigame in the GameCube ver
       <genre>Plattform,Action,Shoot'em Up</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Tails 'Skypatrol é a primeira aventura solo do ajudante do Sonic Tails na série Sonic the Hedgehog e só foi lançado no Japão.nnnnAo voar ao redor, Tails descobre uma ilha. Parece estar completamente abandonada, exceto por algumas trilhas de carrinho de mina. Quando ele pousa na ilha, um carrinho se aproxima, e Tails se esconde nos arbustos. O carrinho prateado passa e é conduzido por uma mulher que se chama Wendy Witchcart. Ela proclama que tudo na ilha é dela e ameaça transformar todos em cristal se não seguirem suas regras. Tails, determinado a salvar todos os animais na ilha, se põe em uma perseguição a Witchcart.nnnnA jogabilidade é bastante semelhante à série Sonic. Tails precisa derrotar inimigos e desviar de obstáculos. Ele pode voar, mas está constantemente suspenso. Ele carrega um anel dourado que é usado para tirar inimigos ou para travar em dispositivos. Sonic, as esmeraldas e o Dr. Robotnik não estão presentes e nem há anéis para coletar durante as fases.</synopsis>
+      <synopsis>Tails 'Skypatrol é a primeira aventura solo do ajudante do Sonic Tails na série Sonic the Hedgehog e só foi lançado no Japão.Ao voar ao redor, Tails descobre uma ilha. Parece estar completamente abandonada, exceto por algumas trilhas de carrinho de mina. Quando ele pousa na ilha, um carrinho se aproxima, e Tails se esconde nos arbustos. O carrinho prateado passa e é conduzido por uma mulher que se chama Wendy Witchcart. Ela proclama que tudo na ilha é dela e ameaça transformar todos em cristal se não seguirem suas regras. Tails, determinado a salvar todos os animais na ilha, se põe em uma perseguição a Witchcart.A jogabilidade é bastante semelhante à série Sonic. Tails precisa derrotar inimigos e desviar de obstáculos. Ele pode voar, mas está constantemente suspenso. Ele carrega um anel dourado que é usado para tirar inimigos ou para travar em dispositivos. Sonic, as esmeraldas e o Dr. Robotnik não estão presentes e nem há anéis para coletar durante as fases.</synopsis>
       <genre>Plataforma,Ação,Shoot'em Up</genre>
     </locale>
     <locale lang="JA">
@@ -12224,7 +12245,7 @@ There are a few other items and pickups such as:
 3. 1-UP: extra life.
 4. Star: invulnerability. Unless you run into a bomb.
 5. Bomb: does what it says on the tin.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Taz, el diablo de Tasmania tiene hambre y anda al acecho. ¡Únete a TAZ, con su rápido ataque, en la búsqueda de la tortilla más grande del mundo!</synopsis>
@@ -12528,7 +12549,7 @@ Classic maze style game with 5 worlds each containing 5 levels. Superb graphics,
       <genre>Plattform,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Alô, moçada! Eu sou Slick e esse é meu amigo Spin. Nós somos dublês, caras que se matam nos filmes para fazer as cenas mais arriscadas, enquanto o mocinho leva toda a glória. Não é o trabalho mais bem pago do mundo, mas mesmo assim nós aceitamos qualquer tarefa onde o perigo é constante.nnnnVocê vai nos ajudar a sairmos vivos de cinco emocionantes tarefas. Eu disse ajudar... não vá fazer besteira! A primeira é a queda livre de um edifício. Já se imaginou olhando para baixo e tendo que pular? A segunda é testar pára-choques de ar: vai ser batida para tudo quanto é lado!nnnnTemos ainda que descer uma pista de esqui desviando de árvores e acertando alguns bonecos de neve. Depois vem o controle de qualidade de um produto. Simples? Trata-se de bombas! Se nós sobrevivermos, teremos ainda que guiar mísseis espaciais entre asteróides e mísseis inimigos.nnnnA gente vive rodeado pelo perigo e por isso sabe o quanto é importante a segurança. Usem sempre o cinto de segurança no carro e não se coloquem em situação de perigo. Bom, depois disso tudo, o mínimo que nós merecemos são longas e tranqüilas férias! Você conhece alguém que queira nos substituir?</synopsis>
+      <synopsis>Alô, moçada! Eu sou Slick e esse é meu amigo Spin. Nós somos dublês, caras que se matam nos filmes para fazer as cenas mais arriscadas, enquanto o mocinho leva toda a glória. Não é o trabalho mais bem pago do mundo, mas mesmo assim nós aceitamos qualquer tarefa onde o perigo é constante.Você vai nos ajudar a sairmos vivos de cinco emocionantes tarefas. Eu disse ajudar... não vá fazer besteira! A primeira é a queda livre de um edifício. Já se imaginou olhando para baixo e tendo que pular? A segunda é testar pára-choques de ar: vai ser batida para tudo quanto é lado!Temos ainda que descer uma pista de esqui desviando de árvores e acertando alguns bonecos de neve. Depois vem o controle de qualidade de um produto. Simples? Trata-se de bombas! Se nós sobrevivermos, teremos ainda que guiar mísseis espaciais entre asteróides e mísseis inimigos.A gente vive rodeado pelo perigo e por isso sabe o quanto é importante a segurança. Usem sempre o cinto de segurança no carro e não se coloquem em situação de perigo. Bom, depois disso tudo, o mínimo que nós merecemos são longas e tranqüilas férias! Você conhece alguém que queira nos substituir?</synopsis>
       <genre>Plataforma,Ação</genre>
     </locale>
     <locale lang="JA">
@@ -12677,7 +12698,7 @@ The game is the 8-bit counterpart for Quack Shot (released only for Sega Genesis
       <genre>Plattform,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>A Maga Patalógica raptou Huguinho, Zezinho e Luizinho ! E só para piorar, ela também roubou a Moedinha número 1 do Tio Patinhas ! Junte-se ao Pato Donald nesta aventura, e prove que a Maga não é páreo para vocês.nnnnPercorra sete mundos repletos de magia e perigos, e depois invada o Castelo Assombrado da Maga para resgatar seus sobrinhos e recuperar a moedinha do Tio Patinhas.</synopsis>
+      <synopsis>A Maga Patalógica raptou Huguinho, Zezinho e Luizinho ! E só para piorar, ela também roubou a Moedinha número 1 do Tio Patinhas ! Junte-se ao Pato Donald nesta aventura, e prove que a Maga não é páreo para vocês.Percorra sete mundos repletos de magia e perigos, e depois invada o Castelo Assombrado da Maga para resgatar seus sobrinhos e recuperar a moedinha do Tio Patinhas.</synopsis>
       <genre>Plataforma,Ação</genre>
     </locale>
     <locale lang="JA">
@@ -12866,7 +12887,7 @@ Bart also has some coins that can be used in many ways throughout the game, like
       <genre>Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Olá, simples mortal! Aqui fala Bart Simpson. Espero que não esteja ninguém por perto a ouvir-nos, porque tenho um importante segredo para revelar: mutantes do espaço estão a invadir Springfield! Como? Senta-te para não caíres: eles estão a apoderar-se de corpos humanos! E este sortudo que te fala é o único que pode vê-los, graças aos meus poderosos óculos Raio-X!nnnnComo já deves ter percebido, a minha missão é detê-los. Mas como não tenho uma boa reputação (não sei porquê!), preciso de comprovar o que estou a dizer. A única forma de o fazer é pegar em vários items nos mais diferentes lugares de Springfield: pelas ruas, no Shopping, no parque, no Museu de História Natural e ufa! -numa central nuclear!nnnnEu vou precisar de reflexos rápidos para ter êxito. Felizmente poderei contar com vários objectos (muito estranhos) como: latas de spray, pistola de dardos, fisgas... Mas acho que isto não vai ser suficiente, pois preciso de alguém inteligente e brilhante que me ajude a usá-los!nnConto com a tua ajuda!nnOh meu, precisamos salvar a terra.</synopsis>
+      <synopsis>Olá, simples mortal! Aqui fala Bart Simpson. Espero que não esteja ninguém por perto a ouvir-nos, porque tenho um importante segredo para revelar: mutantes do espaço estão a invadir Springfield! Como? Senta-te para não caíres: eles estão a apoderar-se de corpos humanos! E este sortudo que te fala é o único que pode vê-los, graças aos meus poderosos óculos Raio-X!Como já deves ter percebido, a minha missão é detê-los. Mas como não tenho uma boa reputação (não sei porquê!), preciso de comprovar o que estou a dizer. A única forma de o fazer é pegar em vários items nos mais diferentes lugares de Springfield: pelas ruas, no Shopping, no parque, no Museu de História Natural e ufa! -numa central nuclear!Eu vou precisar de reflexos rápidos para ter êxito. Felizmente poderei contar com vários objectos (muito estranhos) como: latas de spray, pistola de dardos, fisgas... Mas acho que isto não vai ser suficiente, pois preciso de alguém inteligente e brilhante que me ajude a usá-los!nnConto com a tua ajuda!nnOh meu, precisamos salvar a terra.</synopsis>
     </locale>
     <developer>Arc Developments</developer>
     <publisher>Flying Edge, Inc.</publisher>
@@ -12888,7 +12909,7 @@ Bart also has some coins that can be used in many ways throughout the game, like
       <genre>Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡Eh! Te propongo un trato. Yo gané el concurso artístico del Payaso Krusty por eso mi familia y yo recorrimos a bordo de esta búsqueda super güay del tesoro universal China, Egipto, el Polo Norte y Hollywood. Pero necesito tu ayuda para recoger caras y productos Krusty si quiero llegar a mi último destino: ¡considérate invitado al Show de Rasca y Pica!nn¿Alguna pregunta? Bueno, pues me largo.nnTu amigo,nnBart Simpson.</synopsis>
+      <synopsis>¡Eh! Te propongo un trato. Yo gané el concurso artístico del Payaso Krusty por eso mi familia y yo recorrimos a bordo de esta búsqueda super güay del tesoro universal China, Egipto, el Polo Norte y Hollywood. Pero necesito tu ayuda para recoger caras y productos Krusty si quiero llegar a mi último destino: ¡considérate invitado al Show de Rasca y Pica!nn¿Alguna pregunta? Bueno, pues me largo. Tu amigo, Bart Simpson.</synopsis>
       <genre>Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -12896,11 +12917,11 @@ Bart also has some coins that can be used in many ways throughout the game, like
       <genre>Plateforme</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>Hallo, Leute! Es geht um folgendes: Ich haö' beim Malwettbewerb von Krusty dem Clown gewonnen, also bin ich mit meiner ganzen Familie zu dieser echt coolen Schatzsuche durch die ganze Welt unterwegs: nach China, Ägypten, zum Nordpol und nach Hollywood. Und Ihr müßt mir helfen, Krusty-Gesichter und Krusty-Gegenstände zu finden, damit ich mein großes Ziel erreichen kann: als Gast bei der Itchy &amp; Scratchy-Show aufzutreten!nnNoch Fragen? Gut. Ich mach' mich auf die Socken.nnEuer Freund.nnBart Simpson.</synopsis>
+      <synopsis>Hallo, Leute! Es geht um folgendes: Ich haö' beim Malwettbewerb von Krusty dem Clown gewonnen, also bin ich mit meiner ganzen Familie zu dieser echt coolen Schatzsuche durch die ganze Welt unterwegs: nach China, Ägypten, zum Nordpol und nach Hollywood. Und Ihr müßt mir helfen, Krusty-Gesichter und Krusty-Gegenstände zu finden, damit ich mein großes Ziel erreichen kann: als Gast bei der Itchy &amp; Scratchy-Show aufzutreten!nnNoch Fragen? Gut. Ich mach' mich auf die Socken. Euer Freund. Bart Simpson.</synopsis>
       <genre>Plattform</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Parece impossível, mas Bart ganhou um prêmio num concurso de arte! Nosso culto amiguinho vai levar toda a família para uma caça ao tesouro ao redor do mundo. Na verdade, tudo não passa de uma armação do Sr. Montgomery Burns que perdeu milhões desde que Hommer foi contratado para sua usina nuclear.nnnnBurns está gastando uma fortuna com essa viagem só para eliminar esta família da face da Terra. Para isso ele conta com vários parentes importantes no mundo todo.nnnnTudo começa na China, onde a Grande Muralha deixa de ser uma das maravilhas do mundo e passa a ser uma pista de skate. Depois vem o Pólo Norte - aqui Bart irá enfrentar uma criatura metade-homem, metade-monstro, metade-Burns. 3 metades??? É, deixa o coitado ser como quiser!nnnnNo Egito, Bart irá passar pelo Vale dos Reis e pela Esfìnge até enfrentar o faraó Ramsés Burns. A última fase é em Hollywood, onde o temido diretor de filmes, Eric von Burns, fará de tudo para acabar com os Simpsons. Burns pensa que não deve ser muito difícil eliminar uma família tão patética. Prove que ele está redondamente enganado!</synopsis>
+      <synopsis>Parece impossível, mas Bart ganhou um prêmio num concurso de arte! Nosso culto amiguinho vai levar toda a família para uma caça ao tesouro ao redor do mundo. Na verdade, tudo não passa de uma armação do Sr. Montgomery Burns que perdeu milhões desde que Hommer foi contratado para sua usina nuclear.Burns está gastando uma fortuna com essa viagem só para eliminar esta família da face da Terra. Para isso ele conta com vários parentes importantes no mundo todo.Tudo começa na China, onde a Grande Muralha deixa de ser uma das maravilhas do mundo e passa a ser uma pista de skate. Depois vem o Pólo Norte - aqui Bart irá enfrentar uma criatura metade-homem, metade-monstro, metade-Burns. 3 metades??? É, deixa o coitado ser como quiser!No Egito, Bart irá passar pelo Vale dos Reis e pela Esfìnge até enfrentar o faraó Ramsés Burns. A última fase é em Hollywood, onde o temido diretor de filmes, Eric von Burns, fará de tudo para acabar com os Simpsons. Burns pensa que não deve ser muito difícil eliminar uma família tão patética. Prove que ele está redondamente enganado!</synopsis>
     </locale>
     <developer>Arc Developments</developer>
     <publisher>Flying Edge, Inc.</publisher>
@@ -13177,7 +13198,7 @@ Urban Strike is the first, and only, game in the Strike series to feature non-ve
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Salva las urbes e los EE.UU. de su total destrucción en 10 espectaculares misiones compuestas de múltiples etapas.nnBaja del helicóptero y ponte a luchar a pie.nnNuevos helicópteros y vehículos de asalto en tierra.nnNuevas pruebas contrarreloj, premios y paneles de mando interactivos.</synopsis>
+      <synopsis>Salva las urbes e los EE.UU. de su total destrucción en 10 espectaculares misiones compuestas de múltiples etapas. Baja del helicóptero y ponte a luchar a pie. Nuevos helicópteros y vehículos de asalto en tierra. Nuevas pruebas contrarreloj, premios y paneles de mando interactivos.</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -13209,7 +13230,7 @@ Urban Strike is the first, and only, game in the Strike series to feature non-ve
       <synopsis>Master of Darkness is a Platformer very similar to Castlevania.
 
 You play as a psychologist trying to defeat Dracula. This requires you to fight your way through several spooky locations such as cemeteries, laboratories, castles or a house of wax dolls. To defeat your enemies, you can use several primary and secondary weapons. Primary weapons are close combat weapons ranging from knifes to rapiers and axes, that differ in range and efficiency. Secondary weapons are long-range weapons (pistols, bombs etc.) with limited ammunition. The game features 5 Rounds divided into 3 stages. At the end of each stage, a boss must be defeated.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Deberás encontrar a Drácula, el señor de la oscuridad, y vencerlo antes de que toda Inglaterra quede bajo su aterrador poder.</synopsis>
@@ -13397,6 +13418,7 @@ Advertising saw Tetris creator Alexey Pajitnov lend his name to the game, howeve
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Wimbledon">
     <id>12982A</id>
@@ -13581,7 +13603,7 @@ With a wooden paddle, which in fact is Woody the tree spirit, you bounce your ba
 Once a room is cleared, you can choose freely between up to three adjacent rooms to progress to, making this game less linear than usual.
 
 Like any post-Arkanoid game, there is a range of powerups released from special blocks. Most are known from other games such as the double-ball, the growing bat or the "diamond ball", which destroys all blocks in its path without ricocheting. Some invented by Sega are the fire ball, which sets blocks on fire, allowing them to destroy even neighbouring blocks, and the big ball, which hits bricks with more power, thereby destroying brick with one hit that would otherwise have required several.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Breakout</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Únete a Woody Pop en su lucha contra las fuerzas de la celosa Máquina Loca. ¡Prepárate para rebotes y más rebotes, y acción ilimitada, mientras Woody Pop se convierte en un héroe rompe-ladrillos!</synopsis>
@@ -13688,7 +13710,7 @@ The PC version revolutionized the use of the PC speaker to reproduce voice sampl
       <genre>Sports,Action,Sports / Soccer</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Personalización del juego para satisfacer el estilo futbolístico del usuario usando las opciones previas al partido: regla de pase al portero, control del driblaje, regla de fuera de juego, duración del partido, velocidad, control de balón, tiempo, saque de falta, editor de formación y saque de esquina.nnAnimación con más de 3.000 secuencias.</synopsis>
+      <synopsis>Personalización del juego para satisfacer el estilo futbolístico del usuario usando las opciones previas al partido: regla de pase al portero, control del driblaje, regla de fuera de juego, duración del partido, velocidad, control de balón, tiempo, saque de falta, editor de formación y saque de esquina. Animación con más de 3.000 secuencias.</synopsis>
       <genre>Deportes,Acción,Deportes / Fútbol</genre>
     </locale>
     <locale lang="FR">
@@ -13696,11 +13718,11 @@ The PC version revolutionized the use of the PC speaker to reproduce voice sampl
       <genre>Sport,Action,Sport / Football</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>Realistisches Spiel mit über 15 vershiedenen SpieleraktionennnFlugkopfballnnVolleyschußnnFallrückziehernnShießennnHebernnHackentricknnTorwartparadennTorjubelnnGestalten Sie das Spiel vor dem Anstoß mit zahlreichen Optionen Ihren Vorlieben entsprechendnnRückpaßregel ein/ausnnBallbeherrschung (klebefaktor) niedrig/mittel/hoch/supernnAbseitregel ein/ausnnSpieldauer 3 bis 45 Minuten lange HalbzeitennnTempo niedrig/mittel/hochnnBallstoppen ein/ausnnWitterung ein/ausnnFreistoß !nnnnStrategie Bestimmen Sie Ihre SpieltaktiknnnnEckstoßnnnnÜber 3000 Frames Animation</synopsis>
+      <synopsis>Realistisches Spiel mit über 15 vershiedenen SpieleraktionennnFlugkopfballnnVolleyschußnnFallrückziehernnShießennnHebernnHackentricknnTorwartparadennTorjubelnnGestalten Sie das Spiel vor dem Anstoß mit zahlreichen Optionen Ihren Vorlieben entsprechendnnRückpaßregel ein/ausnnBallbeherrschung (klebefaktor) niedrig/mittel/hoch/supernnAbseitregel ein/ausnnSpieldauer 3 bis 45 Minuten lange HalbzeitennnTempo niedrig/mittel/hochnnBallstoppen ein/ausnnWitterung ein/ausnnFreistoß !Strategie Bestimmen Sie Ihre SpieltaktikEckstoßÜber 3000 Frames Animation</synopsis>
       <genre>Sport,Action,Sport / Fußball</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Se você mora neste planeta, já deve estar sabendo que nos EUA, em 1994, estará acontecendo o maior evento do futebol mundial: a Copa do Mundo.nnnnE para que você não fique se divertindo apenas durante os jogos, foi feito um jogo - o único oficial da Copa do Mundo - que vai refletir tudo que está rolando nos gramados norte-americanos.nnnnWorld Cup USA 94 é o mais completo jogo de futebol já desenvolvido para Master System. Você vai poder dar passes incríveis, colocando na bola o efeito que desejar, mudar as regras oficiais, alterar as velocidades dos jogadores e até alterar a formação dos grupos da Copa do Mundo.nnnnAcabou? Claro que não! Há ainda a escolha das estratégias do seu time em campo, duração das partidas, password para gravar um campeonato e reiniciar quando quiser e 8 opções de idiomas.nnnnCom World Cup USA 94 você vai entrar para a galeria dos grandes campeões!</synopsis>
+      <synopsis>Se você mora neste planeta, já deve estar sabendo que nos EUA, em 1994, estará acontecendo o maior evento do futebol mundial: a Copa do Mundo.E para que você não fique se divertindo apenas durante os jogos, foi feito um jogo - o único oficial da Copa do Mundo - que vai refletir tudo que está rolando nos gramados norte-americanos.World Cup USA 94 é o mais completo jogo de futebol já desenvolvido para Master System. Você vai poder dar passes incríveis, colocando na bola o efeito que desejar, mudar as regras oficiais, alterar as velocidades dos jogadores e até alterar a formação dos grupos da Copa do Mundo.Acabou? Claro que não! Há ainda a escolha das estratégias do seu time em campo, duração das partidas, password para gravar um campeonato e reiniciar quando quiser e 8 opções de idiomas.Com World Cup USA 94 você vai entrar para a galeria dos grandes campeões!</synopsis>
       <genre>Esporte,Ação,Esporte / Futebol</genre>
     </locale>
     <developer>Tiertex Ltd.</developer>
@@ -13761,7 +13783,7 @@ The stats used in this game came from the 1992 season. </synopsis>
       <genre>Sports,Sports / Baseball</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El único juego de béisbol de Game Gear con los 28 equipos de la Major League, incluidos los Colorado Rockies y los Florida Marlins. Listas completas de equipos con los 700 jugadores de Major League.nnEnvíe todas sus amenazas de bolas largas como Bonds, Thomas, Tartabull y McGriff contra los mejores jugadores de béisbol como Langston, McDowell, Glavine o Gooden.nnImagine a los Yankees vs. Mets o Cubs vs. White Sox en el modo de exhibición.nnJuega el All-Star Game y la verdadera World Series.</synopsis>
+      <synopsis>El único juego de béisbol de Game Gear con los 28 equipos de la Major League, incluidos los Colorado Rockies y los Florida Marlins. Listas completas de equipos con los 700 jugadores de Major League. Envíe todas sus amenazas de bolas largas como Bonds, Thomas, Tartabull y McGriff contra los mejores jugadores de béisbol como Langston, McDowell, Glavine o Gooden. Imagine a los Yankees vs. Mets o Cubs vs. White Sox en el modo de exhibición. Juega el All-Star Game y la verdadera World Series.</synopsis>
       <genre>Deportes,Deportes / Béisbol</genre>
     </locale>
     <locale lang="FR">
@@ -13835,7 +13857,7 @@ This game supports up to 4 simultaneous players, and has the following game mode
       <genre>Sports,Action,Fight,Sports / Fighting</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡WWF RAW golpea tus sentidos con el caos más implacable! Las superestrellas más populares de la WWF, cada una con su propio movimiento característico, la acción salvaje del equipo de etiqueta y los agotadores combates de la Serie Survivor se interponen entre tú y el cinturón del Campeonato.nnEsto es WWF RAW... y Raw es Guerra!</synopsis>
+      <synopsis>¡WWF RAW golpea tus sentidos con el caos más implacable! Las superestrellas más populares de la WWF, cada una con su propio movimiento característico, la acción salvaje del equipo de etiqueta y los agotadores combates de la Serie Survivor se interponen entre tú y el cinturón del Campeonato. Esto es WWF RAW... y Raw es Guerra!</synopsis>
       <genre>Deportes,Acción,Combate,Deportes / Combate</genre>
     </locale>
     <locale lang="FR">
@@ -13948,7 +13970,7 @@ Combate contra los villanos: Sauron, Reina Brood, Callisto, Sebastian Shaw, Omeg
       <genre>Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡Una plaga Y una doble cruz mortal! El Virus Legacy está aniquilando Mutantkind y GamesMaster está sosteniendo la llave. Él ofrece a los X-Men la oportunidad de jugar su juego y ganar el secreto ... ¡PERO también ofrece lo mismo a sus archienemigos con la AGREGADA satisfacción de destruir a los X-Men! Los X-Men deben dividirse para encontrar la cura o perecer para siempre.nn7 personajes jugables - Cíclope y Tormenta buscan a Lobezno, Gambito, Pícara, Bishop y Jean Grey. Completa cada nivel y vuelve a unir al equipo uno por uno.nn8 niveles abrasadores de combate cuerpo a cuerpo desde el Ártico a las fortalezas egipcias y en un enclave lunar.nnLos X-Men luchan contra el Infierno: Mister Siniestro, Dyscordia, Sienna Blaze, Apocalipsis, Cronomante, Exodus, Shinobi Shaw y Fabian Cortez.</synopsis>
+      <synopsis>¡Una plaga Y una doble cruz mortal! El Virus Legacy está aniquilando Mutantkind y GamesMaster está sosteniendo la llave. Él ofrece a los X-Men la oportunidad de jugar su juego y ganar el secreto ... ¡PERO también ofrece lo mismo a sus archienemigos con la AGREGADA satisfacción de destruir a los X-Men! Los X-Men deben dividirse para encontrar la cura o perecer para siempre. 7 personajes jugables - Cíclope y Tormenta buscan a Lobezno, Gambito, Pícara, Bishop y Jean Grey. Completa cada nivel y vuelve a unir al equipo uno por uno. 8 niveles abrasadores de combate cuerpo a cuerpo desde el Ártico a las fortalezas egipcias y en un enclave lunar. Los X-Men luchan contra el Infierno: Mister Siniestro, Dyscordia, Sienna Blaze, Apocalipsis, Cronomante, Exodus, Shinobi Shaw y Fabian Cortez.</synopsis>
       <genre>Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -13984,7 +14006,7 @@ Gameplay consists basically in finding the way out of each of the six levels. On
       <genre>Platform,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Los X-Men enfrentan su aventura más brutal de todos los tiempos. Espiral, una bella productora de televisión con 6 brazos y habitante de Mojo World, enfrenta a los X-Men contra sus enemigos más difíciles de todos los tiempos en la última pelea televisada, "The Greatest Battles of the X-Men". Si su esquema funciona, los ciudadanos de Mojo World se sintonizarán y ella se convertirá en su nuevo gobernante.nnnnX-Men del pasado, presente y futuro.nnTen cuidado con Mojo, Magneto, Centinela, Cronomante y Agent. ¡Te destruiremos!nn¡Aventúrate a través de Nueva Orleans, una futurista ciudad de Nueva York y Mojo World!</synopsis>
+      <synopsis>Los X-Men enfrentan su aventura más brutal de todos los tiempos. Espiral, una bella productora de televisión con 6 brazos y habitante de Mojo World, enfrenta a los X-Men contra sus enemigos más difíciles de todos los tiempos en la última pelea televisada, "The Greatest Battles of the X-Men". Si su esquema funciona, los ciudadanos de Mojo World se sintonizarán y ella se convertirá en su nuevo gobernante.X-Men del pasado, presente y futuro. Ten cuidado con Mojo, Magneto, Centinela, Cronomante y Agent. ¡Te destruiremos!nn¡Aventúrate a través de Nueva Orleans, una futurista ciudad de Nueva York y Mojo World!</synopsis>
       <genre>Plataforma,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -13995,7 +14017,7 @@ Gameplay consists basically in finding the way out of each of the six levels. On
       <genre>Plattform,Action</genre>
     </locale>
     <locale lang="PT">
-      <synopsis>Os X-Men enfrentam seu mais brutal episódio. Spiral, uma bela produtora de televisão munida de seis braços (e como será que ela ainda pode ser bela?), está programando um combate final dos X-Men contra seus piores inimigos, com transmissão ao vivo para os telespectadores. Se este plano funcionar, os cidadãos de Mojo World ligarão seu aparelho de TV para assistirem à disputa e ela se tornará, então, sua nova governante!nnnnX-Men diretamente do passado, do presente e do futuro.nnAventure-se em New Orleans, na cidade futurista de Nova York e no Mojo World!nnCuidado com Mojo, o Magneto, as Sentinelas e os Agentes. Eles querem destrui-lo!</synopsis>
+      <synopsis>Os X-Men enfrentam seu mais brutal episódio. Spiral, uma bela produtora de televisão munida de seis braços (e como será que ela ainda pode ser bela?), está programando um combate final dos X-Men contra seus piores inimigos, com transmissão ao vivo para os telespectadores. Se este plano funcionar, os cidadãos de Mojo World ligarão seu aparelho de TV para assistirem à disputa e ela se tornará, então, sua nova governante!X-Men diretamente do passado, do presente e do futuro. Aventure-se em New Orleans, na cidade futurista de Nova York e no Mojo World!nnCuidado com Mojo, o Magneto, as Sentinelas e os Agentes. Eles querem destrui-lo!</synopsis>
       <genre>Plataforma,Ação</genre>
     </locale>
     <developer>Sega</developer>
@@ -14085,7 +14107,7 @@ Gameplay consists basically in finding the way out of each of the six levels. On
       <genre>Action,Fight</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Eres el delincuente adolescente Yusuke Urameshi, que es nombrado "Detective del mundo subterráneo" después de ser asesinado en un accidente automovilístico mientras trataba de salvar un la vida del niño. Su tarea es investigar varios casos que involucran fantasmas y demonios en el mundo humano.nnCon respecto a su precuela es totalmente diferente ya que deja de ser un Beat'em up y pasa a ser un juego de lucha 1vs1.</synopsis>
+      <synopsis>Eres el delincuente adolescente Yusuke Urameshi, que es nombrado "Detective del mundo subterráneo" después de ser asesinado en un accidente automovilístico mientras trataba de salvar un la vida del niño. Su tarea es investigar varios casos que involucran fantasmas y demonios en el mundo humano. Con respecto a su precuela es totalmente diferente ya que deja de ser un Beat'em up y pasa a ser un juego de lucha 1vs1.</synopsis>
       <genre>Acción,Combate</genre>
     </locale>
     <locale lang="FR">

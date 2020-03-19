@@ -1,0 +1,1268 @@
+193630|'ashe|'ashe|Ashe|Action,Platform,Shooter|||Quasar&nbsp;Soft|Quasar&nbsp;Soft|
+193631|1000nen Oukoku|1000nen Oukoku||Adventure,||||LOG|1986
+193632|100yen Disk|100yen Disk|||||||
+193633|100yen Disk 2|100yen Disk 2|||||||
+193634|100yen Disk 3|100yen Disk 3|||||||
+193635|100yen Disk 4|100yen Disk 4|||||||
+193636|100yen Disk 5|100yen Disk 5|||||||
+193637|100yen Disk 6|100yen Disk 6|||||||
+193638|100yen Disk 7|100yen Disk 7|||||||
+193639|100yen Soft 7 Final Special|100yen Soft 7 Final Special|||||||
+193640|100yen Soft 8 Revial Special|100yen Soft 8 Revial Special|||||||
+193641|177|177||Simulation,|||Quicksilver&nbsp;Software,&nbsp;Inc.|Interplay&nbsp;Productions,&nbsp;Inc.|1991
+193642|1942|1942||Action,Arcade,Shooter,,|||Illusion&nbsp;Softworks,&nbsp;a.s.|TalonSoft,&nbsp;Inc.|1999
+193643|50yen Adv 2 - Splush Act 2|50yen Adv 2 - Splush Act 2|||||||
+193644|50yen Adv 3 - Splash Act 3|50yen Adv 3 - Splash Act 3|||||||
+193645|50yen Adv 3 - Splush Act 3|50yen Adv 3 - Splush Act 3|||||||
+193646|A-ressha De Ikou|A-ressha De Ikou||Simulation,||||Artdink|1986
+193647|A.e.|A.e.|HyperList|Action,Puzzle,,|||Programmers-3&nbsp;Inc.|Comptiq|
+193648|A.i.r.|A.i.r.||Action,|||Quasar&nbsp;Soft|Quasar&nbsp;Soft|1987
+193649|Abunai Game|Abunai Game||||||Soft Sos|
+193650|Abunai Josei Shinrigaku Nyuumon|Abunai Josei Shinrigaku Nyuumon||RPG,||||Fairy Tale|1987
+193651|Abunai Tengu Densetsu|Abunai Tengu Densetsu||Adventure,|||Alice&nbsp;Soft|Alice&nbsp;Soft|1989
+193652|Abyss|Abyss|AIR|Adventure,||||Cases&nbsp;Computer&nbsp;Simulations&nbsp;Ltd.|1984
+193653|Abyss 2 - Teiou No Namida|Abyss 2 - Teiou No Namida|||||||
+193654|Acchi Muite Hoi!|Acchi Muite Hoi!|||||||
+193655|Acro Jet|Acro Jet|||||||
+193656|Active Gamers Kessei 2 Shuunen Kinen Disk|Active Gamers Kessei 2 Shuunen Kinen Disk|||||||
+193657|Adrenalin Connection|Adrenalin Connection||Adventure,||||Victor|1987
+193658|Advanced Fantasian|Advanced Fantasian||RPG,||||Xtal|1988
+193659|Again|Again|AIR|Adventure,|||CING,&nbsp;Inc.|Koei Tecmo Games|1984
+193660|Aggress|Aggress||||||Riverhill|1986
+193661|Agni No Ishi|Agni No Ishi||||||Hummingbird|1988
+193662|Akujo Densetsu 2|Akujo Densetsu 2|||||||
+193663|Akujo Kamakiri|Akujo Kamakiri||RPG,|||||1984
+193664|Akushu|Akushu|Ashe|,Platform,Shooter||||Wolfteam|1989
+193665|Albatross|Albatross||Action,Simulation,Sports,Arcade,Golf,,|||Telenet|Telenet|1986
+193666|Albatross Expert Course|Albatross Expert Course|||||||
+193667|Albatross Meimon 1 Orchills|Albatross Meimon 1 Orchills|||||||
+193668|Albatross Visual Course|Albatross Visual Course|||||||
+193669|Albatross World Course|Albatross World Course|||||||
+193670|Alfaim|Alfaim||Adventure,||||Xain|1989
+193671|Algeese No Tsubasa|Algeese No Tsubasa|||||||
+193672|Ali Baba|Ali Baba||RPG,|||||1985
+193673|Alice|Alice|AIR|Adventure,||||Alice Soft|1989
+193674|Alice Tachi No Gogo Vol. 1|Alice Tachi No Gogo Vol. 1||Adventure,|||New&nbsp;System&nbsp;House&nbsp;Oh!|New&nbsp;System&nbsp;House&nbsp;Oh!|
+193675|Alime Land Story|Alime Land Story||||||TKO|1989
+193676|Alpha|Alpha|AIR|Adventure,|||Square|Square|1989
+193677|Alphos|Alphos|Ashe|Action,Shooter,|||Random&nbsp;House&nbsp;Co.,&nbsp;Ltd.|Fenix Fire|1983
+193678|Amazing Disk Episode 1|Amazing Disk Episode 1|||||||
+193679|Amazing Disk Episode 2|Amazing Disk Episode 2|||||||
+193680|Amazing Disk Episode 3|Amazing Disk Episode 3|||||||
+193681|Amazon Gakujutsu Tanken|Amazon Gakujutsu Tanken||RPG,|||||1984
+193682|Amazoness No Hihou|Amazoness No Hihou||RPG,||||Studio Milk|1987
+193683|American Success|American Success||RPG,|||||1988
+193684|American Truck|American Truck||Racing,|||Telenet Japan Co., Ltd.|Telenet Japan Co., Ltd.|1985
+193685|American Truck Sr|American Truck Sr|||||||
+193686|Angel Hearts|Angel Hearts||Racing,|||Elf Co., Ltd.|Elf Co., Ltd.|1985
+193687|Angelus|Angelus||Adult,||||Enix|1988
+193688|Aniparo Menyou Cg Data Shuu Disk Noah V2.1|Aniparo Menyou Cg Data Shuu Disk Noah V2.1|||||||
+193689|Aniparo Menyou Cg Data Shuu Disk Noah V3.0|Aniparo Menyou Cg Data Shuu Disk Noah V3.0|||||||
+193690|Ankoku Seiun|Ankoku Seiun|||||||
+193691|Ankokujou|Ankokujou|||||||
+193692|Ao No Sekizou|Ao No Sekizou||||||-|
+193693|Aoi Uchuu No Bouken|Aoi Uchuu No Bouken|||||||
+193694|Aoki Ookami To Shiroki Mejika|Aoki Ookami To Shiroki Mejika||Strategy,||||Koei|1985
+193695|Aoki Ookami To Shiroki Mejika - Genchou Hishi|Aoki Ookami To Shiroki Mejika - Genchou Hishi||Strategy,|||||
+193696|Aoki Ookami To Shiroki Mejika - Genghis Khan|Aoki Ookami To Shiroki Mejika - Genghis Khan||Strategy,|||||
+193697|Aploon|Aploon||||||Takara|1984
+193698|Apple Club 1|Apple Club 1||Cards,Adult,||||Fairy Tale|1988
+193699|Apple Club 2|Apple Club 2||Board game,Adult,|||||1988
+193700|Apple Club Data Shuu - 10 Kiken Na Toshigoro|Apple Club Data Shuu - 10 Kiken Na Toshigoro|||||||
+193701|Apple Club Data Shuu - 2 Himitsu No Hanazono|Apple Club Data Shuu - 2 Himitsu No Hanazono|||||||
+193702|Apple Club Data Shuu - 3 Yukata, Kimono|Apple Club Data Shuu - 3 Yukata, Kimono|||||||
+193703|Apple Club Data Shuu - 4 Tonari No Oneesan|Apple Club Data Shuu - 4 Tonari No Oneesan|||||||
+193704|Apple Club Data Shuu - 5 Ojousama To Issho|Apple Club Data Shuu - 5 Ojousama To Issho|||||||
+193705|Apple Club Data Shuu - 6 Miwaku No Bishoujo|Apple Club Data Shuu - 6 Miwaku No Bishoujo|||||||
+193706|Apple Club Data Shuu - 7 Sports Gal|Apple Club Data Shuu - 7 Sports Gal|||||||
+193707|Apple Club Data Shuu - 8 Joshikousei|Apple Club Data Shuu - 8 Joshikousei|||||||
+193708|Apple Club Data Shuu - 9 Fushigi No Kuni|Apple Club Data Shuu - 9 Fushigi No Kuni|||||||
+193709|Apple Club Data Shuu - Utility|Apple Club Data Shuu - Utility|||||||
+193710|Archon|Archon|Ashe|Simulation,Action,Board game,|||||1986
+193711|Arctic|Arctic||Action,Simulation,|||Artdink&nbsp;Corporation|Artdink&nbsp;Corporation|1983
+193712|Arcus|Arcus|AIR|RPG,,|||Wolf&nbsp;Team|Wolf&nbsp;Team|1988
+193713|Arcus 2|Arcus 2||||||Wolfteam|1989
+193714|Argo|Argo|AIR|RPG,,|||Kure&nbsp;Software&nbsp;Koubou|Kure&nbsp;Software&nbsp;Koubou|
+193715|Arion|Arion|AIR|Adventure,||||Ascii|1986
+193716|Arkanoid|Arkanoid||Action,Arcade,,|||Taito|Nidecom Soft|1986
+193717|Art Of War|Art Of War||Simulation,|||||
+193718|Art Of War Scenario Shuu|Art Of War Scenario Shuu|||||||
+193719|Ashura No Tou|Ashura No Tou||||||Caeser|1988
+193720|Asteka|Asteka|Ashe|Adventure,|||Nihon&nbsp;Falcom&nbsp;Corp.|Nihon&nbsp;Falcom&nbsp;Corp.|1985
+193721|Asteka 2 - Taiyou No Shinden|Asteka 2 - Taiyou No Shinden|||||||
+193722|Atashi No Papipupepo|Atashi No Papipupepo|||||||
+193723|Atatameccha Spesial|Atatameccha Spesial|||||||
+193724|Attack Hirokochan|Attack Hirokochan|||||||
+193725|Attacker|Attacker|||||||
+193726|Automn Park|Automn Park|||||||
+193727|Axiom|Axiom|AIR|RPG,||||Koei|1985
+193728|Ay-1 - Fortress Solomon|Ay-1 - Fortress Solomon|||||||
+193729|Ay-2 - Orion80|Ay-2 - Orion80|||||||
+193730|Aya Chan World|Aya Chan World|||||H.A.I.&nbsp;System|H.A.I.&nbsp;System|1989
+193731|Ayashige Pack|Ayashige Pack|||||||
+193732|Ayumi|Ayumi|AIR|Adventure,|||Game&nbsp;Technopolis|Game&nbsp;Technopolis|1990
+193733|Aztec|Aztec|AIR|Action,Platformer,|||Datamost,&nbsp;Inc.|Comptiq|1984
+193734|Babylon|Babylon||Action,||||Xtalsoft|1986
+193735|Back To The Future|Back To The Future||Action,Arcade,,|||Beam&nbsp;Software&nbsp;Pty.,&nbsp;Ltd.|LJN&nbsp;Toys,&nbsp;Ltd.|1986
+193736|Balance Of Power|Balance Of Power||Simulation,||||ASCII&nbsp;Corporation|1989
+193737|Ball Panicker|Ball Panicker||Pinball,||||Pony Canyon|1983
+193738|Barbatus No Majo|Barbatus No Majo|||||||
+193739|Bargon No Pakapaka Shou Bouken|Bargon No Pakapaka Shou Bouken|||||||
+193740|Batten Tanuki No Daibouken|Batten Tanuki No Daibouken|||||||
+193741|Battle Borilla|Battle Borilla|||||||
+193742|Battle Bunny Girl|Battle Bunny Girl||||||Tsukka|1990
+193743|Battle Entry|Battle Entry||||||Studio K2|
+193744|Battle Gorilla|Battle Gorilla||RPG,||||Xtal|1988
+193745|Battle Skin Panic|Battle Skin Panic||Adventure,Cards,Adult,|||||
+193746|Belloncho Shintai Kensa|Belloncho Shintai Kensa|||||||
+193747|Berserkers Front Gaiden 3|Berserkers Front Gaiden 3|||||||
+193748|Best Nine Pro Yakyuu|Best Nine Pro Yakyuu|||||||
+193749|Bishoujo Baseball Gakuen|Bishoujo Baseball Gakuen||Adventure,Cards,Adult,|||||1989
+193750|Bishoujo Jackal 2 - Ore No Shima|Bishoujo Jackal 2 - Ore No Shima|||||||
+193751|Bishoujo Noriko - Part 1|Bishoujo Noriko - Part 1|||||||
+193752|Bishoujo Shasinkan - Kyoufu No Yakata Hen|Bishoujo Shasinkan - Kyoufu No Yakata Hen|||||||
+193753|Bishoujo Shasinkan - Moving School|Bishoujo Shasinkan - Moving School|||||||
+193754|Bishoujo Shasinkan - Outside Story|Bishoujo Shasinkan - Outside Story|||||||
+193755|Bishoujo Shasinkan - Studio Cut|Bishoujo Shasinkan - Studio Cut|||||||
+193756|Black Bass, The|Black Bass, The||Simulation,Sports,|||||
+193757|Black Onyx, The|Black Onyx, The||RPG,|||||
+193758|Blackpool No Tsurugi|Blackpool No Tsurugi||||||Star Craft|1984
+193759|Blassty|Blassty||RPG,||||Square|1986
+193760|Blue Moon Story|Blue Moon Story||Adventure,Quiz,Adult,||||Dod Kikaku|1989
+193761|Bluena|Bluena||||||Hypa|1990
+193762|Bokosuka Wars|Bokosuka Wars||Action,Strategy,,||||ASCII&nbsp;Corporation|1984
+193763|Bomb Jack|Bomb Jack||Action,Platformer,|||Tehkan&nbsp;Ltd.|Softbank&nbsp;Corp.|1985
+193764|Bouken Roman|Bouken Roman||||||System Soft|1986
+193765|Boukenshatachi - Kenja No Yuigon|Boukenshatachi - Kenja No Yuigon|||||||
+193766|Bruce Lee|Bruce Lee||Action,Beat'em Up,|||Datasoft,&nbsp;Inc.|Comptiq|1984
+193767|Bu U Ma|Bu U Ma||Shoot'em Up,|||||
+193768|Bubblegam Crisis|Bubblegam Crisis|||||||
+193769|Bug Attack|Bug Attack||Action,Shooter,|||Cavalier&nbsp;Computer|Comptiq|1984
+193770|Burai Joukan|Burai Joukan||Shoot'em Up,|||||1989
+193771|Burning Point|Burning Point||Adventure,||||Enix&nbsp;Corporation|1984
+193772|Burunet|Burunet|||||||
+193773|Busterd Special|Busterd Special|||||||
+193774|Byakuya Monogatari|Byakuya Monogatari||Adventure,|||||
+193775|Byouin, The|Byouin, The|||||||
+193776|Campaign Ban Daisenryaku 2|Campaign Ban Daisenryaku 2|||||||
+193777|Cancan Bunny|Cancan Bunny||Adventure,Adult,|||||
+193778|Cancan Bunny Superior|Cancan Bunny Superior||Adventure,Adult,|||||
+193779|Carbo|Carbo||Action,|||||
+193780|Card Game Pro 8.8k Plus Unit 1|Card Game Pro 8.8k Plus Unit 1|||||||
+193781|Card Game Pro 8.8k Vol. 2|Card Game Pro 8.8k Vol. 2|||||||
+193782|Carmine|Carmine||Adventure,Action,|||||1987
+193783|Carrot|Carrot||Puzzle,|||||1984
+193784|Casablanca Ni Ai Wo|Casablanca Ni Ai Wo||Adventure,|||||
+193785|Castle Excellent|Castle Excellent||Action,||||ASCII|1985
+193786|Castle, The|Castle, The|||||||
+193787|Cauliflower|Cauliflower||||||Zener Works|1988
+193788|Ceciele|Ceciele||||||Ranma Project|1986
+193789|Chack'n Pop|Chack'n Pop||Action,Platformer,|||Taito&nbsp;Corporation|Nidecom&nbsp;Soft|1984
+193790|Chalie And Video Game Music Vol. 1|Chalie And Video Game Music Vol. 1|||||||
+193791|Chalie Music Disk Vol. 4|Chalie Music Disk Vol. 4|||||||
+193792|Chalie Music Gallary Vol. 2|Chalie Music Gallary Vol. 2|||||||
+193793|Champion Prowres Special|Champion Prowres Special||Sports,Fight,|||||
+193794|Championship Lode Runner|Championship Lode Runner||Action,Platformer,|||Brøderbund&nbsp;Software,&nbsp;Inc.|Systemsoft|1985
+193795|Change Vol. 1|Change Vol. 1|||||||
+193796|Chaos Angels|Chaos Angels||Action,Platformer,|||ASCII&nbsp;Corporation|ASCII&nbsp;Corporation|1989
+193797|Chatty|Chatty||Adventure,||||Systemsacom|1988
+193798|Chikyuu Boueigun|Chikyuu Boueigun|||||||
+193799|Chikyuu S.o.s.|Chikyuu S.o.s.|||||||
+193800|Chikyuu Senshi Rayieza|Chikyuu Senshi Rayieza||RPG,||||Enix|1985
+193801|Chili Tomato|Chili Tomato|||||||
+193802|Chitei Tanken|Chitei Tanken||Action,|||||
+193803|Chocorate Cake Soukangou|Chocorate Cake Soukangou|||||||
+193804|Choplifter|Choplifter||Action,Arcade,Shooter,,||||Systemsoft|1984
+193805|Choroq Holidays Puzzle|Choroq Holidays Puzzle|||||||
+193806|Chotto Meitantei|Chotto Meitantei||Adult,|||||
+193807|Chou Bishoujo Densetsu Croquis|Chou Bishoujo Densetsu Croquis||Adventure,|||||1990
+193808|Choujin Locke|Choujin Locke||Adventure,|||||1984
+193809|Chousenshi Zaider|Chousenshi Zaider|||||||
+193810|Christine|Christine||Adventure,|||PSK|PSK|1986
+193811|Chun Li Cg Library|Chun Li Cg Library|||||||
+193812|Chun Li Cg Library 2|Chun Li Cg Library 2|||||||
+193813|Cinderella Perudue|Cinderella Perudue||Adventure,||||Studio Angel|1986
+193814|City Fight|City Fight||Adventure,|||||1986
+193815|Cockpit, The|Cockpit, The|||||||
+193816|Columns|Columns||Puzzle-Game,|||SEGA&nbsp;Enterprises&nbsp;Ltd.|Systemsoft|1992
+193817|Combat|Combat||Action,Puzzle,|||Magic&nbsp;Lantern|Atari&nbsp;Europe&nbsp;S.A.S.U.|2001
+193818|Comsight|Comsight||Simulation,|||||
+193819|Connect|Connect||Adventure,|||||
+193820|Corn Shi Shindou Data Shuu Vol. 1|Corn Shi Shindou Data Shuu Vol. 1|||||||
+193821|Corn Shi Shindou Data Shuu Vol. 2|Corn Shi Shindou Data Shuu Vol. 2|||||||
+193822|Corn Shi Shindou Data Shuu Vol. 3|Corn Shi Shindou Data Shuu Vol. 3|||||||
+193823|Corn Shi Shindou Data Shuu Vol. 4|Corn Shi Shindou Data Shuu Vol. 4|||||||
+193824|Corn Shi Shindou Data Shuu Vol. 5|Corn Shi Shindou Data Shuu Vol. 5|||||||
+193825|Coron|Coron||Puzzle,||||Ascii|1984
+193826|Corridor|Corridor||Adventure,||||Koei|1984
+193827|Cosmic Psyco|Cosmic Psyco|||||||
+193828|Cosmic Soldier|Cosmic Soldier||Action,RPG,,|||Kogado&nbsp;Software&nbsp;Products|Kogado&nbsp;Software&nbsp;Products|1983
+193829|Cosmo Saint Leaza|Cosmo Saint Leaza|||||||
+193830|Cosmos Club|Cosmos Club||Adult,||||Jast|1989
+193831|Cozumi World|Cozumi World|||||||
+193832|Cranston Manor|Cranston Manor||Adventure,||||Starcraft|1983
+193833|Craze|Craze||Action,|||||
+193834|Crazy Land|Crazy Land||Puzzle,|||||1985
+193835|Cream Lemon - Star Trap|Cream Lemon - Star Trap||Adult,|||||
+193836|Crim|Crim|AIR|RPG,|||||
+193837|Crim V2.0|Crim V2.0|||||||
+193838|Crimson|Crimson||RPG,,|||Xtalsoft&nbsp;Co.,&nbsp;Ltd.|Xtalsoft&nbsp;Co.,&nbsp;Ltd.|
+193839|Crimson 2|Crimson 2|||||||
+193840|Crimson 3|Crimson 3|||||||
+193841|Crinex|Crinex|||||||
+193842|Crisis|Crisis||Simulation,|||||
+193843|Crux|Crux|AIR|RPG,|||||
+193844|Crystal Dream|Crystal Dream||RPG,Adult,,|||Striker|Striker|1989
+193845|Crystal Dream 2|Crystal Dream 2||||||Striker|1990
+193846|Crystal Prison|Crystal Prison||Adventure,|||Bothtec,&nbsp;Inc.|Bothtec,&nbsp;Inc.|1986
+193847|Cuby Pannic|Cuby Pannic|||||||
+193848|Cucumber|Cucumber||||||Onion|
+193849|Cygnus|Cygnus||Action,Shooter,|||Thunderware&nbsp;Games|Thunderware&nbsp;Games|1984
+193850|D'|D'|AIR|Adventure,|||Rozner&nbsp;Labs&nbsp;Software&nbsp;Group|Acclaim&nbsp;Entertainment,&nbsp;Inc.|1995
+193851|D.c. Connection|D.c. Connection|||||||
+193852|D.k. - Dragon Knights|D.k. - Dragon Knights|||||||
+193853|D.p.s.|D.p.s.||||||Alice|1990
+193854|Dai Sekiyuou - The Big Oil King|Dai Sekiyuou - The Big Oil King|||||||
+193855|Dai4 No Unit|Dai4 No Unit||||||Datawest|1987
+193856|Dai4 No Unit 2|Dai4 No Unit 2|||||||
+193857|Dai4 No Unit 3 - Dual Targets|Dai4 No Unit 3 - Dual Targets|||||||
+193858|Dai4 No Unit 4 - Zero|Dai4 No Unit 4 - Zero|||||||
+193859|Daidassou|Daidassou||||||Carry Lab|1985
+193860|Daihassuru! Sf Harehare Sanjyuushi|Daihassuru! Sf Harehare Sanjyuushi|||||||
+193861|Daikoukai Jidai|Daikoukai Jidai||RPG,|||||1990
+193862|Daisenryaku 88|Daisenryaku 88||Strategy,|||Systemsoft|Systemsoft|1986
+193863|Daiva - Story 1 Flames Of Vlitra|Daiva - Story 1 Flames Of Vlitra|||||||
+193864|Damages And Dice|Damages And Dice|||||||
+193865|Danchizuma No Yuuwaku|Danchizuma No Yuuwaku|||||||
+193866|Dark Crystal, The|Dark Crystal, The|||||||
+193867|Dark Shine - Troubadour|Dark Shine - Troubadour|||||||
+193868|Dasshutsu Youki No Jukai|Dasshutsu Youki No Jukai|||||||
+193869|Datenshi Kyouko|Datenshi Kyouko||||||Systemhouse Oh!|1988
+193870|David's Midnight Magic|David's Midnight Magic||Action,Arcade,Pinball,,|||Brøderbund&nbsp;Software,&nbsp;Inc.|Systemsoft|1984
+193871|Day Dream|Day Dream||Adventure,||||Cross Media Soft|1986
+193872|De Ja|De Ja||||||Elf|1990
+193873|Death Trap, The|Death Trap, The||Adventure,||||Square|1985
+193874|Demon Crystal|Demon Crystal||Action,|||YMCAT|Dempa&nbsp;Shimbunsha|1990
+193875|Demon Crystal 2 - Knither|Demon Crystal 2 - Knither|||||||
+193876|Demons Ring|Demons Ring||Adventure,||||Nihon Falcom|1984
+193877|Denken Cg Demo|Denken Cg Demo|||||||
+193878|Dennnou Erohon Puru Puru|Dennnou Erohon Puru Puru|||||||
+193879|Dennou Gakuen - Cybernetic Hi-school|Dennou Gakuen - Cybernetic Hi-school||||||Ginax|1989
+193880|Dennou Gakuen 2 - Cybernetic Hi-school Part 2 Highway Buster|Dennou Gakuen 2 - Cybernetic Hi-school Part 2 Highway Buster|||||||
+193881|Dennou Gakuen 3 - Cybernetic Hi-school 3 Gunbuster|Dennou Gakuen 3 - Cybernetic Hi-school 3 Gunbuster|||||||
+193882|Dennou Suikoden|Dennou Suikoden||Adventure,||||Hot-B|1987
+193883|Dennou Tsuushin 9102|Dennou Tsuushin 9102|||||||
+193884|Dennou Tsuushin 9105|Dennou Tsuushin 9105|||||||
+193885|Dennou Tsuushin Vol. 1|Dennou Tsuushin Vol. 1|||||||
+193886|Derringer|Derringer||Adventure,||||Crest|1989
+193887|Dessert|Dessert||Adventure,Adult,||||Queen|1989
+193888|Desuno|Desuno|||||||
+193889|Dewlling|Dewlling||Adventure,|||||
+193890|Dezeni Land|Dezeni Land||Adventure,|||Hudson&nbsp;Soft&nbsp;Company,&nbsp;Ltd.|Hudson&nbsp;Soft&nbsp;Company,&nbsp;Ltd.|1989
+193891|Dezeni World|Dezeni World||Adventure,|||Hudson&nbsp;Soft&nbsp;Company,&nbsp;Ltd.|Hudson&nbsp;Soft&nbsp;Company,&nbsp;Ltd.|1989
+193892|Diablo|Diablo||Puzzle,,|||Blizzard&nbsp;Entertainment&nbsp;Inc.|Blizzard&nbsp;Entertainment&nbsp;Inc.|1989
+193893|Dig Dug|Dig Dug||Action,Arcade,,|||Namco&nbsp;Limited|Dempa&nbsp;Shimbunsha|1983
+193894|Dig Dug Sr|Dig Dug Sr|||||||
+193895|Digan No Maseki|Digan No Maseki||RPG,,|||Artec|Artec|1988
+193896|Digital Devil Story Megami Tensei|Digital Devil Story Megami Tensei|Digital Devil Story: Megami Tensei|RPG,|1||Atlus&nbsp;Co.,&nbsp;Ltd.|Namco&nbsp;Limited|1987
+193897|Dinosaur|Dinosaur||RPG,|||Nihon&nbsp;Falcom&nbsp;Corp.|Nihon&nbsp;Falcom&nbsp;Corp.|1989
+193898|Dione|Dione||Simulation,||||Hudson|1987
+193899|Dios|Dios|AIR|Action|||||
+193900|Director Monogatari|Director Monogatari||Simulation,|||||1988
+193901|Dokidoki Card League|Dokidoki Card League|||||||
+193902|Dokidoki Shutter Chance|Dokidoki Shutter Chance||Adult,|||||
+193903|Dokkin Minako Sensei!|Dokkin Minako Sensei!||Adventure,||||Tect House|
+193904|Dokuron No Yakata|Dokuron No Yakata|||||||
+193905|Doll|Doll|AIR|Adventure,|||||
+193906|Dome|Dome|AIR|Adventure,|||System&nbsp;Sacom|System&nbsp;Sacom|
+193907|Don Juan|Don Juan||Strategy,,||||No&nbsp;Man's&nbsp;Land|1984
+193908|Donkey Gollira|Donkey Gollira||Action,Shoot'em Up,|||||
+193909|Door Door|Door Door|Door-Door|Action|||Chunsoft&nbsp;Co.,&nbsp;Ltd.|Enix&nbsp;Corporation|
+193910|Door Door Mk2|Door Door Mk2|||||||
+193911|Dororo - Jigoku Emaki No Shou|Dororo - Jigoku Emaki No Shou||Adventure,||||Quasar Soft|1988
+193912|Double Face|Double Face|||||||
+193913|Doujin Kaizokuban|Doujin Kaizokuban||Action,Adventure,|||Ayashige-Soft|Ayashige-Soft|1991
+193914|Doukeshi Satsujin Jiken|Doukeshi Satsujin Jiken|||||||
+193915|Doukyou|Doukyou|||||||
+193916|Down Town Shaffle|Down Town Shaffle|||||||
+193917|Dr. Masui Kai|Dr. Masui Kai|||||||
+193918|Dragon|Dragon||Action,Adventure,|||Meridian'93|Robin&nbsp;Games|1988
+193919|Dragon Buster|Dragon Buster||Action,Platformer,|||Namco&nbsp;Limited|Enix&nbsp;Corporation|1987
+193920|Dragon City X Shitei|Dragon City X Shitei|||||||
+193921|Dragon Eyes - The Space Opera Dragon Eyes|Dragon Eyes - The Space Opera Dragon Eyes|||||||
+193922|Dragon Hunt 2|Dragon Hunt 2||||||Loast Saga Project|1991
+193923|Dragon Knight|Dragon Knight||RPG,|||Elf&nbsp;Co.,&nbsp;Ltd.|Elf&nbsp;Co.,&nbsp;Ltd.|1989
+193924|Dragon Knight 2|Dragon Knight 2|||||||
+193925|Dragon Princess - Meikyuu No Madoushi|Dragon Princess - Meikyuu No Madoushi|||||||
+193926|Dragon Princess - Meikyuu No Madoushi Visual Disk|Dragon Princess - Meikyuu No Madoushi Visual Disk|||||||
+193927|Dragon Slayer|Dragon Slayer||Action,Role-Playing|||Nihon&nbsp;Falcom&nbsp;Corp.|Nihon&nbsp;Falcom&nbsp;Corp.|1984
+193928|Dragon Slayer - Login Version|Dragon Slayer - Login Version|||||||
+193929|Dragon Slayer - The Legend Of Heroes|Dragon Slayer - The Legend Of Heroes|Dragon Slayer: The Legend of Heroes|RPG,||||Nihon Falcom|1989
+193930|Dragon Slayer - The Legend Of Heroes 2|Dragon Slayer - The Legend Of Heroes 2||RPG,||||Nihon Falcom|1989
+193931|Dragoon Armor For Adult|Dragoon Armor For Adult||RPG,Adult,,|||FairyTale|FairyTale|1984
+193932|Dreamland|Dreamland|||||||
+193933|Dreamy Town Majo Sandra|Dreamy Town Majo Sandra||Adventure,||||Great|1987
+193934|Dual Alien|Dual Alien||Shoot'em Up,|||||
+193935|Duel|Duel|AIR|Adventure,||||Code&nbsp;Works,&nbsp;The|1987
+193936|Duel Kawanakajima|Duel Kawanakajima|||||||
+193937|Duet|Duet|AIR|Action,Adventure,|||Kumobius&nbsp;Pty.&nbsp;Ltd.|Kumobius&nbsp;Pty.&nbsp;Ltd.|1987
+193938|Dungeon|Dungeon||Adventure,||||Great|1977
+193939|Dungeon Buster|Dungeon Buster||RPG,Adult,|||||1990
+193940|Dynamite Ball|Dynamite Ball|||||||
+193941|Eggy|Eggy|AIR|Action,Arcade,,|||Bothtec,&nbsp;Inc.|Bothtec,&nbsp;Inc.|
+193942|Eiyuu Densetsu Saga|Eiyuu Densetsu Saga||RPG,Adult,|||||1984
+193943|Eiyuu Yamato Takeru|Eiyuu Yamato Takeru||RPG,Adult,|||||1985
+193944|El Dorado Denki|El Dorado Denki||Adventure,||||Enix&nbsp;Corporation|
+193945|Elevator Action|Elevator Action||Action,Platformer,|||Taito&nbsp;Corporation|Nidecom&nbsp;Soft|1986
+193946|Elthlead|Elthlead||Strategy,||||NCS Masaya|1987
+193947|Emerald Densetsu|Emerald Densetsu||Strategy,|||New&nbsp;System&nbsp;House&nbsp;Oh!|New&nbsp;System&nbsp;House&nbsp;Oh!|1987
+193948|Emerald Dragon|Emerald Dragon||Strategy,|||Glodia|Basho&nbsp;House|1987
+193949|Emerald Dragon Music Disk|Emerald Dragon Music Disk|||||||
+193950|Emmy|Emmy|AIR|Adventure,Adult,Miscellaneous,|||||1984
+193951|Emmy 2|Emmy 2||Simulation,|||||1984
+194220|Empereur, L'|Empereur, L'|||||||
+193952|Epsilon 3|Epsilon 3||RPG,Action,Shoot'em Up,|||||1985
+193953|Erf|Erf|AIR|Puzzle,|||||
+193954|Erika|Erika||Adult,|||||
+193955|Erotic Magical Drop|Erotic Magical Drop|||||||
+193956|Europe Sensen|Europe Sensen||Strategy,|||||
+193957|Excite Bike|Excite Bike|Excitebike|Action,Racing,|||||1985
+193958|Exective He No Michi|Exective He No Michi|||||||
+193959|Exiz Music Disk Vol. 1|Exiz Music Disk Vol. 1|||||||
+193960|Exiz Power Live|Exiz Power Live|||||||
+193961|Explosion|Explosion|||||||
+193962|Exterlien|Exterlien||Adventure,|||D.O.&nbsp;Corp.|D.O.&nbsp;Corp.|1984
+193963|Extra Disk Vol. 1|Extra Disk Vol. 1|||||||
+193964|Extra Disk Vol. 2|Extra Disk Vol. 2|||||||
+193965|Extra Disk Vol. 4|Extra Disk Vol. 4|||||||
+193966|F15 Strike Eagle|F15 Strike Eagle||Combat Simulation,||||System Soft|1988
+193967|F2 Grand Prix|F2 Grand Prix||Racing,||||Carry Soft|1985
+193968|Fade In|Fade In||Adult,||||Hypa|1990
+193969|Fairie's Residence|Fairie's Residence||Adventure,||||Champion soft|1985
+193970|Fairie's Residence Club Hen|Fairie's Residence Club Hen|||||||
+193971|Fairie's Residence Gakuen Hen|Fairie's Residence Gakuen Hen|||||||
+193972|Fairie's Residence Geinoukai Hen|Fairie's Residence Geinoukai Hen|||||||
+193973|Fairie's Residence Sf Hen|Fairie's Residence Sf Hen|||||||
+193974|Fairie's Residence Spesoal 4 - Super Mariko Sisters|Fairie's Residence Spesoal 4 - Super Mariko Sisters|||||||
+193975|Fairy Tale|Fairy Tale||Adventure,||||Champion soft|1985
+193976|Fairy Tale Cm|Fairy Tale Cm|||||||
+193977|Fala No Jikekkai|Fala No Jikekkai||||||Heart Denshi|1990
+193978|Fancy Promenade|Fancy Promenade||||||Sort Form|1987
+193979|Fangs - The Saga Of Wolf Blood|Fangs - The Saga Of Wolf Blood||RPG,||||Enix|1991
+193980|Fantasian|Fantasian||RPG,,|||Xtalsoft&nbsp;Co.,&nbsp;Ltd.|Xtalsoft&nbsp;Co.,&nbsp;Ltd.|1988
+193981|Fantasy Cubic Part 4|Fantasy Cubic Part 4|||||||
+193982|Fantasy Rop|Fantasy Rop||Adult,||||Studio Panther|1988
+193983|Farm|Farm|AIR|,Action|||||
+193984|Fc-software Sound Boad 1 Music Disk|Fc-software Sound Boad 1 Music Disk|||||||
+193985|Ferill|Ferill|||||||
+193986|Ferill Data Shuu Vol. 1|Ferill Data Shuu Vol. 1|||||||
+193987|Fiercracker Music Collection Vol. 12|Fiercracker Music Collection Vol. 12|||||||
+193988|Fiercracker Music Collection Vol. 15|Fiercracker Music Collection Vol. 15|||||||
+193989|Fiercracker Music Collection Vol. 19|Fiercracker Music Collection Vol. 19|||||||
+193990|Fiercracker Music Collection Vol. 7|Fiercracker Music Collection Vol. 7|||||||
+193991|Final Crisis|Final Crisis||Strategy,||||Techno Grard|1991
+193992|Final Funtasy|Final Funtasy|||||||
+193993|Final Lolita|Final Lolita||Adventure,||||PSK|1986
+193994|Final Zone|Final Zone||Action,|||Wolf&nbsp;Team|Renovation&nbsp;Products,&nbsp;Inc.|1990
+193995|Fire Crystal Sr, The|Fire Crystal Sr, The|||||||
+193996|Fire Crystal, The|Fire Crystal, The|||||||
+193997|Fire Hawk|Fire Hawk||Action,Arcade,Shooter,,|||ESD&nbsp;Co.,&nbsp;Ltd.|ESD&nbsp;Co.,&nbsp;Ltd.|1989
+193998|Five Sweet Dream|Five Sweet Dream||Adventure,Adult,||||Great|1986
+193999|Flappy|Flappy||Puzzle-Game,|||dB-SOFT|dB-SOFT|1983
+194000|Flash Power|Flash Power||||||Active Gamers|1990
+194001|Flicky|Flicky||Action,Arcade,Platform,,|||SEGA&nbsp;Enterprises&nbsp;Ltd.|Micronet&nbsp;Co.&nbsp;Ltd.|1990
+194002|Flight Simulator With Torpedo Attack|Flight Simulator With Torpedo Attack||Simulation,|||SubLogic|SubLogic|1988
+194003|Fon 2|Fon 2|||||||
+194004|Formation Z|Formation Z||Action,Shooter,|||Hect&nbsp;Co.&nbsp;Ltd.|Nippon&nbsp;Dexter&nbsp;Co.,&nbsp;Ltd.|1986
+194005|Fortress|Fortress||Action,Shooter,|||F1&nbsp;Licenceware|F1&nbsp;Licenceware|1994
+194006|Foxy|Foxy|AIR|Action,Shooter,|||Elf&nbsp;Co.,&nbsp;Ltd.|Elf&nbsp;Co.,&nbsp;Ltd.|1986
+194007|Fruit Cocktail|Fruit Cocktail|||||||
+194008|Fruit Cocktail Data Shuu|Fruit Cocktail Data Shuu|||||||
+194009|Fruit Field 80|Fruit Field 80|||||||
+194010|Fruit Field 88|Fruit Field 88|||||||
+194011|Fruit Panic|Fruit Panic||Action,Platformer,||||Pony,&nbsp;Inc.|1983
+194012|Fsd Sample Ongaku Shuu Vol. 1|Fsd Sample Ongaku Shuu Vol. 1|||||||
+194013|Fsd Sample Ongaku Shuu Vol. 2|Fsd Sample Ongaku Shuu Vol. 2|||||||
+194014|Fsd Sample Ongaku Shuu Vol. 3|Fsd Sample Ongaku Shuu Vol. 3|||||||
+194015|Fsd Sample Ongaku Shuu Vol. 4|Fsd Sample Ongaku Shuu Vol. 4|||||||
+194016|Fsd Sample Ongaku Shuu Vol. 5|Fsd Sample Ongaku Shuu Vol. 5|||||||
+194017|Fsd Sample Ongaku Shuu Vol. 6|Fsd Sample Ongaku Shuu Vol. 6|||||||
+194018|Fsd Sample Ongaku Shuu Vol. 7|Fsd Sample Ongaku Shuu Vol. 7|||||||
+194019|Funhouse Mystery|Funhouse Mystery||Adventure,|||||
+194020|Fushigi No Kabe|Fushigi No Kabe|||||||
+194021|Fuyu De Gozaru|Fuyu De Gozaru|||||||
+194022|G Senryaku|G Senryaku||Adventure,|||||1991
+194023|Gaia No Kiba|Gaia No Kiba|||||||
+194024|Gaia No Monshou|Gaia No Monshou||Strategy,||||NCS Masaya|1987
+194025|Gaiflame|Gaiflame||Strategy,|||Masaya|NCS&nbsp;Corporation|1987
+194026|Gakuen Monogatari|Gakuen Monogatari||Adventure,||||Great|1987
+194027|Gal Force - Eternal Story|Gal Force - Eternal Story|||||||
+194028|Gal Mind|Gal Mind|||||||
+194029|Galaxian|Galaxian||Action,Shooter,|||Namco&nbsp;Limited|Dempa&nbsp;Shimbunsha|1983
+194030|Galf Stream|Galf Stream|||||||
+194031|Galppo Club|Galppo Club||Adventure,||||Micro Cabin|1986
+194032|Gals Wars Kyapikyapirun|Gals Wars Kyapikyapirun|||||||
+194033|Gambler Jiko Chuushin Ha|Gambler Jiko Chuushin Ha|||||||
+194034|Gambler Jiko Chuushin Ha 2 - Jishou! Kyougou Janshi Hen|Gambler Jiko Chuushin Ha 2 - Jishou! Kyougou Janshi Hen|||||||
+194035|Gambler Jiko Chuushin Ha 3|Gambler Jiko Chuushin Ha 3|||||||
+194036|Gambler Jiko Chuushin Ha Mahjong Puzzle Collection|Gambler Jiko Chuushin Ha Mahjong Puzzle Collection|||||||
+194037|Game Music Library|Game Music Library|||||||
+194038|Gamma5|Gamma5|||||||
+194039|Ganbare! Mikichan|Ganbare! Mikichan|||||||
+194040|Gandhara|Gandhara||RPG,||||Enix|1987
+194041|Gaudi - Barcelona No Kaze|Gaudi - Barcelona No Kaze|||||||
+194042|Gc-clusterz Music Disk Vol. 1|Gc-clusterz Music Disk Vol. 1|||||||
+194043|Gc-clusterz Music Disk Vol. 2|Gc-clusterz Music Disk Vol. 2|||||||
+194044|Gc-clusterz Music Disk Vol. 3|Gc-clusterz Music Disk Vol. 3|||||||
+194045|Gc-clusterz Music Disk Vol. 4|Gc-clusterz Music Disk Vol. 4|||||||
+194046|Gc-clusterz Music Disk Vol. 5|Gc-clusterz Music Disk Vol. 5|||||||
+194047|Gc-clusterz Music Disk Vol. 6|Gc-clusterz Music Disk Vol. 6|||||||
+194048|Gc-clusterz Music Disk Vol. 7|Gc-clusterz Music Disk Vol. 7|||||||
+194049|Gc-clusterz Pcm Disk|Gc-clusterz Pcm Disk|||||||
+194050|Gegege No Kitarou|Gegege No Kitarou|||||||
+194051|Gekisen! Minami Taiheiyou|Gekisen! Minami Taiheiyou|||||||
+194052|Gemstone Warrior|Gemstone Warrior||Action,Puzzle,|||Paradigm&nbsp;Creators,&nbsp;Inc.|StarCraft,&nbsp;Inc.|1986
+194053|Genesis|Genesis||Action,Puzzle,||||Starcraft|1986
+194054|Genji|Genji||Adventure,Adult,|||||
+194055|Genmu No Shiro|Genmu No Shiro||Adventure,||||Champion Soft|1987
+194056|Giant Gorg|Giant Gorg||Simulation,|||||
+194057|Ginga|Ginga||Cards,Puzzle,|||||1989
+194058|Ginga Eiyuu Densetsu|Ginga Eiyuu Densetsu||Cards,Puzzle,|||||1989
+194059|Ginga Eiyuu Densetsu 2|Ginga Eiyuu Densetsu 2|||||||
+194060|Ginga Eiyuu Densetsu Powerup Scenario Shuu|Ginga Eiyuu Densetsu Powerup Scenario Shuu|||||||
+194061|Girls Paradise|Girls Paradise||Adventure,Adult,|||||1989
+194062|Go Yuugi|Go Yuugi|||||||
+194063|Godzilla|Godzilla||Action,Platform,,|||Hudson&nbsp;Soft&nbsp;Company,&nbsp;Ltd.|Toho&nbsp;Co.,Ltd.|1993
+194064|Gokudou Jintori|Gokudou Jintori||Adventure,Adult,|||||1988
+194065|Gokuraku Tengoku - Omemie No Maki|Gokuraku Tengoku - Omemie No Maki|||||||
+194066|Golf Kyapikyapirun|Golf Kyapikyapirun|||||||
+194067|Golques|Golques||Adventure,||||Data West|1986
+194068|Gomon Master|Gomon Master|||||||
+194069|Goonies, The|Goonies, The||Platform,|||||
+194070|Gorakuin|Gorakuin||Adult,|||||
+194071|Gradius|Gradius||Action,Shooter,|||Konami&nbsp;Industry&nbsp;Co.&nbsp;Ltd.|Konami&nbsp;Industry&nbsp;Co.&nbsp;Ltd.|1986
+194072|Gram Cats|Gram Cats||Adventure,Adult,|||||1991
+194073|Grobda|Grobda||Action,Puzzle,|||Namco&nbsp;Limited|Dempa&nbsp;Shimbunsha|1986
+194074|Grodius 3|Grodius 3|||||||
+194075|Gucchan Bank|Gucchan Bank|||||||
+194076|Guin Saga|Guin Saga||Adventure,|||||
+194077|Gulcrisis|Gulcrisis||Shoot'em Up,|||||
+194078|Gumball|Gumball||Action,||||Enix&nbsp;Corporation|1984
+194079|Gun Ship|Gun Ship|||||||
+194080|Gunyuu Souha|Gunyuu Souha|||||||
+194081|Gyakushuu No Necross|Gyakushuu No Necross|||||||
+194082|Gyrodine|Gyrodine||Action,Shooter,,|||Crux|Nidecom&nbsp;Soft|1984
+194083|Ha Ni Ri I To Vol. 7|Ha Ni Ri I To Vol. 7|||||||
+194084|Hacchake Ayayosan|Hacchake Ayayosan|||||||
+194085|Hacchake Ayayosan 2 - Ikenai Holiday|Hacchake Ayayosan 2 - Ikenai Holiday|||||||
+194086|Hacker|Hacker||Adventure,|||Activision,&nbsp;Inc.|Pony&nbsp;Canyon,&nbsp;Inc.|1988
+194087|Hadou No Hyouteki|Hadou No Hyouteki|||||||
+194088|Haja No Fuuin|Haja No Fuuin||RPG,||||Kogado Studio|1986
+194089|Haja Taisei Dangaiou|Haja Taisei Dangaiou|||||||
+194090|Hanasangen|Hanasangen|||||||
+194091|Hanayome Soudatsu Shiro Nobori Game|Hanayome Soudatsu Shiro Nobori Game|||||||
+194092|Hang On|Hang On||Racing,|||SEGA&nbsp;Enterprises&nbsp;Ltd.|Pax&nbsp;Electronica|1986
+194093|Hanseimei Senki Andorogynus|Hanseimei Senki Andorogynus|||||||
+194094|Harajuku After Dark|Harajuku After Dark||Adventure,||||Kogado|1989
+194095|Harakiri|Harakiri||Simulation,|||||1990
+194096|Hard Graphics Soushuu Hen|Hard Graphics Soushuu Hen|||||||
+194097|Hard Rank|Hard Rank|||||||
+194098|Hard Sha No Shachou Ga Zenshain Ni Omoshiroi To Mitomesaseta Quiz Dai 1 Dan|Hard Sha No Shachou Ga Zenshain Ni Omoshiroi To Mitomesaseta Quiz Dai 1 Dan|||||||
+194099|Hare Nochi Oosawagi|Hare Nochi Oosawagi||Simulation,|||||1989
+194100|Hashire! 7th Skyline|Hashire! 7th Skyline|||||||
+194101|Hayakawa Manami No Snake Camp|Hayakawa Manami No Snake Camp||Adult,|||||
+194102|Hayato|Hayato|||||||
+194103|Heavy Metal L-gaim|Heavy Metal L-gaim||Shooter,||||Bandai|1985
+194104|Helicoid|Helicoid||Platformer,|||||1985
+194105|Help|Help|AIR|,Action|||||
+194106|Hercules|Hercules||Action,Platformer,|||Quantum&nbsp;Productions|Alpha-Omega&nbsp;Software|1986
+194107|Herlesh|Herlesh||RPG,Action,|||||
+194108|Heroes Of The Lance|Heroes Of The Lance||Action,|||U.S.&nbsp;Gold&nbsp;Ltd.|Pony&nbsp;Canyon,&nbsp;Inc.|1989
+194109|Hervecy|Hervecy|||||||
+194110|Herzog|Herzog||Action,Strategy,Shooter,,|||Technosoft&nbsp;Co.,&nbsp;Ltd.|Technosoft&nbsp;Co.,&nbsp;Ltd.|1989
+194111|Hiatari Ryoukou!|Hiatari Ryoukou!|||||||
+194112|Hideger|Hideger||Simulation,|||||1988
+194113|Hidoi Disk 1|Hidoi Disk 1|||||||
+194114|Hidoi Disk 2|Hidoi Disk 2|||||||
+194115|Hilanipla|Hilanipla||RPG,Educational,|||||1988
+194116|Hisha|Hisha|Ashe|RPG,Educational,|||||1984
+194117|Hitsuji Ya-i|Hitsuji Ya-i|||||||
+194118|Hokuto No Ken|Hokuto No Ken||Action,|||Shouei&nbsp;System|Toei&nbsp;Animation&nbsp;Co.,&nbsp;Ltd.|1989
+194119|Hole Chaser|Hole Chaser||Action,Miscellaneous,|||Sensui&nbsp;Software|Birdy&nbsp;Soft|1990
+194120|Hole In One|Hole In One||Simulation,|||RISC|BMG&nbsp;Interactive&nbsp;Entertainment|1995
+194121|Holiness Story - Seikai Hen|Holiness Story - Seikai Hen|||||||
+194122|Holiness Story 2 - Shinjitsu No Megami Hen|Holiness Story 2 - Shinjitsu No Megami Hen|||||||
+194123|Holy Grail|Holy Grail||Adventure,||||Hayden&nbsp;Software&nbsp;Co.,&nbsp;Inc.|1984
+194124|Hoshi No Suna Monogatari|Hoshi No Suna Monogatari||Adventure,|||D.O.&nbsp;Corp.|D.O.&nbsp;Corp.|1985
+194125|Hot Milk|Hot Milk||Adult,|||||
+194126|Hotdog|Hotdog||Platformer,|||Bothtec,&nbsp;Inc.|Bothtec,&nbsp;Inc.|1985
+194127|Hotel Wars|Hotel Wars||Simulation,|||Bothtec,&nbsp;Inc.|Bothtec,&nbsp;Inc.|1987
+194128|Hover Attack|Hover Attack||Action,Strategy,||||Compac&nbsp;Inc.|1987
+194129|How Many Robot|How Many Robot||Simulation,|||||1987
+194130|Hunter Card|Hunter Card|||||||
+194131|Hurry Fox|Hurry Fox||Simulation,|||||1984
+194132|Hurry Fox - Yuki No Maou Hen|Hurry Fox - Yuki No Maou Hen|||||||
+194133|Hydlide|Hydlide||Action,Role-Playing,|1||T&E&nbsp;Soft,&nbsp;Inc.|T&E&nbsp;Soft,&nbsp;Inc.|1984
+194134|Hydlide 2 - Shine Of Darkness|Hydlide 2 - Shine Of Darkness|||||||
+194135|Hydlide 3 - The Space Memories|Hydlide 3 - The Space Memories|Hydlide 3: The Space Memories|RPG,|1|||T&E Soft, Inc.|1987
+194136|I Love Mana|I Love Mana|||||||
+194137|I-senryaku Yokoku Disk|I-senryaku Yokoku Disk|||||||
+194138|Ice Climber|Ice Climber||Action,Arcade,Platform,,|||Nintendo&nbsp;Co.,&nbsp;Ltd.|Hudson&nbsp;Soft&nbsp;Company,&nbsp;Ltd.|1985
+194139|Idaten Ikase Otoko|Idaten Ikase Otoko|||||||
+194140|Igo Hyakka - Goto Shodan|Igo Hyakka - Goto Shodan|||||||
+194141|Ikase Otoko Nyuumon - Ai Wo Arigatou|Ikase Otoko Nyuumon - Ai Wo Arigatou|||||||
+194142|Illumina!|Illumina!||Adult,|||||
+194143|Imitation City|Imitation City||Adventure,|||||
+194144|Imitation Ha Aisenai|Imitation Ha Aisenai|||||||
+194145|In The Dream|In The Dream|||||||
+194146|In The Dream - Music Disk|In The Dream - Music Disk|||||||
+194147|Indo No Ohimesama Kabocha Batake De Ohanami 2|Indo No Ohimesama Kabocha Batake De Ohanami 2|||||||
+194148|Infinitia|Infinitia|||||||
+194149|Inindou - Datou Nobunaga|Inindou - Datou Nobunaga|||||||
+194150|Inishie No Machi|Inishie No Machi|||||||
+194151|Intruder - Sakura Yashiki No Tansaku|Intruder - Sakura Yashiki No Tansaku|||||||
+194152|Ireen|Ireen|Ashe|RPG,||||A-Inn|1991
+194153|Irohanihoheto|Irohanihoheto||Adult,|||||
+194154|Ishi 3 Shu|Ishi 3 Shu|||||||
+194155|Ishin No Arashi|Ishin No Arashi||Simulation,|1||Koei|Koei|1988
+194156|Ishin No Game Center Arashi|Ishin No Game Center Arashi|||||||
+194157|Isseki Ni Kakeru Seishun|Isseki Ni Kakeru Seishun|||||||
+194158|Jack - Las Vegas Renzoku Satsujin Jiken|Jack - Las Vegas Renzoku Satsujin Jiken|||||||
+194159|Jack Nicklaus Championship Golf|Jack Nicklaus Championship Golf||Sports,|||||
+194160|Jark|Jark|AIR|,Action|||||
+194161|Jehard|Jehard||Action,Simulation,|||Xtalsoft&nbsp;Co.,&nbsp;Ltd.|Xtalsoft&nbsp;Co.,&nbsp;Ltd.|1988
+194162|Jesus|Jesus||Adventure,||||Enix|1987
+194163|Jesus 2|Jesus 2|||||||
+194164|Jigoku No Renshuu Mondai|Jigoku No Renshuu Mondai|||||||
+194165|Jigsaw Puzzle|Jigsaw Puzzle||Puzzle-Game,|||Intime&nbsp;Corporation|Intime&nbsp;Corporation|1994
+194166|Jikuu No Hanayome|Jikuu No Hanayome|||||||
+194167|Jongborg Suzume|Jongborg Suzume|||||||
+194168|Jonggou|Jonggou|||||||
+194169|Joshidaisei Kousai Zukan|Joshidaisei Kousai Zukan|||||||
+194170|Joshidaisei Private|Joshidaisei Private||Adult,|||||
+194171|Jotunn|Jotunn||RPG,|||||1988
+194172|Juchan Bgm Shuu|Juchan Bgm Shuu|||||||
+194173|Juvenilias|Juvenilias|||||||
+194174|Kaettekita Tanteidan X|Kaettekita Tanteidan X|||||||
+194175|Kagaijugyou|Kagaijugyou|||||||
+194176|Kagiana Satsujin Jiken|Kagiana Satsujin Jiken|||||||
+194177|Kami No Machi|Kami No Machi|||||||
+194178|Kami No Machi Ms|Kami No Machi Ms|||||||
+194179|Kamui No Ken|Kamui No Ken|||||||
+194180|Karakuri Ninpou|Karakuri Ninpou|||||||
+194181|Kare To Futari No Skyline|Kare To Futari No Skyline|||||||
+194182|Karuizawa Yuukai Annai|Karuizawa Yuukai Annai||RPG,|||||1985
+194183|Kawai Satomi No Nakayoku Shitene|Kawai Satomi No Nakayoku Shitene|||||||
+194184|Kawaisou Monogatari|Kawaisou Monogatari|||||||
+194185|Keiba 2, The|Keiba 2, The|||||||
+194186|Keikochan No Himitsu|Keikochan No Himitsu|||||||
+194187|Ken To Mahou|Ken To Mahou|||||||
+194188|Key-on|Key-on|||||||
+194189|Kibun Ha Pastel Touch!|Kibun Ha Pastel Touch!|||||||
+194190|Kidousenshi Gundam - Ms Field|Kidousenshi Gundam - Ms Field|||||||
+194191|Kidousenshi Gundam - Tactical Operation|Kidousenshi Gundam - Tactical Operation|||||||
+194192|Kimagure Orange Road - Natsu No Mirage|Kimagure Orange Road - Natsu No Mirage|||||||
+194193|Kindan No Paradise|Kindan No Paradise||Adult,|||||
+194194|King Breeder|King Breeder||RPG,|||||1991
+194195|King Flappy|King Flappy||Puzzle-Game,|||dB-SOFT|dB-SOFT|1985
+194196|King Salmon, The|King Salmon, The|||||||
+194197|King' Knight Special|King' Knight Special|||||||
+194198|Kisei|Kisei|Ashe|RPG,|||||1987
+194199|Kiss Of Murder|Kiss Of Murder||Adventure,||||Riverhill&nbsp;Soft&nbsp;Inc.|
+194200|Kitaihei|Kitaihei|||||||
+194201|Klax|Klax|AIR|Puzzle-Game,||||Hudson|
+194202|Kobe Renai Monogatari|Kobe Renai Monogatari||Adventure,|||||1989
+194203|Kohakuiro No Yuigon - Seiyou Karuta Renzoku Satsujin Jiken|Kohakuiro No Yuigon - Seiyou Karuta Renzoku Satsujin Jiken|||||||
+194204|Komori Ai No Dokidoki Rally|Komori Ai No Dokidoki Rally||Adult,|||||
+194205|Konya Mo Asa Made Powerful|Konya Mo Asa Made Powerful|||||||
+194206|Konya Mo Asa Made Powerful 2|Konya Mo Asa Made Powerful 2|||||||
+194207|Konya Mo Asa Made Powerful Mahjong 2 Data Shuu|Konya Mo Asa Made Powerful Mahjong 2 Data Shuu|||||||
+194208|Konya Mo Hitoban Powerful Janken|Konya Mo Hitoban Powerful Janken|||||||
+194209|Konya Mo Makezuni Powerful Ogeretsu Game|Konya Mo Makezuni Powerful Ogeretsu Game|||||||
+194210|Kore Ga Uwasa No Golinpic|Kore Ga Uwasa No Golinpic|||||||
+194211|Koroshi No Dress|Koroshi No Dress|||||||
+194212|Koroshi No Dress 2|Koroshi No Dress 2|||||||
+194213|Kouu To Ryuuhou|Kouu To Ryuuhou|||||||
+194214|Ku Gyoku Den|Ku Gyoku Den|||||||
+194215|Kudokikata Oshiemasu|Kudokikata Oshiemasu||Adventure,||||Hard|1986
+194216|Kudokikata Oshiemasu 2 - Kind Gal's|Kudokikata Oshiemasu 2 - Kind Gal's|||||||
+194217|Kurokami No Densetsu|Kurokami No Densetsu|||||||
+194218|Kuronekosou Souzoku Satsujin Jiken|Kuronekosou Souzoku Satsujin Jiken|||||||
+194219|Kyu Ryu Tou|Kyu Ryu Tou|||||||
+194221|Labyrinth|Labyrinth||Action,Adventure,|||Lucasfilm&nbsp;Games&nbsp;LLC|Pack-In-Video&nbsp;Co.,&nbsp;Ltd|1986
+194222|Lacivious Oranges|Lacivious Oranges|||||||
+194223|Lagrange L-2|Lagrange L-2||Adventure,|||||
+194224|Lagrange L-2 Part 2 - D-side|Lagrange L-2 Part 2 - D-side|||||||
+194225|Lamia 1999|Lamia 1999||Action,RPG,|||Hudson&nbsp;Soft&nbsp;Company,&nbsp;Ltd.|Hudson&nbsp;Soft&nbsp;Company,&nbsp;Ltd.|1987
+194226|Laplace No Ma|Laplace No Ma||RPG,|||Humming&nbsp;Bird&nbsp;Soft|Humming&nbsp;Bird&nbsp;Soft|1987
+194227|Laptick|Laptick||Action,RPG,|||dB-SOFT|dB-SOFT|1985
+194228|Las Vegas|Las Vegas||Simulation,||||Anirog&nbsp;Software&nbsp;Ltd.|1984
+194229|Last Armageddon|Last Armageddon||Adventure,|||BrainGrey|BrainGrey|1987
+194230|Last Hours|Last Hours|||||||
+194231|Lasting Road|Lasting Road|||||||
+194232|Law Of The West|Law Of The West||Action,Adventure,|||Accolade,&nbsp;Inc.|Pony&nbsp;Canyon,&nbsp;Inc.|1987
+194233|Legend|Legend||Action,Adventure,|||Toka&nbsp;S.a.r.l.|Funsoft|1998
+194234|Lemonade|Lemonade||Simulation,||||Fun Project|1986
+194235|Liberty|Liberty|Wibarm|Board game,Adult,|||||1989
+194236|Light Flipper|Light Flipper||Action,Puzzle,||||Enix&nbsp;Corporation|1983
+194237|Lightning Bacchus|Lightning Bacchus|||||||
+194238|Linna Chan No Jikenbo|Linna Chan No Jikenbo|||||||
+194239|Linna Chan No Jikenbo 2|Linna Chan No Jikenbo 2|||||||
+194240|Linus|Linus||Simulation,Action,|||||
+194241|Lion|Lion|AIR|Action,Puzzle,|||Manley&nbsp;&&nbsp;Associates,&nbsp;Inc.|Sanctuary&nbsp;Woods&nbsp;Multimedia&nbsp;Corporation|1983
+194242|Lip Stick - 1 Lolita Hen|Lip Stick - 1 Lolita Hen|||||||
+194243|Lip Stick - 2 Joshigakusei Hen|Lip Stick - 2 Joshigakusei Hen|||||||
+194244|Lip Stick - 3 Ol Hen|Lip Stick - 3 Ol Hen|||||||
+194245|Lip Stick - 4 Nurse Hen|Lip Stick - 4 Nurse Hen|||||||
+194246|Lip Stick - 5 Stewardess Hen|Lip Stick - 5 Stewardess Hen|||||||
+194247|Lip Stick Adv|Lip Stick Adv|||||||
+194248|Lip Stick Adv 2|Lip Stick Adv 2|||||||
+194249|Little Box|Little Box|||||||
+194250|Little Computer People|Little Computer People||Simulation,|||Activision,&nbsp;Inc.|Pony&nbsp;Canyon,&nbsp;Inc.|1987
+194251|Little Vampire|Little Vampire||Adult,|||||
+194252|Lizard|Lizard|Wibarm|RPG,|||Xtalsoft&nbsp;Co.,&nbsp;Ltd.|Riverhill&nbsp;Soft&nbsp;Inc.|1985
+194253|Lock On|Lock On||Action,RPG,|||Tatsumi&nbsp;Electronics&nbsp;Co.,&nbsp;Ltd.|Tatsumi&nbsp;Electronics&nbsp;Co.,&nbsp;Ltd.|1986
+194254|Lode Runner Sr|Lode Runner Sr|||||||
+194255|Lolita|Lolita||Adventure,||||PSK|1986
+194256|Lolita 2|Lolita 2|||||||
+194257|Lolita Hime No Densetsu|Lolita Hime No Densetsu||Adventure,||||Bond Soft|1986
+194258|Lolita Hime No Enikki|Lolita Hime No Enikki||Adventure,||||Bond Soft|1987
+194259|Lolita Syndrome|Lolita Syndrome||Miscellaneous,||||Enix&nbsp;Corporation|1983
+194260|Long Night|Long Night|||||||
+194261|Loop The Loop|Loop The Loop|||||||
+194262|Lord Over|Lord Over||Simulation,|||||
+194263|Lost Power|Lost Power||RPG,||||Winky Soft|1986
+194264|Lot Lot|Lot Lot||Puzzle-Game,|||Irem&nbsp;Corp.|Technopolis&nbsp;Soft|1986
+194265|Love Chaser|Love Chaser||Miscellaneous,|||||1990
+194266|Love Mate|Love Mate||Adult,|||||
+194267|Lovely Gal|Lovely Gal||Adult,|||||
+194268|Luna City Satsujin Jiken|Luna City Satsujin Jiken||Simulation,|||||1986
+194269|Lunar Ball|Lunar Ball||Sports,|||||
+194270|Lupin The 3rd - Babylon No Ougon Densetsu|Lupin The 3rd - Babylon No Ougon Densetsu|||||||
+194271|Lupin The 3rd - Cagliostro No Shiro|Lupin The 3rd - Cagliostro No Shiro|||||||
+194272|Luxsor|Luxsor||Shooter,||||Telenet Japan|1987
+194273|Lyrane|Lyrane||Action,Puzzle,|||Glodia|Bullet-Proof&nbsp;Software,&nbsp;Inc.|1987
+194274|Mabel's Mansion|Mabel's Mansion||Action,Puzzle,||||Comptiq|1987
+194275|Macadam|Macadam||Adult,|||||1985
+194276|Macross|Macross||Action,Puzzle,|||Alex&nbsp;Bros|Bothtec,&nbsp;Inc.|1987
+194277|Madeleine|Madeleine||Adventure,|||||1987
+194278|Madium|Madium|||||||
+194279|Maerchen Paradise|Maerchen Paradise|||||||
+194280|Maerchen Veil|Maerchen Veil|||||||
+194281|Maerchen Veil Sr|Maerchen Veil Sr|||||||
+194282|Magnet Girl|Magnet Girl|||||||
+194283|Magnet World 2|Magnet World 2||Miscellaneous,|||||
+194284|Magnet World Final|Magnet World Final|||||||
+194285|Mahjong Clinic Zoukangou|Mahjong Clinic Zoukangou|||||||
+194286|Mahjong Kyou Jidai Special|Mahjong Kyou Jidai Special|||||||
+194287|Mahjoventure - Negi Mahjong|Mahjoventure - Negi Mahjong|||||||
+194288|Mahjoventure 2 - Zenkoku Onsen Mahjong|Mahjoventure 2 - Zenkoku Onsen Mahjong|||||||
+194289|Mahoroba|Mahoroba|||||||
+194290|Mahou No Izumi|Mahou No Izumi|||||||
+194291|Mahoutsukai No Deshi|Mahoutsukai No Deshi|||||||
+194292|Mahoutsukai No Deshi 2 - Tougoku No Sisha|Mahoutsukai No Deshi 2 - Tougoku No Sisha|||||||
+194293|Mahoutsukai Tabasa|Mahoutsukai Tabasa|||||||
+194294|Mai Chan Teba Fighting Now!!|Mai Chan Teba Fighting Now!!|||||||
+194295|Maidon|Maidon||Puzzle,|||||1985
+194296|Maison Ikkoku|Maison Ikkoku|||||||
+194297|Maison Ikkoku Kanketsu Hen|Maison Ikkoku Kanketsu Hen|||||||
+194298|Maison Ikkoku Zankoku Hen|Maison Ikkoku Zankoku Hen|||||||
+194299|Majoriko|Majoriko||Platformer,||||Natsume|1987
+194300|Majuu Senki Guardian|Majuu Senki Guardian||Adventure,|||||1988
+194301|Makai Fukkatsu|Makai Fukkatsu||RPG,|||||
+194302|Makaimura|Makaimura||Platformer,||||ASCII|1987
+194303|Makakara|Makakara|||||||
+194304|Makenshi Kumiko|Makenshi Kumiko|||||||
+194305|Man I Love, The|Man I Love, The|||||||
+194306|Manhattan Requiem|Manhattan Requiem||Adventure,|||Riverhill&nbsp;Soft&nbsp;Inc.|Riverhill&nbsp;Soft&nbsp;Inc.|1987
+194307|Manji|Manji||Adventure,Adult,|||||1984
+194308|Mappy|Mappy||Action,Platformer,|||Namco&nbsp;Limited|Dempa&nbsp;Shimbunsha|1986
+194309|Marichan Kiki Ippatsu|Marichan Kiki Ippatsu|||||||
+194310|Mariko No Heya|Mariko No Heya|||||||
+194311|Mariko No Heya Sorekara|Mariko No Heya Sorekara||Adult,|||||
+194312|Mario Brothers Special|Mario Brothers Special||Platform,|1|||Westside Soft House|1984
+194313|Marmalade|Marmalade|||||||
+194314|Marmalade 2 Plus|Marmalade 2 Plus|||||||
+194315|Maruhi Kagai Jugyou Hen|Maruhi Kagai Jugyou Hen|||||||
+194316|Marvelous|Marvelous||Adventure,Adult,|||||1986
+194317|Masquerade|Masquerade||Adventure,|||Janis|Janis|1986
+194318|Master Of Monsters|Master Of Monsters||Action,Platformer,|||Systemsoft|Systemsoft|1986
+194319|Mayonaka No Love Call|Mayonaka No Love Call|||||||
+194320|Maze Panic|Maze Panic||Puzzle,|||||1985
+194321|Mazekun|Mazekun|||||||
+194322|Medal Jack|Medal Jack||Miscellaneous,|||||
+194323|Medal Jack 2|Medal Jack 2|||||||
+194324|Mediflora No Izumi|Mediflora No Izumi|||||||
+194325|Meitantei Toujou|Meitantei Toujou|||||||
+194326|Melon Soda|Melon Soda||Adult,|||||
+194327|Melroon|Melroon||RPG,|||||1989
+194328|Melt Down|Melt Down|||||||
+194329|Melt Down Kaitei Ban|Melt Down Kaitei Ban|||||||
+194330|Meo No Mystery Adventure|Meo No Mystery Adventure|||||||
+194331|Mephist|Mephist||Adventure,|||||1989
+194332|Metal Father|Metal Father|||||||
+194333|Metal Orange|Metal Orange||Board game,Adult,|||||1990
+194334|Mid Garts - Dual Side|Mid Garts - Dual Side|||||||
+194335|Mig|Mig|AIR|RPG,|||||
+194336|Might And Magic|Might And Magic||Action,Miscellaneous,|||Gameloft&nbsp;Software&nbsp;Beijing&nbsp;Ltd.|Gameloft&nbsp;S.A.|
+194337|Might And Magic Book 2|Might And Magic Book 2|||||||
+194338|Miko To Akemi Ni Jungle Adventure|Miko To Akemi Ni Jungle Adventure|||||||
+194339|Milky Way|Milky Way||Shooter,||||Micronet|1984
+194340|Mind Storm|Mind Storm|||||||
+194341|Minky Momo No Panic Ball|Minky Momo No Panic Ball|||||||
+194342|Minor 2049er|Minor 2049er|||||||
+194343|Mirai|Mirai||Action,Shooter,|||Sein-Soft|Sein-Soft|1985
+194344|Missile Panic|Missile Panic||Action,Shooter,|||Yamagame|Yamagame|1984
+194345|Mission Asteroid|Mission Asteroid||Adventure,||||Starcraft|1983
+194346|Mission Impossible|Mission Impossible||Action,|||Infogrames&nbsp;Europe&nbsp;SA|Ocean&nbsp;Software&nbsp;Ltd.|1998
+194347|Misty 5|Misty 5|||||||
+194348|Misty Blue|Misty Blue||Adventure,||||Enix&nbsp;Corporation|1983
+194349|Miyabi|Miyabi|||||||
+194350|Mj-12|Mj-12|||||||
+194351|Mmk Anime Collection Part 3|Mmk Anime Collection Part 3|||||||
+194352|Mmk Anime Collection Part 4|Mmk Anime Collection Part 4|||||||
+194353|Mmk Anime Original Part 11|Mmk Anime Original Part 11|||||||
+194354|Mmk Anime Original Part 12|Mmk Anime Original Part 12|||||||
+194355|Mmk Anime Original Part 13|Mmk Anime Original Part 13|||||||
+194356|Mmk Anime Original Part 4|Mmk Anime Original Part 4|||||||
+194357|Mmk Anime Original Part 6|Mmk Anime Original Part 6|||||||
+194358|Mmk Machine Robo|Mmk Machine Robo|||||||
+194359|Mmk Original Best|Mmk Original Best|||||||
+194360|Mole Mole|Mole Mole||Puzzle-Game,||||Cross&nbsp;Media&nbsp;Soft|1983
+194361|Mole Mole 2|Mole Mole 2||Puzzle-Game,||||Cross&nbsp;Media&nbsp;Soft|1983
+194362|Monster Land|Monster Land||Puzzle,||||Policy|1984
+194363|Moon Child|Moon Child||RPG,|||||1987
+194364|Morina|Morina|||||||
+194365|Morita Kazuo No Shougi|Morita Kazuo No Shougi|||||||
+194366|Morita No Battlefield|Morita No Battlefield|||||||
+194367|Moscow|Moscow|||||||
+194368|Moscow V2.0|Moscow V2.0|||||||
+194369|Motoko Hime Adventure|Motoko Hime Adventure|||||||
+194370|Mr. Bump|Mr. Bump||Action,||||NCS|1986
+194371|Mr. Pro Yakyuu|Mr. Pro Yakyuu|||||||
+194372|Mr. Robot|Mr. Robot||Action,|||Moonpod|Moonpod|1986
+194373|Mugen No Shinzou|Mugen No Shinzou|||||||
+194374|Mugen No Shinzou 2|Mugen No Shinzou 2|||||||
+194375|Mugen No Shinzou 3|Mugen No Shinzou 3|||||||
+194376|Mugen No Shiro|Mugen No Shiro|||||||
+194377|Mugen Senshi Valis|Mugen Senshi Valis||Action,Adventure,||||Telenet Japan|1986
+194378|Mugen Senshi Valis 2|Mugen Senshi Valis 2|||||||
+194379|Muku No Yuubinyasan|Muku No Yuubinyasan|||||||
+194380|Mule|Mule|AIR|Action,Strategy,Board Game,,|||Ozark&nbsp;Softscape|Bullet-Proof&nbsp;Software,&nbsp;Inc.|1986
+194381|Music Collection Vol. 2 - Final Fantasy Tokushuu|Music Collection Vol. 2 - Final Fantasy Tokushuu|||||||
+194382|Music Disk|Music Disk|||||||
+194383|Music Floppy 2|Music Floppy 2|||||||
+194384|Music Floppy 3|Music Floppy 3|||||||
+194385|Music Labo|Music Labo|||||||
+194386|Muteki Keiji Daidageki - Shijousaidai No Hanzai|Muteki Keiji Daidageki - Shijousaidai No Hanzai|||||||
+194387|My Lolita|My Lolita||Simulation,|||Koei|Koei|1986
+194388|Mysterious Love Token|Mysterious Love Token|||||||
+194389|Mysterious Love Token 98|Mysterious Love Token 98|||||||
+194390|Mystery House|Mystery House||Adventure,|||||
+194391|Nankai No Hyouteki|Nankai No Hyouteki|||||||
+194392|Navitune|Navitune||RPG,|||||1989
+194393|Necropolice|Necropolice|||||||
+194394|Need|Need|AIR|,Action|||||
+194395|New Loders V4.0|New Loders V4.0|||||||
+194396|New Loders V5.0|New Loders V5.0|||||||
+194397|New Loders V6.0|New Loders V6.0|||||||
+194398|Newtron|Newtron||Platformer,||||Enix|1984
+194399|Night Life|Night Life||Simulation,|1||Koei|Koei|1982
+194400|Niko Niko|Niko Niko|||||||
+194401|Nile No Namida|Nile No Namida|||||||
+194402|Ninjakun - Majou No Bouken|Ninjakun - Majou No Bouken|||||||
+194403|Nintendo No Golf|Nintendo No Golf||Sports,|1|||Hudson Soft Company, Ltd.|1985
+194404|Nintendo No Tennis|Nintendo No Tennis||Sports,|2|||Hudson Soft Company, Ltd.|1985
+194405|Nobunaga No Yabou|Nobunaga No Yabou|||||||
+194406|Nobunaga No Yabou - Bushou Fuuunroku|Nobunaga No Yabou - Bushou Fuuunroku|||||||
+194407|Nobunaga No Yabou - Sengoku Gunyuuden|Nobunaga No Yabou - Sengoku Gunyuuden|||||||
+194408|Nobunaga No Yabou - Zenkokuban|Nobunaga No Yabou - Zenkokuban|||||||
+194409|Normandy Jouriku Sakusen|Normandy Jouriku Sakusen|||||||
+194410|Nouten Chokugeki! 2|Nouten Chokugeki! 2|||||||
+194411|Nuginugi Eawase Speed|Nuginugi Eawase Speed|||||||
+194412|Nukenin Densetsu|Nukenin Densetsu||RPG,|||||1987
+194413|Nukenin Densetsu Bangai Hen|Nukenin Densetsu Bangai Hen|||||||
+194414|Nukeru Master Pro-8.8k|Nukeru Master Pro-8.8k|||||||
+194415|Nukeru Master Xx.pro-8.8k|Nukeru Master Xx.pro-8.8k|||||||
+194416|Ochame Na Yuurei|Ochame Na Yuurei|||||||
+194417|Ogre|Ogre|AIR|Strategy,Board Game,,|||ORIGIN&nbsp;Systems,&nbsp;Inc.|Systemsoft|
+194418|Ojousam Club|Ojousam Club|||||||
+194419|Ojousama Club|Ojousama Club|||||||
+194420|Okhotsk Ni Kiyu|Okhotsk Ni Kiyu||Adventure,|||||
+194421|Okuman Chouja|Okuman Chouja|||||||
+194422|Old Village Story, The|Old Village Story, The|||||||
+194423|Omega Dai 3 Gou|Omega Dai 3 Gou|||||||
+194424|Omega Soukan 2 Gou|Omega Soukan 2 Gou|||||||
+194425|Omega Soukangou|Omega Soukangou|||||||
+194426|Omotesandou Adventure|Omotesandou Adventure|||||||
+194427|Ongaku Enban Con Spirito|Ongaku Enban Con Spirito|||||||
+194428|Ongakukan|Ongakukan|||||||
+194429|Onnanoko Keisatsutai|Onnanoko Keisatsutai|||||||
+194430|Onryou Senki|Onryou Senki||RPG,|||||1988
+194431|Ooi! Kaguyahime|Ooi! Kaguyahime|||||||
+194432|Oooku Maruhi Monogatari|Oooku Maruhi Monogatari|||||||
+194433|Operation L2|Operation L2|||||||
+194434|Orandazuma Ha Denkiunagi No Yume Wo Miruka|Orandazuma Ha Denkiunagi No Yume Wo Miruka|||||||
+194435|Orbit 3|Orbit 3|||||||
+194436|Orphe Music Best|Orphe Music Best|||||||
+194437|Otome Party|Otome Party||Adult,|||||
+194438|Ougon No Haka|Ougon No Haka|||||||
+194439|Ouji Binbin Monogatari|Ouji Binbin Monogatari|||||||
+194440|Outlanders|Outlanders||RPG,|||Micronics|Victor&nbsp;Musical&nbsp;Industries,&nbsp;Inc.|1988
+194441|Pachicon|Pachicon|||||||
+194442|Pacman|Pacman||Action,RPG,||||Victor|1989
+194443|Pai Panic|Pai Panic||Action,Puzzle,|||||1984
+194444|Panga|Panga||Puzzle,Adult,|||||1987
+194445|Panic In St. Fule Gakuen|Panic In St. Fule Gakuen|||||||
+194446|Panorama Tou|Panorama Tou|||||||
+194447|Paranoia 88|Paranoia 88||Action,||||T&amp;E Soft|1984
+194448|Payoon Poyoyoon|Payoon Poyoyoon|||||||
+194449|Peach Club|Peach Club|||||||
+194450|Peach Club Soukangou|Peach Club Soukangou|||||||
+194451|Peeping Scandal|Peeping Scandal||Puzzle-Game,|||Bothtec,&nbsp;Inc.|Bothtec,&nbsp;Inc.|1984
+194452|Peeping, The|Peeping, The|||||||
+194453|Penguin Village|Penguin Village||Adventure,|||||1984
+194454|Penguinkun Wars|Penguinkun Wars|||||||
+194455|Penki-ya Youchan|Penki-ya Youchan|||||||
+194456|Pension Story - Hana No Kiyosato|Pension Story - Hana No Kiyosato|||||||
+194457|Peropencity|Peropencity|||||||
+194458|Phantasie|Phantasie||RPG,||||StarCraft,&nbsp;Inc.|1986
+194459|Phantasie 2|Phantasie 2||RPG,|||||1986
+194460|Phantasie 3|Phantasie 3||RPG,|||||1987
+194461|Phantasie 4|Phantasie 4|||||||
+194462|Phrentic Shooting 2|Phrentic Shooting 2|||||||
+194463|Phrentic Shooting 3|Phrentic Shooting 3|||||||
+194464|Pias - Hikisakareta Seishun|Pias - Hikisakareta Seishun|||||||
+194465|Pinball Construction Set|Pinball Construction Set||Action,Pinball,||||Comptiq|1985
+194466|Pinball Land|Pinball Land||Action,|||||1986
+194467|Pink Stream Vol. 1|Pink Stream Vol. 1|||||||
+194468|Pinky Ponky|Pinky Ponky|||||||
+194469|Pinky Ponky 2|Pinky Ponky 2||Adult,|||||
+194470|Pinky Ponky 3|Pinky Ponky 3||Adult,|||||
+194471|Pipi|Pipi|AIR|,Action|||||
+194472|Pirates!|Pirates!||Action,||||Microprose;Microprose Japan|1989
+194473|Plazma Line|Plazma Line||Action,|||||
+194474|Poker Sisters|Poker Sisters|||||||
+194475|Pokky|Pokky|||||||
+194476|Pokky 2|Pokky 2|||||||
+194477|Ponjara|Ponjara|||||||
+194478|Ponkotsusen Survival|Ponkotsusen Survival|||||||
+194479|Pop Lemon|Pop Lemon||Adventure,||||Champion soft|1987
+194480|Popful Mail|Popful Mail||Action,Platform,,|||Nihon&nbsp;Falcom&nbsp;Corp.|SEGA&nbsp;Enterprises&nbsp;Ltd.|1991
+194481|Portopia Renzoku Satsujin Jiken|Portopia Renzoku Satsujin Jiken||Adventure,||||Enix&nbsp;Corporation|1983
+194482|Powerful Engine|Powerful Engine|||||||
+194483|Powerful Janken Exe|Powerful Janken Exe|||||||
+194484|Powerful Janken Special - Populi Limited8.8k|Powerful Janken Special - Populi Limited8.8k|||||||
+194485|Powerful Mahjong 2 Data Shuu|Powerful Mahjong 2 Data Shuu|||||||
+194486|Prajator|Prajator||Action,|||||
+194487|Pre Pri Pretty Pudding|Pre Pri Pretty Pudding|||||||
+194488|Private School|Private School||Adult,|||||
+194489|Pro Yakyuu Fun|Pro Yakyuu Fun|||||||
+194490|Pro Yakyuu Fun Yousei Gibbs|Pro Yakyuu Fun Yousei Gibbs|||||||
+194491|Prodigy|Prodigy||Action,Adventure,|||MD&nbsp;Software|Electric&nbsp;Dreams&nbsp;Software|1986
+194492|Produce|Produce||Strategy,|||dB-SOFT|dB-SOFT|1987
+194493|Professional Mahjong Gokuu|Professional Mahjong Gokuu|||||||
+194494|Project A-ko|Project A-ko|||||||
+194495|Project A-ko 2|Project A-ko 2|||||||
+194496|Prontis|Prontis||Adventure,|||||1991
+194497|Proserpia|Proserpia||Adventure,RPG,|||||1988
+194498|Providence|Providence||RPG,Action,|||||1989
+194499|Psy-o-blade|Psy-o-blade||Adventure,|||T&E&nbsp;Soft,&nbsp;Inc.|T&E&nbsp;Soft,&nbsp;Inc.|1987
+194500|Psychic City|Psychic City||RPG,Action,|||||1984
+194501|Psychic War|Psychic War||RPG,|||||
+194502|Punch Ball Mario|Punch Ball Mario||Action,Platform|||||
+194503|Pure|Pure|AIR|Strategy,|||Black&nbsp;Rock&nbsp;Studio|Disney&nbsp;Interactive&nbsp;Studios,&nbsp;Inc.|2008
+194504|Pure 2|Pure 2||Adult,|||||
+194505|Pure My Doll|Pure My Doll||Adult,|||||
+194506|Puzzrun|Puzzrun|||||||
+194507|Quest Of Kage, The|Quest Of Kage, The|||||||
+194508|Quest, The|Quest, The||Adventure,|||||
+194509|Rakuen No Shoutaijou|Rakuen No Shoutaijou|||||||
+194510|Rance - Hikari Wo Motomete|Rance - Hikari Wo Motomete|||||||
+194511|Rance 2|Rance 2||RPG,Adult,|||||
+194512|Ray-gun|Ray-gun||Strategy,|||Elf&nbsp;Co.,&nbsp;Ltd.|Elf&nbsp;Co.,&nbsp;Ltd.|1987
+194513|Re Fight|Re Fight|||||||
+194514|Re-birth|Re-birth|||||||
+194515|Red Wing|Red Wing||Simulation,Action,|||||1987
+194516|Reina|Reina||Adult,Miscellaneous,|||||
+194517|Relics|Relics||Action,Strategy,|||Bothtec,&nbsp;Inc.|Bothtec,&nbsp;Inc.|1987
+194518|Replicart|Replicart||Action,Strategy,||||Taito&nbsp;Corporation|1987
+194519|Rest Time|Rest Time|||||||
+194520|Return Of Ishtar, The|Return Of Ishtar, The||RPG,||||Bandai Namco Amusement|1986
+194521|Review|Review||Adult,|||||
+194522|Reviver|Reviver||RPG,|||||1987
+194523|Revolter|Revolter|||||||
+194524|Revolter - Another Version|Revolter - Another Version|||||||
+194525|Ri-2 Music Disk Vol. 3|Ri-2 Music Disk Vol. 3|||||||
+194526|Ri-2 Music Disk Vol. 5|Ri-2 Music Disk Vol. 5|||||||
+194527|Riglas|Riglas||Action,Strategy,|||Random&nbsp;House&nbsp;Co.,&nbsp;Ltd.|Random&nbsp;House&nbsp;Co.,&nbsp;Ltd.|1987
+194528|Rimi Chan No Kiken Na Yoru|Rimi Chan No Kiken Na Yoru|||||||
+194529|Ring Quest|Ring Quest||Adventure,||||StarCraft,&nbsp;Inc.|1987
+194530|Rk-box Vol. 2|Rk-box Vol. 2|||||||
+194531|Road To Janpro|Road To Janpro|||||||
+194532|Road War 2000|Road War 2000||RPG,Simulation,|||||
+194533|Robo Wres 2001|Robo Wres 2001||Action,Strategy,|||SEGA&nbsp;Enterprises&nbsp;Ltd.|Micronet&nbsp;Co.&nbsp;Ltd.|1987
+194534|Rocketman, The|Rocketman, The|||||||
+194535|Rogue|Rogue||RPG,||||Ai Design|1980
+194536|Rogue Alliance|Rogue Alliance||RPG,|||||
+194537|Roller Ball|Roller Ball||Sports,Board game,|||||1985
+194538|Romancia|Romancia||Action,||||Nihon Falcom|1986
+194539|Rose Potion|Rose Potion||Adventure,Adult,|||||
+194540|Rouge - Shinku No Kuchibeni|Rouge - Shinku No Kuchibeni|||||||
+194541|Royal Blood|Royal Blood||Simulation,|||||1991
+194542|Rst Ongaku Disk 01|Rst Ongaku Disk 01|||||||
+194543|Rst Ongaku Disk 02|Rst Ongaku Disk 02|||||||
+194544|Rst Ongaku Disk 03|Rst Ongaku Disk 03|||||||
+194545|Rst Ongaku Disk 04|Rst Ongaku Disk 04|||||||
+194546|Rst Ongaku Disk 05|Rst Ongaku Disk 05|||||||
+194547|Rst Ongaku Disk 06|Rst Ongaku Disk 06|||||||
+194548|Rst Ongaku Disk 07|Rst Ongaku Disk 07|||||||
+194549|Rst Ongaku Disk 08|Rst Ongaku Disk 08|||||||
+194550|Rst Ongaku Disk 09|Rst Ongaku Disk 09|||||||
+194551|Rst Ongaku Disk 10|Rst Ongaku Disk 10|||||||
+194552|Rst Ongaku Disk 11|Rst Ongaku Disk 11|||||||
+194553|Rst Ongaku Disk 12|Rst Ongaku Disk 12|||||||
+194554|Ruin|Ruin|AIR|RPG,Educational,|||||1987
+194555|Rule The World|Rule The World|||||||
+194556|Run Run Kyousoukyoku|Run Run Kyousoukyoku|||||||
+194557|Rune Worth|Rune Worth||RPG,Action,|||||1990
+194558|Rune Worth Jukebox|Rune Worth Jukebox|||||||
+194559|Rungistan Kara No Dasshutsu|Rungistan Kara No Dasshutsu|||||||
+194560|S-type|S-type|||||||
+194561|S.f.3.d Original Operation 5|S.f.3.d Original Operation 5|||||||
+194562|S.o.s. For Sound Boad 2 V3.0|S.o.s. For Sound Boad 2 V3.0|||||||
+194563|Sacchan No Daibouken|Sacchan No Daibouken|||||||
+194564|Sadistick Gamars Part 1 - Kateikyoushi Play|Sadistick Gamars Part 1 - Kateikyoushi Play|||||||
+194565|Sadistick Gamars Part 2 - Otanjoubi Play|Sadistick Gamars Part 2 - Otanjoubi Play|||||||
+194566|Sailor Fuku Bisoujo Zukan Vol. 1|Sailor Fuku Bisoujo Zukan Vol. 1|||||||
+194567|Sailor Fuku Bisoujo Zukan Vol. 2|Sailor Fuku Bisoujo Zukan Vol. 2|||||||
+194568|Sailor Fuku Bisoujo Zukan Vol. 3|Sailor Fuku Bisoujo Zukan Vol. 3|||||||
+194569|Sailor Fuku Bisoujo Zukan Vol. 6|Sailor Fuku Bisoujo Zukan Vol. 6|||||||
+194570|Sailor Fuku Senshi Ferris|Sailor Fuku Senshi Ferris|||||||
+194571|Saitou Yuki No Tokimeki Databunk|Saitou Yuki No Tokimeki Databunk|||||||
+194572|Sakusaku Dai Goutou|Sakusaku Dai Goutou|||||||
+194573|Salad No Kuni No Tomato Hime|Salad No Kuni No Tomato Hime||Adventure,|||Hudson&nbsp;Soft&nbsp;Company,&nbsp;Ltd.|Hudson&nbsp;Soft&nbsp;Company,&nbsp;Ltd.|
+194574|Sangokushi|Sangokushi||Strategy,||||Koei|1985
+194575|Sangokushi 2|Sangokushi 2||Strategy,|||||
+194576|Sangokushi Sr|Sangokushi Sr|||||||
+194577|Satsujin Club|Satsujin Club|||||||
+194578|Satsujin Ha Tegami Ni Notte|Satsujin Ha Tegami Ni Notte|||||||
+194579|Sayaka|Sayaka||Adventure,Adult,|||||
+194580|Sayaoko 2|Sayaoko 2|||||||
+194581|Sayoko|Sayoko|||||||
+194582|Sayonara Jupiter|Sayonara Jupiter||Action,|||||
+194583|Saziri|Saziri|||||||
+194584|Scheme, The|Scheme, The|||||||
+194585|School Wars|School Wars|||||||
+194586|Schwarzschild|Schwarzschild||Simulation,|||||
+194587|Schwarzschild 2|Schwarzschild 2|||||||
+194588|Scottie|Scottie|||||||
+194589|Scrap|Scrap||Puzzle-Game,|||Splitcode,&nbsp;Inc.|Splitcode,&nbsp;Inc.|1985
+194590|Screamer, The|Screamer, The|||||||
+194591|Seena Widescreen|Seena Widescreen|||||||
+194592|Seibu No Nariagari|Seibu No Nariagari|||||||
+194593|Seijo Densetsu|Seijo Densetsu||Simulation,|||||1986
+194594|Seijo Panic|Seijo Panic||Simulation,|||||1986
+194595|Seikochan Sos|Seikochan Sos|||||||
+194596|Seilane|Seilane||Adventure,|||||1987
+194597|Seinaru Tsurugi|Seinaru Tsurugi|||||||
+194598|Sekai De Ichiban Kimi Ga Suki!|Sekai De Ichiban Kimi Ga Suki!|||||||
+194599|Sekai Yaruhodo So Much|Sekai Yaruhodo So Much|||||||
+194600|Sematte Mitai|Sematte Mitai|||||||
+194601|Sen No Knife No Meikyuu No Mashoujokan|Sen No Knife No Meikyuu No Mashoujokan|||||||
+194602|Senjou No Hoshi|Senjou No Hoshi|||||||
+194603|Senjou No Ookami|Senjou No Ookami||Shooter,||||ASCII|1987
+194604|Senkyo, The|Senkyo, The||Simulation,|||||
+194605|Sexy Orange|Sexy Orange||Erotico,||||SYSTEM HOUSE OH!|1987
+194606|Shadow Hunter|Shadow Hunter||Adventure,|||Champion&nbsp;Soft|Champion&nbsp;Soft|1988
+194607|Shampoo|Shampoo|||||||
+194608|Shanghai|Shanghai||Puzzle-Game,|||Activision,&nbsp;Inc.|Systemsoft|1987
+194609|Shanghai 2|Shanghai 2|||||||
+194610|Shenan Dragon|Shenan Dragon||RPG,|||||1990
+194611|Shiken Ni Deru Uruseiyatsura|Shiken Ni Deru Uruseiyatsura|||||||
+194612|Shikinjou|Shikinjou||RPG,|||||1989
+194613|Shikoutei|Shikoutei|||||||
+194614|Shin Best Nine Pro Yakyuu|Shin Best Nine Pro Yakyuu|||||||
+194615|Shin Ku Gyoku Den|Shin Ku Gyoku Den|||||||
+194616|Shin Taketori Monogatari|Shin Taketori Monogatari||RPG,|||||1984
+194617|Shin Tamatori Monogatari|Shin Tamatori Monogatari||RPG,|||||1987
+194618|Shindo 40|Shindo 40|||||||
+194619|Shiritsu Tantei Max|Shiritsu Tantei Max||RPG,|||||1987
+194620|Shiritsu Tantei Max Graphic Shuu|Shiritsu Tantei Max Graphic Shuu|||||||
+194621|Shiro Densetsu|Shiro Densetsu||RPG,|||||1984
+194622|Shiro To Kuro No Densetsu Series Gekan - Destruction|Shiro To Kuro No Densetsu Series Gekan - Destruction|||||||
+194623|Shiro To Kuro No Densetsu Series Joukan - Destruction|Shiro To Kuro No Densetsu Series Joukan - Destruction|||||||
+194624|Shirobara Renzoku Satsujin Jiken|Shirobara Renzoku Satsujin Jiken||RPG,|||||1984
+194625|Shiryou Sensen|Shiryou Sensen||,Horror|||||
+194626|Shiryou Sensen 2|Shiryou Sensen 2||,Horror|||||
+194627|Shitaiokiba De Yuushoku Wo|Shitaiokiba De Yuushoku Wo|||||||
+194628|Shougi|Shougi||RPG,|||||1984
+194629|Shougi 88|Shougi 88|||||||
+194630|Shoujo Sentai Angel|Shoujo Sentai Angel|||||||
+194631|Shoumakyou No Densetsu|Shoumakyou No Densetsu|||||||
+194632|Show Down - Kakuchou Cg Data Disk|Show Down - Kakuchou Cg Data Disk|||||||
+194633|Shuten Douji|Shuten Douji|||||||
+194634|Sigma|Sigma|||||||
+194635|Silpheed|Silpheed||Action,Shooter,|||Game&nbsp;Arts&nbsp;Co.,&nbsp;Ltd.|Game&nbsp;Arts&nbsp;Co.,&nbsp;Ltd.|1986
+194636|Silver Ghost|Silver Ghost||Action,Shooter,|||Kure&nbsp;Software&nbsp;Koubou|Kure&nbsp;Software&nbsp;Koubou|1986
+194637|Siva|Siva|AIR|,Action|||||
+194638|Sky Fox|Sky Fox||Action,Shooter,|||Jaleco&nbsp;Ltd.|Jaleco&nbsp;Ltd.|1987
+194639|Skyscrayper|Skyscrayper|||||||
+194640|Slope|Slope||Adventure,Adult,|||||1990
+194641|Snatcher|Snatcher||Adventure,|||Konami&nbsp;Industry&nbsp;Co.&nbsp;Ltd.|Konami&nbsp;Industry&nbsp;Co.&nbsp;Ltd.|1988
+194642|So-and-so|So-and-so|||||||
+194643|Soapland Story|Soapland Story||RPG,||||Hard|1986
+194644|Solitare|Solitare||RPG,||||Hard|1986
+194645|Sonogo No Keikochan Kangofu Hen|Sonogo No Keikochan Kangofu Hen|||||||
+194646|Sonogo No Keikochan Niizuma Hen|Sonogo No Keikochan Niizuma Hen|||||||
+194647|Sonogo No Keikochan Ol Hen|Sonogo No Keikochan Ol Hen|||||||
+194648|Sorcerian|Sorcerian||Action,RPG,,|||Nihon Falcom|Nihon Falcom|1988
+194649|Sorcerian Tsuika Scenario - Gilgamesh Sorcerian|Sorcerian Tsuika Scenario - Gilgamesh Sorcerian|||||||
+194650|Sorcerian Tsuika Scenario - Selected Sorcerian 1|Sorcerian Tsuika Scenario - Selected Sorcerian 1|||||||
+194651|Sorcerian Tsuika Scenario - Selected Sorcerian 2|Sorcerian Tsuika Scenario - Selected Sorcerian 2|||||||
+194652|Sorcerian Tsuika Scenario - Selected Sorcerian 3|Sorcerian Tsuika Scenario - Selected Sorcerian 3|||||||
+194653|Sorcerian Tsuika Scenario - Selected Sorcerian 4|Sorcerian Tsuika Scenario - Selected Sorcerian 4|||||||
+194654|Sorcerian Tsuika Scenario - Selected Sorcerian 5|Sorcerian Tsuika Scenario - Selected Sorcerian 5|||||||
+194655|Sorcerian Tsuika Scenario Vol. 1|Sorcerian Tsuika Scenario Vol. 1|||||||
+194656|Sorcerian Tsuika Scenario Vol. 2 - Sengoku Sorcerian|Sorcerian Tsuika Scenario Vol. 2 - Sengoku Sorcerian|||||||
+194657|Sorcerian Tsuika Scenario Vol. 3 - Pyramid Sorcerian|Sorcerian Tsuika Scenario Vol. 3 - Pyramid Sorcerian|||||||
+194658|Sorcerian Tsuika Scenario Vol. 4 - Uchuu Kara No Houmonsha|Sorcerian Tsuika Scenario Vol. 4 - Uchuu Kara No Houmonsha|||||||
+194659|Sorcerian Utility Disk Vol. 1|Sorcerian Utility Disk Vol. 1|||||||
+194660|Sorcerian V1.0|Sorcerian V1.0|||||||
+194661|Sorcerian V1.1|Sorcerian V1.1|||||||
+194662|Sord Of Legend, The|Sord Of Legend, The|||||||
+194663|Soukoban|Soukoban|||||||
+194664|Soukoban Perfect|Soukoban Perfect|||||||
+194665|Sound On-ten Vol. 1|Sound On-ten Vol. 1|||||||
+194666|Sound On-ten Vol. 3|Sound On-ten Vol. 3|||||||
+194667|Sound Theater|Sound Theater|||||||
+194668|Space Amoeba|Space Amoeba|||||||
+194669|Space Harrier|Space Harrier||Action,Shooter,|||AM&nbsp;R&D&nbsp;Dept.&nbsp;#2|Dempa&nbsp;Shimbunsha|1987
+194670|Spy Daisakusen 80|Spy Daisakusen 80|||||||
+194671|Spy Daisakusen 88|Spy Daisakusen 88|||||||
+194672|Spy Vs Spy|Spy Vs Spy||Action,Shooter,|||First&nbsp;Star&nbsp;Software,&nbsp;Inc.|Hot-B&nbsp;Co.,&nbsp;Ltd.|1987
+194673|Ssc Vol. 1|Ssc Vol. 1|||||||
+194674|Ssc Vol. 2|Ssc Vol. 2|||||||
+194675|Ssg Game Special|Ssg Game Special|||||||
+194676|Ssg Game Special 2|Ssg Game Special 2|||||||
+194677|Star Cruiser|Star Cruiser||Action,Shooter,|||Sirius&nbsp;Software,&nbsp;Inc.|Sirius&nbsp;Software,&nbsp;Inc.|1980
+194678|Star Ship Rendezvous|Star Ship Rendezvous|||||||
+194679|Star Symphony|Star Symphony||RPG,||||Cross Media Soft|1986
+194680|Star Trader|Star Trader||Shooter,||||Computerware|1984
+194681|Star Trek|Star Trek||Action,Shooter,||||Falcom|
+194682|Still Sword|Still Sword||Action,Shooter,|||FairyTale|FairyTale|
+194683|Still Sword For Adult|Still Sword For Adult||Action,Shooter,|||FairyTale|FairyTale|
+194684|Storm|Storm||Action,Shooter,||||Mastertronic&nbsp;Ltd.|1986
+194685|Street Yakyuu Ken|Street Yakyuu Ken|||||||
+194686|Sugoroku Pon|Sugoroku Pon|||||||
+194687|Sugoroku Yakyuudou|Sugoroku Yakyuudou|||||||
+194688|Suikoden - Tenmei No Chikai|Suikoden - Tenmei No Chikai|||||||
+194689|Suiryuushi|Suiryuushi|||||||
+194690|Suiryuushi 2|Suiryuushi 2|||||||
+194691|Sukapon Tankentai|Sukapon Tankentai|||||||
+194692|Summer Games|Summer Games||Action,Sports,|||Epyx,&nbsp;Inc.|Pony&nbsp;Canyon,&nbsp;Inc.|1986
+194693|Summer Resort Chuukintou|Summer Resort Chuukintou|||||||
+194694|Super Daisenryaku|Super Daisenryaku||Action,Sports,|||Systemsoft|Systemsoft|1986
+194695|Super Daisenryaku Map Collection|Super Daisenryaku Map Collection|||||||
+194696|Super Jack|Super Jack|||||||
+194697|Super Mario Brothers Special|Super Mario Brothers Special||Platform,|1|||Hudson Soft|1986
+194698|Super Pitfall|Super Pitfall||Action,Sports,|||Pony,&nbsp;Inc.|Pony,&nbsp;Inc.|1986
+194699|Super Rambo|Super Rambo||Action,|||||
+194700|Super Sonic Shooter|Super Sonic Shooter||Shoot'em Up,|||||
+194701|Surnaturel|Surnaturel|||||||
+194702|Swashbuckler|Swashbuckler||Action,Fighting,,|||Datamost,&nbsp;Inc.|Comptiq|1985
+194703|Sweet Girl|Sweet Girl|||||||
+194704|T.d.f Kaijuu Daisensou|T.d.f Kaijuu Daisensou|||||||
+194705|T.n.t. Bomb And Bomb|T.n.t. Bomb And Bomb|||||||
+194706|Tag Of War|Tag Of War||Action,|||||
+194707|Take Out Vol. 1|Take Out Vol. 1|||||||
+194708|Take Out Vol. 2|Take Out Vol. 2|||||||
+194709|Take Out Vol. 3|Take Out Vol. 3|||||||
+194710|Take Out Vol. 4|Take Out Vol. 4|||||||
+194711|Take Out Vol. 5|Take Out Vol. 5|||||||
+194712|Take Out Vol. 6|Take Out Vol. 6|||||||
+194713|Take Out Vol. 7|Take Out Vol. 7|||||||
+194714|Tanba|Tanba||Action,|||||1988
+194715|Tanteidan X|Tanteidan X|||||||
+194716|Tatakau Mimo Cahan No Daibouken|Tatakau Mimo Cahan No Daibouken|||||||
+194717|Team Ab Music Disk For 88 No.1|Team Ab Music Disk For 88 No.1|||||||
+194718|Teitoku No Ketsudan|Teitoku No Ketsudan||Strategy,||||Koei|1989
+194719|Teki Ha Kaizoku - Kaizokuban|Teki Ha Kaizoku - Kaizokuban|||||||
+194720|Telenet Music Box|Telenet Music Box|||||||
+194721|Telephone Club Story|Telephone Club Story||Adult,|||||
+194722|Ten To Chi To|Ten To Chi To|||||||
+194723|Tenboudai|Tenboudai|||||||
+194724|Tenchi Wo Kurau|Tenchi Wo Kurau||RPG,|||||
+194725|Tenkyuuhai|Tenkyuuhai||Action,|||||1989
+194726|Tennen Yashi No Mi Natera|Tennen Yashi No Mi Natera|||||||
+194727|Tennis Freak|Tennis Freak||Sports,|||||1985
+194728|Tennyo Densetsu|Tennyo Densetsu||Sports,|||||1988
+194729|Tenshitachi No Gogo|Tenshitachi No Gogo||Adventure,|||JAST&nbsp;Co.,&nbsp;Ltd.|JAST&nbsp;Co.,&nbsp;Ltd.|1989
+194730|Tenshitachi No Gogo 2|Tenshitachi No Gogo 2|||||||
+194731|Tenshitachi No Gogo 2 - Bangai Hen|Tenshitachi No Gogo 2 - Bangai Hen|||||||
+194732|Tenshitachi No Gogo 3 - Ribbon|Tenshitachi No Gogo 3 - Ribbon|||||||
+194733|Tenshitachi No Gogo 3 Bangaihen|Tenshitachi No Gogo 3 Bangaihen|||||||
+194734|Tenshitachi No Gogo Bangai Hen|Tenshitachi No Gogo Bangai Hen|||||||
+194735|Tenshitachi No Gogo No Koucha|Tenshitachi No Gogo No Koucha|||||||
+194736|Tenshitachi No Gogo Versionup Ban|Tenshitachi No Gogo Versionup Ban|||||||
+194737|Testament|Testament||Action,Strategy,|||Insanity|Signum|1997
+194738|Testament Kakuchou Map|Testament Kakuchou Map|||||||
+194739|Tetra Force Plus|Tetra Force Plus|||||||
+194740|Tetras|Tetras|||||||
+194741|Tetris|Tetris||Action,Strategy,||||Spectrum&nbsp;Holobyte,&nbsp;Inc.|1987
+194742|Thexder|Thexder||Action,Puzzle,|1||Game&nbsp;Arts&nbsp;Co.,&nbsp;Ltd.|Game&nbsp;Arts&nbsp;Co.,&nbsp;Ltd.|1985
+194743|Thexder 88|Thexder 88|Thexder|Action,Shoot'em Up,|||||
+194744|Thunder Force|Thunder Force||Action,Shooter,|||Tecno&nbsp;Soft|Tecno&nbsp;Soft|1983
+194745|Thunder Force Sr|Thunder Force Sr||Shoot'em Up,|||||
+194746|Time Empire|Time Empire||Strategy,|||||
+194747|Time Zone|Time Zone||Adventure,|||Sierra&nbsp;On-Line,&nbsp;Inc.|StarCraft,&nbsp;Inc.|1985
+194748|Tinker Bell|Tinker Bell|||||||
+194749|Tinker Bell 2|Tinker Bell 2|||||||
+194750|Tiny Wasp|Tiny Wasp|||||||
+194751|Tir-nan-og|Tir-nan-og||RPG,|||||
+194752|Tobira Wo Akete|Tobira Wo Akete|||||||
+194753|Tokimaki Cecil|Tokimaki Cecil|||||||
+194754|Tokimeki Sports Gal 1|Tokimeki Sports Gal 1|||||||
+194755|Tokimeki Sports Gal 2|Tokimeki Sports Gal 2|||||||
+194756|Tokimeki Sports Gal 3|Tokimeki Sports Gal 3|||||||
+194757|Tokuichi Tiger|Tokuichi Tiger|||||||
+194758|Tokyo Joshikou Sailor Fuku Nyumon 1|Tokyo Joshikou Sailor Fuku Nyumon 1|||||||
+194759|Tokyo Joshikou Sailor Fuku Nyumon 2|Tokyo Joshikou Sailor Fuku Nyumon 2|||||||
+194760|Tokyo Joshikou Sailor Fuku Nyumon 3|Tokyo Joshikou Sailor Fuku Nyumon 3|||||||
+194761|Tokyo Joshikou Seifuku Wo Nuida Zukan|Tokyo Joshikou Seifuku Wo Nuida Zukan|||||||
+194762|Tokyo Nanpa Street|Tokyo Nanpa Street|||||||
+194763|Topple Zip|Topple Zip||Action,Adventure,|||MiCROViSion&nbsp;Inc.|Bothtec,&nbsp;Inc.|1986
+194764|Toraware Penguin|Toraware Penguin||Adult,|||||
+194765|Touch|Touch||Adventure,|||||1987
+194766|Touch Down|Touch Down||Sports,|||||
+194767|Tower Of Dragon, The|Tower Of Dragon, The|||||||
+194768|Transylvania 2|Transylvania 2|||||||
+194769|Treasure Island|Treasure Island||Action,Adventure,|||Crossroads|L.K.&nbsp;Avalon|1997
+194770|Trilogy|Trilogy||Adventure,||||Mastertronic&nbsp;Ltd.|1987
+194771|Triton|Triton||Adventure,|||||1985
+194772|Triton 2|Triton 2|||||||
+194773|Trivia Q|Trivia Q|||||||
+194774|Tropical Boy|Tropical Boy||Platformer,||||Enix|1983
+194775|Trouble And Confusion V2.0|Trouble And Confusion V2.0|||||||
+194776|Trump Aid|Trump Aid||casino/cards,||||Toshiba Emi / Soft Vision|1987
+194777|Trump Kyou|Trump Kyou|||||||
+194778|Tsumego 120|Tsumego 120||Adventure,|||||1987
+194779|Tunnels And Torolls|Tunnels And Torolls|||||||
+194780|Turning Gal|Turning Gal|||||||
+194781|Twilight Zone|Twilight Zone||Adventure,|||Gigabit&nbsp;Systems,&nbsp;Inc.|First&nbsp;Row&nbsp;Software&nbsp;Publishing,&nbsp;Inc.|1988
+194782|Twilight Zone 2|Twilight Zone 2|||||||
+194783|Twilight Zone 3 - Nagakute Amai Yoru|Twilight Zone 3 - Nagakute Amai Yoru||Adult,|||||
+194784|Twilight Zone 4 - Tokubetsu Hen|Twilight Zone 4 - Tokubetsu Hen|||||||
+194785|Uchuu No Senshi|Uchuu No Senshi|||||||
+194786|Uchuubokushi|Uchuubokushi|||||||
+194787|Udilin Puzzle, The|Udilin Puzzle, The|||||||
+194788|Ueda Junichi Bgm Shuu Vol. 1|Ueda Junichi Bgm Shuu Vol. 1|||||||
+194789|Ueda Junichi Bgm Shuu Vol. 2|Ueda Junichi Bgm Shuu Vol. 2|||||||
+194790|Ultima 1|Ultima 1||Role playing games,|1||||
+194791|Ultima 2|Ultima 2||RPG,|||||
+194792|Ultima 3|Ultima 3||RPG,|||||
+194793|Ultima 4|Ultima 4||RPG,|||||
+194794|Ultra Monogatari|Ultra Monogatari||Action,|||||
+194795|Ulysses|Ulysses||Adventure,|||||
+194796|Undine|Undine|||||||
+194797|Uniform|Uniform|||||||
+194798|Uooty|Uooty|||||||
+194799|Urotsuki Douji|Urotsuki Douji|||||||
+194800|Uruseiyatsura - Koi No Survival Birthday|Uruseiyatsura - Koi No Survival Birthday|||||||
+194801|Uruseiyatsura - Lovely Chaser|Uruseiyatsura - Lovely Chaser|||||||
+194802|Utsukushiki Emonotachi|Utsukushiki Emonotachi|||||||
+194803|Utsukushiki Emonotachi Part 2|Utsukushiki Emonotachi Part 2|||||||
+194804|Utsukushiki Emonotachi Part 3|Utsukushiki Emonotachi Part 3|||||||
+194805|Utsukushiki Emonotachi Part 4|Utsukushiki Emonotachi Part 4|||||||
+194806|Utsukushiki Emonotachi Part 5|Utsukushiki Emonotachi Part 5|||||||
+194807|Valeur, La|Valeur, La|||||||
+194808|Valna|Valna||RPG,Action,|||||1989
+194809|Vampire - Yoru No Kizoku|Vampire - Yoru No Kizoku|||||||
+194810|Vampire Bgm Shuu|Vampire Bgm Shuu|||||||
+194811|Vaxol|Vaxol||Shoot'em Up,|||||
+194812|Veigues|Veigues||Shoot'em Up,|||||1988
+194813|Vein Dream|Vein Dream|||||||
+194814|Vermilion|Vermilion||Shoot'em Up,Adult,|||||1989
+194815|Victorious Nine|Victorious Nine||Sports,|||||1985
+194816|Video Game Music Vol. 1|Video Game Music Vol. 1|||||||
+194817|Video Game Music Vol. 2|Video Game Music Vol. 2|||||||
+194818|Volguard|Volguard||Action,Shooter,|||dB-SOFT|dB-SOFT|1984
+194819|Waga Seishun No Youkai Yashiki|Waga Seishun No Youkai Yashiki|||||||
+194820|Wakusei Mephius|Wakusei Mephius|||||||
+194821|Wanderers From Super Scheme|Wanderers From Super Scheme|||||||
+194822|Wanderers From Ys|Wanderers From Ys||RPG,|||||
+194823|Warning|Warning||RPG,Simulation,|||||1987
+194824|Watanabe Wataru No Zatsugaku Olympic|Watanabe Wataru No Zatsugaku Olympic|||||||
+194825|Watashi Wo Golf Ni Tsuretette|Watashi Wo Golf Ni Tsuretette|||||||
+194826|Water Worker|Water Worker||Action,|||||1984
+194827|Waterfront Adventure|Waterfront Adventure||Adventure,||||Hard Soft|1990
+194828|Wedding Rhapsody|Wedding Rhapsody||Adult,|||||
+194829|Weird 2|Weird 2||RPG,|||||1985
+194830|Werdragon|Werdragon||Action,|||||
+194831|Wgt - The Digital Trip Illustration|Wgt - The Digital Trip Illustration|||||||
+194832|What's Michael|What's Michael||Action,|||||1988
+194833|White Christmas|White Christmas|||||||
+194834|White Christmas 2|White Christmas 2|||||||
+194835|Wibarm|Wibarm||Action,Adventure,|||Arsys&nbsp;Software,&nbsp;Inc.|Arsys&nbsp;Software,&nbsp;Inc.|1990
+194836|Wild Cat|Wild Cat||Shooter,||||Nippon Columbia|1985
+194837|Will|Will|AIR|Adventure,|||||
+194838|Wingman|Wingman||Adventure,|||TamTam&nbsp;Co.,&nbsp;Ltd.|Enix&nbsp;Corporation|1985
+194839|Wingman 2 - Kitakura No Fukkastu|Wingman 2 - Kitakura No Fukkastu|||||||
+194840|Wingman Special|Wingman Special|||||||
+194841|Winter Games|Winter Games||Action,Sports,|||Action&nbsp;Graphics,&nbsp;Inc.|Pony&nbsp;Canyon,&nbsp;Inc.|1987
+194842|Wizard And Princess|Wizard And Princess||Adventure,||||Starcraft|1983
+194843|Wizardry - Proving Grounds Of The Mad Overload!|Wizardry - Proving Grounds Of The Mad Overload!||Role playing games,|1||||
+194844|Wizardry - The Return Of Werdna - The Forth Wizardey Scenario|Wizardry - The Return Of Werdna - The Forth Wizardey Scenario|||||||
+194845|Wizardry Scenario 2 - The Knight Of Diamonds|Wizardry Scenario 2 - The Knight Of Diamonds||RPG,||||Sir-Tech|1982
+194846|Wizardry Scenario 3 - The Legacy Of Llylgamyn|Wizardry Scenario 3 - The Legacy Of Llylgamyn||Role playing games,|1||||
+194847|Wizardry V - Heart Of The Maelstrom|Wizardry V - Heart Of The Maelstrom||RPG,|||||
+194848|Woodsman Disk Vol. 3|Woodsman Disk Vol. 3|||||||
+194849|Woody Poco|Woody Poco||Action,||||dB-SOFT;Minassan Omedetou Yokattane|1986
+194850|World Golf|World Golf||Action,Sports,Golf,,||||Enix&nbsp;Corporation|1986
+194851|World Golf 2|World Golf 2||Action,Sports,Golf,,||||RufusPro&nbsp;Software|1990
+194852|World Golf 3|World Golf 3|||||||
+194853|Xabungle - Blue Gale|Xabungle - Blue Gale|||||||
+194854|Xak|Xak|AIR|RPG,||||Microcabin|1992
+194855|Xak - The Tower Of Gazzel|Xak - The Tower Of Gazzel|||||||
+194856|Xak 2|Xak 2|||||||
+194857|Xanadu|Xanadu||Platformer,|||||
+194858|Xevious|Xevious||Action,Platformer,|||Namco&nbsp;Limited|Enix&nbsp;Corporation|
+194859|Xna|Xna|AIR|Action,Platformer,|||FairyTale|FairyTale|
+194860|Xtal Digital Juke Box|Xtal Digital Juke Box|||||||
+194861|Xylos|Xylos||Action,|||||
+194862|Xzr|Xzr|AIR|Action,Platformer,|||Renovation&nbsp;Game|Telenet&nbsp;Japan&nbsp;Co.,&nbsp;Ltd.|
+194863|Xzr 2|Xzr 2||RPG,|||||
+194864|Yajiuma Pennant Race|Yajiuma Pennant Race||Adventure,|||||1988
+194865|Yajiuma Pennant Race 2|Yajiuma Pennant Race 2|||||||
+194866|Yaksa|Yaksa||Action,|||||
+194867|Yaksa Music Disk|Yaksa Music Disk|||||||
+194868|Yakyuu Dou|Yakyuu Dou|||||||
+194869|Yakyuu Dou 2|Yakyuu Dou 2|||||||
+194870|Yakyuu Kyou|Yakyuu Kyou|||||||
+194871|Yami No Iyo Densetsu|Yami No Iyo Densetsu|||||||
+194872|Yaritai Houdai|Yaritai Houdai||Adventure,|||||1988
+194873|Yellow Lemon|Yellow Lemon||Simulation,|||PSK|PSK|
+194874|Yoake No Merry-go-round|Yoake No Merry-go-round|||||||
+194875|Yojigenshoujo Lidia|Yojigenshoujo Lidia|||||||
+194876|Yoru No Tenshitachi - Shitetsu Ensen Satsujin Jiken|Yoru No Tenshitachi - Shitetsu Ensen Satsujin Jiken|||||||
+194877|Youkai Tantei Chimachima|Youkai Tantei Chimachima|||||||
+194878|Youkiden|Youkiden||Adventure,Adult,|||||1987
+194879|Ys|Ys|AIR|Adventure,|||Nihon Falcom||
+194880|Ys 2|Ys 2|||||Nihon Falcom||
+194881|Yume No Fantasia|Yume No Fantasia|||||||
+194882|Yuugai Comic Mondai Demo|Yuugai Comic Mondai Demo|||||||
+194883|Yuugekitai|Yuugekitai||Adventure,|||||
+194884|Yuugekitai Bangai Hen|Yuugekitai Bangai Hen|||||||
+194885|Yuunagi No Horizon|Yuunagi No Horizon|||||||
+194886|Z Gundam|Z Gundam||Action,|||||
+194887|Zan - Yaksa Enbukyoku|Zan - Yaksa Enbukyoku|||||||
+194888|Zarth|Zarth||Adventure,|||Studio&nbsp;Jandora|Enix&nbsp;Corporation|1984
+194889|Zavas|Zavas||Adventure,|||Glodia|Popcom&nbsp;Soft|1984
+194890|Zeliard|Zeliard||Action,RPG,Platform,,|||Game&nbsp;Arts&nbsp;Co.,&nbsp;Ltd.|Game&nbsp;Arts&nbsp;Co.,&nbsp;Ltd.|1987
+194891|Zenkoku Nanpa Shugyou - Tasogare No Kyouto Hen|Zenkoku Nanpa Shugyou - Tasogare No Kyouto Hen|||||||
+194892|Zeta|Zeta|AIR|Quiz,Adult,Miscellaneous,|||||
+194893|Zeta No. 3|Zeta No. 3|||||||
+194894|Zeta No. 4|Zeta No. 4|||||||
+194895|Zeta No. 5|Zeta No. 5|||||||
+194896|Zeta Soukan 2gou|Zeta Soukan 2gou|||||||
+194897|Zoom In Space|Zoom In Space||Action,Shooter,|||Riverhill&nbsp;Soft&nbsp;Inc.|Riverhill&nbsp;Soft&nbsp;Inc.|1983

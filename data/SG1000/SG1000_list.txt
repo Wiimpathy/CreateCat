@@ -1,11 +1,11 @@
 65728A|007 James Bond|007 James Bond||Shooter,Shoot'em Up,|1||Tsukuda Original|Tsukuda Original|1983
-65692A|Bank Panic|Bank Panic||Action,Gun shooter|1||Sanritsu Denki Co., Ltd.|Sega|1985
+65692A|Bank Panic|Bank Panic||Action,Gun shooter,|1||Sanritsu Denki Co., Ltd.|Sega|1985
 65693A|Black Onyx, The|Black Onyx, The||Role playing games,|1||Bullet-Proof Software, Inc.|Sega|1987
-65694A|Bomb Jack|Bomb Jack||Action,Arcade|2||Tehkan Ltd.|Sega|1985
+65694A|Bomb Jack|Bomb Jack||Action,Arcade,|2||Tehkan Ltd.|Sega|1985
 102098|Bomberman Special|Bomberman Special||Action,|1||Hudson|DahJee|
-65695A|Borderline|Borderline||Action,Arcade|1||Compile|Sega|1983
-65764A|Castle, The|The Castle||Action,Arcade|1||ASCII Corporation|Sega|1986
-65697A|Chack'n Pop|Chack'n Pop||Action,Arcade|2||Taito|Sega|1985
+65695A|Borderline|Borderline||Action,Arcade,|1||Compile|Sega|1983
+65764A|Castle, The|The Castle||Action,Arcade,|1||ASCII Corporation|Sega|1986
+65697A|Chack'n Pop|Chack'n Pop||Action,Arcade,|2||Taito|Sega|1985
 65770A|Challenge Derby|Challenge Derby||Sports,Sports with Animals,Horses race,|1||Tsukuda Original|Tsukuda Original|1984
 65698A|Champion Baseball|Champion Baseball||Sports,Sports / Baseball,|2||Alpha Denshi Co., Ltd.|Sega|1983
 65699A|Champion Billiards|Champion Billiards|Champion Billards|Sports,Sports / Pool,|2||Compile|Sega|1986
@@ -16,62 +16,62 @@
 65704A|Champion Pro Wrestling|Champion Pro Wrestling||Sports,Sports / Wrestling,|2||Sega|Sega|1985
 65705A|Champion Soccer|Champion Soccer||Sports,Sports / Soccer,|2||Sega|Sega|1984
 65706A|Champion Tennis|Champion Tennis||Sports,Sports / Tennis,|2||Sega|Sega|1983
-65707A|Championship Lode Runner|Championship Lode Runner||Action,|1||Compile|Sega|1985
-65708A|Choplifter|Choplifter||Action,Shooter|1||Compile|Sega|1985
-65771A|Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen)|Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen)|||1||Stratford Computer|Sega|1983
-172286|Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen)|Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen)|||||Stratford Computer Center|Sega|
-65772A|Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen)|Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen)|||1||Stratford Computer|Sega|1983
-102224|Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen)|Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen)|||1||Stratford Computer|Sega|1983
-65773A|Chuugaku Hisshuu Eitango (Chuugaku 1-Nen)|Chuugaku Hisshuu Eitango (Chuugaku 1-Nen)|||1||Stratford Computer|Sega|1983
-102225|Chuugaku Hisshuu Eitango (Chuugaku 2-Nen)|Chuugaku Hisshuu Eitango (Chuugaku 2-Nen)|||1||Stratford Computer|Sega|1983
-65709A|Congo Bongo|Congo Bongo||Action,Arcade|1||Sega|Sega|1983
+65707A|Championship Lode Runner|Championship Lode Runner||Action,Puzzle,Arcade,Platform,,|1||Compile|Sega|1985
+65708A|Choplifter|Choplifter||Action,Shooter,|1||Compile|Sega|1985
+65771A|Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen)|Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen)||Educational,|1||Stratford Computer|Sega|1983
+172286|Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen)|Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen)||Educational,|||Stratford Computer Center|Sega|
+65772A|Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen)|Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen)||Educational,|1||Stratford Computer|Sega|1983
+102224|Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen)|Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen)||Educational,|1||Stratford Computer|Sega|1983
+65773A|Chuugaku Hisshuu Eitango (Chuugaku 1-Nen)|Chuugaku Hisshuu Eitango (Chuugaku 1-Nen)||Educational,|1||Stratford Computer|Sega|1983
+102225|Chuugaku Hisshuu Eitango (Chuugaku 2-Nen)|Chuugaku Hisshuu Eitango (Chuugaku 2-Nen)||Educational,|1||Stratford Computer|Sega|1983
+65709A|Congo Bongo|Congo Bongo||Action,Arcade,|1||Sega|Sega|1983
 65710A|C_so!|C_So!|Ys|Action,Adventure|1||Compile|Sega|1985
 65711A|Doki Doki Penguin Land|Doki Doki Penguin Land||Puzzle-Game,|2||Sega|Sega|1985
-65712A|Dragon Wang|Dragon Wang||Action|2||Sega|Sega|1985
-65713A|Drol|Drol|ALF|Action,Arcade|1||Sega|Sega|1985
-65714A|Elevator Action|Elevator Action||Action,Arcade|1||Taito|Sega|1985
+65712A|Dragon Wang|Dragon Wang||Action,Arcade,Platform,,|2||Sega|Sega|1985
+65713A|Drol|Drol|ALF|Action,Arcade,|1||Sega|Sega|1985
+65714A|Elevator Action|Elevator Action||Action,Arcade,|1||Taito|Sega|1985
 65715A|Exerion|Exerion||Shooter,Shoot'em Up,|2||Jaleco|Sega|1983
-65716A|Flicky|Flicky||Action,Arcade|1||Sega|Sega|1984
-65718A|Girl's Garden|Girl's Garden||Action,Arcade|2||Sega|Sega|1984
-65719A|Golgo 13|Golgo 13||Action,Gun shooter|1||Sega|Sega|1984
+65716A|Flicky|Flicky||Action,Arcade,|1||Sega|Sega|1984
+65718A|Girl's Garden|Girl's Garden||Action,Arcade,|2||Sega|Sega|1984
+65719A|Golgo 13|Golgo 13||Action,Gun shooter,|1||Sega|Sega|1984
 65720A|Gp World|GP World||Race, Driving,|1||Sega|Sega|1985
 65721A|Gulkave|Gulkave||Shooter,Shoot'em Up,|2||Compile|Sega|1986
-65722A|Guzzler|Guzzler||Action,Arcade|1||Tsukuda Original|Tsukuda Original|1983
-65723A|H.e.r.o.|H.E.R.O.||Action|2||Sega|Sega|1985
+65722A|Guzzler|Guzzler||Action,Arcade,|1||Tsukuda Original|Tsukuda Original|1983
+65723A|H.e.r.o.|H.E.R.O.||Action,Arcade,Platform,,|2||Sega|Sega|1985
 65724A|Hang-on 2|Hang-On II||Race, Driving,|1||Sega|Sega|1985
-65775A|Home Basic|Home Basic|||||Mitec|Sega|
+65775A|Home Basic|Home Basic||Software,|||Mitec|Sega|
 65725A|Home Mahjong|Home Mahjong||Puzzle-Game,Mahjong,Asiatic board game,|2||Sega|Sega|1984
 65726A|Hustle Chumy|Hustle Chumy|Hustle Chummy|Action,Arcade|1||Compile|Sega|1984
 65727A|Hyper Sports|Hyper Sports||Sports,|2||Konami|Sega|1985
-102226|Kagaku|Kagaku|Klax|,Puzzle|1||Stratford Computer|Sega|1983
-102099|King's Valley|King's Valley||Action,|1||Aaronix|DahJee|
-102100|Knightmare|Knightmare|||1||Konami|Jumbo|
-102101|Legend of Kage, The|Legend of Kage, The|||2||Taito|DahJee|
-65729A|Lode Runner|Lode Runner|Loderunner|Action,Arcade|1||Compile|Sega|1984
+102226|Kagaku|Kagaku|Klax|Educational,|1||Stratford Computer|Sega|1983
+102099|King's Valley|King's Valley||Action,Arcade,Platform,,|1||Aaronix|DahJee|
+102100|Knightmare|Knightmare||Adventure,,|1||Konami|Jumbo|
+102101|Legend of Kage, The|Legend of Kage, The||Action,Platform,|2||Taito|DahJee|
+65729A|Lode Runner|Lode Runner|Loderunner|Action,Puzzle,Platform,,|1||Compile|Sega|1984
 102102|Magical Kid Wiz|Magical Kid Wiz||Action,|1||Sony|Aaronix|1986
 65730A|Mahjong|Mahjong|Zaxxon|Puzzle-Game,Mahjong,Asiatic board game,|1||Sega|Sega|1983
 65732A|Monaco Gp|Monaco GP||Race, Driving,|1||Sega|Sega|1983
-102227|Music|Music|Ys|,Music|1||Mitec|Sega|1983
+102227|Music|Music|Ys|Simulation,,|1||Mitec|Sega|1983
 65735A|N-sub|N-Sub||Shooter,|2||Compile|Sega|1983
-102228|Nihonshi Nenpyou|Nihonshi Nenpyou|Nihonshi Ninpyou|,Educational|1||Stratford Computer|Sega|1983
-65734A|Ninja Princess|Ninja Princess||Action|1||Sega|Sega|1986
+102228|Nihonshi Nenpyou|Nihonshi Nenpyou|Nihonshi Ninpyou|Educational,|1||Stratford Computer|Sega|1983
+65734A|Ninja Princess|Ninja Princess||Action,Arcade,Shooter,,|1||Sega|Sega|1986
 65779A|Okamoto Ayako No Match Play Golf|Okamoto Ayako no Match Play Golf||Sports,Sports / Golf,|2||Tsukuda Original|Tsukuda Original|1984
 65737A|Orguss|Orguss||Shooter,Shoot'em Up,|1||Sega|Sega|1984
 65738A|Othello|Othello||Puzzle-Game,Asiatic board game,|2||Tsukuda Original|Sega|1985
-65739A|Pacar|Pacar||Action,Arcade|1||Sega|Sega|1983
+65739A|Pacar|Pacar||Action,Arcade,|1||Sega|Sega|1983
 65740A|Pachinko|Pachinko|Pachinko 2|Puzzle-Game,Casino,|1||Sega|Sega|1983
 65741A|Pachinko 2|Pachinko II||Puzzle-Game,Casino,|1||Sega|Sega|1984
-140812|Pippols|Pippols|||1||Konami|Jumbo|
+140812|Pippols|Pippols||Action,Arcade,Shooter,,|1||Konami|Jumbo|
 65742A|Pitfall 2 - The Lost Caverns|Pitfall II - The Lost Caverns||Platform,|2||Activision|Sega|1985
-65743A|Pop Flamer|Pop Flamer||Action,Arcade|2||Jaleco|Sega|1983
-65744A|Q*bert|Q*bert|Q-bert|Action,Arcade|1||Tsukuda Original|Tsukuda Original|1983
-102103|Rally-x|Rally-x||Action,|1||Namco|DahJee|
-102104|Road Fighter|Road Fighter|||1||Konami|Jumbo|
+65743A|Pop Flamer|Pop Flamer||Action,Arcade,|2||Jaleco|Sega|1983
+65744A|Q*bert|Q*bert|Q-bert|Action,Arcade,,|1||Tsukuda Original|Tsukuda Original|1983
+102103|Rally-x|Rally-x||Action,Racing,Arcade,,|1||Namco|DahJee|
+102104|Road Fighter|Road Fighter||Racing,Arcade,,|1||Konami|Jumbo|
 65745A|Rock N' Bolt|Rock n' Bolt||Puzzle-Game,|2||Activision|Sega|1985
 65747A|Safari Hunting|Safari Hunting|Safari Hunt|Shooter,|2||Compile|Sega|1983
 65748A|Safari Race|Safari Race||Race, Driving,|1||Sega|Sega|1984
 65780A|Sannin Mahjong|San-nin Mahjong||Mahjong,Asiatic board game,|3||Tsukuda Original|Tsukuda Original|1984
-65749A|Sega Flipper|Sega Flipper||Action,|2||Sega|Sega|1983
+65749A|Sega Flipper|Sega Flipper||Action,Arcade,Pinball,,|2||Sega|Sega|1983
 65717A|Sega-galaga|Sega Galaga||Shoot'em Up,|2||Sega|Sega|1983
 102229|Sekaishi Nenpyou|Sekaishi Nenpyou|||1||Stratford Computer|Sega|1983
 65750A|Serizawa Hachidan No Tsumeshogi|Serizawa Hachidan No Tsumeshogi||Puzzle-Game,Casual Game,|1||Sega|Sega|1983
@@ -84,18 +84,18 @@
 65757A|Space Slalom|Space Slalom||Shooter,Action,|2||Orca|Sega|1983
 65758A|Star Force|Star Force||Shooter,|1||Sega|Sega|1985
 65759A|Star Jacker|Star Jacker||Shooter,Shoot'em Up,|2||Sega|Sega|1983
-140813|Star Soldier|Star Soldier|||1||Hudson Soft||
+140813|Star Soldier|Star Soldier||Action,Arcade,Shooter,,|1||Hudson Soft||
 65761A|Super Tank|Super Tank||Shooter,|2||Sega|Sega|1986
-102105|Tank Battalion|Tank Battalion||Action,|1||Namco|DahJee|
-102230|Tanoshii Sansuu (Elementary School 4th, vol.1)|Tanoshii Sansuu (Elementary School 4th, vol.1)|||||Stratford Computer Center|Sega|
-167354|Tanoshii Sansuu (Shougaku 5-Nen Jou)|Tanoshii Sansuu (Shougaku 5-Nen Jou)|||||||
-167355|Tanoshii Sansuu (Shougaku 6-Nen Ge)|Tanoshii Sansuu (Shougaku 6-Nen Ge)|||||Stratford Computer Center|Sega|
-65762A|Terebi Oekaki|Terebi Oekaki||Action,Drawing|1||Sega|Sega|1986
+102105|Tank Battalion|Tank Battalion||Action,Arcade,Shooter,,|1||Namco|DahJee|
+102230|Tanoshii Sansuu (Elementary School 4th, vol.1)|Tanoshii Sansuu (Elementary School 4th, vol.1)||Educational,|||Stratford Computer Center|Sega|
+167354|Tanoshii Sansuu (Shougaku 5-Nen Jou)|Tanoshii Sansuu (Shougaku 5-Nen Jou)||Educational,|||||
+167355|Tanoshii Sansuu (Shougaku 6-Nen Ge)|Tanoshii Sansuu (Shougaku 6-Nen Ge)||Educational,|||Stratford Computer Center|Sega|
+65762A|Terebi Oekaki|Terebi Oekaki||Action,Drawing,|1||Sega|Sega|1986
 102106|Twinbee|Twinbee||Shooter,Shoot'em Up,|2||Konami|Jumbo|
-129673|Uranai Angel Cutie|Uranai Angel Cutie|||1||Sega|Sega|1984
+129673|Uranai Angel Cutie|Uranai Angel Cutie||Miscellaneous,|1||Sega|Sega|1984
 65765A|Wonder Boy|Wonder Boy||Action,Platform,|2||Sega|Sega|1986
 65766A|Yamato|Yamato|Pacar|Shooter,Shoot'em Up,|2||Sega|Sega|1983
-102107|Yie Ar Kung-fu 2|Yie Ar Kung-fu 2|||2||Konami|DahJee|
+102107|Yie Ar Kung-fu 2|Yie Ar Kung-fu 2||Beat'em Up,|2||Konami|DahJee|
 65767A|Zaxxon|Zaxxon||Shooter,Shoot'em Up,|1||Sega|Sega|1985
 65768A|Zippy Race|Zippy Race||Race, Driving,|1||Sega|Sega|1983
 65769A|Zoom 909|Zoom 909||Shooter,Shoot'em Up,|2||Sega|Sega|1985

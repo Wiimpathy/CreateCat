@@ -1,4 +1,4 @@
-36846A|007 - The World Is Not Enough|007: The World is Not Enough||Action|2||2n Productions|Electronic Arts|2001
+36846A|007 - The World Is Not Enough|007: The World is Not Enough||Action,Adventure,|2||2n Productions|Electronic Arts|2001
 46335A|10-pin Bowling|10-Pin Bowling||Sports,Sports / Bowling,|1||Morning Star Multimedia|Majesco Games|1999
 36847A|1942|1942||Shoot'em up / Vertical,Shoot'em Up,Action,|2||Capcom|Capcom|2000
 82374A|Le Mans 24 Hours|Le Mans 24 Hours||Race, Driving,|||Infogrames|Infogrames|2000
@@ -6,686 +6,686 @@
 82993A|31 In 1|31 in 1|||||Sachen||
 46337A|3d Pocket Pool|3D Pocket Pool||Sports / Pool,Sports,|2||Aardvark Software|Virgin|2001
 82995A|4 In 1 + 8 In 1|4 in 1 + 8 in 1|||||||
-142727|55 Game Hk|55 Game Hk||,Compilation|||||
+142727|55 Game Hk|55 Game Hk||Compilation,|||||
 173145|58-in-1|58-in-1|||||||
 36848A|720 Degrees|720 Degrees||Sports,|1||Atari|Midway|1999
 36849A|Action Man - Search For Base X|Action Man: Search for Base X||Shooter,Action,|1||Natsume Co., Ltd.|THQ|2001
-82084A|Deadly Skies|Airforce Delta||Action|2||Climax Group, The|Konami|2000
+82084A|Deadly Skies|Airforce Delta||Action,Shooter,|2||Climax Group, The|Konami|2000
 46343A|Alfred's Adventure|Alfred's Adventure||Adventure,|1||Mobius Entertainment|Mobius - SCi|2000
-37226A|Walt Disney's Alice In Wonderland|Walt Disney's Alice in Wonderland||Action,|2||Digital Eclipse|Nintendo|2001
+37226A|Walt Disney's Alice In Wonderland|Walt Disney's Alice in Wonderland||Action,Platform,,|2||Digital Eclipse|Nintendo|2001
 46344A|Aliens - Thanatos Encounter|Aliens - Thanatos Encounter||Action|1||Crawfish Interactive|THQ|2001
 37030A|All Star Tennis 2000|All Star Tennis 2000||Sports,|2||Smart Dog|Ubisoft|1999
 36852A|All-star Baseball 2000|All-Star Baseball 2000||Sports,|1||Realtime Associates Seattle Division|Acclaim Entertainment|1999
-37029A|All-star Baseball 2001|All-Star Baseball 2001||Sports,|1||Griptonite Games|Acclaim Entertainment|
-37031A|Alone In The Dark - The New Nightmare|Alone in the Dark: The New Nightmare||Adventure,Action,|1||Pocket Studios|Infogrames|
-152670|Amazing Robot|Amazing Robot|||||||
+37029A|All-star Baseball 2001|All-Star Baseball 2001||Sports,|1||Griptonite Games|Acclaim Entertainment|2000
+37031A|Alone In The Dark - The New Nightmare|Alone in the Dark: The New Nightmare||Adventure,Action,|1||Pocket Studios|Infogrames|2001
+152670|Amazing Robot|Amazing Robot||Action,||||Gowin|1
 79428A|Animal Breeder 3|Animal Breeder 3|Animal Breeder|Role-Playing,|1||J-Wing|J-Wing|1999
 81927A|Animal Breeder 4|Animal Breeder 4|Animal Breeder|Role-Playing,|1||J-Wing|J-Wing|2001
-81928A|Animastar Gb|Animastar GB||,RPG|||||
+81928A|Animastar Gb|Animastar GB||RPG,||||AKI Corporation|2001
 36853A|Animorphs|Animorphs||Role playing games,|1||Run and Gun!|Ubisoft|2000
 81930A|Aqualife|Aqualife||Strategy,|1||Tamsoft Corporation|Tamsoft Corporation|1999
 81932A|Arcade Hits - Joust And Defender|Arcade Hits - Joust & Defender|||||Digital Eclipse|Midway|
 81934A|Arcade Hits - Moon Patrol And Spy Hunter|Arcade Hits - Moon Patrol & Spy Hunter|||||Digital Eclipse|Midway|
-36855A|Arle No Bouken - Mahou No Jewel|Arle no Bouken: Mahou no Jewel||Role playing games,|2||Compile|Compile|
-81937A|Armada - Fx Racers|Armada : FX Racers||,Racing|||||
-36856A|Armorines - Project S.w.a.r.m.|Armorines: Project S.W.A.R.M.||Shooter,Action,|1||NEON Software GmbH|Acclaim Entertainment|
+36855A|Arle No Bouken - Mahou No Jewel|Arle no Bouken: Mahou no Jewel||Role playing games,|2||Compile|Compile|2000
+81937A|Armada - Fx Racers|Armada : FX Racers||Racing,|||||2000
+36856A|Armorines - Project S.w.a.r.m.|Armorines: Project S.W.A.R.M.||Shooter,Action,|1||NEON Software GmbH|Acclaim Entertainment|1999
 36857A|Army Men|Army Men||Strategy,|1||Digital Eclipse|3DO|1999
-81940A|Army Men - Air Combat|Army Men - Air Combat||,Action|||Fluid Studios|3DO|
+81940A|Army Men - Air Combat|Army Men - Air Combat||Action|||Fluid Studios|3DO|2000
 37034A|Army Men 2|Army Men II||Strategy,|||Cosmigo|Digital Eclipse Software, Inc.|3DO
-37035A|Army Men - Sarge's Heroes 2|Army Men: Sarge's Heroes 2||Shooter,Action,|||3d6 Games|3DO|
+37035A|Army Men - Sarge's Heroes 2|Army Men: Sarge's Heroes 2||Shooter,Action,|||3d6 Games|3DO|2000
 81942A|Arthur's Absolutely Fun Day!|Arthur's Absolutely Fun Day!||Action,Education,|||Ed Magnin and Associates|The Learning Company|2000
-36858A|Asterix And Obelix|Asterix & Obelix||Action,|1||Bit Managers|Infogrames Multimedia SA|1999
+36858A|Asterix And Obelix|Asterix & Obelix||Action,Platform,,|1||Bit Managers|Infogrames Multimedia SA|1999
 37036A|Astérix - Sur La Trace D'idéfix|Astérix : Sur la Trace d'Idéfix||Platform,|1||Rebellion Developments Ltd.|Infogrames|2000
 81943A|Asterix And Obelix Vs Caesar|Asterix & Obelix vs Caesar|||||Tek 5|Cryo Interactive|2000
 36859A|Asteroids|Asteroids|Asterix|Shooter,Action,|2||Syrox Developments, Ltd.|Activision|1999
 176630|ATC : Air Traffic Control Simulation|ATC : Air Traffic Control Simulation|||||||
 81946A|Atlantis - The Lost Empire|Atlantis - The Lost Empire||Platform,|||Eurocom Entertainment Software|THQ|2001
-81948A|Atsumete Asobu Kuma No Pooh-san - Mori No Takaramono|Atsumete Asobu Kuma no Pooh-san - Mori no Takaramo||,Adventure|1||Tomy|Tomy|
-81949A|Atv Racing|ATV Racing|Antz Racing|,Racing|||||
+81948A|Atsumete Asobu Kuma No Pooh-san - Mori No Takaramono|Atsumete Asobu Kuma no Pooh-san - Mori no Takaramo||Adventure,|1||Tomy|Tomy|2000
+81949A|Atv Racing|ATV Racing|Antz Racing|Racing,||||Rocket|2001
 81950A|Atv Racing And Karate Joe|ATV Racing & Karate Joe|||||||
-36860A|Austin Powers - Oh Behave!|Austin Powers: Oh Behave!|Austin Powers - Oh, Behave!|Action,Compilation|2||Tarantula Studios|Take-Two Interactive Software, Inc.|2000
-37037A|Austin Powers - Welcome To My Underground Lair|Austin Powers: Welcome to My Underground Lair|Austin Powers - Welcome to My Underground Lair!|Action,Compilation|2||Tarantula Studios|Take-Two Interactive Software, Inc.|
-81956A|Azarashi Sentai Inazuma - Dokidoki Daisakusen!|Azarashi Sentai Inazuma - Dokidoki Daisakusen!||,Music|||Omega Micott Inc.|Omega Micott Inc.|2002
+36860A|Austin Powers - Oh Behave!|Austin Powers: Oh Behave!|Austin Powers - Oh, Behave!|Action,Arcade,Platform,,|2||Tarantula Studios|Take-Two Interactive Software, Inc.|2000
+37037A|Austin Powers - Welcome To My Underground Lair|Austin Powers: Welcome to My Underground Lair|Austin Powers - Welcome to My Underground Lair!|Action,Compilation|2||Tarantula Studios|Take-Two Interactive Software, Inc.|2000
+81956A|Azarashi Sentai Inazuma - Dokidoki Daisakusen!|Azarashi Sentai Inazuma - Dokidoki Daisakusen!||Music,|1||Omega Micott Inc.|Omega Micott Inc.|2002
 36861A|Azure Dreams|Azure Dreams||Role playing games,|1||Konami|Konami|2000
-81988A|B-daman Bakugaiden - Victory E No Michi|B-Daman Bakugaiden - Victory e no Michi|||||||
-81987A|B-daman Bakugaiden 5 - Final Mega Tune|B-Daman Bakugaiden V - Final Mega Tune||,RPG|||||
-36862A|Babe And Friends|Babe and Friends||Puzzle-Game,Strategy,|1||Aqua Pacific|Crave Entertainment, Inc.|
+81988A|B-daman Bakugaiden - Victory E No Michi|B-Daman Bakugaiden - Victory e no Michi||Role-Playing,|2|||Media Factory|1999
+81987A|B-daman Bakugaiden 5 - Final Mega Tune|B-Daman Bakugaiden V - Final Mega Tune||RPG,|||||
+36862A|Babe And Friends|Babe and Friends||Puzzle-Game,Strategy,|1||Aqua Pacific|Crave Entertainment, Inc.|1999
 81957A|Baby Felix - Halloween|Baby Felix - Halloween||Platform,|1||Bit Managers|Light & Shadow Productions|2001
 81959A|Backgammon|Backgammon||Puzzle-Game,|1||Altron|JVC Music Europe|2000
-81960A|Bad Badtz-maru Robo Battle|Bad Badtz-Maru Robo Battle|||||TOSE|Imagineer|2001
-81961A|Bakukyuu Renpatsu!! Super B-daman - Gekitan! Rising Valkyrie!!|Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Risin|Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyre!!|,RPG|||||
-81962A|Bakusou Dekotora Densetsu Gb Special - Otoko Dokyou No Tenka Touitsu|Bakusou Dekotora Densetsu GB Special - Otoko Dokyo||,Adventure|||||
-81963A|Bakusou Senki Metal Walker Gb - Koutetsu No Yuujou|Bakusou Senki Metal Walker GB - Koutetsu no Yuujou||,RPG|||||
-81964A|Bakuten Shoot Beyblade|Bakuten Shoot Beyblade||,Adventure|||||
+81960A|Bad Badtz-maru Robo Battle|Bad Badtz-Maru Robo Battle||Action,|1||TOSE|Imagineer|2001
+81961A|Bakukyuu Renpatsu!! Super B-daman - Gekitan! Rising Valkyrie!!|Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Risin|Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyre!!|,RPG||||Takara|2000
+81962A|Bakusou Dekotora Densetsu Gb Special - Otoko Dokyou No Tenka Touitsu|Bakusou Dekotora Densetsu GB Special - Otoko Dokyo||Adventure,|||||2000
+81963A|Bakusou Senki Metal Walker Gb - Koutetsu No Yuujou|Bakusou Senki Metal Walker GB - Koutetsu no Yuujou||RPG,|||||
+81964A|Bakuten Shoot Beyblade|Bakuten Shoot Beyblade||Action,Sports,||||Broccoli;Hudson Soft|2001
 36863A|Ballistic|Ballistic||Puzzle-Game,Strategy,|2||Mitchell Corporation|Infogrames|1999
 176631|Balloon Balloon|Balloon Balloon|||||||
-81965A|Balloon Fight Gb|Balloon Fight GB||,Arcade|||||
-81972A|Barbie - Fashion Pack Games|Barbie - Fashion Pack Games||,Arcade|||Hyperspace Cowgirls|Mattel|
-81969A|Barbie - Chasse Au Tresor Sous-marine|Barbie - Ocean Discovery||,Platform|||Realtime Associates|Mattel|
-81973A|Barbie - Magic Genie Adventure|Barbie : Magic Genie Adventure||,Adventure|||Vicarious Visions|Mattel|
-36865A|Barbie Pet Rescue|Barbie Pet Rescue|Barbie - Pet Rescue|Adventure,Various,|1||HotGen Studios Ltd.|Mattel Interactive|
+81965A|Balloon Fight Gb|Balloon Fight GB||Platformer,|2|||Pax Softnica|2000
+81972A|Barbie - Fashion Pack Games|Barbie - Fashion Pack Games||Arcade,|||Hyperspace Cowgirls|Mattel|2000
+81969A|Barbie - Chasse Au Tresor Sous-marine|Barbie - Ocean Discovery||Platform,|||Realtime Associates|Mattel|
+81973A|Barbie - Magic Genie Adventure|Barbie : Magic Genie Adventure||Adventure,|||Vicarious Visions|Mattel|2000
+36865A|Barbie Pet Rescue|Barbie Pet Rescue|Barbie - Pet Rescue|Adventure,Various,|1||HotGen Studios Ltd.|Mattel Interactive|2001
 81982A|Barcode Taisen Bardigun|Barcode Taisen Bardigun||Role-Playing,|||Graphic Research|Tamsoft Corporation|1998
 36867A|Bass Masters Classic|Bass Masters Classic||Sports,|1||Natsume Co., Ltd.|THQ|1999
 82523A|New Batman Adventures - Chaos in Gotham, The|Batman - Chaos in Gotham||Action,|||Digital Eclipse|Ubisoft|
-36868A|Batman Beyond - Return Of The Joker|Batman Beyond: Return of the Joker||Fight,Action,|1||Kemco|Ubisoft|
-81986A|Battleship|Battleship||,Battleship|||||
+36868A|Batman Beyond - Return Of The Joker|Batman Beyond: Return of the Joker||Fight,Action,|1||Kemco|Ubisoft|2000
+81986A|Battleship|Battleship||Board game,||||Majesco|1999
 36869A|Battletanx|BattleTanx|Battle Tanx|Shooter,Action,|1||Lucky Chicken Games, Inc.|3DO|2000
-81989A|Beach'n Ball|Beach'n Ball||,Volleyball|||||
-82996A|Beast Fighter|Beast Fighter|||||||
-81991A|Beatmania Gb|Beatmania GB||,Music|||||
+81989A|Beach'n Ball|Beach'n Ball||Volleyball,|||||
+82996A|Beast Fighter|Beast Fighter||Action,|1|||Sachen|2000
+81991A|Beatmania Gb|Beatmania GB||Rhythm,||||Konami Computer Entertainment Kobe|1999
 81992A|Beatmania Gb - Gotcha Mix 2|Beatmania GB - Gotcha Mix 2|||||||
-81993A|Beatmania Gb2 - Gotcha Mix|Beatmania GB2 - Gotcha Mix|||||||
-81996A|Benjamin Bluemchen - Ein Verrueckter Tag Im Zoo|Benjamin Bluemchen - Ein verrueckter Tag im Zoo||,Platform|||BVM Produktion GmbH|KIDDINX Entertainment GmbH|2001
+81993A|Beatmania Gb2 - Gotcha Mix|Beatmania GB2 - Gotcha Mix||Music,|1|||Konami|1999
+81996A|Benjamin Bluemchen - Ein Verrueckter Tag Im Zoo|Benjamin Bluemchen - Ein verrueckter Tag im Zoo||Platform,|||BVM Produktion GmbH|KIDDINX Entertainment GmbH|2001
 176632|Berzerk Legends|Berzerk Legends|||||||
-81997A|Beyblade - Fighting Tournament|Beyblade - Fighting Tournament|||||||
+81997A|Beyblade - Fighting Tournament|Beyblade - Fighting Tournament||Action,|1|||Hudson Entertainment|2000
 36870A|Bibi Blocksberg - Im Bann Der Hexenkugel|Bibi Blocksberg: Im Bann der Hexenkugel||Action,Adventure,|1||BVM Produktion GmbH|KIDDINX Entertainment GmbH|2001
-81999A|Bibi Und Tina - Fohlen Felix In Gefahr|Bibi und Tina - Fohlen Felix in Gefahr|||||||
-82000A|Bikkuriman 2000 - Charging Card Gb|Bikkuriman 2000 - Charging Card GB||,Cards|||||
-82001A|Billy Bob's Huntin' 'n' Fishin'|Billy Bob's Huntin' 'n' Fishin'||,Sports|||Saffire|Midway|
-36871A|Bionic Commando - Elite Forces|Bionic Commando: Elite Forces||Fight,Action,|1||Nintendo|Nintendo|
+81999A|Bibi Und Tina - Fohlen Felix In Gefahr|Bibi und Tina - Fohlen Felix in Gefahr||Adventure,||||KIDDINX Entertainment GmbH|2002
+82000A|Bikkuriman 2000 - Charging Card Gb|Bikkuriman 2000 - Charging Card GB||Cards,|||||2000
+82001A|Billy Bob's Huntin' 'n' Fishin'|Billy Bob's Huntin' 'n' Fishin'||Action,Shooter,|||Saffire|Midway|1999
+36871A|Bionic Commando - Elite Forces|Bionic Commando: Elite Forces||Fight,Action,|1||Nintendo|Nintendo|1999
 37040A|Black Bass - Lure Fishing|Black Bass: Lure Fishing||Sports,|1||Hot-B Co., Ltd.|Majesco Sales, Inc.|1992
-82852A|Black Onyx, The|Black Onyx, The||,RPG|||||
+82852A|Black Onyx, The|Black Onyx, The||RPG,|||||2001
 36872A|Blade|Blade|Bamse|Fight,Action,|1||HAL Corporation|Activision|2000
-82759A|Snow White And The Seven Dwarfs|Snow White and the Seven Dwarfs||,Platform|||Disney Interactive|Ubisoft|2001
+82759A|Snow White And The Seven Dwarfs|Snow White and the Seven Dwarfs||Platformer,|||Disney Interactive|Ubisoft|2001
 167279|Blastah|Blastah|Blade|,Adventure|||||
-37041A|Blaster Master - Enemy Below|Blaster Master: Enemy Below||Action,Platform|1||Sunsoft|Sunsoft|
-82008A|Blue's Clues - Blue's Alphabet Book|Blue's Clues : Blue's Alphabet Book||,Educational|||||
-82807A|Supreme Snowboarding|Boarder Zone||Sports,|1||Infogrames|Infogrames|
-82009A|Bob Et Bobette - Les Dompteurs Du Temps|Bob Et Bobette - Les Dompteurs Du Temps||Sports,Action,|1||Witan Entertainment BV|Infogrames|
+37041A|Blaster Master - Enemy Below|Blaster Master: Enemy Below||Action,Platformer,Shooter,|1||Sunsoft|Sunsoft|2000
+82008A|Blue's Clues - Blue's Alphabet Book|Blue's Clues : Blue's Alphabet Book||Educational,||||Mattel|2000
+82807A|Supreme Snowboarding|Boarder Zone||Sports,|1||Infogrames|Infogrames|1999
+82009A|Bob Et Bobette - Les Dompteurs Du Temps|Bob Et Bobette - Les Dompteurs Du Temps||Sports,Action,|1||Witan Entertainment BV|Infogrames|2001
 37197A|Spongebob Squarepants - Legend Of The Lost Spatula|SpongeBob Squarepants: Legend of the Lost Spatula||Puzzle-Game,Adventure,|1||Vicarious Visions, Inc.|THQ|2001
-82010A|Bob The Builder - Fix It Fun!|Bob the Builder - Fix it Fun!||,Other|1||Tiertex Design Studios|THQ|
-82012A|Boku No Camp-jou|Boku no Camp-jou||,Adventure|||||
-82013A|Bokujou Monogatari Gb2|Bokujou Monogatari GB2||,Adventure|||||
-82014A|Bokujou Monogatari Gb3 - Boy Meets Girl|Bokujou Monogatari GB3 - Boy Meets Girl||,Adventure|||||
+82010A|Bob The Builder - Fix It Fun!|Bob the Builder - Fix it Fun!||Other,|1||Tiertex Design Studios|THQ|2000
+82012A|Boku No Camp-jou|Boku no Camp-jou||RPG,|1|||Naxat;D-1000 Pro.|2000
+82013A|Bokujou Monogatari Gb2|Bokujou Monogatari GB2||Adventure,|||||
+82014A|Bokujou Monogatari Gb3 - Boy Meets Girl|Bokujou Monogatari GB3 - Boy Meets Girl||Adventure,|||||2000
 82015A|Bomber Man Max - Ain Version|Bomber Man Max - Ain Version|Bomberman Max - Ain Version|,Arcade|||||
-36874A|Bomberman Max - Blue Champion|Bomberman Max : Blue Champion||Puzzle-Game,Action,|2||Hudson|Vatical Entertainment LLC|
-37042A|Bomberman Max - Red Challenger|Bomberman Max : Red Challenger||Puzzle-Game,Action,|||Hudson|Vatical Entertainment LLC|
+36874A|Bomberman Max - Blue Champion|Bomberman Max : Blue Champion||Puzzle-Game,Action,|2||Hudson|Vatical Entertainment LLC|2000
+37042A|Bomberman Max - Red Challenger|Bomberman Max : Red Challenger||Puzzle-Game,Action,|2||Hudson|Vatical Entertainment LLC|2000
 37043A|Bomberman Quest|Bomberman Quest||Role playing games,|2||Hudson|Electro Brain Corp.|1999
-82021A|Bomberman Selection|Bomberman Selection|Bomberman Collection|,Arcade|||||
+82021A|Bomberman Selection|Bomberman Selection|Bomberman Collection|,Arcade||||Hudson|2003
 82022A|Bouken! Dondoko-tou|Bouken! Dondoko-tou|||||||
-176725|Boulder Dash|Boulder Dash||,Action|||||
-82023A|Brave Saga - Shinshou Astaria|Brave Saga - Shinshou Astaria||,RPG|||||
+176725|Boulder Dash|Boulder Dash||Action,Arcade,,|||||1990
+82023A|Brave Saga - Shinshou Astaria|Brave Saga - Shinshou Astaria||RPG,|1|||Takara|2001
 176728|Brick Breaker DX|Brick Breaker DX|||||||
 176726|Brickster|Brickster||,Adventure|||||
-36877A|Buffy The Vampire Slayer|Buffy the Vampire Slayer||Fight,Action,|1||GameBrains|THQ|
-82027A|Bug's Life, A|Bug's Life, A||Race, Driving,|1||Tiertex Design Studios|THQ|
+36877A|Buffy The Vampire Slayer|Buffy the Vampire Slayer||Fight,Action,|1||GameBrains|THQ|2000
+82027A|Bug's Life, A|Bug's Life, A||Race, Driving,|1||Tiertex Design Studios|THQ|1998
 82025A|Bugs Bunny Et Le Chateau Des Catastrophes|Bugs Bunny - Crazy Castle 4||Puzzle-Game,Strategy,|||Kotobuki System|KEMCO U.S.A., INC.|2000
 37112A|Looney Tunes - Carrot Crazy|Looney Tunes : Carrot Crazy||Action,Platform,|||Infogrames|Infogrames|1999
 36878A|Bugs Bunny - Crazy Castle 3|Bugs Bunny: Crazy Castle 3||Puzzle-Game,Strategy,|||Kotobuki System|Nintendo|1999
-82030A|Burger Burger Pocket|Burger Burger Pocket||,Board game|||||
-82031A|Burger Paradise International|Burger Paradise International|||||||
+82030A|Burger Burger Pocket|Burger Burger Pocket||Board game,|||||1999
+82031A|Burger Paradise International|Burger Paradise International||Simulation,|1|||Gaps;Biox|2000
 36879A|Bust-a-move 4|Bust-A-Move 4||Puzzle-Game,|||Taito|Acclaim Entertainment|1999
 37045A|Bust-a-move Millennium|Bust-A-Move Millennium||Puzzle-Game,|2||Dreams Co., Ltd.|Acclaim Entertainment|2000
-82033A|Caesars Palace 2|Caesars Palace II|||||Runecraft|Interplay|
+82033A|Caesars Palace 2|Caesars Palace II||Casino,|||Runecraft|Interplay|1999
 36880A|Cannon Fodder|Cannon Fodder||Sports,Strategy,|1||Sensible Software|Codemasters|2000
-82035A|Card Sharks|Card Sharks|||||||
-82036A|Cardcaptor Sakura - Itsumo Sakura-chan To Issho|Cardcaptor Sakura - Itsumo Sakura-chan to Issho||,Adventure|||||
-82037A|Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai|Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai|Cardcaptor Sakura - Tomoe Shougakkou Daiundoukai|,Arcade|||||
+82035A|Card Sharks|Card Sharks||Strategy,,|||||1
+82036A|Cardcaptor Sakura - Itsumo Sakura-chan To Issho|Cardcaptor Sakura - Itsumo Sakura-chan to Issho||Adventure,|||||1999
+82037A|Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai|Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai|Cardcaptor Sakura - Tomoe Shougakkou Daiundoukai|Sports,||||MTO|2000
 82038A|Carl Lewis Athletics 2000|Carl Lewis Athletics 2000||Sports,|||Planet Interactive Development|Ubisoft|2000
 82040A|Carmageddon - Carpocalypse Now|Carmageddon - Carpocalypse Now|||||||
 82041A|Casper|Casper|Bamse|Adventure,|1||Funcom Oslo A/S|Interplay Entertainment Corp.|2000
 37046A|Caterpillar Construction Zone|Caterpillar Construction Zone||Puzzle-Game,Simulation,|1||Realtime Associates, Inc.|Mattel Media|
 36882A|Catwoman|Catwoman|Batman|Simulation,Action,|1||Kemco|Vatical Entertainment LLC|1999
-82044A|Catz - Your Virtual Petz Palz|Catz - Your Virtual Petz Palz||,Breeding|||||
-36883A|Centipede|Centipede||Action,Arcade|2||Morning Star Multimedia|Majesco Sales, Inc.|1998
+82044A|Catz - Your Virtual Petz Palz|Catz - Your Virtual Petz Palz||Breeding,|||||1999
+36883A|Centipede|Centipede||Action,Shooter,|2||Morning Star Multimedia|Majesco Sales, Inc.|1998
 82045A|Championship Motocross 2001 Featuring Ricky Carmichael|Championship Motocross 2001 featuring Ricky Carmic||Race, Driving,|1||Tiertex Design Studios|THQ|2000
-36884A|Chase H.q. - Secret Police|Chase H.Q.: Secret Police||Race, Driving,|2||Dreams Co., Ltd.|Metro3D, Inc.|
-82047A|Checkmate|Checkmate||,Chess|||||
-82048A|Chee-chai Alien|Chee-Chai Alien||,Arcade|||||
+36884A|Chase H.q. - Secret Police|Chase H.Q.: Secret Police||Race, Driving,|2||Dreams Co., Ltd.|Metro3D, Inc.|1999
+82047A|Checkmate|Checkmate||Board game,|1|||Altron|1999
+82048A|Chee-chai Alien|Chee-Chai Alien||Arcade,|1|||Creatures|2001
 82049A|Chessmaster|Chessmaster|Checkmate|Strategy,|||Park Place Productions|Mindscape Inc.|1999
-82050A|Chi To Ase To Namida No Koukou Yakyuu|Chi to Ase to Namida no Koukou Yakyuu||,Adventure|||||
-82051A|Chibi Maruko-chan - Go Chounai Minna De Game Da Yo!|Chibi Maruko-chan - Go Chounai Minna de Game Da yo|||||||
+82050A|Chi To Ase To Namida No Koukou Yakyuu|Chi to Ase to Namida no Koukou Yakyuu||Adventure,||||J-Wing|2000
+82051A|Chibi Maruko-chan - Go Chounai Minna De Game Da Yo!|Chibi Maruko-chan - Go Chounai Minna de Game Da yo||Action,||||Epoch|2001
 36885A|Chicken Run|Chicken Run||Puzzle-Game,Strategy,|2||Blitz Games Limited|THQ|2000
-82053A|Choro Q - Hyper Customable Gb|Choro Q - Hyper Customable GB||,Adventure|||||
+82053A|Choro Q - Hyper Customable Gb|Choro Q - Hyper Customable GB||Adventure,||||Takara|1999
 37047A|Classic Bubble Bobble|Classic Bubble Bobble||Puzzle-Game,|1||Taito|Metro3D, Inc.|1999
 82054A|Colin Mcrae Rally|Colin McRae Rally||Race, Driving,|1||Spellbound|THQ|2001
-36886A|Columns Gb - Tezuka Osamu Characters|Columns GB: Tezuka Osamu Characters||Puzzle-Game,Strategy,|2||GAME STUDIO Inc.|Media Factory|
-82056A|Command Master|Command Master||,Adventure|||||
+36886A|Columns Gb - Tezuka Osamu Characters|Columns GB: Tezuka Osamu Characters||Puzzle-Game,Strategy,|2||GAME STUDIO Inc.|Media Factory|1999
+82056A|Command Master|Command Master||RPG,||||Brain Dock|2000
 36887A|Commander Keen|Commander Keen||Action,Adventure,|1||David A. Palmer Productions|id Software, Inc.|Activision
 36888A|Conker's Pocket Tales|Conker's Pocket Tales||Puzzle-Game,Adventure,|1||Rare, Ltd.|Rare, Ltd.|1999
-36889A|Cool Bricks|Cool Bricks||Action,Breakout|1||Pukka Games|SCi Games Ltd.|1999
+36889A|Cool Bricks|Cool Bricks||Action,Breakout,|1||Pukka Games|SCi Games Ltd.|1999
 152757|Crazy Richman 2|Crazy Richman 2|||||||
-36890A|Croc|Croc||Action,Platform|1||Virtucraft, Ltd.|THQ|2000
-37048A|Croc 2|Croc 2||Action,Platform|1||Natsume Co., Ltd.|THQ|2001
-82060A|Cross Hunter - Monster Hunter Version|Cross Hunter - Monster Hunter Version||,RPG|||||
-82061A|Cross Hunter - Treasure Hunter Version|Cross Hunter - Treasure Hunter Version||,RPG|||||
-82062A|Cross Hunter - X Hunter Version|Cross Hunter - X Hunter Version||,RPG|||||
+36890A|Croc|Croc||Action,Platformer,|1||Virtucraft, Ltd.|THQ|2000
+37048A|Croc 2|Croc 2||Action,Platformer,|1||Natsume Co., Ltd.|THQ|2001
+82060A|Cross Hunter - Monster Hunter Version|Cross Hunter - Monster Hunter Version||RPG,|1|||Game Village|2001
+82061A|Cross Hunter - Treasure Hunter Version|Cross Hunter - Treasure Hunter Version||RPG,|1|||Game Village|2001
+82062A|Cross Hunter - X Hunter Version|Cross Hunter - X Hunter Version||RPG,|1|||Game Village|2001
 36891A|Cruis'n Exotica|Cruis'n Exotica||Race, Driving,|1||Crawfish Interactive Ltd.|Midway|2000
 36892A|Crystalis|Crystalis||Role playing games,|1||Nintendo|Nintendo|2000
-82064A|Cubix - Robots For Everyone - Race 'n Robots|Cubix : Robots for Everyone, Race 'n Robots||,Racing|||Blitz Games|3DO|2001
-82065A|Cybertiger|CyberTiger|Cyber Tiger|Sports,|||Xantera|EA Sports|
-82067A|Cyborg Kuro-chan - Devil Fukkatsu|Cyborg Kuro-chan - Devil Fukkatsu||,Gun shooter|||||
-82066A|Cyborg Kuro-chan 2 - White Woods No Gyakushuu|Cyborg Kuro-chan 2 - White Woods no Gyakushuu||,Gun shooter|||||
+82064A|Cubix - Robots For Everyone - Race 'n Robots|Cubix : Robots for Everyone, Race 'n Robots||Racing,|||Blitz Games|3DO|2001
+82065A|Cybertiger|CyberTiger|Cyber Tiger|Sports,|||Xantera|EA Sports|2000
+82067A|Cyborg Kuro-chan - Devil Fukkatsu|Cyborg Kuro-chan - Devil Fukkatsu||Gun shooter,|||||2000
+82066A|Cyborg Kuro-chan 2 - White Woods No Gyakushuu|Cyborg Kuro-chan 2 - White Woods no Gyakushuu||Platformer,|1|||Konami|2000
 167281|Da Vinci KB|Da Vinci KB|||||||
-82068A|Daa! Daa! Daa! - Totsuzen Card De Battle De Uranai De!|Daa! Daa! Daa! - Totsuzen Card de Battle de Uranai|||||||
-36894A|Daffy Duck - Fowl Play|Daffy Duck: Fowl Play||Action,Platform|1||Sunsoft|Sunsoft|2000
+82068A|Daa! Daa! Daa! - Totsuzen Card De Battle De Uranai De!|Daa! Daa! Daa! - Totsuzen Card de Battle de Uranai||Adventure,|||||2000
+36894A|Daffy Duck - Fowl Play|Daffy Duck: Fowl Play||Action,Platformer,|1||Sunsoft|Sunsoft|2000
 82072A|Daikaijuu Monogatari - Poyon No Dungeon Room|Daikaijuu Monogatari - Poyon no Dungeon Room|||||||
 82073A|Daikaijuu Monogatari - Poyon No Dungeon Room 2|Daikaijuu Monogatari - Poyon no Dungeon Room 2|||||||
-82074A|Daikaijuu Monogatari - The Miracle Of The Zone 2|Daikaijuu Monogatari - The Miracle of the Zone II|||||||
+82074A|Daikaijuu Monogatari - The Miracle Of The Zone 2|Daikaijuu Monogatari - The Miracle of the Zone II||RPG,|||||1999
 82076A|Daikatana Gb|Daikatana GB|Daikatana|Role playing games,|1||Will|Kemco|
-82077A|Daiku No Gen-san - Kachikachi No Tonkachi Ga Kachi|Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi|||||Biox|Gaps|
-82078A|Dance Dance Revolution Gb|Dance Dance Revolution GB||,Music|||||
-82079A|Dance Dance Revolution Gb - Disney Mix|Dance Dance Revolution GB - Disney Mix||,Music|||||
-82080A|Dance Dance Revolution Gb2|Dance Dance Revolution GB2||,Music|||||
-82081A|Dance Dance Revolution Gb3|Dance Dance Revolution GB3|Dance Dance Revolution GB|,Music|||||
-36895A|Dancing Furby|Dancing Furby||Action,Music|2||Tomy|Tomy|
+82077A|Daiku No Gen-san - Kachikachi No Tonkachi Ga Kachi|Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi||Action,Platform,|1||Biox|Gaps|2000
+82078A|Dance Dance Revolution Gb|Dance Dance Revolution GB||Rhythm,||||KCET|2000
+82079A|Dance Dance Revolution Gb - Disney Mix|Dance Dance Revolution GB - Disney Mix||Music,||||Konami|2001
+82080A|Dance Dance Revolution Gb2|Dance Dance Revolution GB2||Rhythm,||||KCET|2000
+82081A|Dance Dance Revolution Gb3|Dance Dance Revolution GB3|Dance Dance Revolution GB|Rhythm,||||KCE Tokyo|2001
+36895A|Dancing Furby|Dancing Furby||Action,Rhythm,|2||Tomy|Tomy|1999
 167280|Darts 180|Darts 180|||||||
-82082A|Data-navi Pro Yakyuu|Data-Navi Pro Yakyuu||,Baseball|||||
-82083A|Data-navi Pro Yakyuu 2|Data-Navi Pro Yakyuu 2||,Baseball|||||
+82082A|Data-navi Pro Yakyuu|Data-Navi Pro Yakyuu||Baseball,||||Media Group|2000
+82083A|Data-navi Pro Yakyuu 2|Data-Navi Pro Yakyuu 2||Baseball,||||Now Production|2001
 36896A|Dave Mirra Freestyle Bmx|Dave Mirra Freestyle BMX||Sports,|1||NEON Software GmbH|Acclaim Entertainment|2000
 36897A|David Beckham Soccer|David Beckham Soccer||Sports,|1||Yoyo Entertainment Ltd.|Rage Games Ltd.|2002
-82085A|Dear Daniel No Sweet Adventure - Kitty-chan O Sagashite|Dear Daniel no Sweet Adventure - Kitty-chan o Saga|Dear Daniel no Sweet Adventure - Kitty-chan wo Sagashite|,Platform|||||
+82085A|Dear Daniel No Sweet Adventure - Kitty-chan O Sagashite|Dear Daniel no Sweet Adventure - Kitty-chan o Saga|Dear Daniel no Sweet Adventure - Kitty-chan wo Sagashite|Adventure,||||Imagineer|2000
 82086A|Deer Hunter|Deer Hunter||Sports,|||Morning Star Multimedia|Vatical Entertainment|1999
-37051A|Deja Vu I And 2 - The Casebooks Of Ace Harding|Deja Vu I & II: The Casebooks of Ace Harding||Puzzle-Game,Adventure,|1||Infinite Ventures, Inc.|Kotobuki System|
-82089A|Dejiko No Mahjong Party|Dejiko no Mahjong Party||,Mahjong|||||
+37051A|Deja Vu I And 2 - The Casebooks Of Ace Harding|Deja Vu I & II: The Casebooks of Ace Harding||Puzzle-Game,Adventure,|1||Infinite Ventures, Inc.|Kotobuki System|1999
+82089A|Dejiko No Mahjong Party|Dejiko no Mahjong Party||Mahjong,||||King Records|2000
 37052A|Denki Blocks!|Denki Blocks!||Puzzle-Game,Strategy,|2||Denki Ltd.|Rage Games Ltd.|2002
 36898A|Densha De Go!|Densha de Go!||Simulation,|2||Cyberfront Corporation|Taito|1999
 37053A|Densha De Go! 2|Densha de Go! 2||Simulation,|2||Taito GM R&D Sect. #2|Cyberfront Corporation|2000
-82449A|Meitantei Conan - Karakuri Jiin Satsujin Jiken|Detective Conan: The Mechanical Temple Murder Case||,Adventure|||Alpha Unit|Banpresto|
-36899A|Dexter's Laboratory - Robot Rampage|Dexter's Laboratory: Robot Rampage||Action,Platform|1||Altron Corporation|BAM! Entertainment, Inc.|
+82449A|Meitantei Conan - Karakuri Jiin Satsujin Jiken|Detective Conan: The Mechanical Temple Murder Case||Adventure,|1||Alpha Unit|Banpresto|2000
+36899A|Dexter's Laboratory - Robot Rampage|Dexter's Laboratory: Robot Rampage||Action,Platform,|1||Altron Corporation|BAM! Entertainment, Inc.|2000
 184298|Digimon 2|Digimon 2|||||||
 152647|Digimon 3|Digimon 3|||||||
 184299|Digimon 4|Digimon 4|||||||
 176740|Digimon 5 #2|Digimon 5 #2|||||||
-82092A|Dino Breeder 3 - Gaia Fukkatsu|Dino Breeder 3 - Gaia Fukkatsu||,Breeding|||||
-82093A|Dino Breeder 4|Dino Breeder 4|Dino Breeder|,Breeding|||||
-184303|Dino's Quest|Dino's Quest|||||||
+82092A|Dino Breeder 3 - Gaia Fukkatsu|Dino Breeder 3 - Gaia Fukkatsu||Breeding,||||J-Wing|1999
+82093A|Dino Breeder 4|Dino Breeder 4|Dino Breeder|Platformer,Simulation,||||Digital Kids;J-Wing|2000
+184303|Dino's Quest|Dino's Quest||Platformer,|||||
 82094A|Dinosaur|Dinosaur||Action,Adventure,|||Ubisoft|Digital Eclipse|2000
 82095A|Dinosaur'us|Dinosaur'us|Dinosaur|Role-Playing,|||Electronic Arts|PFX Interactive|2001
-36903A|Disney's Aladdin|Disney's Aladdin||Action,|1||Virgin|Ubisoft|2000
-36904A|Diva Starz - Mall Mania|Diva Starz : Mall Mania||Simulation,Educational,|4||Dice Canada|Vivendi Universal Games, Inc.|
+36903A|Disney's Aladdin|Disney's Aladdin||Action,Platform,,|1||Virgin|Ubisoft|2000
+36904A|Diva Starz - Mall Mania|Diva Starz : Mall Mania||Simulation,Educational,|4||Dice Canada|Vivendi Universal Games, Inc.|2001
 82106A|Dogz - Your Virtual Petz Palz|Dogz - Your Virtual Petz Palz|Catz - Your Virtual Petz Palz|Simulation,|||Mindscape|Saffire|2000
-82108A|Dokapon! - Millennium Quest|Dokapon! - Millennium Quest|Dokapon! - Millenium Quest|,RPG|||||
-82109A|Doki X Doki Sasete!!|Doki x Doki Sasete!!|||||||
-82110A|Dokidoki Densetsu - Mahoujin Guruguru|Dokidoki Densetsu - Mahoujin Guruguru||,Adventure|||||
-82101A|Donald Duck - Goin' Quackers|Donald Duck : Goin' Quackers||Platform,|||Ubisoft|Disney Interactive|
-82112A|Donkey Kong 2001|Donkey Kong 2001||,Platform|||||
+82108A|Dokapon! - Millennium Quest|Dokapon! - Millennium Quest|Dokapon! - Millenium Quest|Action,RPG||||Asmik Ace Entertainment|2000
+82109A|Doki X Doki Sasete!!|Doki x Doki Sasete!!||||||Victor Interactive Software|2001
+82110A|Dokidoki Densetsu - Mahoujin Guruguru|Dokidoki Densetsu - Mahoujin Guruguru||Adventure,||||Enix Corporation|2000
+82101A|Donald Duck - Goin' Quackers|Donald Duck : Goin' Quackers||Platform,|1||Ubisoft|Disney Interactive|2000
+82112A|Donkey Kong 2001|Donkey Kong 2001||Platform,|||||
 176730|Donkey Kong 5|Donkey Kong 5|Donkey Kong|,Arcade|||||
-36905A|Donkey Kong Country|Donkey Kong Country||Action,Platform|2||Rare, Ltd.|Nintendo|2000
-82113A|Donkey Kong Gb - Dinky Kong And Dixie Kong|Donkey Kong GB - Dinky Kong & Dixie Kong|||||||
-82121A|Doraemon - Aruke Aruke Labyrinth|Doraemon - Aruke Aruke Labyrinth||,Puzzle|||||
-82122A|Doraemon - Kimi To Pet No Monogatari|Doraemon - Kimi to Pet no Monogatari||,Adventure|||||
+36905A|Donkey Kong Country|Donkey Kong Country||Action,Platformer,|2||Rare, Ltd.|Nintendo|2000
+82113A|Donkey Kong Gb - Dinky Kong And Dixie Kong|Donkey Kong GB - Dinky Kong & Dixie Kong||Platform,|||||
+82121A|Doraemon - Aruke Aruke Labyrinth|Doraemon - Aruke Aruke Labyrinth||Puzzle,||||Epoch|1999
+82122A|Doraemon - Kimi To Pet No Monogatari|Doraemon - Kimi to Pet no Monogatari||Adventure,||||Epoch|2001
 82114A|Doraemon Kart 2|Doraemon Kart 2||Racing,|||Epoch|Epoch|1999
-82115A|Doraemon Memories - Nobita No Omoide Daibouken|Doraemon Memories - Nobita no Omoide Daibouken||,Platform|||||
-82116A|Doraemon No Quiz Boy|Doraemon no Quiz Boy||,Quiz|||||
-82117A|Doraemon No Quiz Boy 2|Doraemon no Quiz Boy 2|||||||
-82118A|Doraemon No Study Boy - Gakushuu Kanji Game|Doraemon no Study Boy - Gakushuu Kanji Game||,Arcade|||||
-82119A|Doraemon No Study Boy - Kanji Yomikaki Master|Doraemon no Study Boy - Kanji Yomikaki Master|||||||
-82120A|Doraemon No Study Boy - Kuku Game|Doraemon no Study Boy - Kuku Game||,Arcade|||||
-82124A|Doug's Big Game|Doug's Big Game||,Adventure|||NewKidCo|Magellan Interactive|2001
+82115A|Doraemon Memories - Nobita No Omoide Daibouken|Doraemon Memories - Nobita no Omoide Daibouken||Platform,|||||2000
+82116A|Doraemon No Quiz Boy|Doraemon no Quiz Boy||Quiz,||||Epoch|2000
+82117A|Doraemon No Quiz Boy 2|Doraemon no Quiz Boy 2||Quiz,||||Epoch|2002
+82118A|Doraemon No Study Boy - Gakushuu Kanji Game|Doraemon no Study Boy - Gakushuu Kanji Game||Arcade,||||Epoch|2001
+82119A|Doraemon No Study Boy - Kanji Yomikaki Master|Doraemon no Study Boy - Kanji Yomikaki Master||Educational,||||Epoch|2003
+82120A|Doraemon No Study Boy - Kuku Game|Doraemon no Study Boy - Kuku Game||Arcade,||||Epoch|2000
+82124A|Doug's Big Game|Doug's Big Game||Adventure,|||NewKidCo|Magellan Interactive|2001
 82123A|Doug - La Grande Aventure|Doug - La Grande Aventure|Doug - Le Grande Aventure|,Adventure|||NewKidCo|Ubisoft|2001
-82125A|Dr. Rin Ni Kiitemite! - Koi No Rin Fuusui|Dr. Rin ni Kiitemite! - Koi no Rin Fuusui||,Board game|||||
-82126A|Dracula - Crazy Vampire|Dracula - Crazy Vampire||,Adventure|||Planet Interactive|DreamCatcher Interactive|2001
+82125A|Dr. Rin Ni Kiitemite! - Koi No Rin Fuusui|Dr. Rin ni Kiitemite! - Koi no Rin Fuusui||Simulation,||||Hudson Soft|2002
+82126A|Dracula - Crazy Vampire|Dracula - Crazy Vampire||Adventure,|||Planet Interactive|DreamCatcher Interactive|2001
 82134A|Dragon Ball Z - Les Guerriers Legendaires|Dragon Ball Z - Legendary Super Warriors||Role playing games,|1||Banpresto|Infogrames|2002
-82135A|Dragon Dance|Dragon Dance||Action,Breakout|||Natsume|Crave|2000
-82136A|Dragon Quest I And 2|Dragon Quest I & II|||||||
+82135A|Dragon Dance|Dragon Dance||Action,Breakout,|||Natsume|Crave|2000
+82136A|Dragon Quest I And 2|Dragon Quest I & II||RPG,||||Enix|1999
 82140A|Dragon Quest Monsters 2 - Maruta No Fushigi Na Kagi - Ruka No Tabidachi|Dragon Quest Monsters 2 - Maruta no Fushigi na Kag|||||||
-82145A|Dragon Tales - Dragon Wings|Dragon Tales - Dragon Wings||,Platform|||||
-82142A|Dragon Tales - Dragon Adventures|Dragon Tales : Dragon Adventures|||||Handheld Games|NewKidCo|2001
-37068A|Dragon Warrior I And 2|Dragon Warrior I & II||Various,Role playing games,|1||Enix Corporation|Enix Corporation|
+82145A|Dragon Tales - Dragon Wings|Dragon Tales - Dragon Wings||Platform,||||NewKidCo|2000
+82142A|Dragon Tales - Dragon Adventures|Dragon Tales : Dragon Adventures||Platform,|||Handheld Games|NewKidCo|2001
+37068A|Dragon Warrior I And 2|Dragon Warrior I & II||Various,Role playing games,|1||Enix Corporation|Enix Corporation|2000
 82137A|Dragon Warrior 3|Dragon Warrior III||Role playing games,|1||Enix Corporation|Enix America Inc.|2000
 82138A|Dragon Quest Monsters|Dragon Warrior Monsters||Role playing games,|2||Enix, Tose|Eidos|1998
 37070A|Dragon Warrior Monsters 2 - Cobi's Journey|Dragon Warrior Monsters 2 : Cobi's Journey||Role playing games,|2||Enix Corporation|Enix Corporation|2001
 37071A|Dragon Warrior Monsters 2 - Tara's Adventure|Dragon Warrior Monsters 2 : Tara's Adventure||Role playing games,|2||Enix Corporation|Enix Corporation|2001
-36906A|Dragon's Lair|Dragon's Lair||Action,Adventure|1||Digital Eclipse|Capcom|2001
-176729|Dragonslayer Chapter - Surrounded|Dragonslayer Chapter - Surrounded||,RPG|||||
+36906A|Dragon's Lair|Dragon's Lair||Action,Adventure,|1||Digital Eclipse|Capcom|2001
+176729|Dragonslayer Chapter - Surrounded|Dragonslayer Chapter - Surrounded||RPG,|||||
 82149A|Driver - You Are The Wheelman|Driver : You are the Wheelman||Race, Driving,|2||Crawfish Interactive|Crawfish Interactive - Infogrames - Reflections|2000
 36908A|Dropzone|Dropzone||Shooter,Action,|1||Arena Graphics|Acclaim Entertainment|1999
-176633|Drymouth|Drymouth|||||||
-82150A|Dt - Lords Of Genomes|DT - Lords of Genomes||,RPG|||||
-82345A|Kettou Beast Wars - Beast Senshi Saikyou Ketteisen|Duel Fight Transformers Beast Wars: Beast Warriors||,Fighting|||Takara|Takara|
+176633|Drymouth|Drymouth||Puzzle,||||Demiforce|2001
+82150A|Dt - Lords Of Genomes|DT - Lords of Genomes||RPG,||||Media Factory|2001
+82345A|Kettou Beast Wars - Beast Senshi Saikyou Ketteisen|Duel Fight Transformers Beast Wars: Beast Warriors||Fighting,|||Takara|Takara|1998
 36909A|Duke Nukem|Duke Nukem||Shooter,Action,|1||Torus Games Pty. Ltd.|GT Interactive Software Corp.|1999
-82153A|Dungeon Savior|Dungeon Savior||,Strategy|||||
-82154A|Dx Jinsei Game|DX Jinsei Game|Jinsei Game|,Board game|||||
-82155A|Dx Monopoly Gb|DX Monopoly GB||,Puzzle|||||
-82156A|Dynamike|DynaMike||,Puzzle|||Engine Software|Never released|
-82158A|E.t. The Extra Terrestrial - Digital Companion|E.T. : The Extra-Terrestrial, Digital Companion||,Other|||Powerhead Games|NewKidCo|2001
+82153A|Dungeon Savior|Dungeon Savior||RPG,||||J-Wing|2000
+82154A|Dx Jinsei Game|DX Jinsei Game|Jinsei Game|Board Game,||||Takara|2001
+82155A|Dx Monopoly Gb|DX Monopoly GB||Board game,||||Takara|1999
+82156A|Dynamike|DynaMike||Puzzle,|||Engine Software|Never released|
+82158A|E.t. The Extra Terrestrial - Digital Companion|E.T. : The Extra-Terrestrial, Digital Companion||Other,|||Powerhead Games|NewKidCo|2001
 82157A|E.t. And The Cosmic Garden|E.T.: The Extra-Terrestrial and the Cosmic Garden|||||Zed Two Game Design Studio|NewKidCo|
-82161A|E.t. The Extra Terrestrial - Escape From Planet Earth|E.T. The Extra Terrestrial - Escape from Planet Ea||,Adventure|||Saffire|NewKidCo|
-36910A|Earthworm Jim - Menace 2 The Galaxy|Earthworm Jim: Menace 2 the Galaxy||Adventure,|1||David A. Palmer Productions|Crave Entertainment, Inc.|
+82161A|E.t. The Extra Terrestrial - Escape From Planet Earth|E.T. The Extra Terrestrial - Escape from Planet Ea||Adventure,|||Saffire|NewKidCo|2001
+36910A|Earthworm Jim - Menace 2 The Galaxy|Earthworm Jim: Menace 2 the Galaxy||Adventure,|1||David A. Palmer Productions|Crave Entertainment, Inc.|1999
 36911A|Ecw Hardcore Revolution|ECW Hardcore Revolution||Sports,|1||Crawfish Interactive Ltd.|Acclaim Entertainment|2000
-37072A|Elevator Action Ex|Elevator Action EX|Elevator Action|Action,Arcade|1||Altron Corporation|TDK Mediactive, Inc.|2000
-82163A|Elie No Atelier Gb|Elie no Atelier GB||,RPG|||||
-82164A|Elmo's 123s|Elmo's 123s||,Educational|||Bonsai Entertainment Corp|NewKidCo|
-82165A|Elmo's Abcs|Elmo's ABCs|Elmo's 123s|,Educational|||Bonsai Entertainment Corp|NewKidCo|
-82166A|Espn International Track And Field|ESPN International Track & Field|||||||
-82167A|Espn National Hockey Night|ESPN National Hockey Night||,Hockey|||||
-82168A|Estpolis Denki - Yomigaeru Densetsu|Estpolis Denki - Yomigaeru Densetsu||,RPG|||||
+37072A|Elevator Action Ex|Elevator Action EX|Elevator Action|Action,Platformer,Shooter,|1||Altron Corporation|TDK Mediactive, Inc.|2000
+82163A|Elie No Atelier Gb|Elie no Atelier GB||RPG,|||||1999
+82164A|Elmo's 123s|Elmo's 123s||Educational,|||Bonsai Entertainment Corp|NewKidCo|1998
+82165A|Elmo's Abcs|Elmo's ABCs|Elmo's 123s|Educational,|||Bonsai Entertainment Corp|NewKidCo|1998
+82166A|Espn International Track And Field|ESPN International Track & Field||Sports,||||KCEO|2000
+82167A|Espn National Hockey Night|ESPN National Hockey Night||Sports,Hockey,,||||Konami|2000
+82168A|Estpolis Denki - Yomigaeru Densetsu|Estpolis Denki - Yomigaeru Densetsu||RPG,|||||2001
 36912A|European Super League|European Super League||Sports,|1||Aqua Pacific|Virgin|2001
 82169A|Evel Knievel|Evel Knievel||Sports,|1||Tarantula Studios|Rockstar - Tarantula Studios|1999
 82170A|Extreme Ghostbusters|Extreme Ghostbusters||Platform,|1||Magic Pockets|DreamCatcher Interactive|2001
-82171A|Extreme Sports With The Berenstain Bears|Extreme Sports with the Berenstain Bears||,Sports|||Ed Magnin and Associates|Sound Source|
+82171A|Extreme Sports With The Berenstain Bears|Extreme Sports with the Berenstain Bears||Racing,Sports,|||Ed Magnin and Associates|Sound Source|2000
 37073A|F-1 World Grand Prix|F-1 World Grand Prix||Race, Driving,|1||Video System Co., Ltd.|Video System Co., Ltd.|1999
-82174A|F-18 Thunder Strike|F-18 Thunder Strike||Action,Aerial fighting|||Morning Star Multimedia|Majesco|2000
+82174A|F-18 Thunder Strike|F-18 Thunder Strike||Action,Shooter,Simulation,|||Morning Star Multimedia|Majesco|2000
 82172A|F1 Championship Season 2000|F1 Championship Season 2000||Racing,|1||Tiertex Design Studios|EA Sports|2000
 36913A|F1 Racing Championship|F1 Racing Championship||Race, Driving,|1||Video System Co., Ltd.|Ubisoft|2001
-82173A|F1 World Grand Prix 2 For Game Boy Color|F1 World Grand Prix II for Game Boy Color|||||ITL|Konami|
-82175A|Fairy Kitty No Kaiun Jiten - Yousei No Kuni No Uranai Shugyou|Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Ura||,Adventure|||||
-82176A|Ferret Monogatari|Ferret Monogatari||,Breeding|||||
-82177A|Fifa 2000|FIFA 2000||,Soccer|||||
+82173A|F1 World Grand Prix 2 For Game Boy Color|F1 World Grand Prix II for Game Boy Color||Racing,Simulation,,|||ITL|Konami|2000
+82175A|Fairy Kitty No Kaiun Jiten - Yousei No Kuni No Uranai Shugyou|Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Ura||Adventure,||||Imagineer|1998
+82176A|Ferret Monogatari|Ferret Monogatari||Simulation,||||Culture Brain|2000
+82177A|Fifa 2000|FIFA 2000||Sports,||||Tiertex Design Studios|1999
 152648|Final Fantasy X - Fantasy War|Final Fantasy X - Fantasy War|||||||
 184305|Final Robot|Final Robot|||||||
-82179A|Fix And Foxi - Episode 1 Lupo|Fix & Foxi - Episode 1 Lupo|||||||
+82179A|Fix And Foxi - Episode 1 Lupo|Fix & Foxi - Episode 1 Lupo||Platform,|||||2000
 167264|Fli- Plasma|Fli- Plasma|||||||
-82182A|Flipper And Lopaka|Flipper & Lopaka||Pinball,|||||
-167265|Flood|Flood|Croc|,Platform|||||
+82182A|Flipper And Lopaka|Flipper & Lopaka||Pinball,||||Planet Interactive Development|2000
+167265|Flood|Flood|Croc|Action,Arcade,Platform,,|||||
 37077A|Force 21|Force 21||Strategy,|1||Code Monkeys Ltd., The|Red Storm Entertainment, Inc.|2000
 82183A|Formula One 2000|Formula One 2000||Racing,|||Tarantula Studios|Take-Two Interactive|2000
-36916A|Fort Boyard|Fort Boyard||Action|1||Microïds|Microïds|2001
+36916A|Fort Boyard|Fort Boyard||Action,Platformer,|1||Microïds|Microïds|2001
 36854A|Antz|Antz||Action,Platform,|1||CLCE|Light & Shadow Production|Planet Interactive Development
 37033A|Antz World Sportz|Antz World Sportz||Role playing games,Sports,|1||M4 Ltd.|Light & Shadow Production|2001
 37032A|Antz Racing|Antz Racing||Race, Driving,|1||RFX Interactive|Acclaim Entertainment|2001
-36917A|Frogger|Frogger||Action,Arcade|2||Konami|Majesco Sales, Inc.|1998
-37078A|Frogger 2|Frogger 2||Action,Arcade|1||Game Titan|Majesco Sales, Inc.|2000
-167267|Frogs|Frogs|Croc|,Platform|||||
-82184A|From Tv Animation One Piece - Maboroshi No Grand Line Boukenki!|From TV Animation One Piece - Maboroshi no Grand L||,RPG|||||
-82185A|From Tv Animation One Piece - Yume No Luffy Kaizokudan Tanjou!|From TV Animation One Piece - Yume no Luffy Kaizok||,RPG|||||
-82186A|Front Line - The Next Mission|Front Line - The Next Mission||,Action|||||
-82187A|Front Row|Front Row||,F1 racing|||||
+36917A|Frogger|Frogger||Action,Arcade,|2||Konami|Majesco Sales, Inc.|1998
+37078A|Frogger 2|Frogger 2||Action,Arcade,|1||Game Titan|Majesco Sales, Inc.|2000
+167267|Frogs|Frogs|Croc|Action,Arcade,,|||||
+82184A|From Tv Animation One Piece - Maboroshi No Grand Line Boukenki!|From TV Animation One Piece - Maboroshi no Grand L||RPG,||||Banpresto|2002
+82185A|From Tv Animation One Piece - Yume No Luffy Kaizokudan Tanjou!|From TV Animation One Piece - Yume no Luffy Kaizok||RPG,||||Banpresto|2001
+82186A|Front Line - The Next Mission|Front Line - The Next Mission||Action|||||2000
+82187A|Front Row|Front Row||Racing,||||KiD|1999
 82188A|Full Time Soccer|Full Time Soccer||Sports,|||Datel Electronics|Datel Electronics|2000
 82189A|Full Time Soccer And Hang Time Basketball|Full Time Soccer & Hang Time Basketball|||||||
-82191A|Gaiamaster Duel - Card Attackers|Gaiamaster Duel - Card Attackers||,Board game|||||
-82192A|Gakkyuu Ou Yamazaki|Gakkyuu Ou Yamazaki||,Arcade|||||
-81985A|Gakuen Battle Fishers - Yoky Shiimono wa Tsure|Gakuen Battle Fishers - Yoky Shiimono wa Tsure|||||||
-37079A|Galaga - Destination Earth|Galaga : Destination Earth||Shooter,Action,|1||Pipedream Interactive, Inc.|Majesco Sales, Inc.|
+82191A|Gaiamaster Duel - Card Attackers|Gaiamaster Duel - Card Attackers||Board game,|1|||Capcom|2001
+82192A|Gakkyuu Ou Yamazaki|Gakkyuu Ou Yamazaki||Arcade,|1|||Koei|1999
+81985A|Gakuen Battle Fishers - Yoky Shiimono wa Tsure|Gakuen Battle Fishers - Yoky Shiimono wa Tsure||Sports,||||Konami|2000
+37079A|Galaga - Destination Earth|Galaga : Destination Earth||Shooter,Action,|1||Pipedream Interactive, Inc.|Majesco Sales, Inc.|2000
 176734|Gals Fighters|Gals Fighters|||||||
-82194A|Gambler Densetsu Tetsuya - Shinjuku Tenun Hen|Gambler Densetsu Tetsuya - Shinjuku Tenun Hen|||||||
-36918A|Game And Watch Gallery 2|Game & Watch Gallery 2||Action,|1||Nintendo|Nintendo|1999
-37080A|Game And Watch Gallery 3|Game & Watch Gallery 3||Various,|2||Tose Co., Ltd.|Nintendo|
+82194A|Gambler Densetsu Tetsuya - Shinjuku Tenun Hen|Gambler Densetsu Tetsuya - Shinjuku Tenun Hen||||||Athena|2001
+36918A|Game And Watch Gallery 2|Game & Watch Gallery 2||Action,Arcade,|1||Nintendo|Nintendo|1999
+37080A|Game And Watch Gallery 3|Game & Watch Gallery 3||Various,|2||Tose Co., Ltd.|Nintendo|1999
 82195A|Game Boy Color|Game Boy Color|||||||
 82196A|Game Boy Gallery 3|Game Boy Gallery 3|Gameboy Gallery|,Arcade|||||
 82197A|Game Boy Gallery 4|Game Boy Gallery 4|Gameboy Gallery|Action,Arcade|||||
-82198A|Game Boy Wars 2|Game Boy Wars 2|||||Hudson Soft|Hudson Soft|
-82199A|Game Boy Wars 3|Game Boy Wars 3|Gameboy Wars|,Strategy|||Hudson Soft|Hudson Soft|
+82198A|Game Boy Wars 2|Game Boy Wars 2||Strategy,|||Hudson Soft|Hudson Soft|1998
+82199A|Game Boy Wars 3|Game Boy Wars 3|Gameboy Wars|Strategy,|||Hudson Soft|Hudson Soft|2001
 82200A|Game Conveni 21|Game Conveni 21||Strategy,|1||Starfish|Starfish|2000
-82201A|Games Frenzy|Games Frenzy||,Arcade|||||
+82201A|Games Frenzy|Games Frenzy||Board game,Puzzle,||||2n Productions|2000
 82202A|Gameshark Online|GameShark Online|||||||
-82205A|Ganbare Goemon - Mononoke Douchuu Tobisuise Nabebugyou!|Ganbare Goemon - Mononoke Douchuu Tobisuise Nabebu||,Adventure|||||
+82205A|Ganbare Goemon - Mononoke Douchuu Tobisuise Nabebugyou!|Ganbare Goemon - Mononoke Douchuu Tobisuise Nabebu||RPG,||||KCEK|1999
 82997A|Ganbare Goemon - Seikuushi Dynamites Arawaru!!|Ganbare Goemon - Seikuushi Dynamites Arawaru!!|||||||
-82206A|Ganbare Goemon - Tengutou No Gyakushuu|Ganbare Goemon - Tengutou no Gyakushuu||,RPG|||||
-36919A|Ganbare Goemon - Hoshizorashi Dynamites Arawaru!!|Ganbare Goemon: Hoshizorashi Dynamites Arawaru!!||Role playing games,Action,|2||Konami|Konami|
+82206A|Ganbare Goemon - Tengutou No Gyakushuu|Ganbare Goemon - Tengutou no Gyakushuu||RPG,||||Konami|1998
+36919A|Ganbare Goemon - Hoshizorashi Dynamites Arawaru!!|Ganbare Goemon: Hoshizorashi Dynamites Arawaru!!||Role playing games,Action,|2||Konami|Konami|2000
 82207A|Ganbare! Nippon! Olympic 2000|Ganbare! Nippon! Olympic 2000|||||||
 152652|Garou - Mark Of The Wolves|Garou - Mark Of The Wolves|||||||
-82208A|Gb Harobots|GB Harobots||,RPG|||||
+82208A|Gb Harobots|GB Harobots||RPG,||||Sunrise Interactive|2000
 82209A|Gb Memory Multi Menu|GB Memory Multi Menu|||||||
-135857|Gekido|Gekido|Ishido|,Puzzle|||||
-82211A|Gekisou Dangun Racer - Onsoku Buster Dangun Dan|Gekisou Dangun Racer - Onsoku Buster Dangun Dan||,RPG|||||
-82212A|Gem Gem Monster|Gem Gem Monster||,RPG|||||
-82213A|Gensou Maden Saiyuuki - Sabaku No Shikami|Gensou Maden Saiyuuki - Sabaku no Shikami|Gensoumaden Saiyuuki - Sabaku no Shikami|,Cards|||||
-82214A|Get Chuu Club - Minna No Konchuu Daizukan|Get Chuu Club - Minna no Konchuu Daizukan|||||||
-37083A|Gex 3 - Deep Pocket Gecko|Gex 3 : Deep Pocket Gecko||Action,|1||David A. Palmer Productions|Eidos Interactive, Inc.|
+135857|Gekido|Gekido|Ishido|Action,,|||||
+82211A|Gekisou Dangun Racer - Onsoku Buster Dangun Dan|Gekisou Dangun Racer - Onsoku Buster Dangun Dan||RPG,|||||
+82212A|Gem Gem Monster|Gem Gem Monster||RPG,|||||
+82213A|Gensou Maden Saiyuuki - Sabaku No Shikami|Gensou Maden Saiyuuki - Sabaku no Shikami|Gensoumaden Saiyuuki - Sabaku no Shikami|Role-Playing,|1|||J-Wing|2001
+82214A|Get Chuu Club - Minna No Konchuu Daizukan|Get Chuu Club - Minna no Konchuu Daizukan||Adventure,||||Jaleco Entertainment|1999
+37083A|Gex 3 - Deep Pocket Gecko|Gex 3 : Deep Pocket Gecko||Action,Platform,|1||David A. Palmer Productions|Eidos Interactive, Inc.|1999
 36920A|Gex - Enter The Gecko|Gex: Enter the Gecko||Action,Adventure,|1||David A. Palmer Productions|Crave Entertainment, Inc.|1998
 36921A|Ghosts 'n Goblins|Ghosts 'N Goblins||Fight,Action,|1||Capcom|Capcom|2000
 36922A|Gift|Gift||Puzzle-Game,Action,|1||Cryo Interactive Entertainment|Cryo Interactive Entertainment|2001
-82219A|Gifty|Gifty|Gift|,Adventure|||||
-82220A|Glocal Hexcite|Glocal Hexcite||,Puzzle|||||
-82221A|Gobs Of Games|Gobs of Games||,Arcade|||||
-82225A|Godzilla - The Series - Monster Wars|Godzilla - The Series - Monster Wars||,Action|||Crawfish Interactive|Crave|
-36923A|Godzilla - The Series|Godzilla: The Series||Action|1||Crawfish Interactive Ltd.|Crave Entertainment, Inc.|
+82219A|Gifty|Gifty|Gift|Adventure,|||||2000
+82220A|Glocal Hexcite|Glocal Hexcite||Puzzle,Strategy,,|||||
+82221A|Gobs Of Games|Gobs of Games||Arcade,||||3DO|2000
+82225A|Godzilla - The Series - Monster Wars|Godzilla - The Series - Monster Wars||Action|||Crawfish Interactive|Crave|2000
+36923A|Godzilla - The Series|Godzilla: The Series||Action,Shooter,|1||Crawfish Interactive Ltd.|Crave Entertainment, Inc.|1999
 82228A|Golf Daisuki!|Golf Daisuki!||Sports,|1||Kid|KID|1999
-82229A|Golf De Ohasuta|Golf de Ohasuta||,Golf|||||
-82230A|Golf Ou|Golf Ou|Golf|,Golf|||||
-82231A|Gonta No Okiraku Daibouken|Gonta no Okiraku Daibouken||,Adventure|||||
+82229A|Golf De Ohasuta|Golf de Ohasuta||Golf,|||||1999
+82230A|Golf Ou|Golf Ou|Golf|Golf,|||||1999
+82231A|Gonta No Okiraku Daibouken|Gonta no Okiraku Daibouken||Adventure,||||Upstar|2000
 36925A|Goraku Ou Tango!|Goraku Ou Tango!||Puzzle-Game,|1||Mebius|J-Wing Co., Ltd.|2000
 37084A|Grand Theft Auto|Grand Theft Auto||Race, Driving,|1||Tarantula Studios|Take-Two Interactive Software, Inc.|1999
 37085A|Grand Theft Auto 2|Grand Theft Auto 2||Race, Driving,|1||Tarantula Studios|Rockstar Games, Inc.|2000
 36926A|Grandia - Parallel Trippers|Grandia: Parallel Trippers||Role playing games,|1||Game Arts Co., Ltd.|ESP|Hudson Soft Company, Ltd.
-82233A|Granduel - Shinki Dungeon No Hihou|Granduel - Shinki Dungeon no Hihou|Gran Duel - Shinki Dungeon no Hihou|,RPG|||||
-82855A|Great Battle Pocket, The|Great Battle Pocket, The||,RPG|||||
-82234A|Gremlins Unleashed|Gremlins Unleashed||Action,Platform|1||Planet Interactive|LSP|2001
-82235A|Guruguru Garakutas|Guruguru Garakutas||,RPG|||||
-82236A|Guruguru Town Hanamaru-kun|Guruguru Town Hanamaru-kun||,Adventure|||||
-82237A|Gute Zeiten Schlechte Zeiten Quiz|Gute Zeiten Schlechte Zeiten Quiz||,Quiz|||||
-37153A|O'leary Manager 2000|O'Leary Manager 2000||Sports,|1||LiveMedia UK|Ubisoft|
-82238A|Gyouten Ningen Batseelor - Doctor Guy No Yabou|Gyouten Ningen Batseelor - Doctor Guy no Yabou||,RPG|||||
+82233A|Granduel - Shinki Dungeon No Hihou|Granduel - Shinki Dungeon no Hihou|Gran Duel - Shinki Dungeon no Hihou|Role-Playing,||||Bottom Up|1999
+82855A|Great Battle Pocket, The|Great Battle Pocket, The||RPG,|||||1999
+82234A|Gremlins Unleashed|Gremlins Unleashed||Action,Platform,|1||Planet Interactive|LSP|2001
+82235A|Guruguru Garakutas|Guruguru Garakutas||RPG,|||||
+82236A|Guruguru Town Hanamaru-kun|Guruguru Town Hanamaru-kun||Adventure,||||J-Wing|2001
+82237A|Gute Zeiten Schlechte Zeiten Quiz|Gute Zeiten Schlechte Zeiten Quiz||Quiz,||||Software2000|2000
+37153A|O'leary Manager 2000|O'Leary Manager 2000||Sports,|1||LiveMedia UK|Ubisoft|2000
+82238A|Gyouten Ningen Batseelor - Doctor Guy No Yabou|Gyouten Ningen Batseelor - Doctor Guy no Yabou||RPG,|||||2001
 36928A|Halloween Racer|Halloween Racer||Race, Driving,|1||Visual Impact|Microïds|1999
-82239A|Hamster Club|Hamster Club||,Breeding|||||
-82241A|Hamster Club - Awasete Chuu|Hamster Club - Awasete Chuu||,Puzzle|||||
-82242A|Hamster Club - Oshiema Chuu|Hamster Club - Oshiema Chuu|||||||
-82240A|Hamster Club 2|Hamster Club 2||,Breeding|||||
+82239A|Hamster Club|Hamster Club||Simulation,||||Jordan|1999
+82241A|Hamster Club - Awasete Chuu|Hamster Club - Awasete Chuu||Puzzle,||||Jordan|2000
+82242A|Hamster Club - Oshiema Chuu|Hamster Club - Oshiema Chuu||Strategy,||||Jorudan|2001
+82240A|Hamster Club 2|Hamster Club 2||Simulation,||||Jordan|2000
 82243A|Hamster Monogatari Gb + Magi Ham Mahou No Shoujo|Hamster Monogatari GB + Magi Ham Mahou no Shoujo|||||||
-82244A|Hamster Paradise|Hamster Paradise||,Breeding|||||
-82245A|Hamster Paradise 2|Hamster Paradise 2||,Breeding|||||
-82246A|Hamster Paradise 3|Hamster Paradise 3|Hamster Paradise|,Breeding|||||
-82247A|Hamster Paradise 4|Hamster Paradise 4|Hamster Paradise|,Breeding|||||
-36929A|Hamtaro - Ham-hams Unite!|Hamtaro: Ham-Hams Unite!||Puzzle-Game,Role playing games,|1||Nintendo|Nintendo|
-82249A|Hamunaptra - Ushinawareta Sabaku No Miyako|Hamunaptra - Ushinawareta Sabaku no Miyako||,Platform|||||
-82250A|Hana Yori Dango - Another Love Story|Hana Yori Dango - Another Love Story||,Adventure|||||
-36930A|Hanasaka Tenshi Tentenkun No Beat Breaker|Hanasaka Tenshi Tentenkun no Beat Breaker|Hanasaka Tenshi Tenten-kun no Beat Breaker|Puzzle-Game,Strategy,|2||Konami|Konami|
+82244A|Hamster Paradise|Hamster Paradise||Simulation,||||Atlus|1999
+82245A|Hamster Paradise 2|Hamster Paradise 2||Simulation,||||Atlus|2000
+82246A|Hamster Paradise 3|Hamster Paradise 3|Hamster Paradise|Simulation,||||Atlus|2000
+82247A|Hamster Paradise 4|Hamster Paradise 4|Hamster Paradise|Breeding,||||Atlus|2001
+36929A|Hamtaro - Ham-hams Unite!|Hamtaro: Ham-Hams Unite!||Puzzle-Game,Role playing games,|1||Nintendo|Nintendo|2001
+82249A|Hamunaptra - Ushinawareta Sabaku No Miyako|Hamunaptra - Ushinawareta Sabaku no Miyako||Platform,|||||
+82250A|Hana Yori Dango - Another Love Story|Hana Yori Dango - Another Love Story||Adventure,||||TDK Core|2001
+36930A|Hanasaka Tenshi Tentenkun No Beat Breaker|Hanasaka Tenshi Tentenkun no Beat Breaker|Hanasaka Tenshi Tenten-kun no Beat Breaker|Puzzle-Game,Strategy,|2||Konami|Konami|1999
 37086A|Hands Of Time|Hands of Time||Action,Adventure,|2||Mirage Media S. C.|Titus|2001
 82252A|Hang Time Basketball|Hang Time Basketball||Sports,|||Datel Electronics|Datel Electronics|2001
 82254A|Harley-davidson Motor Cycles - Race Across America|Harley-Davidson Motor Cycles : Race Across America|||||Canopy Games|WizardWorks Software|
 176733|Harry Potter 3|Harry Potter 3|||||||
 37087A|Harry Potter And The Sorcerer's Stone|Harry Potter and the Sorcerer's Stone||Role playing games,|1||Griptonite Games|Electronic Arts|2001
 36931A|Harry Potter Et La Chambre Des Secrets|Harry Potter and the Chamber of Secrets||Role playing games,|2||Griptonite Games|Electronic Arts|2002
-82255A|Harry Potter To Kenja No Ishi|Harry Potter to Kenja no Ishi||,Adventure|||||
-82256A|Harvest Moon 2 Gbc|Harvest Moon 2 GBC||,Adventure|||Natsume|Natsume|
+82255A|Harry Potter To Kenja No Ishi|Harry Potter to Kenja no Ishi||Adventure,|||||2001
+82256A|Harvest Moon 2 Gbc|Harvest Moon 2 GBC||Simulation,Adventure,|1||Natsume|Natsume|1999
 36932A|Harvest Moon 3 Gbc|Harvest Moon 3 GBC|Harvest Moon 2 GBC|Simulation,|1||Victor Interactive Software, Inc.|Natsume Co., Ltd.|Natsume, Inc.
 37088A|Harvest Moon Gb|Harvest Moon GB||Simulation,|2||Victor Interactive Software, Inc.|Natsume, Inc.|1999
 82257A|Hello Kitty No Beads Factory|Hello Kitty no Beads Factory|||||||
-82258A|Hello Kitty No Happy House|Hello Kitty no Happy House||,Adventure|||||
-82259A|Hello Kitty No Magical Museum|Hello Kitty no Magical Museum||,Puzzle|||||
-82260A|Hello Kitty No Sweet Adventure - Daniel-kun Ni Aitai|Hello Kitty no Sweet Adventure - Daniel-kun ni Ait||,Arcade|||||
-82261A|Hello Kitty To Dear Daniel No Dream Adventure|Hello Kitty to Dear Daniel no Dream Adventure||,Platform|||||
+82258A|Hello Kitty No Happy House|Hello Kitty no Happy House||Adventure,||||MTO;Tenyo|2002
+82259A|Hello Kitty No Magical Museum|Hello Kitty no Magical Museum||Puzzle,|1|||Imagineer|1999
+82260A|Hello Kitty No Sweet Adventure - Daniel-kun Ni Aitai|Hello Kitty no Sweet Adventure - Daniel-kun ni Ait||Arcade,||||Imagineer|2000
+82261A|Hello Kitty To Dear Daniel No Dream Adventure|Hello Kitty to Dear Daniel no Dream Adventure||Platformer,||||Imagineer|2001
 82262A|Hello Kitty's Cube Frenzy|Hello Kitty's Cube Frenzy||Puzzle-Game,|||Torus Games|NewKidCo|1999
-82264A|Hercules - The Legendary Journeys|Hercules - The Legendary Journeys||,Adventure|||||
-82265A|Hero Hero Kun|Hero Hero Kun||,Adventure|||||
-36933A|Heroes Of Might And Magic|Heroes of Might and Magic||Role playing games,|1||KnowWonder, Inc.|3DO|
+82264A|Hercules - The Legendary Journeys|Hercules - The Legendary Journeys||Adventure,|1|||Titus Software|2001
+82265A|Hero Hero Kun|Hero Hero Kun||Adventure,||||Imagineer|2001
+36933A|Heroes Of Might And Magic|Heroes of Might and Magic||Role playing games,|1||KnowWonder, Inc.|3DO|2000
 37089A|Heroes Of Might And Magic 2|Heroes of Might and Magic II||Strategy,|1||KnowWonder, Inc.|3DO|2000
-152758|Heroic Sword|Heroic Sword||,Adventure|||||
-36934A|Hexcite - The Shapes Of Victory|Hexcite: The Shapes of Victory||Puzzle-Game,|2||Gu, Inc.|Ubisoft Entertainment SA|
+152758|Heroic Sword|Heroic Sword||RPG,|||||
+36934A|Hexcite - The Shapes Of Victory|Hexcite: The Shapes of Victory||Puzzle-Game,|2||Gu, Inc.|Ubisoft Entertainment SA|1998
 82267A|Hiryuu No Ken - Retsuden Gb|Hiryuu no Ken - Retsuden GB|||||||
-82268A|Hissatsu Pachinko Boy - Cr Monster House|Hissatsu Pachinko Boy - CR Monster House|Hisshatsu Pachinko Boy - CR Monster House|,Slot machine|||||
-82269A|Hole In One Golf|Hole In One Golf||,Golf|||||
+82268A|Hissatsu Pachinko Boy - Cr Monster House|Hissatsu Pachinko Boy - CR Monster House|Hisshatsu Pachinko Boy - CR Monster House|Casino,||||Sunsoft|2000
+82269A|Hole In One Golf|Hole In One Golf||Sports,||||Natsume|1998
 82270A|Hollywood Pinball|Hollywood Pinball||Pinball,|||Tarantula Studios|Take-Two Interactive Software Europe Ltd.|1999
-82271A|Holy Magic Century|Holy Magic Century||,Arcade|||||
-82272A|Honkaku Hanafuda Gb|Honkaku Hanafuda GB||,Puzzle|||||
-82273A|Honkaku Shougi - Shougi Ou|Honkaku Shougi - Shougi Ou||,Puzzle|||||
-82274A|Honkaku Taisen Shougi Ayumu|Honkaku Taisen Shougi Ayumu||,Puzzle|||||
-82275A|Honkaku Yonin Uchi Mahjong - Mahjong Ou|Honkaku Yonin Uchi Mahjong - Mahjong Ou||,Mahjong|||||
-37091A|Hot Wheels - Stunt Track Driver|Hot Wheels: Stunt Track Driver||Race, Driving,|2||Lucky Chicken Games, Inc.|Mattel Media|
+82271A|Holy Magic Century|Holy Magic Century||Arcade,|||||
+82272A|Honkaku Hanafuda Gb|Honkaku Hanafuda GB||Board game,||||Altron|2000
+82273A|Honkaku Shougi - Shougi Ou|Honkaku Shougi - Shougi Ou||Puzzle,||||Culture Brain|1998
+82274A|Honkaku Taisen Shougi Ayumu|Honkaku Taisen Shougi Ayumu||Board game,||||Culture Brain|1999
+82275A|Honkaku Yonin Uchi Mahjong - Mahjong Ou|Honkaku Yonin Uchi Mahjong - Mahjong Ou||Mahjong,|||||1999
+37091A|Hot Wheels - Stunt Track Driver|Hot Wheels: Stunt Track Driver||Race, Driving,|2||Lucky Chicken Games, Inc.|Mattel Media|2002
 36935A|Hoyle Card Games|Hoyle Card Games||Various,Strategy,|2||Sandbox Studios, Inc.|Sierra|2000
 37092A|Hoyle Casino|Hoyle Casino||Action,Simulation,|2||Pulsar Interactive|Sierra|2000
-82282A|Hugo - The Evil Mirror|Hugo - The Evil Mirror|||||||
+82282A|Hugo - The Evil Mirror|Hugo - The Evil Mirror||Action,|1|||ITE Media|2002
 82278A|Hugo 2 1-2|Hugo 2 1-2|||||||
-82279A|Hugo - Black Diamond Fever|Hugo - Black Diamond Fever||,Arcade|||||
-82283A|Hunter X Hunter - Hunter No Keifu|Hunter X Hunter - Hunter no Keifu||,Adventure|||||
-82284A|Hunter X Hunter - Kindan No Hihou|Hunter X Hunter - Kindan no Hihou||,Action|||||
-37093A|Hype - The Time Quest|Hype: The Time Quest||Action,Adventure|2||Planet Interactive Development|Ubi Soft Entertainment, Inc.|
+82279A|Hugo - Black Diamond Fever|Hugo - Black Diamond Fever||Arcade,|1|||Electronic Arts|2001
+82283A|Hunter X Hunter - Hunter No Keifu|Hunter X Hunter - Hunter no Keifu||Adventure,||||Konami|2000
+82284A|Hunter X Hunter - Kindan No Hihou|Hunter X Hunter - Kindan no Hihou||Action||||Konami|2001
+37093A|Hype - The Time Quest|Hype: The Time Quest||Action,Adventure,|2||Planet Interactive Development|Ubi Soft Entertainment, Inc.|2000
 82287A|Hyper Olympic - Winter 2000|Hyper Olympic - Winter 2000|||||||
-82286A|Hyper Olympic Series - Track And Field Gb|Hyper Olympic Series - Track & Field GB|||||||
+82286A|Hyper Olympic Series - Track And Field Gb|Hyper Olympic Series - Track & Field GB||Sports,|||||1999
 152650|Ice Age|Ice Age|||||||
-82288A|Ide Yousuke No Mahjong Kyoushitsu Gb|Ide Yousuke no Mahjong Kyoushitsu GB|Ide Yosuke no Mahjong Kyoushitsu GB|,Mahjong|||||
+82288A|Ide Yousuke No Mahjong Kyoushitsu Gb|Ide Yousuke no Mahjong Kyoushitsu GB|Ide Yosuke no Mahjong Kyoushitsu GB|Board Game,||||Athena|
 36936A|Indiana Jones And The Infernal Machine|Indiana Jones and the Infernal Machine||Puzzle-Game,Action,|1||LucasArts|THQ|2001
 36937A|Inspector Gadget - Operation Madkactus|Inspector Gadget: Operation Madkactus||Puzzle-Game,Strategy,|1||RFX Interactive|Light & Shadow Production|Ubi Soft Entertainment Ltd.
 37094A|International Karate 2000|International Karate 2000||Race, Driving,Action,|1||Studio 3 Interactive|Studio 3 Interactive|1999
 82290A|International Rally|International Rally||Racing,|||Konami|Konami|2000
 37095A|International Superstar Soccer 2000|International Superstar Soccer 2000||Sports,|1||Major A|Konami|2000
 37096A|International Superstar Soccer 99|International Superstar Soccer 99|International Superstar Soccer '99|Sports,|1||Konami|Konami|2000
-82292A|International Track And Field|International Track & Field||,Sports|||||
-82293A|International Track And Field - Summer Games|International Track & Field - Summer Games||,Sports|2||Konami|Konami|2000
-82294A|It's A World Rally|It's a World Rally||,Racing|||||
-82295A|Itsudemo Pachinko Gb - Cr Monster House|Itsudemo Pachinko GB - CR Monster House||,Slot machine|||||
-82296A|J.league Excite Stage Gb|J.League Excite Stage GB||,Soccer|||||
-82297A|J.league Excite Stage Tactics|J.League Excite Stage Tactics||,Soccer|||||
-82298A|Jack No Daibouken - Daimaou No Gyakushuu|Jack no Daibouken - Daimaou no Gyakushuu||,RPG|||||
-82299A|Jagainu-kun|Jagainu-kun||,Adventure|||||
-82300A|Jankyuusei - Cosplay Paradise|Jankyuusei - Cosplay Paradise||,Mahjong|||||
-82301A|Janosch - Das Grosse Panama-spiel|Janosch - Das grosse Panama-Spiel||,Adventure|||||
-82302A|Jay Und Die Spielzeugdiebe|Jay und die Spielzeugdiebe||,Platform|||||
-82303A|Jeff Gordon Xs Racing|Jeff Gordon XS Racing||,Racing|||||
-37097A|Jeremy Mcgrath Supercross 2000|Jeremy McGrath Supercross 2000||Sports,Race, Driving,|||M4 Ltd.|Acclaim Entertainment|
-82304A|Jet De Go!|Jet de Go!||,Flight simulator|||||
-82306A|Jimmy White's Cueball|Jimmy White's Cueball||Sports,|||Vicarious Visions, Inc.|Virgin|2000
-82307A|Jinsei Game - Tomodachi Takusan Tsukurou Yo!|Jinsei Game - Tomodachi Takusan Tsukurou yo!|Jinsei Game - Tomedachi Takusan Tsukurouyo!|,Board game|||||
-82308A|Jisedai Begoma Battle Beyblade|Jisedai Begoma Battle Beyblade||,Adventure|||||
-82309A|Jissen Ni Yakudatsu Tsumego|Jissen ni Yakudatsu Tsumego|||||||
+82292A|International Track And Field|International Track & Field||Sports,,|2|||Konami|1999
+82293A|International Track And Field - Summer Games|International Track & Field - Summer Games||Sports,|2||Konami|Konami|2000
+82294A|It's A World Rally|It's a World Rally||Racing,|||||1999
+82295A|Itsudemo Pachinko Gb - Cr Monster House|Itsudemo Pachinko GB - CR Monster House||Casino,||||Takuya;Tam|2000
+82296A|J.league Excite Stage Gb|J.League Excite Stage GB||Sports,||||ART|1999
+82297A|J.league Excite Stage Tactics|J.League Excite Stage Tactics||Simulation,Sports,||||Epoch|2001
+82298A|Jack No Daibouken - Daimaou No Gyakushuu|Jack no Daibouken - Daimaou no Gyakushuu||RPG,|||||
+82299A|Jagainu-kun|Jagainu-kun||Adventure,||||Victor Interactive Software|2000
+82300A|Jankyuusei - Cosplay Paradise|Jankyuusei - Cosplay Paradise||Mahjong,||||Elf Co. Ltd|2001
+82301A|Janosch - Das Grosse Panama-spiel|Janosch - Das grosse Panama-Spiel||Adventure,|||||1999
+82302A|Jay Und Die Spielzeugdiebe|Jay und die Spielzeugdiebe||Platformer,||||Eclipse|2000
+82303A|Jeff Gordon Xs Racing|Jeff Gordon XS Racing||Racing,||||Natsume|1999
+37097A|Jeremy Mcgrath Supercross 2000|Jeremy McGrath Supercross 2000||Sports,Race, Driving,|||M4 Ltd.|Acclaim Entertainment|2000
+82304A|Jet De Go!|Jet de Go!||Simulation,,||||Taito Corporation|2000
+82306A|Jimmy White's Cueball|Jimmy White's Cueball||Sports,|1||Vicarious Visions, Inc.|Virgin|2000
+82307A|Jinsei Game - Tomodachi Takusan Tsukurou Yo!|Jinsei Game - Tomodachi Takusan Tsukurou yo!|Jinsei Game - Tomedachi Takusan Tsukurouyo!|Board Game,||||Takara|1999
+82308A|Jisedai Begoma Battle Beyblade|Jisedai Begoma Battle Beyblade||Action,RPG,Sports,||||Hudson Soft|1999
+82309A|Jissen Ni Yakudatsu Tsumego|Jissen ni Yakudatsu Tsumego||||||Pony Canyon|2000
 82310A|Joryuu Janshi Ni Chousen Gb - Watashi-tachi Ni Chousen Shitene|Joryuu Janshi ni Chousen GB - Watashi-tachi ni Cho|||||||
-37098A|Jump Start - Dino Adventure - Field Trip|JumpStart Dino Adventure : Field Trip|JumpStart Dino Adventure - Field Trip|Various,Educational,|1||Dice Canada|Knowledge Adventure, Inc.|
-82315A|Jurassic Boy 2|Jurassic Boy 2||Platform,|||Sachen|Sachen|1990
+37098A|Jump Start - Dino Adventure - Field Trip|JumpStart Dino Adventure : Field Trip|JumpStart Dino Adventure - Field Trip|Various,Educational,|1||Dice Canada|Knowledge Adventure, Inc.|2001
+82315A|Jurassic Boy 2|Jurassic Boy 2||Platform,|1||Sachen|Sachen|1990
 82998A|Jurassic Boy 2 + Thunder Blast Man|Jurassic Boy 2 + Thunder Blast Man|||||||
-82316A|Juukou Senki Bullet Battlers|Juukou Senki Bullet Battlers||,RPG|||||
-82317A|K.o. - The Pro Boxing|K.O. - The Pro Boxing||,Adventure|||||
-82318A|Kaept'n Blaubaer - Die Verrueckte Schatzsuche|Kaept'n Blaubaer - Die verrueckte Schatzsuche||,Puzzle|||||
-82319A|Kaitei Densetsu!! Treasure World|Kaitei Densetsu!! Treasure World||,Adventure|||||
-82320A|Kakurenbo Battle Monster Tactics|Kakurenbo Battle Monster Tactics|||||||
-82321A|Kakutou Ryouri Densetsu Bistro Recipe - Gekitou Foodon Battle Hen|Kakutou Ryouri Densetsu Bistro Recipe - Gekitou Fo||,RPG|||||
-82322A|Kakutou Ryouri Densetsu Bistro Recipe - Kettou Bistgarm Hen|Kakutou Ryouri Densetsu Bistro Recipe - Kettou Bis||,RPG|||||
-82323A|Kanji Boy|Kanji Boy||,Adventure|||||
-82324A|Kanji Boy 2|Kanji Boy 2||,Adventure|||||
-82325A|Kanji Boy 3|Kanji Boy 3|Kanji Boy|,Adventure|||||
-82326A|Kanji De Puzzle|Kanji de Puzzle||,Adventure|||||
-82327A|Kanzume Monsters Parfait|Kanzume Monsters Parfait|Kandume Monsters Parfait|,Breeding|||||
-82328A|Karamuchou Wa Oosawagi! - Okawari!|Karamuchou wa Oosawagi! - Okawari!|Karamuchou ha Oosawagi! - Okawari!|,Platform|||||
+82316A|Juukou Senki Bullet Battlers|Juukou Senki Bullet Battlers||RPG,||||KCE Kobe|1999
+82317A|K.o. - The Pro Boxing|K.O. - The Pro Boxing||Adventure,||||Altron|2000
+82318A|Kaept'n Blaubaer - Die Verrueckte Schatzsuche|Kaept'n Blaubaer - Die verrueckte Schatzsuche||Puzzle,|||||2000
+82319A|Kaitei Densetsu!! Treasure World|Kaitei Densetsu!! Treasure World||Adventure,||||DaZZ|2000
+82320A|Kakurenbo Battle Monster Tactics|Kakurenbo Battle Monster Tactics||Role-Playing,||||Nintendo|2000
+82321A|Kakutou Ryouri Densetsu Bistro Recipe - Gekitou Foodon Battle Hen|Kakutou Ryouri Densetsu Bistro Recipe - Gekitou Fo||RPG,||||Red|1999
+82322A|Kakutou Ryouri Densetsu Bistro Recipe - Kettou Bistgarm Hen|Kakutou Ryouri Densetsu Bistro Recipe - Kettou Bis||RPG,||||Red|1999
+82323A|Kanji Boy|Kanji Boy||Educational,||||J-Wing|1999
+82324A|Kanji Boy 2|Kanji Boy 2||Educational,||||J-Wing|2000
+82325A|Kanji Boy 3|Kanji Boy 3|Kanji Boy|Puzzle,Educational,|1|||J-Wing|2003
+82326A|Kanji De Puzzle|Kanji de Puzzle||Educational,Quiz,||||MTO;Magical|2000
+82327A|Kanzume Monsters Parfait|Kanzume Monsters Parfait|Kandume Monsters Parfait|Strategy,||||Starfish|1999
+82328A|Karamuchou Wa Oosawagi! - Okawari!|Karamuchou wa Oosawagi! - Okawari!|Karamuchou ha Oosawagi! - Okawari!|Puzzle,||||Starfish|2000
 82329A|Karamuchou Wa Oosawagi! - Polinkies To Okashina Nakama-tachi|Karamuchou wa Oosawagi! - Polinkies to Okashina Na|||||||
-82330A|Karan Koron Gakuen - Hanafuda Mahjong|Karan Koron Gakuen - Hanafuda Mahjong||,Puzzle|||||
+82330A|Karan Koron Gakuen - Hanafuda Mahjong|Karan Koron Gakuen - Hanafuda Mahjong||Board game,||||J-Wing|2000
 82331A|Karate Joe|Karate Joe||Fighting,|1||Octopus Studios|Rocket Games|2001
-82332A|Kaseki Sousei Reborn 2 - Monster Digger|Kaseki Sousei Reborn II - Monster Digger|||||||
+82332A|Kaseki Sousei Reborn 2 - Monster Digger|Kaseki Sousei Reborn II - Monster Digger||RPG,||||Starfish|1999
 82333A|Katou Hifumi Kudan - Shougi Kyoushitsu|Katou Hifumi Kudan - Shougi Kyoushitsu|||||||
 82334A|Kawa No Nushi Tsuri 4|Kawa no Nushi Tsuri 4|Kawa no Nushi Tsuri 3|,Adventure|||||
-82335A|Kawaii Pet Shop Monogatari|Kawaii Pet Shop Monogatari||,Breeding|||||
-82336A|Kawaii Pet Shop Monogatari 2|Kawaii Pet Shop Monogatari 2||,Adventure|||||
-82337A|Keep The Balance|Keep the Balance||,Puzzle|||||
+82335A|Kawaii Pet Shop Monogatari|Kawaii Pet Shop Monogatari||RPG,||||Coconuts Japan|1999
+82336A|Kawaii Pet Shop Monogatari 2|Kawaii Pet Shop Monogatari 2||RPG,||||Taito|2000
+82337A|Keep The Balance|Keep the Balance||Action,Puzzle,|1|||Karma Studios;Neon Studios|2001
 82338A|Keibajou E Ikou! Wide|Keibajou e Ikou! Wide|Keibajou he Ikou! Wide|,Bets|||||
-82339A|Keitai Denjuu Telefang - Power Version|Keitai Denjuu Telefang - Power Version||,RPG|1|||Natsume - Smilesoft|2000
-82341A|Keitai Denjuu Telefang - Speed Version|Keitai Denjuu Telefang - Speed Version||,RPG||||Natsume - Smilesoft|2000
-82344A|Kelly Club - Clubhouse Fun|Kelly Club : Clubhouse Fun||,Arcade|||Vicarious Visions|VU Games|2001
+82339A|Keitai Denjuu Telefang - Power Version|Keitai Denjuu Telefang - Power Version||RPG,|1|||Natsume - Smilesoft|2000
+82341A|Keitai Denjuu Telefang - Speed Version|Keitai Denjuu Telefang - Speed Version||RPG,||||Natsume - Smilesoft|2000
+82344A|Kelly Club - Clubhouse Fun|Kelly Club : Clubhouse Fun||Arcade,|||Vicarious Visions|VU Games|2001
 37099A|Ken Griffey Jr.'s Slugfest|Ken Griffey Jr.'s Slugfest||Sports,|1||Software Creations Ltd.|Nintendo|1999
-82346A|Kidou Senkan Nadesico - Ruri Ruri Mahjong|Kidou Senkan Nadesico - Ruri Ruri Mahjong||,Mahjong|||||
-82347A|Kikansha Thomas - Sodor-tou No Nakama-tachi|Kikansha Thomas - Sodor-tou no Nakama-tachi|||||||
-82348A|Kindaichi Shounen No Jikenbo - 10nenme No Shoutaijou|Kindaichi Shounen no Jikenbo - 10nenme no Shoutaij||,Adventure|||||
+82346A|Kidou Senkan Nadesico - Ruri Ruri Mahjong|Kidou Senkan Nadesico - Ruri Ruri Mahjong||Mahjong,|2|||King Records|1999
+82347A|Kikansha Thomas - Sodor-tou No Nakama-tachi|Kikansha Thomas - Sodor-tou no Nakama-tachi||||||Tamsoft Corporation|2001
+82348A|Kindaichi Shounen No Jikenbo - 10nenme No Shoutaijou|Kindaichi Shounen no Jikenbo - 10nenme no Shoutaij||Adventure,||||Banpresto|2000
 152651|King Of Fighters R2|King Of Fighters R2|||||||
-176671|King of the Zoo|King of the Zoo||,Arcade|||||
-167284|Kingyo Chuuihou! 2|Kingyo Chuuihou! 2||,Adventure|||||
-82349A|Kinniku Banzuke Gb - Chousensha Wa Kimida!|Kinniku Banzuke GB - Chousensha wa Kimida!|Kinniku Banzuke GB - Chousensha ha Kimida!|,Action|||||
-82350A|Kinniku Banzuke Gb2 - Mezase! Muscle Champion|Kinniku Banzuke GB2 - Mezase! Muscle Champion||,Action|||||
-82351A|Kinniku Banzuke Gb3 - Shinseiki Survival Retsuden!|Kinniku Banzuke GB3 - Shinseiki Survival Retsuden!||,Action|||||
+176671|King of the Zoo|King of the Zoo||Arcade,|||||
+167284|Kingyo Chuuihou! 2|Kingyo Chuuihou! 2||Adventure,|||||1992
+82349A|Kinniku Banzuke Gb - Chousensha Wa Kimida!|Kinniku Banzuke GB - Chousensha wa Kimida!|Kinniku Banzuke GB - Chousensha ha Kimida!|Action||||Konami|1999
+82350A|Kinniku Banzuke Gb2 - Mezase! Muscle Champion|Kinniku Banzuke GB2 - Mezase! Muscle Champion||Action||||Konami|2000
+82351A|Kinniku Banzuke Gb3 - Shinseiki Survival Retsuden!|Kinniku Banzuke GB3 - Shinseiki Survival Retsuden!||Action||||Konami|2001
 167285|Kinnikuman D M|Kinnikuman D M|Kinnikuman DM|,Wrestling|||||
 36940A|Kirby Tilt 'n' Tumble|Kirby : Tilt 'n' Tumble|Kirby's Tilt 'n' Tumble|Puzzle-Game,Action,|1||Nintendo|Nintendo|2000
 82354A|Kirikou|Kirikou||Platform,|1||Wanadoo|Wanadoo|2001
-82999A|Kisekae Monogatari|Kisekae Monogatari||,Adventure|||||
-82355A|Kisekae Series 2 - Oshare Nikki|Kisekae Series 2 - Oshare Nikki||,Adventure|||||
-82356A|Kisekae Series 3 - Kisekae Hamster|Kisekae Series 3 - Kisekae Hamster|||||||
-167286|Kitarou|Kitarou|Kirikou|,RPG|||||
-167287|Kitchin Panic|Kitchin Panic||,Arcade|||||
-167288|Kiteretu Zyuraki|Kiteretu Zyuraki||,Action|||||
+82999A|Kisekae Monogatari|Kisekae Monogatari||Role-Playing,||||Pack-In-Video|1993
+82355A|Kisekae Series 2 - Oshare Nikki|Kisekae Series 2 - Oshare Nikki||Adventure,||||Victor Interactive Software|2001
+82356A|Kisekae Series 3 - Kisekae Hamster|Kisekae Series 3 - Kisekae Hamster||Adventure,||||Victor Interactive Software|2001
+167286|Kitarou|Kitarou|Kirikou|RPG,|||||1996
+167287|Kitchin Panic|Kitchin Panic||Arcade,|||||1991
+167288|Kiteretu Zyuraki|Kiteretu Zyuraki||Action|||||1994
 36941A|Klax|Klax|Blade|Puzzle-Game,Strategy,|1||Atari|Midway|1999
 82357A|Klustar|Klustar||Puzzle,|||Rebellion Developments Ltd.|Infogrames|1999
 82358A|Knockout Kings|Knockout Kings||Sports / Boxing,Sports,|||Digital Eclipse Software|Electronic Arts|1999
 82359A|Koenig Der Loewen, Der - Simbas Grosses Abenteuer|Koenig der Loewen, Der - Simbas grosses Abenteuer|||||||
-82360A|Koguru Guruguru - Guruguru To Nakayoshi|Koguru Guruguru - Guruguru to Nakayoshi|||||||
-176663|Koi Wa Kakehiki|Koi Wa Kakehiki||,Puzzle|||||
-167290|Kokiatsu Boy|Kokiatsu Boy||,RPG|||||
-172260|Konami Basketball|Konami Basketball||,Basketball|||||
+82360A|Koguru Guruguru - Guruguru To Nakayoshi|Koguru Guruguru - Guruguru to Nakayoshi||||||Sting|2001
+176663|Koi Wa Kakehiki|Koi Wa Kakehiki||Puzzle,|||||1991
+167290|Kokiatsu Boy|Kokiatsu Boy||RPG,|||||1998
+172260|Konami Basketball|Konami Basketball||Basketball,|||||1992
 36942A|Konami Gb Collection Vol. 1|Konami GB Collection Vol. 1||Adventure,|1|||Konami Co., Ltd.|2000
 37101A|Konami Gb Collection Vol. 2|Konami GB Collection Vol. 2||Adventure,Sports,|1||Konami|Konami|2000
 37102A|Konami Gb Collection Vol. 3|Konami GB Collection Vol. 3|Konami GB Collection Vol.1|Adventure,Role playing games,Sports,|1||Konami|Konami|2000
 37103A|Konami Gb Collection Vol. 4|Konami GB Collection Vol. 4|Konami GB Collection Vol.1|Race, Driving,|1||Konami|Konami|2000
-172263|Konami Ice Hockey|Konami Ice Hockey||,Hockey|||||
-82366A|Konchuu Fighters|Konchuu Fighters||,RPG|||||
-172259|Konchuu Hakase|Konchuu Hakase||,Adventure|||||
-82367A|Konchuu Hakase 2|Konchuu Hakase 2||,Adventure|||||
-82368A|Konchuu Hakase 3|Konchuu Hakase 3|Konchuu Hakase|,Adventure|||||
-176672|Korodice|Korodice||,Puzzle|||||
+172263|Konami Ice Hockey|Konami Ice Hockey||Hockey,|||||
+82366A|Konchuu Fighters|Konchuu Fighters||RPG,||||Digital Kids|2002
+172259|Konchuu Hakase|Konchuu Hakase||Adventure,|||||
+82367A|Konchuu Hakase 2|Konchuu Hakase 2||RPG,||||J-Wing|1999
+82368A|Konchuu Hakase 3|Konchuu Hakase 3|Konchuu Hakase|RPG,||||J-Wing|2001
+176672|Korodice|Korodice||Puzzle,|||||1990
 82369A|Korokoro Kirby|Korokoro Kirby|Koro Koro Kirby|,Pinball|||||
-82370A|Koto Battle - Tengai No Morihito|Koto Battle - Tengai no Morihito||,RPG|||||
-176673|Koukou Nyuushi Deru Jun - Kanji Mondai no Seifuku|Koukou Nyuushi Deru Jun - Kanji Mondai no Seifuku||,Quiz|||||
-176674|Koukou Nyuushi Rika - Anki Point 250|Koukou Nyuushi Rika - Anki Point 250||,Quiz|||||
+82370A|Koto Battle - Tengai No Morihito|Koto Battle - Tengai no Morihito||RPG,||||AlphaDream|2001
+176673|Koukou Nyuushi Deru Jun - Kanji Mondai no Seifuku|Koukou Nyuushi Deru Jun - Kanji Mondai no Seifuku||Quiz,|||||
+176674|Koukou Nyuushi Rika - Anki Point 250|Koukou Nyuushi Rika - Anki Point 250||Quiz,|||||
 167282|Kournikova|Kournikova|||||||
-82371A|Koushien Pocket|Koushien Pocket||,Baseball|||||
-167289|Kumano Putaru|Kumano Putaru||,Arcade|||||
-82854A|Emperor's New Groove, The|Emperor's New Groove, The||,Platform|||Sandbox Interactive|Ubisoft|
-176675|Kyoudai Jingi|Kyoudai Jingi||,Puzzle|||||
+82371A|Koushien Pocket|Koushien Pocket||Sports,||||Magical|1999
+167289|Kumano Putaru|Kumano Putaru||Arcade,|||||1996
+82854A|Emperor's New Groove, The|Emperor's New Groove, The||Platform,|||Sandbox Interactive|Ubisoft|2000
+176675|Kyoudai Jingi|Kyoudai Jingi||Puzzle,|||||
 81995A|Beauty And The Beast - A Board Game Adventure|Beauty and the Beast - A Board Game Adventure||Board game,|||Left Field Productions|Nintendo|1999
-46342A|Adventures of the Smurfs, The|The Adventures of the Smurfs||Adventure,|1||Infogrames|Infogrames|
-82860A|Mummy, The|The Mummy||Puzzle,|||||
+46342A|Adventures of the Smurfs, The|The Adventures of the Smurfs||Adventure,|1||Infogrames|Infogrames|2000
+82860A|Mummy, The|The Mummy||Puzzle,||||KCE Nagoya|2000
 82386A|Little Mermaid 2, The - Pinball Frenzy|The Little Mermaid II: Pinball Frenzy||Pinball,|||Left Field Productions|Nintendo|2001
-82563A|Planet Of The Apes|Planet of the Apes||Action|||Torus Games|Ubisoft|2001
+82563A|Planet Of The Apes|Planet of the Apes||Action,Platformer,|||Torus Games|Ubisoft|2001
 82372A|Las Vegas Cool Hand|Las Vegas Cool Hand||Strategy,|||Tarantula Studios|Take-Two Interactive Software Europe Ltd.|1998
-82373A|Laura|Laura|Ca Da|,Adventure|1||Planet Interactive|Ubisoft|
-176638|Lazlos' Leap|Lazlos' Leap||,Puzzle|||||
-82866A|Smurfs' Nightmare, The|The Smurfs' Nightmare|Smurfs Nightmare, The|Action,Platform|||Bit Managers|Infogrames|1999
-82827A|Tazmanian Devil - Munching Madness|Tazmanian Devil - Munching Madness||,Adventure|||M4 Limited|Sunsoft|
+82373A|Laura|Laura|Ca Da|Adventure,|1||Planet Interactive|Ubisoft|2000
+176638|Lazlos' Leap|Lazlos' Leap||Puzzle,|||||1992
+82866A|Smurfs' Nightmare, The|The Smurfs' Nightmare|Smurfs Nightmare, The|Action,Platform,|1||Bit Managers|Infogrames|1999
+82827A|Tazmanian Devil - Munching Madness|Tazmanian Devil - Munching Madness||Adventure,|||M4 Limited|Sunsoft|1999
 37227A|Walt Disney's The Jungle Book - Mowgli's Wild Adventure|Walt Disney's The Jungle Book: Mowgli's Wild Adven||Race, Driving,|1||Ubisoft|Ubisoft|
-82858A|Mask Of Zorro, The|The Mask of Zorro||Action|||Ubisoft|Saffire|1999
-37104A|Land Before Time, The|The Land Before Time||Action,Platform|1||Eclipse Entertainment Ltd.|Swing! Entertainment Media AG|
+82858A|Mask Of Zorro, The|The Mask of Zorro||Action,Platformer,|||Ubisoft|Saffire|1999
+37104A|Land Before Time, The|The Land Before Time||Action,Platformer,|1||Eclipse Entertainment Ltd.|Swing! Entertainment Media AG|2001
 36969A|Mummy Returns, The|The Mummy Returns||Shooter,Action,|1||GameBrains|Universal Interactive Inc.|2001
 82384A|Lion King, The - Simba's Mighty Adventure|The Lion King: Simba's Mighty Adventure||Platform,|2||Torus Games|Activision|2001
-82625A|Pooh And Tigger's Hunny Safari|Pooh and Tigger's Hunny Safari||,Platform|||||2002
+82625A|Pooh And Tigger's Hunny Safari|Pooh and Tigger's Hunny Safari||Platformer,||||Digital Eclipse|2002
 82210A|Geheimnis Der Happy Hippo-insel, Das|Geheimnis der Happy Hippo-Insel, Das|||1||Kritzelkratz 3000 GmbH|JoWooD Productions Software AG|2001
 153047|Legend Of Heroes|Legend Of Heroes|||||||
 37105A|Legend Of The River King 2|Legend of the River King 2||Sports,|2||Victor Interactive Software, Inc.|Natsume Co., Ltd.|Natsume, Inc.
 37106A|Legend Of The River King Gb|Legend of the River King GBC|Legend of the River King 2|Sports,|1||Victor Interactive Software, Inc.|Natsume Co., Ltd.|Natsume, Inc.
 36945A|Lego Alpha Team|LEGO Alpha Team||Puzzle-Game,Action,|1||Climax Group, The|Lego Media|2000
-37109A|Lego Island 2 - The Brickster's Revenge|LEGO Island 2: The Brickster's Revenge||Race, Driving,|1||Crawfish Interactive Ltd.|Lego Media|
-37110A|Lego Racers|LEGO Racers||Race, Driving,|1||Climax Group, The|Lego Media|
+37109A|Lego Island 2 - The Brickster's Revenge|LEGO Island 2: The Brickster's Revenge||Race, Driving,|1||Crawfish Interactive Ltd.|Lego Media|2001
+37110A|Lego Racers|LEGO Racers||Race, Driving,|1||Climax Group, The|Lego Media|2000
 37111A|Lego Stunt Rally|LEGO Stunt Rally||Race, Driving,|1||Graphic State Limited|Lego Media|2001
 184822|Lei Nu Ji Shen|Lei Nu Ji Shen|||||||
 167271|Leisure Suit Nick|Leisure Suit Nick|||||||
-36946A|Lemmings|Lemmings||Puzzle-Game,Strategy,|1||Tarantula Studios|Take-Two Interactive Software, Inc.|
-37057A|Disney's 102 Dalmatians - Puppies To The Rescue|Disney's 102 Dalmatians: Puppies to the Rescue||Action,|1||Crystal Dynamics, Inc.|Digital Eclipse Software, Inc.|Activision
-46341A|Adventures of Elmo in Grouchland, The|The Adventures of Elmo in Grouchland||Platform,|1||Bonsai Entertainment Corp.|NewKidCo|
+36946A|Lemmings|Lemmings||Puzzle-Game,Strategy,|1||Tarantula Studios|Take-Two Interactive Software, Inc.|1991
+37057A|Disney's 102 Dalmatians - Puppies To The Rescue|Disney's 102 Dalmatians: Puppies to the Rescue||Action,Arcade,Platform,,|1||Crystal Dynamics, Inc.|Digital Eclipse Software, Inc.|Activision
+46341A|Adventures of Elmo in Grouchland, The|The Adventures of Elmo in Grouchland||Platform,|1||Bonsai Entertainment Corp.|NewKidCo|1999
 82032A|Buzz Lightyear Of Star Command|Buzz Lightyear of Star Command||Action / Adventure,Action,|1||Traveller's Tales|Activision|2000
 37021A|Wacky Races|Wacky Races||Race, Driving,|1||Velez & Dubail|Infogrames|2000
-82861A|Muppets, The|Muppets, The||,Platform|||Tarantula Studios|Take-Two Interactive|2000
-82864A|New Adventures Of Mary-kate And Ashley, The|The New Adventures of Mary-Kate & Ashley|||||||
-82181A|Flintstones, The - Burgertime In Bedrock|The Flintstones: Burgertime in Bedrock||Action,Arcade|||Conspiracy Entertainment Corp.|Swing! Entertainment Media AG|2000
+82861A|Muppets, The|Muppets, The||Platform,|||Tarantula Studios|Take-Two Interactive|2000
+82864A|New Adventures Of Mary-kate And Ashley, The|The New Adventures of Mary-Kate & Ashley||Platform,||||Acclaim|1999
+82181A|Flintstones, The - Burgertime In Bedrock|The Flintstones: Burgertime in Bedrock||Action,Platformer,|||Conspiracy Entertainment Corp.|Swing! Entertainment Media AG|2000
 37181A|Rugrats - Totally Angelica|Rugrats: Totally Angelica||Action,Puzzle-Game,|1||Tiertex Design Studios|THQ|2000
-37179A|Rugrats Movie, The|The Rugrats Movie||Action,Platform|1||Software Creations Ltd.|THQ|
-37180A|Rugrats - Time Travelers|Rugrats: Time Travelers||Action,Action / Adventure,|1||Software Creations Ltd.|THQ|
+37179A|Rugrats Movie, The|The Rugrats Movie||Action,Platformer,|1||Software Creations Ltd.|THQ|1998
+37180A|Rugrats - Time Travelers|Rugrats: Time Travelers||Action,Action / Adventure,|1||Software Creations Ltd.|THQ|1999
 36993A|Rugrats In Paris - The Movie|Rugrats in Paris: The Movie||Action,Platform,|1||Software Creations Ltd.|THQ|2001
 82923A|Les Visiteurs|Les Visiteurs||Platform,|||Ubisoft|Ubisoft|1999
 82382A|Lil' Monster|Lil' Monster||Strategy,|||Kid|Agetec Inc.|2000
 82385A|Little Magic|Little Magic||Puzzle,|1||Altron|Altron|1999
-82388A|Little Nicky|Little Nicky||Action,Platform|||Digital Eclipse|Ubisoft|2000
+82388A|Little Nicky|Little Nicky||Action,Platformer,Adventure,|||Digital Eclipse|Ubisoft|2000
 37075A|F.A. Premier League Stars 2001, The|The F.A. Premier League Stars 2001||Sports / Soccer,Sports,|1||Krisalis Software Ltd.|THQ|2001
-82390A|Lode Runner - Domudomu Dan No Yabou|Lode Runner - Domudomu Dan no Yabou||,Arcade|||||
-82391A|Lodoss-tou Senki - Eiyuu Kishiden Gb|Lodoss-tou Senki - Eiyuu Kishiden GB|Lodoss Tou Senki - Eiyuu Kishiden GB|,Board game|||||
+82390A|Lode Runner - Domudomu Dan No Yabou|Lode Runner - Domudomu Dan no Yabou||Arcade,||||Xing Entertainment|2000
+82391A|Lodoss-tou Senki - Eiyuu Kishiden Gb|Lodoss-tou Senki - Eiyuu Kishiden GB|Lodoss Tou Senki - Eiyuu Kishiden GB|,Board game||||Tomy|1998
 82392A|Logical|Logical|Gojira|Puzzle,|||Conspiracy Entertainment|Sunsoft|1999
-36948A|Looney Tunes|Looney Tunes||Action,Platform|1||Sunsoft|Sunsoft|1999
+36948A|Looney Tunes|Looney Tunes||Action,Platformer,|1||Sunsoft|Sunsoft|1999
 37113A|Looney Tunes Collector - Alert!|Looney Tunes Collector : Alert!||Puzzle-Game,Action,|||Infogrames Lyon|Infogrames North America|2000
-82422A|Looney Tunes - Marvin Strikes Back!|Marvin Strikes Back!||Action / Adventure,Action,|||Infogrames|Inforgrames|2000
+82422A|Looney Tunes - Marvin Strikes Back!|Marvin Strikes Back!||Action / Adventure,Action,|1||Infogrames|Inforgrames|2000
 37115A|Looney Tunes Racing|Looney Tunes Racing||Race, Driving,|1||Xantera|Infogrames|2001
-82399A|Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou|Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou||,Puzzle|||||
-82400A|Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou|Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou|Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-Gou|,Puzzle|||||
-82401A|Loppi Puzzle Magazine - Hirameku Puzzle Soukangou|Loppi Puzzle Magazine - Hirameku Puzzle Soukangou||,Puzzle|||||
-82402A|Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou|Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou||,Puzzle|||||
-82403A|Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou|Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou|Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-Gou|,Puzzle|||||
-82404A|Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou|Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou||,Puzzle|||||
+82399A|Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou|Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou||Puzzle,||||Success|2001
+82400A|Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou|Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou|Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-Gou|Puzzle,||||Success|2001
+82401A|Loppi Puzzle Magazine - Hirameku Puzzle Soukangou|Loppi Puzzle Magazine - Hirameku Puzzle Soukangou||Puzzle,||||Success|2001
+82402A|Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou|Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou||Puzzle,||||Success|2001
+82403A|Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou|Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou|Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-Gou|Puzzle,||||Success|2001
+82404A|Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou|Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou||Puzzle,||||Success|2001
 82405A|Love Hina Party|Love Hina Party||Adventure,|1||Marvelous Entertainment|Marvelous Entertainment|2001
 82406A|Love Hina Pocket|Love Hina Pocket||Adventure,|1||Marvelous Entertainment|Marvelous Entertainment|2000
-82407A|Luca No Puzzle De Daibouken!|Luca no Puzzle de Daibouken!||,Puzzle|||||
+82407A|Luca No Puzzle De Daibouken!|Luca no Puzzle de Daibouken!||Puzzle,||||Human Entertaiment|1999
 36949A|Lucky Luke|Lucky Luke||Shooter,Action,|1||Infogrames|Infogrames|1999
 37117A|Lucky Luke - Desperado Train|Lucky Luke: Desperado Train||Puzzle-Game,Adventure,|1||Infogrames|Infogrames|2000
 37118A|Lufia - The Legend Returns|Lufia: The Legend Returns||Role playing games,|1||Neverland Co., Ltd.|Natsume, Inc.|2001
-82410A|M And m's Minis Madness|M&M's Minis Madness||Platform,|||Pipe Dream Interactive|Majesco Games|
-82411A|Macross 7 - Ginga No Heart O Furuwasero!!|Macross 7 - Ginga no Heart o Furuwasero!!|Macross 7 - Ginga no Heart wo Furuwasero!!|,Shooter|||||
+82410A|M And m's Minis Madness|M&M's Minis Madness||Platform,|||Pipe Dream Interactive|Majesco Games|2000
+82411A|Macross 7 - Ginga No Heart O Furuwasero!!|Macross 7 - Ginga no Heart o Furuwasero!!|Macross 7 - Ginga no Heart wo Furuwasero!!|Shooter,|1|||Epoch.|2000
 37119A|Madden Nfl 2000|Madden NFL 2000||Sports,|1||Tiertex Design Studios|THQ|1999
 36950A|Madden Nfl 2001|Madden NFL 2001||Sports,|2||3d6 Games|Electronic Arts|2000
 37120A|Madden Nfl 2002|Madden NFL 2002||Role playing games,Sports,|2||3d6 Games|Electronic Arts|2001
 36952A|Magi-nation|Magi Nation||Adventure,Role playing games,Strategy,|1||Interactive Imagination|Interactive Imagination|2001
 152808|Magic Monkey|Magic Monkey|Magic Maze|,Arcade|||||
-82413A|Magical Chase Gb - Minarai Mahoutsukai Kenja No Tani E|Magical Chase GB - Minarai Mahoutsukai Kenja no Ta|||||Micro Cabin|Micro Cabin|
+82413A|Magical Chase Gb - Minarai Mahoutsukai Kenja No Tani E|Magical Chase GB - Minarai Mahoutsukai Kenja no Ta||Action,Shooter,|1||Micro Cabin|Micro Cabin|2000
 82414A|Magical Drop|Magical Drop||Puzzle-Game,|1||Virgin Interactive|swing interactive|2000
 36951A|Magical Tetris Challenge|Magical Tetris Challenge||Puzzle-Game,|2||Capcom|Capcom|2000
-82415A|Mahjong Joou|Mahjong Joou||,Mahjong|||||
-82416A|Mahjong Quest|Mahjong Quest||,Mahjong|||||
-82417A|Majokko Mari-chan No Kisekae Monogatari|Majokko Mari-chan no Kisekae Monogatari||,Adventure|||||
-36953A|Marble Madness|Marble Madness||Action,Arcade|1||Atari|Midway Home Entertainment, Inc.|1999
-82418A|Marie No Atelier Gb|Marie no Atelier GB||,RPG|||||
-82419A|Mario Family|Mario Family|||||||
+82415A|Mahjong Joou|Mahjong Joou||Board game,||||Warashi|2000
+82416A|Mahjong Quest|Mahjong Quest||Board game,RPG,||||J-Wing|1998
+82417A|Majokko Mari-chan No Kisekae Monogatari|Majokko Mari-chan no Kisekae Monogatari||Adventure,||||Pack In Soft;Victor Interactive Software|1999
+36953A|Marble Madness|Marble Madness||Action,Puzzle,|1||Atari|Midway Home Entertainment, Inc.|1999
+82418A|Marie No Atelier Gb|Marie no Atelier GB||RPG,|||||1999
+82419A|Mario Family|Mario Family||||||Jaguar|2001
 37123A|Mario Golf|Mario Golf||Sports,|2||Camelot Software Planning|Nintendo|1999
 36954A|Mario Tennis|Mario Tennis||Sports,Sports / Tennis,|2||Camelot Software Planning|Nintendo|2000
-37124A|Mary-kate And Ashley - Get A Clue!|Mary-Kate & Ashley: Get a Clue!||Puzzle-Game,Adventure,|1||Crawfish Interactive Ltd.|Acclaim Entertainment|
-82424A|Mary-kate And Ashley - Crush Course|Mary-Kate and Ashley - Crush Course|||||||
-82426A|Mary-kate And Ashley - Pocket Planner|Mary-Kate and Ashley - Pocket Planner|||||||
+37124A|Mary-kate And Ashley - Get A Clue!|Mary-Kate & Ashley: Get a Clue!||Puzzle-Game,Adventure,|1||Crawfish Interactive Ltd.|Acclaim Entertainment|2000
+82424A|Mary-kate And Ashley - Crush Course|Mary-Kate and Ashley - Crush Course||Action,||||Acclaim|2001
+82426A|Mary-kate And Ashley - Pocket Planner|Mary-Kate and Ashley - Pocket Planner||Strategy,||||Acclaim|2000
 36955A|Mary-kate And Ashley - Winner's Circle|Mary-Kate and Ashley: Winner's Circle||Sports,Race, Driving,|1||M4 Ltd.|Acclaim Entertainment|2001
 37125A|Mat Hoffman's Pro Bmx|Mat Hoffman's Pro BMX||Sports,|1||HotGen Ltd.|Activision|2001
 36956A|Matchbox - Emergency Patrol|Matchbox: Emergency Patrol||Race, Driving,|1||Lucky Chicken Games, Inc.|Mattel Interactive|2001
-82431A|Maus, Die|Maus, Die||,Puzzle|||||
-82432A|Maus, Die - Verrueckte Olympiade|Maus, Die - Verrueckte Olympiade||,Puzzle|||||
-37126A|Maya The Bee - Garden Adventures|Maya the Bee: Garden Adventures||Puzzle-Game,|1||NEON Software GmbH|Acclaim Entertainment|
+82431A|Maus, Die|Maus, Die||Puzzle,|||||1999
+82432A|Maus, Die - Verrueckte Olympiade|Maus, Die - Verrueckte Olympiade||Puzzle,|||||2001
+37126A|Maya The Bee - Garden Adventures|Maya the Bee: Garden Adventures||Puzzle-Game,|1||NEON Software GmbH|Acclaim Entertainment|2000
 37127A|Maya The Bee And Her Friends|Maya the Bee & Her Friends||Puzzle-Game,Strategy,|1||Crawfish Interactive Ltd.|Acclaim Entertainment|1999
-82434A|Mcdonald's Monogatari - Honobono Tenchou Ikusei Game|McDonald's Monogatari - Honobono Tenchou Ikusei Ga|||||||
-82435A|Medarot 2 - Kabuto Version|Medarot 2 - Kabuto Version||,RPG|||||
-82436A|Medarot 2 - Kuwagata Version|Medarot 2 - Kuwagata Version||,RPG|||||
-82437A|Medarot 2 - Parts Collection|Medarot 2 - Parts Collection||,RPG|||||
-82438A|Medarot 3 - Kabuto Version|Medarot 3 - Kabuto Version|Medarot 2 - Kabuto Version|,RPG|||||
-82439A|Medarot 3 - Kuwagata Version|Medarot 3 - Kuwagata Version|Medarot 2 - Kuwagata Version|,RPG|||||
-82440A|Medarot 3 - Parts Collection - Z Kara No Chousenjou|Medarot 3 - Parts Collection - Z kara no Chousenjo|||||||
-82441A|Medarot 4 - Kabuto Version|Medarot 4 - Kabuto Version|Medarot 2 - Kabuto Version|,RPG|||||
-82442A|Medarot 4 - Kuwagata Version|Medarot 4 - Kuwagata Version|Medarot 2 - Kuwagata Version|,RPG|||||
+82434A|Mcdonald's Monogatari - Honobono Tenchou Ikusei Game|McDonald's Monogatari - Honobono Tenchou Ikusei Ga||Adventure,||||TDK Core|2001
+82435A|Medarot 2 - Kabuto Version|Medarot 2 - Kabuto Version||RPG,|||||1999
+82436A|Medarot 2 - Kuwagata Version|Medarot 2 - Kuwagata Version||RPG,|||||1999
+82437A|Medarot 2 - Parts Collection|Medarot 2 - Parts Collection||RPG,|1|||Imagineer|1999
+82438A|Medarot 3 - Kabuto Version|Medarot 3 - Kabuto Version|Medarot 2 - Kabuto Version|RPG,|||||2000
+82439A|Medarot 3 - Kuwagata Version|Medarot 3 - Kuwagata Version|Medarot 2 - Kuwagata Version|RPG,|||||2000
+82440A|Medarot 3 - Parts Collection - Z Kara No Chousenjou|Medarot 3 - Parts Collection - Z kara no Chousenjo||Role-Playing,|1|||Imagineer|2000
+82441A|Medarot 4 - Kabuto Version|Medarot 4 - Kabuto Version|Medarot 2 - Kabuto Version|RPG,|||||2001
+82442A|Medarot 4 - Kuwagata Version|Medarot 4 - Kuwagata Version|Medarot 2 - Kuwagata Version|RPG,|||||2001
 82443A|Medarot 5 - Susutake Mura No Tenkousei - Kabuto|Medarot 5 - Susutake Mura no Tenkousei - Kabuto|||||||
 82444A|Medarot 5 - Susutake Mura No Tenkousei - Kuwagata|Medarot 5 - Susutake Mura no Tenkousei - Kuwagata||,RPG|||||
-82445A|Medarot Cardrobottle - Kabuto Version|Medarot Cardrobottle - Kabuto Version||,RPG|||||
-82446A|Medarot Cardrobottle - Kuwagata Version|Medarot Cardrobottle - Kuwagata Version||,RPG|||||
+82445A|Medarot Cardrobottle - Kabuto Version|Medarot Cardrobottle - Kabuto Version||RPG,||||Imagineer|2000
+82446A|Medarot Cardrobottle - Kuwagata Version|Medarot Cardrobottle - Kuwagata Version||RPG,||||Imagineer|2000
 37128A|Mega Man Xtreme|Mega Man XTreme||Shooter,Action,|1||Capcom|Capcom|2001
 37129A|Mega Man Xtreme 2|Mega Man Xtreme 2||Shooter,Action,|1||Capcom|Capcom|2002
-82447A|Megami Tensei Gaiden - Last Bible|Megami Tensei Gaiden - Last Bible||,RPG|||||
-36957A|Megami Tensei Gaiden - Last Bible 2|Megami Tensei Gaiden: Last Bible II||Shooter,Role playing games,|1||Access Games|Atlus|
-82450A|Meitantei Conan - Kigantou Hihou Densetsu|Meitantei Conan - Kigantou Hihou Densetsu||,Adventure|||||
-82451A|Meitantei Conan - Norowareta Kouro|Meitantei Conan - Norowareta Kouro||,Adventure|||||
-82455A|Men In Black - The Series|Men in Black - The Series||,Action|||||2001
-82453A|Men In Black 2 - The Series|Men in Black 2 - The Series||,Action|||||
-82457A|Merlin|Merlin|Megalit|Action,Platform|1||Electronic Arts|Electronic Arts|2001
-36958A|Metal Gear Solid|Metal Gear Solid||Action|2||Konami|Konami|2000
-123101|Metal Slug|Metal Slug||,Action|||||
-176741|Metal Slug 2001|Metal Slug 2001|||||||
+82447A|Megami Tensei Gaiden - Last Bible|Megami Tensei Gaiden - Last Bible||RPG,|1|||Atlus|1992
+36957A|Megami Tensei Gaiden - Last Bible 2|Megami Tensei Gaiden: Last Bible II||Shooter,Role playing games,|1||Access Games|Atlus|1999
+82450A|Meitantei Conan - Kigantou Hihou Densetsu|Meitantei Conan - Kigantou Hihou Densetsu||Adventure,|||||2000
+82451A|Meitantei Conan - Norowareta Kouro|Meitantei Conan - Norowareta Kouro||Adventure,|1|||Banpresto Co., Ltd.|2001
+82455A|Men In Black - The Series|Men in Black - The Series||Action|||||2001
+82453A|Men In Black 2 - The Series|Men in Black 2 - The Series||Action|||||2000
+82457A|Merlin|Merlin|Megalit|Action,Platformer,Shooter,|1||Electronic Arts|Electronic Arts|2001
+36958A|Metal Gear Solid|Metal Gear Solid||Action,Adventure,|2||Konami|Konami|2000
+123101|Metal Slug|Metal Slug||Action|||||
+176741|Metal Slug 2001|Metal Slug 2001||Platformer,Shooter,|||||2001
 37130A|Metal Walker|Metal Walker|Metal Jack|Role playing games,|2||Capcom|Capcom|2001
-82460A|Metamode|Metamode||,RPG|||||
+82460A|Metamode|Metamode||RPG,||||Koei|2000
 108858|Metroid 2 - Return Of Samus|Metroid 2 - Return Of Samus|||||||
 82461A|Mia Hamm Soccer Shootout|Mia Hamm Soccer Shootout||Sports,|||Aqua Pacific|SouthPeak Games|2000
 37131A|Mickey's Racing Adventure|Mickey's Racing Adventure||Race, Driving,|1||Rareware|Nintendo|1999
-36959A|Mickey's Speedway Usa|Mickey's Speedway USA||Race, Driving,|2||Rareware|Nintendo|
-36960A|Micro Machines 1 And 2 - Twin Turbo|Micro Machines 1 and 2: Twin Turbo||Race, Driving,|2||Codemasters|THQ|
+36959A|Mickey's Speedway Usa|Mickey's Speedway USA||Race, Driving,|2||Rareware|Nintendo|2001
+36960A|Micro Machines 1 And 2 - Twin Turbo|Micro Machines 1 and 2: Twin Turbo||Race, Driving,|2||Codemasters|THQ|1999
 37132A|Micro Machines V3|Micro Machines V3|Micro Machines|Race, Driving,|4||Novalicious|THQ|2000
 37133A|Micro Maniacs|Micro Maniacs||Race, Driving,|4||Hyperion Studios|THQ|2000
-82465A|Microsoft - The 6 In 1 Puzzle Collection Entertainment Pack|Microsoft - The 6 in 1 Puzzle Collection Entertain|||||||
-82466A|Microsoft - The Best Of Entertainment Pack|Microsoft - The Best of Entertainment Pack|||||||
+82465A|Microsoft - The 6 In 1 Puzzle Collection Entertainment Pack|Microsoft - The 6 in 1 Puzzle Collection Entertain||Puzzle,||||Classified Games|2000
+82466A|Microsoft - The Best Of Entertainment Pack|Microsoft - The Best of Entertainment Pack||Puzzle,Strategy,|1|||Microsoft Home|2001
 82463A|Microsoft Pinball Arcade|Microsoft Pinball Arcade||Action,Pinball,|||Saffire|Classified Games|2001
 176739|Millenium Winter Sports|Millenium Winter Sports||Sports,|||Konami Computer Entertainment Osaka Co., Ltd.|Konami Co., Ltd.|2000
-82365A|Konami Winter Games|Millennium Winter Sports||Sports,|||Konami|Konami|
-82469A|Minna No Shougi - Shokyuu Hen|Minna no Shougi - Shokyuu Hen||,Puzzle|||||
+82365A|Konami Winter Games|Millennium Winter Sports||Sports,|||Konami|Konami|2000
+82469A|Minna No Shougi - Shokyuu Hen|Minna no Shougi - Shokyuu Hen||Puzzle,||||MTO|1999
 82470A|Minnie And Friends - Yume No Kuni O Sagashite|Minnie & Friends - Yume no Kuni o Sagashite|||||||
 82471A|Missile Command|Missile Command||Shooter,|||Atari|Hasbro Interactive, Inc.|1999
-36962A|Mission - Impossible|Mission: Impossible|Mission Impossible|Action|1||Rebellion Developments Ltd.|Infogrames|1999
+36962A|Mission - Impossible|Mission: Impossible|Mission Impossible|Action,Platform,,|1||Rebellion Developments Ltd.|Infogrames|1999
 82473A|Mizuki Shigeru No Shin Youkaiden|Mizuki Shigeru no Shin Youkaiden|||||||
 184821|Mo Shou Zheng Ba 3 : Hun Luan Zhi Jie|Mo Shou Zheng Ba 3 : Hun Luan Zhi Jie|||||||
 82474A|Mobile Golf|Mobile Golf||Sports,|2||Camelot Software Planning|Nintendo|2001
-82475A|Mobile Trainer|Mobile Trainer|||||||
-82476A|Momotarou Densetsu 1-2|Momotarou Densetsu 1-2||,RPG|||||
+82475A|Mobile Trainer|Mobile Trainer||||||Nintendo|2001
+82476A|Momotarou Densetsu 1-2|Momotarou Densetsu 1-2||RPG,||||Hudson|2001
 36963A|Monkey Puncher|Monkey Puncher||Fight,Strategy,|2||Taito|Evolution Entertainment srl.|2000
 36964A|Monopoly|Monopoly||Various,Strategy,|4||Majesco Sales, Inc.|Majesco Sales, Inc.|1999
-82478A|Monster Farm Battle Card Gb|Monster Farm Battle Card GB||,RPG|||||
+82478A|Monster Farm Battle Card Gb|Monster Farm Battle Card GB||Simulation,RPG,||||Tecmo|1999
 184297|Monster Go! Go! Go!|Monster Go! Go! Go!|||||||
-82479A|Monster Race 2|Monster Race 2||,RPG|||||
-37135A|Monster Rancher Battlecard Gb|Monster Rancher Battle Card GB||Role playing games,|2||Tecmo|Tecmo, Inc.|
-37136A|Monster Rancher Explorer|Monster Rancher Explorer||Action,Platform|1||Graphic Research Co., Ltd.|Tecmo|2000
-82481A|Monster Traveler|Monster Traveler||,RPG|||||
-82482A|Monsters, Inc.|Monsters, Inc.||Action,Platform|||Vicarious Visions|THQ|2002
-82484A|Montezuma's Return!|Montezuma's Return!|Montezuma's Return|,Arcade|||||
-82485A|Moomin No Daibouken|Moomin no Daibouken||,Platform|||||
-82486A|Moomin's Tale|Moomin's Tale||Action,Platform|||Pixel|Sunsoft|2000
+82479A|Monster Race 2|Monster Race 2||RPG,||||Koei|1999
+37135A|Monster Rancher Battlecard Gb|Monster Rancher Battle Card GB||Role playing games,|2||Tecmo|Tecmo, Inc.|2000
+37136A|Monster Rancher Explorer|Monster Rancher Explorer||Action,Platformer,Puzzle,|1||Graphic Research Co., Ltd.|Tecmo|2000
+82481A|Monster Traveler|Monster Traveler||RPG,|||||2001
+82482A|Monsters, Inc.|Monsters, Inc.||Action,Platformer,|||Vicarious Visions|THQ|2002
+82484A|Montezuma's Return!|Montezuma's Return!|Montezuma's Return|Action,Arcade,Platform,,||||Take-Two Interactive|1998
+82485A|Moomin No Daibouken|Moomin no Daibouken||Platform,|||||
+82486A|Moomin's Tale|Moomin's Tale||Action,Platformer,Adventure,|||Pixel|Sunsoft|2000
 82488A|Moorhen 3 - The Chicken Chase!|Moorhen 3 - The Chicken Chase!|||1||similis|Ubisoft|
-82490A|Moorhuhn 2 - Die Jagd Geht Weiter|Moorhuhn 2 - Die Jagd geht weiter||,Gun shooter|||||
+82490A|Moorhuhn 2 - Die Jagd Geht Weiter|Moorhuhn 2 - Die Jagd geht weiter||Gun shooter,||||Phenomedia|2001
 36965A|Mortal Kombat 4|Mortal Kombat 4|Mortal Kombat|Fight,Action,|2||Digital Eclipse|Midway|1999
 36966A|Motocross Maniacs 2|Motocross Maniacs 2||Sports,Race, Driving,|2||Konami|Konami|1999
 167272|Moving Fox|Moving Fox|||||||
 36967A|Mr. Driller|Mr. Driller||Strategy,|1||Namco|Namco Hometek Inc.|2000
-37137A|Mr. Nutz|Mr. Nutz|Mr Nutz|Action,Platform|1||Planet Interactive Development|Infogrames|1999
-36968A|Ms. Pac-man - Special Color Edition|Ms. Pac-Man: Special Color Edition|Ms. Pac-Man Special Color Edition|Action,Arcade|1||Namco|Namco|1999
-37138A|Mtv Sports - Pure Ride|MTV Sports: Pure Ride||Sports,Race, Driving,|1||Visual Impact|THQ|
+37137A|Mr. Nutz|Mr. Nutz|Mr Nutz|Action,Platformer,|1||Planet Interactive Development|Infogrames|1999
+36968A|Ms. Pac-man - Special Color Edition|Ms. Pac-Man: Special Color Edition|Ms. Pac-Man Special Color Edition|Action,Arcade,,|1||Namco|Namco|1999
+37138A|Mtv Sports - Pure Ride|MTV Sports: Pure Ride||Sports,Race, Driving,|1||Visual Impact|THQ|2000
 37139A|Mtv Sports - Skateboarding Featuring Andy Macdonald|MTV Sports: Skateboarding featuring Andy Macdonald||Sports,|1||Darkblack Ltd|THQ|2000
 37140A|Mtv Sports - T.j. Lavin's Ultimate Bmx|MTV Sports: T.J. Lavin's Ultimate BMX||Sports,|1||Handheld Games|THQ|2000
-82497A|Muteki Ou Tri-zenon|Muteki Ou Tri-Zenon||,Strategy|||||
-82498A|Nakayoshi Cooking Series 1 - Oishii Cake-ya-san|Nakayoshi Cooking Series 1 - Oishii Cake-ya-san|||||||
-82499A|Nakayoshi Cooking Series 2 - Oishii Panya-san|Nakayoshi Cooking Series 2 - Oishii Panya-san||,Adventure|||||
-82500A|Nakayoshi Cooking Series 3 - Tanoshii Obentou|Nakayoshi Cooking Series 3 - Tanoshii Obentou|||||||
-82501A|Nakayoshi Cooking Series 4 - Tanoshii Dessert|Nakayoshi Cooking Series 4 - Tanoshii Dessert|||||||
-82502A|Nakayoshi Cooking Series 5 - Cake O Tsukurou|Nakayoshi Cooking Series 5 - Cake o Tsukurou|||||||
-82503A|Nakayoshi Pet Series 1 - Kawaii Hamster|Nakayoshi Pet Series 1 - Kawaii Hamster||,Breeding|||||
-82504A|Nakayoshi Pet Series 2 - Kawaii Usagi|Nakayoshi Pet Series 2 - Kawaii Usagi||,Breeding|||||
-82505A|Nakayoshi Pet Series 3 - Kawaii Koinu|Nakayoshi Pet Series 3 - Kawaii Koinu||,Breeding|||||
-82506A|Nakayoshi Pet Series 4 - Kawaii Koneko|Nakayoshi Pet Series 4 - Kawaii Koneko||,Breeding|||||
-82507A|Nakayoshi Pet Series 5 - Kawaii Hamster 2|Nakayoshi Pet Series 5 - Kawaii Hamster 2||,Breeding|||||
-82508A|Naminori Yarou!|Naminori Yarou!||,Surf|||||
-37141A|Nascar 2000|NASCAR 2000||Race, Driving,|2||Software Creations Ltd.|THQ|
-82509A|Nascar Challenge|NASCAR Challenge||Race, Driving,|||Morning Star Multimedia|Majesco Games|
-82510A|Nascar Heat|NASCAR Heat||Race, Driving,|||Game Titan|Majesco Games|
-82511A|Nascar Racers|NASCAR Racers||Race, Driving,|||Digital Eclipse|Majesco Games|
-82513A|Nations, The - Land Of Legends|Nations, The - Land of Legends||,Adventure|||||
-37142A|Nba 3 On 3 Featuring Kobe Bryant|NBA 3 on 3 featuring Kobe Bryant||Sports,|2||Left Field Productions|Nintendo|
-37143A|Nba Hoopz|NBA Hoopz||Sports,|1||Torus Games Pty. Ltd.|Midway Home Entertainment, Inc.|
-82514A|Nba In The Zone|NBA In the Zone||Sports,|||KCEK|Konami|
-37144A|Nba In The Zone 2000|NBA in the Zone 2000||Sports,|1||Konami|Konami|
-176697|NBA Jam - Tournament Edition|NBA Jam - Tournament Edition||,Basketball|||||
+82497A|Muteki Ou Tri-zenon|Muteki Ou Tri-Zenon||Strategy,||||Marvelous Entertainment|2001
+82498A|Nakayoshi Cooking Series 1 - Oishii Cake-ya-san|Nakayoshi Cooking Series 1 - Oishii Cake-ya-san||||||MTO|2000
+82499A|Nakayoshi Cooking Series 2 - Oishii Panya-san|Nakayoshi Cooking Series 2 - Oishii Panya-san||Adventure,||||MTO|2001
+82500A|Nakayoshi Cooking Series 3 - Tanoshii Obentou|Nakayoshi Cooking Series 3 - Tanoshii Obentou||||||MTO|2001
+82501A|Nakayoshi Cooking Series 4 - Tanoshii Dessert|Nakayoshi Cooking Series 4 - Tanoshii Dessert||Simulation,||||MTO|2001
+82502A|Nakayoshi Cooking Series 5 - Cake O Tsukurou|Nakayoshi Cooking Series 5 - Cake o Tsukurou||Strategy,||||MTO|2002
+82503A|Nakayoshi Pet Series 1 - Kawaii Hamster|Nakayoshi Pet Series 1 - Kawaii Hamster||Breeding,|||||2000
+82504A|Nakayoshi Pet Series 2 - Kawaii Usagi|Nakayoshi Pet Series 2 - Kawaii Usagi||Breeding,||||MTO|2000
+82505A|Nakayoshi Pet Series 3 - Kawaii Koinu|Nakayoshi Pet Series 3 - Kawaii Koinu||Breeding,||||MTO|2000
+82506A|Nakayoshi Pet Series 4 - Kawaii Koneko|Nakayoshi Pet Series 4 - Kawaii Koneko||Breeding,||||MTO|2001
+82507A|Nakayoshi Pet Series 5 - Kawaii Hamster 2|Nakayoshi Pet Series 5 - Kawaii Hamster 2||Breeding,|||||2001
+82508A|Naminori Yarou!|Naminori Yarou!||Surf,|||||2001
+37141A|Nascar 2000|NASCAR 2000||Race, Driving,|2||Software Creations Ltd.|THQ|2000
+82509A|Nascar Challenge|NASCAR Challenge||Race, Driving,|||Morning Star Multimedia|Majesco Games|1999
+82510A|Nascar Heat|NASCAR Heat||Race, Driving,|||Game Titan|Majesco Games|2000
+82511A|Nascar Racers|NASCAR Racers||Race, Driving,|||Digital Eclipse|Majesco Games|2000
+82513A|Nations, The - Land Of Legends|Nations, The - Land of Legends||Adventure,|||||2001
+37142A|Nba 3 On 3 Featuring Kobe Bryant|NBA 3 on 3 featuring Kobe Bryant||Sports,|2||Left Field Productions|Nintendo|1999
+37143A|Nba Hoopz|NBA Hoopz||Sports,|1||Torus Games Pty. Ltd.|Midway Home Entertainment, Inc.|2000
+82514A|Nba In The Zone|NBA In the Zone||Sports,|||KCEK|Konami|1999
+37144A|Nba In The Zone 2000|NBA in the Zone 2000||Sports,|1||Konami|Konami|1999
+176697|NBA Jam - Tournament Edition|NBA Jam - Tournament Edition||Basketball,|||||1995
 82515A|Nba Jam 2001|NBA Jam 2001||Sports,|||Digital Creations|Acclaim Entertainment|2000
 37145A|Nba Jam 99|NBA Jam 99|NBA Jam '99|Sports,|1||Torus Games Pty. Ltd.|Acclaim Entertainment|1999
-82517A|Nba Pro '99|NBA Pro '99||,Basketball|||Konami|Konami|1999
-37146A|Nba Showtime - Nba On Nbc|NBA Show Time : NBA on NBC||Sports,|1||Torus Games Pty. Ltd.|Midway|
-176676|Nekketsu Kouha Kunio-Kun - Bangai Rantou-Hen|Nekketsu Kouha Kunio-Kun - Bangai Rantou-Hen||,Fighter|||||
-176664|Nemesis|Nemesis||,Shooter|||||
-176698|Nemesis II|Nemesis II|Nemesis|,Shooter|||||
+82517A|Nba Pro '99|NBA Pro '99||Basketball,|||Konami|Konami|1999
+37146A|Nba Showtime - Nba On Nbc|NBA Show Time : NBA on NBC||Sports,|1||Torus Games Pty. Ltd.|Midway|1999
+176676|Nekketsu Kouha Kunio-Kun - Bangai Rantou-Hen|Nekketsu Kouha Kunio-Kun - Bangai Rantou-Hen||Fighter,|||||1990
+176664|Nemesis|Nemesis||Action,Arcade,Shooter,,|||||1991
+176698|Nemesis II|Nemesis II|Nemesis|Shooter,|||||1992
 167273|Nervous|Nervous|||||||
 153034|Nes Conversion - Donkey Kong|Nes Conversion - Donkey Kong|||||||
 153035|Nes Conversion - Donkey Kong 3|Nes Conversion - Donkey Kong 3|||||||
@@ -703,452 +703,452 @@
 37149A|Nfl Blitz|NFL Blitz||Sports,|1||Digital Eclipse|Midway|1998
 82525A|Nfl Blitz 2000|NFL Blitz 2000||Sports,|||Digital Eclipse|Midway|1998
 82526A|Nfl Blitz 2001|NFL Blitz 2001||Sports,|||Morning Star Multimedia|Midway|2000
-37150A|Nhl 2000|NHL 2000||Sports,|1||Tiertex Design Studios|THQ|
-82527A|Nhl Blades Of Steel|NHL Blades of Steel||Sports,|||Konami|Konami|
-82528A|Nhl Blades Of Steel 2000|NHL Blades of Steel 2000||Sports,|||Konami|Konami|
+37150A|Nhl 2000|NHL 2000||Sports,|1||Tiertex Design Studios|THQ|1999
+82527A|Nhl Blades Of Steel|NHL Blades of Steel||Sports,|||Konami|Konami|1999
+82528A|Nhl Blades Of Steel 2000|NHL Blades of Steel 2000||Sports,|||Konami|Konami|1999
 37151A|Nicktoons Racing|Nicktoons Racing|Nicktoons' Racing|Race, Driving,|4||Pipedream Interactive, Inc.|Hasbro Interactive, Inc.|2000
 167274|Ninety|Ninety|Gift|,Adventure|||||
 82529A|Nintama Rantarou - Ninjutsu Gakuen Ni Nyuugaku Shiyou No Dan|Nintama Rantarou - Ninjutsu Gakuen ni Nyuugaku Shi|||||||
 82530A|Nisemon Puzzle Da Mon! - Feromon Kyuushutsu Daisakusen!|Nisemon Puzzle da Mon! - Feromon Kyuushutsu Daisak|||||||
-82531A|No Fear - Downhill Mountain Biking|No Fear - Downhill Mountain Biking||,Sports|||||
+82531A|No Fear - Downhill Mountain Biking|No Fear - Downhill Mountain Biking||Sports,|1|||Codemasters, THQ|2001
 82533A|Nobunaga No Yabou - Game Boy Ban 2|Nobunaga no Yabou - Game Boy Ban 2|||||||
-176677|Nontan to Issho - Kurukuru Puzzle|Nontan to Issho - Kurukuru Puzzle||,Puzzle|||||
-176678|Noobow|Noobow|Hook|,Platform|||||
-82536A|Nsync - Get To The Show|NSYNC : Get to the Show||,Arcade|||||
-82537A|Nushi Tsuri Adventure - Kite No Bouken|Nushi Tsuri Adventure - Kite no Bouken||,Adventure|||||
+176677|Nontan to Issho - Kurukuru Puzzle|Nontan to Issho - Kurukuru Puzzle||Puzzle,|||||1994
+176678|Noobow|Noobow|Hook|Platform,|||||
+82536A|Nsync - Get To The Show|NSYNC : Get to the Show||Arcade,||||Stunt Puppy Entertainment|2001
+82537A|Nushi Tsuri Adventure - Kite No Bouken|Nushi Tsuri Adventure - Kite no Bouken||Adventure,||||Victor Interactive Software|2000
 82538A|Oddworld Adventures 2|Oddworld Adventures II||Platform,|||Saffire|GT Interactive|2000
-82539A|Ohasuta Dance Dance Revolution Gb|Ohasuta Dance Dance Revolution GB||,Music|||||
+82539A|Ohasuta Dance Dance Revolution Gb|Ohasuta Dance Dance Revolution GB||Music,||||Konami|2001
 82540A|Ohasuta Yama-chan And Raymond|Ohasuta Yama-chan & Raymond|||||||
-82541A|Oide Rascal|Oide Rascal||,Breeding|||||
+82541A|Oide Rascal|Oide Rascal||Simulation,|1|||Nippon Animation|2001
 82542A|Ojarumaru - Mangan Jinja No Ennichi De Ojaru!|Ojarumaru - Mangan Jinja no Ennichi de Ojaru!|||||||
-82543A|Ojarumaru - Tsukiyo Ga Ike No Takaramono|Ojarumaru - Tsukiyo ga Ike no Takaramono||,Board game|||||
-176665|Oni|Oni|Antz|,Action|||||
-152655|Oni 5 - Innin Wo Tsugumono|Oni 5 - Innin Wo Tsugumono||,RPG|||||
-176699|Onigashima Pachinko Ten|Onigashima Pachinko Ten||,Slot machine|||||
-82544A|Original Moorhuhn Jagd, Die|Original Moorhuhn Jagd, Die||,Gun shooter|||||
-176679|Osawagase Penguin Boy|Osawagase Penguin Boy||,Arcade|||||
-82545A|Othello Millennium|Othello Millennium||,Puzzle|||||
-176700|Othello World|Othello World||,Puzzle|||||
+82543A|Ojarumaru - Tsukiyo Ga Ike No Takaramono|Ojarumaru - Tsukiyo ga Ike no Takaramono||Board game,||||Success|2000
+176665|Oni|Oni|Antz|Action,Fighting,Shooter,,|||||1990
+152655|Oni 5 - Innin Wo Tsugumono|Oni 5 - Innin Wo Tsugumono||RPG,|||||1995
+176699|Onigashima Pachinko Ten|Onigashima Pachinko Ten||Slot machine,|||||1991
+82544A|Original Moorhuhn Jagd, Die|Original Moorhuhn Jagd, Die||Gun shooter,|||||
+176679|Osawagase Penguin Boy|Osawagase Penguin Boy||Arcade,|||||
+82545A|Othello Millennium|Othello Millennium||Strategy,Board Game,,|||||1999
+176700|Othello World|Othello World||Strategy,Board Game,,|||||1994
 82546A|Other Life - Azure Dreams Gb|Other Life - Azure Dreams GB||,RPG|||||
-167283|Otogi Banasi Tai|Otogi Banasi Tai||,RPG|||||
-176701|Otoko Jyuku|Otoko Jyuku||,Fighting|||||
-82547A|Ottifanten - Kommando Stoertebeker|Ottifanten - Kommando Stoertebeker||,Platform|||||
-82548A|Ou Dorobou Jing - Angel Version|Ou Dorobou Jing - Angel Version||,RPG|||||
-82549A|Ou Dorobou Jing - Devil Version|Ou Dorobou Jing - Devil Version||,RPG|||||
-82534A|Noddy And The Birthday Party|Noddy and the Birthday Party||,Platform|||||
+167283|Otogi Banasi Tai|Otogi Banasi Tai||RPG,|||||1995
+176701|Otoko Jyuku|Otoko Jyuku||Fighting,|||||1990
+82547A|Ottifanten - Kommando Stoertebeker|Ottifanten - Kommando Stoertebeker||Platform,|1|||JowooD Entertainment AG|2001
+82548A|Ou Dorobou Jing - Angel Version|Ou Dorobou Jing - Angel Version||RPG,|||||1999
+82549A|Ou Dorobou Jing - Devil Version|Ou Dorobou Jing - Devil Version||RPG,|||||1999
+82534A|Noddy And The Birthday Party|Noddy and the Birthday Party||Platformer,||||Tiertex|2000
 83000A|Owarai Yoiko No Geemumichi - Oyaji Sagashite 3 Choume|Owarai Yoiko no Geemumichi - Oyaji Sagashite 3 Cho||Action,|||KCEK|Konami|1999
-82550A|Owarai Yowiko No Game-dou - Oyaji Sagashite Sanchoume|Owarai Yowiko no Game-dou - Oyaji Sagashite Sancho||,Adventure|||||
-37154A|Pac-man - Special Color Edition|Pac-Man : Special Color Edition|Pac-Man Special Color Edition|Puzzle-Game,Action,|||Namco|Namco|
-176704|Pachi-Slot Kids|Pachi-Slot Kids||,Slot machine|||||
-176705|Pachi-Slot Kids 2|Pachi-Slot Kids 2||,Slot machine|||||
-176706|Pachi-Slot Kids 3|Pachi-Slot Kids 3|Pachi-Slot Kids|,Slot machine|||||
-176707|Pachi-Slot World Cup '94|Pachi-Slot World Cup '94||,Slot machine|||||
-82551A|Pachinko Cr Mouretsu Genshijin T|Pachinko CR Mouretsu Genshijin T||,Slot machine|||||
-82552A|Pachinko Hisshou Guide - Data No Ousama|Pachinko Hisshou Guide - Data no Ousama||,Slot machine|||||
-176666|Pachio Kun|Pachio Kun||,Slot machine|||||
-176702|Pachio Kun - Game Gallery|Pachio Kun - Game Gallery||,Slot machine|||||
-176703|Pachio Kun - Puzzle Castle|Pachio Kun - Puzzle Castle||,Puzzle|||||
-176680|Pachio Kun 2|Pachio Kun 2||,Slot machine|||||
+82550A|Owarai Yowiko No Game-dou - Oyaji Sagashite Sanchoume|Owarai Yowiko no Game-dou - Oyaji Sagashite Sancho||Adventure,|||||1999
+37154A|Pac-man - Special Color Edition|Pac-Man : Special Color Edition|Pac-Man Special Color Edition|Puzzle-Game,Action,|||Namco|Namco|1999
+176704|Pachi-Slot Kids|Pachi-Slot Kids||Slot machine,|||||1993
+176705|Pachi-Slot Kids 2|Pachi-Slot Kids 2||Slot machine,|||||1994
+176706|Pachi-Slot Kids 3|Pachi-Slot Kids 3|Pachi-Slot Kids|Slot machine,|||||1995
+176707|Pachi-Slot World Cup '94|Pachi-Slot World Cup '94||Slot machine,|||||1994
+82551A|Pachinko Cr Mouretsu Genshijin T|Pachinko CR Mouretsu Genshijin T||Casino,||||Hect;Konami;Ludic|1999
+82552A|Pachinko Hisshou Guide - Data No Ousama|Pachinko Hisshou Guide - Data no Ousama||Casino,||||BOSS;Sankyo|1999
+176666|Pachio Kun|Pachio Kun||Slot machine,|||||1993
+176702|Pachio Kun - Game Gallery|Pachio Kun - Game Gallery||Slot machine,|||||1996
+176703|Pachio Kun - Puzzle Castle|Pachio Kun - Puzzle Castle||Puzzle,|||||1993
+176680|Pachio Kun 2|Pachio Kun 2||Slot machine,|||||1994
 82553A|Pachipachi Pachi-slot - New Pulsar Hen|Pachipachi Pachi-Slot - New Pulsar Hen|Pachi Pachi Pachi-Slot - New Pulsar Hen|,Slot machine|||||
 82556A|Painter|Painter||Puzzle,||||Rocket Games|2001
 36970A|Paperboy|Paperboy||Sports,Action,|1||Digital Eclipse|Midway|1999
-36971A|Papyrus|Papyrus||Action,Platform|1||Planet Interactive Development|Ubisoft|2000
-82557A|Perfect Choro Q|Perfect Choro Q||,RPG|||Electronics Application|Takara|2000
+36971A|Papyrus|Papyrus||Action,Platformer,|1||Planet Interactive Development|Ubisoft|2000
+82557A|Perfect Choro Q|Perfect Choro Q||Racing,RPG,|||Electronics Application|Takara|2000
 36972A|Perfect Dark|Perfect Dark||Puzzle-Game,Adventure,|2||Rareware|Rareware|2000
 82558A|Phantom Zona|Phantom Zona||Puzzle,|||Nintendo|Nintendo|
-82559A|Pia Carrot E Youkoso!! 2.2|Pia Carrot e Youkoso!! 2.2|||||||
+82559A|Pia Carrot E Youkoso!! 2.2|Pia Carrot e Youkoso!! 2.2||Adventure,||||NEC Interchannel|2000
 184308|Pikabomber|Pikabomber|||||||
 82562A|Pitfall Gb|Pitfall - Beyond the Jungle||Platform,|||David A. Palmer Productions|Crave|1999
 37155A|Player Manager 2001|Player Manager 2001||Sports,|1||G3 Interactive Ltd.|THQ|2000
-82564A|Pocket Billiards - Funk The 9 Ball|Pocket Billiards - Funk the 9 Ball|||1||Tamsoft|Tamsoft|
+82564A|Pocket Billiards - Funk The 9 Ball|Pocket Billiards - Funk the 9 Ball||Sports,|1||Tamsoft|Tamsoft|2000
 37156A|Pocket Bomberman|Pocket Bomberman||Role playing games,Action,|1||Hudson|Nintendo|1998
 82565A|Pocket Bowling|Pocket Bowling||Sports,|2||Athena|Jaleco Entertainment|1999
-82566A|Pocket Color Billiards|Pocket Color Billiards|Pocket Color Billiard|,Pool|||||
-82567A|Pocket Color Block|Pocket Color Block||,Breakout|||||
-82568A|Pocket Color Mahjong|Pocket Color Mahjong||,Mahjong|||||
-82569A|Pocket Color Trump|Pocket Color Trump||,Cards|||||
-82570A|Pocket Cooking|Pocket Cooking|Pocket Bowling|,Bowling|||||
-82571A|Pocket Densha 2|Pocket Densha 2||,Train simulator|||||
-82572A|Pocket Family Gb2|Pocket Family GB2||,Other|||||
-82573A|Pocket Gi Stable|Pocket GI Stable||,Bets|||||
-82574A|Pocket Gt|Pocket GT|Pocket Golf|,Racing|||||
-82575A|Pocket Hanafuda|Pocket Hanafuda||,Cards|||||
-82576A|Pocket King|Pocket King|Pocket GT|,Adventure|||||
-176708|Pocket Kyoro-chan|Pocket Kyoro-chan||,Breeding|||||
-176709|Pocket Love|Pocket Love|Pocket Golf|,Other|||||
-176710|Pocket Love 2|Pocket Love 2||,Other|||||
-82577A|Pocket Lure Boy|Pocket Lure Boy||,Adventure|||||
-142841|Pocket Monsters Go! Go! - The Pikachu Nightmare|Pocket Monsters Go! Go! - The Pikachu Nightmare||,Platform|||||
-142840|Pocket Monsters Go!go!go!|Pocket Monsters Go!go!go!||,Platform|||||
+82566A|Pocket Color Billiards|Pocket Color Billiards|Pocket Color Billiard|Sports,||||Bottom Up|1999
+82567A|Pocket Color Block|Pocket Color Block||Breakout,|||||1998
+82568A|Pocket Color Mahjong|Pocket Color Mahjong||Board game,||||Bottom Up|1999
+82569A|Pocket Color Trump|Pocket Color Trump||Casino,||||Bottom Up|1999
+82570A|Pocket Cooking|Pocket Cooking|Pocket Bowling|Strategy,||||J-Wing|2001
+82571A|Pocket Densha 2|Pocket Densha 2||Simulation,Racing,||||Coconuts Japan|1999
+82572A|Pocket Family Gb2|Pocket Family GB2||Other,||||Hudson Soft|1999
+82573A|Pocket Gi Stable|Pocket GI Stable||Bets,||||KCE Nagoya|1999
+82574A|Pocket Gt|Pocket GT|Pocket Golf|Racing,||||MTO|1999
+82575A|Pocket Hanafuda|Pocket Hanafuda||Casino,||||Bottom Up|1999
+82576A|Pocket King|Pocket King|Pocket GT|Strategy,||||Namco|2000
+176708|Pocket Kyoro-chan|Pocket Kyoro-chan||Breeding,|||||1998
+176709|Pocket Love|Pocket Love|Pocket Golf|Other,|||||1997
+176710|Pocket Love 2|Pocket Love 2||Other,|||||1998
+82577A|Pocket Lure Boy|Pocket Lure Boy||Adventure,||||King Records|1999
+142841|Pocket Monsters Go! Go! - The Pikachu Nightmare|Pocket Monsters Go! Go! - The Pikachu Nightmare||Platform,|||||
+142840|Pocket Monsters Go!go!go!|Pocket Monsters Go!go!go!||Platform,|||||
 82583A|Pocket Music|Pocket Music||Music,|||Jester Interactive|Rage Software|2002
 82584A|Pocket No Naka No Oukoku|Pocket no Naka no Oukoku|||||||
-82585A|Pocket Pro Wrestling - Perfect Wrestler|Pocket Pro Wrestling - Perfect Wrestler||,Wrestling|||||
-82586A|Pocket Pro Yakyuu|Pocket Pro Yakyuu||,Baseball|||||
-82587A|Pocket Puyo Puyo Sun|Pocket Puyo Puyo Sun|Pocket Puyo Puyo 4|,Puzzle|||||
-82588A|Pocket Puyo Puyo-n|Pocket Puyo Puyo-n|Pocket Puyo Puyo 4|,Puzzle|||||
+82585A|Pocket Pro Wrestling - Perfect Wrestler|Pocket Pro Wrestling - Perfect Wrestler||Wrestling,|2|||J-Wing|2000
+82586A|Pocket Pro Yakyuu|Pocket Pro Yakyuu||Sports,||||Epoch|2000
+82587A|Pocket Puyo Puyo Sun|Pocket Puyo Puyo Sun|Pocket Puyo Puyo 4|Puzzle,|2|||Compile|1998
+82588A|Pocket Puyo Puyo-n|Pocket Puyo Puyo-n|Pocket Puyo Puyo 4|Puzzle,|1|||Compile|2000
 82589A|Pocket Racing|Pocket Racing|Pocket King|Race, Driving,|2||M2TO|Interplay|2000
-176711|Pocket Shougi|Pocket Shougi||,Puzzle|||||
+176711|Pocket Shougi|Pocket Shougi||Puzzle,|||||1998
 82590A|Pocket Smash Out|Pocket Smash Out||Action,Puzzle,||||Rocket Games|
 82591A|Pocket Smash Out And Race Time|Pocket Smash Out & Race Time|||||||
 82592A|Pocket Soccer|Pocket Soccer|Pocket Jockey|Sports / Soccer,Sports,|||Game-Play Studios|Nintendo|2001
-153046|Pokemon - Yellow Version|Pokemon - Yellow Version||,RPG|||Game Freak|Nintendo|1999
+153046|Pokemon - Yellow Version|Pokemon - Yellow Version||RPG,|||Game Freak|Nintendo|1999
 142837|Pokemon 2004|Pokemon 2004|||||||
-82616A|Pokemon - Silver Version|Pokémon: Silver Version||,RPG|||Game Freak|Nintendo|1999
-82606A|Pokemon - Crystal Version|Pokémon: Crystal Version||,RPG|||Game Freak|Nintendo|2000
+82616A|Pokemon - Silver Version|Pokémon: Silver Version||RPG,|1||Game Freak|Nintendo|1999
+82606A|Pokemon - Crystal Version|Pokémon: Crystal Version||RPG,|||Game Freak|Nintendo|2000
 82619A|Pokemon - Gold Version|Pokémon: Gold Version||Role playing games,|1||Game Freak|Nintendo|1999
-142838|Pokemon Adventure|Pokemon Adventure||,Platform|||||
-82594A|Pokemon Card Gb2 - Gr Dan Sanjou!|Pokemon Card GB2 - GR Dan Sanjou!||,RPG|||||
-142839|Pokemon Diamond|Pokemon Diamond||,RPG|||||
-176647|Pokemon Green|Pokemon Green||,RPG|||||
+142838|Pokemon Adventure|Pokemon Adventure||Platform,|||||2000
+82594A|Pokemon Card Gb2 - Gr Dan Sanjou!|Pokemon Card GB2 - GR Dan Sanjou!||RPG,|||||
+142839|Pokemon Diamond|Pokemon Diamond||RPG,|||||
+176647|Pokemon Green|Pokemon Green||RPG,|||||1995
 82598A|Pokemon Pinball|Pokémon Pinball||Pinball,|1||Jupiter Corporation|Nintendo|1999
-82600A|Pokemon Puzzle Challenge|Pokémon Puzzle Challenge||,Puzzle|||Intelligent Systems|Nintendo|2000
-82603A|Pokemon Trading Card Game|Pokémon Trading Card Game||,RPG|1||Hudson|Nintendo|1998
+82600A|Pokemon Puzzle Challenge|Pokémon Puzzle Challenge||Puzzle,|||Intelligent Systems|Nintendo|2000
+82603A|Pokemon Trading Card Game|Pokémon Trading Card Game||Strategy,Casino,|1||Hudson|Nintendo|1998
 142836|Pokémon Blue Vanilla Color Hack|Pokémon: Blue Version (Color)|||||Game Freak|Nintendo|
 142833|Pokemon Blue Color Hack Gen 2 Graphics|Pokémon: Blue Version (Gen2) (Color)|||||Game Freak|Nintendo|
 142835|Pokémon Red Vanilla Color Hack|Pokémon: Red Version (Color)|||||Game Freak|Nintendo|
 142834|Pokémon Red Color Hack Gen 2 Graphics|Pokémon: Red Version (Gen2) (Color)|||1||Game Freak|Nintendo|
-176712|Pokonyan! - Yume no Daibouken|Pokonyan! - Yume no Daibouken||,Adventure|||||
-82623A|Polaris Snocross|Polaris SnoCross||,Racing|||||
+176712|Pokonyan! - Yume no Daibouken|Pokonyan! - Yume no Daibouken||Adventure,|||||1994
+82623A|Polaris Snocross|Polaris SnoCross||Racing,|1|||Vicarious Visions|1999
 36974A|Pong - The Next Level|Pong: The Next Level||Puzzle-Game,|2||Eastridge Technology|Morning Star Multimedia|Hasbro Interactive, Inc.
-176713|Ponta to Hinako no Chindouchuu - Yuutou Hen|Ponta to Hinako no Chindouchuu - Yuutou Hen||,Action|||||
-82626A|Pop'n Music Gb|Pop'n Music GB||,Music|||||
+176713|Ponta to Hinako no Chindouchuu - Yuutou Hen|Ponta to Hinako no Chindouchuu - Yuutou Hen||Action|||||1990
+82626A|Pop'n Music Gb|Pop'n Music GB||Rhythm,||||KCE Kobe|2000
 82627A|Pop'n Music Gb - Animation Melody|Pop'n Music GB - Animation Melody|||||||
-82628A|Pop'n Music Gb - Disney Tunes|Pop'n Music GB - Disney Tunes||,Music|||||
+82628A|Pop'n Music Gb - Disney Tunes|Pop'n Music GB - Disney Tunes||Music,|||||2000
 36975A|Pop'n Pop|Pop'n Pop||Puzzle-Game,|2||Imaginative Technology Land|Jorudan Co., Ltd.|2000
 36976A|Portal Runner|Portal Runner||Puzzle-Game,Adventure,|1||Handheld Games|3DO|2001
-36924A|Gold And Glory - The Road To El Dorado|Gold and Glory: The Road to El Dorado||Action,Platform|1||Planet Interactive Development|Ubi Soft Entertainment, Inc.|2000
-82629A|Power Pro Kun Pocket|Power Pro Kun Pocket||,Adventure|||||
-82630A|Power Pro Kun Pocket 2|Power Pro Kun Pocket 2||,Adventure|||||
+36924A|Gold And Glory - The Road To El Dorado|Gold and Glory: The Road to El Dorado||Action,Platformer,|1||Planet Interactive Development|Ubi Soft Entertainment, Inc.|2000
+82629A|Power Pro Kun Pocket|Power Pro Kun Pocket||Sports,|1|||KCE Osaka;Diamond Head Production|1999
+82630A|Power Pro Kun Pocket 2|Power Pro Kun Pocket 2||Sports,|1|||KCE Osaka;Diamond Head Production|2000
 37164A|Power Quest|Power Quest||Role playing games,|1||Japan System Supply|Sunsoft|1999
-82631A|Power Rangers - Lightspeed Rescue|Power Rangers - Lightspeed Rescue||,Platform|||Natsume|THQ|
-82634A|Power Rangers - Time Force|Power Rangers - Time Force||,Action|||Natsume|THQ|
-82636A|Power Spike - Pro Beach Volleyball|Power Spike : Pro Beach Volleyball||,Volleyball|||||
-176667|Pri Pri - Primitive Princess!|Pri Pri - Primitive Princess!||,Arcade|||||
+82631A|Power Rangers - Lightspeed Rescue|Power Rangers - Lightspeed Rescue||Platform,|||Natsume|THQ|2000
+82634A|Power Rangers - Time Force|Power Rangers - Time Force||Beat'em Up,Platformer,|||Natsume|THQ|2001
+82636A|Power Spike - Pro Beach Volleyball|Power Spike : Pro Beach Volleyball||Sports,||||Spark Creative|2000
+176667|Pri Pri - Primitive Princess!|Pri Pri - Primitive Princess!||Arcade,|||||1990
 82646A|Prince Naseem Boxing|Prince Naseem Boxing||Fighting,|2||Virtucraft|THQ|2001
-36978A|Prince Of Persia|Prince of Persia||Puzzle-Game,Action,|1||Red Orb Entertainment|Red Orb Entertainment|
+36978A|Prince Of Persia|Prince of Persia||Puzzle-Game,Action,|1||Red Orb Entertainment|Red Orb Entertainment|1999
 82647A|Pro Darts|Pro Darts||Sports / Dart,Sports,|||Vicarious Visions|Vatical Entertainment|2002
-82227A|Golden Goal|Golden Goal||,Soccer|||||
-176714|Pro Mahjong Kiwame GB|Pro Mahjong Kiwame GB||,Mahjong|||||
-82648A|Pro Mahjong Kiwame Gb 2|Pro Mahjong Kiwame GB II|||||||
-82649A|Pro Mahjong Tsuwamono Gb|Pro Mahjong Tsuwamono GB||,Mahjong|||||
-82650A|Pro Mahjong Tsuwamono Gb2|Pro Mahjong Tsuwamono GB2||,Mahjong|||||
+82227A|Golden Goal|Golden Goal||Soccer,|||||
+176714|Pro Mahjong Kiwame GB|Pro Mahjong Kiwame GB||Mahjong,|||||1994
+82648A|Pro Mahjong Kiwame Gb 2|Pro Mahjong Kiwame GB II||Board game,||||Athena|1999
+82649A|Pro Mahjong Tsuwamono Gb|Pro Mahjong Tsuwamono GB||Board game,||||Culture Brain|1999
+82650A|Pro Mahjong Tsuwamono Gb2|Pro Mahjong Tsuwamono GB2||Mahjong,|||||2000
 37165A|Pro Pool|Pro Pool||Sports,|1||Blade Interactive Studios Ltd.|Codemasters|2000
-176681|Pro Soccer|Pro Soccer||,Soccer|||||
+176681|Pro Soccer|Pro Soccer||Soccer,|||||
 82651A|Project S-11|Project S-11||Action,Shooter,|1||Paragon 5|Sunsoft|2000
 82652A|Puchi Carat|Puchi Carat||Puzzle-Game,|2||Eon Digital Entertainment|Taito|2000
 37166A|Pumuckls Abenteuer Bei Den Piraten|Pumuckls Abenteuer bei den Piraten|Pumuckl's Abenteuer bei den Piraten|Action,Adventure,|1||NEON Software GmbH|Acclaim Entertainment|1999
-36979A|Pumuckls Abenteuer Im Geisterschloss|Pumuckls Abenteuer im Geisterschloss|Pumuckl's Abenteuer im Geisterschloss|Puzzle-Game,|1||NEON Software GmbH|Acclaim Entertainment|
-176682|Purikura Pocket - Fukanzen Joshikousei Manual|Purikura Pocket - Fukanzen Joshikousei Manual||,Adventure|||||
-176683|Purikura Pocket 3 - Talent Debut Daisakusen|Purikura Pocket 3 - Talent Debut Daisakusen||,Adventure|||||
-176668|Puyo Puyo|Puyo Puyo||,Puzzle|||||
-82655A|Puyo Puyo Gaiden - Puyo Wars|Puyo Puyo Gaiden - Puyo Wars||,Strategy|||||
-82656A|Puzz Loop|Puzz Loop||,Puzzle|||||
-82657A|Puzzle Bobble 4|Puzzle Bobble 4||,Puzzle|||||
-82658A|Puzzle Bobble Millennium|Puzzle Bobble Millennium||,Puzzle|||||
-176684|Puzzle Boy II|Puzzle Boy II|Puzzle Boy|,Puzzle|||||
-82659A|Puzzle De Shoubuyo! Wootama-chan|Puzzle de Shoubuyo! Wootama-chan||,Puzzle|||||
+36979A|Pumuckls Abenteuer Im Geisterschloss|Pumuckls Abenteuer im Geisterschloss|Pumuckl's Abenteuer im Geisterschloss|Puzzle-Game,|1||NEON Software GmbH|Acclaim Entertainment|2000
+176682|Purikura Pocket - Fukanzen Joshikousei Manual|Purikura Pocket - Fukanzen Joshikousei Manual||Adventure,|||||1997
+176683|Purikura Pocket 3 - Talent Debut Daisakusen|Purikura Pocket 3 - Talent Debut Daisakusen||Adventure,|||||1998
+176668|Puyo Puyo|Puyo Puyo||Puzzle,,|||||1994
+82655A|Puyo Puyo Gaiden - Puyo Wars|Puyo Puyo Gaiden - Puyo Wars||Strategy,|1|||Compile|1999
+82656A|Puzz Loop|Puzz Loop||Puzzle,|||||2000
+82657A|Puzzle Bobble 4|Puzzle Bobble 4||Puzzle,|||||
+82658A|Puzzle Bobble Millennium|Puzzle Bobble Millennium||Puzzle,|||||
+176684|Puzzle Boy II|Puzzle Boy II|Puzzle Boy|Puzzle,|||||
+82659A|Puzzle De Shoubuyo! Wootama-chan|Puzzle de Shoubuyo! Wootama-chan||Puzzle,||||Kouyousha|2000
 82660A|Puzzle Master|Puzzle Master||Puzzle-Game,|1||Metro 3D|Metro 3D|1999
-176685|Puzzle Nintama Rantarou|Puzzle Nintama Rantarou||,Puzzle|||||
-176686|Puzzle Road|Puzzle Road|Puzzle Boy|,Puzzle|||||
+176685|Puzzle Nintama Rantarou|Puzzle Nintama Rantarou||Puzzle,|||||1996
+176686|Puzzle Road|Puzzle Road|Puzzle Boy|Puzzle,|||||
 36981A|Puzzled|Puzzled|Lucle|Puzzle-Game,Strategy,|1||Elo Interactive Media GmbH|Conspiracy Entertainment Corp.|2001
-176687|Puzznic|Puzznic|Puzzled|,Puzzle|||||
-82661A|Q-bert|Q*bert||,Arcade|||||
+176687|Puzznic|Puzznic|Puzzled|Puzzle,,|||||1990
+82661A|Q-bert|Q*bert||Action,Arcade,,|||||1999
 82662A|Qix Adventure|Qix Adventure||Puzzle,|1||Taito|Nintendo|2000
-82665A|Quest - Fantasy Challenge|Quest : Fantasy Challenge||,Arcade|||||
-37168A|Quest For Camelot|Quest for Camelot||Action,Adventure,|||Titus|Nintendo|
-82663A|Quest Rpg - Brian's Journey|Quest RPG : Brian's Journey||Role playing games,|1||Sunsoft|Sunsoft|
-82667A|Qui Qui|Qui Qui||,RPG|||||
-36992A|R-type Dx|R-Type DX|R-Type|Shooter,Action,|1||Bits Studios Ltd.|Nintendo|
-82668A|Race Time|Race Time||Racing,||||Rocket Games|
-82669A|Radikal Bikers|Radikal Bikers||,Moto racing|||Bit Managers|Gaelco|
-36983A|Rainbow Islands|Rainbow Islands||Action,Arcade|1||Taito|TDK Mediactive, Inc.|2001
+82665A|Quest - Fantasy Challenge|Quest : Fantasy Challenge||Arcade,||||Sunsoft|1998
+37168A|Quest For Camelot|Quest for Camelot||Action,Adventure,|||Titus|Nintendo|1998
+82663A|Quest Rpg - Brian's Journey|Quest RPG : Brian's Journey||Role playing games,|1||Sunsoft|Sunsoft|1999
+82667A|Qui Qui|Qui Qui||RPG,||||Magical Company|1999
+36992A|R-type Dx|R-Type DX|R-Type|Shooter,Action,|1||Bits Studios Ltd.|Nintendo|1999
+82668A|Race Time|Race Time||Racing,||||Rocket Games|2000
+82669A|Radikal Bikers|Radikal Bikers||Racing,|||Bit Managers|Gaelco|1998
+36983A|Rainbow Islands|Rainbow Islands||Action,Platformer,|1||Taito|TDK Mediactive, Inc.|2001
 82670A|Raku X Raku - Cut Shuu|Raku x Raku - Cut Shuu|||||||
 82671A|Raku X Raku - Mishin|Raku x Raku - Mishin|||||||
 82672A|Raku X Raku - Moji|Raku x Raku - Moji|||||||
-37169A|Rampage 2 - Universal Tour|Rampage 2: Universal Tour||Action,Arcade|2||Digital Eclipse|Midway|
-37170A|Rampage World Tour|Rampage World Tour|Rampage - World Tour|Action,Arcade|1||Game Refuge Inc.|Midway|1999
+37169A|Rampage 2 - Universal Tour|Rampage 2: Universal Tour||Action,Beat'em Up,|2||Digital Eclipse|Midway|1999
+37170A|Rampage World Tour|Rampage World Tour|Rampage - World Tour|Action,Arcade,,|1||Game Refuge Inc.|Midway|1999
 36984A|Rampart|Rampart|Casper|Shooter,Strategy,|2||Atari|Midway|1999
-36985A|Rats!|Rats!|Antz|Action,Platform|1||Tarantula Studios|Take-Two Interactive Software, Inc.|1998
-36986A|Rayman|Rayman|Batman|Action,Platform|1||Ubisoft|Ubisoft|2000
-82676A|Rayman 2 - The Great Escape|Rayman 2 - The Great Escape||,Platform|||Ubisoft|Ubisoft|2001
-82682A|Razor Freestyle Scooter|Razor Freestyle Scooter||Sports,||||Crave entertainement|
+36985A|Rats!|Rats!|Antz|Action,Platformer,|1||Tarantula Studios|Take-Two Interactive Software, Inc.|1998
+36986A|Rayman|Rayman|Batman|Action,Platformer,|1||Ubisoft|Ubisoft|2000
+82676A|Rayman 2 - The Great Escape|Rayman 2 - The Great Escape||Platform,|||Ubisoft|Ubisoft|2001
+82682A|Razor Freestyle Scooter|Razor Freestyle Scooter||Sports,||||Crave entertainement|2001
 36987A|Ready 2 Rumble Boxing|Ready 2 Rumble Boxing||Sports,|1||Crawfish Interactive Ltd.|Midway|1999
-82683A|Real Pro Yakyuu! - Central League Hen|Real Pro Yakyuu! - Central League Hen||,Baseball|||||
-82684A|Real Pro Yakyuu! - Pacific League Hen|Real Pro Yakyuu! - Pacific League Hen||,Baseball|||||
-82686A|Rescue Heroes - Fire Frenzy|Rescue Heroes : Fire Frenzy||,Action|||||
-82688A|Resident Evil|Resident Evil||Horror,|1||HotGen Studios||
+82683A|Real Pro Yakyuu! - Central League Hen|Real Pro Yakyuu! - Central League Hen||Sports,||||Natsume|1999
+82684A|Real Pro Yakyuu! - Pacific League Hen|Real Pro Yakyuu! - Pacific League Hen||Sports,||||Natsume|1999
+82686A|Rescue Heroes - Fire Frenzy|Rescue Heroes : Fire Frenzy||Action||||Mattel|2000
+82688A|Resident Evil|Resident Evil||Horror,|1||HotGen Studios||1
 37172A|Resident Evil Gaiden|Resident Evil: Gaiden||Puzzle-Game,Action,|1||M4 Ltd.|Capcom|2001
 37173A|Return Of The Ninja|Return of The Ninja||Fight,Action,|1||Natsume Co., Ltd.|Natsume, Inc.|2001
-37174A|Revelations - The Demon Slayer|Revelations : The Demon Slayer||Role playing games,|1||Access Games|Atlus|
+37174A|Revelations - The Demon Slayer|Revelations : The Demon Slayer||Role playing games,|1||Access Games|Atlus|1999
 37175A|Rhino Rumble|Rhino Rumble||Race, Driving,Adventure,|1||Lost Boys Games|Telegames, Inc.|2002
 167275|Right!|Right!|Gift|,Adventure|||||
 82691A|Rip-tide Racer|Rip-Tide Racer||Race, Driving,|||Cryo Interactive Entertainment|Cryo Interactive Entertainment|2000
 37176A|Road Champs - Bxs Stunt Biking|Road Champs: BXS Stunt Biking||Sports,|1||HotGen Ltd.|Activision|2000
 37177A|Road Rash|Road Rash||Sports,Race, Driving,|2||3d6 Games|Electronic Arts|2000
-82694A|Roadsters Trophy|Roadsters Trophy||,Racing|||||
+82694A|Roadsters Trophy|Roadsters Trophy||Racing,||||Titus|1999
 36989A|Robin Hood|Robin Hood||Role playing games,|1||Planet Interactive Development|Electronic Arts, Inc.|Light & Shadow Production
 36990A|Robocop|RoboCop||Shooter,Action,|1||Mirage Interactive LLC|Titus|2001
-176639|Robocop 2|Robocop 2||,Action|||||
-82696A|Robopon - Sun Version|Robopon : Sun Version||,RPG|||Will|Atlus|
+176639|Robocop 2|Robocop 2||Action,Platform,,|||||1991
+82696A|Robopon - Sun Version|Robopon : Sun Version||RPG,|||Will|Atlus|1998
 82697A|Robot Poncots - Comic Bom Bom Special Version|Robot Poncots - Comic Bom Bom Special Version|Robot Ponkottsu - Comic Bom Bom Special Version|,RPG|||||
 82698A|Robot Poncots - Moon Version|Robot Poncots - Moon Version|Robot Ponkottsu - Moon Version|,RPG|||||
 82699A|Robot Poncots - Star Version|Robot Poncots - Star Version|Robot Ponkottsu - Star Version|,RPG|||||
 82700A|Robot Poncots - Sun Version|Robot Poncots - Sun Version|Robot Ponkottsu - Sun Version|,RPG|||||
-82701A|Robot Wars - Metal Mayhem|Robot Wars - Metal Mayhem||,Fighting|||||
-176658|Rock'n Monster!!|Rock'n Monster!!||,Puzzle|||||
-82704A|Rocket Power - Gettin' Air|Rocket Power - Gettin' Air||,Sports|||||
-176731|Rockman DX3|Rockman DX3||,Action|||||
-82708A|Rocky Mountain Trophy Hunter|Rocky Mountain Trophy Hunter||,Sports|||||
+82701A|Robot Wars - Metal Mayhem|Robot Wars - Metal Mayhem||Fighter,Racing,|1|||Tiertex Design Software|2000
+176658|Rock'n Monster!!|Rock'n Monster!!||Puzzle,|||||1994
+82704A|Rocket Power - Gettin' Air|Rocket Power - Gettin' Air||Action,Racing,||||Tiertex Design Studios|2001
+176731|Rockman DX3|Rockman DX3||Action|||||
+82708A|Rocky Mountain Trophy Hunter|Rocky Mountain Trophy Hunter||Sports,||||Xantera|2000
 83001A|Rocman X|Rocman X|Rayman|,Platform|||||
 83002A|Rocman X Gold + 4 In 1|Rocman X Gold + 4 in 1|||||||
-176688|Rodland|Rodland|Rayman|,Arcade|||||
-176640|Roger Clemens MVP Baseball|Roger Clemens MVP Baseball||,Baseball|||||
+176688|Rodland|Rodland|Rayman|Action,Arcade,Platform,,|||||1993
+176640|Roger Clemens MVP Baseball|Roger Clemens MVP Baseball||Baseball,|||||1992
 186686|Rogue Orange|Rogue Orange|||||||
-82710A|Rokumon Tengai Mon-colle-knight Gb|Rokumon Tengai Mon-Colle-Knight GB||,RPG|||||
-176652|Rolan's Curse|Rolan's Curse||,Adventure|||||
+82710A|Rokumon Tengai Mon-colle-knight Gb|Rokumon Tengai Mon-Colle-Knight GB||RPG,||||General Entertainment|2000
+176652|Rolan's Curse|Rolan's Curse||Action,RPG,,|||||1990
 82711A|Roland Garros French Open|Roland Garros French Open||Sports / Tennis,Sports,|1||Cryo Interactive|Carapace|2000
-82712A|Ronaldo V-soccer|Ronaldo V-Soccer|Ronaldo V.Soccer|Sports,|||Bit Managers|GT Interactive|1999
-82714A|Roswell Conspiracies - Aliens, Myths And Legends|Roswell Conspiracies - Aliens, Myths & Legends||,Adventure|||||
+82712A|Ronaldo V-soccer|Ronaldo V-Soccer|Ronaldo V.Soccer|Sports,|1||Bit Managers|GT Interactive|1999
+82714A|Roswell Conspiracies - Aliens, Myths And Legends|Roswell Conspiracies - Aliens, Myths & Legends||Action,Adventure,||||Crawfish Interactive|2001
 82715A|Rox|Rox|Croc|Puzzle,|||Titus|Nintendo|2001
-82716A|Rpg Tsukuru Gb|RPG Tsukuru GB||,Other|||||
-82722A|Sabrina - The Animated Series - Spooked!|Sabrina - The Animated Series - Spooked!||Action,Platform|||Wayforward|Simon & Schuster|
-82723A|Sabrina - The Animated Series - Zapped!|Sabrina - The Animated Series - Zapped!||Platform,|||||2000
+82716A|Rpg Tsukuru Gb|RPG Tsukuru GB||Other,|||||
+82722A|Sabrina - The Animated Series - Spooked!|Sabrina - The Animated Series - Spooked!||Action,Platform,|||Wayforward|Simon & Schuster|2001
+82723A|Sabrina - The Animated Series - Zapped!|Sabrina - The Animated Series - Zapped!||Platform,||||Simon & Schuster|2000
 184309|Saishuu Gensou|Saishuu Gensou|||||||
-82725A|Sakata Gorou Kudan No Renju Kyoushitsu|Sakata Gorou Kudan no Renju Kyoushitsu||,Puzzle|||||
-82726A|Sakura Taisen Gb - Geki Hana Kumi Nyuutai!|Sakura Taisen GB - Geki Hana Kumi Nyuutai!||,RPG|||||
-82727A|Sakura Taisen Gb2 - Thunderbolt Sakusen|Sakura Taisen GB2 - Thunderbolt Sakusen|||||||
+82725A|Sakata Gorou Kudan No Renju Kyoushitsu|Sakata Gorou Kudan no Renju Kyoushitsu||Board game,||||Culture Brain|1999
+82726A|Sakura Taisen Gb - Geki Hana Kumi Nyuutai!|Sakura Taisen GB - Geki Hana Kumi Nyuutai!||RPG,|1|||Media Factory|2000
+82727A|Sakura Taisen Gb2 - Thunderbolt Sakusen|Sakura Taisen GB2 - Thunderbolt Sakusen||Adventure,|1|||Sega|2001
 82728A|Samurai Kid|Samurai Kid||Adventure,Platform,|1||Biox|Koei|2001
 36995A|San Francisco Rush 2049|San Francisco Rush 2049||Race, Driving,|1||Atari|Midway|2000
 184307|San Goku Shi : Act C|San Goku Shi : Act C|||||||
 82729A|Sangokushi - Game Boy Ban 2|Sangokushi - Game Boy Ban 2|||||||
-82730A|Sanrio Timenet - Kako Hen|Sanrio Timenet - Kako Hen||,RPG|||||
-82731A|Sanrio Timenet - Mirai Hen|Sanrio Timenet - Mirai Hen||,RPG|||Imagineer|Imagineer|1998
-176689|Sanrio Uranai Party|Sanrio Uranai Party||,Other|||||
+82730A|Sanrio Timenet - Kako Hen|Sanrio Timenet - Kako Hen||RPG,|||||1998
+82731A|Sanrio Timenet - Mirai Hen|Sanrio Timenet - Mirai Hen||RPG,|||Imagineer|Imagineer|1998
+176689|Sanrio Uranai Party|Sanrio Uranai Party||Other,|||||1997
 36996A|Santa Claus Junior|Santa Claus Junior||Puzzle-Game,Action,|1||NEON Software GmbH|JoWooD Productions Software AG|2001
 184300|School Fighter|School Fighter|||||||
-37183A|Scooby-doo! - Classic Creep Capers|Scooby-Doo! : Classic Creep Capers||Adventure,|1||Digital Eclipse|THQ|
+37183A|Scooby-doo! - Classic Creep Capers|Scooby-Doo! : Classic Creep Capers||Adventure,|1||Digital Eclipse|THQ|2000
 82735A|Scrabble|Scrabble||Reflection,|4||Ubisoft|Ubisoft|2001
-176715|SD Command Gundam - G-Arms|SD Command Gundam - G-Arms||,Action|||||
-176669|SD Gundam Gaiden - Lacroan' Heroes|SD Gundam Gaiden - Lacroan' Heroes||,Adventure|||||
-82736A|Sd Hiryuu No Ken Ex|SD Hiryuu no Ken EX||,Fighting|||||
-176690|SD Hiryuu no Ken Gaiden|SD Hiryuu no Ken Gaiden||,Fighting|||||
-176691|SD Hiryuu no Ken Gaiden 2|SD Hiryuu no Ken Gaiden 2||,Fighting|||||
-176692|SD Sengokuden 2 - Tenka Touitsu Hen|SD Sengokuden 2 - Tenka Touitsu Hen||,Strategy|||||
-82737A|Sei Hai Densetsu|Sei Hai Densetsu||,Mahjong|||||
-82738A|Seme Com Dungeon - Drururuaga|Seme COM Dungeon - Drururuaga||,RPG|||||
+176715|SD Command Gundam - G-Arms|SD Command Gundam - G-Arms||Action|||||1991
+176669|SD Gundam Gaiden - Lacroan' Heroes|SD Gundam Gaiden - Lacroan' Heroes||Adventure,|||||1990
+82736A|Sd Hiryuu No Ken Ex|SD Hiryuu no Ken EX||Fighting,|||||1999
+176690|SD Hiryuu no Ken Gaiden|SD Hiryuu no Ken Gaiden||Fighting,|||||1995
+176691|SD Hiryuu no Ken Gaiden 2|SD Hiryuu no Ken Gaiden 2||Fighting,|||||1996
+176692|SD Sengokuden 2 - Tenka Touitsu Hen|SD Sengokuden 2 - Tenka Touitsu Hen||Strategy,|||||1991
+82737A|Sei Hai Densetsu|Sei Hai Densetsu||Board game,||||GAPS|2000
+82738A|Seme Com Dungeon - Drururuaga|Seme COM Dungeon - Drururuaga||RPG,|||||2000
 82739A|Senkai Ibunroku Juntei Taisen - Tv Animation Senkaiden Houshin Engi Yori|Senkai Ibunroku Juntei Taisen - TV Animation Senka|Senkai Ibonroku Juntei Taisen - TV Animation Senkaiden Houshin Engi Yori|,RPG|||||
 82740A|Sesame Street Sports|Sesame Street Sports||Sports,|||Bonsai Entertainment Corp.|NewKidCo|2001
 82741A|Sewing Machine Operation Software|Sewing Machine Operation Software|||||||
-82743A|Sgt. Rock - On The Frontline|Sgt. Rock : On the Frontline|Sgt. Rock - On The Front Line|,Action|||||
+82743A|Sgt. Rock - On The Frontline|Sgt. Rock : On the Frontline|Sgt. Rock - On The Front Line|Action||||Bam Entertainment|2000
 37184A|Shadowgate Classic|Shadowgate Classic||Puzzle-Game,Adventure,|||Infinite Ventures, Inc.|Kotobuki System|1999
 82745A|Shaman King Card Game - Chou Senjiryakketsu - Funbari Hen|Shaman King Card Game - Chou Senjiryakketsu - Funb|||||||
 82746A|Shaman King Card Game - Chou Senjiryakketsu - Meramera Hen|Shaman King Card Game - Chou Senjiryakketsu - Mera|||||||
-36997A|Shamus|Shamus||Action|1||Vatical Entertainment LLC|Telegames, Inc.|2000
+36997A|Shamus|Shamus||Action,Arcade,,|1||Vatical Entertainment LLC|Telegames, Inc.|2000
 37185A|Shanghai Pocket|Shanghai Pocket||Various,Strategy,|2||Sunsoft|Activision|1998
 36998A|Shantae|Shantae|Phantasm|Sports,Adventure,|1||Wayforward Technologies|Capcom|2002
 82747A|Shaun Palmer's Pro Snowboarder|Shaun Palmer's Pro Snowboarder||Sports,|||ITL Co., Ltd.|Activision|2001
-184301|Shawu Story|Shawu Story||,RPG|||||
+184301|Shawu Story|Shawu Story||RPG,|||||2002
 184820|Sheng Huo Jiang Mo Lu Wai Chuan|Sheng Huo Jiang Mo Lu Wai Chuan|||||||
-82152A|Dukes Of Hazzard, The - Racing For Home|The Dukes of Hazzard: Racing for Home||,Racing|1||Spellbound|SouthPeak Games|
-37189A|Shin Megami Tensei Trading Card - Card Summoner|Shin Megami Tensei Trading Card: Card Summoner||Role playing games,|1||Enterbrain, Inc.|Enterbrain, Inc.|
-37186A|Shin Megami Tensei - Devil Children - Aka No Sho|Shin Megami Tensei: Devil Children - Aka no Sho||Role playing games,|1||Access Games|Atlus|
-37187A|Shin Megami Tensei - Devil Children - Kuro No Sho|Shin Megami Tensei: Devil Children - Kuro no Sho||Role playing games,|1||Access Games|Atlus|
-37188A|Shin Megami Tensei - Devil Children - Shiro No Sho|Shin Megami Tensei: Devil Children - Shiro no Sho||Role playing games,|1||Multimedia Intelligence Transfer Co., Ltd.|Atlus|
+82152A|Dukes Of Hazzard, The - Racing For Home|The Dukes of Hazzard: Racing for Home||Racing,|1||Spellbound|SouthPeak Games|2000
+37189A|Shin Megami Tensei Trading Card - Card Summoner|Shin Megami Tensei Trading Card: Card Summoner||Role playing games,|1||Enterbrain, Inc.|Enterbrain, Inc.|2001
+37186A|Shin Megami Tensei - Devil Children - Aka No Sho|Shin Megami Tensei: Devil Children - Aka no Sho||Role playing games,|1||Access Games|Atlus|2000
+37187A|Shin Megami Tensei - Devil Children - Kuro No Sho|Shin Megami Tensei: Devil Children - Kuro no Sho||Role playing games,|1||Access Games|Atlus|2000
+37188A|Shin Megami Tensei - Devil Children - Shiro No Sho|Shin Megami Tensei: Devil Children - Shiro no Sho||Role playing games,|1||Multimedia Intelligence Transfer Co., Ltd.|Atlus|2001
 184310|Shin San Guo Shi 2|Shin San Guo Shi 2|||||||
-82752A|Shinseiki Evangelion - Mahjong Hokan Keikaku|Shinseiki Evangelion - Mahjong Hokan Keikaku||,Adventure|||||
+82752A|Shinseiki Evangelion - Mahjong Hokan Keikaku|Shinseiki Evangelion - Mahjong Hokan Keikaku||Adventure,|||||2000
 82190A|Fushigi No Dungeon - Fuurai No Shiren Gb2 - Sabaku No Majou|Shiren the Wanderer GB2: Magic Castle of the Deser||Role playing games,|1||Chunsoft|Chunsoft|2001
-176670|Shisenshou - Match-Mania|Shisenshou - Match-Mania||,Puzzle|||||
-176693|Shonen Ashibe - Yuuenchi Panic|Shonen Ashibe - Yuuenchi Panic||,RPG|||||
-153362|Shou Hyper Fish|Shou Hyper Fish||,RPG|||||
-82753A|Shougi 2|Shougi 2||,Puzzle|||||
+176670|Shisenshou - Match-Mania|Shisenshou - Match-Mania||Puzzle,|||||1990
+176693|Shonen Ashibe - Yuuenchi Panic|Shonen Ashibe - Yuuenchi Panic||RPG,|||||1991
+153362|Shou Hyper Fish|Shou Hyper Fish||RPG,|||||1998
+82753A|Shougi 2|Shougi 2||Board game,||||Pony Canyon|1999
 82754A|Shougi 3|Shougi 3|Shougi|,Puzzle|||||
-37190A|Shrek - Fairy Tale Freakdown|Shrek: Fairy Tale Freakdown||Fight,|1||Silent Software|TDK Mediactive, Inc.|
-82865A|Shutokou Racing, The|Shutokou Racing, The||,Racing|||||
-176637|Side Pocket|Side Pocket||,Pool|||||
-176641|Simpsons, The - Bart & the Beanstalk|Simpsons, The - Bart & the Beanstalk||,Platform|||||
-176648|Simpsons, The - Bart vs the Juggernauts|Simpsons, The - Bart vs the Juggernauts||,Quiz|||||
+37190A|Shrek - Fairy Tale Freakdown|Shrek: Fairy Tale Freakdown||Fight,|1||Silent Software|TDK Mediactive, Inc.|2001
+82865A|Shutokou Racing, The|Shutokou Racing, The||Racing,|||||1998
+176637|Side Pocket|Side Pocket||Simulation,Sports,,|||||1990
+176641|Simpsons, The - Bart & the Beanstalk|Simpsons, The - Bart & the Beanstalk||Platform,|||||1993
+176648|Simpsons, The - Bart vs the Juggernauts|Simpsons, The - Bart vs the Juggernauts||Quiz,|||||1992
 142936|Sky Dragon|Sky Dragon|||||||
-176642|Small Soldiers|Small Soldiers||,Action|||||
+176642|Small Soldiers|Small Soldiers||Action,Arcade,Platform,,|||||1998
 167276|Snaps|Snaps|Antz|,Platform|||||
-176643|Sneaky Snakes|Sneaky Snakes||,Platform|||||
-82758A|Snowboard Champion|Snobo Champion||,Snowboarding|||||
-189433|Snoopy no Hajimete no Otsukai|Snoopy no Hajimete no Otsukai||,Arcade|||||
+176643|Sneaky Snakes|Sneaky Snakes||Action,Arcade,Platform,,|||||1991
+82758A|Snowboard Champion|Snobo Champion||Sports,||||Bottom Up|2000
+189433|Snoopy no Hajimete no Otsukai|Snoopy no Hajimete no Otsukai||Arcade,|||||1996
 37193A|Snoopy Tennis|Snoopy Tennis||Sports,|1||Mermaid Studios|Infogrames|2001
 82760A|Snowcross|SnowCross||Race, Driving,|1||Vicarious Visions|Vatical Entertainment|
-176646|Soccer|Soccer|Lucle|,Soccer|||||
+176646|Soccer|Soccer|Lucle|Action,Sports,Soccer,,|||||1994
 82761A|Soccer Manager|Soccer Manager||Sports,|1||Broadsword Interactive|Acclaim Entertainment|2000
-176653|SolarStriker|SolarStriker||,Shooter|||||
-176716|Solitaire|Solitaire||,Puzzle|||||
-82762A|Solomon|Solomon|Soldam|,Platform|||||
-176644|Solomon's Club|Solomon's Club||,Platform|||||
-142937|Sonic 7|Sonic 7|Sonic 6|,Platform|||||
-82763A|Soreike! Anpanman - 5-tsu No Tou No Ousama|Soreike! Anpanman - 5-tsu no Tou no Ousama|Soreike! Anpanman - 5tsu no Tou no Ousama|,Arcade|||||
-82764A|Soreike! Anpanman - Fushigi Na Nikoniko Album|Soreike! Anpanman - Fushigi na Nikoniko Album||,Adventure|||||
-176717|Soreyuke! Speedy Gonzales|Soreyuke! Speedy Gonzales||,Platform|||||
-176718|Soreyuke!! Kid|Soreyuke!! Kid||,Platform|||||
-176722|Soukoban|Soukoban||,Puzzle|||||
-82765A|Soukoban Densetsu - Hikari To Yami No Kuni|Soukoban Densetsu - Hikari to Yami no Kuni||,Puzzle|||||
+176653|SolarStriker|SolarStriker||Shooter,|||||1989
+176716|Solitaire|Solitaire||Puzzle,,|||||
+82762A|Solomon|Solomon|Soldam|Platform,|||||
+176644|Solomon's Club|Solomon's Club||Action,Puzzle,Arcade,Platform,,|||||1991
+142937|Sonic 7|Sonic 7|Sonic 6|Platform,|||||1999
+82763A|Soreike! Anpanman - 5-tsu No Tou No Ousama|Soreike! Anpanman - 5-tsu no Tou no Ousama|Soreike! Anpanman - 5tsu no Tou no Ousama|Puzzle,||||Nintendo|1
+82764A|Soreike! Anpanman - Fushigi Na Nikoniko Album|Soreike! Anpanman - Fushigi na Nikoniko Album||Action,Adventure,||||Tamsoft|1999
+176717|Soreyuke! Speedy Gonzales|Soreyuke! Speedy Gonzales||Platform,|||||1993
+176718|Soreyuke!! Kid|Soreyuke!! Kid||Platform,|||||1997
+176722|Soukoban|Soukoban||Puzzle,|||||
+82765A|Soukoban Densetsu - Hikari To Yami No Kuni|Soukoban Densetsu - Hikari to Yami no Kuni||Puzzle,||||J-Wing|1999
 142938|Soul Falchion|Soul Falchion|||||||
-82766A|Soul Getter - Houkago Bouken Rpg|Soul Getter - Houkago Bouken RPG||,RPG|||Micro Cabin|Micro Cabin|
+82766A|Soul Getter - Houkago Bouken Rpg|Soul Getter - Houkago Bouken RPG||RPG,|||Micro Cabin|Micro Cabin|2000
 36999A|Space Invaders|Space Invaders||Shooter,Action,|2||Z-Axis, Ltd.|Activision|1999
-82767A|Space Invaders X|Space Invaders X|Space Invaders|,Shooter|||||
-82768A|Space Invasion|Space Invasion||Shooter,||||Rocket Games|
+82767A|Space Invaders X|Space Invaders X|Space Invaders|Shooter,|||||2000
+82768A|Space Invasion|Space Invasion||Shooter,||||Rocket Games|2000
 82769A|Space Invasion And Karate Joe|Space Invasion & Karate Joe|||||||
 82770A|Space Invasion And Painter|Space Invasion & Painter|||||||
 37194A|Space Marauder|Space Marauder||Puzzle-Game,Action,|1||KID Corp.|Agetec|2000
-82772A|Space-net - Cosmo Blue|Space-Net - Cosmo Blue||,RPG|||||
-82773A|Space-net - Cosmo Red|Space-Net - Cosmo Red||,RPG|||||
-82774A|Spacestation Silicon Valley|Spacestation Silicon Valley||,Puzzle|||||
-37000A|Spawn|Spawn|Klax|Action|1||Konami|Konami|1999
-82776A|Speedy Gonzales - Aztec Adventure|Speedy Gonzales - Aztec Adventure||,Platform|||||
-37001A|Spider-man|Spider-Man||Action,Platform|1||Vicarious Visions, Inc.|Activision|2000
-37195A|Spider-man 2 - The Sinister Six|Spider-Man 2: The Sinister Six||Action|1||Torus Games Pty. Ltd.|Activision|2001
+82772A|Space-net - Cosmo Blue|Space-Net - Cosmo Blue||RPG,||||Timenet|2001
+82773A|Space-net - Cosmo Red|Space-Net - Cosmo Red||RPG,||||Timenet|2001
+82774A|Spacestation Silicon Valley|Spacestation Silicon Valley||Platformer,|1|||Tarantula Studios|1999
+37000A|Spawn|Spawn|Klax|Action,Beat'em Up,Platformer,|1||Konami|Konami|1999
+82776A|Speedy Gonzales - Aztec Adventure|Speedy Gonzales - Aztec Adventure||Platformer,||||SunSoft|1999
+37001A|Spider-man|Spider-Man||Action,Platformer,|1||Vicarious Visions, Inc.|Activision|2000
+37195A|Spider-man 2 - The Sinister Six|Spider-Man 2: The Sinister Six||Action,Beat'em Up,Platformer,|1||Torus Games Pty. Ltd.|Activision|2001
 82778A|Spirou Robbedoes - The Robot Invasion|Spirou Robbedoes - The Robot Invasion|||||Planet Interactive|Ubisoft|
-176719|Splitz|Splitz|Spawn|,Puzzle|||||
-176649|Spot|Spot|Croc|,Platform|||||
-176654|Spot - The Cool Adventure|Spot - The Cool Adventure||,Platform|||||
-176645|Spud's Adventure|Spud's Adventure||,Adventure|||||
-82782A|Spy Vs. Spy|Spy vs. Spy||Action|||Kemco|Vatical Entertainment|
-37198A|Star Ocean - Blue Sphere|Star Ocean: Blue Sphere||Role playing games,|1||tri-Ace Inc.|Enix Corporation|
-176720|Star Sweep|Star Sweep||,Puzzle|||||
-176694|Star Trek - The Next Generation|Star Trek - The Next Generation||,Spaceship|||||
+176719|Splitz|Splitz|Spawn|Puzzle,,|||||1993
+176649|Spot|Spot|Croc|Puzzle,Strategy,Board Game,,|||||1990
+176654|Spot - The Cool Adventure|Spot - The Cool Adventure||Platform,|||||1992
+176645|Spud's Adventure|Spud's Adventure||Action,Puzzle,,|||||1991
+82782A|Spy Vs. Spy|Spy vs. Spy||Action,Fighter,|||Kemco|Vatical Entertainment|1999
+37198A|Star Ocean - Blue Sphere|Star Ocean: Blue Sphere||Role playing games,|1||tri-Ace Inc.|Enix Corporation|2001
+176720|Star Sweep|Star Sweep||Puzzle,|||||1997
+176694|Star Trek - The Next Generation|Star Trek - The Next Generation||Spaceship,|||||1993
 37199A|Star Wars - Episode I - Obi-wan's Adventures|Star Wars: Episode I - Obi-Wan's Adventures|Star Wars Episode I - Obi-Wan's Adventures|Action,Adventure,|1||HotGen Ltd.|THQ|2000
 37200A|Star Wars - Episode I - Racer|Star Wars: Episode I - Racer|Star Wars Episode I - Racer|Race, Driving,|2||Pax Softnica|Nintendo|1999
 167255|Starfight|Starfight|||||||
-176659|Stargate|Stargate||,Puzzle|||||
-142939|Stone Age|Stone Age|||||||
-176660|Stop That Roach!|Stop That Roach!||,Arcade|||||
-37202A|Street Fighter Alpha - Warriors' Dreams|Street Fighter Alpha: Warriors' Dreams||Fight,Action,|2||Capcom|Capcom|
+176659|Stargate|Stargate||Action,Arcade,Platform,Shooter,,|||||1994
+142939|Stone Age|Stone Age||Puzzle,,|||||
+176660|Stop That Roach!|Stop That Roach!||Puzzle,Strategy,,|||||
+37202A|Street Fighter Alpha - Warriors' Dreams|Street Fighter Alpha: Warriors' Dreams||Fight,Action,|2||Capcom|Capcom|1999
 83003A|Street Hero|Street Hero|Street Racer|,Racing|||||
-37002A|Stuart Little - The Journey Home|Stuart Little: The Journey Home||Action,Platform|1||Tiertex Design Studios|Activision|2001
+37002A|Stuart Little - The Journey Home|Stuart Little: The Journey Home||Action,Platformer,|1||Tiertex Design Studios|Activision|2001
 99355A|Super 16 In 1|Super 16 In 1|||||||
 99356A|Super 6 In 1|Super 6 In 1|||||||
-82792A|Super Black Bass - Real Fight|Super Black Bass - Real Fight||,Fishing|||||
-82791A|Super Black Bass Pocket 3|Super Black Bass Pocket 3|Super Black Bass Pocket|,Fishing|||||
-176723|Super Bombliss|Super Bombliss||,Puzzle|||||
-82793A|Super Bombliss Dx|Super Bombliss DX|Super Bombliss|,Puzzle|||||
-82795A|Super Breakout!|Super Breakout!||,Breakout|||Morning Star Multimedia|Majesco Games|
-82796A|Super Chinese Fighter Ex|Super Chinese Fighter EX||,Fighting|||Culture Brain|Culture Brain|
-82797A|Super Doll Licca-chan - Kisekae Daisakusen|Super Doll Licca-chan - Kisekae Daisakusen||,Adventure|||||
-142940|Super Fighters '99|Super Fighters '99||,Fighting|||||
+82792A|Super Black Bass - Real Fight|Super Black Bass - Real Fight||Sports,||||Star Fish|1999
+82791A|Super Black Bass Pocket 3|Super Black Bass Pocket 3|Super Black Bass Pocket|Fishing,|||||1998
+176723|Super Bombliss|Super Bombliss||Puzzle,|||||1995
+82793A|Super Bombliss Dx|Super Bombliss DX|Super Bombliss|Puzzle,||||Bullet Proof Software|1999
+82795A|Super Breakout!|Super Breakout!||Breakout,|||Morning Star Multimedia|Majesco Games|1998
+82796A|Super Chinese Fighter Ex|Super Chinese Fighter EX||Fighter,|1||Culture Brain|Culture Brain|1999
+82797A|Super Doll Licca-chan - Kisekae Daisakusen|Super Doll Licca-chan - Kisekae Daisakusen||Adventure,||||VR-1 Japan|2000
+142940|Super Fighters '99|Super Fighters '99||Fighting,|||||
 82798A|Super Gals! Kotobuki Ran|Super Gals! Kotobuki Ran|||||||
 82799A|Super Gals! Kotobuki Ran 2|Super Gals! Kotobuki Ran 2|||||||
-37204A|Super Mario Bros. Deluxe|Super Mario Bros. Deluxe||Action,Platform|2||Nintendo|Nintendo|1999
-142935|Super Mario Land|Super Mario Land|Super Mario 4|,Platform|||||
+37204A|Super Mario Bros. Deluxe|Super Mario Bros. Deluxe||Action,Platformer,|2||Nintendo|Nintendo|1999
+142935|Super Mario Land|Super Mario Land|Super Mario 4|Action,Platform,Shooter,,|||||1989
 142941|Super Mario Special 3|Super Mario Special 3|||||||
 82800A|Super Me-mail Gb - Me-mail Bear No Happy Mail Town|Super Me-Mail GB - Me-Mail Bear no Happy Mail Town|||||||
-82804A|Super Real Fishing|Super Real Fishing||,Fishing|||||
-82805A|Super Robot Pinball|Super Robot Pinball||,Pinball|||||
-82806A|Super Robot Taisen - Link Battler|Super Robot Taisen - Link Battler||,Strategy|||||
-176650|Super Scrabble|Super Scrabble||,Puzzle|||||
+82804A|Super Real Fishing|Super Real Fishing||Sports,||||Bottom Up|1999
+82805A|Super Robot Pinball|Super Robot Pinball||Pinball,||||Media Factory;Banpresto;Jupiter|2001
+82806A|Super Robot Taisen - Link Battler|Super Robot Taisen - Link Battler||Fighter,Strategy,||||Banpresto|1999
+176650|Super Scrabble|Super Scrabble||Puzzle,|||||1990
 184311|Super SLG|Super SLG|Superman|,Action|||||
-176721|Super Snakey|Super Snakey||,Puzzle|||||
-176724|Super Street Basketball|Super Street Basketball||,Basketball|||||
+176721|Super Snakey|Super Snakey||Puzzle,|||||
+176724|Super Street Basketball|Super Street Basketball||Basketball,|||||1992
 37203A|Supercross Freestyle|Supercross Freestyle||Sports,Race, Driving,|1||Velez & Dubail|Infogrames|2000
-176655|Superman|Superman||,Action|||||
+176655|Superman|Superman||Action,Platform,,|||||1997
 37003A|Survival Kids|Survival Kids||Role playing games,|1||Konami|Konami|1999
-82808A|Survival Kids 2 - Dasshutsu!! Futago Shima!|Survival Kids 2 - Dasshutsu!! Futago Shima!||,Adventure|||||
+82808A|Survival Kids 2 - Dasshutsu!! Futago Shima!|Survival Kids 2 - Dasshutsu!! Futago Shima!||Adventure,|1|||Konami|2000
 82810A|Suzuki Alstare Extreme Racing|Suzuki Alstare Extreme Racing||Racing,|2||Visual Impact|Ubisoft|1999
-82811A|Sweet Ange|Sweet Ange||,Adventure|||||
+82811A|Sweet Ange|Sweet Ange||Simulation,Board game,||||Koei|1999
 82812A|Swing|Swing|Boxing|Puzzle,|1||Software 2000|Software 2000|1997
 82813A|Swiv|SWIV|Kwirk|Shoot'em Up,|||Codemasters|Codemasters|2001
-154290|Sword of Hope, The|Sword of Hope, The|Sword of Hope II, The|,RPG|||||
-82816A|Sylvanian Families - Otogi No Kuni No Pendant|Sylvanian Families - Otogi no Kuni no Pendant|||||||
-82814A|Sylvanian Families 2 - Irozuku Mori No Fantasy|Sylvanian Families 2 - Irozuku Mori no Fantasy|||||||
+154290|Sword of Hope, The|Sword of Hope, The|Sword of Hope II, The|RPG,|||||1990
+82816A|Sylvanian Families - Otogi No Kuni No Pendant|Sylvanian Families - Otogi no Kuni no Pendant||Role-Playing,||||Epoch|1999
+82814A|Sylvanian Families 2 - Irozuku Mori No Fantasy|Sylvanian Families 2 - Irozuku Mori no Fantasy||Role-Playing,||||Epoch|2000
 82815A|Sylvanian Families 3 - Hoshi Furu Yoru No Sunadokei|Sylvanian Families 3 - Hoshi Furu Yoru no Sunadoke|||||||
-82817A|Sylvanian Melodies - Mori No Nakama To Odori Mashi!|Sylvanian Melodies - Mori no Nakama to Odori Mashi|||||||
-176651|T2 - The Arcade Game|T2 - The Arcade Game||,Gun shooter|||||
+82817A|Sylvanian Melodies - Mori No Nakama To Odori Mashi!|Sylvanian Melodies - Mori no Nakama to Odori Mashi||Role-Playing,||||Epoch|
+176651|T2 - The Arcade Game|T2 - The Arcade Game||Gun shooter,|||||1992
 37005A|Tabaluga|Tabaluga|Ganbaruga|Puzzle-Game,Adventure,|1||NEON Software GmbH|Infogrames|1999
-82819A|Taisen Tsume Shougi|Taisen Tsume Shougi||,Puzzle|||||
+82819A|Taisen Tsume Shougi|Taisen Tsume Shougi||Board game,||||Athena;LOG|2000
 82820A|Taito Memorial - Bubble Bobble|Taito Memorial - Bubble Bobble|||||||
-82822A|Tales Of Phantasia - Narikiri Dungeon|Tales of Phantasia - Narikiri Dungeon||,RPG|||||
-82823A|Tanimura Hitoshi Ryuu Pachinko Kouryaku Daisakusen - Don Quijote Ga Iku|Tanimura Hitoshi Ryuu Pachinko Kouryaku Daisakusen||,Slot machine|||||
+82822A|Tales Of Phantasia - Narikiri Dungeon|Tales of Phantasia - Narikiri Dungeon||RPG,|1|||Namco|2000
+82823A|Tanimura Hitoshi Ryuu Pachinko Kouryaku Daisakusen - Don Quijote Ga Iku|Tanimura Hitoshi Ryuu Pachinko Kouryaku Daisakusen||Casino,||||Atlus|2000
 82824A|Tarzan|Tarzan|Batman|Platform,|1||Digital Eclipse|Activision|1999
 82825A|Taxi 2|Taxi 2||Racing,|1||Visual Impact|Ubisoft|2000
 82826A|Taxi 3|Taxi 3|Max|Race, Driving,|1||Ubisoft|Visual Impact|2003
-176657|Taz-Mania|Taz-Mania|Pac-Man|,Platform|||||
+176657|Taz-Mania|Taz-Mania|Pac-Man|Action,Platform,,|||||1994
 37006A|Tech Deck Skateboarding|Tech Deck Skateboarding||Sports,|1||Handheld Games|Activision|2001
 37205A|Test Drive 2001|Test Drive 2001||Race, Driving,|1||Xantera|Infogrames|2000
 37206A|Test Drive 6|Test Drive 6||Race, Driving,|||Xantera|Infogrames|1999
 82830A|Test Drive Cycles|Test Drive Cycles||Racing,|||Xantera|Infogrames|2000
-37207A|Test Drive - Le Mans|Test Drive Le Mans||Race, Driving,|||Velez & Dubail|Infogrames|
+37207A|Test Drive - Le Mans|Test Drive Le Mans||Race, Driving,|||Velez & Dubail|Infogrames|2000
 82832A|Test Drive Off-road 3|Test Drive Off-Road 3||Race, Driving,|2||Infogrames|Infogrames|2000
 82833A|Tetris Adventure - Susume Mickey To Nakama-tachi|Tetris Adventure - Susume Mickey to Nakama-tachi|Tetris Adventure - Susume Mickey to Nakamatachi|,Puzzle|||||
 37208A|Tetris Dx|Tetris DX|Tetris|Puzzle-Game,|2||Nintendo|Nintendo|1998
 83004A|Tezhong Budui 2 - Jidi|Tezhong Budui 2 - Jidi|||||||
 189434|The Battle of Vietnam|The Battle of Vietnam|||||||
-36914A|Fish Files, The|The Fish Files||Puzzle-Game,Adventure,|1||7th Sense Studios|MC2-Microïds|
-36927A|Grinch, The|The Grinch||Puzzle-Game,|1||Konami|Konami|
+36914A|Fish Files, The|The Fish Files||Puzzle-Game,Adventure,|1||7th Sense Studios|MC2-Microïds|2001
+36927A|Grinch, The|The Grinch||Puzzle-Game,|1||Konami|Konami|2000
 82377A|Legend of Zelda - Oracle of Ages, The|The Legend of Zelda : Oracle of Ages||Action / Adventure,Action,|1||Flagship|Nintendo|2001
 82379A|Legend of Zelda - Oracle of Seasons, The|The Legend of Zelda : Oracle of Seasons|||1||Flagship|Nintendo|2001
 184823|The Legend of Zelda: Dream Island|The Legend of Zelda: Dream Island|||||||
 82375A|Legend of Zelda - Link's Awakening DX, The|The Legend of Zelda : Link's Awakening DX||Adventure,|1|||Nintendo|1998
-37147A|New Addams Family Series, The|The New Addams Family Series||Puzzle-Game,Adventure,|1||7th Sense Studios|Microïds|
-82640A|Powerpuff Girls, The - Battle Him|The Powerpuff Girls: Battle Him||,Platform|||||
-82637A|Powerpuff Girls, The - Bad Mojo Jojo|The Powerpuff Girls: Bad Mojo Jojo||,Platform|||||
+37147A|New Addams Family Series, The|The New Addams Family Series||Puzzle-Game,Adventure,|1||7th Sense Studios|Microïds|2001
+82640A|Powerpuff Girls, The - Battle Him|The Powerpuff Girls: Battle Him||Platformer,||||Sennari Interactive|2000
+82637A|Powerpuff Girls, The - Bad Mojo Jojo|The Powerpuff Girls: Bad Mojo Jojo||Platformer,||||Sennari Interactive|2000
 82643A|Powerpuff Girls, The - Paint The Townsville Green|The Powerpuff Girls: Paint the Townsville Green||Fighting,|||Sennari Interactive, LLC|BAM! Entertainment, Inc.|2000
 82757A|Simpsons, The - Night Of The Living Treehouse Of Horror|The Simpsons: Night of the Living Treehouse of Horror||Platform,|||Software Creations|THQ|2001
-82941A|Wild Thornberrys, The - Rambler|The Wild Thornberrys : Rambler||,Platform|||||
+82941A|Wild Thornberrys, The - Rambler|The Wild Thornberrys : Rambler||Platform,|||||2000
 82868A|Three Lions|Three Lions||Sports,|||Tarantula Studios|Take-Two Interactive|1999
 167277|Thrust D X|Thrust D X|||||||
 82869A|Thunder Blast Man|Thunder Blast Man||Action,Platform,|1||Sachen|Sachen|1995
 37007A|Thunderbirds|Thunderbirds||Race, Driving,|2||Pukka Games|SCi Games Ltd.|2001
-81990A|Bear In The Big Blue House|Bear in the Big Blue House||,Arcade|||DC Studios|Ubisoft|2002
+81990A|Bear In The Big Blue House|Bear in the Big Blue House||Arcade,|||DC Studios|Ubisoft|2002
 37209A|Tiger Woods Pga Tour 2000|Tiger Woods PGA Tour 2000||Sports,|4||Xantera|THQ|2000
-82871A|Tintin - Prisoners Of The Sun|Tintin - Prisoners of the Sun|||1||Infogrames|Infogrames|
-37210A|Tintin In Tibet|Tintin in Tibet||Action,Platform|1||Infogrames|Infogrames|2001
-37211A|Tiny Toon Adventures - Buster Saves The Day|Tiny Toon Adventures: Buster Saves the Day||Action,Arcade|1||Warthog Plc|Conspiracy Entertainment Corp.|2001
-37212A|Tiny Toon Adventures - Dizzy's Candy Quest|Tiny Toon Adventures: Dizzy's Candy Quest||Puzzle-Game,Adventure,|1||Formula|Swing! Entertainment Media AG|
-82890A|Tootuff|Tootuff||Action,Arcade|1||Planet Interactive|Infogrames|2001
+82871A|Tintin - Prisoners Of The Sun|Tintin - Prisoners of the Sun||Action,|1||Infogrames|Infogrames|2000
+37210A|Tintin In Tibet|Tintin in Tibet||Action,Platformer,|1||Infogrames|Infogrames|2001
+37211A|Tiny Toon Adventures - Buster Saves The Day|Tiny Toon Adventures: Buster Saves the Day||Action,Arcade,|1||Warthog Plc|Conspiracy Entertainment Corp.|2001
+37212A|Tiny Toon Adventures - Dizzy's Candy Quest|Tiny Toon Adventures: Dizzy's Candy Quest||Puzzle-Game,Adventure,|1||Formula|Swing! Entertainment Media AG|2001
+82890A|Tootuff|Tootuff||Action,Board game,|1||Planet Interactive|Infogrames|2001
 37116A|Looney Tunes - Twouble!|Looney Tunes : Twouble!||Action,|||Bit Managers|Infogrames|1998
-82913A|Tweety's High-flying Adventure|Tweety's High-Flying Adventure|Tweety's High-Flying Adventures|Action,Platform|||Kemco|KEMCO U.S.A., INC.|2000
-37008A|Titus The Fox - To Marrakech And Back|Titus the Fox: To Marrakech and Back||Action,|2||Titus|Titus|2000
-82877A|Tnn Outdoors Fishing Champ|TNN Outdoors Fishing Champ||Sports,|||Starfish|ASC Games|
-82878A|Toca Touring Car Championship|TOCA Touring Car Championship||Race, Driving,|||Codemasters|THQ|
+82913A|Tweety's High-flying Adventure|Tweety's High-Flying Adventure|Tweety's High-Flying Adventures|Action,Platformer,|||Kemco|KEMCO U.S.A., INC.|2000
+37008A|Titus The Fox - To Marrakech And Back|Titus the Fox: To Marrakech and Back||Action,Platform,,|2||Titus|Titus|2000
+82877A|Tnn Outdoors Fishing Champ|TNN Outdoors Fishing Champ||Sports,|||Starfish|ASC Games|1998
+82878A|Toca Touring Car Championship|TOCA Touring Car Championship||Race, Driving,|||Codemasters|THQ|2000
 37009A|Toki Tori|Toki Tori||Puzzle-Game,Action,|1||Two Tribes B.V.|Capcom|2002
-82879A|Tokimeki Memorial Pocket - Culture Hen - Komorebi No Melody|Tokimeki Memorial Pocket - Culture Hen - Komorebi ||,Adventure|||||
-82880A|Tokimeki Memorial Pocket - Sport Hen - Koutei No Photograph|Tokimeki Memorial Pocket - Sport Hen - Koutei no P||,Adventure|||||
+82879A|Tokimeki Memorial Pocket - Culture Hen - Komorebi No Melody|Tokimeki Memorial Pocket - Culture Hen - Komorebi ||Simulation,Adventure,||||Konami|1999
+82880A|Tokimeki Memorial Pocket - Sport Hen - Koutei No Photograph|Tokimeki Memorial Pocket - Sport Hen - Koutei no P||Adventure,|||||1999
 82881A|Tokoro-san No Setagaya C.c.|Tokoro-san no Setagaya C.C.|||||||
-82882A|Tom And Jerry|Tom & Jerry||,Platform|||Morning Star Multimedia|Majesco Sales, Inc.|
+82882A|Tom And Jerry|Tom & Jerry||Action,Arcade,,|||Morning Star Multimedia|Majesco Sales, Inc.|1992
 37215A|Tom Clancy's Rainbow Six|Tom Clancy's Rainbow Six||Shooter,Simulation,|1||Crawfish Interactive Ltd.|Red Storm Entertainment, Inc.|2000
-37213A|Tom And Jerry - Mouse Hunt|Tom and Jerry: Mouse Hunt||Action,Arcade|1||Conspiracy Entertainment Corp.|Conspiracy Entertainment Corp.|2000
+37213A|Tom And Jerry - Mouse Hunt|Tom and Jerry: Mouse Hunt||Action,Arcade,|1||Conspiracy Entertainment Corp.|Conspiracy Entertainment Corp.|2000
 82883A|Tom And Jerry In Mouse Attacks!|Tom and Jerry in Mouse Attacks!||Puzzle,|||Warthog Plc|NewKidCo, Inc.|2000
 37214A|Tomb Raider|Tomb Raider||Puzzle-Game,Action,|1||Core Design|Eidos Interactive Ltd.|2000
-82887A|Tomb Raider - Curse Of The Sword|Tomb Raider: Curse of the Sword||,Action|||Core Design Ltd.|Activision|
-37010A|Tonic Trouble|Tonic Trouble||Action,Platform|1||RFX Interactive|Ubisoft|2000
+82887A|Tomb Raider - Curse Of The Sword|Tomb Raider: Curse of the Sword||Platformer,|||Core Design Ltd.|Activision|2001
+37010A|Tonic Trouble|Tonic Trouble||Action,Platformer,|1||RFX Interactive|Ubisoft|2000
 82888A|Tonka Construction Site|Tonka Construction Site||Strategy,|||Cosmigo|TDK Mediactive|2002
 82889A|Tonka Raceway|Tonka Raceway||Race, Driving,|||Morning Star Multimedia|Hasbro Interactive|1999
 37216A|Tony Hawk's Pro Skater|Tony Hawk's Pro Skater||Sports,|2||Natsume Co., Ltd.|Activision|2000
 37217A|Tony Hawk's Pro Skater 2|Tony Hawk's Pro Skater 2||Sports,|1||Natsume Co., Ltd.|Activision|2002
 37218A|Tony Hawk's Pro Skater 3|Tony Hawk's Pro Skater 3|Tony Hawk's Pro Skater|Sports,|1||HotGen Ltd.|Activision|2001
-37011A|Toobin'|Toobin'|Noobow|Action|1||Atari|Midway Home Entertainment, Inc.|2000
+37011A|Toobin'|Toobin'|Noobow|Action,Racing,|1||Atari|Midway Home Entertainment, Inc.|2000
 37012A|Toonsylvania|Toonsylvania||Action,Platform,|1||RFX Interactive|Ubisoft|2000
 37219A|Top Gear Pocket|Top Gear Pocket||Sports,Race, Driving,|2||Vision Works|Kotobuki System|1999
 37220A|Top Gear Pocket 2|Top Gear Pocket 2||Sports,Race, Driving,|2||Vision Works|Kotobuki System|2000
-176736|Top Gear Rally 2|Top Gear Rally 2||,Racing|||||
+176736|Top Gear Rally 2|Top Gear Rally 2||Racing,Sports,,|||||
 37013A|Top Gun - Firestorm|Top Gun: Firestorm|Top Gun - Fire Storm|Shooter,Action,|1||Fluid Studios|Titus|2001
-82895A|Total Soccer 2000|Total Soccer 2000||Sports / Soccer,Sports,|||||
-82896A|Totsugeki! Papparatai|Totsugeki! Papparatai||,Shooter|||||
-82898A|Tottoko Hamutarou - Tomodachi Daisakusen Dechu|Tottoko Hamutarou - Tomodachi Daisakusen Dechu||,Adventure|||||
-82897A|Tottoko Hamutarou 2 - Hamu-chan Zu Daishuugou Dechu|Tottoko Hamutarou 2 - Hamu-chan Zu Daishuugou Dech||,Adventure|||||
+82895A|Total Soccer 2000|Total Soccer 2000||Sports / Soccer,Sports,||||LiveMedia|1999
+82896A|Totsugeki! Papparatai|Totsugeki! Papparatai||Shooter,||||J-Wing|2000
+82898A|Tottoko Hamutarou - Tomodachi Daisakusen Dechu|Tottoko Hamutarou - Tomodachi Daisakusen Dechu||Simulation,||||Nintendo|2000
+82897A|Tottoko Hamutarou 2 - Hamu-chan Zu Daishuugou Dechu|Tottoko Hamutarou 2 - Hamu-chan Zu Daishuugou Dech||Adventure,|||||2001
 37014A|Towers - Lord Baniff's Deceit|Towers: Lord Baniff's Deceit||Role playing games,|2||JV Games, Inc.|Telegames, Inc.|Vatical Entertainment LLC
 82900A|Toy Story 2|Toy Story 2||Platform,|1||Tiertex Design Studios|THQ|2000
 82901A|Toy Story Racer|Toy Story Racer||Race, Driving,|||Tiertex Design Studios|Activision|2001
-82902A|Trade And Battle Card Hero|Trade & Battle Card Hero||,RPG|||||
+82902A|Trade And Battle Card Hero|Trade & Battle Card Hero||RPG,||||Nintendo|2000
 82903A|Trick Boarder|Trick Boarder||Sports,|||Natsume|Natsume|2001
 37221A|Triple Play 2001|Triple Play 2001||Sports,|||Handheld Games|Electronic Arts|2000
 37015A|Trouballs|Trouballs||Puzzle-Game,|1||Paragon Five, Inc.|Capcom|2001
-82905A|Tsuri Sensei 2|Tsuri Sensei 2||,Adventure|||||
-82906A|Tsuriiko!!|Tsuriiko!!||,Adventure|||||
+82905A|Tsuri Sensei 2|Tsuri Sensei 2||Adventure,Sports,||||J-Wing|1999
+82906A|Tsuriiko!!|Tsuriiko!!||Action,Sports,||||ASCii|2001
 37016A|Turok 2 - Seeds Of Evil|Turok 2: Seeds of Evil||Fight,Action,|1||Bit Managers|Acclaim Entertainment|1998
 37222A|Turok 3 - Shadow Of Oblivion|Turok 3: Shadow of Oblivion||Shooter,Action,|1||Bit Managers|Acclaim Entertainment|2000
-37223A|Turok - Rage Wars|Turok: Rage Wars||Action|4||Bit Managers|Acclaim Entertainment|
-82911A|Tweenies - Doodles' Bones|Tweenies - Doodles' Bones||,Platform|||||2001
+37223A|Turok - Rage Wars|Turok: Rage Wars||Action,Beat'em Up,Platformer,|4||Bit Managers|Acclaim Entertainment|1999
+82911A|Tweenies - Doodles' Bones|Tweenies - Doodles' Bones||Action,Platformer,||||Tiertex|2001
 82912A|Tweety Sekaiisshuu - 80 Hiki No Neko O Sagase!|Tweety Sekaiisshuu - 80 Hiki no Neko o Sagase!|||||||
-82915A|Tyco Rc - Racin' Ratz|Tyco RC : Racin' Ratz||,Racing|||||
-83005A|Tyrannosaurus Tex|Tyrannosaurus Tex|||||||
-82916A|Tyrian 2000|Tyrian 2000|||||||
-82917A|Uchuu Nin Tanaka Tarou De Rpg Tsukuru Gb2|Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2||,RPG|||||
+82915A|Tyco Rc - Racin' Ratz|Tyco RC : Racin' Ratz||Racing,|||||2000
+83005A|Tyrannosaurus Tex|Tyrannosaurus Tex||Shooter,|||||1
+82916A|Tyrian 2000|Tyrian 2000||Action,Arcade,Shooter,,|||||
+82917A|Uchuu Nin Tanaka Tarou De Rpg Tsukuru Gb2|Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2||RPG,|||||2001
 37224A|Uefa 2000|UEFA 2000||Sports,|4||Bit Managers|Infogrames|2000
 82918A|Ultimate Fighting Championship|Ultimate Fighting Championship||Fighting,Sports,|||Fluid Studios|Crave|2000
 37017A|Ultimate Paintball|Ultimate Paintball|Ultimate Paint Ball|Sports,|1||Morning Star Multimedia|Majesco Sales, Inc.|2000
@@ -1158,23 +1158,23 @@
 37020A|V.i.p.|V.I.P.||Race, Driving,|1||Planet Interactive Development|Ubi Soft Entertainment, Inc.|2000
 82921A|Vegas Games|Vegas Games||Strategy,|||Digital Eclipse|3DO|2000
 37019A|Vigilante 8|Vigilante 8||Race, Driving,|2||Vicarious Visions, Inc.|Vatical Entertainment LLC|1999
-82926A|Vs Lemmings|VS Lemmings|Lemmings|,Puzzle|||||
+82926A|Vs Lemmings|VS Lemmings|Lemmings|Puzzle,|||||
 37228A|Walt Disney World Quest Magical Racing Tour|Walt Disney World Quest Magical Racing Tour|Walt Disney World Quest - Magical Racing Tour|Race, Driving,|1||Crystal Dynamics, Inc.|Silent Software|Activision
-82929A|Warau Inu No Bouken - Silly Go Lucky!|Warau Inu no Bouken - Silly Go Lucky!||,Arcade|||||
+82929A|Warau Inu No Bouken - Silly Go Lucky!|Warau Inu no Bouken - Silly Go Lucky!||Arcade,||||Capcom|2001
 109021|Wario Craft|Wario Craft|||||||
-37229A|Wario Land 3|Wario Land 3||Action,Platform|1||Nintendo|Nintendo|2000
-37230A|Wario Land 2|Wario Land II||Action,|1||Nintendo|Nintendo|
+37229A|Wario Land 3|Wario Land 3||Action,Platformer,|1||Nintendo|Nintendo|2000
+37230A|Wario Land 2|Wario Land II||Action,Platformer,|1||Nintendo|Nintendo|1998
 37022A|Warlocked|Warlocked||Strategy,|2||Bits Studios Ltd.|Nintendo|2000
-37231A|Warriors Of Might And Magic|Warriors of Might and Magic||Sports,|1||Game Boy World|3DO|
-82932A|Watashi No Kitchen|Watashi no Kitchen|||||||
-82933A|Watashi No Restaurant|Watashi no Restaurant||,Adventure|||||
+37231A|Warriors Of Might And Magic|Warriors of Might and Magic||Sports,|1||Game Boy World|3DO|2000
+82932A|Watashi No Kitchen|Watashi no Kitchen||Strategy,||||Kirat|2001
+82933A|Watashi No Restaurant|Watashi no Restaurant||Adventure,||||Kirat|2002
 82934A|Wcw Mayhem|WCW Mayhem||Sports,|||2n Productions|Electronic Arts|2000
 37232A|Wendy - Der Traum Von Arizona|Wendy: Der Traum von Arizona||Sports,|1||BVM Produktion GmbH|KIDDINX Entertainment GmbH|2003
 37233A|Wendy - Every Witch Way|Wendy: Every Witch Way||Puzzle-Game,Strategy,|1||Wayforward Technologies|TDK Mediactive, Inc.|2001
-82937A|Wetrix Gb|Wetrix GB|Tetris 2|,Puzzle|||||
-82938A|Who Wants To Be A Millionaire - 2nd Edition|Who Wants to Be a Millionaire : 2nd Edition||,Quiz|||||
-37024A|Wings Of Fury|Wings of Fury||Role playing games,Action,|1||Ed Magnin and Associates|Mindscape|
-82943A|Winnie The Pooh - Adventures In The 100 Acre Wood|Winnie the Pooh - Adventures in the 100 Acre Wood||,Adventure|||Ubisoft|Disney Interactive|
+82937A|Wetrix Gb|Wetrix GB|Tetris 2|Puzzle,||||Imagineer;Infogrames|1999
+82938A|Who Wants To Be A Millionaire - 2nd Edition|Who Wants to Be a Millionaire : 2nd Edition||Quiz,||||THQ|2000
+37024A|Wings Of Fury|Wings of Fury||Role playing games,Action,|1||Ed Magnin and Associates|Mindscape|1999
+82943A|Winnie The Pooh - Adventures In The 100 Acre Wood|Winnie the Pooh - Adventures in the 100 Acre Wood||Adventure,|||Ubisoft|Disney Interactive|2000
 82944A|Wizardry Empire|Wizardry Empire||Role-Playing,|1||Starfish|Starfish|1999
 82945A|Wizardry Empire - Fukkatsu No Tsue|Wizardry Empire - Fukkatsu no Tsue|Wizardry Empire I - Fukkatsu no Tsue|,RPG|||||
 82946A|Wizardry I - Proving Grounds Of The Mad Overlord|Wizardry I - Proving Grounds of the Mad Overlord||Role playing games,|1||Sir-tech Software, Inc.|Sir-tech Software, Inc.|1981
@@ -1182,43 +1182,43 @@
 82948A|Wizardry 3 - Diamond No Kishi|Wizardry III - Diamond no Kishi|||||ASCII|ASCII|
 82952A|Woody Woodpecker|Woody Woodpecker||Action / Adventure,Action,|1||DreamCatcher Interactive|Nintendo|2001
 82954A|Woody Woodpecker Racing|Woody Woodpecker Racing||Racing,|2||Konami|Konami|2000
-37234A|World Destruction League - Thunder Tanks|World Destruction League : Thunder Tanks||Shooter,Strategy,|1||Sunset Entertainment|3DO|
-82956A|World Soccer Gb 2000|World Soccer GB 2000||Sports / Soccer,Sports,|||||
-82957A|World Soccer Gb2|World Soccer GB2||,Soccer|||||
-176695|Worms|Worms|Golf|,Puzzle|||||
+37234A|World Destruction League - Thunder Tanks|World Destruction League : Thunder Tanks||Shooter,Strategy,|1||Sunset Entertainment|3DO|2000
+82956A|World Soccer Gb 2000|World Soccer GB 2000||Sports / Soccer,Sports,||||Konami|1999
+82957A|World Soccer Gb2|World Soccer GB2||Soccer,|||||
+176695|Worms|Worms|Golf|Strategy,,|||||1995
 37235A|Worms Armageddon|Worms Armageddon||Strategy,|2||Infogrames|Infogrames North America|1999
 37025A|Wwf Attitude|WWF Attitude||Sports,|2||Crawfish Interactive Ltd.|Acclaim Entertainment|1999
 37236A|Wwf Betrayal|WWF Betrayal||Fight,Action,|2||Wayforward Technologies|THQ|2001
-176656|WWF King of the Ring|WWF King of the Ring||,Wrestling|||||
-37237A|Wwf Wrestlemania 2000|WWF Wrestlemania 2000||Sports,|2||Natsume Co., Ltd.|THQ|
+176656|WWF King of the Ring|WWF King of the Ring||Sports,Wrestling,,|||||1993
+37237A|Wwf Wrestlemania 2000|WWF Wrestlemania 2000||Sports,|2||Natsume Co., Ltd.|THQ|1999
 37026A|X-men - Mutant Academy|X-Men: Mutant Academy||Fight,Action,|2||Crawfish Interactive Ltd.|Activision|2000
-37238A|X-men - Mutant Wars|X-Men: Mutant Wars||Fight,Action,|1||HAL Corporation|Activision|
-37239A|X-men - Wolverine's Rage|X-Men: Wolverine's Rage||Fight,Action,|1||Digital Eclipse|Activision|
-82958A|Xena - Warrior Princess|Xena - Warrior Princess||,Adventure|||Titus Software|Titus Software|2001
-176696|Xenon 2 - Megablast|Xenon 2 - Megablast||,Shooter|||||
-155318|Xin Tiao Hui Yi|Xin Tiao Hui Yi||,Adventure|||||
+37238A|X-men - Mutant Wars|X-Men: Mutant Wars||Fight,Action,|1||HAL Corporation|Activision|2000
+37239A|X-men - Wolverine's Rage|X-Men: Wolverine's Rage||Fight,Action,|1||Digital Eclipse|Activision|2001
+82958A|Xena - Warrior Princess|Xena - Warrior Princess||Adventure,|||Titus Software|Titus Software|2001
+176696|Xenon 2 - Megablast|Xenon 2 - Megablast||Shooter,|||||1992
+155318|Xin Tiao Hui Yi|Xin Tiao Hui Yi||Adventure,|||||
 82963A|Xtreme Sports|Xtreme Sports||Various,|1||Wayforward Technologies|Infogrames|2000
 82964A|Xtreme Wheels|Xtreme Wheels||Race, Driving,|||Spike|Bam Entertainment|2001
-82965A|Yakouchuu Gb|Yakouchuu GB|Yakouchuu|,Adventure|||||
-176661|Yannick Noah Tennis|Yannick Noah Tennis||,Tennis|||||
-37027A|Yars' Revenge|Yars' Revenge||Action,Shooter|1||Atari|Telegames, Inc.|1999
-82966A|Yoda Stories|Yoda Stories||,Adventure|||Torus Games|THQ|
-37240A|Yogi Bear - Great Balloon Blast|Yogi Bear : Great Balloon Blast||Puzzle-Game,|2||Taito|BAM! Entertainment, Inc.|
+82965A|Yakouchuu Gb|Yakouchuu GB|Yakouchuu|Adventure,||||Athena|1999
+176661|Yannick Noah Tennis|Yannick Noah Tennis||Tennis,|||||1998
+37027A|Yars' Revenge|Yars' Revenge||Action,Shooter,|1||Atari|Telegames, Inc.|1999
+82966A|Yoda Stories|Yoda Stories||Adventure,|||Torus Games|THQ|1999
+37240A|Yogi Bear - Great Balloon Blast|Yogi Bear : Great Balloon Blast||Puzzle-Game,|2||Taito|BAM! Entertainment, Inc.|2000
 184304|Yongzhe Dou Elong 1 & 2|Yongzhe Dou Elong 1 & 2|||||||
-82978A|Yu-gi-oh! - Monster Capsule Gb|Yu-Gi-Oh! - Monster Capsule GB|||||Konami|Konami|
+82978A|Yu-gi-oh! - Monster Capsule Gb|Yu-Gi-Oh! - Monster Capsule GB||Puzzle,Strategy,|1||Konami|Konami|2000
 37241A|Yu-gi-oh! Dark Duel Stories|Yu-Gi-Oh! Dark Duel Stories||Various,Playing cards,|2||Konami|Konami|2002
 140731|Yu-gi-oh! Duel Monsters 2 - Dark Duel Stories|Yu-gi-oh! Duel Monsters 2 - Dark Duel Stories|||||||
-82970A|Yu-gi-oh! Duel Monsters 4 - Saikyou Kettousha Senki - Yuugi Deck|Yu-Gi-Oh! Duel Monsters 4 - Saikyou Kettousha Senk||,RPG|||||
-82968A|Yu-gi-oh! Duel Monsters 4 - Saikyou Kettousha Senki - Jounouchi Deck|Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist||,RPG|||Konami|Konami|2000
-82969A|Yu-gi-oh! Duel Monsters 4 - Saikyou Kettousha Senki - Kaiba Deck|Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist||,RPG|||Konami|Konami|
-82971A|Yu-gi-oh! Duel Monsters 2 - Yamikai Kettouki|Yu-Gi-Oh! Duel Monsters II - Yamikai Kettouki|||||||
-82972A|Yu-gi-oh! Duel Monsters 3 - Sanseisenshin Kourin|Yu-Gi-Oh! Duel Monsters III - Sanseisenshin Kourin|||||||
+82970A|Yu-gi-oh! Duel Monsters 4 - Saikyou Kettousha Senki - Yuugi Deck|Yu-Gi-Oh! Duel Monsters 4 - Saikyou Kettousha Senk||RPG,|||||2000
+82968A|Yu-gi-oh! Duel Monsters 4 - Saikyou Kettousha Senki - Jounouchi Deck|Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist||RPG,|||Konami|Konami|2000
+82969A|Yu-gi-oh! Duel Monsters 4 - Saikyou Kettousha Senki - Kaiba Deck|Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist||RPG,|||Konami|Konami|2000
+82971A|Yu-gi-oh! Duel Monsters 2 - Yamikai Kettouki|Yu-Gi-Oh! Duel Monsters II - Yamikai Kettouki||RPG,|||||1999
+82972A|Yu-gi-oh! Duel Monsters 3 - Sanseisenshin Kourin|Yu-Gi-Oh! Duel Monsters III - Sanseisenshin Kourin||RPG,|||||2000
 37028A|Zebco Fishing!|Zebco Fishing!||Sports,|1||Vicarious Visions, Inc.|Vatical Entertainment LLC|1999
 184312|Zelda Shi Kong Zhi Zhang|Zelda Shi Kong Zhi Zhang|||||||
-82983A|Zen-nihon Shounen Soccer Taikai - Mezase Nihon Ichi!|Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ich||,Soccer|||||
+82983A|Zen-nihon Shounen Soccer Taikai - Mezase Nihon Ichi!|Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ich||Soccer,|||||2001
 184296|Zhong Zhuan Qi Bing|Zhong Zhuan Qi Bing|||||||
-82984A|Zidane Football Generation|Zidane Football Generation||,Soccer|||Cryo Interactive|Aqua Pacific - Cryo Interactive|2001
-82986A|Zoboomafoo - Playtime In Zobooland|Zoboomafoo : Playtime in Zobooland||,Platform||||Encore - Vicarious Visions|2001
-82988A|Zoids - Jashin Fukkatsu! Genobreaker Hen|Zoids - Jashin Fukkatsu! Genobreaker Hen||,RPG||||Tomy|2000
-82991A|Zoids - Shirogane No Juukishin Liger Zero|Zoids - Silver Beast Machine God Liger Zero||,RPG|||Tomy Corporation|Tomy|2001
-82992A|Zok Zok Heroes|Zok Zok Heroes||,RPG||||KAZe - Media Factory|2000
+82984A|Zidane Football Generation|Zidane Football Generation||Sports,|||Cryo Interactive|Aqua Pacific - Cryo Interactive|2001
+82986A|Zoboomafoo - Playtime In Zobooland|Zoboomafoo : Playtime in Zobooland||Platform,||||Encore - Vicarious Visions|2001
+82988A|Zoids - Jashin Fukkatsu! Genobreaker Hen|Zoids - Jashin Fukkatsu! Genobreaker Hen||RPG,||||Tomy|2000
+82991A|Zoids - Shirogane No Juukishin Liger Zero|Zoids - Silver Beast Machine God Liger Zero||RPG,|||Tomy Corporation|Tomy|2001
+82992A|Zok Zok Heroes|Zok Zok Heroes||RPG,|1|||KAZe - Media Factory|2000

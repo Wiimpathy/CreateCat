@@ -15,20 +15,6 @@
 			<control type="gamecube" required="false"/>
 		</input>
 	</game>
-	<game name="Actraiser">
-		<id>88924A</id>
-	<locale lang="EN">
-	<title>Actraiser</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
 	<game name="Ak Live Hit Gang">
 		<id>38574A</id>
 	<locale lang="EN">
@@ -53,33 +39,6 @@
 	<title>Albert Odyssey</title>
 	</locale>
 		<date year="1998" month="03" day="29"/>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Arkanoid - Doh It Again">
-		<id>126172</id>
-	<locale lang="EN">
-	<title>Arkanoid - Doh It Again</title>
-	</locale>
-	<locale lang="ES">
-	<genre>Acción / Juegos de Breakout,Acción</genre>
-	</locale>
-	<locale lang="FR">
-	<genre>Action / Casse briques,Action</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Action / Breakout Spiele,Action</genre>
-	</locale>
-	<locale lang="PT">
-	<genre>Ação / Jogos de Breakout,Ação</genre>
-	</locale>
-		<date year="1997" month="08" day="21"/>
 		<rating type="NOTE" value="">
 		</rating>
 		<input players="">
@@ -592,21 +551,6 @@ En raison du succès immense du jeu, Nintendo développe une version remixée du
 			<control type="gamecube" required="false"/>
 		</input>
 	</game>
-	<game name="Chrono Trigger">
-		<id>38675A</id>
-	<locale lang="EN">
-	<title>Chrono Trigger</title>
-	<synopsis>BS Chrono Trigger: Character Library is essentially a bestiary containing not only all of the playable characters, but all of the enemies as well. The game was released for the Japan only Satellaview in 1995, and was developed by Squaresoft and published by Nintendo. The game is nothing more than an addon to Chrono Trigger, containing every sprite for each character and enemy, as well as a brief description of each one. BS Chrono Trigger: Character Library is also included in Final Fantasy Chronicles.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
 	<game name="Cock-a-doodle-do">
 		<id>38679A</id>
 	<locale lang="EN">
@@ -639,36 +583,6 @@ En raison du succès immense du jeu, Nintendo développe une version remixée du
 		<id>189071</id>
 	<locale lang="EN">
 	<title>Cu-On-Pa BS Ban</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Cu-on-pa Sfc">
-		<id>126177</id>
-	<locale lang="EN">
-	<title>Cu-on-pa Sfc</title>
-	<synopsis>Cu-On-Pa BS Ban is a Downloadable game for the Satellaview that was broadcast in at least 2 runs between June 29, 1997 and December 19, 1998. Between its first broadcast and August 2, 1997, a related magazine entitled Cu-On-Pa BS Ban Seiseki Magazine was broadcast alongside Cu-On-Pa.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Daibakushou Jinsei Gekijou">
-		<id>126178</id>
-	<locale lang="EN">
-	<title>Daibakushou Jinsei Gekijou</title>
-	<synopsis>Daibakushou Jinseigekijou: Ooedo Nikki is a view-limited Downloadable game for the Satellaview that was broadcast in at least 4 runs between March 2, 1997 and February 21, 1998. From November 15, 1998 and onward, the game dropped its subtitle to become simply Daibakushou Jinseigekijou.</synopsis>
 	</locale>
 		<rating type="NOTE" value="">
 		</rating>
@@ -713,35 +627,6 @@ En raison du succès immense du jeu, Nintendo développe une version remixée du
 	<title>Darius Force</title>
 	<synopsis>For countless millennia, the space tyrant Belser and his cosmic marauders have terrorized this once peaceful galaxy. Now, no sector remains safe from these stellar mercenaries and their evil empire. The Galactic Federation has finally called on two of its ace pilots and their sleek Silver Hawk warships to do battle with Belser's malicious metal menaces and reclaim the beloved planet Darius. Climb into the pilot's seat for a solo mission against Belser's forces; or engage the enemies with a fellow Federation pilot in a two-player simultaneous team attack. The future of the galaxy rests on the success of this perilous quest.</synopsis>
 	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Derby Stallion 98">
-		<id>38710A</id>
-	<locale lang="EN">
-	<title>Derby Stallion 98</title>
-	</locale>
-	<locale lang="ES">
-	<genre>Carreras de caballos,Deportes con animales</genre>
-	</locale>
-	<locale lang="FR">
-	<genre>Course de chevaux,Sport avec animaux</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Pferderennen,Sport mit Tieren</genre>
-	</locale>
-	<locale lang="PT">
-	<genre>Corrida com Cavalos,Esporte com animais</genre>
-	</locale>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<date year="1998" month="08" day="25"/>
 		<rating type="NOTE" value="">
 		</rating>
 		<input players="">
@@ -807,49 +692,6 @@ En raison du succès immense du jeu, Nintendo développe une version remixée du
 			<control type="gamecube" required="false"/>
 		</input>
 	</game>
-	<game name="Dokapon Gaiden - Honoo No Audition">
-		<id>126163</id>
-	<locale lang="EN">
-	<title>Dokapon Gaiden - Honoo No Audition</title>
-	<synopsis>Dokapon Gaiden: Honoo no Audition is a view-limited Downloadable game for the Satellaview that was broadcast in at least 2 runs between February 1, 1998 and November 28, 1998. Prior to February 1, 1998, the game was simply called Dokapon Gaiden.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Doukyuusei 2">
-		<id>38728A</id>
-	<locale lang="EN">
-	<title>Doukyuusei 2</title>
-	<synopsis>The player plays the role of a high school male student. In the winter vacation of the last school year (from 22 December to 7 January), he has to choose one girl to be his girlfriend. There are 15 choices for him to make, some are his classmates and some have to be met in the city. The player has to meet the girls and make friends with one of them until the relationship develops to a point that the girl is willing to become his girlfriend.</synopsis>
-	<genre>Simulation</genre>
-	</locale>
-	<locale lang="ES">
-	<genre>Simulación</genre>
-	</locale>
-	<locale lang="FR">
-	<genre>Simulation</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Simulation</genre>
-	</locale>
-		<developer>Elf</developer>
-		<publisher>Banpresto</publisher>
-		<date year="1997" month="01" day="07"/>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
 	<game name="Dr. Mario">
 		<id>126180</id>
 	<locale lang="EN">
@@ -857,23 +699,6 @@ En raison du succès immense du jeu, Nintendo développe une version remixée du
 	<synopsis>Dr. Mario BS Version is a Satellaview video game released in 1997 for the Super Famicom. It's an altered version of the popular Dr. Mario video game and was released only in Japan. It was the last game to be broadcast over the Satellaview.
 
 It is a puzzle game where the objective is to defeat different colored germs using vitamins of the same color. It is basically four in a row just like Tetris (row or column counts) or to put it another way, to defeat each germ, three halves of the same color must be next to the germ. These halves do not need to be on the same pill. The germs will multiply as the levels progress.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Dragon Slayer - Eiyuu Densetsu">
-		<id>126164</id>
-	<locale lang="EN">
-	<title>Dragon Slayer - Eiyuu Densetsu</title>
-	<synopsis>Unlike the previous Dragon Slayer games, which were all side-scrolling action RPGs, The Legend of Heroes is a far more straightforward turn-based RPG of the Dragon Quest mold. It allowed for a party of up to four characters and had a few modern upgrades, such as allowing the player to distribute stats after a level up, target separate monsters and restart a battle if their party gets wiped out.
-
-It received one direct sequel, Dragon Slayer: The Legend of Heroes II, before the series would drop the Dragon Slayer prefix and continue as a separate Falcom property.</synopsis>
 	</locale>
 		<rating type="NOTE" value="">
 		</rating>
@@ -924,48 +749,6 @@ It received one direct sequel, Dragon Slayer: The Legend of Heroes II, before th
 		<rating type="NOTE" value="">
 		</rating>
 		<input players="2">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="F-zero">
-		<id>126181</id>
-	<locale lang="EN">
-	<title>F-zero</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Famicom Bunko - Hajimari No Mori">
-		<id>38761A</id>
-	<locale lang="EN">
-	<title>Famicom Bunko - Hajimari no Mori</title>
-	<synopsis>Hajimari no Mori is an Adventure game, developed by Pax Softonica and published by Nintendo,  which was released in Japan in 1999.</synopsis>
-	<genre>Adventure</genre>
-	</locale>
-	<locale lang="ES">
-	<genre>Aventura</genre>
-	</locale>
-	<locale lang="FR">
-	<genre>Aventure</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Abenteuer</genre>
-	</locale>
-		<developer>Pax Softonica</developer>
-		<publisher>Nintendo</publisher>
-		<date year="1999" month="07" day="01"/>
-		<rating type="NOTE" value="15">
-		</rating>
-		<input players="">
 			<control type="wiimote" required="true"/>
 			<control type="nunchuk" required="false"/>
 			<control type="classiccontroller" required="false"/>
@@ -1032,21 +815,6 @@ This adventure game is dedicated entirely to investigation. You have a menu with
 			<control type="gamecube" required="false"/>
 		</input>
 	</game>
-	<game name="Firemen, The">
-		<id>126182</id>
-	<locale lang="EN">
-	<title>Firemen, The</title>
-	<synopsis>The Firemen is a Downloadable Game for the Satellaview that was broadcast in at least 6 distinct runs between February 2, 1997 and January 24, 1998.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
 	<game name="Freud No Chousenjou">
 		<id>38777A</id>
 	<locale lang="EN">
@@ -1065,20 +833,6 @@ This adventure game is dedicated entirely to investigation. You have a menu with
 		<id>38784A</id>
 	<locale lang="EN">
 	<title>Gal Kan Bazooka - Dai-5-kan</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Gambler Jiko Chuushinha 2 - Dorapon Quest">
-		<id>126165</id>
-	<locale lang="EN">
-	<title>Gambler Jiko Chuushinha 2 - Dorapon Quest</title>
 	</locale>
 		<rating type="NOTE" value="">
 		</rating>
@@ -1145,33 +899,6 @@ This adventure game is dedicated entirely to investigation. You have a menu with
 			<control type="gamecube" required="false"/>
 		</input>
 	</game>
-	<game name="Genjuu Ryodan">
-		<id>38803A</id>
-	<locale lang="EN">
-	<title>Genjuu Ryodan</title>
-	</locale>
-	<locale lang="ES">
-	<genre>Estrategia</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Genjuu Ryodan est un jeu de stratégie développé par Créa-Tech Inc. Dans ce soft à l'univers coloré, vous dirigez une armée d'humains qui décide de conquérir le royaume des cochons. Vous aurez pour cela plusieurs types d'unités à votre disposition, archers, chevaliers, mages. Pour menez à bien vos troupes vers la victoire, il va falloir faire preuve de stratégie et finesse.</synopsis>
-	<genre>Stratégie</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Strategie</genre>
-	</locale>
-		<developer>Crea-tech</developer>
-		<publisher>Axela</publisher>
-		<date year="1998" month="06" day="01"/>
-		<rating type="NOTE" value="14">
-		</rating>
-		<input players="1">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
 	<game name="Golf Daisuki! O.b. Club">
 		<id>38813A</id>
 	<locale lang="EN">
@@ -1191,51 +918,6 @@ This adventure game is dedicated entirely to investigation. You have a menu with
 		<id>38816A</id>
 	<locale lang="EN">
 	<title>Goodspress</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Gs Mikami - Joreishi Wa Nice Body">
-		<id>18950A</id>
-	<locale lang="EN">
-	<title>GS Mikami: Joreishi wa Nice Body</title>
-	<synopsis>It's a quiet day at the Mikami Ghost Sweeping Company until a mysterious package arrives. It seems the "kindly" old store keeper Yakuchin found a magic statue and figured it would best be kept in Mikami's hands. Of course, where there's magic, there's wealth (or something like that), so Reiko sets out to find the seven gems needed to complete the statue.
-
-GS Mikami: Joreishi wa Nice Body is a side scrolling platform game based on the Ghost Sweeper Mikami manga and anime. The player controls Reiko who can fight off ghosts and monsters with her enchanted baton. The baton can be powered up to shoot lighting or icicles at an angle, but its power is lost if Reiko is hit. Reiko can only hold up to three special weapons, either a scroll that sucks enemies into it, or a gem that freezes time. Each "case" in the game is either one or two platforming levels long followed by a boss fight.</synopsis>
-	<genre>Beat'em Up</genre>
-	</locale>
-	<locale lang="ES">
-	<genre>Beat'em Up</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>GS Mikami : Joreishi wa Nice Body est un beat'em all. Ce soft est l'adaptation vidéoludique du manga Ghost Sweeper Mikami, vous y incarnez Reiko Mikami qui doit lutter contre une invasion de fantômes. Vous disposez pour cela d'un bâton magique, qui peut être amélioré en récupérant des Power-up. Vous pourrez même faire un petit tour sur le dos d'un chat.</synopsis>
-	<genre>Beat'em All</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Beat'em Up</genre>
-	</locale>
-		<developer>Natsume Co., Ltd.</developer>
-		<publisher>Bandai</publisher>
-		<date year="1993" month="09" day="23"/>
-		<rating type="NOTE" value="17">
-		</rating>
-		<input players="1">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Heisei Gunjin Shougi">
-		<id>126184</id>
-	<locale lang="EN">
-	<title>Heisei Gunjin Shougi</title>
 	</locale>
 		<rating type="NOTE" value="">
 		</rating>
@@ -1331,21 +1013,7 @@ Ici, ce sont les Schbibin Man &amp; Schbibin Woman Raita et Azuki les héros. Ma
 			<control type="nunchuk" required="false"/>
 			<control type="classiccontroller" required="false"/>
 			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Kessen! Dokapon Oukoku 4 - Densetsu No Yuusha-tachi">
-		<id>126166</id>
-	<locale lang="EN">
-	<title>Kessen! Dokapon Oukoku 4 - Densetsu No Yuusha-tachi</title>
-	<synopsis>Kessen! Dokapon Okukoku IV: Densetsu no Yuusha Tachi ("Decisive Battle! Dokapon Kingdoms IV: Legend of Heroes") is a mix of an RPG and a multiplayer board game. Players move their heroes around the board, gaining levels and finding equipment, and eventually saving a kingdom from encroaching monsters. The goal is to beat the target monsters before the other players.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
+      <control type="coop" required="true"/>
 		</input>
 	</game>
 	<game name="Kid Klown No Crazy Chase">
@@ -1521,21 +1189,6 @@ Ici, ce sont les Schbibin Man &amp; Schbibin Woman Raita et Azuki les héros. Ma
 			<control type="gamecube" required="false"/>
 		</input>
 	</game>
-	<game name="Lemmings">
-		<id>126193</id>
-	<locale lang="EN">
-	<title>Lemmings</title>
-	<synopsis>Thousands of Lemmings are on the loose, marching towards extinction unless you can save them. Without minds of their own, they are completely helpless, faithfully following their leader through 125 levels of blazing fires, endless canyons, deadly tunnels and ancient ruins. You or you and a friend can command the Lemmings to dig, climb, tunnel, float and build their way to safety. But you have to move fast, because each moment you hesitate, more Lemmings may drop from above!</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
 	<game name="Let's Pachinko Nante Gindama">
 		<id>44295A</id>
 	<locale lang="EN">
@@ -1554,21 +1207,6 @@ Ici, ce sont les Schbibin Man &amp; Schbibin Woman Raita et Azuki les héros. Ma
 		<id>126194</id>
 	<locale lang="EN">
 	<title>Logos Panic Goaisatsu Bs Ban</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Lord Monarch">
-		<id>126195</id>
-	<locale lang="EN">
-	<title>Lord Monarch</title>
-	<synopsis>Lord Monarch is a view-limited Downloadable game for the Satellaview that was broadcast in at least 2 runs between December 20, 1997 and March 31, 1998.</synopsis>
 	</locale>
 		<rating type="NOTE" value="">
 		</rating>
@@ -1702,43 +1340,6 @@ Every round serves up a new challenge. Compete with pros, or line up a foursome 
 			<control type="gamecube" required="false"/>
 		</input>
 	</game>
-	<game name="New Yatterman - Nandai Kandai Yajirobee">
-		<id>126199</id>
-	<locale lang="EN">
-	<title>New Yatterman - Nandai Kandai Yajirobee</title>
-	<synopsis>New Yatterman: Nandai Kandai Yajirobee is a multiplayer-focused game for the Super Famicom that is based on the 1970s Yatterman anime franchise.
-
-Yatterman features a team of three heroes, all called Yatterman, who attempt to beat the supervillain team Doronbo (also a group of three) to a set of skull coins which will reveal the way to a giant treasure horde. The heroes often use toys and mechs to defeat their incompetent opponents, such as the male protagonist's kendamagic.
-
-The game is similar to First Star's Spy vs. Spy series, in that both teams are attempting to reach the treasure first. They can trip up their opponents via a number of traps, some of which have conditional uses. By burying mines and setting off missiles, the player can whittle down the health of their opponents as well as keep them off their tracks. If the two teams meet, they fight each other in a three-on-three tag team battle with the losing side taking a large hit to their health. The game can be played single-player (as either the Yatterman team or the Doronbo team) or multiplayer.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Nintama Rantarou 2">
-		<id>65247A</id>
-	<locale lang="EN">
-	<title>Nintama Rantarou 2</title>
-	<synopsis>Nintama Rantaro 2 is a Downloadable game for the Satellaview that was broadcast in at least 2 runs between March 29, 1998 and November 28, 1998.</synopsis>
-	</locale>
-		<developer>Culture Brain</developer>
-		<publisher>Culture Brain</publisher>
-		<date year="1996" month="03" day="29"/>
-		<rating type="NOTE" value="18">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
 	<game name="Nintendo Power Magazine 107">
 		<id>65288A</id>
 	<locale lang="EN">
@@ -1799,55 +1400,10 @@ In the demo, the mode of play is limited to to a VS. Match between Arle and Sata
 			<control type="gamecube" required="false"/>
 		</input>
 	</game>
-	<game name="Radical Dreamers">
-		<id>2364AA</id>
-	<locale lang="EN">
-	<title>Radical Dreamers</title>
-	<synopsis>This text-based adventure (with some interesting background graphics) was originally released in Japan over the Satellaview system. The game is a spin-off from the Chrono Series, and was the precursor to Chrono Cross. It tells the story of Serge (travelling musician), Kid (thief), and Magil (wizard) as they attempt to steal the Frozen Flame from Viper Manor.  Contains multiple, often humorous endings. An interesting game for Chrono Trigger/Cross fans, as this was the game that Chrono Cross was essentially a remake of.
-
-Gameplay is something between a standard text adventure and a Choose Your Own Adventure book.  Rather than having a full array of possible actions, players are limited to the several options it presents at any time.  With newly discovered items and information, new areas can be reached.  Occasionally battles will occur during the exploration, which are also handled by displaying several possible actions to choose between, such as "Run" or "Jump back as it swings!"</synopsis>
-	<genre>Role playing games</genre>
-	</locale>
-	<locale lang="ES">
-	<genre>Juegos de rol</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Radical Dreamers sur Super Nes est un jeu de rôle reprenant le principe des livres dont vous êtes le héros. Vous incarnerez Serge, un jeune aventurier ayant rejoint Kid, la fameuse voleuse et Magil, un mage mystérieux. L'objectif du trio est de dérober la Flamme gelée, un joyau d'une valeur inestimable, dans le manoir Viper du sombre Lord Lynx.</synopsis>
-	<genre>Jeu de rôles</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Rollenspiele</genre>
-	</locale>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<date year="1996" month="06" day="01"/>
-		<rating type="NOTE" value="17">
-		</rating>
-		<input players="1">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
 	<game name="Ryouma De Yuku">
 		<id>65292A</id>
 	<locale lang="EN">
 	<title>Ryouma de Yuku</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Same Game">
-		<id>126200</id>
-	<locale lang="EN">
-	<title>Same Game</title>
 	</locale>
 		<rating type="NOTE" value="">
 		</rating>
@@ -1938,36 +1494,6 @@ Ici les illustrations sont issues du monde de Mario. Le curseur peut se diriger 
 		<rating type="NOTE" value="">
 		</rating>
 		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Sonic Blast Man">
-		<id>2470AA</id>
-	<locale lang="EN">
-	<title>Sonic Blast Man</title>
-	<synopsis>You take on the role of Sonic Blast Man, a superhero, in this side-scrolling shooter, fighting against various forms of evil. While you have the typical punch, jump, and kick moves, the Sonic Blast Man also has two special power moves: Dynamite Punch and Screw Bomb. You travel through five different stages and fight enemies ranging from local ruffians to robots and even aliens from outer space.</synopsis>
-	<genre>Beat'em Up</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>Eres "Sonic Blast Man", un superhéroe, en este juego de disparos de desplazamiento lateral, luchando contra varias formas de maldad. Mientras tiene los típicos movimientos de golpe, salto y patada, Sonic Blast Man también tiene dos movimientos de poder especiales: golpe de dinamita y bomba de tornillo. Viajaras a través de cinco etapas diferentes y lucharas contra enemigos que van desde rufianes locales hasta robots e incluso extraterrestres del espacio exterior.</synopsis>
-	<genre>Beat'em Up</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Sonic Blast Man, sur Super Nintendo, est la caricature parfaite du super héros : costume coloré, panoplie complète de coups, un goût prononcé pour la justice et... quelques maladresses. En plus des coups de poing et des prises de catch, notre héros peut lancer une attaque tourbillon pour éliminer plusieurs ennemis. Malheureusement cela lui donne le tournis, le laissant vulnérable pendant quelques secondes. Il dispose également d'un nombre limité de D-Punch qui élimine tous les ennemis à l'écran.</synopsis>
-	<genre>Beat'em All</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Beat'em Up</genre>
-	</locale>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<date year="1992" month="" day=""/>
-		<rating type="NOTE" value="14">
-		</rating>
-		<input players="1">
 			<control type="wiimote" required="true"/>
 			<control type="nunchuk" required="false"/>
 			<control type="classiccontroller" required="false"/>
@@ -2119,77 +1645,6 @@ The game is a side-scrolling shoot 'em up with 6 levels, and a total of 8 state 
 		<rating type="NOTE" value="16">
 		</rating>
 		<input players="1">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Super Famicom Wars">
-		<id>65302A</id>
-	<locale lang="EN">
-	<title>Super Famicom Wars</title>
-	<synopsis>Super Famicom Wars BS Ban is a view-limited Downloadable game for the Satellaview that was broadcast in April, 1998.</synopsis>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Super Fire Pro Wrestling">
-		<id>65303A</id>
-	<locale lang="EN">
-	<title>Super Fire Pro Wrestling</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Super Mahjong Taikai">
-		<id>65304A</id>
-	<locale lang="EN">
-	<title>Super Mahjong Taikai</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Super Ninja-kun">
-		<id>65307A</id>
-	<locale lang="EN">
-	<title>Super Ninja-kun</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
-			<control type="wiimote" required="true"/>
-			<control type="nunchuk" required="false"/>
-			<control type="classiccontroller" required="false"/>
-			<control type="gamecube" required="false"/>
-		</input>
-	</game>
-	<game name="Super Puyo Puyo Tsuu">
-		<id>65308A</id>
-	<locale lang="EN">
-	<title>Super Puyo Puyo Tsuu</title>
-	</locale>
-		<rating type="NOTE" value="">
-		</rating>
-		<input players="">
 			<control type="wiimote" required="true"/>
 			<control type="nunchuk" required="false"/>
 			<control type="classiccontroller" required="false"/>

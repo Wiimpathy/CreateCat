@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812041646" games="256"/>
+        <WiiTDB version="201812041646" games="256"/>
   <game name="Adian No Tsue">
     <id>88114A</id>
     <locale lang="EN">
@@ -77,6 +77,8 @@
     <id>189024</id>
     <locale lang="EN">
       <title>Air Fortress</title>
+      <genre>Shooter</genre>
+      <synopsis>A prototype of the unreleased Famicom Disk System port of Air Fortress. The disk is two sides, with side A containing the title screen and side B containing the game itself. There is no actual way to start the game from side A; you have to specifically start the FDS with side B inserted.</synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -86,6 +88,8 @@
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1"/>
+    <publisher/>
   </game>
   <game name="Aki To Tsukasa No Fushigi No Kabe">
     <id>88116A</id>
@@ -273,10 +277,10 @@ Unlike previous versions of Little Computer People, the playable character is a 
     <locale lang="EN">
       <title>Arumana No Kiseki</title>
       <synopsis>A magic red jewel known as the Almana is stolen from an unnamed village. A thief runs off with the jewel and turns the entire village into stone. The player takes the role of Kaito a hero who resembles Indiana Jones and must travel through six cavernous levels in search of the lost jewel. Kaito's main source of transportation is unique. Besides just walking and jumping, like most platform games, he must also use a special grappling hook to reach platforms that are too high. To make things a little more difficult, the grappling hook can only be launched from a diagonal direction and not just straight above.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Una joya roja mágica, conocida como el Arumana, es robada de un pueblo sin nombre. Un ladrón se escapa con la joya y convierte a toda la aldea en piedra. Kaito debe viajar a través de seis niveles cavernosos en busca de la joya robada, Arumana.nnnnEl jugador comienza con treinta cuchillos arrojadizos como su arma de ataque. A medida que se aventuran a través de los niveles, pueden encontrar otras armas. Estos incluyen bombas, una pistola, bolas, una bola de cristal que destruye todo en la pantalla y minas. Debe destruir varias criaturas que habitan en cuevas así como soldados, que a veces arrojan armas.</synopsis>
+      <synopsis>Una joya roja mágica, conocida como el Arumana, es robada de un pueblo sin nombre. Un ladrón se escapa con la joya y convierte a toda la aldea en piedra. Kaito debe viajar a través de seis niveles cavernosos en busca de la joya robada, Arumana.El jugador comienza con treinta cuchillos arrojadizos como su arma de ataque. A medida que se aventuran a través de los niveles, pueden encontrar otras armas. Estos incluyen bombas, una pistola, bolas, una bola de cristal que destruye todo en la pantalla y minas. Debe destruir varias criaturas que habitan en cuevas así como soldados, que a veces arrojan armas.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -920,7 +924,7 @@ táticos deslumbrantes. De modo divertido, o jogo tem como host o Mestre Kame, d
       <genre>Simulation,Adult</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Tu tarea es fotografiar chicas bonitas en diversas situaciones. Se le ofrece una opción de apuntar y disparar, reflejo de lente única y una cámara profesional. Para obtener una fotografía real, debe evaluar la situación de iluminación y el sujeto y elegir la velocidad de obturación, la velocidad de la película, la apertura correctas y si se debe usar el flash o no.nnnnEs la segunda parte de Bishoujo Shashinkan I: Studio Cut.</synopsis>
+      <synopsis>Tu tarea es fotografiar chicas bonitas en diversas situaciones. Se le ofrece una opción de apuntar y disparar, reflejo de lente única y una cámara profesional. Para obtener una fotografía real, debe evaluar la situación de iluminación y el sujeto y elegir la velocidad de obturación, la velocidad de la película, la apertura correctas y si se debe usar el flash o no.Es la segunda parte de Bishoujo Shashinkan I: Studio Cut.</synopsis>
       <genre>Simulación,Adulto</genre>
     </locale>
     <locale lang="FR">
@@ -958,7 +962,7 @@ You are only given a few chances per shoot to get the right exposure, or you wil
       <genre>Adult,Simulation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Tu tarea es fotografiar chicas bonitas en diversas situaciones. Se le ofrece una opción de apuntar y disparar, reflejo de lente única y una cámara profesional. Para obtener una fotografía real, debe evaluar la situación de iluminación y el sujeto y elegir la velocidad de obturación, la velocidad de la película, la apertura correctas y si se debe usar el flash o no.nn</synopsis>
+      <synopsis>Tu tarea es fotografiar chicas bonitas en diversas situaciones. Se le ofrece una opción de apuntar y disparar, reflejo de lente única y una cámara profesional. Para obtener una fotografía real, debe evaluar la situación de iluminación y el sujeto y elegir la velocidad de obturación, la velocidad de la película, la apertura correctas y si se debe usar el flash o no. </synopsis>
       <genre>Adulto,Simulación</genre>
     </locale>
     <locale lang="FR">
@@ -995,7 +999,7 @@ Le but est de photographier des jolies filles dans différents contextes. Vous a
       <genre>Role playing games</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Bodycon Quest I es un RPG de acción sin licencia, de 2 discos, parodia de Dragon Quest. La trama es básica, ya que los reyes te envían a buscar a su hija que tiene una marca de nacimiento en forma de corazón en sus nalgas.nnnnEl juego presenta un sistema de batalla Ys / Hydlide, múltiples ciudades con NPC, mazmorras, jefes y la magia habitual, elementos y equipamiento.nnTambién tiene varias imágenes de pantalla completa de mujeres en diferentes etapas de vestimenta. Aunque son dos discos, es un juego relativamente corto.</synopsis>
+      <synopsis>Bodycon Quest I es un RPG de acción sin licencia, de 2 discos, parodia de Dragon Quest. La trama es básica, ya que los reyes te envían a buscar a su hija que tiene una marca de nacimiento en forma de corazón en sus nalgas.El juego presenta un sistema de batalla Ys / Hydlide, múltiples ciudades con NPC, mazmorras, jefes y la magia habitual, elementos y equipamiento. También tiene varias imágenes de pantalla completa de mujeres en diferentes etapas de vestimenta. Aunque son dos discos, es un juego relativamente corto.</synopsis>
       <genre>Juegos de rol</genre>
     </locale>
     <locale lang="FR">
@@ -1025,10 +1029,10 @@ Le but est de photographier des jolies filles dans différents contextes. Vous a
     <locale lang="EN">
       <title>Bomberman</title>
       <synopsis>Our hero, Bomberman, worked in a bomb factory located in an underground labyrinth. He grew very bored making bombs day in and day out. One day, he learned of a rumor that stated if a robot could ever escape the labyrinth and reach the surface of the world, his wish would be granted and he would become human. Bomberman is determined to find out if this rumor is true.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡El juego de acción más emocionante y mundialmente famoso Bomberman!nnnn¡Explora 8 emocionantes mundos y recupera la estatua dorada de Bomberman!</synopsis>
+      <synopsis>¡El juego de acción más emocionante y mundialmente famoso Bomberman!¡Explora 8 emocionantes mundos y recupera la estatua dorada de Bomberman!</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1159,11 +1163,11 @@ Le but est de photographier des jolies filles dans différents contextes. Vous a
     <id>98607A</id>
     <locale lang="EN">
       <title>Burger Time</title>
-      <synopsis>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. nnnnTo properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below. Falling food will squish any enemy following you and will also"bump" any other ingredient bellow it farther down. Also, as an emergency defense against the enemy food, you can collect pepper shakers which will allow you to puff out a small pepper cloud which will momentarily stun enemies, allowing you to walk past them.</synopsis>
+      <synopsis>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. To properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below. Falling food will squish any enemy following you and will also"bump" any other ingredient bellow it farther down. Also, as an emergency defense against the enemy food, you can collect pepper shakers which will allow you to puff out a small pepper cloud which will momentarily stun enemies, allowing you to walk past them.</synopsis>
       <genre>Action,Action / Adventure,Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Usted juega como Chef Pepper y su objetivo es hacer hamburguesas gigantes mientras que los huevos malvados, las salchichas y los pepinillos lo persiguen por el área de juego.nnnnPara hacer una hamburguesa de manera adecuada, debe ensamblar todos los ingredientes, dejándolos caer desde la parte superior hacia el área de la hamburguesa a continuación. Para hacer esto, debes dejar que Chef Pepper se ocupe de cada ingrediente de la hamburguesa. Tan pronto como un ingrediente (una pieza de lechuga, por ejemplo) haya sido pisado, caerá al siguiente nivel. La comida que cae aplastará a cualquier enemigo que lo siga y también "chocará" con cualquier otro ingrediente que esté más abajo. Además, como una defensa de emergencia contra la comida enemiga, puedes recolectar pimenteros que te permitirán inflar una pequeña nube de pimienta que aturdirá momentáneamente a los enemigos, permitiéndote caminar más allá de ellos.</synopsis>
+      <synopsis>Usted juega como Chef Pepper y su objetivo es hacer hamburguesas gigantes mientras que los huevos malvados, las salchichas y los pepinillos lo persiguen por el área de juego.Para hacer una hamburguesa de manera adecuada, debe ensamblar todos los ingredientes, dejándolos caer desde la parte superior hacia el área de la hamburguesa a continuación. Para hacer esto, debes dejar que Chef Pepper se ocupe de cada ingrediente de la hamburguesa. Tan pronto como un ingrediente (una pieza de lechuga, por ejemplo) haya sido pisado, caerá al siguiente nivel. La comida que cae aplastará a cualquier enemigo que lo siga y también "chocará" con cualquier otro ingrediente que esté más abajo. Además, como una defensa de emergencia contra la comida enemiga, puedes recolectar pimenteros que te permitirán inflar una pequeña nube de pimienta que aturdirá momentáneamente a los enemigos, permitiéndote caminar más allá de ellos.</synopsis>
       <genre>Acción,Acción / Aventura,Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -1238,10 +1242,10 @@ Dans ce jeu pour un ou deux joueurs, vous affrontez de jolies filles dans diffé
 The men succeeded in bringing their master back. A bolt of lightning enveloped the monastery where they held the rite, signaling the resurrection of Count Dracula. When the Count returned, his Castle, which had fallen one hundred years prior, reappeared in Transylvania, and his legions of loyal minions reformed.
 
 Simon Belmont, the descendant of Christopher Belmont, knew that as a member of the Belmont Clan and the current wielder of the Vampire Killer whip, it was his duty to bring peace and stability back to Transylvania by destroying Dracula.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Transilvania disfrutó de un siglo de paz gracias al legendario héroe, Christopher Belmont, un cazador de vampiros que venció al Conde Drácula cien años antes con un látigo sagrado llamado Vampire Killer. Mientras la celebración de Pascua continuaba con un gran carnaval, los hombres malvados se reunieron en un monasterio en el borde de la aldea y condujeron una misa negra para resucitar al Conde Drácula.nnnnLos hombres tuvieron éxito en traer de vuelta a su maestro. Un rayo de luz envolvió el monasterio donde celebraron el rito, señalando la resurrección del Conde Drácula. Cuando el Conde regresó, su Castillo, que había caído cien años antes, reapareció en Transilvania, y sus legiones de leales mineros se reformaron.nnnnSimon Belmont, el descendiente de Christopher Belmont, sabía que como miembro del Clan Belmont y actual poseedor del látigo Asesino de Vampiros, era su deber devolver la paz y la estabilidad a Transilvania al destruir a Drácula.</synopsis>
+      <synopsis>Transilvania disfrutó de un siglo de paz gracias al legendario héroe, Christopher Belmont, un cazador de vampiros que venció al Conde Drácula cien años antes con un látigo sagrado llamado Vampire Killer. Mientras la celebración de Pascua continuaba con un gran carnaval, los hombres malvados se reunieron en un monasterio en el borde de la aldea y condujeron una misa negra para resucitar al Conde Drácula.Los hombres tuvieron éxito en traer de vuelta a su maestro. Un rayo de luz envolvió el monasterio donde celebraron el rito, señalando la resurrección del Conde Drácula. Cuando el Conde regresó, su Castillo, que había caído cien años antes, reapareció en Transilvania, y sus legiones de leales mineros se reformaron.Simon Belmont, el descendiente de Christopher Belmont, sabía que como miembro del Clan Belmont y actual poseedor del látigo Asesino de Vampiros, era su deber devolver la paz y la estabilidad a Transilvania al destruir a Drácula.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1276,7 +1280,7 @@ The goal of the game is to help a young explorer pass through the underground wo
       <genre>Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El objetivo del juego es ayudar a un joven explorador a atravesar el mundo subterráneo de Orudora, eliminando enemigos en el camino con sus bombas. Las bombas vuelan en un arco específico, por lo que el jugador necesita estar a la distancia correcta del enemigo para poder golpearlo. El personaje jugador también puede agacharse, saltar, subir escaleras y usar otras habilidades comunes para las plataformas.nnnnLos otros dos juegos de la Serie de juegos de Chinou son Adian no Tsue y Super Boy Allan, el último de los cuales fue lanzado el mismo día que Chisoko Tairiku Orudora.</synopsis>
+      <synopsis>El objetivo del juego es ayudar a un joven explorador a atravesar el mundo subterráneo de Orudora, eliminando enemigos en el camino con sus bombas. Las bombas vuelan en un arco específico, por lo que el jugador necesita estar a la distancia correcta del enemigo para poder golpearlo. El personaje jugador también puede agacharse, saltar, subir escaleras y usar otras habilidades comunes para las plataformas.Los otros dos juegos de la Serie de juegos de Chinou son Adian no Tsue y Super Boy Allan, el último de los cuales fue lanzado el mismo día que Chisoko Tairiku Orudora.</synopsis>
       <genre>Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -1743,7 +1747,7 @@ The player proceeds through the game by choosing from a selection of text menu c
       <genre>Role playing games</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El jugador explora una mazmorra de barebones en una perspectiva en primera persona, ocasionalmente teniendo que defenderse de los monstruos encontrados al azar en el combate por turnos. El jugador puede encontrar tesoros y subir de nivel, y ocasionalmente debe regresar para comprar y vender artículos a los vendedores y dormir en las posadas que se encuentran en el primer piso sobre la mazmorra propiamente dicha. El objetivo es llegar al final de la mazmorra donde el jefe final espera.nn</synopsis>
+      <synopsis>El jugador explora una mazmorra de barebones en una perspectiva en primera persona, ocasionalmente teniendo que defenderse de los monstruos encontrados al azar en el combate por turnos. El jugador puede encontrar tesoros y subir de nivel, y ocasionalmente debe regresar para comprar y vender artículos a los vendedores y dormir en las posadas que se encuentran en el primer piso sobre la mazmorra propiamente dicha. El objetivo es llegar al final de la mazmorra donde el jefe final espera. </synopsis>
       <genre>Juegos de rol</genre>
     </locale>
     <locale lang="FR">
@@ -1805,7 +1809,7 @@ Like it's prequel the game takes place in a 3D dungeon crawling environment only
     <locale lang="EN">
       <title>Dig Dug</title>
       <synopsis>The objective of Dig Dug is to eliminate underground-dwelling monsters by inflating them with an air pump until they explode, or by dropping rocks on them. There are two kinds of enemies in the game: "Pookas" (a race of cute round red monsters, said to be modeled after tomatoes, that wear yellow goggles) and "Fygars" (a race of green dragons that can breathe fire while their wings flash).</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Crea tu propio laberinto mientras avanzas sin miedo por la tierra. Tu objetivo: cosechar vegetales sabrosos que valen puntos saludables. Tus enemigos: ¡fantasmas que quieren enterrarte vivo, feroces dragones que escupen fuego y malos matones con forma de globo! ¿Puedes cavar? ¡Aquí está la emocionante versión para el hogar del célebre original de monedas!</synopsis>
@@ -2270,6 +2274,8 @@ Al igual que los otros juegos de Eggerland, el objetivo de cada etapa es simple;
     <id>88162A</id>
     <locale lang="EN">
       <title>Emi-chan no Moero Yakyuuken!</title>
+      <genre>Strategy</genre>
+      <synopsis>Strip Rock-paper-scissors eroge game developed by New System House Oh!.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Al igual que otros títulos de Super Pig, el juego recompensa a los jugadores exitosos con imágenes de mujeres desnudas y desnudas. En este caso, el objetivo es jugar al personaje del título Emi en un juego de janken, es decir, una serie de concursos de piedra, papel y tijera en los que el jugador perdedor saca una prenda después de cada turno.</synopsis>
@@ -2510,7 +2516,7 @@ Pentarou el pingüino hace un cameo durante los espectáculos de medio tiempo.</
     <locale lang="EN">
       <title>Explosive Fighter Patton</title>
       <synopsis>Bakutoushi Patton-Kun is an overhead tank combat game similar in style to Atari's Combat game. It was the first FDS title to allow for four players to play simultaneously. In the game, players attempt to destroy each others tanks. If a tank is destroyed, the driver of the tank will exit the vehicle, and must try to stay alive long enough for a replacement tank to parachute down from the sky. Game play continues until only one tank is the sole survivor. Then players advance to a new stage with different terrain. There are 56 stages in total. Tank stats can also be changed in an Editor mode. Despite referencing the name of American General George S. Patton in the title, there is no mention of him anywhere else throughout the game. Although the game was only release in Japan, the loading screen instructions contain English profanity.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Un juego de combate de arena basado en un tanque que no parece involucrar al general Patton. Fue desarrollado para el sistema de disco Famicom por Soft Pro International.
@@ -2546,7 +2552,7 @@ El juego, en un punto durante el proceso de carga (ya que los juegos del sistema
     <id>88168A</id>
     <locale lang="EN">
       <title>Fairy Pinball - Yousei Tachi no Pinball</title>
-      <synopsis>An adult pinball game in which you can play two tables and try to get a high enough score to watch a girl undress. The two tables are a space based one called Asteroid, and a naval war based one called Midway.nn</synopsis>
+      <synopsis>An adult pinball game in which you can play two tables and try to get a high enough score to watch a girl undress. The two tables are a space based one called Asteroid, and a naval war based one called Midway. </synopsis>
       <genre>Pinball,Adult</genre>
     </locale>
     <locale lang="ES">
@@ -2711,7 +2717,7 @@ F1 Race was released as one of Nintendo's Disk Fax line of games. It came on a s
       <genre>Carreras, Conducción</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Famicom Grand Prix: F-1 Race est un jeu de course exclusivement publié au Japon sur Famicom Disk System en 1987. Il s'agit d'un jeu mettant en vedette Mario. Le Japon a d'ailleurs organisé un tournoi : Famicom Grand Prix: F-12 Contest dans lequel les joueurs ayant établi les meilleurs scores obtiennent une Super Mario Bros. Game &amp; Watch.nnnnDans le jeu, les joueurs peuvent choisir entre contre-la-montre ou grand prix, ensuite, ils sélectionnent une des douze voitures mais, une particularité du jeu : les voitures ont un certain prix. Allant de 10 à 300 pièces, pour se permettre de prendre une bonne voiture, il faut des sous et il faut remporter des grands prix afin d'empocher de l'argent. Chaque voiture a ses caractéristiques comme la vitesse de pointe ou encore la résistance. Plus le joueur percute de murs et de bolides, plus sa voiture sera endommagée mais il faut également faire attention à ne pas conduire en hors-piste. Heureusement, le stand est présent pour permettre de rétablir la santé du véhicule mais peut vous retarder sur vos adversaires.nnQuatre circuits sont prêts à entendre ces bêtes ronronner pendant des heures.</synopsis>
+      <synopsis>Famicom Grand Prix: F-1 Race est un jeu de course exclusivement publié au Japon sur Famicom Disk System en 1987. Il s'agit d'un jeu mettant en vedette Mario. Le Japon a d'ailleurs organisé un tournoi : Famicom Grand Prix: F-12 Contest dans lequel les joueurs ayant établi les meilleurs scores obtiennent une Super Mario Bros. Game &amp; Watch.Dans le jeu, les joueurs peuvent choisir entre contre-la-montre ou grand prix, ensuite, ils sélectionnent une des douze voitures mais, une particularité du jeu : les voitures ont un certain prix. Allant de 10 à 300 pièces, pour se permettre de prendre une bonne voiture, il faut des sous et il faut remporter des grands prix afin d'empocher de l'argent. Chaque voiture a ses caractéristiques comme la vitesse de pointe ou encore la résistance. Plus le joueur percute de murs et de bolides, plus sa voiture sera endommagée mais il faut également faire attention à ne pas conduire en hors-piste. Heureusement, le stand est présent pour permettre de rétablir la santé du véhicule mais peut vous retarder sur vos adversaires. Quatre circuits sont prêts à entendre ces bêtes ronronner pendant des heures.</synopsis>
       <genre>Course, Conduite</genre>
     </locale>
     <locale lang="DE">
@@ -2859,7 +2865,7 @@ As with Shin Onigashima and many adventure games for the system the player direc
       <genre>Aventura</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Famicom Mukashibanashi: Yuuyuuki  est le deuxième des deux jeux d'aventure de la série Famicom Mukashibanashi . Il partage de nombreuses similitudes avec son prédécesseur Shin Onigashima: les deux jeux nécessitaient deux disques qui sont sortis séparément, les deux disposent d'une fonctionnalité qui permet au joueur de switcher entre deux personnages jouables et les deux sont basés sur la littérature ancienne de l'Extrême-Orient. Dans le cas de Yuuyuuki, la littérature en question est l'ancien roman chinois Journey to the West.nnLe joueur contrôle Goku (Sun Wukong) et Chao (un personnage original) qui suivent des routes séparées pour finalement se rencontrer. Fidèle au roman, Goku accompagne également le moine Sanzo (Tripitaka) et ses autres disciples Hakkai (Pigsy) et Gojo (Sandy)</synopsis>
+      <synopsis>Famicom Mukashibanashi: Yuuyuuki  est le deuxième des deux jeux d'aventure de la série Famicom Mukashibanashi . Il partage de nombreuses similitudes avec son prédécesseur Shin Onigashima: les deux jeux nécessitaient deux disques qui sont sortis séparément, les deux disposent d'une fonctionnalité qui permet au joueur de switcher entre deux personnages jouables et les deux sont basés sur la littérature ancienne de l'Extrême-Orient. Dans le cas de Yuuyuuki, la littérature en question est l'ancien roman chinois Journey to the West. Le joueur contrôle Goku (Sun Wukong) et Chao (un personnage original) qui suivent des routes séparées pour finalement se rencontrer. Fidèle au roman, Goku accompagne également le moine Sanzo (Tripitaka) et ses autres disciples Hakkai (Pigsy) et Gojo (Sandy)</synopsis>
       <genre>Aventure</genre>
     </locale>
     <locale lang="DE">
@@ -2880,7 +2886,10 @@ As with Shin Onigashima and many adventure games for the system the player direc
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Famicom Tantei Club - Kieta Koukeisha - Kouhen">
+
+
+
+        <game name="Famicom Tantei Club - Kieta Koukeisha - Kouhen">
     <id>98620A</id>
     <locale lang="EN">
       <title>Famicom Tantei Club - Kieta Koukeisha - Kouhen</title>
@@ -2980,7 +2989,7 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
     <date year="1989" month="06" day="30"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -3280,7 +3289,7 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
     <locale lang="EN">
       <title>Fire Bam</title>
       <synopsis>Bam is a fifteen years old courageous boy. Like every boy his age, Bam must pass the village's test and bring back an insect's shell from the forest. But as he returns, and to his surprise, most of the village has been destroyed and his parents turned into demons. Armed with his sword, Bam sets forth in search of what happened to the village and his parents.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Bam es un niño valiente de quince años. Al igual que todos los niños de su edad, Bam debe pasar la prueba del pueblo y traer de vuelta el caparazón de un insecto del bosque. Pero cuando regresa, y para su sorpresa, la mayor parte del pueblo ha sido destruida y sus padres convertidos en demonios. Armado con su espada, Bam se lanza en busca de lo que le sucedió a la aldea y a sus padres.</synopsis>
@@ -3313,7 +3322,7 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
     <locale lang="EN">
       <title>Fire Rock</title>
       <synopsis>Fire Rock is an action game developed for the Famicom Disk System by System Sacom, and published in Japan by Use in 1988. The design of the game is credited to Mark Flint. In the game, the player controls what appears to be a cave man, whose goal is to navigate a series of item filled caverns in an effort to locate the boss of the level, defeat it, and then locate the door which leads to the next level. The game is commonly sited as having very poor controls, often requiring the player to grab hold of a wall, and very slowly climb it by holding up and tapping jump repeatedly. Other issues include a very low jump that places more platforms and items out of reach, and a difficult time bringing the character back under control if he starts to slip. This game was not released outside of Japan.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Sobrevive a Fire Rock! Los tesoros dentro son difíciles de obtener, pero eres el valiente guerrero enviado para derrotar a los monstruos.</synopsis>
@@ -3345,6 +3354,8 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
     <id>99369A</id>
     <locale lang="EN">
       <title>Fruits Mahjong 1 - Disk 2 - Dai H Taikai</title>
+      <genre>Adult,Mahjong</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Juego pornográfico de Mahjong para adultos.</synopsis>
@@ -3379,6 +3390,8 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
     <id>99368A</id>
     <locale lang="EN">
       <title>Fruits Mahjong 1 Disk #1 - Dai H Taikai</title>
+      <genre>Adult,Mahjong</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Juego pornográfico de Mahjong para adultos.</synopsis>
@@ -3413,6 +3426,8 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
     <id>99370A</id>
     <locale lang="EN">
       <title>Fruits Mahjong 2 - Disk 1 - Tokimeki Gals</title>
+      <genre>Adult,Mahjong</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Juego pornográfico de Mahjong para adultos.</synopsis>
@@ -3441,11 +3456,14 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Fruits Mahjong 2 - Disk 2 - Yonin To Dai H Taikai">
     <id>99371A</id>
     <locale lang="EN">
       <title>Fruits Mahjong 2 Disk #3 - Yonin to Dai H Taikai</title>
+      <genre>Adult,Mahjong</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Juego pornográfico de Mahjong para adultos.</synopsis>
@@ -3474,11 +3492,14 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Fruits Mahjong 3 - Disk 1 - Yonin No Tenshi Tachi">
     <id>99372A</id>
     <locale lang="EN">
       <title>Fruits Mahjong 3 Disk #4 - Yonin no Tenshi Tachi</title>
+      <genre>Adult,Mahjong</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Juego pornográfico de Mahjong para adultos.</synopsis>
@@ -3507,11 +3528,14 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Fruits Mahjong 3 - Disk 2 - Tottemo H Na Gogo">
     <id>99373A</id>
     <locale lang="EN">
       <title>Fruits Mahjong 3 Disk #5 - Tottemo H na Gogo</title>
+      <genre>Adult,Mahjong</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Juego pornográfico de Mahjong para adultos.</synopsis>
@@ -3540,11 +3564,14 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Fruits Mahjong 4 - Disk 1 - Bishoujo Connection">
     <id>99374A</id>
     <locale lang="EN">
       <title>Fruits Mahjong 4 Disk #6 - Bishoujo Connection</title>
+      <genre>Adult,Mahjong</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Juego pornográfico de Mahjong para adultos.</synopsis>
@@ -3573,11 +3600,14 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Fruits Mahjong 4 - Disk 2 - Daitan H Na Hirusagari">
     <id>99375A</id>
     <locale lang="EN">
       <title>Fruits Mahjong 4 Disk #7 - Daitan H na Hirusagari</title>
+      <genre>Adult,Mahjong</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Juego pornográfico de Mahjong para adultos.</synopsis>
@@ -3606,6 +3636,7 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Fuuun Shourin Ken">
     <id>98627A</id>
@@ -3807,7 +3838,7 @@ Can you do it? A man's romance and success game.</synopsis>
       <genre>Adult</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Desafía a las 3 nietas de un multimillonario.nnElegiste una nueva vida dirigida a ti, con riqueza y hermosa secretaria en la mano.nn¿Puedes hacerlo? El juego de romance y éxito de un hombre.</synopsis>
+      <synopsis>Desafía a las 3 nietas de un multimillonario. Elegiste una nueva vida dirigida a ti, con riqueza y hermosa secretaria en la mano. ¿Puedes hacerlo? El juego de romance y éxito de un hombre.</synopsis>
       <genre>Adulto</genre>
     </locale>
     <locale lang="FR">
@@ -4106,7 +4137,7 @@ This game also contained a now defunct feature where players could record their 
     <locale lang="EN">
       <title>Green Beret</title>
       <synopsis>Based on the arcade game of the same name, the player's objective in the FDS version was changed from rescuing prisoners to destroying a secret weapon being developed in the enemy's headquarters. Additionally, a 2-players co-operative mode was introduced as well, allowing two players to play simultaneously (with Player 1 in blue and Player 2 in red). The play mechanics are essentially identical to the arcade version, however the Flamethrower is removed (only the Rocket Launcher and Grenades remained) and two new power-up items are introduced: a Star mark which grants invincibility and a pistol with unlimited ammo, both which are only usable for a limited period. The FDS version also features two additional stages that were not in the arcade game: an airport set between the Missile Base and the Harbor, where the player faces a group of rocket soldiers at the end; and a new final stage set inside the enemy's base in which the player must disarm a nuclear missile at the end that is about to be launched; by using rocket launchers dropped by enemy soldiers. The flamethrower corps at the end of the Warehouse stage was replaced by a paratrooper unit.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Beat'em Up,Platformer</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Allá afuera, en un territorio hostil, tus amigos yacen cautivos en un campamento enemigo. Solo tú puedes sacarlos. Your GREEN BERET te señala como un operador de gran habilidad, fuerza y ??coraje. ¿Será eso suficiente?</synopsis>
@@ -4338,7 +4369,7 @@ The original Famicom Disk System versions feature save slots, unlike the North A
       <genre>Plataforma</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>À une époque où les hommes et les dieux vivaient en harmonie, deux déesses régnaient sur le Royaume des Anges : Palutena, celle de la Lumière et Médusa, celle des Ténèbres. Palutena fournit la lumière et aide les mortels pour leurs récoltes ; Médusa, elle, les méprise, utilise l'obscurité pour détruire leurs récoltes et les transforme en pierre. Furieuse, Palutena a transformé Médusa en un monstre hideux et l'a bannie dans le monde des Ténèbres.nnMais Médusa ne veut pas se laisser faire. Elle réunit alors une armée de monstres et de démons afin de conquérir le territoire de Palutena, le Palais des Cieux. La guerre éclate et les troupes de Médusa l'emportent sur celles de Palutena ; cette dernière est emprisonnée. Médusa saisit les trois Trésors Sacrés : le bouclier Miroir, la flèche de Lumière et l'aile de Pégase, et les confie à ses trois meilleurs vassaux.nnDéfaite et emprisonnée, Palutena n'a plus qu'un seul espoir : obtenir l'aide de Pit, un jeune ange retenu aux Enfers. Utilisant ses dernières ressources, Palutena envoie à Pit un arc magique. C'est ainsi que ce dernier entame sa quête visant à s'échapper des Enfers, récupérer les Trésors Sacrés qui l'aideront à battre Médusa, sauver Palutena et restaurer la paix au Royaume des Anges.</synopsis>
+      <synopsis>À une époque où les hommes et les dieux vivaient en harmonie, deux déesses régnaient sur le Royaume des Anges : Palutena, celle de la Lumière et Médusa, celle des Ténèbres. Palutena fournit la lumière et aide les mortels pour leurs récoltes ; Médusa, elle, les méprise, utilise l'obscurité pour détruire leurs récoltes et les transforme en pierre. Furieuse, Palutena a transformé Médusa en un monstre hideux et l'a bannie dans le monde des Ténèbres. Mais Médusa ne veut pas se laisser faire. Elle réunit alors une armée de monstres et de démons afin de conquérir le territoire de Palutena, le Palais des Cieux. La guerre éclate et les troupes de Médusa l'emportent sur celles de Palutena ; cette dernière est emprisonnée. Médusa saisit les trois Trésors Sacrés : le bouclier Miroir, la flèche de Lumière et l'aile de Pégase, et les confie à ses trois meilleurs vassaux. Défaite et emprisonnée, Palutena n'a plus qu'un seul espoir : obtenir l'aide de Pit, un jeune ange retenu aux Enfers. Utilisant ses dernières ressources, Palutena envoie à Pit un arc magique. C'est ainsi que ce dernier entame sa quête visant à s'échapper des Enfers, récupérer les Trésors Sacrés qui l'aideront à battre Médusa, sauver Palutena et restaurer la paix au Royaume des Anges.</synopsis>
       <genre>Plateforme</genre>
     </locale>
     <locale lang="DE">
@@ -4400,7 +4431,7 @@ The original Famicom Disk System versions feature save slots, unlike the North A
       <genre>Various,Simulation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Super Mario Sweater fue diseñado para ser un simulador de costura. Los jugadores pudieron diseñar suéteres y agregar imágenes de personajes famosos como Mario, Luigi, Peach y Bowser en el proceso. Fue diseñado por Royal Industries Co. Ltd., una empresa japonesa de electrodomésticos y máquinas de coser.nnnnRoyal Industries Co. Ltd. se dio cuenta de que podían sacar provecho de un programa de diseño de suéter, que condujo al desarrollo de este juego. La compañía finalmente hizo una versión del juego en la vida real.</synopsis>
+      <synopsis>Super Mario Sweater fue diseñado para ser un simulador de costura. Los jugadores pudieron diseñar suéteres y agregar imágenes de personajes famosos como Mario, Luigi, Peach y Bowser en el proceso. Fue diseñado por Royal Industries Co. Ltd., una empresa japonesa de electrodomésticos y máquinas de coser.Royal Industries Co. Ltd. se dio cuenta de que podían sacar provecho de un programa de diseño de suéter, que condujo al desarrollo de este juego. La compañía finalmente hizo una versión del juego en la vida real.</synopsis>
       <genre>Varios,Simulación</genre>
     </locale>
     <locale lang="FR">
@@ -4440,7 +4471,7 @@ As with Super Mario no Sweater, Teami no Kiso was commissioned by major Japanese
       <genre>Various,Simulation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Es una herramienta de instrucción para ayudar a los posibles tejedores a crear sus propias prendas. El usuario puede ingresar la cantidad, longitud y tipo de lana que tiene y el tamaño y tipo de la prenda de vestir que desea crear, y el programa elaborará una guía para ayudarlos a lograr este objetivo. El usuario puede guardar su progreso en cualquier momento y continuar desde donde lo dejó.nn</synopsis>
+      <synopsis>Es una herramienta de instrucción para ayudar a los posibles tejedores a crear sus propias prendas. El usuario puede ingresar la cantidad, longitud y tipo de lana que tiene y el tamaño y tipo de la prenda de vestir que desea crear, y el programa elaborará una guía para ayudarlos a lograr este objetivo. El usuario puede guardar su progreso en cualquier momento y continuar desde donde lo dejó. </synopsis>
       <genre>Varios,Simulación</genre>
     </locale>
     <locale lang="FR">
@@ -4730,6 +4761,8 @@ Ishido comes with 6 differently themed stone sets, 5 different game boards, and 
     <id>88195A</id>
     <locale lang="EN">
       <title>Jingorou</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Varios</genre>
@@ -4753,6 +4786,7 @@ Ishido comes with 6 differently themed stone sets, 5 different game boards, and 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <publisher/>
   </game>
   <game name="Kaettekita Mario Bros.">
     <id>99377A</id>
@@ -5208,7 +5242,7 @@ The game also includes a simultaneous 2 player versus mode similar to the single
       <genre>Puzzle-Game</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡Un rompecabezas del creador de Tetris, Alexey Pajitnov! Con una serie de fichas con un solo Caballero de ajedrez, movido por el jugador. Elimina todas las fichas dentro del límite de tiempo con el Knight, solo se puede mover en forma de L.nnnnCuando elimine los azulejos, dejará agujeros que deben evitarse. En etapas posteriores, tendrás que aterrizar en las fichas varias veces antes de que desaparezcan.</synopsis>
+      <synopsis>¡Un rompecabezas del creador de Tetris, Alexey Pajitnov! Con una serie de fichas con un solo Caballero de ajedrez, movido por el jugador. Elimina todas las fichas dentro del límite de tiempo con el Knight, solo se puede mover en forma de L.Cuando elimine los azulejos, dejará agujeros que deben evitarse. En etapas posteriores, tendrás que aterrizar en las fichas varias veces antes de que desaparezcan.</synopsis>
       <genre>Rompecabezas</genre>
     </locale>
     <locale lang="FR">
@@ -5460,6 +5494,8 @@ The Adventure of Link is a direct sequel to the original The Legend of Zelda, an
     <id>88209A</id>
     <locale lang="EN">
       <title>Lipstick #.1 - Lolita Hen</title>
+      <genre>Puzzle</genre>
+      <synopsis>Sliding puzzle game with an adult theme.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Un juego de rompecabezas pornográfico.</synopsis>
@@ -5494,6 +5530,8 @@ The Adventure of Link is a direct sequel to the original The Legend of Zelda, an
     <id>88210A</id>
     <locale lang="EN">
       <title>Lipstick #.2 - Joshi Gakusei Hen</title>
+      <genre>Puzzle</genre>
+      <synopsis>Sliding puzzle game with an adult theme.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Un juego de rompecabezas pornográfico.</synopsis>
@@ -5528,6 +5566,8 @@ The Adventure of Link is a direct sequel to the original The Legend of Zelda, an
     <id>88211A</id>
     <locale lang="EN">
       <title>Lipstick #.3 - OL Hen</title>
+      <genre>Puzzle</genre>
+      <synopsis>Sliding puzzle game with an adult theme.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Un juego de rompecabezas pornográfico.</synopsis>
@@ -5562,6 +5602,8 @@ The Adventure of Link is a direct sequel to the original The Legend of Zelda, an
     <id>88212A</id>
     <locale lang="EN">
       <title>Lipstick #.4 - Hakui no Tenshi Hen</title>
+      <genre>Puzzle</genre>
+      <synopsis>Sliding puzzle game with an adult theme.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Un juego de rompecabezas pornográfico.</synopsis>
@@ -5596,6 +5638,8 @@ The Adventure of Link is a direct sequel to the original The Legend of Zelda, an
     <id>88213A</id>
     <locale lang="EN">
       <title>Lipstick #.5 - Stewardess Hen</title>
+      <genre>Puzzle</genre>
+      <synopsis>Sliding puzzle game with an adult theme.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Un juego de rompecabezas pornográfico.</synopsis>
@@ -5704,7 +5748,7 @@ El corazón de la princesa se posó sobre el príncipe del País de los Lagos, y
     <id>98656A</id>
     <locale lang="EN">
       <title>Magma Project - Hacker</title>
-      <synopsis>Magma Project Hacker is a sci-fi themed RPG and an adaptation of the 1985 PC/Amiga/Atari ST strategy game Hacker. As with the Famicom Disk System adaptation of Monty on the Run, a considerable number of liberties were taken with the game's themes practically transforming it into a completely different game. Ironically, the story more closely resembles another western PC game, Captive, with its plot.nnThe player character witnesses a murder and is told to seek information on a shadowy organization known as the Magma Project by the dying victim. In order to effectively hunt for clues, the player character uses a device to activate a robot on the other side of the planet and employs the robot's various combat and exploration functions to track down the Magma Project.</synopsis>
+      <synopsis>Magma Project Hacker is a sci-fi themed RPG and an adaptation of the 1985 PC/Amiga/Atari ST strategy game Hacker. As with the Famicom Disk System adaptation of Monty on the Run, a considerable number of liberties were taken with the game's themes practically transforming it into a completely different game. Ironically, the story more closely resembles another western PC game, Captive, with its plot. The player character witnesses a murder and is told to seek information on a shadowy organization known as the Magma Project by the dying victim. In order to effectively hunt for clues, the player character uses a device to activate a robot on the other side of the planet and employs the robot's various combat and exploration functions to track down the Magma Project.</synopsis>
       <genre>Role playing games</genre>
     </locale>
     <locale lang="ES">
@@ -5811,11 +5855,11 @@ Hay 3 niveles: Principiante, Intermedio y Experto, que se seleccionan según la 
     <id>98658A</id>
     <locale lang="EN">
       <title>Mahjong Kazoku</title>
-      <synopsis>Mahjong Kazoku ("Mahjong Family") is a standard Mahjong simulation game for Nintendo's Famicom Disk System. It is a one-on-one version of the game, rather than the standard four-player board game arrangement, and it incorporates many of the various and byzantine scoring rules of the game.nnIrem developed and published the game but left a mysterious licensing credit to Ox Inc. on the title screen. It's possible the game is a port of an obscure Japanese Mahjong computer game, or at least borrows some of its coding for the AI opponent or scoring systems.</synopsis>
+      <synopsis>Mahjong Kazoku ("Mahjong Family") is a standard Mahjong simulation game for Nintendo's Famicom Disk System. It is a one-on-one version of the game, rather than the standard four-player board game arrangement, and it incorporates many of the various and byzantine scoring rules of the game. Irem developed and published the game but left a mysterious licensing credit to Ox Inc. on the title screen. It's possible the game is a port of an obscure Japanese Mahjong computer game, or at least borrows some of its coding for the AI opponent or scoring systems.</synopsis>
       <genre>Mahjong,Asiatic board game</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Mahjong Kazoku ("Mahjong Family") es un juego de simulación Mahjong estándar para el sistema de disco Famicom de Nintendo. Es una versión individual del juego, en lugar del arreglo de juego de mesa estándar para cuatro jugadores, e incorpora muchas de las diversas reglas de puntuación bizantinas del juego.nnnnIrem desarrolló y publicó el juego, pero dejó un misterioso crédito de licencia para Ox Inc. en la pantalla de título. Es posible que el juego sea un puerto de un oscuro juego de computadora Mahjong japonés, o al menos tome prestada parte de su codificación para el oponente de IA o los sistemas de puntuación.</synopsis>
+      <synopsis>Mahjong Kazoku ("Mahjong Family") es un juego de simulación Mahjong estándar para el sistema de disco Famicom de Nintendo. Es una versión individual del juego, en lugar del arreglo de juego de mesa estándar para cuatro jugadores, e incorpora muchas de las diversas reglas de puntuación bizantinas del juego.Irem desarrolló y publicó el juego, pero dejó un misterioso crédito de licencia para Ox Inc. en la pantalla de título. Es posible que el juego sea un puerto de un oscuro juego de computadora Mahjong japonés, o al menos tome prestada parte de su codificación para el oponente de IA o los sistemas de puntuación.</synopsis>
       <genre>Mahjong,Juegos de mesa asiático</genre>
     </locale>
     <locale lang="FR">
@@ -5847,15 +5891,15 @@ Hay 3 niveles: Principiante, Intermedio y Experto, que se seleccionan según la 
     <id>98659A</id>
     <locale lang="EN">
       <title>Matou No Houkai - The Hero Of Babel</title>
-      <synopsis>During the height of Babylonian civilization, people built the Tower of Babel in an attempt to reach god. God sees this, and becomes angry with mankind's hubris. He rains thunder down upon the tower to drive people away. In order to keep people away from the tower, god fills it up with giant creatures and evil spiritsnnSeveral thousands of years later, the strongest devil Asmodeous gains control over all of the creatures and spirits that god placed in the tower. He attacks the neighboring towns, and steals all of their golden and silver treasures, as well as the most beautiful maiden in the land.nnYour mission of salvation is to rescue the maiden, and destroy the cursed tower in order to return peace to the world.</synopsis>
+      <synopsis>During the height of Babylonian civilization, people built the Tower of Babel in an attempt to reach god. God sees this, and becomes angry with mankind's hubris. He rains thunder down upon the tower to drive people away. In order to keep people away from the tower, god fills it up with giant creatures and evil spiritsnnSeveral thousands of years later, the strongest devil Asmodeous gains control over all of the creatures and spirits that god placed in the tower. He attacks the neighboring towns, and steals all of their golden and silver treasures, as well as the most beautiful maiden in the land. Your mission of salvation is to rescue the maiden, and destroy the cursed tower in order to return peace to the world.</synopsis>
       <genre>Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Durante el apogeo de la civilización babilónica, la gente construyó la Torre de Babel en un intento de alcanzar a Dios. Dios ve esto y se enoja con la arrogancia de la humanidad. Él llueve trueno sobre la torre para alejar a la gente. Para mantener a las personas alejadas de la torre, Dios lo llena de criaturas gigantes y espíritus malignos.nnnnVarios miles de años después, el diablo más fuerte Asmodeous gana el control de todas las criaturas y espíritus que Dios colocó en la torre. Ataca las ciudades vecinas y roba todos sus tesoros de oro y plata, así como a la doncella más bella de la tierra.nnnnTu misión de salvación es rescatar a la doncella y destruir la torre maldita para devolverle la paz al mundo.</synopsis>
+      <synopsis>Durante el apogeo de la civilización babilónica, la gente construyó la Torre de Babel en un intento de alcanzar a Dios. Dios ve esto y se enoja con la arrogancia de la humanidad. Él llueve trueno sobre la torre para alejar a la gente. Para mantener a las personas alejadas de la torre, Dios lo llena de criaturas gigantes y espíritus malignos.Varios miles de años después, el diablo más fuerte Asmodeous gana el control de todas las criaturas y espíritus que Dios colocó en la torre. Ataca las ciudades vecinas y roba todos sus tesoros de oro y plata, así como a la doncella más bella de la tierra.Tu misión de salvación es rescatar a la doncella y destruir la torre maldita para devolverle la paz al mundo.</synopsis>
       <genre>Aventura</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Pendant le règne de la civilisation babylonienne, les gens ont construit la Tour de Babel pour tenter d'atteindre Dieu. Dieu voit cela, et se met en colère contre l'orgueil de l'humanité. Afin de garder les gens loin de la tour, Dieu la remplit avec des créatures géantes et des esprits mauvais. nnPlusieurs milliers d'années plus tard, le démon le plus fort Asmodeous prends le contrôle sur toutes les créatures et les esprits que Dieu a placé dans la tour. Il attaque les villes voisines.nnVotre mission est de sauver la jeune fille, et de détruire la tour maudite afin de faire revenir la paix.</synopsis>
+      <synopsis>Pendant le règne de la civilisation babylonienne, les gens ont construit la Tour de Babel pour tenter d'atteindre Dieu. Dieu voit cela, et se met en colère contre l'orgueil de l'humanité. Afin de garder les gens loin de la tour, Dieu la remplit avec des créatures géantes et des esprits mauvais. nnPlusieurs milliers d'années plus tard, le démon le plus fort Asmodeous prends le contrôle sur toutes les créatures et les esprits que Dieu a placé dans la tour. Il attaque les villes voisines. Votre mission est de sauver la jeune fille, et de détruire la tour maudite afin de faire revenir la paix.</synopsis>
       <genre>Aventure</genre>
     </locale>
     <locale lang="DE">
@@ -5883,10 +5927,10 @@ Hay 3 niveles: Principiante, Intermedio y Experto, que se seleccionan según la 
       <synopsis>The game takes place in India, where a young man's significant-other is kidnapped by an evil wizard. He must then tackle the four areas of the labyrinth temple of Dababa to rescue her.
 
 In order to accomplish this task, the player cannot simple move across the floor. Rather, the player and all of the enemies hop from one square tile to another, throughout the game. In a majority of stages, the player must uncover the seals which will unlock the door to the next stage by leaping on to the particular tiles which keep the seals concealed. Not every door will take the player forward, however, as some doors are trick doors that may take the player to a previous stage. In some stages, the player must simply survive the onslaught of enemies, while in others, the player is racing against the clock.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El otro yo de un joven es secuestrado por un mago malvado. Luego debe abordar las cuatro áreas del templo laberinto de Dababa para rescatarla.nnnnPara lograr esta tarea, el jugador no puede moverse por el piso. Por el contrario, el jugador y todos los enemigos saltan de una casilla a otra a lo largo del juego.</synopsis>
+      <synopsis>El otro yo de un joven es secuestrado por un mago malvado. Luego debe abordar las cuatro áreas del templo laberinto de Dababa para rescatarla.Para lograr esta tarea, el jugador no puede moverse por el piso. Por el contrario, el jugador y todos los enemigos saltan de una casilla a otra a lo largo del juego.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -5911,7 +5955,10 @@ In order to accomplish this task, the player cannot simple move across the floor
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Metroid">
+
+
+
+        <game name="Metroid">
     <id>88216A</id>
     <locale lang="EN">
       <title>Metroid</title>
@@ -5957,7 +6004,7 @@ The character of Michael comes from the Japanese serial manga strip "What's Mich
       <genre>Puzzle-Game,Educational</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Michael English Daibouken es un juego educativo en el que el personaje de Michael, un gato naranja, enseña a los gatitos las diversas letras en inglés y algunos vocabularios en inglés. Michael tiene que atrapar letras flotantes para deletrear palabras en inglés, mientras evita las letras incorrectas. El juego tiene varios fondos diferentes, incluido el espacio.nnnnEl personaje de Michael proviene de la serie de manga japonesa "What's Michael", creada por Makoto Kobayashi, que podría considerarse análoga a Garfield, debido a que ambos son gatos anaranjados. Varía entre observar el comportamiento ridículo de las mascotas y los cuentos más abstractos de fantasía con versiones antropomorfizadas de los personajes de los animales.</synopsis>
+      <synopsis>Michael English Daibouken es un juego educativo en el que el personaje de Michael, un gato naranja, enseña a los gatitos las diversas letras en inglés y algunos vocabularios en inglés. Michael tiene que atrapar letras flotantes para deletrear palabras en inglés, mientras evita las letras incorrectas. El juego tiene varios fondos diferentes, incluido el espacio.El personaje de Michael proviene de la serie de manga japonesa "What's Michael", creada por Makoto Kobayashi, que podría considerarse análoga a Garfield, debido a que ambos son gatos anaranjados. Varía entre observar el comportamiento ridículo de las mascotas y los cuentos más abstractos de fantasía con versiones antropomorfizadas de los personajes de los animales.</synopsis>
       <genre>Rompecabezas,Educacional</genre>
     </locale>
     <locale lang="FR">
@@ -6062,7 +6109,7 @@ Los Attakons están planeando destruir el cerebro del profesor, recuperando su f
     <id>88220A</id>
     <locale lang="EN">
       <title>Monty on the Run - Monty no Doki Doki Dai Dassou</title>
-      <synopsis>Monty no Doki Doki Dai Dassou  (Monty's heart pounding great escape), also known as Monty on the Run, is an action game developed for the Famicom Disk System by Jaleco in 1987. This game was the product of Jaleco acquiring the rights to license and publish a hit game from the European computer market titled Monty on the Run. However, unlike a similar previous effort with Knight Lore which stays close to the original source, Jaleco changed the game entirely for unknown reasons.nnIn Monty no Doki Doki Dai Dassou , Monty is a human being who has escaped from a penitentiary. Still dressed in striped convict clothing, Monty is on a mission to clear his name. He must proceed through four levels, each of which contains several hidden tiles. These tiles contain portions of the image of a face. At the end of each level, Monty must jump on to a platform just before the exit. This platform is a direct clue to the proper construction of the collected tiles. There are more tiles than necessary to construct a face, making some tiles extraneous. Only by paying proper attention to this final platform can the player know which face to construct. At the end of the game, the player must properly reconstruct the face of the true criminal before a judge. If the player succeeds, he will earn his freedom and win the game.</synopsis>
+      <synopsis>Monty no Doki Doki Dai Dassou  (Monty's heart pounding great escape), also known as Monty on the Run, is an action game developed for the Famicom Disk System by Jaleco in 1987. This game was the product of Jaleco acquiring the rights to license and publish a hit game from the European computer market titled Monty on the Run. However, unlike a similar previous effort with Knight Lore which stays close to the original source, Jaleco changed the game entirely for unknown reasons. In Monty no Doki Doki Dai Dassou , Monty is a human being who has escaped from a penitentiary. Still dressed in striped convict clothing, Monty is on a mission to clear his name. He must proceed through four levels, each of which contains several hidden tiles. These tiles contain portions of the image of a face. At the end of each level, Monty must jump on to a platform just before the exit. This platform is a direct clue to the proper construction of the collected tiles. There are more tiles than necessary to construct a face, making some tiles extraneous. Only by paying proper attention to this final platform can the player know which face to construct. At the end of the game, the player must properly reconstruct the face of the true criminal before a judge. If the player succeeds, he will earn his freedom and win the game.</synopsis>
       <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
@@ -6167,7 +6214,7 @@ Los Attakons están planeando destruir el cerebro del profesor, recuperando su f
     <id>98664A</id>
     <locale lang="EN">
       <title>Nankin No Adventure</title>
-      <synopsis>Nankin no Adventure is a Famicom Disk System adventure game from SunSoft that plays much like every other Famicom adventure game of the era. The player selects commands from a menu in order to talk to NPCs and solve puzzles which will eventually allow them to progress. As with many of these Famicom text adventures there is a linear critical path that the player must follow in order to move to new areas and reach the next point of the story.nnNankin refers to a semi-obscure manga artist of the same name who was behind much of the art design of the game. Though the game doesn't include any of his pre-existing licenses, his distinctive art style is present throughout. This approach might be equated to Akira Toriyama's artistic involvement with the Dragon Quest and Chrono games</synopsis>
+      <synopsis>Nankin no Adventure is a Famicom Disk System adventure game from SunSoft that plays much like every other Famicom adventure game of the era. The player selects commands from a menu in order to talk to NPCs and solve puzzles which will eventually allow them to progress. As with many of these Famicom text adventures there is a linear critical path that the player must follow in order to move to new areas and reach the next point of the story. Nankin refers to a semi-obscure manga artist of the same name who was behind much of the art design of the game. Though the game doesn't include any of his pre-existing licenses, his distinctive art style is present throughout. This approach might be equated to Akira Toriyama's artistic involvement with the Dragon Quest and Chrono games</synopsis>
       <genre>Adventure</genre>
     </locale>
     <locale lang="ES">
@@ -6207,7 +6254,7 @@ But soon they discover that there is someone watching, spying on them; it's some
 There is only one way to avoid self-destruction, which is entering a 14 digit code into the machine; but these digits are hidden in the walls of the corridors in the complex. Your mission is to find these letters and avoid self-destruction, aboard the "Red Warrior", and using your only weapon, an energy ball.
 
 Nazo no Kabe - Block Kuzushi  is an Arkanoid clone for the NES, but it's probably one of the most singular clones. You'll have to destroy all blocks but also the walls surrounding them, as the 14 letters are spread inside them, apart from killing the alien bosses here and there. In your way, you will find a bizarre mixture of enemies, from alien forms to parts of the body (eyes, lips, skulls...), who will make your game tougher by changing the direction of your ball; but also happier by dropping a sweet variety of power-ups such as the cherries (extra life), the clock (the enemies freeze), a rocket (to throw into the blocks), a fire device (the ball fires missiles), a parachute (slows the ball) an extra ball, or the weirdest of them all, the so-called Konami Man, who will take you to a secret parallel complex with different (and harder) levels.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Breakout</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Un juego rompe-bloques estilo Breakout lanzado en Japón como Nazo no Kabe: Block Kuzushi en 1986 para el sistema de disco Famicom y como Crackout en Australia y Europa en 1991 para el NES. Una versión estadounidense fue planeada pero fue cancelada.</synopsis>
@@ -6420,7 +6467,7 @@ Nazoler Land Soukan Gou (o Nazoler Land Vol. 1) tiene ocho minijuegos que el jug
     <id>88228A</id>
     <locale lang="EN">
       <title>Neunzehn</title>
-      <synopsis>The heir to the throne is shared by four brave people: Darius, Simon, Thales, and Sonia. The 19 gods of Olympus left behind an omnipotent stone to the great emperor Achilles, who has ordered a search to be conducted for the stone. You take the role of one of these four in an effort to find the stone on the island before the rest, waging war with opponent armies to prevent them from finding it first.nn19 is somewhat unique among turn based strategy games, in that turns are taken in real time, following rules that are reminiscent of the Japanese chess-like game known as Shogi. The game takes place on an overworld map, on which players take turns moving troops. When opposing troops vi for the same location, the game switches to a zoomed-in combat screen, showing each individual member of the opposing forces. While the story of the game revolves around finding a stone, there is no actual stone to discover. Your only goal is to wipe out the armies of the other three opponents.</synopsis>
+      <synopsis>The heir to the throne is shared by four brave people: Darius, Simon, Thales, and Sonia. The 19 gods of Olympus left behind an omnipotent stone to the great emperor Achilles, who has ordered a search to be conducted for the stone. You take the role of one of these four in an effort to find the stone on the island before the rest, waging war with opponent armies to prevent them from finding it first. 19 is somewhat unique among turn based strategy games, in that turns are taken in real time, following rules that are reminiscent of the Japanese chess-like game known as Shogi. The game takes place on an overworld map, on which players take turns moving troops. When opposing troops vi for the same location, the game switches to a zoomed-in combat screen, showing each individual member of the opposing forces. While the story of the game revolves around finding a stone, there is no actual stone to discover. Your only goal is to wipe out the armies of the other three opponents.</synopsis>
       <genre>Strategy</genre>
     </locale>
     <locale lang="ES">
@@ -6453,7 +6500,7 @@ Nazoler Land Soukan Gou (o Nazoler Land Vol. 1) tiene ocho minijuegos que el jug
     <id>88229A</id>
     <locale lang="EN">
       <title>Omoikkiri Tanteidan Haado Gumi - Matenrou no Chous</title>
-      <synopsis>Based upon a Japanese television series that aired in 1987. It features a group of five detective kids on a mission to retrieve various objects stolen by a mysterious thief who wears a golden mask. The group counts the leader Hiroshi, the cute and Aikido expert Yasuko who also happen to be the only girl of the group, Susumu, Satoru and Takeo. The mysterious thief uses many ingenious tricks to escape his pursuers, such as a huge and colorful air-balloon.nnBefore getting to the main portion of the game, the player must pass the organization's test. After entering personal information such as name, birth-date and blood type, the player must go through two challenges. The first one is a memory test. Eight character faces (from a list of four) appear at random on the screen and the player needs to remember the order in which they came in. The second test is action based and the player must catch roses thrown by the thief, himself hanging from an air-balloon. Once the tests are passed, the real game starts. Our hero can move around town and visit buildings to gather information. He can also use various items such as a slingshot, a metal detector, a radio, binoculars etc. Baddies also wander around the city and must be avoided. They can also be knocked down using any weapon our hero may carry (like the slingshot) or by punching them on the chin.</synopsis>
+      <synopsis>Based upon a Japanese television series that aired in 1987. It features a group of five detective kids on a mission to retrieve various objects stolen by a mysterious thief who wears a golden mask. The group counts the leader Hiroshi, the cute and Aikido expert Yasuko who also happen to be the only girl of the group, Susumu, Satoru and Takeo. The mysterious thief uses many ingenious tricks to escape his pursuers, such as a huge and colorful air-balloon. Before getting to the main portion of the game, the player must pass the organization's test. After entering personal information such as name, birth-date and blood type, the player must go through two challenges. The first one is a memory test. Eight character faces (from a list of four) appear at random on the screen and the player needs to remember the order in which they came in. The second test is action based and the player must catch roses thrown by the thief, himself hanging from an air-balloon. Once the tests are passed, the real game starts. Our hero can move around town and visit buildings to gather information. He can also use various items such as a slingshot, a metal detector, a radio, binoculars etc. Baddies also wander around the city and must be avoided. They can also be knocked down using any weapon our hero may carry (like the slingshot) or by punching them on the chin.</synopsis>
       <genre>Adventure</genre>
     </locale>
     <locale lang="ES">
@@ -6764,7 +6811,7 @@ The game is composed of a training mode as well as the tournament challenge. The
     <date year="1987" month="05" day="25"/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="2">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -6817,7 +6864,7 @@ As a "professional" Mahjong game, there is an opportunity to play a mode where t
       <genre>Mahjong,Asiatic board game</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Professional Mahjong Goku es el tercer juego de la Famicom basado en Mahjong, el competitivo juego de fichas popular en China y Japón. Es una versión para cuatro personas del juego, que generalmente es la forma en que se juega en la vida real, aunque poco común en las simulaciones durante esta era debido a la potencia de cómputo adicional necesaria para tres oponentes de AI.nnnnComo un juego de Mahjong "profesional", hay una oportunidad de jugar un modo en el que el jugador puede apostar de antemano a los resultados. La cantidad de dinero ganado o perdido generalmente se basa en la calidad de la mano ganadora, pero ocasionalmente el jugador también puede hacer apuestas para aumentar su apuesta si gana (aunque, por supuesto, cualquier dinero apostado de esta manera se pierde si alguien más gana la mano)</synopsis>
+      <synopsis>Professional Mahjong Goku es el tercer juego de la Famicom basado en Mahjong, el competitivo juego de fichas popular en China y Japón. Es una versión para cuatro personas del juego, que generalmente es la forma en que se juega en la vida real, aunque poco común en las simulaciones durante esta era debido a la potencia de cómputo adicional necesaria para tres oponentes de AI.Como un juego de Mahjong "profesional", hay una oportunidad de jugar un modo en el que el jugador puede apostar de antemano a los resultados. La cantidad de dinero ganado o perdido generalmente se basa en la calidad de la mano ganadora, pero ocasionalmente el jugador también puede hacer apuestas para aumentar su apuesta si gana (aunque, por supuesto, cualquier dinero apostado de esta manera se pierde si alguien más gana la mano)</synopsis>
       <genre>Mahjong,Juegos de mesa asiático</genre>
     </locale>
     <locale lang="FR">
@@ -6849,7 +6896,7 @@ As a "professional" Mahjong game, there is an opportunity to play a mode where t
     <id>88233A</id>
     <locale lang="EN">
       <title>Pulsar no Hikari - Space Wars Simulation</title>
-      <synopsis>Pulsar no Hikari ("Pulsar of Light"): Space Wars Simulation is a game for the FDS created by computer game developer Soft Pro International. It's a rather dense strategic space simulator that has the player control a starship as it explores a galaxy and fights off enemy ships. The player needs to keep an eye on various pieces of information, such as their energy and their destination, and ensure they don't accidentally wander into an area with pulsars or black holes, or off the galaxy map all together.nnnnExploration in Pulsar no Hikari seems to follow a set course of scanning nearby space, moving into the next region once it's been ascertained with the long-range scanners that there are no insurmountable obstacles to be encountered there, destroy any asteroids or enemy ships that might be prowling around by checking the short-range scanners and then long-range scan/warp to the next area. Once the ship's energy/fuel is low (combat and movement will steadily drain it), the player should return to the closest star base for refuelling. Smaller star bases can refuel the ship's standard energy unit, but damage and lost ammo (the torpedoes, of which the ship has a finite amount) must be recovered at the major bases.nnnnAccidentally warping to a location with a black hole will instantly end the game. It's generally considered a bad idea.</synopsis>
+      <synopsis>Pulsar no Hikari ("Pulsar of Light"): Space Wars Simulation is a game for the FDS created by computer game developer Soft Pro International. It's a rather dense strategic space simulator that has the player control a starship as it explores a galaxy and fights off enemy ships. The player needs to keep an eye on various pieces of information, such as their energy and their destination, and ensure they don't accidentally wander into an area with pulsars or black holes, or off the galaxy map all together.Exploration in Pulsar no Hikari seems to follow a set course of scanning nearby space, moving into the next region once it's been ascertained with the long-range scanners that there are no insurmountable obstacles to be encountered there, destroy any asteroids or enemy ships that might be prowling around by checking the short-range scanners and then long-range scan/warp to the next area. Once the ship's energy/fuel is low (combat and movement will steadily drain it), the player should return to the closest star base for refuelling. Smaller star bases can refuel the ship's standard energy unit, but damage and lost ammo (the torpedoes, of which the ship has a finite amount) must be recovered at the major bases.Accidentally warping to a location with a black hole will instantly end the game. It's generally considered a bad idea.</synopsis>
       <genre>Strategy</genre>
     </locale>
     <locale lang="ES">
@@ -7023,7 +7070,7 @@ You fly around a planet collecting various items to advance to different areas.<
     <id>98677A</id>
     <locale lang="EN">
       <title>Relics - Ankoku Yousai</title>
-      <synopsis>At some point in the early history of earth, the forces of darkness known as HELL were at war with the forces of light known as HEAVEN, and the took this battle to our planet. The HELL forces quickly enslaved human beings, and the earth was cast in darkness and despair. Somewhere on the planet, a fortress was built to harness the power of the sun in order to defeat the forces of HELL, should they ever come to our planet, but it fell into ruin after centuries of neglect. The Shining Princess of HEAVEN was captured and imprisoned on the top floor of this fortress. Also inside are the spirits of the Holy Warriors of Light who have the power to defeat the forces of HELL. However, they are asleep and unable to awaken. Earth's only hope is you, a being who has sacrificed his body in order to inhabit the fallen bodies of the departed. To succeed, you must use each body to obtain the key words which are found in, and used to open, the dungeons of the fortress.nnRelics: Ankoku Yosai (Lit. "Relics: Darkness Fort") is an action-adventure game developed by Bothtec for play on the Family Computer Disk System and published in 1987. It is somewhat related to, but entirely different from, a game known as Relics which was released on several popular Japanese home computer formats, including the MSX. In the game, you control a spirit who has the ability to enhabit the body of certain defeated enemies, effectively powering up by inhabiting the body of stronger foes.nn</synopsis>
+      <synopsis>At some point in the early history of earth, the forces of darkness known as HELL were at war with the forces of light known as HEAVEN, and the took this battle to our planet. The HELL forces quickly enslaved human beings, and the earth was cast in darkness and despair. Somewhere on the planet, a fortress was built to harness the power of the sun in order to defeat the forces of HELL, should they ever come to our planet, but it fell into ruin after centuries of neglect. The Shining Princess of HEAVEN was captured and imprisoned on the top floor of this fortress. Also inside are the spirits of the Holy Warriors of Light who have the power to defeat the forces of HELL. However, they are asleep and unable to awaken. Earth's only hope is you, a being who has sacrificed his body in order to inhabit the fallen bodies of the departed. To succeed, you must use each body to obtain the key words which are found in, and used to open, the dungeons of the fortress. Relics: Ankoku Yosai (Lit. "Relics: Darkness Fort") is an action-adventure game developed by Bothtec for play on the Family Computer Disk System and published in 1987. It is somewhat related to, but entirely different from, a game known as Relics which was released on several popular Japanese home computer formats, including the MSX. In the game, you control a spirit who has the ability to enhabit the body of certain defeated enemies, effectively powering up by inhabiting the body of stronger foes. </synopsis>
       <genre>Adventure</genre>
     </locale>
     <locale lang="ES">
@@ -7061,7 +7108,7 @@ You fly around a planet collecting various items to advance to different areas.<
 Replicart is to the original Snake game what Arkanoid is to Breakout; an upgrade that takes the core features of the game and expands upon them by adding enemies, power-ups and more elaborate play settings. In it you must move a robotic snake through mazes in an effort to collect a required number of pieces before the exit will open. The snake's length extends by one unit for every piece collected. If the snake's head touches any of the walls, enemies or its own body, it is destroyed and the player loses one life.
 
 The conversion to the Famicom Disk System by Taito is quite different than the MSX2 original. The number of levels has been reduced to 100, but between every 10 levels, a boss battle occurs in which the player must chase a monster around the screen and blast it until the monster takes enough damage. A bonus level is provided for the player after each boss is defeated before they progress to the next level.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Replicart toma la fórmula básica de Snake y la transforma, de manera similar a cómo otros juegos simples de Arcade (como Breakout to Arkanoid) recibían versiones contemporáneas para las versiones de la consola doméstica que ampliaban el concepto básico y agregaban muchas características adicionales.
@@ -7173,7 +7220,7 @@ Takamaru, un valiente y joven aprendiz de samurai, ha sido enviado a investigar.
 While presented in a side-scroller format, Roger Rabbit differed from standard side-scrollers such as Super Mario Bros. in that Roger Rabbit did not have a jump function; therefore, only by taking different routes could Roger avoid enemies. Some of the levels had boxing gloves, invincibility potions, safes, crates, flower pots, or ten-pound weights that could be used against the enemies in the game. As a result, the game had a "puzzle-solving" atmosphere.
 
 Players score 100 points for every carrot with the last one in each floor giving the player an extra life, 100 points for every enemy defeated using invincibility bottles, 500 points per enemy using boxing glove and 1000 points per enemy that gets hit with heavy objects.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platformer,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Nuestro héroe Roger Rabbit necesita tu ayuda en una atrevida misión para rescatar a su principal enemigo, Jessica Rabbit, atrapado en las garras de la despreciable Toon Patrol. Salta de una espeluznante habitación a otra, persigue escaleras crujientes y deslízate por tubos oxidados. Para llegar a Jessica, recuerda las contraseñas secretas, luego recoge todas las zanahorias que encuentres. ¡Pero apurate! Roger puede lanzar un buen conejito en un apuro. Pero para mayor protección, puede usar algunos objetos inusuales como guantes de boxeo, cajas de carga y cubos de agua. Y eso no es todo: después de una bebida de la Botella Mágica, ¡nada te detendrá! ¡Con una muñeca hábil, un ingenio rápido y una patada rápida, ganarás el juego y tendrás a Roger y Jessica saltando felices juntos otra vez!</synopsis>
@@ -7205,6 +7252,8 @@ Players score 100 points for every carrot with the last one in each floor giving
     <id>88237A</id>
     <locale lang="EN">
       <title>Sailor Fuku Bishoujo Zukan Vol. 1</title>
+      <genre>Arcade</genre>
+      <synopsis>Your mission is to climb up the ladders and reach the top where a girl waits for you, while avoiding various objects falling from above. Unlock new pictures of girls in risque poses and skimpy clothes, as you progress through the levels.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Pequeño juego de acción para adultos. Debes alcanzar a una chica en la parte superior de una escalera mientras evitas los objetos que te arroja. Si lo alcanzas, serás recompensado con un striptease en la forma debida.</synopsis>
@@ -7236,6 +7285,8 @@ Players score 100 points for every carrot with the last one in each floor giving
     <id>88238A</id>
     <locale lang="EN">
       <title>Sailor Fuku Bishoujo Zukan Vol. 2</title>
+      <genre>Action</genre>
+      <synopsis>Your mission is to climb up the ladders and reach the top where a girl waits for you, while avoiding various objects falling from above. Unlock new pictures of girls in risque poses and skimpy clothes, as you progress through the levels.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Segunda parte de un juego de acción para adultos. Debes alcanzar a una chica en la parte superior de una escalera mientras esquivas los objetos que te arroja. Si alcanzas esto, serás recompensado con un despojo en buenas forma debida</synopsis>
@@ -7267,6 +7318,8 @@ Players score 100 points for every carrot with the last one in each floor giving
     <id>88239A</id>
     <locale lang="EN">
       <title>Sailor Fuku Bishoujo Zukan Vol. 3</title>
+      <genre>Arcade</genre>
+      <synopsis>Your mission is to climb up the ladders and reach the top where a girl waits for you, while avoiding various objects falling from above. Unlock new pictures of girls in risque poses and skimpy clothes, as you progress through the levels.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Tercera parte de un juego de acción para adultos. Debes alcanzar a una chica en la parte superior de una escalera y evitar los objetos que te arroja. Si la alcanzas, serás recompensado con un despojo en buenas forma debida</synopsis>
@@ -7287,7 +7340,7 @@ Players score 100 points for every carrot with the last one in each floor giving
     <date year="1989" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
@@ -7298,6 +7351,8 @@ Players score 100 points for every carrot with the last one in each floor giving
     <id>88240A</id>
     <locale lang="EN">
       <title>Sailor Fuku Bishoujo Zukan Vol. 4</title>
+      <genre>Arcade</genre>
+      <synopsis>Your mission is to climb up the ladders and reach the top where a girl waits for you, while avoiding various objects falling from above. Unlock new pictures of girls in risque poses and skimpy clothes, as you progress through the levels.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Cuarta parte de un juego de acción para adultos. Debes alcanzar a una chica en la parte superior de una escalera mientras evitas los objetos que ella te arroja. Si la alcanzas, serás recompensado con un despojo en buenas forma debida</synopsis>
@@ -7329,6 +7384,8 @@ Players score 100 points for every carrot with the last one in each floor giving
     <id>88241A</id>
     <locale lang="EN">
       <title>Sailor Fuku Bishoujo Zukan Vol. 5</title>
+      <genre>Arcade</genre>
+      <synopsis>Your mission is to climb up the ladders and reach the top where a girl waits for you, while avoiding various objects falling from above. Unlock new pictures of girls in risque poses and skimpy clothes, as you progress through the levels.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Quinta parte de un juego de acción para adultos. Debes alcanzar a una chica en la parte superior de una escalera mientras evitas los objetos que ella te arroja. Si la alcanzas, serás recompensado con un despojo en buenas forma debida</synopsis>
@@ -7360,6 +7417,8 @@ Players score 100 points for every carrot with the last one in each floor giving
     <id>88242A</id>
     <locale lang="EN">
       <title>Sailor Fuku Bishoujo Zukan Vol. 6</title>
+      <genre>Arcade</genre>
+      <synopsis>Your mission is to climb up the ladders and reach the top where a girl waits for you, while avoiding various objects falling from above. Unlock new pictures of girls in risque poses and skimpy clothes, as you progress through the levels.</synopsis>
     </locale>
     <locale lang="ES">
       <synopsis>Sexta parte de un juego de acción para adultos. Debes alcanzar a una chica en la parte superior de una escalera mientras evitas los objetos que ella te arroja. Si la alcanzas, serás recompensado con un despojo en buenas forma debida</synopsis>
@@ -7408,7 +7467,7 @@ Tu juegas el papel de un samurai que destruye las fuerzas de Soron. Sin embargo,
       <genre>Aventura</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>'Lorsque le prêtre  Soron a menacé d'engloutir le monde dans l'ombre, les héros et les sorciers se sont levés contre lui.nnTous ont été vaincus. nnMais un guerrier reste debout ... nnVous jouez le rôle d'un samouraï Qui doit détruire les forces de Soron. Vous ne pouvez pas le vaincre seul, alors vous devez trouver un mage qui vous aidera dans votre quête, et surtout, l'arme sacrée connue sous le nom de Samurai Sword.</synopsis>
+      <synopsis>'Lorsque le prêtre  Soron a menacé d'engloutir le monde dans l'ombre, les héros et les sorciers se sont levés contre lui. Tous ont été vaincus. nnMais un guerrier reste debout ... nnVous jouez le rôle d'un samouraï Qui doit détruire les forces de Soron. Vous ne pouvez pas le vaincre seul, alors vous devez trouver un mage qui vous aidera dans votre quête, et surtout, l'arme sacrée connue sous le nom de Samurai Sword.</synopsis>
       <genre>Aventure</genre>
     </locale>
     <locale lang="DE">
@@ -7448,7 +7507,7 @@ Feliz Navidad.</synopsis>
       <genre>Rompecabezas</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Un mois par an, nous célébrons noël, merci pour les merveilleux souvenirs. nnEt en reconnaissance pour cette année, alors que les gens envoient les cadeaux, Noël est pour nous un temps pour rassembler les souvenirs de l'année.nnJoyeux Noël.</synopsis>
+      <synopsis>Un mois par an, nous célébrons noël, merci pour les merveilleux souvenirs. nnEt en reconnaissance pour cette année, alors que les gens envoient les cadeaux, Noël est pour nous un temps pour rassembler les souvenirs de l'année. Joyeux Noël.</synopsis>
       <genre>Puzzle-Game</genre>
     </locale>
     <locale lang="DE">
@@ -7515,7 +7574,7 @@ While the game is considered memorable, especially for being the first in a long
       <genre>Action,Strategy</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Aunque en algunos aspectos es una secuela, SD Gundam Gachapon Senshi Scramble Wars Map Collection es un duplicado del juego con un conjunto completamente nuevo de mapas. Es, en efecto, un paquete de expansión de misión para el juego original, aunque no requiere el disco original para poder jugarse.nn</synopsis>
+      <synopsis>Aunque en algunos aspectos es una secuela, SD Gundam Gachapon Senshi Scramble Wars Map Collection es un duplicado del juego con un conjunto completamente nuevo de mapas. Es, en efecto, un paquete de expansión de misión para el juego original, aunque no requiere el disco original para poder jugarse. </synopsis>
       <genre>Acción,Estrategia</genre>
     </locale>
     <locale lang="FR">
@@ -7547,7 +7606,7 @@ While the game is considered memorable, especially for being the first in a long
     <id>98680A</id>
     <locale lang="EN">
       <title>Section-Z</title>
-      <synopsis>An enemy space fortress of the Balangool Empire is approaching Earth. Captain Commando has to infiltrate it and find his way to Section-Z to destroy L-Brain, the computer controlling the fortress.nnSecton-Z is a side-scrolling game in which the player is a space soldier who can land on the ground and other platform structures and run along them. It is one of the first games which gives players the ability to not only shoot forward, but backwards. It is also one of the first games to give players a choice of paths at the end of each level. Depending on which path they took, they could get special weapons or bombs which wouldn't show up if the other path was taken. To compensate for this, the path without the weapon is often easier. They can activate these special weapons by pressing Select.nnSometimes, one of the paths will be flashing red instead of the usual yellow. This indicates that it is impassable unless the player locates and destroys the Generator Boss that is creating the field. Therefore, it is imperative to find the right paths through the fortress to get to the Generator and blow it up. Once this is done, it is possible to safely pass through the red gates and move onto the rest of the area, and eventually, the area boss. Each time a generator is destroyed the player will earn a capsule that increases total HP.</synopsis>
+      <synopsis>An enemy space fortress of the Balangool Empire is approaching Earth. Captain Commando has to infiltrate it and find his way to Section-Z to destroy L-Brain, the computer controlling the fortress. Secton-Z is a side-scrolling game in which the player is a space soldier who can land on the ground and other platform structures and run along them. It is one of the first games which gives players the ability to not only shoot forward, but backwards. It is also one of the first games to give players a choice of paths at the end of each level. Depending on which path they took, they could get special weapons or bombs which wouldn't show up if the other path was taken. To compensate for this, the path without the weapon is often easier. They can activate these special weapons by pressing Select. Sometimes, one of the paths will be flashing red instead of the usual yellow. This indicates that it is impassable unless the player locates and destroys the Generator Boss that is creating the field. Therefore, it is imperative to find the right paths through the fortress to get to the Generator and blow it up. Once this is done, it is possible to safely pass through the red gates and move onto the rest of the area, and eventually, the area boss. Each time a generator is destroyed the player will earn a capsule that increases total HP.</synopsis>
       <genre>Shooter,Shoot'em Up</genre>
     </locale>
     <locale lang="ES">
@@ -7583,11 +7642,11 @@ While the game is considered memorable, especially for being the first in a long
     <id>88245A</id>
     <locale lang="EN">
       <title>Seiken Psychocalibur - Majuu no Mori Densetsu</title>
-      <synopsis>Many years ago there was a country called Earth Maral. One day it was invaded by the forces of the Dark World and torn apart. People lived in fear, there only hope a legend?nn'A hero holding a sword will appear and restore peace to our land once again.'nnNo one knew when this hero would arrive?nnSaid the devil beast: "What's that? You challenge me? I see. Very well then. I accept your challenge. However, you will never win!"nnSeiken Psycho Calibur: Maju no Mori Densetsu is an adventure game for the Famicom Disk System, developed by Imagineer and published in 1987. It is part of the Wave Jack series of games produced by Imagineer that come with more accessories than the average video game, including a story book and audio cassette tape.nnSeiken Psycho Calibur is, in many ways, an attempt to copy the success of The Legend of Zelda. However, it fails to inspire the same level of wonder and fascination. It also lacks a good degree of polish that made the afore mentioned title so great. Nevertheless, Seiken Psycho Calibur is a relatively fun game to play, as long as you have a fair degree of insight into how the game is played. There are some unintuitive aspects of the game that can make progress in the game quite difficult.nnFor example, you begin the game in a town which offers a variety of goods for sale, but you only receive so much money, and you can never return to the town once you leave. Therefore, what you decide to invest your money in has a substantial impact on the difficulty of the game early on. Many items can be bought for less money later on, but only if you know the location of the hidden shops that contain them. Other less obvious points in the game require a bit of back tracking from later areas to earlier areas in order to acquire items that allow you to proceed, and boss battles that are at times incredibly difficult.</synopsis>
+      <synopsis>Many years ago there was a country called Earth Maral. One day it was invaded by the forces of the Dark World and torn apart. People lived in fear, there only hope a legend?nn'A hero holding a sword will appear and restore peace to our land once again.'nnNo one knew when this hero would arrive?nnSaid the devil beast: "What's that? You challenge me? I see. Very well then. I accept your challenge. However, you will never win!"nnSeiken Psycho Calibur: Maju no Mori Densetsu is an adventure game for the Famicom Disk System, developed by Imagineer and published in 1987. It is part of the Wave Jack series of games produced by Imagineer that come with more accessories than the average video game, including a story book and audio cassette tape. Seiken Psycho Calibur is, in many ways, an attempt to copy the success of The Legend of Zelda. However, it fails to inspire the same level of wonder and fascination. It also lacks a good degree of polish that made the afore mentioned title so great. Nevertheless, Seiken Psycho Calibur is a relatively fun game to play, as long as you have a fair degree of insight into how the game is played. There are some unintuitive aspects of the game that can make progress in the game quite difficult. For example, you begin the game in a town which offers a variety of goods for sale, but you only receive so much money, and you can never return to the town once you leave. Therefore, what you decide to invest your money in has a substantial impact on the difficulty of the game early on. Many items can be bought for less money later on, but only if you know the location of the hidden shops that contain them. Other less obvious points in the game require a bit of back tracking from later areas to earlier areas in order to acquire items that allow you to proceed, and boss battles that are at times incredibly difficult.</synopsis>
       <genre>Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Hace muchos años había un país llamado Earth Maral. Un día fue invadido por las fuerzas del Mundo Oscuro y destrozado. La gente vivía con miedo, solo esperaba una leyenda ...nnnn'Aparecerá un héroe sosteniendo una espada y restaurará la paz en nuestra tierra una vez más'.nnnnNadie sabía cuándo llegaría este héroe ...nnnnDijo la bestia del diablo: "¿Qué es eso? ¿Me desafías? Ya veo. Muy bien, entonces, acepto tu desafío. Sin embargo, nunca ganarás".</synopsis>
+      <synopsis>Hace muchos años había un país llamado Earth Maral. Un día fue invadido por las fuerzas del Mundo Oscuro y destrozado. La gente vivía con miedo, solo esperaba una leyenda ...'Aparecerá un héroe sosteniendo una espada y restaurará la paz en nuestra tierra una vez más'.Nadie sabía cuándo llegaría este héroe ...Dijo la bestia del diablo: "¿Qué es eso? ¿Me desafías? Ya veo. Muy bien, entonces, acepto tu desafío. Sin embargo, nunca ganarás".</synopsis>
       <genre>Aventura</genre>
     </locale>
     <locale lang="FR">
@@ -7660,7 +7719,7 @@ While the game is considered memorable, especially for being the first in a long
       <genre>Juegos de rol,Aventura,Adulto</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Gal's Dungeon est jeu un adulte sans licence. Vous jouez Kogorou Kurachi  chargé de sauver la fille d'un boss du syndicat du crime 'Phantom of 40 Faces'. C'est un jeu 3D de donjon, semblable  à mazes in Wizardry et autres RPGs , où l'on parcourt huit niveaux de la planque du maître vilain.nnChaque niveau a une gardienne, que vous devez battre a pierre feuille ciseaux. Si vous gagnez, vous obtenez la clé à l'étage suivant. Vous pouvez prendre des cartes et des boussoles pour vous guider, mais  méfiez-vous des pièges cachés et des indices secrets!</synopsis>
+      <synopsis>Gal's Dungeon est jeu un adulte sans licence. Vous jouez Kogorou Kurachi  chargé de sauver la fille d'un boss du syndicat du crime 'Phantom of 40 Faces'. C'est un jeu 3D de donjon, semblable  à mazes in Wizardry et autres RPGs , où l'on parcourt huit niveaux de la planque du maître vilain. Chaque niveau a une gardienne, que vous devez battre a pierre feuille ciseaux. Si vous gagnez, vous obtenez la clé à l'étage suivant. Vous pouvez prendre des cartes et des boussoles pour vous guider, mais  méfiez-vous des pièges cachés et des indices secrets!</synopsis>
       <genre>Jeu de rôles,Aventure,Adulte</genre>
     </locale>
     <locale lang="DE">
@@ -7688,6 +7747,8 @@ While the game is considered memorable, especially for being the first in a long
     <id>99386A</id>
     <locale lang="EN">
       <title>Shanghai</title>
+      <genre>Casino</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Mahjong,Juegos de mesa asiático</genre>
@@ -7720,6 +7781,8 @@ While the game is considered memorable, especially for being the first in a long
     <id>99387A</id>
     <locale lang="EN">
       <title>Shanghai 2</title>
+      <genre>Board game</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <genre>Mahjong,Juegos de mesa asiático</genre>
@@ -7746,16 +7809,17 @@ While the game is considered memorable, especially for being the first in a long
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Silviana - Ai Ippai No Little Angel">
     <id>99389A</id>
     <locale lang="EN">
       <title>Silviana - Ai Ippai No Little Angel</title>
-      <synopsis>Sylviana lived with her mom in relative peace after her father passed away. One day, her mom came down with a mysterious illness. Despite everything Sylviana tried, her mother's condition only got worse. Then one day, she heard a rumor about a Dr. Doppler, who can create a medicine that will cure any disease. She decides to head out and find this Dr. Doppler, and convince him to give her the medicine. However, she soon finds out that the doctor is unable to help her, due to having had his eight treasures stolen from him by demons. Sylviana vows to return the treasures to him in exchange for the medicine.nnThe game borrows it's combat system from games like Hydlide and Ys: Ancient Ys Vanished, where damage is inflicted upon (and exchanged with) enemies by crashing into them. However, there are no levels or experience points, so Sylviana's power only grows by virtue of the improved equipment that she purchases or finds. Throughout the game, the player wanders around a world map in order to find towns where goods may be purchased, and caves or towers which must be explored to find treasure. Eventually, the player enters a cave and steps through a mirror to enter the mirror image of the original world map, with increased difficulty.</synopsis>
+      <synopsis>Sylviana lived with her mom in relative peace after her father passed away. One day, her mom came down with a mysterious illness. Despite everything Sylviana tried, her mother's condition only got worse. Then one day, she heard a rumor about a Dr. Doppler, who can create a medicine that will cure any disease. She decides to head out and find this Dr. Doppler, and convince him to give her the medicine. However, she soon finds out that the doctor is unable to help her, due to having had his eight treasures stolen from him by demons. Sylviana vows to return the treasures to him in exchange for the medicine. The game borrows it's combat system from games like Hydlide and Ys: Ancient Ys Vanished, where damage is inflicted upon (and exchanged with) enemies by crashing into them. However, there are no levels or experience points, so Sylviana's power only grows by virtue of the improved equipment that she purchases or finds. Throughout the game, the player wanders around a world map in order to find towns where goods may be purchased, and caves or towers which must be explored to find treasure. Eventually, the player enters a cave and steps through a mirror to enter the mirror image of the original world map, with increased difficulty.</synopsis>
       <genre>Adventure,Role playing games</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Silviana (posiblemente Silvania) es un RPG de acción en el que el objetivo es seguir a la heroína del mismo nombre en su búsqueda de medicamentos para su madre enferma, y ??posiblemente localizar a su padre desaparecido en el proceso.nnnnEl juego tiene un sistema deliberadamente simplista de RPG donde no hay estadísticas visibles, otras la salud del personaje y los enemigos se pelean simplemente entrando en ellos para vencerlos. Cada enemigo derrotado también quita una pequeña cantidad de la salud de Silviana. Para mantenerse con vida, Silviana debe visitar ocasionalmente ciudades y reponer su salud bebiendo té, así como mejorar su equipo para garantizar la supervivencia contra enemigos más fuertes.</synopsis>
+      <synopsis>Silviana (posiblemente Silvania) es un RPG de acción en el que el objetivo es seguir a la heroína del mismo nombre en su búsqueda de medicamentos para su madre enferma, y ??posiblemente localizar a su padre desaparecido en el proceso.El juego tiene un sistema deliberadamente simplista de RPG donde no hay estadísticas visibles, otras la salud del personaje y los enemigos se pelean simplemente entrando en ellos para vencerlos. Cada enemigo derrotado también quita una pequeña cantidad de la salud de Silviana. Para mantenerse con vida, Silviana debe visitar ocasionalmente ciudades y reponer su salud bebiendo té, así como mejorar su equipo para garantizar la supervivencia contra enemigos más fuertes.</synopsis>
       <genre>Aventura,Juegos de rol</genre>
     </locale>
     <locale lang="FR">
@@ -7909,7 +7973,7 @@ The second, and much simpler game mode, has the player to finish a 39-steps mara
       <genre>Acción,Educacional,Rompecabezas</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Dans le jeu, Allan Colada voyage dans les contreforts dans les montagnes pour récupérer un remède pour la fièvre de sa soeur Leela. nnSuper Boy Allan est le deuxième jeu de la série de jeux éducatifs 'Intelligence Game' de Sunsoft pour Famicom Disk System, avec deux modes de jeu différents. Le premier mode de jeu, qui est également le jeu principal, ou le joueur doit éviter le contact avec les ennemis afin de résoudre des problèmes mathématiques . RnnLe deuxième mode de jeu, beaucoup plus simple, permet au joueur de terminer un marathon de 39 étapes en répondant correctement à de simples questions de mathématiques afin d'accumuler autant de points que possible.nn</synopsis>
+      <synopsis>Dans le jeu, Allan Colada voyage dans les contreforts dans les montagnes pour récupérer un remède pour la fièvre de sa soeur Leela. nnSuper Boy Allan est le deuxième jeu de la série de jeux éducatifs 'Intelligence Game' de Sunsoft pour Famicom Disk System, avec deux modes de jeu différents. Le premier mode de jeu, qui est également le jeu principal, ou le joueur doit éviter le contact avec les ennemis afin de résoudre des problèmes mathématiques . RnnLe deuxième mode de jeu, beaucoup plus simple, permet au joueur de terminer un marathon de 39 étapes en répondant correctement à de simples questions de mathématiques afin d'accumuler autant de points que possible. </synopsis>
       <genre>Action,Ludo-Educatif,Puzzle-Game</genre>
     </locale>
     <locale lang="DE">
@@ -8406,6 +8470,7 @@ Lanza un saque, dispara un revés ardiente, lanza una volea de derecha: ¡tú to
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1"/>
   </game>
   <game name="Kalin No Tsurugi">
     <id>88196A</id>
@@ -8417,7 +8482,7 @@ Lanza un saque, dispara un revés ardiente, lanza una volea de derecha: ¡tú to
       <genre>Role playing games</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Han aparecido monstruos en la otrora pacífica tierra de Alitania, y la gente ha caído en el terror. Las órdenes del rey han recaído sobre ti, el caballero más valiente de Alitania.nnnn"El destino del país pende de un hilo. Es posible salvar el país con la magia de Gladrif, pero él no está en ninguna parte. Por lo tanto, quiero que lo busques! Encuentra a Gladrif, derrota a los monstruos y restaura paz a esta tierra una vez más! "</synopsis>
+      <synopsis>Han aparecido monstruos en la otrora pacífica tierra de Alitania, y la gente ha caído en el terror. Las órdenes del rey han recaído sobre ti, el caballero más valiente de Alitania."El destino del país pende de un hilo. Es posible salvar el país con la magia de Gladrif, pero él no está en ninguna parte. Por lo tanto, quiero que lo busques! Encuentra a Gladrif, derrota a los monstruos y restaura paz a esta tierra una vez más! "</synopsis>
       <genre>Juegos de rol</genre>
     </locale>
     <locale lang="FR">
@@ -8455,7 +8520,7 @@ Time Twist would also be the very last game developed by Nintendo for the Famico
       <genre>Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El año es 1995, y el inminente cambio del siglo 20 está infundiendo miedo e incertidumbre en la humanidad, y los espectáculos de adivinación se han vuelto populares.nnnnEl 25 de septiembre de 1995, un niño que vive en Tokio escucha en un espectáculo de adivinación que se encontrará con la chica de sus sueños en un museo ubicado fuera de los límites de la ciudad. Visita el "Museo del Diablo" y se encuentra con una chica adentro, pero un terremoto repentino corta la reunión. El niño recita el conjuro del espectáculo de adivinación que dice "captura el corazón de la niña de sus sueños", pero el conjuro destruye el sello de un jarrón que contiene al diablo. [Disk 2]</synopsis>
+      <synopsis>El año es 1995, y el inminente cambio del siglo 20 está infundiendo miedo e incertidumbre en la humanidad, y los espectáculos de adivinación se han vuelto populares.El 25 de septiembre de 1995, un niño que vive en Tokio escucha en un espectáculo de adivinación que se encontrará con la chica de sus sueños en un museo ubicado fuera de los límites de la ciudad. Visita el "Museo del Diablo" y se encuentra con una chica adentro, pero un terremoto repentino corta la reunión. El niño recita el conjuro del espectáculo de adivinación que dice "captura el corazón de la niña de sus sueños", pero el conjuro destruye el sello de un jarrón que contiene al diablo. [Disk 2]</synopsis>
       <genre>Aventura</genre>
     </locale>
     <locale lang="FR">
@@ -8492,7 +8557,7 @@ Time Twist would also be the very last game developed by Nintendo for the Famico
       <genre>Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El año es 1995, y el inminente cambio del siglo 20 está infundiendo miedo e incertidumbre en la humanidad, y los espectáculos de adivinación se han vuelto populares.nnnnEl 25 de septiembre de 1995, un niño que vive en Tokio escucha en un espectáculo de adivinación que se encontrará con la chica de sus sueños en un museo ubicado fuera de los límites de la ciudad. Visita el "Museo del Diablo" y se encuentra con una chica adentro, pero un terremoto repentino corta la reunión. El niño recita el conjuro del espectáculo de adivinación que dice "captura el corazón de la niña de sus sueños", pero el conjuro destruye el sello de un jarrón que contiene al diablo. [Disk 1]</synopsis>
+      <synopsis>El año es 1995, y el inminente cambio del siglo 20 está infundiendo miedo e incertidumbre en la humanidad, y los espectáculos de adivinación se han vuelto populares.El 25 de septiembre de 1995, un niño que vive en Tokio escucha en un espectáculo de adivinación que se encontrará con la chica de sus sueños en un museo ubicado fuera de los límites de la ciudad. Visita el "Museo del Diablo" y se encuentra con una chica adentro, pero un terremoto repentino corta la reunión. El niño recita el conjuro del espectáculo de adivinación que dice "captura el corazón de la niña de sus sueños", pero el conjuro destruye el sello de un jarrón que contiene al diablo. [Disk 1]</synopsis>
       <genre>Aventura</genre>
     </locale>
     <locale lang="FR">
@@ -8524,7 +8589,7 @@ The game is slightly famous for its instruction booklet which contains a short m
       <genre>Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>2:20 a.m.nnnn15 de abril de 1912nnnnEl mayor transatlántico de la historia acaba de hundirse en el Atlántico.nnnnEl R.M.S. Titánico.nnnnTIENES una reputación de tener éxito donde otros han fallado.nnnnEs por eso que USTED ha sido seleccionado para dirigir el Titanic: Misión de recuperación. Todos los esfuerzos previos para elevar la leyenda perdida han quedado vacíos, pero sus habilidades, conexiones financieras y habilidades de liderazgo lo convierten en la opción lógica.</synopsis>
+      <synopsis>2:20 a.m.15 de abril de 1912El mayor transatlántico de la historia acaba de hundirse en el Atlántico.El R.M.S. Titánico.TIENES una reputación de tener éxito donde otros han fallado.Es por eso que USTED ha sido seleccionado para dirigir el Titanic: Misión de recuperación. Todos los esfuerzos previos para elevar la leyenda perdida han quedado vacíos, pero sus habilidades, conexiones financieras y habilidades de liderazgo lo convierten en la opción lógica.</synopsis>
       <genre>Aventura</genre>
     </locale>
     <locale lang="FR">
@@ -8560,7 +8625,7 @@ The gameplay can best be described as an attempt to merge Super Mario Bros. game
 Part of the appeal and selling point of 3-D WorldRunner was its "3-D mode," and it was the first of three games by Square to feature such an option (the other two being JJ, the sequel to 3-D WorldRunner, and Rad Racer). When the 3-D mode is selected, the game uses computer image processing techniques to combine images from two slightly different viewpoints into a single image, known as anaglyph images. The game was packaged with cardboard "anaglyph glasses," which use red and cyan color filters to moderate the light reaching each eye to create the illusion of a three dimensional image.
 
 Tobidase Daisakusen was designed by Hironobu Sakaguchi, Nobuo Uematsu, and Nasir Gebelli, all whom would later rise to fame as core members of the team behind the popular RPG Final Fantasy. The three also developed JJ - Tobidase Daisakusen Part II, the sequel to 3-D WorldRunner.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
       <synopsis>¡La batalla de tu vida cobra vida en 3-D! El más salvaje de los vaqueros espaciales está buscando aventura. Ahora lo tiene y necesita tu ayuda. Un extraño mundo aterrorizado por Grax, Alien Serpentbeast, te ha pedido, Worldrunner, ayuda. Sabiendo que puedes escapar, superar y expulsar a cualquiera o cualquier cosa, compites en la batalla. Pero esta no es una pelea ordinaria. Estas batallas te llevarán a ocho extraños planetas llenos de pozos sin fondo, estrellas fugaces y alienígenas venenosos, todos jurados para defender a su Rey Serpiente. Y cada nuevo mundo está gobernado por una Alien Serpentbeast más aterradora y más poderosa que cualquier otra cosa que hayas visto antes. ¿Estás listo, Worldrunner? ¡Te están esperando!</synopsis>
@@ -8588,7 +8653,10 @@ Tobidase Daisakusen was designed by Hironobu Sakaguchi, Nobuo Uematsu, and Nasir
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Topple Zip">
+
+
+
+        <game name="Topple Zip">
     <id>98692A</id>
     <locale lang="EN">
       <title>Topple Zip</title>
@@ -8710,7 +8778,7 @@ If two players are playing at the same time, they can align their ships vertical
 The player controls Hayate, a member of the Science Special Search Party, which protects the earth from invasions of large hostile aliens. He must run across each stage, defeating enemies with his ray gun. He must also collect energy orbs to fill a meter on the screen. When it is full, he can transform himself into the powerful Ultraman. Energy balls can appear under a variety of circumstance, such as beating an enemy or shooting points in space. Just like in the show, you can only be Ultraman for 3 minutes, and you can chop or kick the boss monsters. When only one minute remains, Ultraman will gain access to two secret powers, the Specium Ray, and the Cutting Halo. Once the boss monster is defeated, the stage is cleared.
 
 If all 11 stages are cleared and the player continues, the game will change the character to Dan Moroboshi who can transform into Ultra Seven. Although Ultra Seven's capabilities are the same as Ultraman's, the defensive power of the enemies will be higher. There are two versions of this game, one which was distributed on disk, and one which was distributed through disk writing stations (made available on March 26, 1987) and they feature slightly different background music tunes.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Hayate, un miembro de Science Special Search Party, que protege la tierra de las invasiones de grandes alienígenas hostiles. Debe correr por cada escenario, derrotando a los enemigos con su pistola de rayos. También debe recolectar orbes de energía para llenar un medidor en la pantalla.</synopsis>
@@ -9070,7 +9138,7 @@ The game was presented as a virtual multi-sport carnival called the "Epyx Winter
     <locale lang="EN">
       <title>Yuu Maze</title>
       <synopsis>Yuu Maze ("Maze Play") is a single-screen maze game akin to Namco's classic Pac-Man and its many other imitators in that the goal of the game is to drive the futuristic vehicle around a maze collecting dots while avoiding (or temporarily eliminating) the enemies. Taito, one of the largest manufacturers of Arcade games at the time (not to mention the creators of Space Invaders), would produce similarly Arcade-reminiscent games for the system in order to tap into the portion of the market nostalgic for classic Arcade experiences.Yuu Maze adds a few innovations to the format: Each maze has a different structure, different enemies and different lay-outs for the pellets that are required to complete the level; the player can find power-ups which grant weapons, shields and speed-ups to their vehicle. The player's vehicle also has some degree of inertia: There's a slight delay when attempting to accelerate after stopping or performing a U-turn, but if the player keeps moving and changes direction only at 90 degree intervals, they can keep moving at their maximum speed. This is often necessary to keep ahead of the fast moving enemies.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Puzzle</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Yuu Maze es la conversión del juego arcade de Taito, Raimais, que también se lanzó en 1988. Se puede describir rápidamente como una especie de Pac Man sobre ruedas.</synopsis>

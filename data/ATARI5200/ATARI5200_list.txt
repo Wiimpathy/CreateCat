@@ -1,106 +1,106 @@
 38966A|A.e.|A.E.|5200Basic - 3-D Maze by Jeffry Johnston|Shooter / Vertical,Shooter,|1||Broderbund|Broderbund|1982
 37916A|Adventure 2|Adventure II|Adventure 2 Demo|Action,Adventure,|1||Square Trio|AtariAge|2007
 38967A|Asteroids|Asteroids||Shooter,|4||Atari|Atari|1983
-37917A|Astro Chase|Astro Chase||Action,Shooter|1||First Star Software, Inc.|Parker Brothers|1983
+37917A|Astro Chase|Astro Chase||Action,Shooter,|1||First Star Software, Inc.|Parker Brothers|1983
 37918A|Ballblazer|Ballblazer||Sports,Action,|2||Lucasfilm Games LLC|Atari - Lucasfilm|1986
 38971A|Barroom Baseball|Barroom Baseball||Sports,|2||Atari|Atari|1983
-38972A|Battlezone|Battlezone||Action|1||Atari|Atari|1983
-37919A|Beamrider|Beamrider||Action,Shooter|4||Activision|Activision|1983
-37921A|Berzerk|BerZerk||Action|2||Stern Electronics, Inc.|Atari|1983
-44441A|Black Belt|Black Belt||Fight,|1||Atari|Atari|
-44442A|Blaster|Blaster||Shooter,|1||Viz Kidz|Williams|
-37922A|Blueprint|Blue Print||Action,Arcade|2||Bally Midway|CBS Electronics|1983
+38972A|Battlezone|Battlezone||Action,Shooter,|1||Atari|Atari|1983
+37919A|Beamrider|Beamrider||Action,Shooter,|4||Activision|Activision|1983
+37921A|Berzerk|BerZerk||Action,Puzzle,Shooter,|2||Stern Electronics, Inc.|Atari|1983
+44441A|Black Belt|Black Belt||Fight,|1||Atari|Atari|1983
+44442A|Blaster|Blaster||Shooter,|1||Viz Kidz|Williams|1984
+37922A|Blueprint|Blue Print||Action,Puzzle,|2||Bally Midway|CBS Electronics|1983
 44443A|Boogie|Boogie|Boogie Demo|Music,|1||Atari|Atari|
-37924A|Bounty Bob Strikes Back!|Bounty Bob Strikes Back!|Bounty Bob Strikes Back|Action,Arcade|2||Big Five Software|Big Five Software|1984
-37925A|Bristles|Bristles||Action,|4||First Star Software, Inc.|Atari2600.com|2004
-37926A|Buck Rogers - Planet Of Zoom|Buck Rogers : Planet of Zoom||Action,Shooter|1||Sega|Sega|1983
-37978A|River Raid|Carol Shaw's River Raid||Action,Shooter|2||Activision|Activision|1983
-37927A|Castle Blast|Castle Blast||Action,|1||Ronen Habot|Self-Published|2002
-37928A|Castle Crisis|Castle Crisis||Action,|4|||AtariAge|
+37924A|Bounty Bob Strikes Back!|Bounty Bob Strikes Back!|Bounty Bob Strikes Back|Action,Arcade,Platform,,|2||Big Five Software|Big Five Software|1984
+37925A|Bristles|Bristles||Action,Puzzle,Platformer,Puzzle,|4||First Star Software, Inc.|Atari2600.com|2004
+37926A|Buck Rogers - Planet Of Zoom|Buck Rogers : Planet of Zoom||Action,Shooter,|1||Sega|Sega|1983
+37978A|River Raid|Carol Shaw's River Raid||Action,Shooter,|2||Activision|Activision|1983
+37927A|Castle Blast|Castle Blast||Action,Shooter,|1||Ronen Habot|Self-Published|2002
+37928A|Castle Crisis|Castle Crisis||Action,Arcade,,|4|||AtariAge|2004
 37929A|Centipede|Centipede||Shooter / Vehicle, 1st person,Shooter,|2||Atari|Atari|1982
-37930A|Choplifter!|Choplifter!|Choplifter|Action|1||Brøderbund Software, Inc.|Midway Games West, Inc.|1984
-37931A|Combat 2 Advanced|Combat II Advanced||Action,|4||Mean Hamster Software, Inc.|Mean Hamster Software, Inc.|
-37932A|Congo Bongo|Congo Bongo||Action,Arcade|2||Sega|Sega|1983
-37933A|Countermeasure|Countermeasure||Action|2||Midway Games West, Inc.|Midway Games West, Inc.|1982
+37930A|Choplifter!|Choplifter!|Choplifter|Action,Shooter,|1||Brøderbund Software, Inc.|Midway Games West, Inc.|1984
+37931A|Combat 2 Advanced|Combat II Advanced||Action,Shooter,|4||Mean Hamster Software, Inc.|Mean Hamster Software, Inc.|2003
+37932A|Congo Bongo|Congo Bongo||Action,Platformer,|2||Sega|Sega|1983
+37933A|Countermeasure|Countermeasure||Action,Arcade,Shooter,,|2||Midway Games West, Inc.|Midway Games West, Inc.|1982
 37967A|Pitfall 2 - Lost Caverns|David Crane's Pitfall II : Lost Caverns||Action,Adventure,|1||Activision|Activision|1984
-37934A|Defender|Defender||Action,Shooter|2||Williams Electronics Inc.|Atari|1982
-37935A|Dig Dug|Dig Dug||Action,Arcade|2||Namco|Atari|1983
-44444A|Final Legacy|Final Legacy||Simulation,|1||Atari|Atari|
-44445A|Frisky Tom|Frisky Tom||Action,Arcade|1||Atari|Atari|1982
-37937A|Frogger|Frogger||Action,Arcade|2||Konami|Parker Brothers|1983
+37934A|Defender|Defender||Action,Shooter,|2||Williams Electronics Inc.|Atari|1982
+37935A|Dig Dug|Dig Dug||Action,Puzzle,|2||Namco|Atari|1983
+44444A|Final Legacy|Final Legacy||Simulation,|1||Atari|Atari|1984
+44445A|Frisky Tom|Frisky Tom||Action,Puzzle,|1||Atari|Atari|1982
+37937A|Frogger|Frogger||Action,Arcade,|2||Konami|Parker Brothers|1983
 37938A|Frogger 2 - Threeedeep!|Frogger II : Threeedeep!||Action,|1||Parker Brothers|Parker Brothers|1984
-37939A|Galaxian|Galaxian||Action,Shooter|2||Namco|Atari|1982
-37940A|Gorf|Gorf||Action,Shooter|2||Bally Midway|CBS Electronics|1983
-37941A|Gremlins|Gremlins||Action,Arcade|2||Atari|Atari|1986
+37939A|Galaxian|Galaxian||Action,Shooter,|2||Namco|Atari|1982
+37940A|Gorf|Gorf||Action,Shooter,|2||Bally Midway|CBS Electronics|1983
+37941A|Gremlins|Gremlins||Action,Arcade,|2||Atari|Atari|1986
 37942A|Gyruss|Gyruss||Shooter / Run and Shoot,Shooter,|2||Konami|Parker Brothers|1984
-37944A|H.e.r.o.|H.E.R.O.||Action|1||Activision|Activision|1984
+37944A|H.e.r.o.|H.E.R.O.||Action,Arcade,Platform,,|1||Activision|Activision|1984
 37943A|Haunted House 2 3d|Haunted House II 3D||Adventure,|1||Mean Hamster Software, Inc.|Mean Hamster Software, Inc.|2002
-37945A|James Bond 007|James Bond 007||Action,Shooter|2||Parker Brothers|Parker Brothers|1983
-37946A|Joust|Joust||Action,Arcade|2||Williams Electronics Inc.|Atari|1983
+37945A|James Bond 007|James Bond 007||Action,Shooter,|2||Parker Brothers|Parker Brothers|1983
+37946A|Joust|Joust||Action,Arcade,|2||Williams Electronics Inc.|Atari|1983
 44446A|Jr. Pac-man|Jr. Pac-Man|Jr Pac-Man|Arcade,|2||Atari Inc.|Atari|1984
 123004|Jum's Pong|Jum's Pong||Action,|2||Jum|Jum|2000
-37947A|Jungle Hunt|Jungle Hunt||Action,Arcade|2||Taito|Atari|1983
-37953A|K-razy Shoot-out|K-Razy Shoot-Out||Action|1||K-Byte|CBS Electronics|1983
-37948A|Kaboom!|Kaboom!||Action,Arcade|2||Activision|Activision|1983
-37949A|Kangaroo|Kangaroo||Action,Arcade|2||Sun Electronics Corp.|Atari|1983
-37950A|Keystone Kapers|Keystone Kapers||Action,Arcade|1||Activision|Activision|1984
-37951A|Klax|Klax|AE|Action,Strategy,|1||Atari|Atari2600.com|
+37947A|Jungle Hunt|Jungle Hunt||Action,Platformer,|2||Taito|Atari|1983
+37953A|K-razy Shoot-out|K-Razy Shoot-Out||Action,Puzzle,Shooter,|1||K-Byte|CBS Electronics|1983
+37948A|Kaboom!|Kaboom!||Action,Arcade,|2||Activision|Activision|1983
+37949A|Kangaroo|Kangaroo||Action,Platformer,|2||Sun Electronics Corp.|Atari|1983
+37950A|Keystone Kapers|Keystone Kapers||Action,Platformer,|1||Activision|Activision|1984
+37951A|Klax|Klax|AE|Action,Strategy,|1||Atari|Atari2600.com|2003
 37952A|Koffi - Yellow Kopter|Koffi : Yellow Kopter|Koffi - Yellow Kopter Demo-Aug 31|Action,|1||Ron Lloyd|2002|2003
-44448A|Looney Tunes Hotel|Looney Tunes Hotel||Platform,Stealth,|||Atari|Atari|1983
-37954A|Mario Bros.|Mario Bros.|Mario Brothers|Action,|2||Nintendo|Atari|1983
+44448A|Looney Tunes Hotel|Looney Tunes Hotel||Platform,|||Atari|Atari|1983
+37954A|Mario Bros.|Mario Bros.|Mario Brothers|Action,Platformer,|2||Nintendo|Atari|1983
 44449A|Meebzork|Meebzork||Adventure,|1||Atari|Atari|1983
-37955A|Megamania|MegaMania||Action,Shooter|2||Activision|Activision|1983
-37956A|Meteorites|Meteorites||Action,Shooter|2||Electra Concepts International Corp.|Electra Concepts International Corp.|1983
+37955A|Megamania|MegaMania||Action,Shooter,|2||Activision|Activision|1983
+37956A|Meteorites|Meteorites||Action,Shooter,|2||Electra Concepts International Corp.|Electra Concepts International Corp.|1983
 44450A|Microgammon Sb|Microgammon SB||Traditional,|2||Atari Inc.|Atari|1983
 44451A|Millipede|Millipede||Shooter,|2||Atari|Atari|1984
-37957A|Miner 2049er|Miner 2049er Starring Bounty Bob|Miner 2049|Action,|2||Big Five Software|Big Five Software|1983
+37957A|Miner 2049er|Miner 2049er Starring Bounty Bob|Miner 2049|Action,Platformer,|2||Big Five Software|Big Five Software|1983
 44452A|Miniature Golf|Miniature Golf||Sports,|2||Atari|Atari|1983
-37958A|Missile Command|Missile Command||Action,Shooter|2||Atari|Atari|1982
-37959A|Montezuma's Revenge|Montezuma's Revenge featuring Panama Joe||Action,Arcade|1||Parker Brothers|Parker Brothers|1984
-37960A|Moon Patrol|Moon Patrol||Action,Shooter|2||Irem|Atari|1983
-37961A|Mountain King|Mountain King||Action,Arcade|1||E.F. Dreyer, Inc.|CBS Electronics|1983
-37962A|Mr. Do!'s Castle|Mr. Do!'s Castle|Mr. Do's Castle|Action,Arcade|1||Universal Co., Ltd.|Parker Brothers|1984
-37963A|Ms. Pac-man|Ms. Pac-Man||Action,Arcade|2||General Computer Corporation|Midway|Atari
-37964A|Pac-man|Pac-Man|Jr Pac-Man|Action,Arcade|2||Namco|Atari|1982
-37965A|Pengo|Pengo||Action,Arcade|2||Coreland|SEGA Enterprises Ltd.|Atari
-37966A|Pitfall!|Pitfall!||Action,Arcade|1||Activision|Activision|1984
+37958A|Missile Command|Missile Command||Action,Shooter,|2||Atari|Atari|1982
+37959A|Montezuma's Revenge|Montezuma's Revenge featuring Panama Joe||Action,Platformer,|1||Parker Brothers|Parker Brothers|1984
+37960A|Moon Patrol|Moon Patrol||Action,Shooter,|2||Irem|Atari|1983
+37961A|Mountain King|Mountain King||Action,Platformer,|1||E.F. Dreyer, Inc.|CBS Electronics|1983
+37962A|Mr. Do!'s Castle|Mr. Do!'s Castle|Mr. Do's Castle|Action,Platformer,|1||Universal Co., Ltd.|Parker Brothers|1984
+37963A|Ms. Pac-man|Ms. Pac-Man||Action,Puzzle,|2||General Computer Corporation|Midway|Atari
+37964A|Pac-man|Pac-Man|Jr Pac-Man|Action,Puzzle,|2||Namco|Atari|1982
+37965A|Pengo|Pengo||Action,Puzzle,Puzzle,|2||Coreland|SEGA Enterprises Ltd.|Atari
+37966A|Pitfall!|Pitfall!||Action,Platformer,|1||Activision|Activision|1984
 37968A|Pole Position|Pole Position||Race, Driving,|1||Namco|Atari|1983
-37969A|Popeye|Popeye||Action,Arcade|2||Nintendo|Parker Brothers|1984
-37970A|Q*bert|Q*bert|Q-bert|Action,Arcade|2||D. Gottlieb & Co.|Parker Brothers|1983
-37971A|Qix|QIX||Action,Puzzle|2||Taito|Atari|1982
+37969A|Popeye|Popeye||Action,Platformer,|2||Nintendo|Parker Brothers|1984
+37970A|Q*bert|Q*bert|Q-bert|Action,Arcade,,|2||D. Gottlieb & Co.|Parker Brothers|1983
+37971A|Qix|QIX||Action,Puzzle,|2||Taito|Atari|1982
 37972A|Quest For Quintana Roo|Quest for Quintana Roo||Action,Adventure,|1||VSS, Inc.|Sunrise Software, Inc.|1984
 37973A|Realsports Baseball|RealSports Baseball||Sports,Action,|2||Atari|Atari|1983
 44453A|Realsports Basketball|RealSports Basketball||Sports,|2||Atari Inc.|Atari|1983
 37974A|Realsports Football|RealSports Football||Sports,|2||Atari|Atari|1982
 37975A|Realsports Soccer|RealSports Soccer||Sports,|2||Atari|Atari|1983
 37976A|Realsports Tennis|RealSports Tennis||Sports,|2||Atari|Atari|1986
-37977A|Rescue On Fractalus!|Rescue on Fractalus!|Rescue on Fractalus|Action,Aerial fighting|1||Lucasfilm Games LLC|Atari - Lucasfilm|1986
+37977A|Rescue On Fractalus!|Rescue on Fractalus!|Rescue on Fractalus|Action,Shooter,Simulation,Strategy,|1||Lucasfilm Games LLC|Atari - Lucasfilm|1986
 44454A|Road Runner|Road Runner|Roadrunner|Action,Puzzle,|1||Atari|Atari|1982
-37979A|Robotron - 2084|Robotron 2084||Action,|2||Williams Electronic Games, Inc.|Atari|1983
-37980A|Sinistar|Sinistar||Action,|2||Atari|AtariAge|1982
-37981A|Space Dungeon|Space Dungeon||Action|2||Taito|Atari|1983
-37982A|Space Invaders|Space Invaders||Action,Shooter|2||Taito|Atari|1982
+37979A|Robotron - 2084|Robotron 2084||Action,Shooter,|2||Williams Electronic Games, Inc.|Atari|1983
+37980A|Sinistar|Sinistar||Action,Arcade,Shooter,,|2||Atari|AtariAge|1982
+37981A|Space Dungeon|Space Dungeon||Action,Shooter,|2||Taito|Atari|1983
+37982A|Space Invaders|Space Invaders||Action,Shooter,|2||Taito|Atari|1982
 37983A|Space Shuttle - A Journey Into Space|Space Shuttle : A Journey Into Space||Simulation,|1||Activision|Activision|1983
 44455A|Spitfire|Spitfire||Shooter,|1||Atari Inc.|Atari|1984
-44456A|Sport Goofy|Sport Goofy||Action,Sports,|2||Atari|Atari|1983
+44456A|Sport Goofy|Sport Goofy||Sports,|2||Atari|Atari|1983
 37984A|Star Raiders|Star Raiders||Action,Strategy,|1||Atari|Atari|1982
-37985A|Star Trek - Strategic Operations Simulator|Star Trek : Strategic Operations Simulator||Action,Spaceship|1||Sega|Sega|1983
+37985A|Star Trek - Strategic Operations Simulator|Star Trek : Strategic Operations Simulator||Action,Spaceship,|1||Sega|Sega|1983
 37987A|Star Wars - Return Of The Jedi - Death Star Battle|Star Wars : Return of the Jedi, Death Star Battle|Star Wars - ROTJ - Death Star Battle|Action,|2||Parker Brothers|Parker Brothers|1983
-37986A|Star Wars|Star Wars : The Arcade Game|Star Wars - The Arcade Game|Action,Shooter|1||Atari|Parker Brothers|1984
+37986A|Star Wars|Star Wars : The Arcade Game|Star Wars - The Arcade Game|Action,Arcade,Rail Shooter,Shooter,,|1||Atari|Parker Brothers|1984
 44457A|Stargate|Stargate||Shooter,|2||Atari|Atari|1984
-37988A|Super Breakout|Super Breakout||Action,Breakout|4||Atari|Atari|1982
-37989A|Super Cobra|Super Cobra||Action,Shooter|2||Konami|Parker Brothers|1983
+37988A|Super Breakout|Super Breakout||Action,Breakout,|4||Atari|Atari|1982
+37989A|Super Cobra|Super Cobra||Action,Shooter,|2||Konami|Parker Brothers|1983
 44458A|Super Pac-man|Super Pac-Man||Arcade,|2||Atari Inc.|Atari|1982
-44459A|Tempest|Tempest||,Shooter||||Atari|1983
+44459A|Tempest|Tempest||Shooter,||||Atari|1983
 37915A|Activision Decathlon, The|The Activision Decathlon||Sports,|4||Activision|Activision|1983
-37936A|Dreadnaught Factor, The|The Dreadnaught Factor||Action,Shooter|1||Cheshire Engineering|Activision|1983
+37936A|Dreadnaught Factor, The|The Dreadnaught Factor||Action,Shooter,|1||Cheshire Engineering|Activision|1983
 44447A|Last Starfighter, The|The Last Starfighter||Simulation,|1||Atari|Atari|1984
 44460A|Track And Field|Track and Field||Arcade,|4||Atari Inc.|Atari|1984
-37990A|Vanguard|Vanguard||Action,Shooter|2||SNK|Atari|1983
-37991A|Wizard Of Wor|Wizard of Wor||Action|2||Bally Midway|CBS Electronics|1983
-44461A|Xari Arena|Xari Arena||Action,Breakout|2||Atari|Atari|1983
+37990A|Vanguard|Vanguard||Action,Shooter,|2||SNK|Atari|1983
+37991A|Wizard Of Wor|Wizard of Wor||Action,Puzzle,Shooter,|2||Bally Midway|CBS Electronics|1983
+44461A|Xari Arena|Xari Arena||Action,Breakout,|2||Atari|Atari|1983
 44462A|Xevious|Xevious||Shooter,|2||Atari|Atari|1984
-44463A|Yellow Submarine|Yellow Submarine|Yellow Submarine Demo|Action,|1||Atari|Atari|1982
-37992A|Zaxxon|Zaxxon||Action,Shooter|2||Sega|Sega|1984
+44463A|Yellow Submarine|Yellow Submarine|Yellow Submarine Demo|Action,Shooter,,|1||Atari|Atari|1982
+37992A|Zaxxon|Zaxxon||Action,Shooter,|2||Sega|Sega|1984
 37993A|Zenji|Zenji||Action,Strategy,|2||Activision|Activision|1984
-37994A|Zone Ranger|Zone Ranger||Action,Shooter|2||Activision|Activision|1984
+37994A|Zone Ranger|Zone Ranger||Action,Puzzle,Shooter,|2||Activision|Activision|1984

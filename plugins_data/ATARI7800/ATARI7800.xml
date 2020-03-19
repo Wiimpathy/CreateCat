@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812041646" games="79"/>
+    <WiiTDB version="201812041646" games="79"/>
   <game name="3d Asteroids">
     <id>108706</id>
     <locale lang="EN">
@@ -180,7 +180,7 @@ Spielen Sie die Rolle eines Raumschiffpiloten, der in einer gigantischen Asteroi
     <locale lang="EN">
       <title>Asteroids Deluxe</title>
       <synopsis>A "Deluxe" version of Atari's original Asteroids, Asteroids Deluxe swaps the vector graphics for bitmaps. The basic gameplay is still the same: You fly your triangular ship around a space which wraps around the edges, filled with asteroids. Shooting the asteroids splits them into two smaller ones, until they are small enough to be destroyed. If you collide with an asteroid, you're dead, unless you activate your forcefield which will bounce the ship off the asteroids. Sometimes, a flying saucer flies through the screen, shooting everywhere. Additional asteroid shapes also show up, such as the blue target-seeking hexagons which split up into smaller triangular missiles.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>...Parece que has estado aquí antes, pero esta vez, ¡es mucho peor! Los asteroides son más rápidos, las naves enemigas son tiradoras mucho más habilidosas que la primera que estuviste en esta galaxia... ¿y qué es esa extraña nave en forma de hexágono que sigo oyendo? ¡Los asteroides te zambullen! Atrapado en una gigantesca nube de asteroides, tu nave espacial se lanza hacia su perdición. ¡Tendrás que pulverizar todos los asteroides con tu cañón de fotones para salvar tu nave y tu vida! Los escombros de un asteroide que explota rebota en el casco de tu nave. Un destello brillante parpadea en la pantalla de visualización. ¡Así que de ahí vinieron los escombros! ¡El asteroide fue volado por un Alien Robot Saucer! Los Alien Robot Saucers también están atrapados en la nube de asteroides. ¡Y te disparan! Sabes que el metal en el casco de tu nave se registrará en sus buscadores de objetivos antes que los asteroides. ¡Los platillos podrían ser un peligro peor que los asteroides!.</synopsis>
@@ -211,10 +211,10 @@ Spielen Sie die Rolle eines Raumschiffpiloten, der in einer gigantischen Asteroi
     <locale lang="EN">
       <title>B*nq</title>
       <synopsis>b*nQ is an attempt to bring Q*bert to the Atari 7800. In the game, you must hop from one block to the next, changing its color, without getting stomped by the enemies or hopping off the pyramid. After you have changed all the block's colors, it is off to the next level.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Si alguna vez jugaste el juego de arcade de 1982 Q * bert, entonces ya estás familiarizado con b * nQ. Ken Siders ha creado una reproducción fiel del popular juego de arcade para el Atari 7800 ProSystem. Este es el segundo homebrew Atari 7800 de Ken Siders escrito desde cero. Su primero fue Beef Drop, que es uno de los puertos más precisos del juego arcade Burgertime para cualquier sistema de juego clásico.nnnnEl objetivo de b * nQ es sumar tantos puntos como sea posible saltando sobre cubos, saltando sobre objetos verdes y atrayendo a la serpiente hasta su muerte. Cuando todos los cubos hayan cambiado al color "cambiar a", pasará a la siguiente ronda. Después de cada cuatro rondas avanzarás al siguiente nivel. Los niveles posteriores requieren saltar en cubos varias veces y los cubos cambiarán en diferentes secuencias de color, aumentando el desafío de avanzar a la siguiente ronda.</synopsis>
+      <synopsis>Si alguna vez jugaste el juego de arcade de 1982 Q * bert, entonces ya estás familiarizado con b * nQ. Ken Siders ha creado una reproducción fiel del popular juego de arcade para el Atari 7800 ProSystem. Este es el segundo homebrew Atari 7800 de Ken Siders escrito desde cero. Su primero fue Beef Drop, que es uno de los puertos más precisos del juego arcade Burgertime para cualquier sistema de juego clásico.El objetivo de b * nQ es sumar tantos puntos como sea posible saltando sobre cubos, saltando sobre objetos verdes y atrayendo a la serpiente hasta su muerte. Cuando todos los cubos hayan cambiado al color "cambiar a", pasará a la siguiente ronda. Después de cada cuatro rondas avanzarás al siguiente nivel. Los niveles posteriores requieren saltar en cubos varias veces y los cubos cambiarán en diferentes secuencias de color, aumentando el desafío de avanzar a la siguiente ronda.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -292,14 +292,14 @@ A player winning 10 consecutive points automatically wins the game.</synopsis>
       <synopsis>You and your grandpa just put your life savings into buying a small farm a few acres for growing vegetables and raising horses, a place to get away from the battle of city life. But you discover that the entire farm is full of things that are determined to drive you away.
 
 Barnyard Blaster is a shooting gallery type game for use with the Atari XG-1 light gun or the joystick. There are three levels plus one bonus level.Your goal is to rid your farm of vermin by shooting targets in each of three levels. Between each level you'll play Gramps' bonus screen where you can brush up on your shooting. But in order to proceed through each level, you must achieve a certain percentage of shooting accuracy. At the end of the game you're given a ranking depending on how well you did.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter,</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Tú y el abuelo están abajo en la granja. Hay criaturas, botellas y varmints en todas partes, en el establo, en el patio y en el maizal. El abuelo te ha dado una pistola ligera Atari para ayudar a proteger la granja. Los objetivos móviles son un desafío. ¿Puedes golpearlos? Si no, ¡prueba las verduras! Son divertidos para disparar a.nnnnEn el corral, las botellas y latas en la cerca proporcionan una gran práctica para calentar el viejo hierro de tiro. Pero el objetivo perfecto solo no es suficiente. También necesitarás velocidad.nnEn el campo de maíz, las aves descienden del cielo y los conejos corren entre los tallos, los búhos y otras plagas aparecen dentro de un granero. Cada escena solo puede alcanzarse al golpear lo suficiente en la escena anterior. Una vez que te centras en algunos puntajes de disparos sofisticados, Gramps te ofrece una ronda de bonificación tirando botellas objetivo en el aire.</synopsis>
+      <synopsis>Tú y el abuelo están abajo en la granja. Hay criaturas, botellas y varmints en todas partes, en el establo, en el patio y en el maizal. El abuelo te ha dado una pistola ligera Atari para ayudar a proteger la granja. Los objetivos móviles son un desafío. ¿Puedes golpearlos? Si no, ¡prueba las verduras! Son divertidos para disparar a.En el corral, las botellas y latas en la cerca proporcionan una gran práctica para calentar el viejo hierro de tiro. Pero el objetivo perfecto solo no es suficiente. También necesitarás velocidad. En el campo de maíz, las aves descienden del cielo y los conejos corren entre los tallos, los búhos y otras plagas aparecen dentro de un granero. Cada escena solo puede alcanzarse al golpear lo suficiente en la escena anterior. Una vez que te centras en algunos puntajes de disparos sofisticados, Gramps te ofrece una ronda de bonificación tirando botellas objetivo en el aire.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Vous et votre grand-père avez simplement investi votre vie dans l'achat d'une petite ferme de quelques acres pour cultiver des légumes et élever des chevaux, un endroit pour échapper à la bataille de la vie urbaine. Mais vous découvrez que toute la ferme est pleine de choses qui sont déterminées à vous chasser.nnnnBarnyard Blaster est un jeu de tir de type galerie à utiliser avec le pistolet léger Atari XG-1 ou le joystick. Il y a trois niveaux plus un niveau bonus. Votre objectif est de débarrasser votre ferme de la vermine en tirant sur des cibles dans chacun des trois niveaux. Entre chaque niveau, vous jouerez sur l'écran bonus de Gramps où vous pourrez rafraîchir votre tir. Mais pour passer à travers chaque niveau, vous devez atteindre un certain pourcentage de précision de tir. À la fin de la partie, vous obtenez un classement en fonction de votre performance.</synopsis>
+      <synopsis>Vous et votre grand-père avez simplement investi votre vie dans l'achat d'une petite ferme de quelques acres pour cultiver des légumes et élever des chevaux, un endroit pour échapper à la bataille de la vie urbaine. Mais vous découvrez que toute la ferme est pleine de choses qui sont déterminées à vous chasser.Barnyard Blaster est un jeu de tir de type galerie à utiliser avec le pistolet léger Atari XG-1 ou le joystick. Il y a trois niveaux plus un niveau bonus. Votre objectif est de débarrasser votre ferme de la vermine en tirant sur des cibles dans chacun des trois niveaux. Entre chaque niveau, vous jouerez sur l'écran bonus de Gramps où vous pourrez rafraîchir votre tir. Mais pour passer à travers chaque niveau, vous devez atteindre un certain pourcentage de précision de tir. À la fin de la partie, vous obtenez un classement en fonction de votre performance.</synopsis>
       <genre>Action</genre>
     </locale>
     <locale lang="DE">
@@ -356,7 +356,7 @@ The referee does not call fouls, but does hurl knives at the players.</synopsis>
     <locale lang="EN">
       <title>Beef Drop</title>
       <synopsis>This game is an attempt to bring a better version of the coin-op game BurgerTime to the Atari 8-bit computer and any version to the Atari 5200 and Atari 7800. The game play is the same as the coin-op game. You, the chef, must make burgers by walking on the parts so they drop down to plates below. You are pursued by Mr. Yolk (a fried egg), Mr. Dill (a pickle slice) and Frank (a hot dog). If you are cornered, you can throw pepper on the food to stop it for a short time. If you can catch them in some burger parts, you get bonus points. Occasionally, a bonus item, like an ice cream cone, will appear and you can collect it for points.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Beef Drop es un puerto del popular juego de arcade Burgertime, que Ken Siders portó por primera vez a las computadoras Atari 5200 y 8 bits. Esta versión de Beef Drop es un soporte de sonido POKEY, para un audio mucho mejor que el 7800 puede producir sin este chip. La versión 7800 también presenta mejores gráficos que la versión de 5200/8 bits, por lo que la versión 7800 es la versión definitiva de Beef Drop.</synopsis>
@@ -467,7 +467,7 @@ Destroyed mushroom - 1 points</synopsis>
       <synopsis>Choplifter is a side-scrolling action/arcade game that puts you in command of an attack chopper.  Your mission: Go behind enemy lines and rescue up to 16 hostages per level.  Be careful, though, because tanks and enemy aircraft will try to stop you -- and they won't stop shooting while you are rescuing those hostages!
 
 Originally released for Apple II home computers, Choplifter was later ported to the arcades and a number of video game consoles.  Many imitators and homages would follow.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>En Choplifter, el jugador asume el rol de piloto de helicóptero. El jugador intenta salvar a rehenes retenidos en prisión por el malvado Bungeling Empire. El jugador debe recoger a los rehenes y transportarlos de manera segura a la base, mientras lucha contra los tanques hostiles y otros combatientes enemigos.</synopsis>
@@ -497,7 +497,7 @@ Originally released for Apple II home computers, Choplifter was later ported to 
     <locale lang="EN">
       <title>Commando</title>
       <synopsis>Several levels await your super-tough Commando in this arcade conversion. Armed with only a standard rifle and a few grenades you must take on hordes of Nazis. Some are wandering around in the open, while others have picked out hiding places, which you must approach from certain angles. Trees, rivers and bridges create a varied combat-like terrain and must be incorporated into your thinking. Extra grenades can be collected, and will definitely be required, as they allow you to kill form distance and thus avoid some enemy shots.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Varios niveles esperan a tu Comando en esta conversión de arcade. Armado con solo un rifle estándar y algunas granadas, debes enfrentarte a hordas de nazis. Algunos están deambulando a la intemperie, mientras que otros han elegido los escondites, a los que debes acercarte desde ciertos ángulos. Los árboles, los ríos y los puentes crean un variado terreno similar a un combate y deben incorporarse a su forma de pensar. Se pueden recoger granadas extra, y definitivamente serán necesarias, ya que te permiten matar la distancia de forma y así evitar algunos tiros enemigos.</synopsis>
@@ -532,11 +532,11 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
       <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Como ornitólogo profesional, te alegra descubrir que se han encontrado algunos cálaos sudamericanos en tu "árbol de yema vieja". Pero mientras los cálaos se alimentan, un grupo de traviesos azulejos, búhos y serpientes comienzan a saquear sus nidos y robar huevos.nnnnHorrorizado, coges tu honda y comienzas a golpear a las criaturas merodeadoras. Pero debes tener cuidado. Si golpeas a un ave que lleva huevos, se le cae el huevo y debes actuar rápido para atraparlo antes de que toque el suelo y devolverlo a un nido. Al mismo tiempo, debes observar a las serpientes que no puedes perderte. Si puede proteger los huevos el tiempo suficiente, puede llevarlos a otro sitio de anidación. ¡Pero cuidado, las criaturas que roban huevos están en todas partes!</synopsis>
+      <synopsis>Como ornitólogo profesional, te alegra descubrir que se han encontrado algunos cálaos sudamericanos en tu "árbol de yema vieja". Pero mientras los cálaos se alimentan, un grupo de traviesos azulejos, búhos y serpientes comienzan a saquear sus nidos y robar huevos.Horrorizado, coges tu honda y comienzas a golpear a las criaturas merodeadoras. Pero debes tener cuidado. Si golpeas a un ave que lleva huevos, se le cae el huevo y debes actuar rápido para atraparlo antes de que toque el suelo y devolverlo a un nido. Al mismo tiempo, debes observar a las serpientes que no puedes perderte. Si puede proteger los huevos el tiempo suficiente, puede llevarlos a otro sitio de anidación. ¡Pero cuidado, las criaturas que roban huevos están en todas partes!</synopsis>
       <genre>Acción,Tiro</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>En tant que ornithologue professionnel, vous êtes ravis de découvrir que certains calaos rares d'Amérique du Sud ont niché dans votre « vieil arbre jaune. » Mais alors que les calaos sont en train de se nourrir, un groupe de merles bleus malicieux, de hiboux et de serpents commencent à percer leurs nids et à voler des ?ufs.nnnnVous sortez votre fronde et commencez à frapper les créatures en maraude. Mais vous devez être prudent. Si vous frappez un oiseau porteur d'?ufs, il laisse tomber l'?uf et vous devez agir rapidement pour l'attraper avant qu'il ne touche le sol et le ramener dans un nid. En même temps, vous devez surveiller les serpents qui peuvent se faufiler jusqu'aux nids et engloutir les ?ufs. Si vous pouvez protéger les oeufs assez longtemps, vous pouvez les emmener à un autre site de nidification.</synopsis>
+      <synopsis>En tant que ornithologue professionnel, vous êtes ravis de découvrir que certains calaos rares d'Amérique du Sud ont niché dans votre « vieil arbre jaune. » Mais alors que les calaos sont en train de se nourrir, un groupe de merles bleus malicieux, de hiboux et de serpents commencent à percer leurs nids et à voler des ?ufs.Vous sortez votre fronde et commencez à frapper les créatures en maraude. Mais vous devez être prudent. Si vous frappez un oiseau porteur d'?ufs, il laisse tomber l'?uf et vous devez agir rapidement pour l'attraper avant qu'il ne touche le sol et le ramener dans un nid. En même temps, vous devez surveiller les serpents qui peuvent se faufiler jusqu'aux nids et engloutir les ?ufs. Si vous pouvez protéger les oeufs assez longtemps, vous pouvez les emmener à un autre site de nidification.</synopsis>
       <genre>Action,Tir</genre>
     </locale>
     <locale lang="DE">
@@ -565,7 +565,7 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
       <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Sobre desiertos abrasadores, a través de oscuras cavernas heladas, alrededor de un volcán ardiente, y bajo la frondosa cubierta de una jungla humeante, saliste con tres valientes amigos para recuperar los tesoros robados por el Evil Master. Tu objetivo es su castillo muy, muy lejos.nnnnTus amigos están ligeramente armados, pero llevas tu ballesta de confianza. Al disparar sus flechas rápidas, puedes salvarte a ti mismo y a tus compañeros de los peligrosos ataques de las criaturas de la Maestra Malvada: escorpiones, hormigas, pterodáctilos, plantas voraces, murciélagos, serpientes y otros seres horribles.nnnnCuando llegues al castillo, los arqueros expertos del malvado maestro te esperan listos para probar su puntería con flechas mortales. Dentro del castillo, un dragón feroz también espera, guardando el tesoro con su aliento ardiente.nnnnPocos aventureros se han atrevido a hacer la caminata. Nadie ha vuelto vivo.</synopsis>
+      <synopsis>Sobre desiertos abrasadores, a través de oscuras cavernas heladas, alrededor de un volcán ardiente, y bajo la frondosa cubierta de una jungla humeante, saliste con tres valientes amigos para recuperar los tesoros robados por el Evil Master. Tu objetivo es su castillo muy, muy lejos.Tus amigos están ligeramente armados, pero llevas tu ballesta de confianza. Al disparar sus flechas rápidas, puedes salvarte a ti mismo y a tus compañeros de los peligrosos ataques de las criaturas de la Maestra Malvada: escorpiones, hormigas, pterodáctilos, plantas voraces, murciélagos, serpientes y otros seres horribles.Cuando llegues al castillo, los arqueros expertos del malvado maestro te esperan listos para probar su puntería con flechas mortales. Dentro del castillo, un dragón feroz también espera, guardando el tesoro con su aliento ardiente.Pocos aventureros se han atrevido a hacer la caminata. Nadie ha vuelto vivo.</synopsis>
       <genre>Acción,Tiro</genre>
     </locale>
     <locale lang="FR">
@@ -610,7 +610,7 @@ After each mission you will receive a Mission Rating which is based on your flyi
       <genre>Action,Simulation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Conviértete en un Aviador naval F-14 en misiones de búsqueda y destrucción mientras esquivas y disparas a los cabos enemigos en combates sangrientos con tus cañones de 20 mm y misiles aire-aire.nnnnSu cabina cuenta con tecnología de punta, cortesía de la Fuerza Aérea de EE. UU .: Pantalla y computadora principal, Indicador de alerta Bogey, Indicador de fuerza G, Medidas de contador electrónicas y un Indicador de sobrecalentamiento de cañón (sí, puede sobrecalentarse). .y si te sientes a la altura, dale un impulso a Mach 1.0!</synopsis>
+      <synopsis>Conviértete en un Aviador naval F-14 en misiones de búsqueda y destrucción mientras esquivas y disparas a los cabos enemigos en combates sangrientos con tus cañones de 20 mm y misiles aire-aire.Su cabina cuenta con tecnología de punta, cortesía de la Fuerza Aérea de EE. UU .: Pantalla y computadora principal, Indicador de alerta Bogey, Indicador de fuerza G, Medidas de contador electrónicas y un Indicador de sobrecalentamiento de cañón (sí, puede sobrecalentarse). .y si te sientes a la altura, dale un impulso a Mach 1.0!</synopsis>
       <genre>Acción,Simulación</genre>
     </locale>
     <locale lang="FR">
@@ -652,10 +652,10 @@ Après chaque mission, vous recevrez une note de mission basée sur votre compé
     <locale lang="EN">
       <title>Dark Chambers</title>
       <synopsis>Dark Chambers is an arcade action game similar to Gauntlet. You are an explorer in an underground maze; your goal is to survive the 26 different levels and collect as many of the hidden treasures as you can. Hidden somewhere in each of the levels is an exit which will take you on to the next level. Trying to stop you from completing your quest are a wide variety of creatures, including zombies, wraiths, skeletons, wizards, and the grim reaper. Each of the creatures in the game has a different strength; when you shoot a creature, it will transform into the next weaker creature. Eventually a creature will become the weakest one (a zombie) at which point it can be destroyed. In addition to the creatures and treasures, other items that can be found in the maze are keys (to open doors), potions (to restore health), poison (drains health), guns (increases your firing rate), traps, shields, and bombs. The game is played from an overhead point of view, and is for one player or two players simultaneously.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Estás en una peligrosa búsqueda del tesoro, en el profundo mundo subterráneo de Dark Chambers. Espectros, magos y esqueletos enmohecidos te rodean. A medida que te mueves a través de este laberinto serpenteante, eres perseguido por la parca.nnnnLas salidas que ves solo te llevan más profundo en el laberinto. Si encuentra las armas estratégicamente colocadas, puede defenderse de sus enemigos mientras busca el tesoro escondido. Las pociones secretas que encuentres en el camino renovarán tu fortaleza. Pero ten cuidado con las trampas ocultas y los venenos mortales.nnnnTu fuerza te ayudará a sobrevivir a los ghouls más débiles, pero ¿eres el mejor para el más fuerte? Entra en el mundo subterráneo de Dark Chambers y descúbrelo.</synopsis>
+      <synopsis>Estás en una peligrosa búsqueda del tesoro, en el profundo mundo subterráneo de Dark Chambers. Espectros, magos y esqueletos enmohecidos te rodean. A medida que te mueves a través de este laberinto serpenteante, eres perseguido por la parca.Las salidas que ves solo te llevan más profundo en el laberinto. Si encuentra las armas estratégicamente colocadas, puede defenderse de sus enemigos mientras busca el tesoro escondido. Las pociones secretas que encuentres en el camino renovarán tu fortaleza. Pero ten cuidado con las trampas ocultas y los venenos mortales.Tu fuerza te ayudará a sobrevivir a los ghouls más débiles, pero ¿eres el mejor para el más fuerte? Entra en el mundo subterráneo de Dark Chambers y descúbrelo.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -715,7 +715,7 @@ Après chaque mission, vous recevrez une note de mission basée sur votre compé
     <locale lang="EN">
       <title>Dig Dug</title>
       <synopsis>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves.) Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>El objetivo de Dig Dug es eliminar a los monstruos que viven en el subsuelo inflándolos con una bomba de aire hasta que exploten, o arrojando piedras sobre ellos. Hay dos tipos de enemigos en el juego: "Pookas" (una raza de monstruos rojos redondos, que se dice que son modelos de tomates, que usan gafas amarillas) y "Fygars" (una raza de dragones verdes que pueden respirar fuego mientras sus alas destello).</synopsis>
@@ -797,7 +797,7 @@ Like the original Donkey Kong, the earlier 1980's console versions do not have a
       <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Donkey Kong el simio está de vuelta. Solo que esta vez el vengativo Mario mantiene prisionero al mono. Por suerte, el simio tiene un hijo, Donkey Kong Junior, que intentará rescatar a papá.nnnnPara liberar a su padre, Junior debe abrirse camino a través de una jungla oscura y traicionera. Corriendo contra el tiempo, el pequeño se sube y se balancea sobre las vides, mientras evita los terribles Snapjaws.nnnnSi llega a las llaves de la jaula de papá, Junior debe empujarlos a la parte superior de las cadenas mientras se mantiene alejado de Snapjaws y una nueva bandada de desagradables recogedores de Nitpickers. Pero incluso entonces su misión no ha terminado. Una vez que alcanza la guarida de Mario, debe pasar una prueba más contra el tiempo.nnnnEl niño necesita ayuda. No te quedes ahí parado! ¡Ayuda al pobre Junior a salvar a su padre!</synopsis>
+      <synopsis>Donkey Kong el simio está de vuelta. Solo que esta vez el vengativo Mario mantiene prisionero al mono. Por suerte, el simio tiene un hijo, Donkey Kong Junior, que intentará rescatar a papá.Para liberar a su padre, Junior debe abrirse camino a través de una jungla oscura y traicionera. Corriendo contra el tiempo, el pequeño se sube y se balancea sobre las vides, mientras evita los terribles Snapjaws.Si llega a las llaves de la jaula de papá, Junior debe empujarlos a la parte superior de las cadenas mientras se mantiene alejado de Snapjaws y una nueva bandada de desagradables recogedores de Nitpickers. Pero incluso entonces su misión no ha terminado. Una vez que alcanza la guarida de Mario, debe pasar una prueba más contra el tiempo.El niño necesita ayuda. No te quedes ahí parado! ¡Ayuda al pobre Junior a salvar a su padre!</synopsis>
       <genre>Acción,Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -830,10 +830,10 @@ Par rapport à son prédécesseur, cette suite apporte un nouvel élément de pl
       <synopsis>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.
 
 Using whatever techniques they have at their disposal, from the basic punches and kicks to the invulnerable elbow strike, as well any weapon that comes into their hands, the Lee brothers must pursue the gang through the city slum, industrial area and the forest before reaching their hideout to confront the big boss, Willy.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Fighter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Los hermanos gemelos Billy y Jimmy Lee aprendieron a luchar por el camino difícil: por la supervivencia en las implacables calles de la ciudad. Su estilo de combate (maniobras clásicas de artes marciales mezcladas con cualquier cosa) se convierte en armas letales para caminar.nnnnAhora, los Lees deben reunir todas sus habilidades de lucha y astucia para enfrentar el mayor desafío de sus vidas: rescatar a la novia de Billy, Marion. Ha sido secuestrada por los Black Warriors, la pandilla callejera salvaje liderada por el misterioso Shadow Boss.nnnnLos gemelos persiguen a los Black Warriors por las calles de la ciudad y sus alrededores. Finalmente se abren camino hacia la Base del enemigo secreto. Allí, Billy y Jimmy se encuentran con el Jefe de la Sombra. ¡Es una batalla hasta el final, con Marion como premio!</synopsis>
+      <synopsis>Los hermanos gemelos Billy y Jimmy Lee aprendieron a luchar por el camino difícil: por la supervivencia en las implacables calles de la ciudad. Su estilo de combate (maniobras clásicas de artes marciales mezcladas con cualquier cosa) se convierte en armas letales para caminar.Ahora, los Lees deben reunir todas sus habilidades de lucha y astucia para enfrentar el mayor desafío de sus vidas: rescatar a la novia de Billy, Marion. Ha sido secuestrada por los Black Warriors, la pandilla callejera salvaje liderada por el misterioso Shadow Boss.Los gemelos persiguen a los Black Warriors por las calles de la ciudad y sus alrededores. Finalmente se abren camino hacia la Base del enemigo secreto. Allí, Billy y Jimmy se encuentran con el Jefe de la Sombra. ¡Es una batalla hasta el final, con Marion como premio!</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -898,7 +898,7 @@ A password feature let's you continue where you left off.</synopsis>
       <genre>Race, Driving,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El año es 2089. Una colisión con un cometa ha dejado a la Tierra tambaleante por el envenenamiento por radiación. Hay pocas esperanzas para la supervivencia de la humanidad. Depende de usted ayudar a las pocas personas que quedan.nnnnDebe abandonar la fortaleza protectora Albagon y entregar la vacuna contra la radiación recientemente desarrollada a los pocos sobrevivientes. Tu viaje no será fácil. Secuaces infames están esperando golpearte y robar la vacuna para garantizar que sobrevivirán para gobernar el planeta. Cada conductor en el camino está fuera de ti. Tu única esperanza es conseguirlos primero.nnnnDebes encontrar el cohete listo para lanzar un satélite que pueda anular los efectos de este accidente cósmico que puso al mundo patas arriba. Si eres lo suficientemente agudo como para aprender y recordar las palabras clave secretas y lo suficientemente fuerte como para vivir para usarlas, ¡puedes lanzar el cohete y salvar el mundo!nnnn¡Buena suerte! La humanidad está en tus manos.</synopsis>
+      <synopsis>El año es 2089. Una colisión con un cometa ha dejado a la Tierra tambaleante por el envenenamiento por radiación. Hay pocas esperanzas para la supervivencia de la humanidad. Depende de usted ayudar a las pocas personas que quedan.Debe abandonar la fortaleza protectora Albagon y entregar la vacuna contra la radiación recientemente desarrollada a los pocos sobrevivientes. Tu viaje no será fácil. Secuaces infames están esperando golpearte y robar la vacuna para garantizar que sobrevivirán para gobernar el planeta. Cada conductor en el camino está fuera de ti. Tu única esperanza es conseguirlos primero.Debes encontrar el cohete listo para lanzar un satélite que pueda anular los efectos de este accidente cósmico que puso al mundo patas arriba. Si eres lo suficientemente agudo como para aprender y recordar las palabras clave secretas y lo suficientemente fuerte como para vivir para usarlas, ¡puedes lanzar el cohete y salvar el mundo!¡Buena suerte! La humanidad está en tus manos.</synopsis>
       <genre>Carreras, Conducción,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -931,7 +931,7 @@ A password feature let's you continue where you left off.</synopsis>
       <genre>Sports,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Ponte tus guantes de boxeo y entra al ring. Esta noche vas a probar tu destreza contra los luchadores más duros del mundo. Para prepararte para este evento, entrenarás en habilidades de puñetazo, juego de pies, sincronización y combate. Luego, ingresarás a tus luchadores en los partidos de campeonato y torneos.nnnnA medida que la tensión aumenta en la arena llena de humo, miras a tu contendor con cautela. Ten cuidado y buena suerte. ¡Esta podría ser tu gran noche!</synopsis>
+      <synopsis>Ponte tus guantes de boxeo y entra al ring. Esta noche vas a probar tu destreza contra los luchadores más duros del mundo. Para prepararte para este evento, entrenarás en habilidades de puñetazo, juego de pies, sincronización y combate. Luego, ingresarás a tus luchadores en los partidos de campeonato y torneos.A medida que la tensión aumenta en la arena llena de humo, miras a tu contendor con cautela. Ten cuidado y buena suerte. ¡Esta podría ser tu gran noche!</synopsis>
       <genre>Deportes,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -961,10 +961,10 @@ A password feature let's you continue where you left off.</synopsis>
     <locale lang="EN">
       <title>Food Fight</title>
       <synopsis>You play as Charley trying to eat an ice cream cone. But first you must avoid the chefs that are out to get you: Angelo, Zorba, Oscar, and Jacques. Avoid the food thrown at you by the chefs to get the cone. You can also throw your own food at the chefs to slow them down.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡Prisa! ¡Prisa! ¡Un paso al frente! ¡Gana tus postres!nnnnUna vez hubo un tipo llamado Charley Chuck. Más que nada, a Charley le encantaba comer. Entonces, cuando fue al carnaval un caluroso día de verano, se dirigió directamente al concurso Food Fight.</synopsis>
+      <synopsis>¡Prisa! ¡Prisa! ¡Un paso al frente! ¡Gana tus postres!Una vez hubo un tipo llamado Charley Chuck. Más que nada, a Charley le encantaba comer. Entonces, cuando fue al carnaval un caluroso día de verano, se dirigió directamente al concurso Food Fight.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1067,7 +1067,7 @@ A summary screen appears when the game is over, giving you both your final score
       <genre>Sports</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡Qué noche para un juego de hockey! Después de semanas de entrenamiento intensivo en el hielo, finalmente estás en el cara a cara, esperando el silbato inicial. A medida que el disco se desliza sobre la superficie lisa y helada, lo tomas en el centro del hielo, logrando romper la línea azul a la derecha de tu oponente. Whoooossh. ¡Qué reflejos! ¡Qué velocidad!nnnnEl rocío del hielo en tu rostro te ciega momentáneamente, pero continúas patinando furiosamente, avanzando hacia la meta contraria. Puedes sentir el aliento caliente de tu retador en la parte posterior de tu cuello, a medida que la distancia entre tú y tu hermano se hace cada vez más pequeña. Pero antes de que pueda arreglárselas para robar el disco, mueves tu bastón y lo golpeas, ¡es un golpe mortal! ¡El punto es tuyo!nnnnConsigue tres goles en un juego, ¡y es un truco!</synopsis>
+      <synopsis>¡Qué noche para un juego de hockey! Después de semanas de entrenamiento intensivo en el hielo, finalmente estás en el cara a cara, esperando el silbato inicial. A medida que el disco se desliza sobre la superficie lisa y helada, lo tomas en el centro del hielo, logrando romper la línea azul a la derecha de tu oponente. Whoooossh. ¡Qué reflejos! ¡Qué velocidad!El rocío del hielo en tu rostro te ciega momentáneamente, pero continúas patinando furiosamente, avanzando hacia la meta contraria. Puedes sentir el aliento caliente de tu retador en la parte posterior de tu cuello, a medida que la distancia entre tú y tu hermano se hace cada vez más pequeña. Pero antes de que pueda arreglárselas para robar el disco, mueves tu bastón y lo golpeas, ¡es un golpe mortal! ¡El punto es tuyo!Consigue tres goles en un juego, ¡y es un truco!</synopsis>
       <genre>Deportes</genre>
     </locale>
     <locale lang="FR">
@@ -1097,7 +1097,7 @@ A summary screen appears when the game is over, giving you both your final score
       <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Eres miembro de esos especialistas de combate de élite, los Ikari Warriors. Tu amigo y tú están en una misión especial detrás de las líneas enemigas, y has estado durmiendo, comiendo y respirando combates en la jungla durante las últimas dos semanas. Estás cansado, pero eso nunca afecta tu agudo juicio y tu voluntad de sobrevivir.nnnnTus armas principales son ametralladoras, granadas y tu propia astucia frente al peligro. A veces tendrás un tanque a tu disposición, que es útil cuando el fuego enemigo es particularmente brutal.nnnnTe mueves velozmente por la jungla, vadeando ríos y descansando de vez en cuando entre las ruinas de edificios bombardeados. Te estás quedando sin municiones y granadas, pero sabes que la batalla no puede durar para siempre. Tarde o temprano, un lado saldrá victorioso. ¡Solo esperamos que sea tuyo!</synopsis>
+      <synopsis>Eres miembro de esos especialistas de combate de élite, los Ikari Warriors. Tu amigo y tú están en una misión especial detrás de las líneas enemigas, y has estado durmiendo, comiendo y respirando combates en la jungla durante las últimas dos semanas. Estás cansado, pero eso nunca afecta tu agudo juicio y tu voluntad de sobrevivir.Tus armas principales son ametralladoras, granadas y tu propia astucia frente al peligro. A veces tendrás un tanque a tu disposición, que es útil cuando el fuego enemigo es particularmente brutal.Te mueves velozmente por la jungla, vadeando ríos y descansando de vez en cuando entre las ruinas de edificios bombardeados. Te estás quedando sin municiones y granadas, pero sabes que la batalla no puede durar para siempre. Tarde o temprano, un lado saldrá victorioso. ¡Solo esperamos que sea tuyo!</synopsis>
       <genre>Acción,Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -1133,7 +1133,7 @@ The robots, rooms, and puzzle pieces will be switched around when starting over 
       <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Mensaje de la computadora de la Agencia ..... ".... Su misión. El Agente 4125 es frustrar una horrible trama. Desde un laboratorio subterráneo, Elvin, el científico, está reteniendo al mundo como rehén bajo amenaza de aniquilación nuclear. penetra en su fortaleza, evita sus robots que buscan humanos y encuentra piezas del código de seguridad.nnHaga una voltereta sobre los robots o use un precioso código de repetición para desactivarlos el tiempo suficiente para buscar en cada habitación. Use la computadora de la Agencia para descifrar las contraseñas de las piezas del código o intente resolverlas usted mismo. Será mejor que tengas cuidado ... ¡Esta misión tiene un sello IMPOSIBLE! "</synopsis>
+      <synopsis>Mensaje de la computadora de la Agencia ..... ".... Su misión. El Agente 4125 es frustrar una horrible trama. Desde un laboratorio subterráneo, Elvin, el científico, está reteniendo al mundo como rehén bajo amenaza de aniquilación nuclear. penetra en su fortaleza, evita sus robots que buscan humanos y encuentra piezas del código de seguridad. Haga una voltereta sobre los robots o use un precioso código de repetición para desactivarlos el tiempo suficiente para buscar en cada habitación. Use la computadora de la Agencia para descifrar las contraseñas de las piezas del código o intente resolverlas usted mismo. Será mejor que tengas cuidado ... ¡Esta misión tiene un sello IMPOSIBLE! "</synopsis>
       <genre>Acción,Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -1165,7 +1165,7 @@ The robots, rooms, and puzzle pieces will be switched around when starting over 
       <synopsis>Jinks added a largely new concept to the Breakout type games,offering much freer paddle movement ( both horizontally and vertically), a horizontally scrolling screen and the ability to flip the triangular paddle as needed.
 
 The objective is to survive on the planet Jinks - an exploration mission on this resource-rich planet has gone wrong. As hazards, there are objects that can destroy the paddle or make it smaller. There is also the ability to shake the screen if the ball is in a looping position.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Estás a punto de embarcarte en una de las misiones más peligrosas de tu carrera. Como famoso piloto de la Flota Estelar, has sido seleccionado para dirigir una fiesta de exploración en un viaje por la galaxia para investigar el misterioso planeta JINKS. Un enigma durante siglos, JINKS es un mundo exuberante y rico en recursos, y podría ser la clave de la desesperada necesidad de la expansión humana en el espacio. Al parecer es capaz de soportar la vida, sin embargo, curiosamente está deshabitada, ¿o no?nnUna misión de investigación de rutina se vuelve loca cuando explorar tu sonda a través de la superficie del planeta te lleva a ti y a tu tripulación a un juego mortal de gato y ratón. ¿Puedes escapar de estas trampas diabólicamente inteligentes antes de que tu sonda y sus ocupantes sean miniaturizados o aniquilados?</synopsis>
@@ -1199,7 +1199,7 @@ The objective is to survive on the planet Jinks - an exploration mission on this
 Players must flap their steed's wings to hit the enemy from a higher jousting point to destroy the vulture and its rider. Once the enemy has been hit, an egg falls to one of the platforms below. The heroic knights must destroy the eggs before they hatch and release new and increasingly more difficult knights. The three strengths of enemy knights are Bounder (red knight), Hunter (white knight), and Shadow Lord (blue knight). These enemy knights are not the only challenge to be found in the game. Players must also contend with crumbling platforms, lava trolls who attempt to pull knights into the fire, and the dreaded "unbeatable"(?) pterodactyl.
 
 The game was novel for its time for being one of the few two-player simultaneous games in the arcade.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Joust es un juego de plataformas donde el jugador controla a un caballero amarillo montado en un avestruz volador desde una perspectiva en tercera persona. El jugador navega al protagonista por el mundo del juego, que consiste en plataformas de roca que flotan sobre una isla plana rodeada de lava.</synopsis>
@@ -1231,10 +1231,10 @@ The game was novel for its time for being one of the few two-player simultaneous
       <synopsis>The evil Akuma has destroyed your homeland, killed many of your friends and kidnapped your Princess Mariko. Fortunately, you are skilled in Martial Arts, so your inevitable quest to reach Akuma's palace has a chance of success.
 
 The game is viewed from the side and features a succession of increasingly-difficult opponents. All the standard karate kicks and punches are available to both you and your foes. The game's design was serious and realistic, and the game featured lots of cutscenes to develop the story.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Sports</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Cuando regresas a casa después de años de estudio con un Maestro de Karate, encuentras que tu aldea se quema por completo. Tus amigos y familiares están dispersos, tu prometida fue robada por Akuma, el caudillo cuya sombra opresiva ha oscurecido tu aldea desde antes de que nacieras.nnnnTu dolor y tu ira se convierten en fría determinación. Juras nunca más someterse al malvado Señor de la Guerra. Sabes que debes vengar a tu pueblo y rescatar a tu amada princesa Mariko de la fortaleza de montaña de Akuma.nnnnSolo, armado solo con tu conocimiento de Karate, debes derrotar a los guerreros viciosos de Akuma, cada uno más poderoso que el anterior. Sigue luchando, en lo más profundo del corazón del palacio, donde para rescatar a Mariko debes enfrentarte al cruel Akuma en un combate mano a mano.</synopsis>
+      <synopsis>Cuando regresas a casa después de años de estudio con un Maestro de Karate, encuentras que tu aldea se quema por completo. Tus amigos y familiares están dispersos, tu prometida fue robada por Akuma, el caudillo cuya sombra opresiva ha oscurecido tu aldea desde antes de que nacieras.Tu dolor y tu ira se convierten en fría determinación. Juras nunca más someterse al malvado Señor de la Guerra. Sabes que debes vengar a tu pueblo y rescatar a tu amada princesa Mariko de la fortaleza de montaña de Akuma.Solo, armado solo con tu conocimiento de Karate, debes derrotar a los guerreros viciosos de Akuma, cada uno más poderoso que el anterior. Sigue luchando, en lo más profundo del corazón del palacio, donde para rescatar a Mariko debes enfrentarte al cruel Akuma en un combate mano a mano.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1301,7 +1301,7 @@ Thomas is able to move left and right, jump, duck, and punch and kick. Enemy pro
       <genre>Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>La hermosa princesa Victoria está aprisionada en el Templo del Mago del Mal. Como Maestro de Kung-Fu, debes liberarla. Desafortunadamente, los cinco tortuosos niveles del Templo están hirviendo de enemigos amenazantes.nnnnÁbrete camino a través de un nivel y comienza el siguiente con un medidor de energía renovado y un temporizador. Una vez que liberas a tu princesa, vuelve al principio donde tus enemigos vuelven más rápido y desagradablemente.</synopsis>
+      <synopsis>La hermosa princesa Victoria está aprisionada en el Templo del Mago del Mal. Como Maestro de Kung-Fu, debes liberarla. Desafortunadamente, los cinco tortuosos niveles del Templo están hirviendo de enemigos amenazantes.Ábrete camino a través de un nivel y comienza el siguiente con un medidor de energía renovado y un temporizador. Una vez que liberas a tu princesa, vuelve al principio donde tus enemigos vuelven más rápido y desagradablemente.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1336,7 +1336,7 @@ For the two player mode, the first to collect the set amount of coins wins.</syn
       <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Mario, el carpintero y su hermano Luigi, vuelven a hacerlo. ¡Esta vez deben deshacerse de su casa de plagas rastreras!nnnnEstas extrañas criaturas tienen nombres como Shellcreeper, Sidestepper y Fighterfly. Pon a prueba tus habilidades al golpear estos bichos molestos de pisos de ladrillo en el agua a continuación. Pero ten cuidado con Slipice the Iceman. ¡Debes detenerlo antes de que cubra los pisos con una traicionera capa de hielo resbaladizo!nnnnRecoge todas las monedas que puedas.</synopsis>
+      <synopsis>Mario, el carpintero y su hermano Luigi, vuelven a hacerlo. ¡Esta vez deben deshacerse de su casa de plagas rastreras!Estas extrañas criaturas tienen nombres como Shellcreeper, Sidestepper y Fighterfly. Pon a prueba tus habilidades al golpear estos bichos molestos de pisos de ladrillo en el agua a continuación. Pero ten cuidado con Slipice the Iceman. ¡Debes detenerlo antes de que cubra los pisos con una traicionera capa de hielo resbaladizo!Recoge todas las monedas que puedas.</synopsis>
       <genre>Acción,Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -1371,7 +1371,7 @@ Wrestling Federation Championship ring. Based on the Technos coin-op of 1985, Ma
       <genre>Sports,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>No lo sabrías, dibujaste a Bruno the Sledge, cinco veces campeón y todo tipo malo, como tu primer oponente en tu búsqueda del elusivo cinturón de campeonato de la Atari Wrestling Federation. Desde que perdió el título de Eric the Flaxen Saxon, Bruno ha estado aterrorizando el circuito de AWF.nnnnBruno el Trineo te mira con su ojo restante. Cuando suena la campana, carga como un loco. Justo antes del impacto de su cuerpo de 386 libras, te haces a un lado y levantas tu codo.nnnnPerfecto codo smash! Bruno cae al tapete. Lo atrapaste con la cabeza, pero su cabeza rapada se desliza libremente. Entonces lo ves. El famoso Bruno the Sledge "Ojo del terror", la mirada de la muerte. ¡Estás en problemas ahora!nnnnMat Mania Challenge ofrece todas las emociones y derrames de la lucha libre profesional. ¿Tienes lo que se necesita para sobrevivir a los rompecabezas y a los conductores de pila? ¡Si tienes las habilidades, el cinturón del campeonato será tuyo!</synopsis>
+      <synopsis>No lo sabrías, dibujaste a Bruno the Sledge, cinco veces campeón y todo tipo malo, como tu primer oponente en tu búsqueda del elusivo cinturón de campeonato de la Atari Wrestling Federation. Desde que perdió el título de Eric the Flaxen Saxon, Bruno ha estado aterrorizando el circuito de AWF.Bruno el Trineo te mira con su ojo restante. Cuando suena la campana, carga como un loco. Justo antes del impacto de su cuerpo de 386 libras, te haces a un lado y levantas tu codo.Perfecto codo smash! Bruno cae al tapete. Lo atrapaste con la cabeza, pero su cabeza rapada se desliza libremente. Entonces lo ves. El famoso Bruno the Sledge "Ojo del terror", la mirada de la muerte. ¡Estás en problemas ahora!Mat Mania Challenge ofrece todas las emociones y derrames de la lucha libre profesional. ¿Tienes lo que se necesita para sobrevivir a los rompecabezas y a los conductores de pila? ¡Si tienes las habilidades, el cinturón del campeonato será tuyo!</synopsis>
       <genre>Deportes,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1436,10 +1436,10 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
     <locale lang="EN">
       <title>Meltdown</title>
       <synopsis>Meltdown is an arcade action game similar to Reactor. On the screen you will see a representation of a nuclear reactor; numerous control rods are located in the center of the screen, with the reactor walls around the edges. Inside the reactor are numerous (and dangerous) particles which will damage the control rods if they collide. Using the light gun, you need to shoot and destroy the various particles  before the control rods are destroyed. As the control rods take damage, the walls of the reactor will slowly cave inward, decreasing the amount of space available. From time to time power crystals may appear; if shot, these will provide bonuses such as extra points, control rod repair, temporarily freeze the particles, more powerful shots, and more. The game ends when the control rods have been completely destroyed causing the reactor to meltdown.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Breakout</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡No entres en pánico! Una pandilla de terroristas internacionales se ha dedicado sistemáticamente a destruir el mundo. Han saboteado varios reactores nucleares al desatar una cadena mortal de "chispa" que romperá las barras de control de protección y se abrirá paso en el núcleo mismo de cada reactor. Si la chispa llega al núcleo, el resultado final será una temida fusión. Si los terroristas tienen éxito en su horrenda trama, ¡podemos despedirnos de este mundo!nnnnSolo te paras entre la vida tal como la conocemos y la aniquilación total. Está armado con una pistola especialmente diseñada para destruir chispas, un diseño de cada reactor, su ingenio y su deseo de salvar el mundo. Muévanse. No hay tiempo que perder!</synopsis>
+      <synopsis>¡No entres en pánico! Una pandilla de terroristas internacionales se ha dedicado sistemáticamente a destruir el mundo. Han saboteado varios reactores nucleares al desatar una cadena mortal de "chispa" que romperá las barras de control de protección y se abrirá paso en el núcleo mismo de cada reactor. Si la chispa llega al núcleo, el resultado final será una temida fusión. Si los terroristas tienen éxito en su horrenda trama, ¡podemos despedirnos de este mundo!Solo te paras entre la vida tal como la conocemos y la aniquilación total. Está armado con una pistola especialmente diseñada para destruir chispas, un diseño de cada reactor, su ingenio y su deseo de salvar el mundo. Muévanse. No hay tiempo que perder!</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1469,7 +1469,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
       <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¿Puedes salvar al abuelo de la prisión de Plasmic?nnnn7800 Aventura Arcade como nunca antes has visto. Este juego tiene todos los lugares como ríos, bosques profundos y oscuros, cavernas espeluznantes, laboratorios, criaturas como vampiros, zombis mutantes y murciélagos amenazantes. Tu aventura incluye explorar grandes áreas y encontrar armas geniales. Presionar un botón brinda sugerencias y sugerencias instantáneas en pantalla.nnnnTodo se suma a una acción increíble con Mega Graphics. La espalda de Grampa, depende de ti eliminar a los Monstruos y limpiarlos.</synopsis>
+      <synopsis>¿Puedes salvar al abuelo de la prisión de Plasmic?7800 Aventura Arcade como nunca antes has visto. Este juego tiene todos los lugares como ríos, bosques profundos y oscuros, cavernas espeluznantes, laboratorios, criaturas como vampiros, zombis mutantes y murciélagos amenazantes. Tu aventura incluye explorar grandes áreas y encontrar armas geniales. Presionar un botón brinda sugerencias y sugerencias instantáneas en pantalla.Todo se suma a una acción increíble con Mega Graphics. La espalda de Grampa, depende de ti eliminar a los Monstruos y limpiarlos.</synopsis>
       <genre>Acción,Aventura</genre>
     </locale>
     <locale lang="FR">
@@ -1535,7 +1535,7 @@ Beginner and Expert difficulty options are given - the latter mode has more pron
       <genre>Race, Driving</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡Lo terminaste al fin! Y ahora te estás volviendo loco esperando probar tu elegante, rápida y personalizada bicicleta. Absorbe todos tus momentos de vigilia, sueñas con eso todas las noches. Se ha convertido en una obsesión. Y sabes exactamente el lugar para probarlo.nnnn¡La competencia anual de MotorPsycho (para trastornados, psicópatas y otros tipos inusuales de moteros) es este fin de semana! Su curso cargado de obstáculos es legendario entre los maníacos de la motocicleta. Por supuesto, nadie en su sano juicio intentaría este curso. Los espectadores acérrimos te recuerdan que el fan es corto para los fanáticos. Han apostado sus lugares favoritos para ver las carreras, y están esperando el rugido de los motores acelerados, el chirrido de los neumáticos, el crujido del metal ...nnnnEres tú contra reloj y tu bicicleta está diseñada para la velocidad. ¡Todo lo que necesita hacer es apuntarlo en la dirección correcta e ir por ello!</synopsis>
+      <synopsis>¡Lo terminaste al fin! Y ahora te estás volviendo loco esperando probar tu elegante, rápida y personalizada bicicleta. Absorbe todos tus momentos de vigilia, sueñas con eso todas las noches. Se ha convertido en una obsesión. Y sabes exactamente el lugar para probarlo.¡La competencia anual de MotorPsycho (para trastornados, psicópatas y otros tipos inusuales de moteros) es este fin de semana! Su curso cargado de obstáculos es legendario entre los maníacos de la motocicleta. Por supuesto, nadie en su sano juicio intentaría este curso. Los espectadores acérrimos te recuerdan que el fan es corto para los fanáticos. Han apostado sus lugares favoritos para ver las carreras, y están esperando el rugido de los motores acelerados, el chirrido de los neumáticos, el crujido del metal ...Eres tú contra reloj y tu bicicleta está diseñada para la velocidad. ¡Todo lo que necesita hacer es apuntarlo en la dirección correcta e ir por ello!</synopsis>
       <genre>Carreras, Conducción</genre>
     </locale>
     <locale lang="FR">
@@ -1571,7 +1571,7 @@ Survive a few rounds of gameplay, and the player will be treated to humorous int
       <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Puntos. Pastillas de energía Fruta. Pretzels. Todos son parte de la dieta rápida de la Sra. Pac-Man.nnElla incluso devorará fantasmas. Pero solo cuando son azules. De lo contrario, los fantasmas la atraparán. ¡Y tu!</synopsis>
+      <synopsis>Puntos. Pastillas de energía Fruta. Pretzels. Todos son parte de la dieta rápida de la Sra. Pac-Man. Ella incluso devorará fantasmas. Pero solo cuando son azules. De lo contrario, los fantasmas la atraparán. ¡Y tu!</synopsis>
       <genre>Acción,Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -1604,7 +1604,7 @@ Survive a few rounds of gameplay, and the player will be treated to humorous int
       <genre>Sports,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Durante diez años has entrenado para ser un Ninja. Y ahora tu Maestro te dice que es hora de tomar la última y más difícil prueba y convertirte en un Master Ninja. Debes completar el juego de la muerte. Debes jugar nueve hoyos de ... Ninja Golf?nnnn¡Sabías que tu Maestro era un poco raro, pero nada te preparó para esto! Debes intentar colar un pajarito entre patadas de karate mientras luchas contra oponentes ninja. Par para este curso significa dejar el verde lleno de enemigos caídos.nnnnObtienes puntos tanto por tu juego de golf como por derrotar a Ninja atacante. También puede ganar puntos por encontrar tesoros y otros elementos de bonificación a lo largo del curso.nnnnUna vez que hayas completado los nueve hoyos con éxito, prepárate para desafiar al Master Ninja disfrazado. Esta batalla final determinará si te conviertes o no en un Maestro Ninja. Y si ganas, mejorará tu puntaje de golf.</synopsis>
+      <synopsis>Durante diez años has entrenado para ser un Ninja. Y ahora tu Maestro te dice que es hora de tomar la última y más difícil prueba y convertirte en un Master Ninja. Debes completar el juego de la muerte. Debes jugar nueve hoyos de ... Ninja Golf?¡Sabías que tu Maestro era un poco raro, pero nada te preparó para esto! Debes intentar colar un pajarito entre patadas de karate mientras luchas contra oponentes ninja. Par para este curso significa dejar el verde lleno de enemigos caídos.Obtienes puntos tanto por tu juego de golf como por derrotar a Ninja atacante. También puede ganar puntos por encontrar tesoros y otros elementos de bonificación a lo largo del curso.Una vez que hayas completado los nueve hoyos con éxito, prepárate para desafiar al Master Ninja disfrazado. Esta batalla final determinará si te conviertes o no en un Maestro Ninja. Y si ganas, mejorará tu puntaje de golf.</synopsis>
       <genre>Deportes,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1688,7 +1688,7 @@ If you have the High Score Cartridge, it can save the high scores of each variat
       <genre>Action,Compilation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Pac Man Collection es una recopilación de los varios lanzamientos oficiales (y algunos no tan oficiales) de uno de los juegos más populares de la historia. Ahora podemos finalmente llenar un vacío que faltaba en la biblioteca 7800 durante dos décadas. Dentro de este cartucho de juego encontrarás:nnnnPac-Man (¡El original!)nnPuck Man (Mismo juego, laberinto más difícil)nnHangly Man (¿Laberintos vacíos? ¿Túneles verticales? ¿Laberintos invisibles?)nnUltra Pac-Man (6 nuevos laberintos para una nueva variedad)nnLaberintos aleatorios * (¡Nunca se sabe qué laberinto aparecerá después!)nnLa Sra. Pac-Man (La segunda entrega de la Pac-Family)nnLa Sra. Pac-Attack (El mismo juego, laberintos más desafiantes)nnSra. Random Mazes * (Como Random Mazes arriba, pero con el sabor de Ms.)</synopsis>
+      <synopsis>Pac Man Collection es una recopilación de los varios lanzamientos oficiales (y algunos no tan oficiales) de uno de los juegos más populares de la historia. Ahora podemos finalmente llenar un vacío que faltaba en la biblioteca 7800 durante dos décadas. Dentro de este cartucho de juego encontrarás:Pac-Man (¡El original!)nnPuck Man (Mismo juego, laberinto más difícil)nnHangly Man (¿Laberintos vacíos? ¿Túneles verticales? ¿Laberintos invisibles?)nnUltra Pac-Man (6 nuevos laberintos para una nueva variedad)nnLaberintos aleatorios * (¡Nunca se sabe qué laberinto aparecerá después!)nnLa Sra. Pac-Man (La segunda entrega de la Pac-Family)nnLa Sra. Pac-Attack (El mismo juego, laberintos más desafiantes)nnSra. Random Mazes * (Como Random Mazes arriba, pero con el sabor de Ms.)</synopsis>
       <genre>Acción,Compilación</genre>
     </locale>
     <locale lang="FR">
@@ -1768,7 +1768,7 @@ Sure, we'll give you the options. And some tips. Like in pitching. Batting. And 
       <genre>Sports</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Es el último juego de la Serie Mundial. Estás en la novena entrada. Bases cargadas Uno fuera. Y tu hasta el bate.nnnn¿Qué haces? Swing lejos? Espera un paseo? Ir por las vallas? Todo depende de ti, al igual que en la bola profesional real.nnnnClaro, te daremos las opciones. Y algunos consejos. Al igual que en el lanzamiento. Guata. Y Fielding. Pero, es tu llamado.nnnnHay 6 pantallas de acción en vivo a todo color, ¡como las que ves en la televisión! La pantalla de pitcheo / bateo, el cuadro interior izquierdo, el cuadro interior derecho, el jardín izquierdo, el jardín central y el jardín derecho.nnnnEntonces, comienza a calentar. Paso al plato. Y aprovecha tu mejor momento para ganarnn¡las series!nnnnOriginalmente diseñado por Alex DeMeo, la versión 7800 fue programada por Robert Curtiss.</synopsis>
+      <synopsis>Es el último juego de la Serie Mundial. Estás en la novena entrada. Bases cargadas Uno fuera. Y tu hasta el bate.¿Qué haces? Swing lejos? Espera un paseo? Ir por las vallas? Todo depende de ti, al igual que en la bola profesional real.Claro, te daremos las opciones. Y algunos consejos. Al igual que en el lanzamiento. Guata. Y Fielding. Pero, es tu llamado.Hay 6 pantallas de acción en vivo a todo color, ¡como las que ves en la televisión! La pantalla de pitcheo / bateo, el cuadro interior izquierdo, el cuadro interior derecho, el jardín izquierdo, el jardín central y el jardín derecho.Entonces, comienza a calentar. Paso al plato. Y aprovecha tu mejor momento para ganarnn¡las series!Originalmente diseñado por Alex DeMeo, la versión 7800 fue programada por Robert Curtiss.</synopsis>
       <genre>Deportes</genre>
     </locale>
     <locale lang="FR">
@@ -1802,7 +1802,7 @@ There are also some team management capabilities, as you select and order your t
       <genre>Sports</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Es el último juego de la Serie Mundial. Estás en la novena entrada. Bases cargadas Uno fuera. Y tu hasta el bate.nnnn¿Qué haces? Swing lejos? Espera un paseo? Ir por las vallas? Todo depende de ti, al igual que en la bola profesional real.nnnnClaro, te daremos las opciones. Y algunos consejos. Al igual que en el lanzamiento. Guata. Y Fielding. Pero, es tu llamado.nnnnHay 6 pantallas de acción en vivo a todo color, ¡como las que ves en la televisión! La pantalla de pitcheo / bateo, el cuadro interior izquierdo, el cuadro interior derecho, el jardín izquierdo, el jardín central y el jardín derecho.nnnnEntonces, comienza a calentar. Paso al plato. Y aprovecha tu mejor momento para ganarnn¡las series!nnnnOriginalmente diseñado por Alex DeMeo, la versión 7800 fue programada por Robert Curtiss.</synopsis>
+      <synopsis>Es el último juego de la Serie Mundial. Estás en la novena entrada. Bases cargadas Uno fuera. Y tu hasta el bate.¿Qué haces? Swing lejos? Espera un paseo? Ir por las vallas? Todo depende de ti, al igual que en la bola profesional real.Claro, te daremos las opciones. Y algunos consejos. Al igual que en el lanzamiento. Guata. Y Fielding. Pero, es tu llamado.Hay 6 pantallas de acción en vivo a todo color, ¡como las que ves en la televisión! La pantalla de pitcheo / bateo, el cuadro interior izquierdo, el cuadro interior derecho, el jardín izquierdo, el jardín central y el jardín derecho.Entonces, comienza a calentar. Paso al plato. Y aprovecha tu mejor momento para ganarnn¡las series!Originalmente diseñado por Alex DeMeo, la versión 7800 fue programada por Robert Curtiss.</synopsis>
       <genre>Deportes</genre>
     </locale>
     <locale lang="FR">
@@ -1894,7 +1894,7 @@ One difference in this game that sets it apart from others of the same type is t
     <locale lang="EN">
       <title>Plutos</title>
       <synopsis>Plutos is a vertically oriented space shooter that features gameplay similar to Raiden. The game features six different levels, each with its own unique theme and boss. Only three of these levels are unique graphically--the other three are just color palette changes. Plutos offers one player as well as two player simultaneous modes, selectable with the left difficulty switch. Plutos also has features a unique weapons power-up system. There are three different types of weapons, each of which can be upgraded up to four times, as well as an invincibility power-up. The three different weapons are: Dual machine guns, spread gun, and energy gun.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Plutos es un shooter espacial orientado verticalmente que presenta un juego similar al de Raiden. El juego presenta seis niveles diferentes, cada uno con su propio tema y jefe único. Solo tres de estos niveles son únicos gráficamente; los otros tres son solo cambios en la paleta de colores. Plutos ofrece un jugador así como dos modos simultáneos de jugador, seleccionables con el interruptor de dificultad izquierdo. Plutos también cuenta con un sistema de arranque de armas único. Hay tres tipos diferentes de armas, cada una de las cuales se puede actualizar hasta cuatro veces, así como un poder de invencibilidad. Las tres armas diferentes son: ametralladoras duales, pistola de dispersión y pistola de energía.</synopsis>
@@ -1927,7 +1927,7 @@ One difference in this game that sets it apart from others of the same type is t
       <genre>Race, Driving</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¿Eres lo suficientemente bueno para competir con los mejores? ¿Tienes el valor y la habilidad para ser un piloto de carreras profesional? ¡Estás a punto de descubrirlo! Al volante de su elegante auto de Fórmula I se enfrentará al reloj y a los mejores corredores del mundo para ganar el Pole Position II, el puesto número uno de salida.nnnnPara ingresar al Grand Prix en sí, tendrás que competir a velocidades vertiginosas para completar la vuelta clasificatoria en 73 segundos o menos. A continuación, elija entre cuatro cursos, que van desde el curso de prueba relativamente inocua a la peligrosa pista de Suzuka.nnnnPon a prueba tus habilidades de carrera a medida que te desvías por curvas traicioneras, maniobras para salir de peligrosos derrapes y esquivas obstáculos peligrosos. ¡Vete a toda velocidad para superar el récord y serás el ganador del Gran Premio!</synopsis>
+      <synopsis>¿Eres lo suficientemente bueno para competir con los mejores? ¿Tienes el valor y la habilidad para ser un piloto de carreras profesional? ¡Estás a punto de descubrirlo! Al volante de su elegante auto de Fórmula I se enfrentará al reloj y a los mejores corredores del mundo para ganar el Pole Position II, el puesto número uno de salida.Para ingresar al Grand Prix en sí, tendrás que competir a velocidades vertiginosas para completar la vuelta clasificatoria en 73 segundos o menos. A continuación, elija entre cuatro cursos, que van desde el curso de prueba relativamente inocua a la peligrosa pista de Suzuka.Pon a prueba tus habilidades de carrera a medida que te desvías por curvas traicioneras, maniobras para salir de peligrosos derrapes y esquivas obstáculos peligrosos. ¡Vete a toda velocidad para superar el récord y serás el ganador del Gran Premio!</synopsis>
       <genre>Carreras, Conducción</genre>
     </locale>
     <locale lang="FR">
@@ -1953,6 +1953,8 @@ One difference in this game that sets it apart from others of the same type is t
     <id>108707</id>
     <locale lang="EN">
       <title>Q-bert Demo</title>
+      <genre>Action,Arcade</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Demo para Atari 7800 del famoso juego Q-bert.</synopsis>
@@ -1965,6 +1967,8 @@ One difference in this game that sets it apart from others of the same type is t
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Rampage">
     <id>38042A</id>
@@ -1973,7 +1977,7 @@ One difference in this game that sets it apart from others of the same type is t
       <synopsis>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.
 
 Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>George, Lizzy y Ralph eran simplemente estadounidenses comunes, hasta que un experimento salió mal, convirtiéndolos en un Gorila, lagarto y hombre lobo, respectivamente. Después de esto, los tres planean ir destruyendo edificios, y hasta 3 jugadores humanos pueden unirse.
@@ -2009,6 +2013,7 @@ Romper los bordes de los edificios durante el tiempo suficiente los hará colaps
 Unfortunately, the 7800 port of Rampart that is currently available is in an early state and not complete in terms of gameplay or graphics, which is immediately obvious by the lack of a proper title screen. Rampart requires a two-button 7800 joystick. You can select difficulty and number of players, including one player, two players, team or competition modes. Gameplay consists of shooting the enemy targets, which appear as "NME" graphics. The left joystick button fires your normal weapon. The right fire button will destroy all enemies onscreen. If you choose a two player game (team or competition), both players can shoot at enemy targets. There are several different playfield backgrounds depending on the game type selected, or if you play additional games.
 
 Internal Atari memos from 1993 mention that the game is almost finalized, so a more complete version of the game must exist somewhere.</synopsis>
+      <genre>Action,Strategy,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Rampart es un port inédito Atari 7800 del juego arcade Atari del mismo nombre. Tu objetivo en la versión arcade del juego es construir un castillo usando piezas para formar un muro alrededor de tu territorio. Después de construir tu castillo, colocas cañones y los usas para disparar a las naves enemigas o al castillo de otro jugador. Después de cada ronda, tienes la oportunidad de reconstruir tu castillo antes de que comience la siguiente ronda.</synopsis>
@@ -2028,6 +2033,8 @@ Les notes internes Atari de 1993 mentionnent que le jeu est presque finalisé, d
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Realsports Baseball">
     <id>38043A</id>
@@ -2070,7 +2077,7 @@ Les notes internes Atari de 1993 mentionnent que le jeu est presque finalisé, d
       <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Viaja a través de los cañones cavernosos de Fractalus ? --en realismo panormic. Tus compañeros pilotos te están esperando desesperadamente. Pero también lo son los viciosos alienígenas Jaggi ?. Nunca se sabe lo que va a aparecer, o dónde, hasta que suceda ...nnnnEn 2004, Curt Vendel de AtariMuseum.com descubrió varios prototipos de Atari 7800, incluido el juego inédito Rescue on Fractalus. Si bien el juego no está completo, está bastante avanzado, se ejecuta sin problemas y se puede jugar con el excelente emulador MESS. Para comenzar el juego después de encenderlo, presione "R" (Restablecer) en MESS. Hay una falla en la emulación en este momento con la representación de su vista fuera de la cabina, pero esperamos que esto se solucione en una próxima versión de MESS.</synopsis>
+      <synopsis>Viaja a través de los cañones cavernosos de Fractalus ? --en realismo panormic. Tus compañeros pilotos te están esperando desesperadamente. Pero también lo son los viciosos alienígenas Jaggi ?. Nunca se sabe lo que va a aparecer, o dónde, hasta que suceda ...En 2004, Curt Vendel de AtariMuseum.com descubrió varios prototipos de Atari 7800, incluido el juego inédito Rescue on Fractalus. Si bien el juego no está completo, está bastante avanzado, se ejecuta sin problemas y se puede jugar con el excelente emulador MESS. Para comenzar el juego después de encenderlo, presione "R" (Restablecer) en MESS. Hay una falla en la emulación en este momento con la representación de su vista fuera de la cabina, pero esperamos que esto se solucione en una próxima versión de MESS.</synopsis>
       <genre>Acción,Tiro</genre>
     </locale>
     <locale lang="FR">
@@ -2178,6 +2185,7 @@ You are a mutant human, who by some freak of nature has the ability to shoot ene
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
     <developer>Matthias Luedtke</developer>
     <publisher>AtariAge</publisher>
   </game>
@@ -2189,7 +2197,7 @@ You are a mutant human, who by some freak of nature has the ability to shoot ene
       <genre>Action,Adventure,Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¿Puede Louie salvar a su perro de convertirse en Dogmeat?nnnnNuestro amigo Louie amaba a su perro. Pero ¿por qué algunos matones Poochnap este pobre cachorro? Los matones quieren la escritura del depósito de chatarra. ¿Lo hará Louie?nnnnDepende de usted y Louie para sobrevivir a más de 15 niveles de peligro y encontrar al mejor tipo malo, el Sr. Big.nnnnScrapyard Dog presenta gráficos y sonido que superan todos los límites. Es parte del poder que te trae Atari.</synopsis>
+      <synopsis>¿Puede Louie salvar a su perro de convertirse en Dogmeat?Nuestro amigo Louie amaba a su perro. Pero ¿por qué algunos matones Poochnap este pobre cachorro? Los matones quieren la escritura del depósito de chatarra. ¿Lo hará Louie?Depende de usted y Louie para sobrevivir a más de 15 niveles de peligro y encontrar al mejor tipo malo, el Sr. Big.Scrapyard Dog presenta gráficos y sonido que superan todos los límites. Es parte del poder que te trae Atari.</synopsis>
       <genre>Acción,Aventura,Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -2243,7 +2251,7 @@ The computer flashes a sequence of colours that you must replicate. Each time th
     <locale lang="EN">
       <title>Sentinel</title>
       <synopsis>Sentinel is a side scrolling action game. Several worlds have fallen victim of an alien attack, and you need to free them. To do this, a glowing orb called the Sentinel has been sent which can absorb the alien energy. As the Sentinel floats above the various, scrolling landscapes, you need to protect it from attacks by using the light gun to destroy enemies and enemy fire. If you don't destroy an enemy, it will deplete the Sentinels energy supply which will eventually destroy it. There are four levels of increasing difficulty, each with a large boss at the end. To help out on your mission, several bonuses may be encountered from time to time; increased firepower and energy can be acquired when you shoot the bonus capsules that appear. Three levels of difficulty are available.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Eres un científico, y tu invento, un orbe pulsante y brillante llamado Sentinel, absorbe y almacena energía de una variedad de fuentes. Ahora la Tierra está amenazada por extraterrestres mortales y debes usar tu creación para salvar el planeta. El Sentinel absorbe la energía de cada cápsula de energía o cápsula de energía que disparas con tu pistola de luz Atari. Cuando se golpea una fuente de energía, un rayo se dispara desde el Centinela, golpea al objetivo con una fuerza silbante y atrae energía hacia tu Centinela. Depende de usted proteger al Centinela mientras se desliza sobre los planetas.</synopsis>
@@ -2298,6 +2306,7 @@ Sirius is a single player game only. The difficulty level (easy and hard) can be
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Space Duel">
     <id>38048A</id>
@@ -2306,7 +2315,7 @@ Sirius is a single player game only. The difficulty level (easy and hard) can be
       <synopsis>Space Duel is based on the coin-op game of the same name and is a sequel to Asteroids and Asteroids Deluxe.
 
 Instead of shooting lumpy asteroids, you are shooting colorful geometric shapes and several new enemies. There is also a bonus round where you can earn extra points. The two player game has two styles to choose from. 'Competitive' allows you to shoot everything of the screen, including your opponent. It's all for one and that one is you. 'Team' in the same except your shots will not harm the other player. You are working together to destroy the enemy.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Space Duel se basa en el juego de monedas del mismo nombre y es una secuela de Asteroids y Asteroids Deluxe.
@@ -2439,7 +2448,8 @@ Audacia. Habilidad. Estrategia. Determinación. Las marcas del verdadero campeó
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Super Skateboardin'">
+
+    <game name="Super Skateboardin'">
     <id>38051A</id>
     <locale lang="EN">
       <title>Super Skateboardin'</title>
@@ -2448,7 +2458,7 @@ Championship. Super Skateboardin' is a straightforward game from the designer of
       <genre>Sports,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Tu papá te consiguió un trabajo después de la escuela en la fábrica donde trabaja. Usted necesita el dinero porque primordialmente radical significa que tiene grandes gastos.nnnnEl trabajo es el sueño de un skater hecho realidad. Miles de pasillos y tubos para perfeccionar tus movimientos. Simplemente navegue y apague todas las máquinas y luces de la fábrica. ¡Date prisa porque el poder se está escapando rápido!nnnnNaturalmente, hay una trampa. Le pagan según la cantidad de energía que ahorra. Y debe salir de la fábrica a más tardar a las 5:15 pm de hoy. Un segundo más y nunca llegarás a la fecha límite para ingresar al Campeonato de Skateboarding.</synopsis>
+      <synopsis>Tu papá te consiguió un trabajo después de la escuela en la fábrica donde trabaja. Usted necesita el dinero porque primordialmente radical significa que tiene grandes gastos.El trabajo es el sueño de un skater hecho realidad. Miles de pasillos y tubos para perfeccionar tus movimientos. Simplemente navegue y apague todas las máquinas y luces de la fábrica. ¡Date prisa porque el poder se está escapando rápido!Naturalmente, hay una trampa. Le pagan según la cantidad de energía que ahorra. Y debe salir de la fábrica a más tardar a las 5:15 pm de hoy. Un segundo más y nunca llegarás a la fecha límite para ingresar al Campeonato de Skateboarding.</synopsis>
       <genre>Deportes,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -2478,7 +2488,7 @@ Championship. Super Skateboardin' is a straightforward game from the designer of
     <locale lang="EN">
       <title>Tank Command</title>
       <synopsis>Tank Command is a vertically scrolling action game. You control a tank on a mission to capture the enemy flag as well as earn as many points as possible. To do this, you will need to blast your way through their defenses on three levels of increasing difficulty. Blocking your progress are enemy tanks, pillboxes, missiles, jeeps, infantry, huts, and more, all of which earn you points when destroyed. Your tank is equipped with a limited amount of fuel and ammo, however it can be replenished occasionally by collecting the bonus icons when they appear on the screen. If you can make it past all of the obstacles and capture the flag, then you win the game!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade,Shooter,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Tank Command es un juego de acción de desplazamiento vertical. Usted controla un tanque en una misión para capturar la bandera enemiga y ganar la mayor cantidad de puntos posible. Para hacer esto, necesitarás abrirte camino a través de sus defensas en tres niveles de dificultad creciente. El bloqueo de tu progreso son tanques enemigos, pastilleros, misiles, jeeps, infantería, cabañas y más, todos los cuales te otorgan puntos cuando los destruyes. Su tanque está equipado con una cantidad limitada de combustible y munición, sin embargo, puede reabastecerse ocasionalmente mediante la recopilación de iconos de bonificación cuando aparecen en la pantalla. Si puedes superar todos los obstáculos y capturar la bandera, ¡entonces ganas el juego!</synopsis>
@@ -2511,7 +2521,7 @@ Championship. Super Skateboardin' is a straightforward game from the designer of
       <genre>Sports</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>DESTACANDO TAG-TEAMnn¡Llamando a todos los maniacos luchadores! ¡Esta noche es la partida por el título! Sube al ring y apuntate tus cosas. Mézclate con algunos de los luchadores más salvajes del mundo mientras compites por el "Absolute Title Belt".nnnnPero prepárate para las inmersiones de cuerda pulverizadoras de Skin Head, los viciosos aeroplanos de Mad Dog, los abrazos de oso aplastantes de Big Chief y los golpes paralizantes del cuerpo de Mr. Mean.nnnnLa acción chisporroteante nunca se detiene, ya sea que luches uno a uno, o vayas a la guerra por el Tag Team Belt. Y después de todo, si crees que eres realmente bueno, ponte en contacto con la computadora para ver quién es el mejor guerrero del anillo.</synopsis>
+      <synopsis>DESTACANDO TAG-TEAMnn¡Llamando a todos los maniacos luchadores! ¡Esta noche es la partida por el título! Sube al ring y apuntate tus cosas. Mézclate con algunos de los luchadores más salvajes del mundo mientras compites por el "Absolute Title Belt".Pero prepárate para las inmersiones de cuerda pulverizadoras de Skin Head, los viciosos aeroplanos de Mad Dog, los abrazos de oso aplastantes de Big Chief y los golpes paralizantes del cuerpo de Mr. Mean.La acción chisporroteante nunca se detiene, ya sea que luches uno a uno, o vayas a la guerra por el Tag Team Belt. Y después de todo, si crees que eres realmente bueno, ponte en contacto con la computadora para ver quién es el mejor guerrero del anillo.</synopsis>
       <genre>Deportes</genre>
     </locale>
     <locale lang="FR">
@@ -2577,7 +2587,7 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
       <genre>Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Un problema grave es el bloqueo de los intentos de colonizar el planeta Nebulus, que de otra forma sería compatible con la vida: ¡el agua es venenosa! La única forma de devolver el agua a su forma inofensiva y natural es destruir las ocho enormes torres que mantienen un control misterioso y letal sobre todas las formas de este valioso recurso.nnnnEspoleado a la acción por las necesidades de su planeta hogar peligrosamente superpoblado, debe intentar conquistar estas reliquias abandonadas por los alienígenas de una vez por todas. ¡Pero no será fácil! Tendrás que subir cada torre hasta llegar a la cima para detonar su punto vulnerable. ¡Y las torres sucesivas son más difíciles de derribar!nnnn¡Necesitarás todo tu ingenio para evitar grandes y aplastantes rocas, ojos gigantes y moléculas mutantes indestructibles! Y ten cuidado con esas escaleras resbaladizas y las repisas desintegradas. ¡Un paso en falso y caerás a las profundidades de abajo!</synopsis>
+      <synopsis>Un problema grave es el bloqueo de los intentos de colonizar el planeta Nebulus, que de otra forma sería compatible con la vida: ¡el agua es venenosa! La única forma de devolver el agua a su forma inofensiva y natural es destruir las ocho enormes torres que mantienen un control misterioso y letal sobre todas las formas de este valioso recurso.Espoleado a la acción por las necesidades de su planeta hogar peligrosamente superpoblado, debe intentar conquistar estas reliquias abandonadas por los alienígenas de una vez por todas. ¡Pero no será fácil! Tendrás que subir cada torre hasta llegar a la cima para detonar su punto vulnerable. ¡Y las torres sucesivas son más difíciles de derribar!¡Necesitarás todo tu ingenio para evitar grandes y aplastantes rocas, ojos gigantes y moléculas mutantes indestructibles! Y ten cuidado con esas escaleras resbaladizas y las repisas desintegradas. ¡Un paso en falso y caerás a las profundidades de abajo!</synopsis>
       <genre>Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -2604,6 +2614,7 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
     <locale lang="EN">
       <title>Tubes</title>
       <genre>Puzzle</genre>
+      <synopsis/>
     </locale>
     <locale lang="ES">
       <synopsis>Desarrollado por Bruce Tomlin para atari 7800 tubes es un juego tipo puzzle mezcla de tetris y pipemania.</synopsis>
@@ -2616,7 +2627,9 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
     <developer>Bruce Tomlin</developer>
+    <publisher/>
   </game>
   <game name="Water Ski">
     <id>38056A</id>
@@ -2659,7 +2672,7 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
       <genre>Sports,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Eres un atleta en los Juegos de Invierno de 1988 en Calgary, Alberta, Canadá. Estás a punto de moverte a través de la nieve y el hielo con tanta velocidad, fuerza, resistencia y gracia como puedas reunir en el frío ventoso.nnnnEsta es la parte de invierno de la competencia deportiva amateur más importante del mundo. Combinará sus habilidades con los mejores atletas.nnnnEstate orgulloso. Hoy te encuentras entre los pocos de élite cuyo valor y resistencia serán probados por estos Juegos de Invierno. Escucha. Una fanfarria de trompetas suena como miles de palomas blancas son lanzamientos, simbólicamente para volar a los países del mundo con el mensaje de paz, y la noticia de que los Juegos de Invierno han comenzado. ¡Esto es, tu oportunidad de ir por el oro!</synopsis>
+      <synopsis>Eres un atleta en los Juegos de Invierno de 1988 en Calgary, Alberta, Canadá. Estás a punto de moverte a través de la nieve y el hielo con tanta velocidad, fuerza, resistencia y gracia como puedas reunir en el frío ventoso.Esta es la parte de invierno de la competencia deportiva amateur más importante del mundo. Combinará sus habilidades con los mejores atletas.Estate orgulloso. Hoy te encuentras entre los pocos de élite cuyo valor y resistencia serán probados por estos Juegos de Invierno. Escucha. Una fanfarria de trompetas suena como miles de palomas blancas son lanzamientos, simbólicamente para volar a los países del mundo con el mensaje de paz, y la noticia de que los Juegos de Invierno han comenzado. ¡Esto es, tu oportunidad de ir por el oro!</synopsis>
       <genre>Deportes,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -2693,10 +2706,10 @@ Towers are linked together via a voyage through the sea in your trusty MK.7 subm
 A small band of engineers has been dispatched to combat the Xeno threat before it takes over all the space stations and, eventually, your homeworld.  Assemble your band of engineers and fight the Xenos on each station, striving to either clear it or abandon it.  You start out with a standard issue laser, but can pick up additiona weapons as you find them, including Phasers, Lightning Rifles, Poofer guns, and bombs.
 
 Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  Gameplay premise and setting is heavily inspired/influenced by the movie Aliens.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter,</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Los alienígenas hostiles - Xenófobos - están infestando estaciones espaciales vitales para la seguridad de su planeta. Estos alienígenas amenazan con invadir las estaciones, haciendo que las estaciones espaciales sean inútiles.nnnnEres parte de un equipo de élite que está listo para acelerar a estas estaciones espaciales en peligro de extinción. Tu misión es clara: destruye a los alienígenas, recupera el control de las estaciones espaciales y recupera todo el valioso hardware que puedas descubrir mientras barreas las estaciones en busca de alienígenas.nnnnLos alienígenas son una banda de feos enjaezados, directamente de tu peor pesadilla. Tendrás que usar tu talento solo para mantenerte vivo mientras liberas a cada estación espacial de estas plagas. No quieres dejar que te atrapen. Son ellos o usted.nnnnEl mensaje ha llegado. Depende de ti y de tus compañeros de equipo limpiar cada estación espacial de alienígenas. Your Mother Ship te acerca a cada estación espacial desbordada. Luego ingresa a la estación espacial a través de un disco de transferencia.nn</synopsis>
+      <synopsis>Los alienígenas hostiles - Xenófobos - están infestando estaciones espaciales vitales para la seguridad de su planeta. Estos alienígenas amenazan con invadir las estaciones, haciendo que las estaciones espaciales sean inútiles.Eres parte de un equipo de élite que está listo para acelerar a estas estaciones espaciales en peligro de extinción. Tu misión es clara: destruye a los alienígenas, recupera el control de las estaciones espaciales y recupera todo el valioso hardware que puedas descubrir mientras barreas las estaciones en busca de alienígenas.Los alienígenas son una banda de feos enjaezados, directamente de tu peor pesadilla. Tendrás que usar tu talento solo para mantenerte vivo mientras liberas a cada estación espacial de estas plagas. No quieres dejar que te atrapen. Son ellos o usted.El mensaje ha llegado. Depende de ti y de tus compañeros de equipo limpiar cada estación espacial de alienígenas. Your Mother Ship te acerca a cada estación espacial desbordada. Luego ingresa a la estación espacial a través de un disco de transferencia. </synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -2725,10 +2738,10 @@ Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  G
       <synopsis>It is discovered that the actual aliens on earth are human beings, and the ruthless Xevions want their planet back; but without us. Our only defense is the prototype Solvalou Fighter Plane. With this plane we can fight the deadly Domogram Rovers; the Toroid Patrol Fleets and the Zoshi Death Squads. 
 
 Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same name. It was innovative in that it was the first vertically scrolling shooter to feature dual-level attacks; both ground and air.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Es una pesadilla, ¡pero es verdad! La investigación muestra que somos los verdaderos extraterrestres en la Tierra, y los despiadados Xevions son los habitantes originales.nnnnAhora los Xeviones quieren que la Tierra regrese, ¡menos los humanos! Sus fuerzas de invasión son feroces: la tierra está plagada de Domogram Rovers; el cielo está negro con las flotas de patrulla toroide y los escuadrones de la muerte de Zoshi.nnnnNuestras insignificantes armas no ofrecen defensa. La única esperanza de la Tierra es nuestro poderoso nuevo avión de combate Solvalou. Su piloto tendrá una misión única: penetrar en las filas enemigas y destruir el Xevious Mother Ship.nnnnLa misión es peligrosa. No podemos garantizar el éxito. Pero en este punto, ¡es hacer o morir!nnnnUn pequeño problema. Aún necesitamos un piloto. ¿Algun voluntario?</synopsis>
+      <synopsis>Es una pesadilla, ¡pero es verdad! La investigación muestra que somos los verdaderos extraterrestres en la Tierra, y los despiadados Xevions son los habitantes originales.Ahora los Xeviones quieren que la Tierra regrese, ¡menos los humanos! Sus fuerzas de invasión son feroces: la tierra está plagada de Domogram Rovers; el cielo está negro con las flotas de patrulla toroide y los escuadrones de la muerte de Zoshi.Nuestras insignificantes armas no ofrecen defensa. La única esperanza de la Tierra es nuestro poderoso nuevo avión de combate Solvalou. Su piloto tendrá una misión única: penetrar en las filas enemigas y destruir el Xevious Mother Ship.La misión es peligrosa. No podemos garantizar el éxito. Pero en este punto, ¡es hacer o morir!Un pequeño problema. Aún necesitamos un piloto. ¿Algun voluntario?</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">

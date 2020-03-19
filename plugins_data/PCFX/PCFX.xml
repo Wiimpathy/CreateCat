@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812041646" games="83"/>
+        <WiiTDB version="201812041646" games="83"/>
   <game name="Aa! Megami Sama">
     <id>38413A</id>
     <locale lang="EN">
@@ -63,6 +63,7 @@ Taking a cue from Battle Heat, "Akazukin Cha-Cha" accompanies every single move 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Angelique Special">
     <id>38415A</id>
@@ -162,6 +163,8 @@ The game plays like a traditional Japanese RPG, with top-down view, turn-based b
     <id>65614A</id>
     <locale lang="EN">
       <title>Arcade Flight Simulator</title>
+      <genre>Action,Arcade,Shooter,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -171,11 +174,15 @@ The game plays like a traditional Japanese RPG, with top-down view, turn-based b
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Arcade Trivia Quiz Simulator">
     <id>65636A</id>
     <locale lang="EN">
       <title>Arcade Trivia Quiz Simulator</title>
+      <genre>Quiz</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -185,6 +192,8 @@ The game plays like a traditional Japanese RPG, with top-down view, turn-based b
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Arubarea No Otome">
     <id>38423A</id>
@@ -244,6 +253,8 @@ You must plan a schedule for your studies in castle. You can choose which classe
     <id>65615A</id>
     <locale lang="EN">
       <title>Batter Up</title>
+      <genre>Sports,Baseball,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -253,6 +264,8 @@ You must plan a schedule for your studies in castle. You can choose which classe
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Battle Heat">
     <id>38424A</id>
@@ -352,6 +365,8 @@ Boundary Gate is an old-fashioned RPG with dungeon-like 3D layout. The game is v
     <id>65616A</id>
     <locale lang="EN">
       <title>Buster Ball</title>
+      <genre>Action,Sports,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -361,11 +376,15 @@ Boundary Gate is an old-fashioned RPG with dungeon-like 3D layout. The game is v
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Buster Fight">
     <id>65617A</id>
     <locale lang="EN">
       <title>Buster Fight</title>
+      <genre>Beat'em Up</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -375,11 +394,15 @@ Boundary Gate is an old-fashioned RPG with dungeon-like 3D layout. The game is v
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Caesars Palace">
     <id>65618A</id>
     <locale lang="EN">
       <title>Caesars Palace</title>
+      <genre>Simulation,Casino,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -389,6 +412,8 @@ Boundary Gate is an old-fashioned RPG with dungeon-like 3D layout. The game is v
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Can Can Bunny Extra">
     <id>38427A</id>
@@ -418,11 +443,14 @@ Even though the story is pretty much the same as in the previous game,  the game
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Car Licence">
     <id>65619A</id>
     <locale lang="EN">
       <title>Car Licence</title>
+      <genre/>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -432,11 +460,15 @@ Even though the story is pretty much the same as in the previous game,  the game
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Championship Hockey">
     <id>65620A</id>
     <locale lang="EN">
       <title>Championship Hockey</title>
+      <genre>Sports,Hockey,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -446,6 +478,8 @@ Even though the story is pretty much the same as in the previous game,  the game
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Chip Chan Kick!">
     <id>38428A</id>
@@ -454,6 +488,7 @@ Even though the story is pretty much the same as in the previous game,  the game
       <synopsis>This is a platform game similar in style to  Bubble Bobble and particularly to  Parasol Stars. There are two playable characters, both of which are little girls. There is no difference between them gameplay-wise: both use a large blob-like animal to hit enemies from a short distance in a yo-yo-like fashion. It is possible to choose one of them as a single player, or to use them both cooperatively in the two-player mode.
 
 Each level of the game is divided into 10 stages, all of which are single screens with platform constructions. The player must eliminate all the enemies who wander around the stage before being able to advance to the next one. Once the enemy is successfully hit with the blob, the enemy becomes stunned for a short while. It is then possible to kick him off screen. Defeated enemies turn into random power-ups, which include speeding up the character, making her have two or even three blobs instead of one, adding an extra life, making her invincible for a while, etc. The 10th stage of each level requires the player to defeat a boss. The bosses have two forms: the first is a character the same size as the player character, which takes a while to defeat and which has the ability to revive regular enemies; the second form is a traditional platform game over-sized monster. The monsters have different attacks, including projectiles and generating smaller enemies, and have to be hit many times with the blob to go down.</synopsis>
+      <genre>Platformer</genre>
     </locale>
     <developer>Custom</developer>
     <publisher>NEC Home Electronics, Ltd.</publisher>
@@ -465,6 +500,7 @@ Each level of the game is divided into 10 stages, all of which are single screen
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1996"/>
   </game>
   <game name="Tyoushin Heiki Zeroigar">
     <id>38429A</id>
@@ -491,6 +527,8 @@ Each level of the game is divided into 10 stages, all of which are single screen
     <id>65621A</id>
     <locale lang="EN">
       <title>CJ Elephant Fugitive</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -500,11 +538,15 @@ Each level of the game is divided into 10 stages, all of which are single screen
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Cliffhanger">
     <id>65622A</id>
     <locale lang="EN">
       <title>Cliffhanger</title>
+      <genre>Action,Platform,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -514,6 +556,8 @@ Each level of the game is divided into 10 stages, all of which are single screen
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Cocktail Pack">
     <id>38430A</id>
@@ -544,6 +588,7 @@ Each level of the game is divided into 10 stages, all of which are single screen
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1997"/>
   </game>
   <game name="Comic Road">
     <id>38431A</id>
@@ -579,6 +624,8 @@ The gameplay consists mainly of making decisions (through menu choices); there i
     <id>65623A</id>
     <locale lang="EN">
       <title>Crayon Shin-chan - Taiketsu! Kantam Panic!!</title>
+      <genre>Action</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -588,11 +635,15 @@ The gameplay consists mainly of making decisions (through menu choices); there i
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Crazy Faces">
     <id>65624A</id>
     <locale lang="EN">
       <title>Crazy Faces</title>
+      <genre>Puzzle</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -602,6 +653,8 @@ The gameplay consists mainly of making decisions (through menu choices); there i
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Cutey Honey">
     <id>38432A</id>
@@ -633,11 +686,14 @@ Unlike many other Japanese adventures, characters are animated on almost every s
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Daffy Duck In Hollywood">
     <id>65625A</id>
     <locale lang="EN">
       <title>Daffy Duck in Hollywood</title>
+      <genre>Action,Platform,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -647,6 +703,8 @@ Unlike many other Japanese adventures, characters are animated on almost every s
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Der Langrisser Fx">
     <id>38433A</id>
@@ -725,6 +783,8 @@ The game mechanics are a lot like in a "standard" adventure game (examine object
     <id>65626A</id>
     <locale lang="EN">
       <title>Donald no Magical World</title>
+      <genre>Platform</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -734,11 +794,15 @@ The game mechanics are a lot like in a "standard" adventure game (examine object
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Doraemon - Waku Waku Pocket Paradise">
     <id>65627A</id>
     <locale lang="EN">
       <title>Doraemon - Waku Waku Pocket Paradise</title>
+      <genre>Action</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -748,11 +812,15 @@ The game mechanics are a lot like in a "standard" adventure game (examine object
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Double Dragon">
     <id>65628A</id>
     <locale lang="EN">
       <title>Double Dragon</title>
+      <genre>Action,Arcade,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -762,6 +830,8 @@ The game mechanics are a lot like in a "standard" adventure game (examine object
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Doukyuusei 2">
     <id>126147</id>
@@ -825,6 +895,8 @@ Note: the adult content (hentai scenes which include nudity) has been removed in
     <id>65630A</id>
     <locale lang="EN">
       <title>Dunk Kids</title>
+      <genre>Sports</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -834,11 +906,15 @@ Note: the adult content (hentai scenes which include nudity) has been removed in
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="F1 - World Championship Edition">
     <id>65631A</id>
     <locale lang="EN">
       <title>F1 - World Championship Edition</title>
+      <genre>Racing</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -848,6 +924,8 @@ Note: the adult content (hentai scenes which include nudity) has been removed in
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Farland Story">
     <id>38436A</id>
@@ -912,6 +990,7 @@ There is also a "dating sim" element in the game. "Important" girls can be seen 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1996"/>
   </game>
   <game name="First Kiss Story">
     <id>38438A</id>
@@ -943,11 +1022,14 @@ Despite suggestive themes and some mildly erotic images, there is no nudity in t
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Fray - Shugyou Hen">
     <id>65632A</id>
     <locale lang="EN">
       <title>Fray - Shugyou Hen</title>
+      <genre>Shooter</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -957,11 +1039,15 @@ Despite suggestive themes and some mildly erotic images, there is no nudity in t
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Fred Couples' Golf">
     <id>65633A</id>
     <locale lang="EN">
       <title>Fred Couples' Golf</title>
+      <genre>Sports</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -971,11 +1057,15 @@ Despite suggestive themes and some mildly erotic images, there is no nudity in t
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Frogger">
     <id>65634A</id>
     <locale lang="EN">
       <title>Frogger</title>
+      <genre>Action,Arcade,</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -985,11 +1075,15 @@ Despite suggestive themes and some mildly erotic images, there is no nudity in t
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="From Tv Animation - Slam Dunk - Shouri E No Starting 5">
     <id>65635A</id>
     <locale lang="EN">
       <title>From TV Animation - Slam Dunk - Shouri e no Starti</title>
+      <genre>Compilation</genre>
+      <synopsis/>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -999,6 +1093,8 @@ Despite suggestive themes and some mildly erotic images, there is no nudity in t
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Fushigi No Kuni No Angelique">
     <id>38439A</id>
@@ -1039,6 +1135,7 @@ Unlike other Angelique games, Fushigi no Kuni plays like a board game, with the 
 In Graduation you take the role of a homeroom teacher who is given the responsibility of teaching five girls in their last year of high school. You determine their class schedules, do guidance counseling, interfere with their weekend plans, and occasionally take to the streets to make sure they're not getting into trouble. Each of the girls have their own individual personality and problems, and the choices you make will determine whether they graduate from high school, what they do with their lives afterwards, and whether or not they wind up hating your guts. Get them all into top colleges and your boss will praise your genius. If they all flunk or wind up wanting to marry you, you'll obviously be fired.
 
 Despite what common sense and knowledge of the Japanese psyche might lead you to believe, this is not an adult (or hentai) game and there's no nudity and only an average amount of anime sexploitation.</synopsis>
+      <genre>Simulation,</genre>
     </locale>
     <developer>Headroom</developer>
     <publisher>Riverhill Software Inc.</publisher>
@@ -1050,6 +1147,7 @@ Despite what common sense and knowledge of the Japanese psyche might lead you to
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="J.b. Harold - Blue Chicago Blues">
     <id>38442A</id>
@@ -1088,6 +1186,7 @@ J.B. Harold: Blue Chicago Blues is an interactive movie. Most of the player's ti
       <synopsis>Kishin Doji Zenki FX: Vajra Fight is based on the manga Kishin Doji Zenki by Kikuhide Tani. Once upon a time the Japanese priest Enno has fought and defeated the demon lord Zenki. Zenki was sealed for centuries in the magical bracelet than the Enno family carried through generations. But now, in modern-day Japan, demons called Seeds of Karuma, who worship an ancient evil goddess, began to appear on the Earth, bringing death and destruction. Enno's descendant, a lovely young girl named Chiaki, has no choice but to use her bracelet to summon Zenki! But while being sealed, Zenki has reverted to the form of a nasty, greedy little boy. Chiaki must evoke the power of bracelet to make Zenki fight on her side, and destroy the demons!
 
 Vajra Fight is what is commonly called a beat-em-up game, similar to games like  Final Fight and others. Controlling either Zenki or Chiaki (or both in two player mode), the player must typically eliminate a number of enemies on a screen until he/she is allowed to proceed. Zenki fights melee-style, while Chiaki uses ranged energy balls; she can also summon Zenki with the bracelet power-up to inflict massive damage. Zenki and Chiaki can also execute various special attacks, which can be mapped to the controller for quicker access. There are many boss fights in the game, some stages consisting of one large-scale boss battle.</synopsis>
+      <genre>Action,Fighting</genre>
     </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
@@ -1099,6 +1198,7 @@ Vajra Fight is what is commonly called a beat-em-up game, similar to games like 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1995"/>
   </game>
   <game name="Kokuu Hyouryuu Nirgends">
     <id>38444A</id>
@@ -1252,6 +1352,7 @@ When the party enters a dungeon, the view switches to isometric. The dungeons ar
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1995"/>
   </game>
   <game name="Makeruna! Makendou Z">
     <id>38449A</id>
@@ -1436,6 +1537,7 @@ This is an adventure/puzzle game. The player navigates the thief through isometr
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1995"/>
   </game>
   <game name="Pia Carrot E Ykoso!!">
     <id>38455A</id>
@@ -1469,6 +1571,7 @@ The computer and the PC-FX versions feature scenes with explicit nudity and sexu
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Power Dolls Fx">
     <id>38456A</id>
@@ -1564,15 +1667,20 @@ The large locations have multiple exits, and it is often necessary to return to 
     <id>152776</id>
     <locale lang="EN">
       <title>Same Game Fx</title>
+      <genre>Puzzle</genre>
+      <synopsis>SameGameFX was packed-in with every version of the PC-FXGA boards except obviously FX-98IF which is just a regular PC-FX slapped onto a PC-98 expansion board.
+SameGameFX is played on a rectangular field, typically initially filled with four or five kinds of blocks placed at random. By selecting a group of adjoining blocks of the same color, a player may remove them from the screen. Blocks that are no longer supported will fall down, and a column without any blocks will be trimmed away by other columns always sliding to one side (often the left). The goal of the game is to remove as many blocks from the playing field as possible.</synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1995"/>
+    <publisher>Hudson Soft</publisher>
   </game>
   <game name="Shanghai The Great Wall">
     <id>103592</id>
@@ -1627,6 +1735,7 @@ This release in the Activision's Shanghai series includes three games along with
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Sotsugyou - Graduation">
     <id>38460A</id>
@@ -1656,20 +1765,27 @@ Instead of anime-style portraits of school girls, there are pictures (and a few 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
   <game name="Sotsugyou 2 Fx - Neo Generation">
     <id>126148</id>
     <locale lang="EN">
       <title>Sotsugyou 2 Fx - Neo Generation</title>
+      <genre>Simulation</genre>
+      <synopsis>Graduation is a Japanese anime "life-sim" game. You take the role of a homeroom teacher who is given the responsibility of teaching five girls in their last year of high school. You determine their class schedules, do guidance counseling, interfere with their weekend plans, and occasionally take to the streets to make sure they're not getting into trouble. Each of the girls have their own individual personality and problems, and the choices you make will determine whether they graduate from high school, what they do with their lives afterwards, and whether or not they wind up hating your guts. Get them all into top colleges and your boss will praise your genius. If they all flunk or wind up wanting to marry you, you'll obviously be fired.
+
+Despite what common sense and knowledge of the Japanese psyche might lead you to believe, this is not an adult (or hentai) game and there's no nudity and only an average amount of anime sexploitation.</synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
-    <input players="">
+    <input players="1">
       <control type="wiimote" required="true"/>
       <control type="nunchuk" required="false"/>
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Sotsugyou R - Graduation Real">
     <id>103593</id>
@@ -1778,6 +1894,7 @@ This is the only console version of Super Real Mahjong in which the girls undres
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1994"/>
   </game>
   <game name="Team Innocent - The Point Of No Return">
     <id>38464A</id>
@@ -1849,6 +1966,7 @@ The game has many anime-style cut-scenes and voice-overs for all dialogues.</syn
     <locale lang="EN">
       <title>Tenchi Muy! Ry-ki FX</title>
       <synopsis>Tenchi MuyÅ! RyÅ-Åki FX includes Tenchi MuyÅ! RyÅ-Åki with slightly better graphics (full-screen pictures instead of framed ones), and a whole new chapter, which is dedicated to officers of the Galaxy Police. The new chapter centers around the green-haired Hakua, who works for Mihoshi Kuramitsu, one of the game's main characters, and Detective Kiyone Makibi, Mihoshi's ex-partner.</synopsis>
+      <genre>Adventure</genre>
     </locale>
     <developer>NEC Interchannel, Ltd.</developer>
     <publisher>NEC Home Electronics, Ltd.</publisher>
@@ -1860,6 +1978,7 @@ The game has many anime-style cut-scenes and voice-overs for all dialogues.</syn
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1996"/>
   </game>
   <game name="Tengai Makyu Karakuri Kakutouden">
     <id>38467A</id>
@@ -1887,6 +2006,7 @@ This fighting game uses the same system as the previously released Battle Heat: 
     <locale lang="EN">
       <title>Tokimeki Card Paradise: Koi no Royal Straight Flus</title>
       <synopsis>Tokimeki Card Paradise includes four card games: Poker, Blackjack, Speed, and the Japanese card game Papanuki. Each of those games can be played against one or more pretty young female opponents. The girls take their clothes off whenever they lose a turn, until they disrobe completely if they lose the whole game. In a true PC-FX fashion, every undressing move is presented as an anime-style movie.</synopsis>
+      <genre>Strategy</genre>
     </locale>
     <locale lang="FR">
       <synopsis>Tokimeki Card Paradise inclue 4 jeux de cartes : POker, Blackjack, Speed, ainsi qu'un jeu de cartes japonais nommé "Papanuki".
@@ -1903,6 +2023,7 @@ Dans la plus pure lignée des jeux de ce genre, chaque séquence de strip-tease 
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1996"/>
   </game>
   <game name="Tonari No Princess Rolfee">
     <id>38469A</id>
@@ -1998,6 +2119,7 @@ The strategy part consists of navigating the robots over a battle field in turn-
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year="1997"/>
   </game>
   <game name="Zen-nihon Joshi Pro Wrestling - Queen Of Queens">
     <id>38472A</id>
@@ -2058,5 +2180,6 @@ There are two modes in the game: league or free battle. The league mode is an Al
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
   </game>
 </datafile>

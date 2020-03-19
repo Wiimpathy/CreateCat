@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
-  <WiiTDB version="201812041646" games="406"/>
+    <WiiTDB version="201812041646" games="406"/>
   <game name="1080 - Teneighty Snowboarding">
     <id>5441AA</id>
     <locale lang="EN">
@@ -519,7 +519,7 @@ Along with the legends team, you can choose from every player, team and stadium 
       <genre>Sport,Sport / Baseball</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>Der letzte All-Star Baseball auf der N64 beinhaltet wieder einige neue Features sowie Verbesserungen der vorherigen Spielmodi und Optionen. Für das Jahr 2001 ist ein neues Team dabei, The Coopertown Legends, mit einer Auswahl der besten Spieler aller Zeiten, darunter Yogi Berra, Willie Stargell und Reggie Jackson.nnnnZusammen mit der Legendenmannschaft können Sie aus allen Spielern, Mannschaften und Stadien der MLB-Saison 2000 wählen. Jeder Spieler verfügt über realistische Gesichtsausdrücke und Looks, sowie Bewegungsabläufe, Schlagpositionen und Reaktionen auf wichtige Ereignisse während des Spiels.</synopsis>
+      <synopsis>Der letzte All-Star Baseball auf der N64 beinhaltet wieder einige neue Features sowie Verbesserungen der vorherigen Spielmodi und Optionen. Für das Jahr 2001 ist ein neues Team dabei, The Coopertown Legends, mit einer Auswahl der besten Spieler aller Zeiten, darunter Yogi Berra, Willie Stargell und Reggie Jackson.Zusammen mit der Legendenmannschaft können Sie aus allen Spielern, Mannschaften und Stadien der MLB-Saison 2000 wählen. Jeder Spieler verfügt über realistische Gesichtsausdrücke und Looks, sowie Bewegungsabläufe, Schlagpositionen und Reaktionen auf wichtige Ereignisse während des Spiels.</synopsis>
       <genre>Sport,Sport / Baseball</genre>
     </locale>
     <locale lang="PT">
@@ -874,7 +874,7 @@ La versión de Nintendo 64 solo se lanzó en Japón. La versión Dreamcast exist
       <genre>Action,Shoot'em Up</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>Wolltest du schon immer mal die ultimative Waffe entfesseln? 500 Feinde auf einmal in die Luft jagen? In wahrer Treasure Fashion... du hast diese Macht!nnnnAls die Piloten der Bangaioh-Mech muss du eine verrückte Gruppe davon abhalten, die Welt zu erobern, indem Sie ihnen eine kleine Dosis wahnsinnige Zerstörung geben. Willst du einfach verrückt sein und dich von denen umbringen lassen? Nur zu... drück einfach den Abzug, bevor es passiert...nnnnDie Nintendo 64 Version wurde nur in Japan veröffentlicht. Die Dreamcast-Version gibt es in den USA und Europa.</synopsis>
+      <synopsis>Wolltest du schon immer mal die ultimative Waffe entfesseln? 500 Feinde auf einmal in die Luft jagen? In wahrer Treasure Fashion... du hast diese Macht!Als die Piloten der Bangaioh-Mech muss du eine verrückte Gruppe davon abhalten, die Welt zu erobern, indem Sie ihnen eine kleine Dosis wahnsinnige Zerstörung geben. Willst du einfach verrückt sein und dich von denen umbringen lassen? Nur zu... drück einfach den Abzug, bevor es passiert...Die Nintendo 64 Version wurde nur in Japan veröffentlicht. Die Dreamcast-Version gibt es in den USA und Europa.</synopsis>
       <genre>Action,Shoot'em Up</genre>
     </locale>
     <locale lang="PT">
@@ -1030,7 +1030,7 @@ And much like another Rareware title, Donkey Kong 64, you can play four-player m
       <genre>Simulation,Hunting and Fishing,Fishing</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>BassMasters 2000 es un juego de simulación de pesca que cuenta con un total de 4 modos y tiene una amplia variedad de opciones personalizables. Puedes crear y guardar hasta 7 pescadores totalmente personalizados como el sexo, el cabello, la cara, ropa, etc. nnLos modos principales e juego son: Exposición - el único modo donde cada opción personalizable está disponible. El objetivo es capturar hasta cierto número de peces y la suma de su peso para igualar o superar el peso que se menciona al principio del modo.nnTorneo - hay 6 torneos en los que debes competir y cada torneo dura 3 días. La pesca dura hasta que termine el día al final del cual se cuenta el peso total de los peces capturados y dependiendo de lo bien que se obtuviera el rango equivalente. Si al final del último torneo logras clasificar 5º o más alto, se desbloquean nuevos equipos y botes.</synopsis>
+      <synopsis>BassMasters 2000 es un juego de simulación de pesca que cuenta con un total de 4 modos y tiene una amplia variedad de opciones personalizables. Puedes crear y guardar hasta 7 pescadores totalmente personalizados como el sexo, el cabello, la cara, ropa, etc. nnLos modos principales e juego son: Exposición - el único modo donde cada opción personalizable está disponible. El objetivo es capturar hasta cierto número de peces y la suma de su peso para igualar o superar el peso que se menciona al principio del modo. Torneo - hay 6 torneos en los que debes competir y cada torneo dura 3 días. La pesca dura hasta que termine el día al final del cual se cuenta el peso total de los peces capturados y dependiendo de lo bien que se obtuviera el rango equivalente. Si al final del último torneo logras clasificar 5º o más alto, se desbloquean nuevos equipos y botes.</synopsis>
       <genre>Simulación,Caza y Pesca,Pesca</genre>
     </locale>
     <locale lang="FR">
@@ -1257,7 +1257,7 @@ Obwohl die Fahrzeuge wie New Beetles aussehen, steuern sie sich eher schwerfäll
       <genre>Action,Sports,Sports / Skiing</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Big Mountain 2000 (conocido como Snow Speeder en Japón) es un videojuego de carreras sobre nieve con esquís o con snowboard.nnEste juego permite al jugador estar en posesión del control de una carrera utilizando tablas de snowboard o esquís. Además diseña tu propio equipo a medida, incluyendo equipamiento y ropaje.nnExisten 6 personajes diferentes entre los que elegir, cada uno muy distinto del resto, además de tres modos de juego.</synopsis>
+      <synopsis>Big Mountain 2000 (conocido como Snow Speeder en Japón) es un videojuego de carreras sobre nieve con esquís o con snowboard. Este juego permite al jugador estar en posesión del control de una carrera utilizando tablas de snowboard o esquís. Además diseña tu propio equipo a medida, incluyendo equipamiento y ropaje. Existen 6 personajes diferentes entre los que elegir, cada uno muy distinto del resto, además de tres modos de juego.</synopsis>
       <genre>Acción,Deportes,Deportes / Esquí</genre>
     </locale>
     <locale lang="FR">
@@ -1412,7 +1412,7 @@ You have to explore the world, through ancient ruins and deserted lands, find hi
       <genre>Simulation,Tir / 3eme Personne,Tir,Action,Action / Aventure</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>2050 Die Erde ist tot. Die Menschheit vernichtet. Durch ein Jahrhundert von Alien-Angriffen ausgestorben. Eine letzte, verzweifelte Chance bleibt. Jemand muss in der Zeit zurückreisen und die außerirdischen Raubtiere bekämpfen, bevor sie ihre abscheuliche Invasion beenden.nnAdam Drake, ein genetisch verbesserter Marinesoldat wird ausgewählt, um die Reise in die Weiten der Erdgeschichte zu machen. Sein Ziel - stoppt die Aliens.</synopsis>
+      <synopsis>2050 Die Erde ist tot. Die Menschheit vernichtet. Durch ein Jahrhundert von Alien-Angriffen ausgestorben. Eine letzte, verzweifelte Chance bleibt. Jemand muss in der Zeit zurückreisen und die außerirdischen Raubtiere bekämpfen, bevor sie ihre abscheuliche Invasion beenden. Adam Drake, ein genetisch verbesserter Marinesoldat wird ausgewählt, um die Reise in die Weiten der Erdgeschichte zu machen. Sein Ziel - stoppt die Aliens.</synopsis>
       <genre>Simulation,Shooter / 3rd Pers.,Shooter,Action,Action / Abenteuer</genre>
     </locale>
     <locale lang="PT">
@@ -1485,7 +1485,7 @@ You'll savor Bomberman 64's sneaky new features, including extremely high explos
       <genre>Puzzle-Game,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Bomberman 64 fue lanzado exclusivamente en Japón en diciembre de 2001. A diferencia de "Baku Bomberman" y su secuela (Bomberman 64 y The Second Attack, respectivamente, en Norteamérica y Europa), este título usa sprites 2D. Cuenta con varios modos: "Bomberman", un juego de Bomberman tradicional para un solo jugador, "Panic Bomber", basado en el juego de rompecabezas del mismo nombre, "Point and Click", un segundo juego de rompecabezas en el que el jugador borra espacio haciendo clic en dos cabezas Bomberman adyacentes del mismo color, y "Bomberman Park", una colección de minijuegos.nn nnBomberman 64 fue el último juego oficial de Nintendo 64 que se lanzará en Japón, aunque el último juego de N64 en todo el mundo fue lanzado más de seis meses después.</synopsis>
+      <synopsis>Bomberman 64 fue lanzado exclusivamente en Japón en diciembre de 2001. A diferencia de "Baku Bomberman" y su secuela (Bomberman 64 y The Second Attack, respectivamente, en Norteamérica y Europa), este título usa sprites 2D. Cuenta con varios modos: "Bomberman", un juego de Bomberman tradicional para un solo jugador, "Panic Bomber", basado en el juego de rompecabezas del mismo nombre, "Point and Click", un segundo juego de rompecabezas en el que el jugador borra espacio haciendo clic en dos cabezas Bomberman adyacentes del mismo color, y "Bomberman Park", una colección de minijuegos.  nnBomberman 64 fue el último juego oficial de Nintendo 64 que se lanzará en Japón, aunque el último juego de N64 en todo el mundo fue lanzado más de seis meses después.</synopsis>
       <genre>Rompecabezas,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -1599,7 +1599,7 @@ Along with the usual assortment of playing options, you can also play some scena
       <genre>Sports,Sports / Baseball</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Juega los modos de Exposición y Temporada como tu equipo favorito de la Major League Baseball. Se incluyen 300 jugadores de la vida real, con una lista completa de estadísticas, para esta combinación de simulación y béisbol de estilo arcade.nnJunto con la variedad habitual de opciones de juego, también puede jugar simulaciones de escenarios, donde cada escenario se basa en una ocurrencia de la vida real en la MLB. Por ejemplo, pegue un "Home run" con la última bola del partido o impida que un equipo anote en la entrada final para completar cada escenario. Los modos entrenamiento y de 2 jugadores también están disponibles.</synopsis>
+      <synopsis>Juega los modos de Exposición y Temporada como tu equipo favorito de la Major League Baseball. Se incluyen 300 jugadores de la vida real, con una lista completa de estadísticas, para esta combinación de simulación y béisbol de estilo arcade. Junto con la variedad habitual de opciones de juego, también puede jugar simulaciones de escenarios, donde cada escenario se basa en una ocurrencia de la vida real en la MLB. Por ejemplo, pegue un "Home run" con la última bola del partido o impida que un equipo anote en la entrada final para completar cada escenario. Los modos entrenamiento y de 2 jugadores también están disponibles.</synopsis>
       <genre>Deportes,Deportes / Béisbol</genre>
     </locale>
     <locale lang="FR">
@@ -1673,7 +1673,7 @@ Also included is a handful of two-player split-screen modes, including Buzz Ball
       <genre>Puzzle-Game,Adventure,Action,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El 1 de diciembre de 1998 por descuido de un derramamiento de una sustancia química desconocida, ha causado un impacto sobre la comunidad de insectos en algún lugar rural de Inglaterra. En los prados y jardines se erige un malvado ejército dirigido por tipo de una reina mantis (la cual es la última adversaria del juego) que mutó y aumentó su tamaño gracias a las ya mencionadas sustancias químicas, por lo que ha comenzado una guerra con el objetivo de eliminar todo tipo de fuerza opuestas a su causa y conquistar finalmente el mundo exterior, con la ayuda de "poderosas" armas.nnnnEs hasta ese momento cuando Buck Bumble hace su aparición con el único frente de defensa contra los intereses de este malvado imperio, para salvar toda la vida del jardín de ser destruido y prevenir que el imperio infrinja el daño antes que fuese demasiado tarde.</synopsis>
+      <synopsis>El 1 de diciembre de 1998 por descuido de un derramamiento de una sustancia química desconocida, ha causado un impacto sobre la comunidad de insectos en algún lugar rural de Inglaterra. En los prados y jardines se erige un malvado ejército dirigido por tipo de una reina mantis (la cual es la última adversaria del juego) que mutó y aumentó su tamaño gracias a las ya mencionadas sustancias químicas, por lo que ha comenzado una guerra con el objetivo de eliminar todo tipo de fuerza opuestas a su causa y conquistar finalmente el mundo exterior, con la ayuda de "poderosas" armas.Es hasta ese momento cuando Buck Bumble hace su aparición con el único frente de defensa contra los intereses de este malvado imperio, para salvar toda la vida del jardín de ser destruido y prevenir que el imperio infrinja el daño antes que fuese demasiado tarde.</synopsis>
       <genre>Rompecabezas,Aventura,Acción,Tiro</genre>
     </locale>
     <locale lang="FR">
@@ -1876,7 +1876,7 @@ Reinhardt &amp;amp; Carrie both appear again in the second Castlevania game for 
       <genre>Aventure,Action,Action / Aventure,Plateforme</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>Konamis lang laufende Serie von Castlevania-Spielen feiert ihr Debüt auf der N64. Die traditionelle 2D-Grafik wurde zurückgelassen; dies ist das erste Castlevania-Spiel in 3D. Das Ziel des Spiels bleibt jedoch das gleiche: Kick einige Vampir-Arsch, wie Sie den bösen Grafen Dracula und seine Günstlinge in diesem Platformer bekämpfen.nnnnDer Spieler kann entweder Reinhardt Schneider (für die traditionelle Peitschenhandlung) oder Carrie Fernandez (mit magischen Kräften) spielen. Beide Charaktere haben ihre eigene Geschichte. Ein nettes Feature ist die Anwesenheit einer In-Game-Uhr, die die Uhrzeit des Tages (Tag oder Nacht) ändert.nnnnReinhardt &amp; Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für das N64: Castlevania: Legacy of Darkness, das neue Layouts für die Levels dieses Spiels hat.</synopsis>
+      <synopsis>Konamis lang laufende Serie von Castlevania-Spielen feiert ihr Debüt auf der N64. Die traditionelle 2D-Grafik wurde zurückgelassen; dies ist das erste Castlevania-Spiel in 3D. Das Ziel des Spiels bleibt jedoch das gleiche: Kick einige Vampir-Arsch, wie Sie den bösen Grafen Dracula und seine Günstlinge in diesem Platformer bekämpfen.Der Spieler kann entweder Reinhardt Schneider (für die traditionelle Peitschenhandlung) oder Carrie Fernandez (mit magischen Kräften) spielen. Beide Charaktere haben ihre eigene Geschichte. Ein nettes Feature ist die Anwesenheit einer In-Game-Uhr, die die Uhrzeit des Tages (Tag oder Nacht) ändert.Reinhardt &amp; Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für das N64: Castlevania: Legacy of Darkness, das neue Layouts für die Levels dieses Spiels hat.</synopsis>
       <genre>Abenteuer,Action,Action / Abenteuer,Plattform</genre>
     </locale>
     <locale lang="PT">
@@ -1915,7 +1915,7 @@ During the course of the game, Cornell comes upon a grand estate owned by the Ol
       <genre>Action,Action / Aventure,Plateforme</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>Im Jahr 1844 spielt das Spiel den männlichen Bestien Cornell in seinem Bestreben, seine Adoptivschwester Ada davon abzuhalten, als Opfer für die Wiederbelebung von Dracula benutzt zu werden. Das Spiel beginnt, als Cornell in seinem Dorf ankommt, das von Draculas Gefolgsleuten niedergebrannt wurde. Er findet Adas Anhänger in einer Tür und folgt ihrem Duft zu Draculas Schloss.nnnnIm Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: J. A. Oldrey, der Herr der Villa, Maria, seine Frau und Henry, ihr Sohn. Gilles de Rais und Actrise haben Oldrey Senior in einen Vampir verwandelt. Auf Marys Bitte führt Cornell Henry in Sicherheit. Später im Leben kehrt Henry nach Castlevania zurück, um entführte Kinder zu retten.</synopsis>
+      <synopsis>Im Jahr 1844 spielt das Spiel den männlichen Bestien Cornell in seinem Bestreben, seine Adoptivschwester Ada davon abzuhalten, als Opfer für die Wiederbelebung von Dracula benutzt zu werden. Das Spiel beginnt, als Cornell in seinem Dorf ankommt, das von Draculas Gefolgsleuten niedergebrannt wurde. Er findet Adas Anhänger in einer Tür und folgt ihrem Duft zu Draculas Schloss.Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: J. A. Oldrey, der Herr der Villa, Maria, seine Frau und Henry, ihr Sohn. Gilles de Rais und Actrise haben Oldrey Senior in einen Vampir verwandelt. Auf Marys Bitte führt Cornell Henry in Sicherheit. Später im Leben kehrt Henry nach Castlevania zurück, um entführte Kinder zu retten.</synopsis>
       <genre>Action,Action / Abenteuer,Plattform</genre>
     </locale>
     <locale lang="PT">
@@ -2062,7 +2062,7 @@ Every level is an island. On every island you have at least one bomb and one TNT
       <genre>Puzzle-Game,Strategy</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Charlie Blast es un trabajador de la construcción, pero muy diferente a su colega más famoso. Charlie tiene una barriga cervecera, problemas para mantener sus pantalones vaqueros (se obtiene una bonita vista de su culete con bastante frecuencia) y su pelo del pecho hace que David Hasselhoff se sienta avergonzado de sí mismo. Pero bueno, tampoco está tratando de salvar a una princesa; Su misión es hacer volar islas con TNT!nnCon gráficos en 3D y algunos elementos de plataforma, Charlie Blast's Territory, un remake de Kablooey, es una modernización de uno de los géneros clásicos del rompecabezas, donde tu objetivo es empujar las cajas a los lugares correctos.nnCada nivel es una isla. En cada isla tienes al menos una bomba y una caja de TNT. Tu objetivo es empujar a todos ellos al lado de los demás y luego volarlo todo en una enorme reacción en cadena. Cuando lo haces, avanzas un nivel. No se puede tirar de las cajas, pero se puede subir por encima de ellas.nn</synopsis>
+      <synopsis>Charlie Blast es un trabajador de la construcción, pero muy diferente a su colega más famoso. Charlie tiene una barriga cervecera, problemas para mantener sus pantalones vaqueros (se obtiene una bonita vista de su culete con bastante frecuencia) y su pelo del pecho hace que David Hasselhoff se sienta avergonzado de sí mismo. Pero bueno, tampoco está tratando de salvar a una princesa; Su misión es hacer volar islas con TNT!nnCon gráficos en 3D y algunos elementos de plataforma, Charlie Blast's Territory, un remake de Kablooey, es una modernización de uno de los géneros clásicos del rompecabezas, donde tu objetivo es empujar las cajas a los lugares correctos. Cada nivel es una isla. En cada isla tienes al menos una bomba y una caja de TNT. Tu objetivo es empujar a todos ellos al lado de los demás y luego volarlo todo en una enorme reacción en cadena. Cuando lo haces, avanzas un nivel. No se puede tirar de las cajas, pero se puede subir por encima de ellas. </synopsis>
       <genre>Rompecabezas,Estrategia</genre>
     </locale>
     <locale lang="FR">
@@ -2100,7 +2100,7 @@ If you look at the screenshots, you might think that Chopper Attack is a helicop
       <genre>Race, Driving,Action,Shooter,Shooter / 3rd person</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Chopper Attack es un juego de disparos en tercera persona basado en helicópteros lanzado y publicado en 1997 por Midway.nnEl juego presenta numerosas misiones en varios lugares; las misiones incluyen bombardear las bases enemigas, escoltar al Air Force One a través del peligroso terreno de la jungla y rescatar prisioneros de guerra.</synopsis>
+      <synopsis>Chopper Attack es un juego de disparos en tercera persona basado en helicópteros lanzado y publicado en 1997 por Midway. El juego presenta numerosas misiones en varios lugares; las misiones incluyen bombardear las bases enemigas, escoltar al Air Force One a través del peligroso terreno de la jungla y rescatar prisioneros de guerra.</synopsis>
       <genre>Carreras, Conducción,Acción,Tiro,Tiro / Tiro 3ª persona</genre>
     </locale>
     <locale lang="FR">
@@ -2313,7 +2313,7 @@ The game also features FMV mission briefings and victory cutscenes.</synopsis>
       <genre>Strategy</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Command &amp; Conquer ha recogido y desarrollado ideas del anterior Dune 2 de Westwood, formando un juego de estrategia en tiempo real que ha marcado un antes y un después en el mundo del videojuego. El sistema de control para seleccionar unidades con el ratón y luego dirigirlas es similar a títulos futuros como Total Annihilation.nnEl juego se centra en una guerra entre dos organizaciones, La Hermandad de Nod y la Iniciativa de Defensa Global. Puedes tomar el control de cada bando para jugar más de 15 misiones. Ambas organizaciones tienen diferentes unidades y estructuras, incluyendo artillería, tanques e infantería ligera.</synopsis>
+      <synopsis>Command &amp; Conquer ha recogido y desarrollado ideas del anterior Dune 2 de Westwood, formando un juego de estrategia en tiempo real que ha marcado un antes y un después en el mundo del videojuego. El sistema de control para seleccionar unidades con el ratón y luego dirigirlas es similar a títulos futuros como Total Annihilation. El juego se centra en una guerra entre dos organizaciones, La Hermandad de Nod y la Iniciativa de Defensa Global. Puedes tomar el control de cada bando para jugar más de 15 misiones. Ambas organizaciones tienen diferentes unidades y estructuras, incluyendo artillería, tanques e infantería ligera.</synopsis>
       <genre>Estrategia</genre>
     </locale>
     <locale lang="FR">
@@ -2346,10 +2346,10 @@ The game also features FMV mission briefings and victory cutscenes.</synopsis>
 In this case, Conker has had one hell of a night, and when he wakes up not only does he have a huge hangover, but something just doesn't feel right. So it's up to Conker and his many skills to clean things up. 
 
 Conker goes through plenty of wild and wacky levels, most of which are based on classic movies including The Matrix, Jaws, Aliens, The Terminator and even Eyes Wide Shut. A multiplayer mode is also included, allowing 4 players to battle it out in many different styles of multiplayer gameplay.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El día después de su 21 cumpleaños, Conker tiene la peor resaca de todos los tiempos, y parece que no puede encontrar el camino a casa. Prepárese para tambalearse a través de escenarios turbios, obscenos, escandalosos llenos de malos modales, humor retorcido y funciones corporales gráficas. A menos que seas fanático de la violencia, el lenguaje grosero y las insinuaciones rabiosas, es mejor que te mantengas alejado de este.nnAunque visualmente similar a los juegos de plataformas Nintendo 64 de Rare, Banjo-Kazooie y Donkey Kong 64, Conker's Bad Fur Day fue diseñado para el público maduro y presenta violencia gráfica, consumo de alcohol y tabaco, blasfemias, humor vulgar y referencias de cultura pop. Se desarrolló en el transcurso de cuatro años y originalmente estaba destinado a una audiencia familiar, pero finalmente se reestructuró en su forma actual porque las vistas previas fueron criticadas por ser demasiado lindas y similares a los juegos de plataforma anteriores de Rare.</synopsis>
+      <synopsis>El día después de su 21 cumpleaños, Conker tiene la peor resaca de todos los tiempos, y parece que no puede encontrar el camino a casa. Prepárese para tambalearse a través de escenarios turbios, obscenos, escandalosos llenos de malos modales, humor retorcido y funciones corporales gráficas. A menos que seas fanático de la violencia, el lenguaje grosero y las insinuaciones rabiosas, es mejor que te mantengas alejado de este. Aunque visualmente similar a los juegos de plataformas Nintendo 64 de Rare, Banjo-Kazooie y Donkey Kong 64, Conker's Bad Fur Day fue diseñado para el público maduro y presenta violencia gráfica, consumo de alcohol y tabaco, blasfemias, humor vulgar y referencias de cultura pop. Se desarrolló en el transcurso de cuatro años y originalmente estaba destinado a una audiencia familiar, pero finalmente se reestructuró en su forma actual porque las vistas previas fueron criticadas por ser demasiado lindas y similares a los juegos de plataforma anteriores de Rare.</synopsis>
       <genre>Acción</genre>
     </locale>
     <locale lang="FR">
@@ -2357,7 +2357,7 @@ Conker goes through plenty of wild and wacky levels, most of which are based on 
       <genre>Action</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>Im Gegensatz zu allen anderen Nintendo-Spielen, die jemals gemacht wurden, erlebt Conker seinen ersten Ausflug auf der N64 mit einem reifen Publikum im Hinterkopf. Aber lassen Sie sich nicht die Gewalt in den Weg kommen, um diesen Titel zu spielen, der anderen Rare-Jump' n' Run-Titeln ähnelt, einschließlich Banjo-Kazooie.nnnnIn diesem Fall hat Conker eine höllische Nacht hinter sich, und wenn er aufwacht, hat er nicht nur einen riesigen Kater, sondern etwas fühlt sich einfach nicht richtig an. Es liegt also an Conker und seinen vielen Fähigkeiten, die Dinge in Ordnung zu bringen.nnnnConker durchläuft viele wilde und verrückte Levels, von denen die meisten auf klassischen Filmen wie The Matrix, Jaws, Aliens, The Terminator und sogar Eyes Wide Shut basieren. Ein Multiplayer-Modus ist ebenfalls enthalten, der es 4 Spielern ermöglicht, in vielen verschiedenen Arten von Multiplayer-Gameplay zu kämpfen.</synopsis>
+      <synopsis>Im Gegensatz zu allen anderen Nintendo-Spielen, die jemals gemacht wurden, erlebt Conker seinen ersten Ausflug auf der N64 mit einem reifen Publikum im Hinterkopf. Aber lassen Sie sich nicht die Gewalt in den Weg kommen, um diesen Titel zu spielen, der anderen Rare-Jump' n' Run-Titeln ähnelt, einschließlich Banjo-Kazooie.In diesem Fall hat Conker eine höllische Nacht hinter sich, und wenn er aufwacht, hat er nicht nur einen riesigen Kater, sondern etwas fühlt sich einfach nicht richtig an. Es liegt also an Conker und seinen vielen Fähigkeiten, die Dinge in Ordnung zu bringen.Conker durchläuft viele wilde und verrückte Levels, von denen die meisten auf klassischen Filmen wie The Matrix, Jaws, Aliens, The Terminator und sogar Eyes Wide Shut basieren. Ein Multiplayer-Modus ist ebenfalls enthalten, der es 4 Spielern ermöglicht, in vielen verschiedenen Arten von Multiplayer-Gameplay zu kämpfen.</synopsis>
       <genre>Action</genre>
     </locale>
     <developer>Rareware</developer>
@@ -2587,7 +2587,8 @@ Disfruta de los paisajes de 14 cursos de todo el mundo!
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Custom Robo V2">
+
+    <game name="Custom Robo V2">
     <id>5648AA</id>
     <locale lang="EN">
       <title>Custom Robo V2</title>
@@ -2679,7 +2680,7 @@ Duck Dodgers es informado por su academia de los hechos de Marvin y se dispone a
       <genre>Puzzle-Game,Plateforme</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>Marvin der Marsmensch hat eine ultimative Waffe entwickelt, die es ihm erlaubt, die Erde endgültig zu zerstören, was ihm letztlich die Kontrolle über das Universum geben wird. Bei der Demonstration der Waffe hindert Marvin ein kleiner Haken daran, seine hinterhältige Tat zu vollenden. Die Waffe ist aus Atomen, auf denen sie läuft, also schickt er seine Gefolgsleute (Alle sind Charaktere aus dem Looney Tune Universum), um Atome zu sammeln, um seine Waffe zu beschießen.nnnnDuck Dodgers wird von seiner Akademie über Marvins Taten informiert und macht sich auf, die einhundert Atome zu finden, bevor Marvin sie finden kann. Dieses hat schließlich Dodgers und seinen Sidekick, Cadet, trekking zu vier verschiedenen Planeten, einschließlich ein großes Piratenschiff, um die Oberhand über Marvin zu erhalten.</synopsis>
+      <synopsis>Marvin der Marsmensch hat eine ultimative Waffe entwickelt, die es ihm erlaubt, die Erde endgültig zu zerstören, was ihm letztlich die Kontrolle über das Universum geben wird. Bei der Demonstration der Waffe hindert Marvin ein kleiner Haken daran, seine hinterhältige Tat zu vollenden. Die Waffe ist aus Atomen, auf denen sie läuft, also schickt er seine Gefolgsleute (Alle sind Charaktere aus dem Looney Tune Universum), um Atome zu sammeln, um seine Waffe zu beschießen.Duck Dodgers wird von seiner Akademie über Marvins Taten informiert und macht sich auf, die einhundert Atome zu finden, bevor Marvin sie finden kann. Dieses hat schließlich Dodgers und seinen Sidekick, Cadet, trekking zu vier verschiedenen Planeten, einschließlich ein großes Piratenschiff, um die Oberhand über Marvin zu erhalten.</synopsis>
       <genre>Puzzle,Plattform</genre>
     </locale>
     <locale lang="PT">
@@ -2970,7 +2971,7 @@ There are 12 single player tracks to go through, and plenty of cars to use, incl
       <genre>Race, Driving</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Al igual que demás títulos de Destruction Derby, el objetivo del juego es correr hasta la meta, mientras que intentas sacar a los demás coches de la carretera, sin estrellar tu vehículo.nnEn esta edición, hasta 4 jugadores pueden jugar a la vez, con modos de juego que incluyen una línea recta Derby, Capturar la Bandera, la Arena y mucho más.nnHay 12 pistas para correr para un solo jugador, y un montón de coche, incluyendo un taxi (que deberás completar el juego para poder desbloquearlo).</synopsis>
+      <synopsis>Al igual que demás títulos de Destruction Derby, el objetivo del juego es correr hasta la meta, mientras que intentas sacar a los demás coches de la carretera, sin estrellar tu vehículo. En esta edición, hasta 4 jugadores pueden jugar a la vez, con modos de juego que incluyen una línea recta Derby, Capturar la Bandera, la Arena y mucho más. Hay 12 pistas para correr para un solo jugador, y un montón de coche, incluyendo un taxi (que deberás completar el juego para poder desbloquearlo).</synopsis>
       <genre>Carreras, Conducción</genre>
     </locale>
     <locale lang="FR">
@@ -3361,6 +3362,10 @@ Up to four players can compete in the races, but in order to play new tracks, th
     <id>186688</id>
     <locale lang="EN">
       <title>Dragon King by CrowTRobo</title>
+      <genre>Fighter</genre>
+      <synopsis>Dragon King: The Fighting Game (格闘ゲーム竜王, Fighting Game Dragon King) was an unfinished, low-budget fighting game primarily developed by Masahiro Sakurai and Satoru Iwata that was intended for release on the Nintendo 64.
+
+Dragon King: The Fighting Game was supposed be the first installment in a planned series of fighting video games for the Nintendo 64, with the game also being designed to make unique use of the joystick on the controller; unlike other games which took advantage of the analogue stick, like Super Mario 64 or The Legend of Zelda: Ocarina of Time, Sakurai wanted to see how he could use it in a multiplayer environment. Sakurai was also interested in creating a fighting game experience that involved four players fighting at once, instead of the standard one-on-one format seen in most of the era's fighting games. During preliminary development for the game, however, Sakurai felt that the game lacked the appropriate atmosphere for a fighting game on a home console, stating that the characters he had planned for inclusion in the game seemed too similar to one another; while he thought this would be acceptable in an arcade setting, he felt that games for home consoles would need better depth in order to captivate its audience. As a result, Sakurai scrapped most of the original concepts for the game and instead added elements from multiple existing Nintendo franchises. The game was ultimately retooled into Super Smash Bros., which became an unexpected success; the game later spawned a successful series of games, with multiple new installments having since been released. </synopsis>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -3370,6 +3375,8 @@ Up to four players can compete in the races, but in order to play new tracks, th
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Dragon Sword 64">
     <id>59771A</id>
@@ -4272,7 +4279,7 @@ Virtual mode is the more familiar format of a battle game with game modes such a
       <genre>Shoot'em Up,Action,Fight</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Flying Dragon es un juego de lucha de vista lateral que recuerda a los títulos de 16 bits. Cuenta con ocho caracteres para elegir con dos modos principales de juego, "SD" (super deformado) y "Virtual" (que imita el estilo del 'Virtua Fighter').nnModo SD es una especie de RPG, con tesoros que ganas cuando venzas tus batallas y que te permitirán convertirte en un luchador más fuerte. Tienes el circuito habitual, los modos de torneo y práctica, además de una "caja del tesoro" donde podrás comprar nuevos artículos.nnEl modo virtual es el formato más familiar de este juego de batalla, con modos de juego como circuito, torneo y práctica. También tiene modos en 2D y 3D. 2D es un estilo arcade de 16 bits y 3D es más realista.nn</synopsis>
+      <synopsis>Flying Dragon es un juego de lucha de vista lateral que recuerda a los títulos de 16 bits. Cuenta con ocho caracteres para elegir con dos modos principales de juego, "SD" (super deformado) y "Virtual" (que imita el estilo del 'Virtua Fighter'). Modo SD es una especie de RPG, con tesoros que ganas cuando venzas tus batallas y que te permitirán convertirte en un luchador más fuerte. Tienes el circuito habitual, los modos de torneo y práctica, además de una "caja del tesoro" donde podrás comprar nuevos artículos. El modo virtual es el formato más familiar de este juego de batalla, con modos de juego como circuito, torneo y práctica. También tiene modos en 2D y 3D. 2D es un estilo arcade de 16 bits y 3D es más realista. </synopsis>
       <genre>Shoot'em Up,Acción,Combate</genre>
     </locale>
     <locale lang="FR">
@@ -4376,7 +4383,7 @@ Un año más tarde, la Tierra ha sido clasificada como "condenada" por la reinan
       <synopsis>Frogger 2: Swampy's Revenge is a video game released in 2000. The game is part of the Frogger series, and the sequel to the 1997 remake of Frogger, featuring similar 4-way movement gameplay in a 3D world and 6 different environments. Unlike its predecessor, Frogger 2 featured a choice of different characters to play with in the game, several multiplayer modes, and an in-game storyline. A Nintendo 64 port of the game was planned, but it was cancelled.
 
 The sequel to the Original classic (and the so-so 1997 release) changes the way you look at frogs! The stage is set for a totally new adventure where Frogger and his female friend Lillie Frog will need to leap over, dive under, hop through and climb above endless new obstacles and challenges to save the Frog Babies from Frogger's new arch enemy, the dastardly Swampy the Crocodile.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Frogger 2: Swampy's Revenge es un videojuego lanzado en 2000. El juego es parte de la serie Frogger, y la secuela de la nueva versión de 1997 de Frogger, con un juego de movimiento en 4 direcciones similar en un mundo 3D y 6 entornos diferentes. A diferencia de su predecesor, Frogger 2 presentó una selección de diferentes personajes para jugar en el juego, varios modos multijugador y una historia en el juego. Se planeó un puerto Nintendo 64 del juego, pero fue cancelado.
@@ -4589,7 +4596,7 @@ You must control the good glove (name Glover) and find the 7 crystals, putting t
       <genre>Action,Adventure,Platform</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>La historia comienza en una torre de un castillo donde un mago se encuentra haciendo un experimento. Dicho experimento resulta fallido, dando como consecuencia una explosión a la que el mago resulta expuesto, perdiendo sus guantes (uno de ellos Glover) es un guante blanco ágil ,fuerte y simpàtico y convirtiéndose de piedra. Tras salir Glover despedido por la ventana, el otro guante cae al caldero en el que se estaba experimentando, mutando y convirtiéndose en el enemigo principal del protagonista.nnnnCon la explosión también han sido despedidos del castillo 7 cristales mágicos después de Glover, que este convierte en pelotas justo antes de que caigan al suelo evitando así que se rompan. Por el contrario, los cristales (transformados en pelotas) se dispersan por distintas zonas o mundos, teniendo Glover que recuperarlos para conseguir que el mago vuelva a su estado original.</synopsis>
+      <synopsis>La historia comienza en una torre de un castillo donde un mago se encuentra haciendo un experimento. Dicho experimento resulta fallido, dando como consecuencia una explosión a la que el mago resulta expuesto, perdiendo sus guantes (uno de ellos Glover) es un guante blanco ágil ,fuerte y simpàtico y convirtiéndose de piedra. Tras salir Glover despedido por la ventana, el otro guante cae al caldero en el que se estaba experimentando, mutando y convirtiéndose en el enemigo principal del protagonista.Con la explosión también han sido despedidos del castillo 7 cristales mágicos después de Glover, que este convierte en pelotas justo antes de que caigan al suelo evitando así que se rompan. Por el contrario, los cristales (transformados en pelotas) se dispersan por distintas zonas o mundos, teniendo Glover que recuperarlos para conseguir que el mago vuelva a su estado original.</synopsis>
       <genre>Acción,Aventura,Plataforma</genre>
     </locale>
     <locale lang="FR">
@@ -4742,7 +4749,7 @@ Try your hand at Black Jack, Craps, 5-Card Draw, 7-Card Stud, Texas Hold 'em, Mi
       <genre>Casino / Slot machine,Casino</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Juego de casino en 3D en tiempo real en Nintendo 64, ubicado dentro del famoso casino Golden Nugget en Las Vegas.nnnnLas características incluyen una interfaz rápida y fácil, 15 juegos clásicos de la suerte y juegos simultáneos para 4 jugadores.nnnnPruebe suerte en Blackjack, Craps, 5-Card Draw, 7-Card Stud, Texas Hold 'em, Mini Baccarat, Big Six, Ruleta, Video Poker y una variedad de máquinas tragaperras.</synopsis>
+      <synopsis>Juego de casino en 3D en tiempo real en Nintendo 64, ubicado dentro del famoso casino Golden Nugget en Las Vegas.Las características incluyen una interfaz rápida y fácil, 15 juegos clásicos de la suerte y juegos simultáneos para 4 jugadores.Pruebe suerte en Blackjack, Craps, 5-Card Draw, 7-Card Stud, Texas Hold 'em, Mini Baccarat, Big Six, Ruleta, Video Poker y una variedad de máquinas tragaperras.</synopsis>
       <genre>Casino / Máquina tragamonedas,Casino</genre>
     </locale>
     <locale lang="FR">
@@ -4822,7 +4829,7 @@ The Japanese re-release of the game includes two new tracks based on the 1998 se
       <genre>Race, Driving</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>GT 64, abreviatura de Grand Tour 64, es un juego de carreras en 3D para Nintendo 64. La temporada del Campeonato GT de Japón en 1997 es un juego con licencia oficial.nnnnHay tres pistas en Japón, Estados Unidos y Europa. Todos ellos se encuentran en entornos urbanos. Puedes optar por correr tres, seis, doce o 24 vueltas en cada pista. Hay catorce autos disponibles y se pueden ajustar manualmente para mejorar el rendimiento.nnnnEl relanzamiento japonés del juego incluye dos pistas nuevas basadas en la temporada de 1998.</synopsis>
+      <synopsis>GT 64, abreviatura de Grand Tour 64, es un juego de carreras en 3D para Nintendo 64. La temporada del Campeonato GT de Japón en 1997 es un juego con licencia oficial.Hay tres pistas en Japón, Estados Unidos y Europa. Todos ellos se encuentran en entornos urbanos. Puedes optar por correr tres, seis, doce o 24 vueltas en cada pista. Hay catorce autos disponibles y se pueden ajustar manualmente para mejorar el rendimiento.El relanzamiento japonés del juego incluye dos pistas nuevas basadas en la temporada de 1998.</synopsis>
       <genre>Carreras, Conducción</genre>
     </locale>
     <locale lang="FR">
@@ -5105,7 +5112,7 @@ Quest 64 is the very first RPG made for the Nintendo 64.  It features colorful g
       <genre>Action,Role playing games</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Interpretas al joven héroe Brian en su misión por salvar la tierra de Celtland. El padre de Brian, Lord Bartholomy, ha desaparecido misteriosamente. El Libro Eletale también ha sido robado, lo que preserva la armonía en Celtland. Brian debe encontrar a su padre y traer de vuelta el Libro Eletale.nnnnQuest 64 es el primer juego de rol hecho para Nintendo 64. Cuenta con coloridos gráficos en un mundo completamente en 3D.</synopsis>
+      <synopsis>Interpretas al joven héroe Brian en su misión por salvar la tierra de Celtland. El padre de Brian, Lord Bartholomy, ha desaparecido misteriosamente. El Libro Eletale también ha sido robado, lo que preserva la armonía en Celtland. Brian debe encontrar a su padre y traer de vuelta el Libro Eletale.Quest 64 es el primer juego de rol hecho para Nintendo 64. Cuenta con coloridos gráficos en un mundo completamente en 3D.</synopsis>
       <genre>Acción,Juegos de rol</genre>
     </locale>
     <locale lang="FR">
@@ -5227,7 +5234,7 @@ Graphics are entirely 3D with reflective water effects and realistic bouncing an
       <genre>Sports,Race, Driving</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>La premisa es inexistente, estás en la Antártida, el Lejano Oriente, las islas griegas, etc. somos diferentes tipos de barcos futuristas. Las carreras usan el sistema de punto de control arcade habitual y dispersan la carrera. Encontrarás una variedad de potenciadores y mejoras como nitro boosters.nnnnLos gráficos son completamente en 3D con efectos de agua reflectantes y rebotes y troncos realistas en los barcos.</synopsis>
+      <synopsis>La premisa es inexistente, estás en la Antártida, el Lejano Oriente, las islas griegas, etc. somos diferentes tipos de barcos futuristas. Las carreras usan el sistema de punto de control arcade habitual y dispersan la carrera. Encontrarás una variedad de potenciadores y mejoras como nitro boosters.Los gráficos son completamente en 3D con efectos de agua reflectantes y rebotes y troncos realistas en los barcos.</synopsis>
       <genre>Deportes,Carreras, Conducción</genre>
     </locale>
     <locale lang="FR">
@@ -5328,7 +5335,8 @@ Cada personaje tiene la habilidad de lanzar una especie de gancho para subir a l
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="In-fisherman - Bass Hunter 64">
+
+    <game name="In-fisherman - Bass Hunter 64">
     <id>5707AA</id>
     <locale lang="EN">
       <title>In-Fisherman: Bass Hunter 64</title>
@@ -5610,7 +5618,7 @@ También puedes jugar una competición de penalties de hasta 4 jugadores, o inte
       <genre>Varios,Pesca,Caza y Pesca</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Itoi Shigesato no Bass Tsuri No. 1 est un jeu vidéo de pêche sorti en 2001 sur Nintendo 64. Le jeu a été développé par HAL Laboratory et édité par Nintendo.nnnnLa version sur Nintendo 64 est la Definitive Edition, c'est-à-dire une version améliorée de la version Super nintendo sortie en 1997.</synopsis>
+      <synopsis>Itoi Shigesato no Bass Tsuri No. 1 est un jeu vidéo de pêche sorti en 2001 sur Nintendo 64. Le jeu a été développé par HAL Laboratory et édité par Nintendo.La version sur Nintendo 64 est la Definitive Edition, c'est-à-dire une version améliorée de la version Super nintendo sortie en 1997.</synopsis>
       <genre>Divers,Peche,Chasse et Peche</genre>
     </locale>
     <locale lang="DE">
@@ -5939,7 +5947,7 @@ The game also includes three different multiplayer modes: Battle - featuring mos
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>La invasión de insectos ha comenzado.nnLa galaxia está siendo infestada por el malvado Mizar y su horda de Drones. Ya, el planeta de Goldwood ha sido subyugado y los Tribales pacíficos esclavizados. Con un arsenal de mega-armas a su disposición, el equipo Jet Force Gemini debe viajar en busca de la guarida de Mizar, rescatando Tribals y salpicando Drones en el camino. Pero, ¿pueden Juno, Vela y su perro fiel, Lupus, exterminar la amenaza mortal antes de que sea demasiado tarde?nn"El juego también incluye un modo multijugador en el que dos o cuatro jugadores pueden competir en juegos deathmatch tradicionales".</synopsis>
+      <synopsis>La invasión de insectos ha comenzado. La galaxia está siendo infestada por el malvado Mizar y su horda de Drones. Ya, el planeta de Goldwood ha sido subyugado y los Tribales pacíficos esclavizados. Con un arsenal de mega-armas a su disposición, el equipo Jet Force Gemini debe viajar en busca de la guarida de Mizar, rescatando Tribals y salpicando Drones en el camino. Pero, ¿pueden Juno, Vela y su perro fiel, Lupus, exterminar la amenaza mortal antes de que sea demasiado tarde?nn"El juego también incluye un modo multijugador en el que dos o cuatro jugadores pueden competir en juegos deathmatch tradicionales".</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -6371,7 +6379,7 @@ Full support is also included for 4 players in home run derby mode, and 2 player
     <locale lang="EN">
       <title>Kirby 64 : The Crystal Shards</title>
       <synopsis>Dart past enemies, soar the skies and swim the depths of the ocean as Kirby takes on Dark Matter in an all-new adventure. Inhale, exhale and swallow your enemies, then copy and combine their abilities and use them as your own! Team up with familiar friends and foes - like Waddle Dee and King Dedede - as you travel through dreamy worlds in search of the lost Crystal Shards.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
       <synopsis>La primera aventura 3D de Kirby te llevará más allá de Dream Land, a las estrellas, para salvar a sus amigos de un nuevo y mortífero enemigo: Materia oscura. nnEste bonito juego de plataformas está lleno de color y acción a partes iguales. Trágate a tus enemigos para copiar sus habilidades (fuego, hielo, electricidad...) y crea poderosas combinaciones. ¡Pruébalas todas! nnBusca los fragmentos de cristal por planetas de lava, agua o incluso dulces y enfréntate a enormes jefes. Kirby 64 también incluye tres minijuegos extra en los que pueden participar hasta cuatro jugadores.</synopsis>
@@ -6474,7 +6482,7 @@ The players themselves, using the motion captured moves of Kobe, use a range of 
       <genre>Sports,Sports / Basketball</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Kobe Bryant en NBA Courtside es un juego de simulación de baloncesto para Nintendo 64. Fue lanzado en 1998 y recibió la designación de Player's Choice luego de vender un millón de copias. Kobe Bryant estaba en su segunda temporada de la NBA en el momento del lanzamiento del juego y era el jugador más joven en tener un juego con su mismo nombre.nnKobe Bryant en NBA Courtside presenta un juego 5 contra 5. El juego también cuenta con listas de 1997-1998 (a excepción de Michael Jordan, que no estaba en la asociación de jugadores y se renombró "Roster Player # 98"). Hay tres opciones de juego: Exposición, Temporada y Playoffs. El juego te permite simular juegos de temporada o jugarlos para liderar en los playoffs, y ganar las finales de la NBA.</synopsis>
+      <synopsis>Kobe Bryant en NBA Courtside es un juego de simulación de baloncesto para Nintendo 64. Fue lanzado en 1998 y recibió la designación de Player's Choice luego de vender un millón de copias. Kobe Bryant estaba en su segunda temporada de la NBA en el momento del lanzamiento del juego y era el jugador más joven en tener un juego con su mismo nombre. Kobe Bryant en NBA Courtside presenta un juego 5 contra 5. El juego también cuenta con listas de 1997-1998 (a excepción de Michael Jordan, que no estaba en la asociación de jugadores y se renombró "Roster Player # 98"). Hay tres opciones de juego: Exposición, Temporada y Playoffs. El juego te permite simular juegos de temporada o jugarlos para liderar en los playoffs, y ganar las finales de la NBA.</synopsis>
       <genre>Deportes,Deportes / Baloncesto</genre>
     </locale>
     <locale lang="FR">
@@ -6575,7 +6583,7 @@ The players themselves, using the motion captured moves of Kobe, use a range of 
 In Angelica's Temple of Gloom you have to beat Angelica in reaching various pieces of an Aztec statue. The Pirate Treasure hunt requires the Rugrats to travel underwater to find buried treasure. The Reptar Rally lets them collect candy on Candy Island.
 
 The game can be played with up to four players (or NPC players). each turn you can move as many paces as you got on the spinner (a replacement for dice). Some tiles have special actions attached to them that let you move further or gain or lose cookies. Each Rugrat also has limited energy, when they move a lot they get tired and have to take a nap to regain energy. You can collect Toy Cards to open doors or use against friends to gain an edge.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Board game</genre>
     </locale>
     <locale lang="ES">
       <synopsis>"Rugrats: La búsqueda del tesoro" es una compilación de minijuegos que se dividen en tres partes bien diferenciadas. En la primera, debes luchar en el templo de Angélica para encontrar las piezas de una estatua azteca; en la segunda, tienes que encontrar un tesoro que está inmerso en las profundidades del mar; y en la tercera parte, tienes que recoger a Candy en su Isla.</synopsis>
@@ -6683,7 +6691,7 @@ Desde una perspectiva de estilo isométrico, usted debe guiar a Lode Runner a tr
     <locale lang="EN">
       <title>Mace : The Dark Age</title>
       <synopsis>Live by the sword. Kill for the mace! Forged in the fires of the Dark Ages, Mace is the hottest 3D fighting game ever! Each medieval character wields a weapon unique to their land of origin. Their only desire - inflict serious pain! Sixteen player-selectable characters, two amazing bosses and six hidden characters. Tons of tasty combos and reversals with simple four-button controls. Become immersed in battle with complete 3D character movement. Behold the interactive multi-level arenas, but beware of the deadly boundaries!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Fighting</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Vivir por la espada. Matar por la maza! Forjada en los fuegos de la Edad Media, Mace es el juego más caliente de combates en 3D que nunca has visto! Cada personaje empuña un arma única medieval de su tierra de origen. Su único deseo, infligir dolor grave a sus oponentes! Dieciséis personajes seleccionables desde el principio y dos sorprendentes personajes ocultos. Sentirás como te sumerges en la batalla gracias al movimiento completo de sus personajes 3D. Ten cuidado con los niveles interactivos!</synopsis>
@@ -7079,7 +7087,7 @@ The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc.
       <genre>Race, Driving,Sports</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Tres ... Dos ... Uno ... ¡VEN! La luz de señal cambia y usted suelta el pedal al metal. Enfréntate a hasta tres amigos en los juegos VS de pantalla dividida o compite solo en el GP de Mario. Dile a tus amigos que lo traigan en el modo de batalla altamente competitivo. Las características avanzadas te permiten competir con tu "Fantasma". Los datos de conducción de su mejor ejecución aparecen como un carácter transparente en la pantalla. Ya no debes competir contra el reloj, ¡puedes competir contra ti mismo!nn* ¡Guarde sus datos más recientes de Ghost en un N64 Controller Pak portátil!* ¡Recoge múltiples objetos de encendido!nn* Veinte circuitos diferentes: 4 Copas con 4 circuitos cada uno y 4 circuitos especiales del modo de Batalla.nn* Los personajes favoritos de todos están de vuelta y magníficamente prestados, incluyendo dos nuevas incorporaciones, ¡Donkey Kong y Wario!</synopsis>
+      <synopsis>Tres ... Dos ... Uno ... ¡VEN! La luz de señal cambia y usted suelta el pedal al metal. Enfréntate a hasta tres amigos en los juegos VS de pantalla dividida o compite solo en el GP de Mario. Dile a tus amigos que lo traigan en el modo de batalla altamente competitivo. Las características avanzadas te permiten competir con tu "Fantasma". Los datos de conducción de su mejor ejecución aparecen como un carácter transparente en la pantalla. Ya no debes competir contra el reloj, ¡puedes competir contra ti mismo!nn* ¡Guarde sus datos más recientes de Ghost en un N64 Controller Pak portátil!* ¡Recoge múltiples objetos de encendido!nn* Veinte circuitos diferentes: 4 Copas con 4 circuitos cada uno y 4 circuitos especiales del modo de Batalla. * Los personajes favoritos de todos están de vuelta y magníficamente prestados, incluyendo dos nuevas incorporaciones, ¡Donkey Kong y Wario!</synopsis>
       <genre>Carreras, Conducción,Deportes</genre>
     </locale>
     <locale lang="FR">
@@ -7113,7 +7121,7 @@ The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc.
       <genre>Various</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Mario no Photopi es un juego de creatividad lanzado para la consola Nintendo 64 en 1998, solo en Japón. El cartucho del juego tiene dos ranuras para tarjetas SmartMedia en la parte superior, lo que permite la importación de fotos digitales y otras imágenes y para la transferencia entre las tarjetas. Las imágenes se pueden editar y decorar con fuentes, obras de arte de la franquicia de Mario, bordes y otros gráficos.nnEs el único juego que utiliza el cartucho listo para SmartMedia, que tiene el número de modelo de NUS-023. También se lanzaron tarjetas SmartMedia especialmente diseñadas para ello en conexión con temas de videojuegos como Sylvanian Families, Bomberman y Yoshi.</synopsis>
+      <synopsis>Mario no Photopi es un juego de creatividad lanzado para la consola Nintendo 64 en 1998, solo en Japón. El cartucho del juego tiene dos ranuras para tarjetas SmartMedia en la parte superior, lo que permite la importación de fotos digitales y otras imágenes y para la transferencia entre las tarjetas. Las imágenes se pueden editar y decorar con fuentes, obras de arte de la franquicia de Mario, bordes y otros gráficos. Es el único juego que utiliza el cartucho listo para SmartMedia, que tiene el número de modelo de NUS-023. También se lanzaron tarjetas SmartMedia especialmente diseñadas para ello en conexión con temas de videojuegos como Sylvanian Families, Bomberman y Yoshi.</synopsis>
       <genre>Varios</genre>
     </locale>
     <locale lang="FR">
@@ -7388,7 +7396,7 @@ As well as the main game, Mickey's Speedway USA also features a Time Trial mode 
       <genre>Course, Conduite</genre>
     </locale>
     <locale lang="DE">
-      <synopsis>Vollbestückt mit hochexplosiven Kraftpaketen düsen die wilden Mini-Flitzer rasant über verrückte 3D-Strecken. Das ultimative, actiongeladene Multi-Player-Spiel - einfach unverwechselbar! Für bis zu 8 Spieler gleichzeitig (je zwei teilen sich einen Controller). Zahlreiche Spielmodi: Solo, Meisterschaft, Kopf-an-Kopf-Rennen, Zeitfahren, Knockout und der beliebte Party-Spielmodus. 43 Kurse in lebendigen, außergewöhnlichen 3D-Umgebungen. Spaßige Extras wie Holzhammer, Minen und Kraftfelder, um Deinen Gegner zu bombardieren. Sammle und teste Special-Price-Autos! Speziell für den N64 der neuen Turbo-Speed mit fünf wählbaren Geschwindigkeitsstufen. Volle Rumble Pak Unterstützung damit Du jeden Stoß zu spüren bekommst.nnnn</synopsis>
+      <synopsis>Vollbestückt mit hochexplosiven Kraftpaketen düsen die wilden Mini-Flitzer rasant über verrückte 3D-Strecken. Das ultimative, actiongeladene Multi-Player-Spiel - einfach unverwechselbar! Für bis zu 8 Spieler gleichzeitig (je zwei teilen sich einen Controller). Zahlreiche Spielmodi: Solo, Meisterschaft, Kopf-an-Kopf-Rennen, Zeitfahren, Knockout und der beliebte Party-Spielmodus. 43 Kurse in lebendigen, außergewöhnlichen 3D-Umgebungen. Spaßige Extras wie Holzhammer, Minen und Kraftfelder, um Deinen Gegner zu bombardieren. Sammle und teste Special-Price-Autos! Speziell für den N64 der neuen Turbo-Speed mit fünf wählbaren Geschwindigkeitsstufen. Volle Rumble Pak Unterstützung damit Du jeden Stoß zu spüren bekommst.</synopsis>
       <genre>Rennen, Fahren</genre>
     </locale>
     <developer>Codemasters</developer>
@@ -7682,7 +7690,7 @@ You can play the tracks during various types of weather and different times of t
       <genre>Race, Driving</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Ofrece gráficos mejorados, una interfaz actualizada, nuevos camiones y pistas y la adición de condiciones climáticas variables de su predecesor. Sin embargo, el motor del juego es esencialmente el mismo que el utilizado en el juego original. Un testimonio de su similitud es el hecho de que la mayoría de los camiones y pistas personalizadas son compatibles con ambos juegos.nnnnEl "Rey de la Cumbre" de las pistas de la colina solo podía jugarse si se pretendía competir en línea.nnnnDe nuevo, "Army" Armstrong proporciona comentarios para el juego. Sin embargo, sus llamadas de carrera se han actualizado y se han agregado nuevas.</synopsis>
+      <synopsis>Ofrece gráficos mejorados, una interfaz actualizada, nuevos camiones y pistas y la adición de condiciones climáticas variables de su predecesor. Sin embargo, el motor del juego es esencialmente el mismo que el utilizado en el juego original. Un testimonio de su similitud es el hecho de que la mayoría de los camiones y pistas personalizadas son compatibles con ambos juegos.El "Rey de la Cumbre" de las pistas de la colina solo podía jugarse si se pretendía competir en línea.De nuevo, "Army" Armstrong proporciona comentarios para el juego. Sin embargo, sus llamadas de carrera se han actualizado y se han agregado nuevas.</synopsis>
       <genre>Carreras, Conducción</genre>
     </locale>
     <locale lang="FR">
@@ -8089,7 +8097,8 @@ Game modes include quick races, full weekend events, a full or abridged champion
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Nascar Racing 99">
+
+    <game name="Nascar Racing 99">
     <id>5667AA</id>
     <locale lang="EN">
       <title>Nascar Racing 99</title>
@@ -8387,7 +8396,7 @@ New to this installment (beside Jordan) is a one-on-one street basketball mode, 
       <genre>Sports,Sports / Basketball</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>La serie de videojuegos de básquetbol de la NBA Live, publicada por EA Sports, es actualmente una de las principales simulaciones de la Asociación Nacional de Baloncesto en el mercado.nnnnA partir de NBA Live 2000, la serie contó con la NBA Live Legend All-Stars Teams, que incluyó algunos de los nombres más importantes de las cinco décadas (50 a 90). Estos equipos se pueden usar de forma instantánea, pero para usarlos como jugadores regulares (por ejemplo, intercambiados, jugados en equipos normales de la NBA) deben desbloquearse. A lo largo de la serie, algunas de las listas cambiaron debido a muchas razones, ya que Michael Jordan estuvo en el equipo de los 90 hasta 2004.</synopsis>
+      <synopsis>La serie de videojuegos de básquetbol de la NBA Live, publicada por EA Sports, es actualmente una de las principales simulaciones de la Asociación Nacional de Baloncesto en el mercado.A partir de NBA Live 2000, la serie contó con la NBA Live Legend All-Stars Teams, que incluyó algunos de los nombres más importantes de las cinco décadas (50 a 90). Estos equipos se pueden usar de forma instantánea, pero para usarlos como jugadores regulares (por ejemplo, intercambiados, jugados en equipos normales de la NBA) deben desbloquearse. A lo largo de la serie, algunas de las listas cambiaron debido a muchas razones, ya que Michael Jordan estuvo en el equipo de los 90 hasta 2004.</synopsis>
       <genre>Deportes,Deportes / Baloncesto</genre>
     </locale>
     <locale lang="FR">
@@ -8421,7 +8430,7 @@ New to this installment (beside Jordan) is a one-on-one street basketball mode, 
       <genre>Sports,Sports / Basketball</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>NBA Live 99 es la entrega de 1999 de la serie de videojuegos NBA Live. La portada presenta a Antoine Walker de los Boston Celtics. Don Poier es el anunciador de play-by-play.nnEl juego presentaba listas obsoletas debido al bloqueo de la NBA de 1998-99. Después del final del bloqueo, se emitió un parche para la versión de PC para actualizar las listas y agregar los reclutas de la NBA de 1998 al juego.</synopsis>
+      <synopsis>NBA Live 99 es la entrega de 1999 de la serie de videojuegos NBA Live. La portada presenta a Antoine Walker de los Boston Celtics. Don Poier es el anunciador de play-by-play. El juego presentaba listas obsoletas debido al bloqueo de la NBA de 1998-99. Después del final del bloqueo, se emitió un parche para la versión de PC para actualizar las listas y agregar los reclutas de la NBA de 1998 al juego.</synopsis>
       <genre>Deportes,Deportes / Baloncesto</genre>
     </locale>
     <locale lang="FR">
@@ -8845,7 +8854,7 @@ Like in the previous year, Jim Hughson and Darryl Reaugh liven up matches with p
       <genre>Sports,Sports / Hockey</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El juego de hockey más famoso es el Nintendo 64. ¡Combate a lo largo de las tablas, alimenta al hombre abierto, patrulla el hielo! Características del juego: * Palanca para principiantes: recoger y jugar !; * Estrategias de entrenamiento del ganador de Stanley Cup Marc Crawford; * Comentario de Bill Clement; * 5 modos de juego; * 18 mejores equipos internacionales; * Se actualizaron los Nashville Predators en la expansión de la lista de 1998.nn</synopsis>
+      <synopsis>El juego de hockey más famoso es el Nintendo 64. ¡Combate a lo largo de las tablas, alimenta al hombre abierto, patrulla el hielo! Características del juego: * Palanca para principiantes: recoger y jugar !; * Estrategias de entrenamiento del ganador de Stanley Cup Marc Crawford; * Comentario de Bill Clement; * 5 modos de juego; * 18 mejores equipos internacionales; * Se actualizaron los Nashville Predators en la expansión de la lista de 1998. </synopsis>
       <genre>Deportes,Deportes / Hockey</genre>
     </locale>
     <locale lang="FR">
@@ -9099,7 +9108,7 @@ Gameplay is 3rd-person action, with an emphasis on melee combat. Ignatius and Na
       <genre>Sports,Fishing,Hunting and Fishing</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Nushi Tsuri 64 es un videojuego de pesca para Nintendo 64. Fue lanzado solo en Japón en 1998. Le siguió una secuela Nushi Tsuri 64: Shiokaze Ninotte en 2000.nnHay seis personajes entre los que los jugadores pueden elegir antes de comenzar el juego. Al igual que en la mayoría de los juegos de rol, la ciudad se puede explorar libremente además de otras ciudades. Los artículos adquiribles están principalmente relacionados con la pesca. Los encuentros aleatorios pueden ocurrir al caminar; los jugadores pueden optar por tirar piedras para perseguir a sus atacantes o correr a través de un camino con el fin de llegar a la seguridad.</synopsis>
+      <synopsis>Nushi Tsuri 64 es un videojuego de pesca para Nintendo 64. Fue lanzado solo en Japón en 1998. Le siguió una secuela Nushi Tsuri 64: Shiokaze Ninotte en 2000. Hay seis personajes entre los que los jugadores pueden elegir antes de comenzar el juego. Al igual que en la mayoría de los juegos de rol, la ciudad se puede explorar libremente además de otras ciudades. Los artículos adquiribles están principalmente relacionados con la pesca. Los encuentros aleatorios pueden ocurrir al caminar; los jugadores pueden optar por tirar piedras para perseguir a sus atacantes o correr a través de un camino con el fin de llegar a la seguridad.</synopsis>
       <genre>Deportes,Pesca,Caza y Pesca</genre>
     </locale>
     <locale lang="FR">
@@ -9233,7 +9242,7 @@ Bien que cette version N64 ait été entièrement développée, elle n'a jamais 
       <genre>Sports,Role playing games,Strategy</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Ogre Battle 64 es el tercer juego de la serie, los dos primeros son Ogre Battle: The March of the Black Queen y Tactics Ogre: Let Us Cling Together.nnLa historia sigue a Magnus Gallant, un recién graduado de la Academia Militar de Ischka, y capitán incipiente en la región sur de Palatinus, Alba. Mientras estalla la guerra civil en el país, Magnus finalmente decide unirse a la revolución con su líder, Frederick Raskin, primero liberando la región sur con la ayuda de los zenobios, luego Nirdam y uniéndose con ellos, y luego devolviendo la Región Oriental del Capitolio a los ortodoxos. iglesia, y finalmente marchando en la capital de Latium. Sin embargo, a lo largo del camino, el batallón de Magnus, los Caballeros Azules, encuentra que sus enemigos escalan, desde el reino títere de Palatinus hasta el poder del Santo Imperio de Lodis y las Hordas Oscuras del Inframundo.</synopsis>
+      <synopsis>Ogre Battle 64 es el tercer juego de la serie, los dos primeros son Ogre Battle: The March of the Black Queen y Tactics Ogre: Let Us Cling Together. La historia sigue a Magnus Gallant, un recién graduado de la Academia Militar de Ischka, y capitán incipiente en la región sur de Palatinus, Alba. Mientras estalla la guerra civil en el país, Magnus finalmente decide unirse a la revolución con su líder, Frederick Raskin, primero liberando la región sur con la ayuda de los zenobios, luego Nirdam y uniéndose con ellos, y luego devolviendo la Región Oriental del Capitolio a los ortodoxos. iglesia, y finalmente marchando en la capital de Latium. Sin embargo, a lo largo del camino, el batallón de Magnus, los Caballeros Azules, encuentra que sus enemigos escalan, desde el reino títere de Palatinus hasta el poder del Santo Imperio de Lodis y las Hordas Oscuras del Inframundo.</synopsis>
       <genre>Deportes,Juegos de rol,Estrategia</genre>
     </locale>
     <locale lang="FR">
@@ -9402,7 +9411,7 @@ Bien que cette version N64 ait été entièrement développée, elle n'a jamais 
     <locale lang="EN">
       <title>Paperboy</title>
       <synopsis>Paperboy returns with a new retro-3D look, but with the same objectives. As the paperboy, you must deliver, to your list of subscribers, their paper. The more papers you deliver in the least amount of time, the better the chances of signing more subscribers. For each street, you have a maximum of subscribers that you need to sign-up before you can move onto the next, and more challenging street (aka, the next level). Each street also includes objects that will get in your way (such as dogs, fire hydrants, etc.) as well as bonus objectives (collecting three coins by knocking down people and items on the street will take you to the bonus levels, ranging from obstacle courses to catching fire flies. You can win extra subscribers by completing the bonus levels).</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Paperboy regresa con un nuevo look retro-3D, pero con los mismos objetivos. Como el repartidor, debes entregar a su lista de suscriptores su periódico. Cuantos más periódicos entregues en la menor cantidad de tiempo, aumentarás las posibilidades de firmar más suscriptores. Para cada calle, tienes un máximo de suscriptores que necesitas contentar antes de que puedas pasar a la calle siguiente, que además será más difícil (también conocido como el siguiente nivel). Cada calle también incluye objetos que se interponen en tu camino (como perros, bocas de riego, etc.), así como objetivos de bonificación (recoger tres monedas derribando personas y artículos en la calle le llevará a los niveles de bonificación, que van desde Carrera de Obstáculos. Podrás ganar suscriptores adicionales completando los niveles de bonificación.</synopsis>
@@ -9589,7 +9598,7 @@ As well as the Stroke Play games of the original (where you count the total scor
       <genre>Sports,Sports / Golf</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Asegúrate de sujetar tus pantalones a cuadros, porque estás invitado a codearse con algunos swingers internacionales en el primer juego en presentar la licencia europea PGA.nnnnLa gira europea de PGA es un simulador de golf con cuatro auténticos campos europeos. Más de 60 profesionales aparecen en el juego, incluidos Colin Montgomerie y Jose Maria Olazabal de la reciente infamia de la Copa Ryder. Una lista completa de golfistas disponibles se muestra a la derecha.</synopsis>
+      <synopsis>Asegúrate de sujetar tus pantalones a cuadros, porque estás invitado a codearse con algunos swingers internacionales en el primer juego en presentar la licencia europea PGA.La gira europea de PGA es un simulador de golf con cuatro auténticos campos europeos. Más de 60 profesionales aparecen en el juego, incluidos Colin Montgomerie y Jose Maria Olazabal de la reciente infamia de la Copa Ryder. Una lista completa de golfistas disponibles se muestra a la derecha.</synopsis>
       <genre>Deportes,Deportes / Golf</genre>
     </locale>
     <locale lang="FR">
@@ -9622,7 +9631,7 @@ As well as the Stroke Play games of the original (where you count the total scor
       <genre>Strategy,Simulation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Olvídate de esos otros juegos voladores. ¡Esta es la mejor experiencia de vuelo! Pilotwings 64 te lleva a un vasto entorno tridimensional. Pilota varios vehículos diferentes y disfruta de vistas impresionantes. Completa con éxito las pruebas de vuelo para obtener tu insignia de vuelo. Obtén un puntaje lo suficientemente alto, ¡y tendrás la oportunidad de participar en juegos de bonificación como Cannonball y Sky Diving! ¡Vuela en un salvaje azul allá con Pilotwings 64!nn* ¡Gran cantidad de desafíos aéreos para que puedas dominar!nn* ¡Súbete al asiento de un Gyrocopter y dispara algunos misiles!nn* Correa en un Rocket Belt y echa un vistazo a lugares como el monte. ¡Rushmore, Space Needle y la Estatua de la Libertad!nn* Vuela en la soledad de un planeador de caída medida que se elevan por encima de las selvas tropicales y los témpanos de hielo congelado.nn* Guarde su progreso en la memoria.</synopsis>
+      <synopsis>Olvídate de esos otros juegos voladores. ¡Esta es la mejor experiencia de vuelo! Pilotwings 64 te lleva a un vasto entorno tridimensional. Pilota varios vehículos diferentes y disfruta de vistas impresionantes. Completa con éxito las pruebas de vuelo para obtener tu insignia de vuelo. Obtén un puntaje lo suficientemente alto, ¡y tendrás la oportunidad de participar en juegos de bonificación como Cannonball y Sky Diving! ¡Vuela en un salvaje azul allá con Pilotwings 64!nn* ¡Gran cantidad de desafíos aéreos para que puedas dominar!nn* ¡Súbete al asiento de un Gyrocopter y dispara algunos misiles!nn* Correa en un Rocket Belt y echa un vistazo a lugares como el monte. ¡Rushmore, Space Needle y la Estatua de la Libertad!nn* Vuela en la soledad de un planeador de caída medida que se elevan por encima de las selvas tropicales y los témpanos de hielo congelado. * Guarde su progreso en la memoria.</synopsis>
       <genre>Estrategia,Simulación</genre>
     </locale>
     <locale lang="FR">
@@ -9668,11 +9677,11 @@ The game is only compatible with Pokémon Red, Green, Blue, and Yellow Versions.
       <genre>Strategy,Fight</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El primer Pokémon Stadium cuenta con  42 Pokémon jugables. El juego se centra principalmente en luchar y demostrar que tus Pokémon son los más fuertes.nnLos modos del juego son: Battle Mode, como su nombre indica, involucra batallas Pokémon. Hay dos tipos: batalla libre y torneo. Organizar, donde los jugadores pueden  transferir Pokémon y elementos entre su partida de Game Boy y la N64. List Mode, donde los jugadores pueden ver una lista de sus Pokémon para estudiar y comparar sus estadísticas. Modo de Registro, donde el jugador registra un equipo de sus Pokémon para la batalla. Party Mode, donde el jugador examina a su equipo actual. GB Mode, donde podrás disfrutar de tu juego de Gamen BOy en la Nintendo 64, gracias al accesorio Transfer Pak.nnEl juego sólo es compatible con las versiones Pokémon Rojo, Verde, Azul y Amarillo.</synopsis>
+      <synopsis>El primer Pokémon Stadium cuenta con  42 Pokémon jugables. El juego se centra principalmente en luchar y demostrar que tus Pokémon son los más fuertes. Los modos del juego son: Battle Mode, como su nombre indica, involucra batallas Pokémon. Hay dos tipos: batalla libre y torneo. Organizar, donde los jugadores pueden  transferir Pokémon y elementos entre su partida de Game Boy y la N64. List Mode, donde los jugadores pueden ver una lista de sus Pokémon para estudiar y comparar sus estadísticas. Modo de Registro, donde el jugador registra un equipo de sus Pokémon para la batalla. Party Mode, donde el jugador examina a su equipo actual. GB Mode, donde podrás disfrutar de tu juego de Gamen BOy en la Nintendo 64, gracias al accesorio Transfer Pak. El juego sólo es compatible con las versiones Pokémon Rojo, Verde, Azul y Amarillo.</synopsis>
       <genre>Estrategia,Combate</genre>
     </locale>
     <locale lang="FR">
-      <synopsis>Le jeu utilise les trois premières versions Pokémon (Bleu, Rouge, Vert) sorties au Japon. Dans ce jeu, contrairement à son successeur, Pokémon Stadium 0 est un jeu où l'on peut simplement combattre. Le plus gros défaut du jeu est que l'on ne peut utiliser que quarante-deux Pokémon. Le jeu se révèle innovateur mais est un échec commercial pour Nintendo, car le jeu se révèle assez incomplet.nnDans ce jeu contrairement à sa suite, le Transfer Pak fournis avec le jeu est indispensable. Quarante-deux Pokémon peuvent participer à des combats.</synopsis>
+      <synopsis>Le jeu utilise les trois premières versions Pokémon (Bleu, Rouge, Vert) sorties au Japon. Dans ce jeu, contrairement à son successeur, Pokémon Stadium 0 est un jeu où l'on peut simplement combattre. Le plus gros défaut du jeu est que l'on ne peut utiliser que quarante-deux Pokémon. Le jeu se révèle innovateur mais est un échec commercial pour Nintendo, car le jeu se révèle assez incomplet. Dans ce jeu contrairement à sa suite, le Transfer Pak fournis avec le jeu est indispensable. Quarante-deux Pokémon peuvent participer à des combats.</synopsis>
       <genre>Stratégie,Combat</genre>
     </locale>
     <locale lang="DE">
@@ -9735,7 +9744,7 @@ The game is only compatible with Pokémon Red, Green, Blue, and Yellow Versions.
       <genre>Simulation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡El profesor Oak necesita tu ayuda!nnnn¡El Profesor te ha pedido que captures al Pokémon Salvaje de la Isla Pokémon ... en la película! Recorra la isla en su vehículo ZERO-ONE y tome fotos de Pokémon en su hábitat natural. Los Pokémon salvajes a menudo son tímidos ante la cámara, por lo que tendrás que usar elementos especiales para sacarlos a la luz. Solo las mejores fotos servirán para el Informe Pokémon del Profesor, ¡así que agudiza tus habilidades de fotografía y prepárate para SNAP!nnnn* El primer juego de N64 que presenta a los Pokémon mundialmente famosos: ¡renderizado completamente en 3-D!nn* Explora los muchos entornos de la isla Pokémon, como la playa soleada, las misteriosas cuevas e incluso un volcán al rojo vivo.nn* Muchos tipos diferentes de Pokémon habitan en la isla. ¡Mira cuántos puedes ver en la película!</synopsis>
+      <synopsis>¡El profesor Oak necesita tu ayuda!¡El Profesor te ha pedido que captures al Pokémon Salvaje de la Isla Pokémon ... en la película! Recorra la isla en su vehículo ZERO-ONE y tome fotos de Pokémon en su hábitat natural. Los Pokémon salvajes a menudo son tímidos ante la cámara, por lo que tendrás que usar elementos especiales para sacarlos a la luz. Solo las mejores fotos servirán para el Informe Pokémon del Profesor, ¡así que agudiza tus habilidades de fotografía y prepárate para SNAP!* El primer juego de N64 que presenta a los Pokémon mundialmente famosos: ¡renderizado completamente en 3-D!nn* Explora los muchos entornos de la isla Pokémon, como la playa soleada, las misteriosas cuevas e incluso un volcán al rojo vivo. * Muchos tipos diferentes de Pokémon habitan en la isla. ¡Mira cuántos puedes ver en la película!</synopsis>
       <genre>Simulación</genre>
     </locale>
     <locale lang="FR">
@@ -9802,7 +9811,7 @@ The game is only compatible with Pokémon Red, Green, Blue, and Yellow Versions.
       <genre>Strategy,Fight</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Mientras Pokémon Stadium 2 tiene una historia, se puede progresar en el juego ganando Copas en el Estadio y completando el Gym Leader Castle. Cuando se hayan ganado todas las Copas y completado el Gym Leader Castle, aparecerá el Rival del jugador. Derrotar al Rival desbloqueará la Ronda 2, en la cual el jugador deberá volver a desafiar al Estadio, al Gym Leader Castle y al Rival para completar el juego. Pero tienen diferentes Pokémon y la dificultad es mucho mayor.nnnnEstadio:nnEl jugador comienza eligiendo 6 Pokémon diferentes. Hay 250 Pokémon diferentes para elegir; incluyendo algunos Pokémon legendarios. Los torneos Pokémon tienen lugar en el estadio. Hay cuatro Copas en las que participar. Cada asalto consta de ocho batallas, y cada una de las Copas, excepto la Copa Pequeña y Primera, consta de cuatro rondas, llamadas Poké Balls, que deben ser eliminadas para ganar esa Copa.</synopsis>
+      <synopsis>Mientras Pokémon Stadium 2 tiene una historia, se puede progresar en el juego ganando Copas en el Estadio y completando el Gym Leader Castle. Cuando se hayan ganado todas las Copas y completado el Gym Leader Castle, aparecerá el Rival del jugador. Derrotar al Rival desbloqueará la Ronda 2, en la cual el jugador deberá volver a desafiar al Estadio, al Gym Leader Castle y al Rival para completar el juego. Pero tienen diferentes Pokémon y la dificultad es mucho mayor.Estadio:nnEl jugador comienza eligiendo 6 Pokémon diferentes. Hay 250 Pokémon diferentes para elegir; incluyendo algunos Pokémon legendarios. Los torneos Pokémon tienen lugar en el estadio. Hay cuatro Copas en las que participar. Cada asalto consta de ocho batallas, y cada una de las Copas, excepto la Copa Pequeña y Primera, consta de cuatro rondas, llamadas Poké Balls, que deben ser eliminadas para ganar esa Copa.</synopsis>
       <genre>Estrategia,Combate</genre>
     </locale>
     <locale lang="FR">
@@ -10166,7 +10175,7 @@ Rainbow Six also features a robust multiplayer with variety of maps and mission 
       <genre>Action,Strategy,Simulation,Shooter / 1st person,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Rainbow Six es un juego de disparos táctico, que se centra más en el sigilo y las tácticas que en pura potencia de fuego. Para agregar al realismo, todos los personajes del juego, terroristas, rehenes y agentes del Arco Iris, pueden ser heridos o enviados en tan solo fracciones de segundo. Las herramientas como la armadura corporal más gruesa, los rifles automáticos y las granadas tienen poco valor antes de que el jugador se acostumbre al juego.nnnnAntes de cada misión es una etapa de planificación, durante la cual el jugador recibe una sesión de información, y luego elige a los operativos para participar en la misión, sus armas, equipo y uniforme / camuflaje. En juegos anteriores, el jugador preestablecía órdenes y puntos de referencia durante este paso. La etapa de planificación determinó elementos como la ruta que los escuadrones controlados por la IA seguirían durante la misión, así como también dónde desplegarán dispositivos como flashes flashes o cargos por violación de puertas.</synopsis>
+      <synopsis>Rainbow Six es un juego de disparos táctico, que se centra más en el sigilo y las tácticas que en pura potencia de fuego. Para agregar al realismo, todos los personajes del juego, terroristas, rehenes y agentes del Arco Iris, pueden ser heridos o enviados en tan solo fracciones de segundo. Las herramientas como la armadura corporal más gruesa, los rifles automáticos y las granadas tienen poco valor antes de que el jugador se acostumbre al juego.Antes de cada misión es una etapa de planificación, durante la cual el jugador recibe una sesión de información, y luego elige a los operativos para participar en la misión, sus armas, equipo y uniforme / camuflaje. En juegos anteriores, el jugador preestablecía órdenes y puntos de referencia durante este paso. La etapa de planificación determinó elementos como la ruta que los escuadrones controlados por la IA seguirían durante la misión, así como también dónde desplegarán dispositivos como flashes flashes o cargos por violación de puertas.</synopsis>
       <genre>Acción,Estrategia,Simulación,Tiro / Tiro 1ª persona,Tiro</genre>
     </locale>
     <locale lang="FR">
@@ -10205,7 +10214,7 @@ Rakuga Kids takes graffiti drawings and lets you control them in this crazy figh
       <genre>Race, Driving,Fight</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Lo esencial:nnEl juego es similar en juego a un Marvel vs. Capcom atenuado. El diseño del botón es el juego de pelea estándar de seis botones (tres golpes y tres patadas), que produce movimientos especiales cuando se combina con varios comandos de dirección. Todos los personajes tienen un ataque con un solo botón que envía al oponente al aire, donde pueden perseguirlos y seguir con un ataque aéreo. Quizás para complementar esto, cada personaje puede realizar un salto adicional mientras está en el aire.nnnnMagia:nnLos Super Combos en este juego se conocen como "Magia" y un jugador puede tener hasta tres niveles de Magia (representados por tres crayones que aparecen en la parte inferior de la pantalla).</synopsis>
+      <synopsis>Lo esencial:nnEl juego es similar en juego a un Marvel vs. Capcom atenuado. El diseño del botón es el juego de pelea estándar de seis botones (tres golpes y tres patadas), que produce movimientos especiales cuando se combina con varios comandos de dirección. Todos los personajes tienen un ataque con un solo botón que envía al oponente al aire, donde pueden perseguirlos y seguir con un ataque aéreo. Quizás para complementar esto, cada personaje puede realizar un salto adicional mientras está en el aire.Magia:nnLos Super Combos en este juego se conocen como "Magia" y un jugador puede tener hasta tres niveles de Magia (representados por tres crayones que aparecen en la parte inferior de la pantalla).</synopsis>
       <genre>Carreras, Conducción,Combate</genre>
     </locale>
     <locale lang="FR">
@@ -10276,7 +10285,7 @@ Rakuga Kids takes graffiti drawings and lets you control them in this crazy figh
     <locale lang="EN">
       <title>Rampage 2 : Universal Tour</title>
       <synopsis>Your 3 favorite human-munching badly-behaved mutants have been captured! Unfortunately, for the humans inhabiting Earth, brand new mutants have been sent to rescue George, Lizzy, and Ralph. You'll meet Ruby the Lobster, Boris the Rhino, and Curtis the Rat as they destroy cities in North America, Asia, and Europe! Get ready for destruction, mayhem, alien exterminators and the best buffet in town - the people of Earth! Hope you're hungry!</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>¡Tus 3 mutantes favoritos que mastican humanos y se han portado mal han sido capturados! Desafortunadamente, para los humanos que habitan la Tierra, se han enviado nuevos mutantes para rescatar a George, Lizzy y Ralph. ¡Conocerás a Ruby the Lobster, Boris the Rhino y Curtis the Rat, ya que destruyen ciudades de América del Norte, Asia y Europa! ¡Prepárate para la destrucción, el caos, los exterminadores alienígenas y el mejor bufé de la ciudad, la gente de la Tierra! Espero que tengas hambre!</synopsis>
@@ -10518,7 +10527,7 @@ Round 2 adds some new play modes and characters into the mix of previous fighter
       <genre>Sports,Sports / Boxing</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>TraducirnnnnGameplay in the game is similar to that of the previous game. The more big hits the player land consecutively, letters that spell out "RUMBLE" appear below the player's side of the screen. Letters also appear when the fighter taunts his opponent. Once the word is formed, powerful combo attacks can be activated that will almost definitely knock the opponent down. This time, however, there are three levels of "RUMBLE", which build up one after the other. If the player successfully lands a combo with his RUMBLE Meter full on the third level (where the letters start smoking), the final blow can launch the opponent clear out of the ring, giving the player an instant victory.nnnn678/5000nnLa jugabilidad en el juego es similar a la del juego anterior. Mientras más golpes grandes el jugador aterrice consecutivamente, las letras que deletrean "RUMBLE" aparecen debajo del lado del jugador de la pantalla. Las letras también aparecen cuando el luchador se burla de su oponente. Una vez que se forma la palabra, se pueden activar poderosos ataques combinados que casi definitivamente derribarán al oponente. Esta vez, sin embargo, hay tres niveles de "RUMBLE", que se acumulan uno después del otro. Si el jugador consigue con éxito un combo con su medidor RUMBLE lleno en el tercer nivel (donde las letras comienzan a fumar), el golpe final puede lanzar al oponente fuera del ring, dándole al jugador una victoria instantánea.</synopsis>
+      <synopsis>TraducirGameplay in the game is similar to that of the previous game. The more big hits the player land consecutively, letters that spell out "RUMBLE" appear below the player's side of the screen. Letters also appear when the fighter taunts his opponent. Once the word is formed, powerful combo attacks can be activated that will almost definitely knock the opponent down. This time, however, there are three levels of "RUMBLE", which build up one after the other. If the player successfully lands a combo with his RUMBLE Meter full on the third level (where the letters start smoking), the final blow can launch the opponent clear out of the ring, giving the player an instant victory.678/5000nnLa jugabilidad en el juego es similar a la del juego anterior. Mientras más golpes grandes el jugador aterrice consecutivamente, las letras que deletrean "RUMBLE" aparecen debajo del lado del jugador de la pantalla. Las letras también aparecen cuando el luchador se burla de su oponente. Una vez que se forma la palabra, se pueden activar poderosos ataques combinados que casi definitivamente derribarán al oponente. Esta vez, sin embargo, hay tres niveles de "RUMBLE", que se acumulan uno después del otro. Si el jugador consigue con éxito un combo con su medidor RUMBLE lleno en el tercer nivel (donde las letras comienzan a fumar), el golpe final puede lanzar al oponente fuera del ring, dándole al jugador una victoria instantánea.</synopsis>
       <genre>Deportes,Deportes / Boxeo</genre>
     </locale>
     <locale lang="FR">
@@ -10581,7 +10590,8 @@ Round 2 adds some new play modes and characters into the mix of previous fighter
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Ridge Racer 64">
+
+    <game name="Ridge Racer 64">
     <id>5494AA</id>
     <locale lang="EN">
       <title>Ridge Racer 64</title>
@@ -10723,7 +10733,7 @@ Se incluyen los modos de un jugador y multijugador. Bate al reloj y llega a la l
       <genre>Simulation</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Un combate en 3D en el mundo de Robotech. El juego nunca llegó a existir.nnAnunciado para el lanzamiento de la consola, el desarrollo del juego ha acumulado retrasos y cambios de diseño. El proyecto fue muy ambicioso, con un mundo abierto y misiones aleatorias por realizar, pero fue cancelado en la bancarrota de GameTek.</synopsis>
+      <synopsis>Un combate en 3D en el mundo de Robotech. El juego nunca llegó a existir. Anunciado para el lanzamiento de la consola, el desarrollo del juego ha acumulado retrasos y cambios de diseño. El proyecto fue muy ambicioso, con un mundo abierto y misiones aleatorias por realizar, pero fue cancelado en la bancarrota de GameTek.</synopsis>
       <genre>Simulación</genre>
     </locale>
     <locale lang="FR">
@@ -10960,7 +10970,7 @@ Modes include time trials, stunt mode including unique track designs to get the 
       <genre>Race, Driving</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>San Francisco Rush 2049 es el tercer juego de la serie Rush, secuela de San Francisco Rush y Rush 2: Extreme Racing USA.nnEl juego presenta una representación futurista de San Francisco y un motor de física estilo arcade. También cuenta con un modo multijugador para hasta cuatro jugadores y compatibilidad con Rumble Pak en el puerto Nintendo 64. Una gran diferencia en el juego en comparación con los predecesores de la serie es la capacidad de extender las alas de los autos en el aire y deslizarse. Al igual que con los títulos anteriores de la franquicia, Rush 2049 presenta un modo de acrobacias en el que el jugador obtiene puntos por complejas maniobras en el aire y aterrizajes exitosos. También hay un modo de batalla de combate a muerte multijugador. Hay seis pistas de carreras, cuatro escenarios de acrobacias, ocho escenarios de batalla y una ruta de obstáculos desbloqueable llamada The Gauntlet.</synopsis>
+      <synopsis>San Francisco Rush 2049 es el tercer juego de la serie Rush, secuela de San Francisco Rush y Rush 2: Extreme Racing USA. El juego presenta una representación futurista de San Francisco y un motor de física estilo arcade. También cuenta con un modo multijugador para hasta cuatro jugadores y compatibilidad con Rumble Pak en el puerto Nintendo 64. Una gran diferencia en el juego en comparación con los predecesores de la serie es la capacidad de extender las alas de los autos en el aire y deslizarse. Al igual que con los títulos anteriores de la franquicia, Rush 2049 presenta un modo de acrobacias en el que el jugador obtiene puntos por complejas maniobras en el aire y aterrizajes exitosos. También hay un modo de batalla de combate a muerte multijugador. Hay seis pistas de carreras, cuatro escenarios de acrobacias, ocho escenarios de batalla y una ruta de obstáculos desbloqueable llamada The Gauntlet.</synopsis>
       <genre>Carreras, Conducción</genre>
     </locale>
     <locale lang="FR">
@@ -11055,7 +11065,7 @@ Modes include time trials, stunt mode including unique track designs to get the 
       <genre>Fight</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Una versión actualizada de Hiryuu no Ken: Twin (Flying Dragon en el extranjero), titulada SD Hiryuu no Ken Densetsu (literalmente, SD Leyenda del puño del dragón volador), fue lanzada solo en Japón, agregando más personajes (como Jack, Ryu y Gofire de la serie Super China), elementos y un nuevo modo de juego. También eliminó el "Modo virtual" más realista, favoreciendo el "Modo de búsqueda" súper deformado.nnnnLos personajes jugables son Ryuhi, Hayato, Min Min, Wiler, Shouryu, Yuka, Suzaku, Powers, Robo No Hana, Bokuchin (desbloqueable), Jack, Ryu, Raima, E. Quaker, Ellie, Gofire, Ryumaou (desbloqueable).</synopsis>
+      <synopsis>Una versión actualizada de Hiryuu no Ken: Twin (Flying Dragon en el extranjero), titulada SD Hiryuu no Ken Densetsu (literalmente, SD Leyenda del puño del dragón volador), fue lanzada solo en Japón, agregando más personajes (como Jack, Ryu y Gofire de la serie Super China), elementos y un nuevo modo de juego. También eliminó el "Modo virtual" más realista, favoreciendo el "Modo de búsqueda" súper deformado.Los personajes jugables son Ryuhi, Hayato, Min Min, Wiler, Shouryu, Yuka, Suzaku, Powers, Robo No Hana, Bokuchin (desbloqueable), Jack, Ryu, Raima, E. Quaker, Ellie, Gofire, Ryumaou (desbloqueable).</synopsis>
       <genre>Combate</genre>
     </locale>
     <locale lang="FR">
@@ -11268,7 +11278,7 @@ Este título añade numerosas características sobre el original, como la capaci
       <genre>Shoot'em Up,Action,Shooter / 1st person,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>La Tierra está bajo la amenaza de los rufianes, mutantes criados para impulsar la disminución de las reservas de alimentos que se han vuelto en contra de sus amos. Como joven luchador de la resistencia, enfrenta una avalancha de monstruos biogenéticos y fuerzas militares corruptas en tu batalla por salvar el planeta.nnnnPor primera vez fuera de Japón, puedes experimentar la acción sin parar de este clásico de Nintendo 64, creado por los maestros del shoot em up de Treasure Co. Ltd.nnnnBatalla por tierra, mar y cielo; recoger bonos de energía, tiempo y puntos; acumular combos masivos para ganar más continúa; y enfrentar la ira de enormes jefes. Además, invita a un amigo a unirse, controlando la mira del arma mientras mueves al personaje.</synopsis>
+      <synopsis>La Tierra está bajo la amenaza de los rufianes, mutantes criados para impulsar la disminución de las reservas de alimentos que se han vuelto en contra de sus amos. Como joven luchador de la resistencia, enfrenta una avalancha de monstruos biogenéticos y fuerzas militares corruptas en tu batalla por salvar el planeta.Por primera vez fuera de Japón, puedes experimentar la acción sin parar de este clásico de Nintendo 64, creado por los maestros del shoot em up de Treasure Co. Ltd.Batalla por tierra, mar y cielo; recoger bonos de energía, tiempo y puntos; acumular combos masivos para ganar más continúa; y enfrentar la ira de enormes jefes. Además, invita a un amigo a unirse, controlando la mira del arma mientras mueves al personaje.</synopsis>
       <genre>Shoot'em Up,Acción,Tiro / Tiro 1ª persona,Tiro</genre>
     </locale>
     <locale lang="FR">
@@ -11309,7 +11319,7 @@ Other modes include stunt mode, shoot mode and speed mode, all focusing on a par
       <genre>Sports,Sports / Skiing</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Los niños discuten sobre sus habilidades de snowboard. El debate se intensifica hasta el punto en que deciden organizar un torneo de snowboard para determinar quién es el mejor. Un personaje, Shinobin, no tiene participación alguna hasta que el jugador lo desbloquea.nnnnAdemás del juego habitual de un juego de snowboard, Snowboard Kids agrega "Disparos" (armas especiales utilizadas para atacar a los jugadores) y elementos que pueden ayudar al jugador, obstaculizar a otros jugadores o ambos.</synopsis>
+      <synopsis>Los niños discuten sobre sus habilidades de snowboard. El debate se intensifica hasta el punto en que deciden organizar un torneo de snowboard para determinar quién es el mejor. Un personaje, Shinobin, no tiene participación alguna hasta que el jugador lo desbloquea.Además del juego habitual de un juego de snowboard, Snowboard Kids agrega "Disparos" (armas especiales utilizadas para atacar a los jugadores) y elementos que pueden ayudar al jugador, obstaculizar a otros jugadores o ambos.</synopsis>
       <genre>Deportes,Deportes / Esquí</genre>
     </locale>
     <locale lang="FR">
@@ -11350,7 +11360,7 @@ Winning a race or performing tricks provides the player with some credit which c
       <genre>Sports,Sports / Skiing,Race, Driving</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>El juego se desarrolla en Snow Town, que es la ciudad natal principal de los protagonistas. La trama sigue la vida cotidiana y las aventuras de los niños, y los intentos bastante ridículos de Damien para sabotearlos.nnnnLa jugabilidad de este juego es casi idéntica a la de su predecesor, pero con algunas diferencias.nnnnAhora hay tres modos de juego distintos: el modo Historia, que sigue la trama del juego y utiliza el sistema clásico de premios en efectivo al ganar las carreras; el modo batalla, que incluye el modo multijugador; y el modo de Entrenamie</synopsis>
+      <synopsis>El juego se desarrolla en Snow Town, que es la ciudad natal principal de los protagonistas. La trama sigue la vida cotidiana y las aventuras de los niños, y los intentos bastante ridículos de Damien para sabotearlos.La jugabilidad de este juego es casi idéntica a la de su predecesor, pero con algunas diferencias.Ahora hay tres modos de juego distintos: el modo Historia, que sigue la trama del juego y utiliza el sistema clásico de premios en efectivo al ganar las carreras; el modo batalla, que incluye el modo multijugador; y el modo de Entrenamie</synopsis>
       <genre>Deportes,Deportes / Esquí,Carreras, Conducción</genre>
     </locale>
     <locale lang="FR">
@@ -11486,7 +11496,7 @@ Winning a race or performing tricks provides the player with some credit which c
 Space Invaders is yet another classic arcade game remake by Activision.  (See Battlezone and Asteroids.)  But this time, Activision licensed a game from Taito instead of Atari.  The game stays close to its roots while adding many power-ups and enemies.
 
 You can play either one or two players against the Invaders, who march down the screen in orderly rows and columns, at one of three skill levels.  You'll start at Pluto and work your way through the Solar System to Mars, then Venus, and finally Earth.  There are four common aliens (red, green, blue, and yellow), plus seven more less common ones.  You receive special one shot power-ups by shooting four of the same type of Invaders in a row.  As in the original game, there are also Mother Ships that fly above the action, but in this version if you hit them you can pick up other useful power-ups like shields or double shots.  Plus, after fighting off several waves on each planet, you'll face a unique boss.  If you manage to finish the game, you'll be able to play a reproduction of the original coin-op.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Shooter</genre>
     </locale>
     <locale lang="ES">
       <synopsis>En 1978, la Tierra rechazó con éxito una invasión del espacio exterior gracias a "el tanque". El tanque fue basado en tecnología exterior encontrada donde una nave espacial se había estrellado años atrás. Ahora, más de 20 años después, se ha creado un nuevo tanque basado en la tecnología recuperada durante la invasión del 78. Y ha sido justo a tiempo, porque los invasores están de vuelta!
@@ -11579,7 +11589,7 @@ There are several side goals in addition the main mission including multiple unl
       <genre>Shoot'em Up,Action,Action / Adventure</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Spider-Man es el primer juego en 3D en protagonizar el popular web-slinger. Se basa libremente en Spider-Man: The Animated Series y Spider-Man Unlimited y presenta algunos de los lanzamientos de voz de cada uno y diseños de personajes similares.nnnnPeter Parker asistirá a una demostración del nuevo invento del Dr. Otto Octavius reformado cuando un Spider-Man impostor se roba el dispositivo. Spider-Man debe trabajar para limpiar su nombre y descubrir los motivos siniestros detrás del robo del dispositivo.</synopsis>
+      <synopsis>Spider-Man es el primer juego en 3D en protagonizar el popular web-slinger. Se basa libremente en Spider-Man: The Animated Series y Spider-Man Unlimited y presenta algunos de los lanzamientos de voz de cada uno y diseños de personajes similares.Peter Parker asistirá a una demostración del nuevo invento del Dr. Otto Octavius reformado cuando un Spider-Man impostor se roba el dispositivo. Spider-Man debe trabajar para limpiar su nombre y descubrir los motivos siniestros detrás del robo del dispositivo.</synopsis>
       <genre>Shoot'em Up,Acción,Acción / Aventura</genre>
     </locale>
     <locale lang="FR">
@@ -11650,7 +11660,7 @@ There are several side goals in addition the main mission including multiple unl
       <genre>Shoot'em Up,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡El sistema Lylat ha sido invadido! Únete a Fox McCloud y su equipo Star Fox mientras luchan para salvar a la galaxia de las garras del malvado Andross. Viaja a muchos mundos tridimensionales diferentes. Combate al enemigo en el aire y en el suelo y escucha mientras Fox McCloud interactúa con un elenco de personajes.nnnn¡Mira cómo se siente sentir lo que ves! El accesorio de controlador N64 Rumble Pak transmite instantáneamente todos los golpes y explosiones durante la acción. ¡Es una nueva sacudida para tu experiencia de juego!nnnn* Cuatro jugadores compiten simultáneamente en vs. ¡modo!nn* ¡La memoria de Game Pak guarda los 10 mejores puntajes!nn* ¡Las mejores escenas de cine cuentan la saga de Star Fox!</synopsis>
+      <synopsis>¡El sistema Lylat ha sido invadido! Únete a Fox McCloud y su equipo Star Fox mientras luchan para salvar a la galaxia de las garras del malvado Andross. Viaja a muchos mundos tridimensionales diferentes. Combate al enemigo en el aire y en el suelo y escucha mientras Fox McCloud interactúa con un elenco de personajes.¡Mira cómo se siente sentir lo que ves! El accesorio de controlador N64 Rumble Pak transmite instantáneamente todos los golpes y explosiones durante la acción. ¡Es una nueva sacudida para tu experiencia de juego!* Cuatro jugadores compiten simultáneamente en vs. ¡modo!nn* ¡La memoria de Game Pak guarda los 10 mejores puntajes!nn* ¡Las mejores escenas de cine cuentan la saga de Star Fox!</synopsis>
       <genre>Shoot'em Up,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -11728,7 +11738,7 @@ Change vehicles mid-mission through specially designated hangars.</synopsis>
       <genre>Simulation,Action,Shooter</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>¡Atención defensores de Naboo! ¡La Federación de Comercio debe ser detenida! Asalta más de 15 misiones por tierra, mar y espacio mientras tus luchadores por la libertad se reúnen contra los ejércitos de droides. Tome el control de 7 vehículos: el caza estelar Naboo, el velocímetro Gian y nuevas embarcaciones como el pesado STAP, la cañonera de la Federación de Comercio y más. Más de 15 misiones: escapar de Theed, buscar y destruir, sabotaje, reconocimiento, convoy. Cazas estelares droides de la Federación de Comercio, AAT, droides destructores, droides de batalla.nnCambie vehículos a mitad de la misión a través de hangares especialmente designados.</synopsis>
+      <synopsis>¡Atención defensores de Naboo! ¡La Federación de Comercio debe ser detenida! Asalta más de 15 misiones por tierra, mar y espacio mientras tus luchadores por la libertad se reúnen contra los ejércitos de droides. Tome el control de 7 vehículos: el caza estelar Naboo, el velocímetro Gian y nuevas embarcaciones como el pesado STAP, la cañonera de la Federación de Comercio y más. Más de 15 misiones: escapar de Theed, buscar y destruir, sabotaje, reconocimiento, convoy. Cazas estelares droides de la Federación de Comercio, AAT, droides destructores, droides de batalla. Cambie vehículos a mitad de la misión a través de hangares especialmente designados.</synopsis>
       <genre>Simulación,Acción,Tiro</genre>
     </locale>
     <locale lang="FR">
@@ -11965,7 +11975,7 @@ A 4 player split screen mode is also included, while you can compete in practice
     <locale lang="EN">
       <title>Super B-daman - Battle Phoenix 64</title>
       <synopsis>Super B-Daman: Battle Phoenix 64 is an action game for the Nintendo 64. It was released only in Japan in 1998, and is compatible with the original Super B-Daman: Fighting Phoenix.  B-Daman is a marble shooting toy produced in Japan by Takara.</synopsis>
-      <genre>Action</genre>
+      <genre>Action,Arcade</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Super B-Daman: Battle Phoenix 64 es un juego de acción para Nintendo 64. Fue lanzado solo en Japón en 1998, y es compatible con el Super B-Daman original: Fighting Phoenix. B-Daman es un juguete de tiro de mármol producido en Japón por Takara.</synopsis>
@@ -12036,6 +12046,7 @@ Multi-player modes are also available, with a number of different variations.</s
     <locale lang="EN">
       <title>Super Irishley Drunk Giant Waluigi 64</title>
       <synopsis>Hack of Super Mario 64 playing with a gigantic Mario.</synopsis>
+      <genre>Action,Platform</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Curioso hack de Super Mario 64 en donde nuestro protagonista presenta un modelo 3D gigante, en cuanto al diseño de niveles no se presentan demasiadas novedades, tan solo algunas texturas cambiadas.</synopsis>
@@ -12051,6 +12062,8 @@ Multi-player modes are also available, with a number of different variations.</s
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Super Mario 64">
     <id>5396AA</id>
@@ -12093,8 +12106,14 @@ Multi-player modes are also available, with a number of different variations.</s
     <id>108717</id>
     <locale lang="EN">
       <title>Super Mario 64</title>
-      <synopsis>Super Mario 64 : Star Road is hack of Super Mario 64. New levels and musics and 120 stars to collect.</synopsis>
-      <genre>Action</genre>
+      <synopsis>Mario is invited to Peach's castle, but when he arrives Peach is nowhere to be seen. He soon learns from Toad that Bowser has once again kidnapped her. The Koopa King has also put a spell on her castle, imprisoning her subjects. So it is up to Mario to break the spell and rescue Peach.
+
+Super Mario 64 is the first Mario game done entirely with 3D graphics. The core gameplay is similar to previous platform installments, focusing on jumping, avoiding obstacles and defeating enemies. Levels can be explored without time limits. Stars must be collected in order to unlock new areas, eventually gaining access to various parts of Bowser's castle. Defeating Bowser on each floor procures keys necessary to unlock big doors and enter other floors, which contain more areas.
+
+Mario has more moves at his disposal in this installment. Besides running and jumping, he can now walk, crouch, crawl, climb, and punch enemies. Double and triple jumps, long jumps, wall jumps and backflips can be executed as well. Swimming underwater now depletes Mario's oxygen level. Items must be picked up and carried in some instances in order to solve puzzles.
+
+Power-ups include the Wing Cap, which allows Mario to fly; the Metal Cap, which protects him from damage (including environmental hazards such as poisonous gas); and the Vanish Cap, which makes Mario ethereal, allowing him to walk through certain obstacles (such as wire mesh). Mario can also enter cannons and be shot from them; combining this with the flying ability grants access to high areas.</synopsis>
+      <genre>Action,Platform,</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Super Mario 64: Star Road es un hack completo para Super Mario 64 y se considera su secuela espiritual, ¡solo eso! Es de lejos el más avanzado técnicamente. Esta no es una copia simple del juego con uno o dos mundos más, no, ¡es un juego completamente nuevo! Esta revisión del juego original trae nuevos niveles, nueva música y más de 120 estrellas. Los niveles muestran muchas referencias a otros títulos de culto: The Wind Waker, Mario Paper, Double Dash, Mario Galaxy, Rayman, etc.</synopsis>
@@ -12103,7 +12122,7 @@ Multi-player modes are also available, with a number of different variations.</s
       <synopsis>Super Mario 64 : Star Road est un hack complet pour Super Mario 64 et est considéré comme sa suite spirituelle, rien que ça ! C'est de loin le plus avancé techniquement. Ce n'est pas une simple copie du jeu avec un ou deux mondes en plus, non, c'est un tout nouveau jeu ! rnrn Cette révision du jeu d'origine apporte de nouveaux niveaux, de nouvelles musiques et plus de 120 étoiles. Les niveaux affichent de nombreuses références à d'autres titres cultes : The Wind Waker, Paper Mario, Double Dash, Mario Galaxy, Rayman, etc.</synopsis>
     </locale>
     <developer>Skelux</developer>
-    <publisher>Nintendo</publisher>
+    <publisher/>
     <date year="1996" month="" day=""/>
     <rating type="NOTE" value="">
 		</rating>
@@ -12120,6 +12139,7 @@ Multi-player modes are also available, with a number of different variations.</s
       <title>Super Mario 64 - Shindou Edition (rumble Pack Edition)</title>
       <synopsis>Enhanced edition of Super Mario 64 which was only released in Japan in July 1997, and offer Rumble Pak support.
 There are also a few other minor differences between this re-issue and the original version.</synopsis>
+      <genre>Platform</genre>
     </locale>
     <locale lang="ES">
       <synopsis>¿En qué se diferencia la edición de Super Mario 64 Shindou de la versión original? La pantalla del título presenta un nuevo ícono animado que resalta la compatibilidad con el Rumble Pak. En realidad es el lanzamiento internacional del juego, aunque traducido de nuevo al japonés. Como resultado, no presenta los fallos y errores presentes en la versión original en japonés. También incluye clips de voz del lanzamiento internacional, que anteriormente no estaban en la versión japonesa. La diferencia más notable es la inclusión de un Easter egg en la pantalla de título. Presionando el botón Z se llena el fondo con mosaicos que replican la cara de Mario varias veces.</synopsis>
@@ -12271,6 +12291,7 @@ Es gibt außerdem einen Classic-Modus und 3 Arten von Minispielen: "Zerstöre di
     <locale lang="EN">
       <title>Super Wario 64</title>
       <synopsis>A Hack of Super Mario 64 substituting Mario by Wario.</synopsis>
+      <genre>Platform</genre>
     </locale>
     <locale lang="ES">
       <synopsis>Super Wario 64 es un hack Rom hecho por Kaze. Este hack tiene todos los niveles de SM64, pero esta vez presenta a Wario como personaje jugable en lugar de Mario.</synopsis>
@@ -12286,6 +12307,8 @@ Es gibt außerdem einen Classic-Modus und 3 Arten von Minispielen: "Zerstöre di
       <control type="classiccontroller" required="false"/>
       <control type="gamecube" required="false"/>
     </input>
+    <date year=""/>
+    <publisher/>
   </game>
   <game name="Supercross 2000">
     <id>5726AA</id>
@@ -12396,7 +12419,7 @@ Superman 64 est considéré presque unanimement comme l'un des plus mauvais jeux
       <genre>Sports</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Los Juegos Olímpicos de Sydney 2000 se cancelaron antes del lanzamiento.nnnnEntrene su mente y cuerpo para la competencia en el gimnasio virtual. 4 modos de juego: Olímpico, Arcade, Head-to-Head o Coaching. Compite en una intensa acción multijugador para hasta 4 jugadores. Presentación estilo TV con los comentaristas campeones olímpicos Dwight Stones y Marty Liquori. 32 países representados en 12 eventos de poder, resistencia, precisión y habilidad.</synopsis>
+      <synopsis>Los Juegos Olímpicos de Sydney 2000 se cancelaron antes del lanzamiento.Entrene su mente y cuerpo para la competencia en el gimnasio virtual. 4 modos de juego: Olímpico, Arcade, Head-to-Head o Coaching. Compite en una intensa acción multijugador para hasta 4 jugadores. Presentación estilo TV con los comentaristas campeones olímpicos Dwight Stones y Marty Liquori. 32 países representados en 12 eventos de poder, resistencia, precisión y habilidad.</synopsis>
       <genre>Deportes</genre>
     </locale>
     <locale lang="FR">
@@ -12457,7 +12480,7 @@ Découvrez les Jeux Olympiques de Sydney 2000. Entraînez votre corps et votre e
       <genre>Puzzle-Game,Adventure,Action / Adventure,Action</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Taz - ¿un repartidor? ¿Confiarías en ESTE tipo para entregar tu frágil paquete?nnnnCansado de ver a Taz haciendo nada más que pasar el rato en la casa y mirar televisión, She-Devil decide que Taz necesita encontrar un trabajo. Ella encuentra la perfecta para él, como repartidor para el próximo servicio de mensajería, "Taz Express". Su trabajo: ayude a Taz a proteger el paquete el tiempo suficiente para entregarlo.</synopsis>
+      <synopsis>Taz - ¿un repartidor? ¿Confiarías en ESTE tipo para entregar tu frágil paquete?Cansado de ver a Taz haciendo nada más que pasar el rato en la casa y mirar televisión, She-Devil decide que Taz necesita encontrar un trabajo. Ella encuentra la perfecta para él, como repartidor para el próximo servicio de mensajería, "Taz Express". Su trabajo: ayude a Taz a proteger el paquete el tiempo suficiente para entregarlo.</synopsis>
       <genre>Rompecabezas,Aventura,Acción / Aventura,Acción</genre>
     </locale>
     <locale lang="FR">
@@ -13198,7 +13221,8 @@ El objetivo del juego es el mismo que el de la versión anterior: correr por dif
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Transformers - Beast Wars Transmetals">
+
+    <game name="Transformers - Beast Wars Transmetals">
     <id>5552AA</id>
     <locale lang="EN">
       <title>Transformers : Beast Wars Transmetals</title>
@@ -14115,7 +14139,7 @@ Up to 3 Players can play together in multiplayer mode</synopsis>
       <genre>Action,Puzzle-Game,Quiz / English,Quiz</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>Este juego es una versión interactiva del popular concurso estadounidense Wheel of Fortune, que se completa con la anfitriona Vanna White.nnnnEl juego se juega tratando de encontrar una palabra oculta con solo unas pocas aproximaciones permitidas para las letras, que es muy similar al juego de lápiz y papel Ahorcado. La otra ronda que presenta la Rueda de la Fortuna implica que hagas girar la rueda que tiene varios premios, buenos y malos, y lo que sea que el puntero se detenga cuando deje de girar es lo que gana el jugador. Esto puede ser efectivo, un giro gratis o si tiene mucha mala suerte, lo que significa que perderá todo el dinero que ganó hasta ese momento.nnnnHasta 3 jugadores pueden jugar juntos en modo multijugador.</synopsis>
+      <synopsis>Este juego es una versión interactiva del popular concurso estadounidense Wheel of Fortune, que se completa con la anfitriona Vanna White.El juego se juega tratando de encontrar una palabra oculta con solo unas pocas aproximaciones permitidas para las letras, que es muy similar al juego de lápiz y papel Ahorcado. La otra ronda que presenta la Rueda de la Fortuna implica que hagas girar la rueda que tiene varios premios, buenos y malos, y lo que sea que el puntero se detenga cuando deje de girar es lo que gana el jugador. Esto puede ser efectivo, un giro gratis o si tiene mucha mala suerte, lo que significa que perderá todo el dinero que ganó hasta ese momento.Hasta 3 jugadores pueden jugar juntos en modo multijugador.</synopsis>
       <genre>Acción,Rompecabezas,Quiz / Inglés,Quiz</genre>
     </locale>
     <locale lang="FR">
@@ -14148,7 +14172,7 @@ Up to 3 Players can play together in multiplayer mode</synopsis>
       <genre>Race, Driving</genre>
     </locale>
     <locale lang="ES">
-      <synopsis>WildWaters es un juego inédito para Nintendo 64.nnnnEn desarrollo en Looking Glass en 1999, este título de kayak solo se mostró a puertas cerradas en la exposición E3 de ese año. Cuando el desarrollador cerró la tienda, el título desapareció. La siguiente información fue utilizada en el anuncio del título:nnnnEl corredor de arcade basado en agua ofrecerá seis personajes diferentes para elegir, así como tres tipos diferentes de kayak, cada uno con sus respectivas fortalezas y debilidades. Wildwater enviará hasta dos jugadores en seis peligrosos cursos fluviales, resaltados por la física realista del agua y gráficos llamativos. Ubi Soft promete cinco modos de juego diferentes, que incluyen Arcade, Time Trial, Championship, Finals y Versus Battle.</synopsis>
+      <synopsis>WildWaters es un juego inédito para Nintendo 64.En desarrollo en Looking Glass en 1999, este título de kayak solo se mostró a puertas cerradas en la exposición E3 de ese año. Cuando el desarrollador cerró la tienda, el título desapareció. La siguiente información fue utilizada en el anuncio del título:El corredor de arcade basado en agua ofrecerá seis personajes diferentes para elegir, así como tres tipos diferentes de kayak, cada uno con sus respectivas fortalezas y debilidades. Wildwater enviará hasta dos jugadores en seis peligrosos cursos fluviales, resaltados por la física realista del agua y gráficos llamativos. Ubi Soft promete cinco modos de juego diferentes, que incluyen Arcade, Time Trial, Championship, Finals y Versus Battle.</synopsis>
       <genre>Carreras, Conducción</genre>
     </locale>
     <locale lang="FR">
@@ -14227,7 +14251,7 @@ Additionally you can find secret areas with even more honey pots, collect pictur
     </locale>
     <locale lang="FR">
       <title>Winnie l'ourson : la Chasse au miel de Tigrou</title>
-      <synopsis>Winnie l'ourson : la Chasse au miel de Tigrou (Tigger's Honey Hunt) est un jeu vidéo de plates-formes sorti en 2000 sur Nintendo 64, PlayStation et Windows. Le jeu a été développé par le studio lyonnais Doki Denki (anciennement Héliovision/Héliogame) pour le compte de Disney Interactive puis édité par NewKidCo et Ubisoft.nnnnLe jeu est basé sur la série d'animation Winnie l'ourson.</synopsis>
+      <synopsis>Winnie l'ourson : la Chasse au miel de Tigrou (Tigger's Honey Hunt) est un jeu vidéo de plates-formes sorti en 2000 sur Nintendo 64, PlayStation et Windows. Le jeu a été développé par le studio lyonnais Doki Denki (anciennement Héliovision/Héliogame) pour le compte de Disney Interactive puis édité par NewKidCo et Ubisoft.Le jeu est basé sur la série d'animation Winnie l'ourson.</synopsis>
       <genre>Shoot'em Up,Action,Aventure</genre>
     </locale>
     <locale lang="DE">

@@ -1829,7 +1829,7 @@
 42155A|Lizard Wizard|Lizard Wizard||Shooter,|2||Techstar|Techstar (Sunn license)|1985
 42172A|Lost Tomb|Lost Tomb||Action / Labyrinth,Action,|2||Stern Electronics, Inc.|Stern Electronics|1982
 42193A|Lucky And Wild|Lucky & Wild||Race, Driving,Race 1st Pers. view,|2|||Namco|1992
-150086|Mach Breakers|Mach Breakers||Sports,Sports / Track & Field,|4||Namco||1995
+150086|Mach Breakers|Mach Breakers||Sports,|4||Namco||1995
 78853A|Mappy|Mappy|Catt|Platform,Plateform / Run Jump,|2||Namco|Namco|1983
 78953A|Marchen Maze|Marchen Maze||Action / Labyrinth,Action,|2||Namco|Namco|1988
 63077A|Mario Kart Arcade Gp|Mario Kart Arcade Gp||Race, Driving,Race 3rd Pers. view,|||Namco|Namco|2005
@@ -2314,7 +2314,7 @@
 149968|Son Of Phoenix|Son Of Phoenix||,Shooter|||||1985
 43176A|Sonic Boom|Sonic Boom||Shoot'em up / Vertical,Shoot'em Up,|2||Sega|Sega|1987
 42916A|Sonic Championship|Sonic Championship|||||Sega|Sega|1996
-150792|Sonic The Hedgehog 2|Sonic The Hedgehog 2||Platform,Platform / Run, Jump & Scrolling,|2||Sega|Sega|1993
+150792|Sonic The Hedgehog 2|Sonic The Hedgehog 2||Platform,|2||Sega|Sega|1993
 150353|Soreike Kokology Vol. 2 - Kokoro No Tanteikyoku|Soreike Kokology Vol. 2 - Kokoro No Tanteikyoku||Quiz,Quiz / Questions in Japanese,|||||1993
 150341|Soreike! Anpanman Popcorn Factory|Soreike! Anpanman Popcorn Factory|||||||
 150368|South Park|South Park||Electromechanical / Pinball,|||||1999
@@ -2886,7 +2886,7 @@
 149829|Hangzo|Hangzo|Bang!|Beat'em Up,||Coop|||1992
 41648A|Heavy Barrel|Heavy Barrel||Shooter,Shooter / Run and Shoot,|2||Data East|Data East|1987
 41753A|Heavy Smash|Heavy Smash||Sports,Sports / Handball,|2||Data East|Data East|1993
-41740A|High Seas Havoc|High Seas Havoc||Platform,Platform / Run, Jump & Scrolling,|||Data East|Data East|1993
+41740A|High Seas Havoc|High Seas Havoc||Platform,|||Data East|Data East|1993
 40558A|Highway Chase|Highway Chase||Shooter,Shooter / Vehicle, Vertical,|2||Data East|Data East|1980
 41681A|Hippodrome|Hippodrome||Fight,Fight / Versus,|2||Data East|Data East|1989
 41708A|Hoops|Hoops|Colt|Sports,Sports / Basketball,|4|||Data East|1996
@@ -3079,7 +3079,7 @@
 60857A|Pack'n Bang Bang|Pack'n Bang Bang||Action / Breakout games,Action,|2|Coop|Kaneko|Kaneko|1994
 79183A|Panic Street|Panic Street||Puzzle-Game,|2||Kaneko|Kaneko|1999
 42735A|Red Clash|Red Clash||Shooter,Shooter / Vertical,|2||Tehkan Ltd.|Tehkan Ltd.|1981
-42738A|Red Robin|Red Robin||Platform,Platform / Run, Jump & Scrolling,|2||Elettronolo|Elettronolo|1986
+42738A|Red Robin|Red Robin||Platform,|2||Elettronolo|Elettronolo|1986
 42970A|Sen-know|Sen-know|Ken-Go|Puzzle-Game,Puzzle-Game / Fall,|2||Kaneko Co., Ltd.|Kaneko / Kouyousha|1999
 42964A|Sengeki Striker|Sengeki Striker||Shoot'em up / Vertical,Shoot'em Up,|2||Kaneko Co., Ltd.|Kaneko / Warashi|1997
 43051A|Shogun Warriors|Shogun Warriors||Fight,Fight / Versus,|2||Kaneko|Kaneko|1992
@@ -3518,7 +3518,7 @@
 127767|Tennis (playchoice-10)|Tennis||Sports,Sports / Tennis,|2||bootleg|bootleg|1982
 79215A|Goonies (PlayChoice-10), The|The Goonies (PlayChoice-10)||Platform,Plateform / Run Jump Scrolling,|1||Konami|Konami|1986
 149964|Tiny Toon Adventures|Tiny Toon Adventures|||||||1991
-149962|Track And Field|Track And Field|Track & Field|Sports,Sports / Track & Field,|||||1987
+149962|Track And Field|Track And Field|Track & Field|Sports,|||||1987
 149538|Trojan|Trojan|Frog|Fighter,Fight / 2D,|||||1986
 79214A|Uncle Fester's Quest - The Addams Family (playchoice-10)|Uncle Fester's Quest: The Addams Family (PlayChoic||Action / Labyrinth,Action,|1||Sunsoft|Sunsoft|1989
 79236A|Volley Ball (playchoice-10)|Volley Ball (PlayChoice-10)||Sports,Sports / Volleyball,|2||Nintendo|Nintendo|1986
@@ -4867,7 +4867,7 @@
 43683A|Toride 2 Adauchi Gaiden|Toride II Adauchi Gaiden||Puzzle-Game,Puzzle-Game / Equalize,|2||Metro|Metro|1994
 43974A|Varia Metal|Varia Metal||Shoot'em up / Vertical,Shoot'em Up,|2||Excellent Systems|Excellent System|1995
 79159A|Act Raiser|Act Raiser||Platform,Plateform / Fighter Scrolling,|1||Enix|Enix|1992
-150181|Addams Family, The|The Addams Family||Platform,Platform / Run, Jump & Scrolling,|||||
+150181|Addams Family, The|The Addams Family||Platform,|||||
 40070A|Arm Wrestling|Arm Wrestling||Sports,Sports / Arm wrestling,|1||Nintendo|Nintendo|1985
 150235|Baseball|Baseball|Basketball|Sports,Sports / Baseball,|||||1974
 57827A|David Crane's Amazing Tennis|David Crane's Amazing Tennis||Sports,Sports / Tennis,|2|||Absolute Entertainment|1992
@@ -5103,92 +5103,92 @@
 43517A|Tao Taido|Tao Taido||Fight,Fight / Versus,|2||Video System|Video System|1993
 43777A|Turbo Force|Turbo Force|Terra Force|Shoot'em up / Vertical,Shoot'em Up,|3||Video System|Video System|1991
 44056A|Welltris|Welltris|Tetris|Puzzle-Game,Puzzle-Game / Fall,|2||Video System|Video System|1991
-40073A|Aso - Armored Scrum Object|Aso - Armored Scrum Object||Shoot'em up / Vertical,Shoot'em Up,|1-2|||SNK|1985
-40095A|Athena|Athena|Ace|Platform,Plateform / Fighter Scrolling,|1-2||SNK|SNK|1986
-40179A|Beast Busters|Beast Busters||Shooter,Lightgun Shooter,|1-3||SNK|SNK|1989
+40073A|Aso - Armored Scrum Object|Aso - Armored Scrum Object||Shoot'em up / Vertical,Shoot'em Up,|2|||SNK|1985
+40095A|Athena|Athena|Ace|Platform,Plateform / Fighter Scrolling,|2||SNK|SNK|1986
+40179A|Beast Busters|Beast Busters||Shooter,Lightgun Shooter,|3||SNK|SNK|1989
 40178A|Beast Busters 2nd Nightmare|Beast Busters 2nd Nightmare||Shooter,Lightgun Shooter,|||SNK|SNK|1998
-40203A|Bermuda Triangle|Bermuda Triangle||Shoot'em up / Vertical,Shoot'em Up,|1-2||SNK|SNK|1987
+40203A|Bermuda Triangle|Bermuda Triangle||Shoot'em up / Vertical,Shoot'em Up,|2||SNK|SNK|1987
 40408A|Buriki One|Buriki One||Fight,Fight / Versus,|||SNK|SNK|1999
-40440A|Canvas Croquis|Canvas Croquis||Action / Labyrinth,Action,|1-2||SNK|SNK|1985
-40550A|Chopper I|Chopper I||Shoot'em up / Vertical,Shoot'em Up,|1-2||SNK|SNK|1988
-40693A|Country Club|Country Club||Sports,Sports / Golf,|1-2||SNK|SNK|1988
-150438|Fantasy|Fantasy|Fantasia|Action / Adventure,Action / Labyrinth,Action,|1-2||SNK|SNK|1981
+40440A|Canvas Croquis|Canvas Croquis||Action / Labyrinth,Action,|2||SNK|SNK|1985
+40550A|Chopper I|Chopper I||Shoot'em up / Vertical,Shoot'em Up,|2||SNK|SNK|1988
+40693A|Country Club|Country Club||Sports,Sports / Golf,|2||SNK|SNK|1988
+150438|Fantasy|Fantasy|Fantasia|Action / Adventure,Action / Labyrinth,Action,|2||SNK|SNK|1981
 150420|Fatal Fury - King Of Fighters / Garou Densetsu - Shukumei No Tatakai|Fatal Fury - King Of Fighters / Garou Densetsu - Shukumei No Tatakai|||||||1991
 150421|Fatal Fury 2 / Garou Densetsu 2 - Arata-naru Tatakai|Fatal Fury 2 / Garou Densetsu 2 - Arata-naru Tatakai|||||||1992
 150422|Fatal Fury 3 - Road To The Final Victory / Garou Densetsu 3 - Haruka-naru Tatakai|Fatal Fury 3 - Road To The Final Victory / Garou Densetsu 3 - Haruka-naru Tatakai|||||||1995
 150416|Fatal Fury Special / Garou Densetsu Special|Fatal Fury Special / Garou Densetsu Special|||||||1993
 41179A|Fatal Fury - Wild Ambition|Fatal Fury: Wild Ambition||Fight,Fight / Versus,|2||SNK|SNK|1998
-41290A|Fighting Soccer|Fighting Soccer|Fighting Roller|Sports,Sports / Soccer,|1-4||SNK|SNK|1988
+41290A|Fighting Soccer|Fighting Soccer|Fighting Roller|Sports,Sports / Soccer,|4||SNK|SNK|1988
 149442|Garou - Mark Of The Wolves|Garou - Mark Of The Wolves|||||||1999
-43012A|Gladiator 1984|Gladiator 1984||Platform,Plateform / Run Jump,|1-2||SNK|SNK|1984
-41483A|Gold Medalist|Gold Medalist||Sports,Sports / Running trails,|1-4||SNK|SNK|1988
-41604A|Guerrilla War|Guerrilla War||Shooter,Shooter / Run and Shoot,|1-2||SNK|SNK|1987
-41613A|Hal21|Hal21||Shoot'em up / Vertical,Shoot'em Up,|1-2|Coop|SNK|SNK|1985
-41786A|Ikari 3 - The Rescue|Ikari III - The Rescue||Shooter,Shooter / Run and Shoot,|1-2|||SNK|1989
-41785A|Ikari Warriors|Ikari Warriors|Dark Warrior|Shooter,Shooter / Run and Shoot,|1-2|Coop|SNK|SNK|1986
+43012A|Gladiator 1984|Gladiator 1984||Platform,Plateform / Run Jump,|2||SNK|SNK|1984
+41483A|Gold Medalist|Gold Medalist||Sports,Sports / Running trails,|4||SNK|SNK|1988
+41604A|Guerrilla War|Guerrilla War||Shooter,Shooter / Run and Shoot,|2||SNK|SNK|1987
+41613A|Hal21|Hal21||Shoot'em up / Vertical,Shoot'em Up,|2|Coop|SNK|SNK|1985
+41786A|Ikari 3 - The Rescue|Ikari III - The Rescue||Shooter,Shooter / Run and Shoot,|2|||SNK|1989
+41785A|Ikari Warriors|Ikari Warriors|Dark Warrior|Shooter,Shooter / Run and Shoot,|2|Coop|SNK|SNK|1986
 145372|Janshin Densetsu - Quest Of Jongmaster|Janshin Densetsu - Quest Of Jongmaster|||||||1994
-41912A|Joyful Road|Joyful Road||Race, Driving,|1-2||SNK|SNK|1983
-41874A|Jumping Cross|Jumping Cross||Race, Driving,Race, Driving / Motorcycle,|1-2||SNK|SNK|1984
-42101A|Lasso|Lasso|Blasto|Shooter,Various,|1-2||SNK|SNK|1982
-150437|Lee Trevino's Fighting Golf|Lee Trevino's Fighting Golf||Sports / Golf,Sports,|1-2||SNK|SNK|1988
+41912A|Joyful Road|Joyful Road||Race, Driving,|2||SNK|SNK|1983
+41874A|Jumping Cross|Jumping Cross||Race, Driving,Race, Driving / Motorcycle,|2||SNK|SNK|1984
+42101A|Lasso|Lasso|Blasto|Shooter,Various,|2||SNK|SNK|1982
+150437|Lee Trevino's Fighting Golf|Lee Trevino's Fighting Golf||Sports / Golf,Sports,|2||SNK|SNK|1988
 150424|Legend Of Success Joe / Ashita No Joe Densetsu|Legend Of Success Joe||Fight / 2D,Fight,|||Wave Corp.|SNK|1991
-42355A|Mad Crasher|Mad Crasher||Shooter,Shooter / Vehicle, Diagonal,|1-2||SNK|SNK|1984
-41905A|Mahjong Block Jongbou|Mahjong Block Jongbou||Action,Action / Breakout games,Mahjong,Asiatic board game,|1-2||SNK|SNK|1987
-57998A|Main Event|Main Event||Sports,Sports / Boxing,|1-2||SNK|SNK|1984
-78863A|Marvin's Maze|Marvin's Maze||Action / Labyrinth,Action,|1-2||SNK|SNK|1983
-78888A|Mechanized Attack|Mechanized Attack||Shooter,Lightgun Shooter,|1-2||SNK|SNK|1989
-78899A|Meijinsen|Meijinsen||Asiatic board game,Shougi,|1-2||SNK|SNK|1986
-150425|Metal Slug X - Super Vehicle-001|Metal Slug X - Super Vehicle-001||Shoot'em up / Horizontal,Shoot'em Up,|1-2||SNK|SNK|1999
+42355A|Mad Crasher|Mad Crasher||Shooter,Shooter / Vehicle, Diagonal,|2||SNK|SNK|1984
+41905A|Mahjong Block Jongbou|Mahjong Block Jongbou||Action,Action / Breakout games,Mahjong,Asiatic board game,|2||SNK|SNK|1987
+57998A|Main Event|Main Event||Sports,Sports / Boxing,|2||SNK|SNK|1984
+78863A|Marvin's Maze|Marvin's Maze||Action / Labyrinth,Action,|2||SNK|SNK|1983
+78888A|Mechanized Attack|Mechanized Attack||Shooter,Lightgun Shooter,|2||SNK|SNK|1989
+78899A|Meijinsen|Meijinsen||Asiatic board game,Shougi,|2||SNK|SNK|1986
+150425|Metal Slug X - Super Vehicle-001|Metal Slug X - Super Vehicle-001||Shoot'em up / Horizontal,Shoot'em Up,|2||SNK|SNK|1999
 150074|Minasan No Okagesamadesu! Dai Sugoroku Taikai|Minasan No Okagesamadesu! Dai Sugoroku Taikai||Mahjong,Asiatic board game,|1||Monolith|Monolith|1990
 39920A|Neo Print - '98 Neopri Best 44|Neo Print - '98 Neopri Best 44||Various / Print Club,Various,|||SNK|SNK|1998
 79153A|Neo Print V1|Neo Print V1||Various / Print Club,Various,|||SNK|SNK|1996
-150098|Neo Turf Masters / Big Tournament Golf|Neo Turf Masters||Sports / Golf,Sports,|1-2||Nazca Corporation|SNK|1996
-150426|Neo-geo Cup '98 - The Road To The Victory|Neo-geo Cup '98 - The Road To The Victory||Sports / Soccer,Sports,|1-2||SNK|SNK|1998
+150098|Neo Turf Masters / Big Tournament Golf|Neo Turf Masters||Sports / Golf,Sports,|2||Nazca Corporation|SNK|1996
+150426|Neo-geo Cup '98 - The Road To The Victory|Neo-geo Cup '98 - The Road To The Victory||Sports / Soccer,Sports,|2||SNK|SNK|1998
 79154A|Neoprisp Retro Collection|Neoprisp Retro Collection||Various / Print Club,Various,|||SNK|SNK|1996
-79128A|Nibbler|Nibbler|Bubbles|Action / Labyrinth,Action,|1-2||Rock-Ola|Rock-Ola|1982
+79128A|Nibbler|Nibbler|Bubbles|Action / Labyrinth,Action,|2||Rock-Ola|Rock-Ola|1982
 108049|Over Top|Over Top||Race, Driving,|||ADK|SNK|1996
-79117A|Ozma Wars|Ozma Wars||Shooter,Shooter / Space Invaders Like,|1-2||SNK|SNK|1979
-42487A|P.o.w. - Prisoners Of War|P.o.w. - Prisoners Of War||Fight,Fight / 2.5D,|1-2||SNK|SNK|1988
-79170A|Paddle Mania|Paddle Mania||Sports,Sports / Tennis,|1-4||SNK|SNK|1988
-79198A|Pioneer Balloon|Pioneer Balloon||Shoot'em up / Horizontal,Shoot'em Up,|1-2||SNK|SNK|1982
-42501A|Prehistoric Isle In 1930|Prehistoric Isle In 1930||Shoot'em up / Horizontal,Shoot'em Up,|1-2||SNK|SNK|1989
-42533A|Psycho Soldier|Psycho Soldier||Platform,Plateform / Fighter Scrolling,|1-2||SNK|SNK|1987
-150423|Puzzled / Joy Joy Kid|Puzzled||Puzzle-Game / Fall,Puzzle-Game,|1-2||SNK|SNK|1990
-150428|Real Bout Fatal Fury / Real Bout Garou Densetsu|Real Bout Fatal Fury||Fight / Versus,Fight,|1-2||SNK|SNK|1995
-150419|Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - The Newcomers|Real Bout Fatal Fury 2 - The Newcomers||Fight / Versus,Fight,|1-2||SNK|SNK|1998
-150429|Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special|Real Bout Fatal Fury Special||Fight / Versus,Fight,|1-2||SNK|SNK|1996
-150415|Roads Edge / Round Trip|Roads Edge||Race, Driving,Race 3rd Pers. view,|1-4||SNK|SNK|1997
-42865A|Safari Rally|Safari Rally||Action / Labyrinth,Race, Driving,Action,|1-2||SNK|SNK|1979
-42879A|Samurai Shodown - Warrior's Rage / Samurai Spirits 2 - Asura Zanmaden|Samurai Shodown: Warrior's Rage||Fight,Fight / Versus,|1-2||SNK|SNK|1998
-79409A|Samurai Shodown 64 / Samurai Spirits 64|Samurai Shodown 64||Fight,Fight / Versus,|1-2||SNK|SNK|1998
-149443|Samurai Shodown V / Samurai Spirits Zero|Samurai Shodown V||Fight / Versus,Fight,|1-2||Yuki Enterprise|SNK|2003
-150695|Samurai Shodown V Special / Samurai Spirits Zero Special|Samurai Shodown V Special||Fight / Versus,Fight,|1-2||Yuki Enterprise|SNK|2004
-42947A|Sar - Search And Rescue|Sar - Search And Rescue||Shooter,Shooter / Run and Shoot,|1-2||SNK|SNK|1989
-42894A|Sasuke Vs. Commander|Sasuke Vs. Commander||Shooter,Shooter / 3rd person,|1-2||TOSE|SNK|1980
-42895A|Satan Of Saturn|Satan Of Saturn||Shooter,Shooter / Space Invaders Like,|1-2||SNK|SNK|1981
-150430|Savage Reign / Fu'un Mokushiroku - Kakutou Sousei|Savage Reign||Fight / Versus,Fight,|1-2||SNK|SNK|1995
-150417|Sengoku / Sengoku Denshou|Sengoku||Fight / Versus,Fight,|1-2||SNK|SNK|1991
-150431|Sengoku 2 / Sengoku Denshou 2|Sengoku 2||Fight / 2D,Fight,|1-2||SNK|SNK|1993
-150143|Sengoku 3 / Sengoku Densho 2001|Sengoku 3||Fight / 2D,Fight,|1-2||Noise Factory|SNK|2001
-145393|Sky Adventure|Sky Adventure||Shoot'em up / Vertical,Shoot'em Up,|1-2||SNK|SNK|1989
-43127A|Sky Soldiers|Sky Soldiers||Shoot'em up / Vertical,Shoot'em Up,|1-2||ADK|ADK|1988
-150271|Stakes Winner / Stakes Winner - Gi Kinzen Seiha E No Michi|Stakes Winner||Horses race,Sports with Animals,|1-2||Saurus Co., Ltd.|Saurus Co., Ltd.|1995
-43392A|Street Smart|Street Smart||Fight,Fight / Co-op,|1-2||SNK|SNK|1989
-42909A|Super Bubble Pop|Super Bubble Pop|||1-2|||Vektorlogic|2004
-145394|Super Champion Baseball|Super Champion Baseball||,Baseball|1-2||SNK|SNK|1989
-150432|Super Sidekicks / Tokuten Ou|Super Sidekicks||Sports / Soccer,Sports,|1-2||SNK|SNK|1992
-150433|Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - Real Fight Football|Super Sidekicks 2 - The World Championship||Sports / Soccer,Sports,|1-2||SNK|SNK|1994
+79117A|Ozma Wars|Ozma Wars||Shooter,Shooter / Space Invaders Like,|2||SNK|SNK|1979
+42487A|P.o.w. - Prisoners Of War|P.o.w. - Prisoners Of War||Fight,Fight / 2.5D,|2||SNK|SNK|1988
+79170A|Paddle Mania|Paddle Mania||Sports,Sports / Tennis,|4||SNK|SNK|1988
+79198A|Pioneer Balloon|Pioneer Balloon||Shoot'em up / Horizontal,Shoot'em Up,|2||SNK|SNK|1982
+42501A|Prehistoric Isle In 1930|Prehistoric Isle In 1930||Shoot'em up / Horizontal,Shoot'em Up,|2||SNK|SNK|1989
+42533A|Psycho Soldier|Psycho Soldier||Platform,Plateform / Fighter Scrolling,|2||SNK|SNK|1987
+150423|Puzzled / Joy Joy Kid|Puzzled||Puzzle-Game / Fall,Puzzle-Game,|2||SNK|SNK|1990
+150428|Real Bout Fatal Fury / Real Bout Garou Densetsu|Real Bout Fatal Fury||Fight / Versus,Fight,|2||SNK|SNK|1995
+150419|Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - The Newcomers|Real Bout Fatal Fury 2 - The Newcomers||Fight / Versus,Fight,|2||SNK|SNK|1998
+150429|Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special|Real Bout Fatal Fury Special||Fight / Versus,Fight,|2||SNK|SNK|1996
+150415|Roads Edge / Round Trip|Roads Edge||Race, Driving,Race 3rd Pers. view,|4||SNK|SNK|1997
+42865A|Safari Rally|Safari Rally||Action / Labyrinth,Race, Driving,Action,|2||SNK|SNK|1979
+42879A|Samurai Shodown - Warrior's Rage / Samurai Spirits 2 - Asura Zanmaden|Samurai Shodown: Warrior's Rage||Fight,Fight / Versus,|2||SNK|SNK|1998
+79409A|Samurai Shodown 64 / Samurai Spirits 64|Samurai Shodown 64||Fight,Fight / Versus,|2||SNK|SNK|1998
+149443|Samurai Shodown V / Samurai Spirits Zero|Samurai Shodown V||Fight / Versus,Fight,|2||Yuki Enterprise|SNK|2003
+150695|Samurai Shodown V Special / Samurai Spirits Zero Special|Samurai Shodown V Special||Fight / Versus,Fight,|2||Yuki Enterprise|SNK|2004
+42947A|Sar - Search And Rescue|Sar - Search And Rescue||Shooter,Shooter / Run and Shoot,|2||SNK|SNK|1989
+42894A|Sasuke Vs. Commander|Sasuke Vs. Commander||Shooter,Shooter / 3rd person,|2||TOSE|SNK|1980
+42895A|Satan Of Saturn|Satan Of Saturn||Shooter,Shooter / Space Invaders Like,|2||SNK|SNK|1981
+150430|Savage Reign / Fu'un Mokushiroku - Kakutou Sousei|Savage Reign||Fight / Versus,Fight,|2||SNK|SNK|1995
+150417|Sengoku / Sengoku Denshou|Sengoku||Fight / Versus,Fight,|2||SNK|SNK|1991
+150431|Sengoku 2 / Sengoku Denshou 2|Sengoku 2||Fight / 2D,Fight,|2||SNK|SNK|1993
+150143|Sengoku 3 / Sengoku Densho 2001|Sengoku 3||Fight / 2D,Fight,|2||Noise Factory|SNK|2001
+145393|Sky Adventure|Sky Adventure||Shoot'em up / Vertical,Shoot'em Up,|2||SNK|SNK|1989
+43127A|Sky Soldiers|Sky Soldiers||Shoot'em up / Vertical,Shoot'em Up,|2||ADK|ADK|1988
+150271|Stakes Winner / Stakes Winner - Gi Kinzen Seiha E No Michi|Stakes Winner||Horses race,Sports with Animals,|2||Saurus Co., Ltd.|Saurus Co., Ltd.|1995
+43392A|Street Smart|Street Smart||Fight,Fight / Co-op,|2||SNK|SNK|1989
+42909A|Super Bubble Pop|Super Bubble Pop|||2|||Vektorlogic|2004
+145394|Super Champion Baseball|Super Champion Baseball||,Baseball|2||SNK|SNK|1989
+150432|Super Sidekicks / Tokuten Ou|Super Sidekicks||Sports / Soccer,Sports,|2||SNK|SNK|1992
+150433|Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - Real Fight Football|Super Sidekicks 2 - The World Championship||Sports / Soccer,Sports,|2||SNK|SNK|1994
 150434|Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - Eikou E No Michi|Super Sidekicks 3 - The Next Glory||Sports / Soccer,Sports,|||SNK|SNK|1995
-43650A|T.n.k 3|T.N.K III|Tank 8|Shooter,Shooter / Vehicle, Vertical,|1-2|||SNK|1985
-43649A|Next Space, The|The Next Space||Shoot'em up / Vertical,Shoot'em Up,|1-2||SNK|SNK|1989
+43650A|T.n.k 3|T.N.K III|Tank 8|Shooter,Shooter / Vehicle, Vertical,|2|||SNK|1985
+43649A|Next Space, The|The Next Space||Shoot'em up / Vertical,Shoot'em Up,|2||SNK|SNK|1989
 43433A|Super Spy, The|The Super Spy||Fight,Various,|1||SNK|SNK|1990
-43622A|Time Soldiers|Time Soldiers||Shooter,Shooter / Run and Shoot,|1-2||ADK|ADK|1987
-43533A|Touchdown Fever|Touchdown Fever||Sports,Sports / Football,|1-4||SNK|SNK|1987
-150435|Ultimate 11 - The Snk Football Championship / Tokuten Ou - Honoo No Libero, The|Ultimate 11 - The SNK Football Championship||Sports / Soccer,Sports,|1-2||SNK|SNK|1996
-43910A|Vanguard|Vanguard|Hangman|Shooter,Shooter / Plane,|1-2||SNK|SNK|1981
-43909A|Vanguard 2|Vanguard II||Shooter,|1-2||SNK|SNK|1984
-43954A|Victory Road|Victory Road||Shooter,Shooter / Run and Shoot,|1-2||SNK|SNK|1986
-44116A|World Wars|World Wars|World Darts|Shoot'em up / Vertical,Shoot'em Up,|1-2||SNK|SNK|1987
+43622A|Time Soldiers|Time Soldiers||Shooter,Shooter / Run and Shoot,|2||ADK|ADK|1987
+43533A|Touchdown Fever|Touchdown Fever||Sports,Sports / Football,|4||SNK|SNK|1987
+150435|Ultimate 11 - The Snk Football Championship / Tokuten Ou - Honoo No Libero, The|Ultimate 11 - The SNK Football Championship||Sports / Soccer,Sports,|2||SNK|SNK|1996
+43910A|Vanguard|Vanguard|Hangman|Shooter,Shooter / Plane,|2||SNK|SNK|1981
+43909A|Vanguard 2|Vanguard II||Shooter,|2||SNK|SNK|1984
+43954A|Victory Road|Victory Road||Shooter,Shooter / Run and Shoot,|2||SNK|SNK|1986
+44116A|World Wars|World Wars|World Darts|Shoot'em up / Vertical,Shoot'em Up,|2||SNK|SNK|1987
 79425A|Xtreme Rally / Off Beat Racer!|Xtreme Rally / Off Beat Racer!||Race, Driving,|||SNK|SNK|1998
 145526|5 Koi - Power Pay|5 Koi - Power Pay|||||||2007
 39907A|50 Lions|50 Lions||Casino,Casino / Slot machine,|1|||Aristocrat|2002
